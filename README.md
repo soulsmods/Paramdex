@@ -31,6 +31,7 @@ Each Field element has a mandatory Def attribute that specifies the type, intern
 <Field Def="dummy8 padding[2]" />
 ```
 Additionally, the following elements may be added to customize editor functionality:  
+
 Element | Description
 --------|------------
 DisplayName | A more human-readable name for the field
@@ -42,6 +43,7 @@ Minimum | The minimum acceptable value
 Maximum | The maximum acceptable value
 Increment | How much to increase or decrease the value per step
 SortID | An arbitrary number that determines display ordering of fields
+
 Any elements not provided will be given sensible default values based on the field's type. Default, Minimum, Maximum, and Increment are always specified as floats, so they are not meaningful for array types.  
 ```xml
 <!-- A fully-loaded declaration -->
@@ -58,6 +60,7 @@ Any elements not provided will be given sensible default values based on the fie
 </Field>
 ```
 All available types are listed below.  
+
 Type | Supports Bit Size | Supports Array Length | Description
 -----|-------------------|-----------------------|------------
 s8 | No | No | One-byte signed int
