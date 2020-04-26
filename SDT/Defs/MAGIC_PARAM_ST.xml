@@ -91,7 +91,5 @@
     <Field Def="s32 refId1 = -1" />
     <Field Def="s32 refId2 = -1" />
     <Field Def="s32 refId3 = -1" />
-    <Field Def="s32 refId4 = -1" />
-    <Field Def="dummy8 pad1[12]" />
   </Fields>
 </PARAMDEF>

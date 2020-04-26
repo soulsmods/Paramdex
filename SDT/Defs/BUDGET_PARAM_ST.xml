@@ -32,6 +32,15 @@
     <Field Def="f32 MemoryBudget23" />
     <Field Def="f32 MemoryBudget24" />
     <Field Def="f32 MemoryBudget25" />
-    <Field Def="dummy8 pad1[28]" />
+    <Field Def="f32 Unk68" />
+    <Field Def="f32 Unk6C" />
+    <Field Def="f32 Unk70" />
+    <Field Def="f32 Unk74" />
+    <Field Def="f32 Unk78" />
+    <Field Def="f32 Unk7C" />
+    <Field Def="f32 Unk80" />
+    <Field Def="f32 Unk84" />
+    <Field Def="f32 Unk88" />
+    <Field Def="dummy8 pad1[20]" />
   </Fields>
 </PARAMDEF>
