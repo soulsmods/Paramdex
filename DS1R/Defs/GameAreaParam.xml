@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<PARAMDEF XmlVersion="0">
+<PARAMDEF XmlVersion="1">
   <ParamType>GAME_AREA_PARAM_ST</ParamType>
-  <Unk06>1</Unk06>
+  <DataVersion>1</DataVersion>
   <BigEndian>False</BigEndian>
   <Unicode>False</Unicode>
-  <Version>104</Version>
+  <FormatVersion>104</FormatVersion>
   <Fields>
     <Field Def="u32 bonusSoul_single">
       <DisplayName>シングル時クリアボーナスソウル量</DisplayName>

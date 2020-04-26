@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<PARAMDEF XmlVersion="0">
+<PARAMDEF XmlVersion="1">
   <ParamType>OBJECT_PARAM_ST</ParamType>
-  <Unk06>1</Unk06>
+  <DataVersion>1</DataVersion>
   <BigEndian>False</BigEndian>
   <Unicode>False</Unicode>
-  <Version>104</Version>
+  <FormatVersion>104</FormatVersion>
   <Fields>
     <Field Def="s16 hp = -1">
       <DisplayName>HP</DisplayName>

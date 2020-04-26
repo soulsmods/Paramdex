@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<PARAMDEF XmlVersion="0">
+<PARAMDEF XmlVersion="1">
   <ParamType>POINT_LIGHT_BANK</ParamType>
-  <Unk06>1</Unk06>
+  <DataVersion>1</DataVersion>
   <BigEndian>False</BigEndian>
   <Unicode>False</Unicode>
-  <Version>104</Version>
+  <FormatVersion>104</FormatVersion>
   <Fields>
     <Field Def="f32 dwindleBegin = 0.5">
       <DisplayName>減衰開始距離[m]</DisplayName>

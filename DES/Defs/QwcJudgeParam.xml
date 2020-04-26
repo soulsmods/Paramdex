@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<PARAMDEF XmlVersion="0">
+<PARAMDEF XmlVersion="1">
   <ParamType>QWC_JUDGE_PARAM_ST</ParamType>
-  <Unk06>1</Unk06>
+  <DataVersion>1</DataVersion>
   <BigEndian>True</BigEndian>
   <Unicode>False</Unicode>
-  <Version>102</Version>
+  <FormatVersion>102</FormatVersion>
   <Fields>
     <Field Def="f32 pcJudgeUnderWB = -200">
       <DisplayName>PC-黒条件（下限）</DisplayName>

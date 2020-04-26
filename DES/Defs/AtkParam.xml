@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<PARAMDEF XmlVersion="0">
+<PARAMDEF XmlVersion="1">
   <ParamType>ATK_PARAM_ST</ParamType>
-  <Unk06>1</Unk06>
+  <DataVersion>1</DataVersion>
   <BigEndian>True</BigEndian>
   <Unicode>False</Unicode>
-  <Version>102</Version>
+  <FormatVersion>102</FormatVersion>
   <Fields>
     <Field Def="dummy8 pad12[4]">
       <DisplayName>パディング12</DisplayName>
