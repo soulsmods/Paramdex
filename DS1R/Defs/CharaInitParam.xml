@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <PARAMDEF XmlVersion="1">
   <ParamType>CHARACTER_INIT_PARAM</ParamType>
-  <DataVersion>1</DataVersion>
+  <DataVersion>2</DataVersion>
   <BigEndian>False</BigEndian>
   <Unicode>False</Unicode>
   <FormatVersion>104</FormatVersion>
