@@ -19,6 +19,17 @@ Bloodborne | BB
 Sekiro | SDT
 
 ## Writing Paramdefs
+All paramdefs should contain the following elements:  
+
+Element | Description
+--------|------------
+ParamType | Correlates the paramdef to its params
+DataVersion | Indicates a revision of the param data structure
+BigEndian | Whether the binary format is big-endian
+Unicode | Whether description strings are encoded in UTF-16
+FormatVersion | Determines the binary format of the paramdef
+Fields | Contains the Field elements that describe param data
+
 Each Field element has a mandatory Def attribute that specifies the type, internal name, bit size or array length if needed, and (optionally) default value. Bit size and array length are written as in a C declaration.  
 ```xml
 <!-- Minimum required info -->
