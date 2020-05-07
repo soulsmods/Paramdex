@@ -12,7 +12,7 @@
     <Field Def="s8 mapID3 = -1" />
     <Field Def="s8 mapID4 = -1" />
     <Field Def="s8 unk1E = -1" />
-    <Field Def="dummy8 pad" />
+    <Field Def="dummy8 pad[1]" />
     <Field Def="fixstrW unk20[32]" />
   </Fields>
 </PARAMDEF>
