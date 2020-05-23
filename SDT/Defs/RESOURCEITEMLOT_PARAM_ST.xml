@@ -6,40 +6,40 @@
   <Unicode>True</Unicode>
   <FormatVersion>201</FormatVersion>
   <Fields>
-    <Field Def="s32 EventFlagId = -1" />
-    <Field Def="s32 GetGoodsItemType1" />
-    <Field Def="s32 GetGoodsItemType2" />
-    <Field Def="s32 GetGoodsItemType3" />
-    <Field Def="s32 GetGoodsItemType4" />
-    <Field Def="s32 GetGoodsItemType5" />
-    <Field Def="s32 GetGoodsItemType6" />
-    <Field Def="s32 GetGoodsItemType7" />
-    <Field Def="s32 GetGoodsItemType8" />
+    <Field Def="s32 getItemFlagId = -1" />
+    <Field Def="s32 lotItemId01 = 99999" />
+    <Field Def="s32 lotItemId02 = 99999" />
+    <Field Def="s32 lotItemId03 = 99999" />
+    <Field Def="s32 lotItemId04 = 99999" />
+    <Field Def="s32 lotItemId05 = 99999" />
+    <Field Def="s32 lotItemId06 = 99999" />
+    <Field Def="s32 lotItemId07 = 99999" />
+    <Field Def="s32 lotItemId08 = 99999" />
     <Field Def="u8 MethodType" />
     <Field Def="dummy8 pad1[7]" />
-    <Field Def="u16 GetGoodsItemId1" />
-    <Field Def="u16 GetGoodsItemId2" />
-    <Field Def="u16 GetGoodsItemId3" />
-    <Field Def="u16 GetGoodsItemId4" />
-    <Field Def="u16 GetGoodsItemId5" />
-    <Field Def="u16 GetGoodsItemId6" />
-    <Field Def="u16 GetGoodsItemId7" />
-    <Field Def="u16 GetGoodsItemId8" />
-    <Field Def="u16 GetGoodsItemNum1" />
-    <Field Def="u16 GetGoodsItemNum2" />
-    <Field Def="u16 GetGoodsItemNum3" />
-    <Field Def="u16 GetGoodsItemNum4" />
-    <Field Def="u16 GetGoodsItemNum5" />
-    <Field Def="u16 GetGoodsItemNum6" />
-    <Field Def="u16 GetGoodsItemNum7" />
-    <Field Def="u16 GetGoodsItemNum8" />
-    <Field Def="u8 GetGoodsIsEnable1" />
-    <Field Def="u8 GetGoodsIsEnable2" />
-    <Field Def="u8 GetGoodsIsEnable3" />
-    <Field Def="u8 GetGoodsIsEnable4" />
-    <Field Def="u8 GetGoodsIsEnable5" />
-    <Field Def="u8 GetGoodsIsEnable6" />
-    <Field Def="u8 GetGoodsIsEnable7" />
-    <Field Def="u8 GetGoodsIsEnable8" />
+    <Field Def="u16 lotItemBasePoint01" />
+    <Field Def="u16 lotItemBasePoint02" />
+    <Field Def="u16 lotItemBasePoint03" />
+    <Field Def="u16 lotItemBasePoint04" />
+    <Field Def="u16 lotItemBasePoint05" />
+    <Field Def="u16 lotItemBasePoint06" />
+    <Field Def="u16 lotItemBasePoint07" />
+    <Field Def="u16 lotItemBasePoint08" />
+    <Field Def="u16 lotItemNum01" />
+    <Field Def="u16 lotItemNum02" />
+    <Field Def="u16 lotItemNum03" />
+    <Field Def="u16 lotItemNum04" />
+    <Field Def="u16 lotItemNum05" />
+    <Field Def="u16 lotItemNum06" />
+    <Field Def="u16 lotItemNum07" />
+    <Field Def="u16 lotItemNum08" />
+    <Field Def="u8 enableLuck01" />
+    <Field Def="u8 enableLuck02" />
+    <Field Def="u8 enableLuck03" />
+    <Field Def="u8 enableLuck04" />
+    <Field Def="u8 enableLuck05" />
+    <Field Def="u8 enableLuck06" />
+    <Field Def="u8 enableLuck07" />
+    <Field Def="u8 enableLuck08" />
   </Fields>
 </PARAMDEF>
