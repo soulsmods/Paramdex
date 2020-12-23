@@ -128,15 +128,15 @@
     <Field Def="u8 simpleModelForDlc:1" />
     <Field Def="u8 ubyteLanternWep:1" />
     <Field Def="u8 isVersusGhostWep:1" />
-    <Field Def="u8 baseChangeCategory:1" />
+    <Field Def="u8 baseChangeCategory:6 = 0">
+      <Enum>WEP_BASE_CHANGE_CATEGORY</Enum>
+      <EditFlags>None</EditFlags>
+      <Minimum>0</Minimum>
+      <Maximum>16</Maximum>
+    </Field>
     <Field Def="u8 isDragonSlayer:1" />
     <Field Def="u8 isDeposit:1" />
     <Field Def="u8 disableMultiDropShare:1" />
-    <Field Def="u8 Bool1:1" />
-    <Field Def="u8 Bool2:1" />
-    <Field Def="u8 DisableShoot:1" />
-    <Field Def="u8 EnableRepository:1 = 1" />
-    <Field Def="u8 DisableMultiDropShare2:1" />
     <Field Def="u8 IsDiscard:1 = 1" />
     <Field Def="u8 IsDrop:1 = 1" />
     <Field Def="u8 Bool3:1" />
