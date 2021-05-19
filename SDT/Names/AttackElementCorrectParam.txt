@@ -1,0 +1,56 @@
+0 Default (for testing)
+10 Test: Use weapons to thunder strength and skill
+1000 Molotov cocktail
+1001 Thunder bottle
+1002 Holy water bottle
+1010 Throw knife
+1020 Crown stone
+1030 Long body stone Lvl2
+10000 Weapons: usually
+10014 Weapon: Holy Regen
+10015 Weapon: transport correction
+12000 Weapon: Cardinal Spear
+13000 Weapon: Sullivan&#39;s Longbow
+15000 Weapon: Blue Astra Straight Sword
+20000 Magic-equal times
+20100 Magic-low magnification (0.8)
+20110 Magic-low magnification (0.87)
+20120 Magic-low magnification (0.95)
+20200 Magic-high magnification (1.1)
+20210 Magic-high magnification (1.2)
+30000 呪术- low magnification (0.8)
+32010 Jujutsu-Rock Spit
+42060 Miracle-Sacred Storm
+42070 Miracle-God&#39;s Wrath
+42080 Miracle-The Force Unleashed
+10010000 Dark wand
+10010010 Dark Talisman
+10010020 Dark tin
+10010030 Magic miracle tin
+10041000 Dragon&#39;s messenger&#39;s sword (Moonlight of the missing moon) _Arts one shot (magical power)
+10061700 The Great Sword of the Old King of Eating (Blue) _ Derived from the Arts Position R2 (Magic Power)
+10062700 Twin Prince Combined Sword_Arts Position Derived R2 (Flame)
+10063200 Moonlight Great Sword_Normal Reservoir (Magic Power)
+10063210 Moonlight Great Sword_Arts One Shot (Magic Power)
+10063400 Las Boss Sword_Arts One Shot (Flame)
+10062600 Oversized sword of the two princes (elder brother) _ stepping on the arts (flame)
+10071200 Firewood Demon_Arts One Shot (Flame)
+10071100 Dragon Guardian Knight&#39;s Ax_Arts One Shot (Lightning)
+10081700 Gargoyle Torch_Arts Patience Derived R2 (Flame)
+10081900 Ash Demon Otsuchi_Arts Patience Derived R2 (Flame)
+10091800 Cardinal Spear (Physical Faith)
+10091814 Cardinal Spear (Physical Faith): Sacred Derivation
+10091815 Cardinal Spear (Physical Faith): Derived from the Dead
+10092200 Dragon Hunting Spear_Arts Assault (Lightning)
+10091100 Gargoyle Spear_Arts Assault R2 Derived (Flame)
+10091600 Storm King&#39;s Sword Spear_Arts One Shot (Lightning)
+10101600 Moonlight Witch&#39;s Spear_Arts One Shot (Flame)
+10110300 Firewood Demon Knuckle_Arts Rotation (Flame)
+10110310 Firewood Demon Knuckle_Arts Rotation Derived R2 (Flame)
+10131000 Maggot&#39;s staff (with luck as magic)
+10131100 Cardinal wand (faith as magic)
+10131200 Sullivan&#39;s Spear (Faith to Magic)
+10141300 Sullivan&#39;s Longbow_Arts One Shot (Magic)
+10160400 Tracker&#39;s dual wield sword_right hand (magical power)
+10160410 Tracker&#39;s dual wield sword_left hand (flame)
+10160420 Tracker&#39;s dual wield sword_left hand (for weapon side display)

@@ -1,0 +1,261 @@
+0 for test
+1980 Form fee acquisition &amp; acquisition rate UP test
+1985 Resurrection right acquisition &amp; acquisition amount UP test 1
+1986 Resurrection right acquisition &amp; acquisition amount UP test 2
+1000000 Samurai residence_100% white charge_00
+1000010 Samurai residence_100% white charge_01
+1000020 Samurai residence_100% white charge_02
+1000030 Samurai residence_100% white charge_03
+1000040 Samurai residence_100% white charge_04
+1000050 Samurai residence_100% white charge_05
+1000060 Samurai residence_100% white charge_06
+1000070 Samurai residence_100% white charge_07
+1000080 Samurai residence_100% white charge_08
+1100000 Castle_white _100% _00
+1100010 Castle_white _100% _01
+1100020 Castle_white _100% _02
+1100030 Castle_white _100% _03
+1100040 Castle_white _100% _04
+1100050 Castle_white _100% _05
+1100060 Castle_white _100% _06
+1100070 Castle_white _100% _07
+1100080 Castle_white _100% _08
+1100090 Castle_white _100% _09
+1100100 Castle_white _100% _10
+1100900 Castle_white _100% _03
+1100910 Castle_white _100% _03
+1110000 Honjo_Shirokatayo 100% _00
+1110010 Honjo_Shirokatayo 100% _01
+1110020 Honjo_Shirokatayo 100% _02
+1110030 Honjo_Shirokatayo 100% _03
+1110040 Honjo_Shirokatayo 100% _04
+1110050 Honjo_Shirokatayo 100% _05
+1110051 Honjo_Shirokatayo 100% _06
+1110052 Honjo_Shirokatayo 100% _07
+1110053 Honjo_Shirokatayo 100% _08
+1120000 Hidden prison_white charge 100% _00
+1120010 Hidden prison_white charge 100% _01
+1120020 Hidden prison_white charge 100% _02
+1300000 Underground prison_White Form Generation 100%_00
+1300010 Underground prison _ Bai Xing Dai 100% _01
+1300020 Underground Prison_White Form Generation 100%_02
+1300030 Underground Prison_White Form Generation 100%_03
+1300040 Underground prison_White Form Generation 100%_04
+1300050 Underground prison_White Form Generation 100%_05
+1500000 Illness Village_White 100% _00
+1500010 Illness Village_White 100% _00
+1500020 Illness Village_White 100% _00
+1500030 Illness Village_White 100% _00
+1500040 Illness Village_White 100% _00
+1500050 Illness Village_White 100% _00
+1500060 Illness Village_White 100% _00
+1500070 Illness Village_White 100% _00
+1500080 Illness Village_White 100% _00
+1500090 Illness Village_White 100% _00
+1500100 Illness Village_White 100% _00
+1500110 Illness Village_White 100% _00
+1500120 Illness Village_White 100% _00
+1500130 Illness Village_White 100% _00
+1700000 Canyon_white sill 100% _00
+1700010 Canyon_white sill 100% _00
+1700020 Canyon_white sill 100% _00
+1700030 Canyon_white sill 100% _00
+1700040 Canyon_white sill 100% _00
+1700050 Canyon_white sill 100% _00
+1700060 Canyon_white sill 100% _00
+1700070 Canyon_white sill 100% _00
+1700080 Canyon_white sill 100% _00
+1700090 Canyon_white sill 100% _00
+1700100 Canyon_white sill 100% _00
+1700110 Canyon_white sill 100% _00
+1700120 Canyon_white sill 100% _00
+1700130 Canyon_white sill 100% _00
+1700140 Canyon_white sill 100% _00
+1700150 Canyon_white sill 100% _00
+1700160 Canyon_white sill 100% _00
+1700170 Canyon_white sill 100% _00
+1700180 Canyon_white sill 100% _00
+1700190 Canyon_white sill 100% _00
+1700200 Canyon_white sill 100% _00
+1700210 Canyon_white sill 100% _00
+1700220 Canyon_white sill 100% _00
+1700230 Canyon_white sill 100% _00
+2000000 Temple_white _100% _00
+2000010 Temple_white _100% _00
+2000020 Temple_white _100% _00
+2000030 Temple_white _100% _00
+2000040 Temple_white _100% _00
+2000050 Temple_white _100% _00
+2000060 Temple_white _100% _00
+2000070 Temple_white _100% _00
+2000080 Temple_white _100% _00
+2000090 Temple_white _100% _00
+2000100 Temple_white _100% _00
+2000110 Temple_white _100% _00
+2000120 Temple_white _100% _00
+2000130 Temple_white _100% _00
+2000140 Temple_white _100% _00
+2000150 Temple_white _100% _00
+2000160 Temple_white _100% _00
+2000170 Temple_white _100% _00
+2000180 Temple_white _100% _00
+2000190 Temple_white _100% _00
+2000200 Temple_white _100% _00
+2000210 Temple_white _100% _00
+2000220 Temple_white _100% _00
+2000230 Temple_white _100% _00
+2000240 Temple_white _100% _00
+2000250 Temple_white _100% _00
+2000260 Temple_white _100% _00
+2000270 Temple_white _100% _00
+2000280 Temple_white _100% _00
+2000290 Temple_white _100% _00
+2000300 Temple_white _100% _00
+2000310 Temple_white _100% _00
+2500000 Submerged capital_white form 100% _00
+2500010 Submerged capital_white form 100% _00
+2500020 Submerged capital_white form 100% _00
+2500030 Submerged capital_white form 100% _00
+2500040 Submerged capital_white form 100% _00
+2500050 Submerged capital_white form 100% _00
+2500060 Submerged capital_white form 100% _00
+2500070 Submerged capital_white form 100% _00
+2500080 Submerged capital_white form 100% _00
+2500090 Submerged capital_white form 100% _00
+2500100 Submerged capital_white form 100% _00
+2500110 Submerged capital_white form 100% _00
+2500120 Submerged capital_white form 100% _00
+2500130 Submerged capital_white form 100% _00
+2500140 Submerged capital_white form 100% _00
+9620000 1stPlayable_白形代100%_00
+9620010 1stPlayable_白形代100%_01
+9620020 1stPlayable_白形代100%_02
+9620030 1stPlayable_白形代100%_03
+9620040 1stPlayable_白形代100%_04
+9620050 1stPlayable_白形代100%_05
+9620060 1stPlayable_白形代100%_06
+9620070 1stPlayable_白形代100%_07
+9620080 1stPlayable_白形代100%_08
+9620090 1stPlayable_白形代100%_09
+9620100 1stPlayable_白形代100%_10
+9620110 1stPlayable_白形代100%_11
+9620120 1stPlayable_白形代100%_12
+9620130 1stPlayable_白形代100%_13
+9620140 1stPlayable_白形代100%_14
+9620150 1stPlayable_白形代100%_15
+9620160 1stPlayable_白形代100%_16
+9620170 1stPlayable_白形代100%_17
+9620180 1stPlayable_白形代100%_18
+9620190 1stPlayable_白形代100%_19
+9620200 1stPlayable_白形代100%_20
+9620210 1stPlayable_白形代100%_21
+9620220 1stPlayable_白形代100%_22
+9620230 1stPlayable_白形代100%_23
+9620240 1stPlayable_白形代100%_24
+9620250 1stPlayable_白形代100%_25
+9620260 1stPlayable_白形代100%_26
+9620270 1stPlayable_白形代100%_27
+9620280 1stPlayable_白形代100%_28
+9620900 1stPlayable_白形代100%_Unlimited
+9623000 1st Playable_Red color 100% _00
+9623010 1st Playable_ Red form 100% _01
+9623020 1st Playable_ Red form 100% _02
+9623030 1st Playable_ Red form 100% _03
+9623040 1st Playable_ Red form 100% _04
+9623050 1st Playable_ Red form 100% _05
+9623900 1stPlayable_Red Form 100%_Unlimited
+9626000 1stPlayable_青形代100%_00
+9626010 1stPlayable_青形代100%_01
+9626020 1stPlayable_青形代100%_02
+9626030 1stPlayable_青形代100%_03
+9626040 1stPlayable_青形代100%_04
+9626050 1stPlayable_青形代100%_05
+9626060 1stPlayable_青形代100%_06
+9626070 1stPlayable_青形代100%_07
+9626080 1stPlayable_青形代100%_08
+9626090 1stPlayable_青形代100%_09
+9626100 1stPlayable_青形代100%_10
+9626110 1stPlayable_青形代100%_11
+9626120 1stPlayable_青形代100%_12
+9626130 1stPlayable_青形代100%_13
+9626140 1stPlayable_青形代100%_14
+9626150 1stPlayable_青形代100%_15
+9626160 1stPlayable_青形代100%_16
+9626900 1stPlayable_Green Form Generation 100%_Unlimited
+10000000 Swashbuckler fish
+10000010 Swashbuckler [Strong]
+10000020 Swashbuckler [weak]
+10000090 Swashbuckler _GC
+10000100 Swashbuckler
+10000190 Swashbuckler _GC
+10000200 Long-distance small fish
+10000290 Long-distance fish_GC
+10000300 Long-range strong enemy
+10000400 animal
+10000410 Animal【strong】
+10000500 Alert enemy
+10000590 Alert enemy_GC
+10000600 Gimmick enemy
+10000800 Bonus for slaughter of enemies with 1 or more slaughter
+10000900 Medium boss
+10005000 Swashbuckler fish
+10005001 Swashbuckler fish
+10005010 Swashbuckler [Strong]
+10005011 Swashbuckler [Strong]
+10005020 Swashbuckler [weak]
+10005021 Swashbuckler [weak]
+10005100 Swashbuckler
+10005101 Swashbuckler
+10005200 Long-distance small fish
+10005201 Long-distance small fish
+10005300 Long-range strong enemy
+10005301 Long-range strong enemy
+10005400 animal
+10005401 animal
+10005410 Animal【strong】
+10005411 Animal【strong】
+10005500 Alert enemy
+10005501 Alert enemy
+10005600 Gimmick enemy
+10005601 Gimmick enemy
+10005800 Bonus for slaughter of enemies with 1 or more slaughter
+10005801 Bonus for slaughter of enemies with 1 or more slaughter
+10005900 Medium boss
+10005901 Medium boss
+10200000 c1020_Samurai General
+10200010 c1020_Samurai General_Jinhaori
+10205000 c1020_Samurai General
+10205010 c1020_Samurai General_Jinhaori
+10400000 c1040_ Centipede size
+10405000 c1040_ Centipede size
+10700000 c1070_ Asura Servant
+10705000 c1070_ Asura Servant
+10800000 c1080_ Seven-sided warrior
+10805000 c1080_ Seven-sided warrior
+11300000 c1130_ Nanban armor
+11305000 c1130_ Nanban armor
+13500000 c1350_ neckless
+13505000 c1350_ neckless
+13700000 c1370_fire cow
+13705000 c1370_fire cow
+50200000 c5020_ Caucasian slave
+50205000 c5020_ Caucasian slave
+70000000 c7000_ female player
+70005000 c7000_ female player
+999999100 [For mounting test] 100% red shape
+999999110 [For mounting test] 50% red shape
+999999120 [For mounting test] 20% red
+999999130 [For mounting test] Red or blue
+999999140 [For mounting test] 0 to 7 white shapes
+999999150 [For mounting test] 1/3 of the blue shape
+999999151 [For mounting test] 2/3 blue shape
+999999152 [For mounting test] 3/3 blue-shaped charges
+999999160 [For mounting test] 1/3 of red, blue and white
+999999161 [For mounting test] Red, blue, white, 2/3 pieces
+999999162 [For mounting test] Red, blue, white, 3/3 pieces
+999999170 [For mounting test] 1/3 random red, blue and white
+999999171 [For mounting test] Red Blue White Random 2/3 pieces
+999999172 [For mounting test] Red, blue, white, random 3/3 pieces
+999999180 [For implementation test] White form _ Acquired flag ID 9170
+999999190 [For mounting test] 99 white shapes
+999999200 [For mounting test] Off

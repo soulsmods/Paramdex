@@ -1,0 +1,56 @@
+0 Normal
+20 Normal_Looking up slope
+22 Usually
+100 Crouching
+104 Crouching_underfloor
+100 Crouching_Looking up on the slope
+200 With wall
+300 Peeping _ left
+400 Peeping _ right
+500 Hanging
+521 Hanging_Hidden Prison Bridge_Eavesdropping
+700 Resurrection standby
+800 knock back
+900 Wire landing
+903 Wire landing_up
+1000 In the air
+1600 Aerial_wire injection
+1700 Air_wire movement
+1703 Air_wire movement_up
+1800 Aerial_just before wire landing
+1803 Aerial_just before wire landing_up
+2000 On the water
+2100 Water_acceleration
+2600 Water_wire injection
+3000 In the water
+3100 Underwater_Acceleration
+3200 Underwater_rise
+3300 Underwater_acceleration of climb
+3400 Underwater_Drop
+3500 Underwater_descent acceleration
+4000 Throwing
+4300 Water → water
+4400 Water → water
+5000 Caucasian slave_thrown
+5001 Caucasian slave_throwed_fall
+5100 Yasha Ape_HU Front_Camera for heavy attack
+5101 Yasha Ape _ After HU_ Close Quarters Battle Camera
+7200 Prince test camera
+9998 test
+10000 m96_20: Giant straw doll area camera
+59210 Temple_overlooking allowed
+5080000 Cavalry Warrior_Normal
+5080001 Cavalry Warrior_Normal_Crouching
+5080007 Cavalry Warrior_Normal_Resurrection Waiting
+5090100 Butterfly_Attack that moves sharply from side to side
+5090101 Butterflies_Attack that moves sharply from side to side_Crouching
+5090107 Butterfly _ Attack that moves sharply from side to side _ Waiting for resurrection
+5200000 Mermaid Dragon_Normal
+5200001 Mermaid Dragon_Crouching
+5200007 Mermaid Dragon_Resurrection Waiting
+5200009 Mermaid Dragon_Wire Landing
+5200010 Mermaid Dragon_Aerial
+5200016 Mermaid Dragon_Aerial_Wire Injection
+5200017 Mermaid Dragon_Aerial_Wire Movement
+5200018 Mermaid Dragon_Aerial_Immediately before wire landing
+5200110 Mermaid Dragon_Storm Jump Near the Top_Aerial

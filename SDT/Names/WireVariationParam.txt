@@ -1,0 +1,45 @@
+0 Ride _ no limit
+1 Ride _ vertical and horizontal restrictions
+2 Ride _ vertical limit
+3 Ride _ horizontal limit
+5 Ride _ vertical and horizontal restrictions _ extension 10
+20 I can&#39;t ride _ no limit
+21 I can&#39;t ride _ vertical and horizontal restrictions
+22 I can&#39;t ride _ vertical limit
+23 I can&#39;t ride _ horizontal limit
+24 I can&#39;t ride _ Castle Snake Valley
+40 Kite _ temple ← → canyon
+41 Kite_Honjo_Honmaru ← → Honjo_Outer
+45 Tentacle scaffolding_mermaid dragon battle
+10700 c1070_ Shura Servant 0
+10701 c1070_ Asura Servant 1
+10702 c1070_ Asura Servant 2
+10800 c1080_ Seven-sided warrior 0
+10801 c1080_ Seven-sided warrior 1
+10802 c1080_ Seven-sided warrior 2
+11800 c1180_ next male
+13700 c1370 fire ox special use 0
+13701 c1370 fire ox special use 1
+50200 c5020 Red Demon Only 0
+50201 c5020 Red Demon Only 1
+50202 c5020 Red Demon Only 2
+50600 c5060_ Ninja Army Chief 0
+50601 c5060_ Ninja Army Chief 1
+50602 c5060_ Ninja Army Chief 2
+50800 c5080 Cavalry warrior only 0
+50801 c5080 Cavalry Warrior Only 1
+50802 c5080 Cavalry Warrior Only 2
+50803 c5080 Cavalry Warrior Only 3
+50804 c5080 Cavalry Warrior Only 4
+51000 c5100 For Yasha Ape only
+52000 c5200 Mermaid Dragon Only 0
+52001 c5200 Mermaid Dragon Only 1
+52005 c5200 Mermaid Dragon Only 5
+52006 c5200 Mermaid Dragon Only 6
+53100 c5310 tentacle
+53200 c5320 Okiryu (Large) Exclusive 0
+53201 c5320 Okiryu (Large) Exclusive 1
+53202 c5320 Okiryu (Large) Exclusive 2
+70200 c7020 Only for Buddhist demons 0
+70201 c7020 Buddhist demon only 1
+70210 c7021 Demon Buddha only

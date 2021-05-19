@@ -1,0 +1,1862 @@
+0 test_param0
+1 Knight Test_Recovery Medicine x 1 [Confirmed] Weapon Material
+2 Simulator test
+10 100% appearance test item
+1000 1st_ drop umbrella
+1010 1st_Bead Fragment
+1020 1st_Bead Fragment
+1030 1st_Whetstone powder
+1040 1st_Whetstone powder
+1050 1st_Whetstone powder
+1060 1st_Bead Fragment
+1070 1st_Whetstone powder
+1140 1st_Whetstone powder
+1500 1st_Bead Fragment
+1510 1st_fire
+1520 1st_Recovery slot expansion material
+1530 1st_Recovery slot expansion material
+1550 1st_Firecracker
+1560 1st_Bead Fragment
+1980 Item acquisition &amp; acquisition rate UP test (death)
+1990 Item acquisition &amp; acquisition rate UP test (enemy turning)
+2000 Castle cavalry warrior drop
+2001 Castle cavalry warrior drop
+2002 Castle cavalry warrior drop
+2010 Valley Yasha No Monkey Neck (First time: Bodhisattva) Drop
+2011 Valley Yasha No Monkey Neck (First time: Bodhisattva) Drop
+2012 Valley Yasha No Monkey Neck (First time: Bodhisattva) Drop
+2014 Defeat Yasha Ape Neckless in the lower layer of the canyon
+2015 Defeat Yasha Ape Neckless in the lower layer of the canyon
+2016 Defeat Yasha Ape Neckless in the lower layer of the canyon
+2017 Defeat Yasha Ape Neckless in the lower layer of the canyon
+2018 Defeat Yasha Ape Neckless in the lower layer of the canyon
+2020 Temple Chigo Monkey Drop
+2021 Temple Chigo Monkey Drop
+2022 Temple Chigo Monkey Drop
+2030 Samurai residence butterfly drop
+2031 Samurai residence butterfly drop
+2032 Samurai residence butterfly drop
+2040 Castle Buddhist Master (Oni) Drop
+2041 Castle Buddhist Master (Oni) Drop
+2042 Castle Buddhist Master (Oni) Drop
+2050 Sick Village Hakai Monk (Phantom) Drop
+2051 Sick Village Hakai Monk (Phantom) Drop
+2052 Sick Village Hakai Monk (Phantom) Drop
+2060 Submerged City Hakai Monk Drop
+2061 Submerged City Hakai Monk Drop
+2062 Submerged City Hakai Monk Drop
+2070 Submerged City Mermaid Dragon Drop
+2071 Submerged City Mermaid Dragon Drop
+2072 Submerged City Mermaid Dragon Drop
+2080 Honjo Rival Drop
+2081 Honjo Rival Drop
+2082 Honjo Rival Drop
+2090 Honjo Ninja Army Chief Drop
+2091 Honjo Ninja Army Chief Drop
+2092 Honjo Ninja Army Chief Drop
+2100 Samurai Residence Ninja Army Chief Drop
+2101 Samurai Residence Ninja Army Chief Drop
+2102 Samurai Residence Ninja Army Chief Drop
+2120 Defeat Honjo Sword Holy
+2121 Defeat Honjo Sword Holy
+2122 Defeat Honjo Sword Holy
+2130 Hidden Prison Defeat the Revived Sword Holy
+2131 Hidden Prison Defeat the Revived Sword Holy
+2132 Hidden Prison Defeat the Revived Sword Holy
+2200 Lower layer of the valley Yasha Ape Neckless Kaishakunin (Immortal Slasher Todome)
+2499 Resurrection right complete recovery
+3000 Knife
+3001 Sword_key item
+3010 α (end of 11) _ Resurrection technique
+3011 α (end of 11) _temporary revival right
+3015 α (End of 11) _ hand cut
+3020 α (end of 11) _ Immortal sword
+3030 α (end of 11) _ pill prescription
+3040 α (End of 11)_Night Eyes
+3050 VP version_pills (regeneration)
+3060 VP version_left hand prosthesis_valuables
+3070 Left hand artificial limb _ armor
+3080 There is a sword on the waist and there is no immortal slash on the back
+3090 There is a sword on the waist and there is an immortal sword on the back
+3100 Mystery Book Lifting School Technique: Eight Flying Rush
+3200 Kodachi hint
+3210 Finger whistle strengthening tips
+3220 Transformation tips
+3300 Hard mode amulet
+3400 Bell demon _ noon
+3410 Bell demon _ evening
+3420 Bell demon _ night
+3430 Bell Ghost_Zhong Xiao
+3500 Dragon Cough Curse_Busshi
+3510 Dragon Cough Curse_Seller Bandit
+3520 Dragon Cough Curse_White Rappa
+3530 Dragon cough curse _ kidnapped younger man
+3540 Dragon Cough Curse _ Fascinated Samurai
+3550 Dragon Cough Curse_Immortal Experiment Doctor
+3600 Curse of Dragon Cough_Suzu Auntie&#39;s Son
+3610 Dragon Cough Curse_Decent Villager
+3650 Dragon Cough Curse_Suzu
+3660 Dragon Cough Curse_Yao Hioka
+3700 Dragon Cough Curse_Crow&#39;s Bed Tomb Fishing
+3710 Dragon Cough Curse_ Grave Fishing Near the Battlefield
+3720 Dragon Cough Curse_Tomb Fishing in Front of Abandoned Prison
+3730 Dragon Cough Curse_Snake Burrow Grave Fishing
+3740 Dragon Cough Curse_ Shugendo Tomb Fishing
+3750 Dragon Cough Curse _ Cliff Road Grave Fishing
+3760 Dragon Cough Curse_Araji Shop Clerk
+3800 Mask_finished product
+5000 Bandit Reward
+5010 Tomb King&#39;s Eyes
+5020 Pledge Berserker Reward
+5030 Proof of friendship of the sun
+5040 Dragon scales
+5200 Humanity 2pt 100%
+5210 Humanity 3pt 100%
+5220 Human sex 6pt 100%
+5230 Humanity 10pt 100%
+5240 Humanity 20pt 100%
+5250 Humanity 30pt 100%
+5260 Humanity 40pt 100%
+5270 Humanity 50pt 100%
+5280 Humanity 100pt 100%
+5500 Dark spirit defeat reward
+5510 White Spirit Multi Success Reward
+5520 Reward for defeating the intruder spirit / red sign spirit host
+5530 Dark Spirit / Rosalia Red Spirit Reward for defeating the host
+5540 Dark Spirit / Rosalia Red Spirit Red Scare Spirit Defeat Reward
+5550 Red Scare Spirit (1, 2) Reward for defeating invading spirits and red sign spirits
+5560 Red Berserker (Intrusion) Self-Killing Reward
+5570 Special reward for Red Scare Spirit (1)
+5580 Map Guardian Spirit (Forest) Reward for defeating the host
+5590 Map Guardian Spirit (Forest) Defeat Reward
+5600 Map Guardian Spirit (Anor) Reward for defeating the host
+5610 Map Guardian Spirit (Anor) Defeat Reward
+9000 Human nature
+9010 Human nature x4
+9020 Human nature twins
+9030 Return bone fragment
+10000 Level Up Reward_Default
+10100 Level-up reward_Lv010
+20000 Remaining machine 00_Miscellaneous fish A
+20010 Remaining machine 01_Miscellaneous fish A
+20020 Remaining machine 02_Miscellaneous fish A
+20030 Remaining machine 03_Miscellaneous fish A
+20040 Remaining machine 04_Miscellaneous fish A
+20050 Remaining machine 05_Miscellaneous fish A
+21000 Canji 00_Strong Enemy A
+21010 Canji 01_Strong Enemy A
+21020 Can Ji 02_Strong Enemy A
+21030 Can Ji 03_Strong Enemy A
+51000 Buddhist priest
+51100 Prince
+51200 Ninja Army Chief
+51300 Combat tutorial NPC
+51400 White Rappa_Honjo
+51410 White Rappa_Kite Flying Ground
+51420 White Rappa_ Training Ground
+51430 White Rappa_When the event is completed
+51500 Female player
+51600 Suzubaa_Modern
+51610 Suzubaa_Samurai Residence
+51700 Selling bandits
+51710 Selling bandits _ Survival after the Tokugawa invasion
+51800 Suzuba&#39;s son
+51810 Suzuba&#39;s son _ After clearing the samurai residence
+51820 Suzuba&#39;s son_Samurai residence
+52000 Lookout turret woman
+52100 Swordsman
+52200 Chigo
+52300 Daughter of Isei
+52400 Kensei
+52500 Giants Innsmouth
+52501 Giants Innsmouth
+52600 The kidnapped younger man
+52610 The kidnapped young man_infinite corridor
+52620 With the kidnapped younger man_Anayama
+52630 The kidnapped younger man _ Tokugawa invasion death
+52640 The kidnapped young man _ immortal experiment crucifixion
+52650 The kidnapped younger man_immortality experiment completed
+52700 A decent villager
+52710 A decent villager_zombie
+52800 Sick village priest
+52810 Sick Village Kannushi_Innsmouth Defeat Reward
+52900 Eight hundred bhikuni
+53000 Fascinated Samurai_Abandoned Prison
+53010 Fascinated Samurai_Dungeon
+53020 Fascinated Samurai_Sick Village Entrance
+53030 Fascinated Samurai_In front of the Sick Village Square
+53040 Fascinated Samurai_Immortal Experiment Crucifixion
+53050 Enchanted Samurai_Immortality Experiment Completed
+53100 Immortal Experiment Doctor
+53110 Immortal Experiment Doctor_Final Stage
+53120 Immortal Experiment Doctor_Prison
+53200 Instant
+53300 rival
+53400 Butterflies
+53500 Horse-riding warrior
+53600 Scale shop_Samurai residence_Vase
+53610 Scale shop_Samurai residence_Carp
+53650 Scale shop_submerged city_pot
+53660 Scale shop_submerged city_carp
+54100 Crow bed grave fishing
+54200 Tomb fishing near the battlefield
+54300 Tomb fishing in front of abandoned prison
+54400 Snake burrow grave fishing
+54500 Shugendo grave fishing
+54600 Cliff road grave fishing
+54700 Araji shop clerk_Honjo
+54710 Araji Shop Clerk_Castle
+54800 Captive temple miscellaneous fish
+55000 Nanban armor
+60000 Demon Buddha_Purchase the remaining machine
+60100 After selecting Demon Buddha_PU Enhancement
+60110 After selecting Demon Buddha_PU Enhancement
+60120 After selecting Demon Buddha_PU Enhancement
+60130 After selecting Demon Buddha_PU Enhancement
+60140 After selecting Demon Buddha_PU Enhancement
+60150 After selecting Demon Buddha_PU Enhancement
+60160 After selecting Demon Buddha_PU Enhancement
+60170 After selecting Demon Buddha_PU Enhancement
+60180 After selecting Demon Buddha_PU Enhancement
+60190 After selecting Demon Buddha_PU Enhancement
+60200 After selecting Demon Buddha_PU Enhancement
+60210 After selecting Demon Buddha_PU Enhancement
+60211 After selecting Demon Buddha_PU Enhancement
+60220 After selecting Demon Buddha_PU Enhancement
+60221 After selecting Demon Buddha_PU Enhancement
+60230 After selecting Demon Buddha_PU Enhancement
+60231 After selecting Demon Buddha_PU Enhancement
+60240 After selecting Demon Buddha_PU Enhancement
+60241 After selecting Demon Buddha_PU Enhancement
+60250 After selecting Demon Buddha_PU Enhancement
+60251 After selecting Demon Buddha_PU Enhancement
+60260 After selecting Demon Buddha_PU Enhancement
+60261 After selecting Demon Buddha_PU Enhancement
+60270 After selecting Demon Buddha_PU Enhancement
+60271 After selecting Demon Buddha_PU Enhancement
+60280 After selecting Demon Buddha_PU Enhancement
+60281 After selecting Demon Buddha_PU Enhancement
+60290 After selecting Demon Buddha_PU Enhancement
+60291 After selecting Demon Buddha_PU Enhancement
+60300 After selecting Demon Buddha_PU Enhancement
+60301 After selecting Demon Buddha_PU Enhancement
+60310 After selecting Demon Buddha_PU Enhancement
+60311 After selecting Demon Buddha_PU Enhancement
+60320 After selecting Demon Buddha_PU Enhancement
+60321 After selecting Demon Buddha_PU Enhancement
+60330 After selecting Demon Buddha_PU Enhancement
+60331 After selecting Demon Buddha_PU Enhancement
+60340 After selecting Demon Buddha_PU Enhancement
+60341 After selecting Demon Buddha_PU Enhancement
+61000 Buddhist _ Ninja style Mystery condition met
+61004 Buddhist _ Ninja style Mystery condition met
+61006 Buddhist _ Hard mode OFF _ Amulet
+61007 Busshi_When hard mode is OFF
+61100 Prince_Tsukimi turret
+61102 Prince_Meditation Room_Censer Look up and get a conversation
+61104 Prince_Meditation Room_Ohagi
+61106 Prince_Meditation Room_Get when you talk about your child&#39;s blood
+61108 Prince _ meditation room _ If the prince teaches you about stones
+61110 You can get it when you hear about Prince_Meditation Room_Flowers
+61112 Conversation after reaching the prince _ meditation room _ Senkyo
+61200 Ninja Army Chief
+61400 White
+61600 Suzuba
+61700 Selling bandits __I bought information_About ignition Items
+61710 Change of information on sales bandits_castle_shop_fire
+61720 Change of information on sales bandits_castle_shop_firecrackers
+61800 Suzuba&#39;s son _ past
+62000 Lookout turret woman
+62200 Chigo_First Conversation
+62202 Chigo_First Conversation
+62204 Chigo_First Conversation
+62208 Chigo_Chigo rice
+62210 Chigo_Chigo Rice_For children
+62212 Chigo_Ice tears
+62214 Chigo_Sasameyuki
+62302 Isei no Musume_Items you can get if you ask questions
+62304 Daughter of Isei_Items that can be obtained from the message of one&#39;s heart
+62306 Daughter of Isei_Items you can get while taking care of Kensei
+62308 About the daughter of Isei_return
+62310 Daughter of the Medical Holy _ Celebration of the Buddhist Master
+62312 About Isei no Musume_Immortality
+62320 Isei no Musume_Dragon Cough Treatment Lifting Item
+62321 Medical Holy Daughter_Dragon Cough Treatment Item
+62400 Kensei_Kensei no Doburoku
+62402 Kensei_Mice phase writing
+62404 Reward for defeating the opponent of Kensei_Mouse
+62406 Kensei_Skilled Reward
+62500 Giants Innsmouth_Submerged City_1st
+62510 Giants Innsmouth_Submerged City_2nd time
+62511 Giants Innsmouth_Submerged City_2nd time
+62520 Exchange for Giants Innsmouth_Submerged City_Beard
+62600 The kidnapped lower man _ temple _ infinite corridor _ spirited away thank you
+62610 Thank you for the treatment
+62700 A decent villager
+62800 Exchange from the sick village priest living liver
+62900 Yaohioka Nun_First time in prayer motion
+62910 Yayobioka Nun_Second time in prayer motion
+62920 Yayobioka Nun_Third time in prayer motion
+63000 Enchanted Samurai_Thank you for the birth
+63100 Immortal Experiment Doctor _ Request Form 1
+63110 Immortal Experiment Doctor_Reward 1
+63120 Immortal Experiment Doctor _ Request 2
+63130 Immortal Experiment Doctor_Reward 2
+63200 Sokushinbutsu_Temple_Conversation limited acquisition
+63600 Scale shop_Samurai residence
+63610 Scale shop_Samurai residence
+63650 Scale shop_submerged city
+63660 Scale shop_submerged city
+64100 Crow bed grave fishing
+64200 Tomb fishing near the battlefield
+64300 Tomb fishing in front of abandoned prison
+64400 Snake burrow grave fishing
+64500 Shugendo grave fishing _ met a child
+64600 Cliff road grave fishing
+64700 Thank you for rescuing the Araji shop clerk
+64710 Araji shop clerk Thank you for treating dragon cough
+67000 [End of 2] Voice of the end _ Nightjars
+69900 Dragon cough character general purpose_ blood of a dragon cough patient
+1000000 Samurai residence_000A
+1000005 Samurai residence_000B
+1000010 Samurai residence_001A
+1000015 Samurai residence_001B
+1000020 Samurai residence_002A
+1000025 Samurai residence_002B
+1000030 Samurai residence_003
+1000040 Samurai residence_004
+1000050 Samurai residence_005
+1000060 Samurai residence_006
+1000070 Samurai residence _007
+1000080 Samurai residence_008
+1000090 Samurai residence_009
+1000100 Samurai residence_010
+1000110 Samurai residence_011
+1000120 Samurai residence_012
+1000130 Samurai residence_013
+1000140 Samurai residence_014
+1000150 Samurai residence_015
+1000160 Samurai residence_016
+1000170 Samurai residence_017
+1000180 Samurai residence_018
+1000190 Samurai residence_019
+1000200 Samurai residence_020
+1000210 Samurai residence_021
+1000220 Samurai residence_022
+1000230 Samurai residence_023
+1000240 Samurai residence_024
+1000250 Samurai residence_025
+1000260 Samurai residence_026
+1000270 Samurai residence_027
+1000280 Samurai residence_028
+1000290 Samurai residence_029
+1000300 Samurai residence_030
+1000310 Samurai residence_031
+1000320 Samurai residence_032
+1000330 Samurai residence_033
+1000340 Samurai residence_034
+1000350 Samurai residence_035
+1000360 Samurai residence_036
+1000370 Samurai residence_037
+1000380 Samurai residence_038
+1000390 Samurai residence_039
+1000400 Samurai residence_040
+1000410 Samurai residence_041
+1000420 Samurai residence_042
+1000430 Samurai residence_043
+1000440 Samurai residence_044
+1000450 Samurai residence_045
+1000460 Samurai residence_046
+1000500 Samurai residence_080A
+1000505 Samurai residence_080B
+1000600 Samurai residence_060
+1000610 Samurai residence_061
+1000620 Samurai residence_062
+1000630 Samurai residence_063
+1000640 Samurai residence_064
+1000650 Samurai residence_065
+1000660 Samurai residence_066
+1000670 Samurai residence_067
+1000680 Samurai residence_068
+1000690 Samurai residence_069
+1100000 Castle_000
+1100010 Castle_001
+1100020 Castle_002
+1100030 Castle_003
+1100040 Castle_004
+1100050 Castle_005
+1100060 Castle_006
+1100070 Castle_007
+1100080 Castle_008
+1100090 Castle_009
+1100100 Castle_010
+1100110 Castle_011
+1100120 Castle_012
+1100130 Castle_013
+1100140 Castle_014
+1100150 Castle_015
+1100160 Castle_016
+1100170 Castle_017
+1100180 Castle_018
+1100190 Castle_019
+1100200 Castle_020
+1100205 Castle_020
+1100210 Castle_021
+1100220 Castle_022
+1100230 Castle_023
+1100240 Castle_024
+1100250 Castle_025
+1100260 Castle_026
+1100270 Castle_027
+1100280 Castle_028
+1100290 Castle_029
+1100300 Castle_030
+1100310 Castle_031A
+1100315 Castle_031B
+1100320 Castle_032
+1100330 Castle_033
+1100340 Castle_034
+1100350 Castle_035
+1100360 Castle_036
+1100370 Castle_037
+1100380 Castle_038
+1100390 Castle_039
+1100400 Castle_040
+1100410 Castle_041
+1100420 Castle_for conversation_mouse writing_acquisition guarantee
+1100430 Castle_043
+1100440 Castle_044
+1100450 Castle_045
+1100460 Castle_046
+1100470 Castle_047
+1100480 Castle_048
+1100490 Castle_049
+1100500 Castle_050
+1100510 Castle_051
+1100520 Castle_052
+1100700 Castle_Tokugawa_070
+1100710 Castle_Tokugawa_071
+1100720 Castle_Tokugawa_072
+1100730 Castle_Tokugawa_073
+1100740 Castle_Tokugawa_074
+1100750 Castle_Tokugawa_075
+1100760 Castle_Tokugawa_076
+1100770 Castle_Tokugawa_077
+1100780 Castle_Tokugawa_078
+1100790 Castle_Tokugawa_079
+1100800 Castle_Tokugawa_080
+1100810 Castle_Tokugawa_081
+1100820 Castle_Tokugawa_082
+1100830 Castle_Tokugawa_083
+1100840 Castle_Tokugawa_084
+1100850 Castle_Tokugawa_085
+1100950 Castle _ Tokugawa _ 077 For conversation _ Ninja mystery book _ For guarantee of acquisition
+1100951 Castle _ Tokugawa _ 077 For conversation _ Artificial limbs Shinobu mystery book _ For guarantee of acquisition
+1110000 Honjo_000
+1110010 Honjo_001
+1110020 Honjo_002
+1110030 Honjo_003
+1110040 Honjo_004 (Ninja Army)
+1110050 Honjo_005 (Ninja Army)
+1110060 Honjo_006
+1110070 Honjo_007
+1110080 Honjo_008 (underwater)
+1110090 Honjo_009
+1110100 Honjo_010
+1110110 Honjo_011
+1110120 Honjo_012
+1110130 Honjo_013
+1110140 Honjo_014
+1110150 Honjo_015
+1110160 Honjo_016
+1110170 Honjo_017
+1110180 Honjo_018
+1110190 Honjo_019
+1110200 Honjo_020
+1110210 Honjo_021
+1110220 Honjo_022
+1110230 Honjo_023
+1110240 Honjo_024
+1110250 Honjo_025
+1110260 Honjo_026
+1110270 Honjo_027
+1110280 Honjo_028
+1110290 Honjo_029
+1110300 Honjo_030
+1110310 Honjo_031
+1110320 Honjo_032
+1110330 Honjo_033
+1110340 Honjo_034
+1110350 Honjo_035
+1110360 Honjo_036
+1110370 Honjo_037
+1110380 Honjo_038
+1110390 Honjo_039
+1110400 Honjo_040
+1110410 Honjo_041
+1110420 Honjo_042
+1110430 Honjo_043
+1110440 Honjo_044
+1110450 Honjo_045
+1110460 Honjo_046
+1110470 Honjo_047
+1110480 Honjo_048 (underwater)
+1110490 Honjo_049 (underwater)
+1110500 Honjo_050 (underwater)
+1110510 Honjo_051 (on the water)
+1110520 Honjo_052
+1110530 Honjo_053 (Ninja Army)
+1110540 Honjo_054 (Ninja Army)
+1110550 Honjo_055 (Ninja Army)
+1110560 Honjo_056 (Ninja Army)
+1110570 Honjo_057 (Ninja Army)
+1110580 Honjo_058 (Ninja Army)
+1110590 Honjo_059
+1110600 Honjo_060 (Ninja Army / Water)
+1110610 Honjo_061 (Tokugawa)
+1110620 Honjo_062 (Tokugawa)
+1110630 Honjo_063 (Tokugawa)
+1110640 Honjo_064 (Tokugawa)
+1110650 Honjo_065 (Tokugawa)
+1110660 Honjo_066 (Tokugawa)
+1110670 Honjo_067
+1110680 Honjo_068
+1110690 Honjo_069
+1110700 Honjo_070
+1110710 Honjo_071
+1110720 Honjo_072
+1110740 Honjo_074
+1110750 Honjo_075 (Tokugawa)
+1110760 Honjo_076
+1110770 Honjo_077
+1110780 Honjo_078
+1110790 Honjo_079
+1110800 Honjo_080 (underwater)
+1110810 Honjo_081 For conversation_Ashiname style mystery book_For guarantee of acquisition
+1110830 Honjo_083
+1110840 Honjo_084
+1110850 Honjo_085
+1110860 Honjo_086
+1110870 Honjo_087
+1110880 Honjo_088
+1110890 Honjo_089
+1110900 Honjo_090
+1110910 Honjo_091 (Ninja Army)
+1110920 Honjo_092 (Ninja Army)
+1110930 Honjo_093 (Ninja Army)
+1110940 Honjo_094 (Ninja Army)
+1110950 Honjo_095 (Ninja Army)
+1110952 Honjo_096 (Ninja Army)
+1110954 Honjo_097 (Ninja Army)
+1110956 Honjo_098 (Tokugawa)
+1110958 Honjo_099 (Tokugawa)
+1120000 Hidden prison_000
+1120010 Hidden prison_001
+1120020 Hidden prison_002
+1120030 Hidden prison_003
+1120040 Hidden prison_004
+1120050 Hidden prison_005
+1120060 Hidden prison_006
+1120070 Hidden prison _007
+1120080 Hidden prison_008
+1120090 Hidden prison_009
+1120100 Hidden prison_010
+1120110 Hidden prison_011
+1120120 Hidden prison_012
+1120130 Hidden prison_013
+1120140 Hidden prison_014
+1120150 Hidden prison_015
+1120160 Hidden prison_016
+1120170 Hidden prison_017
+1120180 Hidden prison_018
+1120190 Hidden prison_018
+1300000 Underground jail_000
+1300010 Underground prison _001
+1300020 Underground jail _002
+1300030 Underground prison _003
+1300040 Underground prison _004
+1300050 Underground prison_005
+1300060 Underground jail _006
+1300070 Underground jail _007
+1300080 Underground prison_008
+1300090 Underground jail _009
+1300100 Underground jail _010
+1300110 Underground jail _011
+1300120 Underground jail _012
+1300130 Underground prison_013
+1300140 Underground jail _014
+1300150 Underground prison_015_underwater
+1300160 Underground prison_016_under water
+1300170 Underground jail _017
+1300180 Underground jail _018
+1300190 Underground jail _019
+1300200 Underground jail _020
+1300210 Underground prison_021
+1300220 Underground jail _022
+1300230 Underground jail _023
+1300240 Underground jail _024
+1300250 Underground jail _025
+1300260 Underground prison _027_ water
+1300270 Underground jail _028_ water
+1500000 Sick village_000
+1500005 Sick village_000
+1500010 Sick village_001
+1500015 Sick village_001
+1500020 Sick village_002
+1500030 Sick village_003
+1500040 Sick village_004
+1500045 Sick village_004
+1500050 Sick village_005
+1500060 Sick village_006
+1500070 Sick Village_007
+1500080 Sick village_008
+1500090 Sick village_009
+1500100 Sick village_010
+1500110 Sick village_011
+1500120 Sick village_012
+1500130 Sick village_013
+1500140 Sick village_014
+1500150 Sick village_015
+1500160 Sick village_016
+1500170 Sick village_017
+1500180 Sick village_018
+1500190 Sick village_019
+1500200 Sick village_020
+1500210 Sick village_021
+1500220 Sick village_022
+1500230 Sick village_023
+1500240 Sick village_024
+1500250 Sick village_025
+1500260 Sick village_026
+1500270 Sick village_027
+1500280 Sick village_028
+1500290 Sick village_029
+1500300 Sick village_030
+1500310 Sick village_031
+1500320 Sick Village_032_Water Treasure Box
+1500325 Sick Village_032_Water Treasure Box
+1500330 Sick village_033_ underwater
+1500340 Sick village_034_ underwater
+1500350 Sick village_035_ underwater
+1500360 Sick village_036
+1500370 Sick village_037
+1500380 Sick village_038
+1500390 Sick village_039
+1500400 Sick village_040
+1500410 Sick village_041
+1500420 Sick village_042
+1500430 Sick village_043
+1500440 Sick village_044
+1500450 Sick village_045
+1500460 Sick village_046
+1500470 Sick village_047
+1500480 Sick village_048
+1500490 Sick village_049
+1500500 Sick village_050
+1500510 Sick village_051
+1500520 Sick village_052
+1500530 Sick village_053
+1500540 Sick village_054
+1500550 Sick village_055
+1500560 Sick village_056
+1500570 Sick village_057
+1500580 Sick village_058
+1500590 Sick village_059
+1500600 Sick village_060
+1500610 Sick Village_061_ Waterfall Treasure Chest
+1500620 Sick village_062
+1500630 Sick village_063
+1500640 Sick village_064
+1700000 Canyon_000
+1700010 Canyon_001
+1700015 Canyon_001.5
+1700020 Canyon_002
+1700025 Canyon_002.5
+1700030 Canyon_003
+1700035 Canyon_003.5
+1700040 Canyon_004
+1700045 Canyon_004.5
+1700050 Canyon_005
+1700060 Canyon_006
+1700070 Canyon_007
+1700080 Canyon_008
+1700090 Canyon_009
+1700100 Canyon_010
+1700110 Canyon_011
+1700120 Canyon_012
+1700130 Canyon_013
+1700140 Canyon_014
+1700150 Canyon_015
+1700160 Canyon_016
+1700170 Canyon_017
+1700180 Canyon_018
+1700190 Canyon_019
+1700200 Canyon_020
+1700210 Canyon_021
+1700220 Canyon_022
+1700230 Canyon_023
+1700240 Canyon_024
+1700250 Canyon_025
+1700260 Canyon_026
+1700270 Canyon_027
+1700280 Canyon_028
+1700290 Canyon_029
+1700300 Canyon_030
+1700310 Canyon_031
+1700320 Canyon_032
+1700330 Canyon_033
+1700340 Canyon_034
+1700350 Canyon_035
+1700360 Canyon_036
+1700370 Canyon_037
+1700380 Canyon_038
+1700390 Canyon_039
+1700400 Canyon_040
+1700410 Canyon_041
+1700420 Canyon_042
+1700430 Canyon_043
+1700440 Canyon_044
+1700450 Canyon_045
+1700460 Canyon_046
+1700470 Canyon_047
+1700480 Canyon_048
+1700490 Canyon_049
+1700500 Canyon_050
+1700510 Canyon_051
+1700520 Canyon_052
+1700530 Canyon_053
+1700540 Canyon_054
+1700550 Canyon_055
+1700560 Canyon_056
+1700570 Canyon_057
+1700580 Canyon_058
+1700590 Canyon_059
+1700600 Canyon_060
+1700610 Canyon_061
+1700620 Canyon_062 underwater
+1700630 Canyon_063
+1700640 Canyon_064
+1700650 Canyon_065
+1700660 Canyon_066
+1700670 Canyon_067
+1700680 Canyon_068
+1700690 Canyon_069
+1700700 Canyon_070
+1700710 Canyon_071
+1700720 Canyon_072
+1700730 Canyon_073
+1700740 Canyon_074
+1700750 Canyon_075
+1700760 Canyon_076
+1700770 Canyon_077
+1700780 Canyon_078
+1700790 Canyon_079
+1700800 Canyon_080
+1700810 Canyon_081
+1700820 Canyon_082
+1700825 Canyon_082.5
+1700830 Canyon_083
+1700840 Canyon_084 Underwater
+1700850 Canyon_085
+1700860 Canyon_086
+1700870 Canyon_087
+1700880 Canyon_088
+1700890 Canyon_089
+1700900 Canyon_090
+1700910 Canyon_091
+1700920 Canyon_092
+1700930 Canyon_093
+2000000 Temple_000
+2000005 Temple_000.5
+2000010 Temple_001
+2000020 Temple_002
+2000030 Temple_003
+2000040 Temple_004
+2000045 Temple_004.5
+2000050 Temple_005
+2000060 Temple_006
+2000070 Temple_007
+2000080 Temple_008
+2000090 Temple_009
+2000100 Temple_010
+2000110 Temple_011
+2000120 Temple_012
+2000130 Temple_013
+2000140 Temple_014
+2000150 Temple_015
+2000160 Temple_016
+2000170 Temple_017
+2000180 Temple_018
+2000190 Temple_019
+2000200 Temple_020
+2000210 Temple_021
+2000220 Temple_022
+2000230 Temple_023
+2000240 Temple_024
+2000250 Temple_025
+2000260 Temple_026
+2000270 Temple_027
+2000280 Temple_028
+2000290 Temple_029
+2000300 Temple_030
+2000310 Temple_031
+2000320 Temple_032
+2000330 Temple_033
+2000340 Temple_034
+2000350 Temple _050
+2000360 Temple_036
+2000370 Temple_037
+2000380 Temple_038
+2000390 Temple_039
+2000400 Temple_040
+2000410 Temple_041
+2000420 Temple_042
+2000430 Temple_043
+2000440 Temple_044
+2000450 Temple_045
+2000460 Temple_046
+2000470 Temple_047
+2000480 Temple_048
+2000490 Temple _049
+2000500 Temple _050
+2000510 Temple_051
+2000520 Temple_052
+2000530 Temple_053
+2000540 Temple_054
+2000550 Temple_055
+2000560 Temple_056
+2000570 Temple_057
+2000580 Temple_058
+2000590 Temple_059
+2000600 Temple_060
+2000610 Temple_061
+2000620 Temple_062
+2000630 Temple_063
+2000640 Temple_064
+2000650 Temple_065
+2000660 Temple_066
+2000670 Temple_067
+2000680 Temple_068
+2000690 Temple_069
+2000700 Temple_070
+2000710 Temple_071
+2000720 Temple_072 Item light only
+2000730 Temple_073
+2000735 Temple_073.5
+2000740 Temple_074
+2000750 Temple_075
+2000760 Temple_076
+2000770 Temple_077
+2000780 Temple_078
+2000790 Temple_079
+2000800 Temple _080
+2000810 Temple_081
+2000820 Temple_082
+2000830 Temple_083
+2000840 Temple_084
+2000850 Temple_085
+2500000 Submerged city_000
+2500005 Submerged city_000
+2500020 Submerged city_002_ underwater
+2500025 Submerged city_002_ underwater
+2500030 Submerged city_003
+2500040 Submerged city_004
+2500050 Submerged city_005
+2500060 Submerged city_006
+2500070 Submerged city_007
+2500080 Submerged city_008
+2500090 Submerged city_009
+2500100 Submerged city_010
+2500110 Submerged city_011
+2500120 Submerged city_012
+2500130 Submerged city_013
+2500140 Submerged city_014
+2500150 Submerged city_015
+2500160 Submerged city_016
+2500170 Submerged city_017
+2500180 Submerged city_018
+2500190 Submerged city_019
+2500200 Submerged city_020
+2500210 Submerged city_021
+2500220 Submerged city_022
+2500230 Submerged city_023
+2500240 Submerged city_024
+2500250 Submerged city_025
+2500260 Submerged city_026
+2500270 Submerged city_027
+2500280 Submerged city_028
+2500290 Submerged city_029
+2500300 Submerged city_030
+2500310 Submerged city_031
+2500320 Submerged city_032
+2500330 Submerged city_033
+2500340 Submerged city_034
+2500350 Submerged city_035
+2500360 Submerged city_036
+2500370 Submerged city_037
+2500380 Submerged city_038_ underwater
+2500390 Submerged city_039_ underwater
+2500400 Submerged city_040_ underwater
+2500410 Submerged city_041_ underwater
+2500420 Submerged city_042_ underwater
+2500430 Submerged city_043_ underwater
+2500440 Submerged city_044_underwater
+2500450 Submerged city_045_underwater
+2500460 Submerged city_046_underwater
+2500470 Submerged city_047_ underwater
+2500480 Submerged city_048_underwater
+2500490 Submerged city_049_ underwater
+2500500 Submerged city_050_ underwater
+2500510 Submerged city_051_underwater
+2500520 Submerged city_052_underwater
+2500530 Submerged city_053
+2500540 Submerged city_054
+2500550 Submerged city_055
+2500560 Submerged city_056
+2500570 Submerged city_057
+2500580 Submerged city_058
+2500590 Submerged city_059
+2500600 Submerged city_060
+2500610 Submerged city_061
+2500620 Submerged city_062_ underwater
+2500630 Submerged city_063
+2500640 Submerged city_064
+2500650 Submerged city_065
+2500660 Submerged city_066
+2500670 Submerged city_067
+2500680 Submerged city_068
+9990000 Test_000
+9990010 Test_001
+9990020 Test_002
+9990030 Test_003
+9990040 Test_004
+9990050 Test_005
+9990060 Test_006
+10100000 Castle Ochimusha One-handed consumption 1 Default
+10100001 Castle Ochimusha One-handed Material 1 Morning
+10100011 Castle Ochimusha One-handed Material 1 Noon
+10100021 Castle Ochimusha One-handed Material 1 Evening
+10100031 Castle Ochimusha One-handed Material 1 Night
+10100041 Castle Ochimusha One-handed Material 1 Bell Evening
+10100100 Castle Ochimusha Eight Phases Weak Consumption 1 Default
+10100101 Castle Ochimusha Eight Phases Weak Material 1 Morning
+10100111 Castle Ochimusha Eight Phases Weak Material 1 Noon
+10100121 Castle Ochimusha Eight Phases Weak Material 1 Evening
+10100131 Castle Ochimusha Eight Phases Weak Material 1 Night
+10100141 Castle Ochimusha Eight Phases Weak Material 1 Bell Evening
+10100200 Castle Ochimusha Spear Consumption 1 Default
+10100201 Castle Ochimusha Spear Material 1 Morning
+10100211 Castle Ochimusha Spear Material 1 Noon
+10100221 Castle Ochimusha Spear Material 1 Evening
+10100231 Castle Ochimusha Spear Material 1 Night
+10100241 Castle Ochimusha Spear Material 1 Bell Evening
+10100300 Castle Ochimusha Matchlock Consumption 1 Default
+10100301 Castle Ochimusha Matchlock Material 1 Morning
+10100311 Castle Ochimusha Matchlock Material 1 Noon
+10100321 Castle Ochimusha Matchlock Material 1 Evening
+10100331 Castle Ochimusha Matchlock Material 1 Night
+10100341 Castle Ochimusha Matchlock Material 1 Bell Evening
+10100400 Castle Ochimusha Consumption 1 Default Mandatory Drop
+10100500 Castle Ochimusha Eight Phases Consumption 1 Default
+10100501 Castle Ochimusha Hachiso Strong Material 1 Morning
+10100511 Castle Ochimusha Hachiso Strong Material 1 Noon
+10100521 Castle Ochimusha Hachiso Strong Material 1 Evening
+10100531 Castle Ochimusha Hachiso Strong Material 1 Night
+10100541 Castle Ochimusha Hachiso Strong Material 1 Bell Evening
+10101000 Honjo Ochimusha One-handed consumption 1 Default
+10101001 Honjo Ochimusha One-handed Material 1 Morning
+10101011 Honjo Ochimusha One-handed Material 1 Noon
+10101021 Honjo Ochimusha One-handed Material 1 Evening
+10101031 Honjo Ochimusha One-handed Material 1 Night
+10101041 Honjo Ochimusha One-handed Material 1 Bell Evening
+10101100 Honjo Ochimusha Eight Phases Weak Consumption 1 Default
+10101101 Honjo Ochimusha Eight Phases Weak Material 1 Morning
+10101111 Honjo Ochimusha Eight Phases Weak Material 1 Noon
+10101121 Honjo Ochimusha Eight Phases Weak Material 1 Evening
+10101131 Honjo Ochimusha Eight Phases Weak Material 1 Night
+10101141 Honjo Ochimusha Eight Phases Weak Material 1 Bell Evening
+10101200 Honjo Ochimusha Spear Consumption 1 Default
+10101201 Honjo Ochimusha Spear Material 1 Morning
+10101211 Honjo Ochimusha Spear Material 1 Noon
+10101221 Honjo Ochimusha Spear Material 1 Evening
+10101231 Honjo Ochimusha Spear Material 1 Night
+10101241 Honjo Ochimusha Spear Material 1 Bell Evening
+10101300 Honjo Ochimusha Matchlock Consumption 1 Default
+10101301 Honjo Ochimusha Matchlock Material 1 Morning
+10101311 Honjo Ochimusha Matchlock Material 1 Noon
+10101321 Honjo Ochimusha Matchlock Material 1 Evening
+10101331 Honjo Ochimusha Matchlock Material 1 Night
+10101341 Honjo Ochimusha Matchlock Material 1 Bell Evening
+10101400 Honjo Ochimusha Spear Event On the Bridge
+10101500 Honjo Ochimusha Eight Phases Consumption 1 Default
+10101501 Honjo Ochimusha Hachiso Strong Material 1 Morning
+10101511 Honjo Ochimusha Hachiso Strong Material 1 Noon
+10101521 Honjo Ochimusha Hachiso Strong Material 1 Evening
+10101531 Honjo Ochimusha Hachiso Strong Material 1 Night
+10101541 Honjo Ochimusha Hachiso Strong Material 1 Kaneyoi
+10102000 Dungeon Ochimusha One-handed consumption 1 Default
+10102001 Dungeon Ochimusha One-handed Material 1 Morning
+10102011 Dungeon Ochimusha One-handed Material 1 Noon
+10102021 Dungeon Ochimusha One-handed Material 1 Evening
+10102031 Dungeon Ochimusha One-handed Material 1 Night
+10102041 Dungeon Ochimusha One-handed Material 1 Bell Evening
+10102100 Dungeon Ochimusha Eight Phases Weak Consumption 1 Default
+10102101 Underground prison warrior eight-phase weak material 1 dynasty
+10102111 Underground prison warrior eight-phase weak material 1 day
+10102121 Underground prison warrior eight-phase weak material 1 eve
+10102131 Underground prison warrior eight-phase weak material 1 night
+10102141 Underground prison warrior eight-phase weak material 1 Zhong Xiao
+10102200 Dungeon Ochimusha Spear Consumption 1 Default
+10102201 Underground prison warrior gun material 1 dynasty
+10102211 Underground prison warrior gun material 1 day
+10102221 Underground prison warrior gun material 1 evening
+10102231 Underground prison warrior gun material 1 night
+10102241 Underground prison warrior gun material 1 Zhong Xiao
+10102300 Dungeon Ochimusha Matchlock Consumption 1 Default
+10102301 Dungeon Ochimusha Matchlock Material 1 Morning
+10102311 Dungeon Ochimusha Matchlock Material 1 Noon
+10102321 Dungeon Ochimusha Matchlock Material 1 Evening
+10102331 Dungeon Ochimusha Matchlock Material 1 Night
+10102341 Dungeon Ochimusha Matchlock Material 1 Bell Evening
+10102400 Dungeon Ochimusha Eight Phases Consumption 1 Default
+10102401 Underground prison warrior eight strong material 1 dynasty
+10102411 Underground prison warrior eight strong material 1 day
+10102421 Underground prison warrior eight strong material 1 evening
+10102431 Underground prison warrior eight strong material 1 night
+10102441 Underground prison warrior eight strong material 1 Zhong Xiao
+10109000 GC Castle Ochimusha One-handed ① Frame
+10109100 GC Castle Ochimusha Eight Phases ① Frame
+10109200 GC City whereabouts warrior gun ① 枠
+10109300 GC Castle Ochimusha Matchlock ① Frame
+10200000 Castle Samurai General_Event ①A
+10200001 Castle Samurai General_Event②
+10200005 Castle Samurai General_Event ①B
+10200100 Castle Samurai General_Jinhaori Event A
+10200105 Castle Samurai General_Jinhaori Event B
+10202000 Honjo Samurai General_Jinhaori Event In front of the castle tower
+10202005 Honjo Samurai General_Jinhaori Orbital Replacement Event In front of the castle tower
+10203000 Hidden Prison Samurai General_Tutorial Event
+10204000 Honjo Samurai General Internal Work Consumption 1 Default
+10204001 Honjo Samurai General Internal Work Material 1 Morning
+10204011 Honjo Samurai General Internal Work Material 1 Noon
+10204021 Honjo Samurai General Internal Work Material 1 Evening
+10204031 Honjo Samurai General Office Work Material 1 Night
+10204041 Honjo Samurai General Internal Work Material 1 Kaneyoi
+10205000 Hidden prison Tokugawa invasion Samurai general Heavy fish consumption 1 Default
+10205001 Hidden prison Tokugawa invasion Samurai General Strong fish Material 1 Evening
+10205031 Hidden prison Tokugawa invasion Samurai General Strong fish Material 1 Night
+10205041 Hidden prison Tokugawa invasion General Samurai Strong fish Material 1 Bell evening
+10212000 Hidden Prison Samurai General_Four Tenno Events Normal
+10212005 Hidden Prison Samurai General_Four Tenno Orbital Replacement Event Normal
+10212100 Hidden Prison Samurai General_Four Tenno Event Tokugawa
+10212105 Hidden Prison Samurai General_Four Tenno Orbital Replacement Event Tokugawa
+10300000 Temple Centipede Small Proximity Consumption 1 Default
+10300001 Temple Centipede Small Proximity Material 1 Morning
+10300011 Temple Centipede Small Proximity Material 1 Noon
+10300021 Temple Centipede Small Proximity Material 1 Evening
+10300031 Temple Centipede Small Proximity Material 1 Night
+10300041 Temple Centipede Small Proximity Material 1 Bell Evening
+10300100 Temple Centipede Small Horakutama Consumption 1 Default
+10300101 Temple Centipede Small Horakutama Material 1 Morning
+10300111 Temple Centipede Small Horakutama Material 1 Noon
+10300121 Temple Centipede Small Horakutama Material 1 Evening
+10300131 Temple Centipede Small Horakutama Material 1 Night
+10300141 Temple Centipede Small Horakutama Material 1 Bell Evening
+10301000 Canyon Centipede Small Proximity Consumption 1 Default
+10301001 Canyon Centipede Small Proximity Material 1 Morning
+10301011 Canyon Centipede Small Proximity Material 1 Noon
+10301021 Canyon Centipede Small Proximity Material 1 Evening
+10301031 Canyon Centipede Small Proximity Material 1 Night
+10301041 Canyon Centipede Small Proximity Material 1 Bell Evening
+10301100 Canyon Centipede Small Houraku Ball Consumption 1 Default
+10301101 Canyon Centipede Small Horakutama Material 1 Morning
+10301111 Canyon Centipede Small Horakutama Material 1 Noon
+10301121 Canyon Centipede Small Horakutama Material 1 Evening
+10301131 Canyon Centipede Small Horakutama Material 1 Night
+10301141 Canyon Centipede Small Horakutama Material 1 Bell Evening
+10400000 Temple Centipede Large Event ①
+10400001 Temple Centipede Large Event ②
+10400005 Temple centipede large event lap replacement
+10400100 Temple Centipede University
+10401000 Canyon Centipede Large
+10401100 Canyon Centipede Large Event ①
+10401101 Canyon Centipede Large Event ②
+10401105 Canyon Centipede Large Event; Replacement
+10500000 Samurai Residence Spear Monk Event A
+10500005 Samurai Residence Spear Monk Event B
+10500100 Samurai Residence Spear Monk Soldier x 2 First time only
+10500200 Samurai Residence Spear Monk Soldier Consumption 1 Default
+10500201 Samurai Residence Spear Monk Soldier Material 1 Morning
+10500211 Samurai Residence Spear Monk Soldier Material 1 Noon
+10500221 Samurai Residence Spear Monk Soldier Material 1 Evening
+10500231 Samurai Residence Spear Monk Soldier Material 1 Night
+10500241 Samurai Residence Spear Monk Soldier Material 1 Bell Evening
+10501000 Honjo Spear Monk Consumption 1 Default
+10501001 Honjo Spear Monk Material 1 Morning
+10501011 Honjo Spear Monk Material 1 Noon
+10501021 Honjo Spear Monk Material 1 Evening
+10501031 Honjo Spear Monk Material 1 Night
+10501041 Honjo Spear Monk Soldier Material 1 Bell Evening
+10501100 Honjo Spear Monk Event
+10502000 Under the City_GC Gun Monk Soldier
+10503000 Samurai Residence Truth Spear Monk Soldier Consumption 1 Default
+10503001 Samurai Residence Truth Spear Monk Soldier Material 1 Morning
+10503011 Samurai Residence Truth Spear Monk Soldier Material 1 Noon
+10503021 Samurai Residence Truth Spear Monk Soldier Material 1 Evening
+10503031 Samurai Residence Truth Spear Monk Soldier Material 1 Night
+10503041 Samurai Residence Truth Spear Monk Soldier Material 1 Bell Evening
+10600000 Temple Rotating Spearman_Precinct Event
+10600100 Temple Rotating Spearman_Corridor Event
+10600200 Temple Rotating Spearman Consumption 1 Default
+10600201 Temple Rotating Spearman Material 1 Morning
+10600211 Temple Rotating Spearman Material 1 Noon
+10600221 Temple Rotating Spearman Material 1 Evening
+10600231 Temple Rotating Spearman Material 1 Night
+10600241 Temple Rotating Spearman Material 1 Bell Evening
+10700000 Samurai House Shura Samurai Event A
+10700001 Samurai House Shura Samurai Event
+10700005 Samurai House Shura Samurai Event B
+10700100 Samurai Residence_Truth Shura Samurai Event A
+10700105 Samurai Residence_Truth Shura Samurai Event B
+10701000 Castle Tokugawa Shura Samurai Event
+10701005 Castle Tokugawa Shura Samurai Event
+10702000 Sick Village Shura Samurai Event
+10702001 Sick Village Shura Samurai Event
+10702005 Sick Village Shura Samurai Event
+10702006 Sick Village Shura Samurai Event
+10800000 Dungeon Seven-sided Warrior Event
+10801000 Submerged City Seven-sided Warrior Event
+10802000 Canyon Seven-sided Warrior Event
+11101000 Canyon Handmaiden Aunt Consumption 1 Default
+11101001 Canyon Handmaiden Aunt Material 1 Morning
+11101011 Canyon Handmaiden Aunt Material 1 Noon
+11101021 Canyon Handmaiden Aunt Material 1 Evening
+11101031 Canyon Handmaiden Aunt Material 1 Night
+11101041 Canyon Handmaiden Aunt Material 1 Bell Evening
+11105000 Honjo Handmaiden Aunt Consumption 1 Default
+11105001 Honjo Handmaiden Aunt Material 1 Morning
+11105011 Honjo Handmaiden Aunt Material 1 Noon
+11105021 Honjo Handmaiden Aunt Material 1 Evening
+11105031 Honjo Handmaiden Aunt Material 1 Night
+11105041 Honjo Handmaiden Aunt Material 1 Bell Evening
+11109000 GC Castle Handmaiden Aunt Definite Doro
+11200000 Castle Lookout Consumption 1 Default
+11200001 Castle Lookout Material 1 Morning
+11200011 Castle Lookout Material 1 Noon
+11200021 Castle Lookout Material 1 Evening
+11200031 Castle Lookout Material 1 Night
+11200041 Castle Lookout Material 1 Bell Evening
+11201000 Castle Tokugawa invasion Lookout number Consumption 1 Default
+11201001 Castle Tokugawa Invasion Lookout Material 1 Night
+11201041 Invasion of the castle Tokugawa Watchman Material 1 Kaneyoi
+11202000 Honjo Lookout Consumption 1 Default
+11202001 Honjo Lookout Material 1 Morning
+11202011 Honjo Lookout Material 1 Noon
+11202021 Honjo Lookout Material 1 Evening
+11202031 Honjo Lookout Material 1 Night
+11202041 Honjo Lookout Material 1 Kaneyoi
+11204000 Hidden Prison Lookout Consumption 1 Default
+11204001 Hidden prison watchman Material 1 Morning
+11204011 Hidden prison watchman Material 1 Noon
+11204021 Hidden prison watchman Material 1 Evening
+11204031 Hidden Prison Lookout Material 1 Night
+11204041 Hidden prison watchman Material 1 Bell evening
+11300000 Temple Nanban Armor Event ①
+11300001 Temple Nanban Armor Event ②
+11300005 Temple Nanban armor event replacement
+11400000 Canyon Earthen Wall Soldier Consumption 1 Default
+11400001 Canyon Earthen Wall Soldier Material 1 Morning
+11400011 Canyon Earthen Wall Soldier Material 1 Noon
+11400021 Canyon Earthen Wall Soldier Material 1 Evening
+11400031 Canyon Earthen Wall Soldier Material 1 Night
+11400041 Canyon Earthen Wall Soldier Material 1 Bell Evening
+11510000 Submerged City Innsmouth Dog Consumption 1 Default
+11800000 Castle Lower Man Mallet Consumption 1 Default
+11800001 Castle Shimoo Mallet Material 1 Morning
+11800011 Castle Shimoo Mallet Material 1 Noon
+11800021 Castle Shimoo Mallet Material 1 Evening
+11800031 Castle Lower Man Mallet Material 1 Night
+11800041 Castle Shimoo Mallet Material 1 Bell Evening
+11800100 Castle Castle Man Gold Crusher Consumption 1 Default
+11800101 Castle Shimoo Gold Crushing Stick Material 1 Morning
+11800111 Castle Shimoo Gold Crushing Stick Material 1 Noon
+11800121 Castle Shimoo Gold Crushing Stick Material 1 Evening
+11800131 Castle Lower Man Gold Crushing Stick Material 1 Night
+11800141 Castle Shimoo Kanabō Material 1 Bell Evening
+11801000 Honjo Shimoo Bell (armor) Defeated for the first time
+11801100 Honjo Shimoo Mallet Consumption 1 Default
+11801101 Honjo Shimoo Mallet Material 1 Morning
+11801111 Honjo Shimoo Mallet Material 1 Noon
+11801121 Honjo Shimoo Mallet Material 1 Evening
+11801131 Honjo Shimoo Mallet Material 1 Night
+11801141 Honjo Shimoo Mallet Material 1 Bell Evening
+11801200 Honjo Shimoo Bell + Armor Consumption 1 Default
+11801201 Honjo Shimoo Bell + Armor Material 1 Morning
+11801211 Honjo Shitao Bell + Armor Material 1 Noon
+11801221 Honjo Shitao Bell + Armor Material 1 Evening
+11801231 Honjo Shitao Bell + Armor Material 1 Night
+11801241 Honjo Shitao Bell + Armor Material 1 Bell Evening
+11802000 Terashita Otoko Shield Event
+11803100 Terashita Otoko Mallet Consumption 1 Default
+11803101 Terashita Otoko Mallet Material 1 Morning
+11803111 Terashita Otoko Mallet Material 1 Noon
+11803121 Terashita Otoko Mallet Material 1 Evening
+11803131 Terashita Otoko Mallet Material 1 Night
+11803141 Terashita Otoko Mallet Material 1 Bell Evening
+11803200 Terashita Otoko Gold Crusher Consumption 1 Default
+11803201 Terashita Otoko Gold Crushing Stick Material 1 Morning
+11803211 Terashita Otoko Gold Crushing Stick Material 1 Noon
+11803221 Terashita Otoko Gold Crushing Stick Material 1 Evening
+11803231 Terashita Otoko Gold Crushing Stick Material 1 Night
+11803241 Terashita Otoko Kanabō Material 1 Bell Evening
+11803400 Terashita Otoko Shield Consumption 1 Default
+11803401 Terashita Otoko Shield Material 1 Morning
+11803411 Terashita Otoko Shield Material 1 Noon
+11803421 Terashita Otoko Shield Material 1 Evening
+11803431 Terashita Otoko Shield Material 1 Night
+11803441 Terashita Otoko Shield Material 1 Bell Evening
+11804000 Hidden prison man mallet consumption 1 default
+11804001 Hidden prison man mallet material 1 morning
+11804011 Hidden prison man mallet material 1 noon
+11804021 Hidden prison man mallet material 1 evening
+11804031 Hidden prison man mallet material 1 night
+11804041 Hidden prison man mallet Material 1 Bell evening
+11804100 Hidden Prison Man Gold Crusher Consumption 1 Default
+11804101 Hidden Prison Man Gold Crushing Stick Material 1 Morning
+11804111 Hidden Prison Man Gold Crushing Stick Material 1 Noon
+11804121 Hidden Prison Man Gold Crushing Stick Material 1 Evening
+11804131 Hidden Prison Man Gold Crushing Stick Material 1 Night
+11804141 Hidden Prison Man Gold Crushing Stick Material 1 Bell Evening
+11805000 Samurai Residence Shimoo Mallet Consumption 1 Default
+11805001 Samurai residence Shimoo mallet Material 1 Morning
+11805011 Samurai residence Shimoo mallet Material 1 Noon
+11805021 Samurai residence Shimoo mallet Material 1 Evening
+11805031 Samurai residence Shimoo mallet Material 1 Night
+11805041 Samurai residence Shimoo mallet Material 1 Bell evening
+11805100 Samurai Residence Shimoo Gold Crusher Consumption 1 Default
+11805101 Samurai Residence Shimoo Gold Crushing Stick Material 1 Morning
+11805111 Samurai Residence Shimoo Gold Crushing Stick Material 1 Noon
+11805121 Samurai Residence Shimoo Gold Crushing Stick Material 1 Evening
+11805131 Samurai Residence Shimoo Gold Crushing Stick Material 1 Night
+11805141 Samurai Residence Shimoo Gold Crushing Stick Material 1 Kaneyoi
+11806000 Honjo Tokugawa Invasion Lower Man Mallet Consumption 1 Default
+11806001 Honjo Tokugawa Invasion Lower Man Mallet Material 1 Morning
+11806011 Honjo Tokugawa Invasion Lower Man Mallet Material 1 Noon
+11806021 Honjo Tokugawa Invasion Lower Man Mallet Material 1 Evening
+11806031 Honjo Tokugawa Invasion Lower Man Mallet Material 1 Night
+11806041 Honjo Tokugawa Invasion Lower Man Mallet Material 1 Bell Evening
+11806100 Honjo Tokugawa Invasion Lower Man Gold Crushing Stick Consumption 1 Default
+11806101 Honjo Tokugawa Invasion Lower Man Gold Crushing Stick Material 1 Morning
+11806111 Honjo Tokugawa Invasion Lower Man Gold Crushing Stick Material 1 Noon
+11806121 Honjo Tokugawa Invasion Lower Man Gold Crushing Stick Material 1 Evening
+11806131 Honjo Tokugawa Invasion Lower Man Gold Crushing Stick Material 1 Night
+11806141 Honjo Tokugawa Invasion Lower Man Gold Crushing Stick Material 1 Kaneyoi
+11807000 Samurai Residence Truth Lower Man Mallet Consumption 1 Default
+11807001 Samurai Residence Truth Lower Man Mallet Material 1 Morning
+11807011 Samurai Residence Truth Shimoo Mallet Material 1 Noon
+11807021 Samurai Residence Truth Lower Man Mallet Material 1 Evening
+11807031 Samurai Residence Truth Lower Man Mallet Material 1 Night
+11807041 Samurai Residence Truth Shimoo Mallet Material 1 Bell Evening
+11807100 Samurai Residence Truth Lower Man Gold Crushing Stick Consumption 1 Default
+11807101 Samurai Residence Truth Lower Man Gold Crushing Stick Material 1 Morning
+11807111 Samurai Residence Truth Lower Man Gold Crushing Stick Material 1 Noon
+11807121 Samurai Residence Truth Lower Man Gold Crushing Stick Material 1 Evening
+11807131 Samurai Residence Truth Lower Man Gold Crushing Stick Material 1 Night
+11807141 Samurai Residence Truth Lower Man Gold Crushing Stick Material 1 Kaneyoi
+11807200 Samurai Residence Truth Lower Man Gold Crushing Stick + Armor Consumption 1 Default
+11807201 Samurai Residence Truth Lower Man Gold Crushing Stick + Armor Material 1 Morning
+11807211 Samurai Residence Truth Lower Man Gold Crushing Stick + Armor Material 1 Noon
+11807221 Samurai Residence Truth Lower Man Gold Crushing Stick + Armor Material 1 Evening
+11807231 Samurai Residence Truth Lower Man Gold Crushing Stick + Armor Material 1 Night
+11807241 Samurai Residence Truth Lower Man Gold Crushing Stick + Armor Material 1 Bell Evening
+11807300 Samurai Residence Truth Lower Man Shield Consumption 1 Default
+11807301 Samurai Residence Truth Lower Man Shield Material 1 Morning
+11807311 Samurai Residence Truth Lower Man Shield Material 1 Noon
+11807321 Samurai Residence Truth Lower Man Shield Material 1 Evening
+11807331 Samurai Residence Truth Lower Man Shield Material 1 Night
+11807341 Samurai Residence Truth Lower Man Shield Material 1 Kaneyoi
+11810000 Sick Village Shimoo Zombie Mallet Consumption 1 Default
+11810001 Sick village lower man zombie mallet material 1 morning
+11810011 Sick village lower man zombie mallet material 1 noon
+11810021 Sick village lower man zombie mallet material 1 evening
+11810031 Sick Village Shimoo Zombie Mallet Material 1 Night
+11810041 Sick village lower man zombie mallet material 1 bell evening
+11810100 Sick Village Shimoo Zombie Gold Crusher Consumption 1 Default
+11810101 Sick Village Shimoo Zombie Gold Crushing Stick Material 1 Morning
+11810111 Sick Village Shimoo Zombie Gold Crushing Stick Material 1 Noon
+11810121 Sick Village Shimoo Zombie Gold Crushing Stick Material 1 Evening
+11810131 Sick Village Shimoo Zombie Gold Crushing Stick Material 1 Night
+11810141 Sick Village Shimoo Zombie Gold Crushing Stick Material 1 Bell Evening
+11810200 Sick Village Shimoo Zombie Bell Consumption 1 Default
+11810201 Sick village lower man zombie bell material 1 morning
+11810211 Sick village lower man zombie bell material 1 noon
+11810221 Sick Village Shimoo Zombie Bell Material 1 Evening
+11810231 Sick Village Shimoo Zombie Bell Material 1 Night
+11810241 Sick Village Shimoo Zombie Bell Material 1 Bell Evening
+11810300 Sick Village Shimoo Zombie Bell + Armor Consumption 1 Default
+11810301 Sick village lower man zombie bell + armor material 1 morning
+11810311 Sick village lower man zombie bell + armor material 1 noon
+11810321 Sick Village Shimoo Zombie Bell + Armor Material 1 Evening
+11810331 Sick Village Shimoo Zombie Bell + Armor Material 1 Night
+11810341 Sick Village Shimoo Zombie Bell + Armor Material 1 Bell Evening
+11900000 Canyon Valley Enemy Female Sniper_Nakasu Event
+11900005 Canyon Valley Enemy Female Sniper_Nakasu Event: Replacement
+11900100 Canyon Valley Enemy Normal Consumption 1 Default
+11900101 Canyon Valley Enemy Normal Material 1 Morning
+11900111 Canyon Valley Enemy Normal Material 1 Noon
+11900121 Canyon Valley Enemy Normal Material 1 Evening
+11900131 Canyon Valley Enemy Normal Material 1 Night
+11900141 Canyon Valley Enemy Normal Material 1 Bell Evening
+11900210 Canyon Valley Enemy Shotgun Event
+11900300 Canyon Valley Enemy Cannon Consumption 1 Default
+11900301 Canyon Valley Enemy Cannon Material 1 Morning
+11900311 Canyon Valley Enemy Cannon Material 1 Noon
+11900321 Canyon Valley Enemy Cannon Material 1 Evening
+11900331 Canyon Valley Enemy Cannon Material 1 Night
+11900341 Canyon Valley Enemy Cannon Material 1 Bell Evening
+11900400 Canyon Valley Enemy Female Sniper
+11900500 Canyon Valley Enemy Shotgun Consumption 1 Default
+11900501 Canyon Valley Enemy Shotgun Material 1 Morning
+11900511 Canyon Valley Enemy Shotgun Material 1 Noon
+11900521 Canyon Valley Enemy Shotgun Material 1 Evening
+11900531 Canyon Valley Enemy Shotgun Material 1 Night
+11900541 Canyon Valley Enemy Shotgun Material 1 Bell Evening
+11901000 Castle Valley Enemy Cannon Consumption 1 Default
+11901001 Castle Valley Enemy Cannon Material 1 Morning
+11901011 Castle Valley Enemy Cannon Material 1 Noon
+11901021 Castle Valley Enemy Cannon Material 1 Evening
+11901031 Castle Valley Enemy Cannon Material 1 Night
+11901041 Castle Valley Enemy Cannon Material 1 Bell Evening
+11901100 Valley_Lower Valley Enemy Female Sniper_Wide Valley Lower Event
+11901105 Valley_Lower Valley Enemy Female Sniper_Wide Valley Lower Layer Event Replacement
+11901200 Valley_Lower Valley Enemy Female Sniper
+11901300 Lower Valley Valley Enemy Cannon Consumption 1 Default
+11901301 Lower Valley Valley Enemy Cannon Material 1 Morning
+11901311 Lower Valley Valley Enemy Cannon Material 1 Noon
+11901321 Lower Valley Valley Enemy Cannon Material 1 Evening
+11901331 Lower Valley Valley Enemy Cannon Material 1 Night
+11901341 Lower Valley Valley Enemy Cannon Material 1 Bell Evening
+11902000 Castle_Valley Enemy Cannon First time
+11903000 Honjo Valley Enemy Cannon Consumption 1 Default
+11903001 Honjo Valley Enemy Cannon Material 1 Morning
+11903011 Honjo Valley Enemy Cannon Material 1 Noon
+11903021 Honjo Valley Enemy Cannon Material 1 Evening
+11903031 Honjo Valley Enemy Cannon Material 1 Night
+11903041 Honjo Valley Enemy Cannon Material 1 Bell Evening
+12000000 Temple Sokushinbutsu Centipede Consumption 1 Default
+12001001 Temple Sokushinbutsu Centipede Material 1 Morning
+12001011 Temple Sokushinbutsu Centipede Material 1 Noon
+12001021 Temple Sokushinbutsu Centipede Material 1 Evening
+12001031 Temple Sokushinbutsu Centipede Material 1 Night
+12001041 Temple Sokushinbutsu Centipede Material 1 Bell Evening
+12100000 Temple Sokushinbutsu Gero Consumption 1 Default
+12100001 Temple Sokushinbutsu Gero Material 1 Morning
+12100011 Temple Sokushinbutsu Gero Material 1 Noon
+12100021 Temple Sokushinbutsu Gero Material 1 Evening
+12100031 Temple Sokushinbutsu Gero Material 1 Night
+12100041 Temple Sokushinbutsu Gero Material 1 Bell Evening
+12200000 Temple Temple Small Fish Fist Consumption 1 Default
+12200001 Temple Temple miscellaneous fish fist Material 1 Morning
+12200011 Temple Temple miscellaneous fish fist Material 1 Noon
+12200021 Temple Temple miscellaneous fish fist Material 1 Evening
+12200031 Temple Temple Small Fish Fist Material 1 Night
+12200041 Temple Temple miscellaneous fish fist Material 1 Bell evening
+12200100 Temple Temple Small Fish Surgeon Consumption 1 Default
+12200101 Temple Temple miscellaneous fish surgeon Material 1 Morning
+12200111 Temple Temple miscellaneous fish surgeon Material 1 Noon
+12200121 Temple Temple miscellaneous fish surgeon Material 1 Evening
+12200131 Temple Temple Small Fish Surgeon Material 1 Night
+12200141 Temple Temple miscellaneous fish surgeon Material 1 Bell evening
+12200200 Temple Temple miscellaneous fish Tin cane Consumption 1 Default
+12200201 Temple Temple miscellaneous fish tin cane Material 1 Morning
+12200211 Temple Temple miscellaneous fish Khakkhara Material 1 Noon
+12200221 Temple Temple miscellaneous fish tin cane Material 1 Evening
+12200231 Temple Temple miscellaneous fish Khakkhara Material 1 Night
+12200241 Temple Temple miscellaneous fish Khakkhara Material 1 Bell evening
+12500000 Gorge Yasha Ape genus _ dual wield monkey mountain event
+12500005 Gorge Yasha Ape genus _ Two swords one person Event
+12500100 Canyon Yasha Ape&#39;s genus Bare hand consumption 1 Default for monkey dumplings
+12500110 Canyon Yasha Ape Monkey Dumpling Event
+12501100 Canyon Yasha Ape&#39;s genus Bare hand consumption 1 Default
+12501200 Canyon Yasha Ape&#39;s sword consumption 1 default
+12501300 Canyon Yasha Ape Matchlock Consumption 1 Default
+12501400 Canyon Yasha Ape&#39;s genus Two swords Consume 1 Default
+12501401 Canyon Yasha Ape&#39;s genus Two swords Material 1 Morning
+12501411 Canyon Yasha Ape&#39;s genus Two swords Material 1 Noon
+12501421 Canyon Yasha Ape&#39;s genus Two swords Material 1 Evening
+12501431 Canyon Yasha Ape&#39;s genus Two swords Material 1 Night
+12501441 Canyon Yasha Ape&#39;s genus Two swords Material 1 Bell evening
+12502100 Canyon_Lower Yasha Ape&#39;s genus Bare hand consumption 1 Default
+12502101 Canyon_Lower layer Yasha Ape&#39;s genus Bare hand Material 1 Morning
+12502111 Canyon_Lower layer Yasha Ape&#39;s genus Bare hand Material 1 Noon
+12502121 Canyon_Lower layer Yasha Ape&#39;s genus Bare hand Material 1 Evening
+12502131 Canyon_Lower layer Yasha Ape&#39;s genus Bare hand Material 1 Night
+12502141 Canyon_Lower layer Yasha Ape&#39;s genus Bare hand Material 1 Kaneyoi
+12502200 Canyon_Lower Yasha Ape Sword Consumption 1 Default
+12502201 Canyon_Lower layer Yasha Ape&#39;s sword Material 1 Morning
+12502211 Canyon_Lower layer Yasha Ape&#39;s sword Material 1 Noon
+12502221 Canyon_Lower layer Yasha Ape&#39;s sword Material 1 Evening
+12502231 Canyon_Lower layer Yasha Ape&#39;s sword Material 1 Night
+12502241 Canyon_Lower layer Yasha Ape&#39;s sword Material 1 Kaneyoi
+12502300 Canyon_Lower Yasha Ape Matchlock Consumption 1 Default
+12502301 Canyon_Lower Yasha Ape Matchlock Material 1 Morning
+12502311 Canyon_Lower Yasha Ape Matchlock Material 1 Noon
+12502321 Canyon_Lower Yasha Ape Matchlock Material 1 Evening
+12502331 Canyon_Lower Yasha Ape Matchlock Material 1 Night
+12502341 Canyon_Lower Yasha Ape Matchlock Material 1 Bell Evening
+12503000 Temple Yasha Ape&#39;s genus Demon Monkey Consumption 1 Default
+12503100 Temple Yasha Ape&#39;s genus Bare hand consumption 1 Default
+12504000 Honjo_Tokugawa Yasha Ape event
+12505000 Honjo Yasha Ape&#39;s genus Bare hand consumption 1 Default
+12506000 Invasion of Honjo Tokugawa Yasha Ape&#39;s genus Bare hand consumption 1 Default
+12506100 Invasion of Honjo Tokugawa Yasha Ape&#39;s sword consumption 1 Default
+12506200 Honjo Tokugawa Invasion Yasha Ape Matchlock Consumption 1 Default
+12506300 Honjo Tokugawa Invasion Yasha Ape&#39;s Dual Wield Consumption 1 Default
+12506301 Honjo Tokugawa Invasion Yasha Ape&#39;s Dual Wield Material 1 Morning
+12506311 Honjo Tokugawa Invasion Yasha Ape&#39;s Dual Wield Material 1 Noon
+12506321 Honjo Tokugawa Invasion Yasha Ape&#39;s Dual Wield Material 1 Evening
+12506331 Honjo Tokugawa Invasion Yasha Ape&#39;s Dual Wield Material 1 Night
+12506341 Honjo Tokugawa Invasion Yasha Ape&#39;s Dual Wield Material 1 Bell Evening
+12507000 Sick Village Yasha Ape&#39;s genus Bare hand consumption 1 Default
+12507100 Sick Village Yasha Ape&#39;s Sword Consumption 1 Default
+12507200 Sick Village Yasha Ape Matchlock Consumption 1 Default
+13000000 Submerged City Innsmouth Strong Consumption 1 Default
+13000001 Submerged City Innsmouth Strong Material 1 Night
+13000041 Submerged City Innsmouth Strong Material 1 Bell Evening
+13000100 Submerged City Innsmouth Weak Consumption 1 Default
+13000101 Submerged City Innsmouth Weak Material 1 Night
+13000141 Submerged City Innsmouth Weak Material 1 Bell Evening
+13001000 Sick Village Innsmouth Illusion Monk Event
+13100000 Submerged City Genpei Warrior_Kemari_Thunder Event
+13100005 Submerged City Genpei Warrior_Kemari_Thunder Event
+13100100 Submerged City Genpei Warrior_Sword_Thunder Event
+13100200 Submerged City Genpei Warrior Sword Consumption 1 Default
+13100201 Submerged City Genpei Warrior Sword Material 1 Night
+13100241 Submerged City Genpei Warrior Sword Material 1 Kaneyoi
+13100300 Submerged City Genpei Warrior Naginata Consumption 1 Default
+13100301 Submerged City Genpei Warrior Naginata Material 1 Night
+13100341 Submerged City Genpei Warrior Naginata Material 1 Bell Evening
+13100400 Submerged City Genpei Warrior Bow Consumption 1 Default
+13100401 Submerged City Genpei Warrior Bow Material 1 Night
+13100441 Submerged City Genpei Warrior Bow Material 1 Bell Evening
+13100500 Submerged City Genpei Warrior Kemari Consumption 1 Default
+13100501 Submerged City Genpei Warrior Kemari Material 1 Night
+13100541 Submerged City Genpei Warrior Kemari Material 1 Bell Evening
+13100600 Submerged City Genpei Warrior Sword (Lightning) Consumption 1 Default
+13100601 Submerged City Genpei Warrior Sword (Lightning) Consumption 2 Default
+13100602 Submerged City Genpei Warrior Sword (Lightning) Material 1 Night
+13100642 Submerged City Genpei Warrior Sword (Lightning) Material 1 Bell Evening
+13100700 Submerged City Genpei Warrior Naginata (Lightning) Consumption 1 Default
+13100701 Submerged City Genpei Warrior Naginata (Lightning) Consumption 2 Default
+13100702 Submerged City Genpei Warrior Naginata (Lightning) Material 1 Night
+13100742 Submerged City Genpei Warrior Naginata (Lightning) Material 1 Bell Evening
+13100800 Submerged City Genpei Warrior Kemari (Lightning) Consumption 1 Default
+13100801 Submerged City Genpei Warrior Kemari (Lightning) Consumption 2 Default
+13100802 Submerged City Genpei Warrior Kemari (Lightning) Material 1 Night
+13100842 Submerged City Genpei Warrior Kemari (Lightning) Material 1 Bell Evening
+13200000 Treasure carp general purpose
+13200100 Treasure carp event item
+13400000 Honjo Underwater Neckless Event
+13401000 Submerged city underwater headless event
+13500000 Sick village headless event
+13501000 Castle neckless event
+13502000 Canyon neckless event
+13600000 Temple Rappa Proximity Consumption 1 Default
+13600001 Temple Rappa Proximity Material 1 Morning
+13600011 Temple Rappa Proximity Material 1 Noon
+13600021 Temple Rappa Proximity Material 1 Evening
+13600031 Temple Rappa Proximity Material 1 Night
+13600041 Temple Rappa Proximity Material 1 Bell Evening
+13600100 Temple Rappa Blowgun Consumption 1 Default
+13600101 Temple Rappa Blowgun Material 1 Morning
+13600111 Temple Rappa Blowgun Material 1 Noon
+13600121 Temple Rappa Blowgun Material 1 Evening
+13600131 Temple Rappa Blowgun Material 1 Night
+13600141 Temple Rappa Blowgun Material 1 Bell Evening
+13600200 Temple Rappa Poison Blowgun Consumption 1 Default
+13600201 Temple Rappa Poison Blowgun Material 1 Morning
+13600211 Temple Rappa Poison Blowgun Material 1 Noon
+13600221 Temple Rappa Poison Blowgun Material 1 Evening
+13600231 Temple Rappa Poison Blowgun Material 1 Night
+13600241 Temple Rappa Poison Blowgun Material 1 Bell Evening
+13600300 Temple Rappa Kigasa Consumption 1 Default
+13600301 Temple Rappa Kikasa Material 1 Morning
+13600311 Temple Rappa Kikasa Material 1 Noon
+13600321 Temple Rappa Kikasa Material 1 Evening
+13600331 Temple Rappa Kikasa Material 1 Night
+13600341 Temple Rappa Kigasa Material 1 Bell Evening
+13601000 m11 Rappa Proximity Consumption 1 Default
+13601001 m11 Rappa Proximity Material 1 Morning
+13601011 m11 Rappa Proximity Material 1 Noon
+13601021 m11 Rappa Proximity Material 1 Evening
+13601031 m11 Rappa Proximity Material 1 Night
+13601041 m11 Rappa Proximity Material 1 Kaneyoi
+13601100 m11 Rappa Blowgun Consumption 1 Default
+13601101 m11 Rappa Blowgun Material 1 Morning
+13601111 m11 Rappa Blowgun Material 1 Noon
+13601121 m11 Rappa Blowgun Material 1 Evening
+13601131 m11 Rappa Blowgun Material 1 Night
+13601141 m11 Rappa Blowgun Material 1 Bell Evening
+13601200 m11 Rappa Poison Blowgun Consumption 1 Default
+13601201 m11 Rappa Poison Blowgun Material 1 Morning
+13601211 m11 Rappa Poison Blowgun Material 1 Noon
+13601221 m11 Rappa Poison Blowgun Material 1 Evening
+13601231 m11 Rappa Poison Blowgun Material 1 Night
+13601241 m11 Rappa Poison Blowgun Material 1 Bell Evening
+13601300 m11 Rappa Kigasa Consumption 1 Default
+13601301 m11 Rappa Kikasa Material 1 Morning
+13601311 m11 Rappa Kikasa Material 1 Noon
+13601321 m11 Rappa Kikasa Material 1 Evening
+13601331 m11 Rappa Kikasa Material 1 Night
+13601341 m11 Rappa Kigasa Material 1 Kaneyoi
+13602000 When the Ninja Army attacks Tokugawa Rappa Melee Consumption 1 Default
+13602001 When the Ninja Army attacks Tokugawa Rappa Proximity Material 1 Evening
+13602031 When the Ninja Army attacks Tokugawa Rappa Proximity Material 1 Night
+13602041 When the Ninja army invades Tokugawa Rappa Proximity Material 1 Kaneyoi
+13602100 When the Ninja Army attacks Tokugawa Rappa Blowgun Consumption 1 Default
+13602101 When the Ninja Army attacks Tokugawa Rappa Blowgun Material 1 Evening
+13602131 When the Ninja Army Invades Tokugawa Rappa Blowgun Material 1 Night
+13602141 When the Ninja army invades Tokugawa Rappa Blowgun Material 1 Kaneyoi
+13603000 When Tokugawa attacks Tokugawa Rappa Proximity consumption 1 Default
+13603001 When Tokugawa attacks Tokugawa Rappa Proximity Material 1 Evening
+13603031 When Tokugawa attacks Tokugawa Rappa Proximity Material 1 Night
+13603041 When Tokugawa attacks Tokugawa Rappa Proximity Material 1 Kaneyoi
+13603100 When Tokugawa attacks Tokugawa Rappa Blowgun Consumption 1 Default
+13603101 When Tokugawa attacks Tokugawa Rappa Blowgun Material 1 Evening
+13603131 When Tokugawa attacks Tokugawa Rappa Blowgun Material 1 Night
+13603141 When Tokugawa attacks Tokugawa Rappa Blowgun Material 1 Bell evening
+13604000 Event in front of the castle castle tower
+13605000 Honjo White Rappa Event
+13605100 Honjo Kigasa Rappa Event
+13605200 Honjo Tokugawa Rappa Event
+13700000 Honjo Fire Cow Event ①
+13700001 Honjo Fire Cow Event ②
+13700005 Honjo fire cow lap replacement event ①
+13800000 Submerged city fire cow event
+13800001 Submerged city fire cow event
+13800005 Submerged city fire cow event
+14000000 Honjo Kenjutsu (master) event
+14000005 Honjo Kenjutsu (master) lap replacement event
+14000100 Honjo Swordsman Normal Consumption 2 Default
+14000101 Honjo Swordsman Normal Material 1 Morning
+14000111 Honjo Swordsman Normal Material 1 Noon
+14000121 Honjo Swordsman Normal Material 1 Evening
+14000131 Honjo Swordsman Normal Material 1 Night
+14000141 Honjo Swordsman Normal Material 1 Kaneyoi
+14000200 Honjo Swordsman Tucked Up Consumption 2 Default
+14000201 Honjo Kenjutsu Raise Material 1 Morning
+14000211 Honjo Kenjutsu Raise Material 1 Noon
+14000221 Honjo Swordsman Tucked Up Material 1 Evening
+14000231 Honjo Swordsman Tucked Up Material 1 Night
+14000241 Honjo Kenjutsu Takurai Material 1 Kaneyoi
+14001000 Honjo Kenjutsu (master) Tokugawa invasion event
+14001005 Honjo swordsman (master) lap replacement event at the time of Tokugawa invasion
+14500000 Honjo Nightjars Proximity Consumption 1 Default
+14500001 Honjo Nightjars Proximity Material 1 Morning
+14500011 Honjo Nightjars Proximity Material 1 Noon
+14500021 Honjo Nightjars Proximity Material 1 Evening
+14500031 Honjo Nightjars Proximity Material 1 Night
+14500041 Honjo Nightjars Proximity Material 1 Bell Evening
+14500100 Honjo Nightjars Self-destruct consumption 1 Default
+14500200 Honjo Nightjars Shuriken Consumption 1 Default
+14500201 Honjo Nightjars Shuriken Material 1 Morning
+14500211 Honjo Nightjars Shuriken Material 1 Noon
+14500221 Honjo Nightjars Shuriken Material 1 Evening
+14500231 Honjo Nightjars Shuriken Material 1 Night
+14500241 Honjo Nightjars Shuriken Material 1 Bell Evening
+14500300 Honjo Nightjars Black Flame Encha Consumption 1 Default
+14500301 Honjo Nightjars Black Flame Encha Material 1 Morning
+14500311 Honjo Nightjars Black Flame Encha Material 1 Noon
+14500321 Honjo Nightjars Black Flame Encha Material 1 Evening
+14500331 Honjo Nightjars Black Flame Encha Material 1 Night
+14500341 Honjo Nightjars Black Flame Encha Material 1 Bell Evening
+14500400 Honjo Nightjar White Proximity Consumption 1 Default
+14500401 Honjo Nightjar White Proximity Material 1 Morning
+14500411 Honjo Nightjar White Proximity Material 1 Noon
+14500421 Honjo Nightjar White Proximity Material 1 Evening
+14500431 Honjo Nightjar White Proximity Material 1 Night
+14500441 Honjo Nightjar White Proximity Material 1 Bell Evening
+14500500 Honjo Nightjar White Shuriken Consumption 1 Default
+14500501 Honjo Nightjar White Shuriken Material 1 Morning
+14500511 Honjo Nightjar White Shuriken Material 1 Noon
+14500521 Honjo Nightjar White Shuriken Material 1 Evening
+14500531 Honjo Nightjar White Shuriken Material 1 Night
+14500541 Honjo Nightjar White Shuriken Material 1 Bell Evening
+14501000 Canyon Nightjars Proximity Consumption 1 Default
+14501001 Canyon Nightjars Proximity Material 1 Morning
+14501011 Canyon Nightjars Proximity Material 1 Noon
+14501021 Canyon Nightjars Proximity Material 1 Evening
+14501031 Canyon Nightjars Proximity Material 1 Night
+14501041 Canyon Nightjars Proximity Material 1 Bell Evening
+14501100 Canyon Nightjars Shuriken Consumption 1 Default
+14501101 Canyon Nightjars Shuriken Material 1 Morning
+14501111 Canyon Nightjars Shuriken Material 1 Noon
+14501121 Canyon Nightjars Shuriken Material 1 Evening
+14501131 Canyon Nightjars Shuriken Material 1 Night
+14501141 Canyon Nightjars Shuriken Material 1 Bell Evening
+14501200 Canyon Nightjar Black Flame Encha Consumption 1 Default
+14501201 Canyon Nightjars Black Flame Encha Material 1 Morning
+14501211 Canyon Nightjars Black Flame Encha Material 1 Noon
+14501221 Canyon Nightjars Black Flame Encha Material 1 Evening
+14501231 Canyon Nightjars Black Flame Encha Material 1 Night
+14501241 Canyon Nightjars Black Flame Encha Material 1 Bell Evening
+14502000 Ninja Army Invasion Nightjars Proximity Consumption 1 Default
+14502001 Ninja Army Invasion Nightjars Proximity Material 1 Morning
+14502011 Ninja Army Invasion Nightjars Proximity Material 1 Noon
+14502021 Ninja Army Invasion Nightjars Proximity Material 1 Evening
+14502031 Ninja Army Invasion Nightjars Proximity Material 1 Night
+14502041 Ninja Army Invasion Nightjars Proximity Material 1 Bell Evening
+14502100 Ninja Army Invasion Nightjars Self-destruct Consumption 1 Default
+14502200 Ninja Army Invasion Nightjars Shuriken Consumption 1 Default
+14502201 Ninja Army Invasion Nightjars Shuriken Material 1 Morning
+14502211 Ninja Army Invasion Nightjars Shuriken Material 1 Noon
+14502221 Ninja Army Invasion Nightjars Shuriken Material 1 Evening
+14502231 Ninja Army Invasion Nightjars Shuriken Material 1 Night
+14502241 Ninja Army Invasion Nightjars Shuriken Material 1 Bell Evening
+14502300 Ninja Army Invasion Nightjars Black Flame Encha Consumption 1 Default
+14502301 Ninja Army Invasion Nightjars Black Flame Encha Material 1 Morning
+14502311 Ninja Army Invasion Nightjars Black Flame Encha Material 1 Noon
+14502321 Ninja Army Invasion Nightjars Black Flame Encha Material 1 Evening
+14502331 Ninja Army Invasion Nightjars Black Flame Encha Material 1 Night
+14502341 Ninja Army Invasion Nightjars Black Flame Encha Material 1 Bell Evening
+14503000 Tokugawa Invasion Nightjars Proximity Consumption 1 Default
+14503001 Tokugawa invasion Nightjars Proximity Material 1 Morning
+14503011 Tokugawa invasion Nightjars Proximity Material 1 Noon
+14503021 Tokugawa invasion Nightjars Proximity Material 1 Evening
+14503031 Tokugawa invasion Nightjars Proximity Material 1 Night
+14503041 Invasion of Tokugawa Nightjars Proximity Material 1 Kaneyoi
+14503100 Tokugawa Invasion Nightjars Shuriken Consumption 1 Default
+14503101 Tokugawa invasion Nightjars Shuriken Material 1 Morning
+14503111 Tokugawa invasion Nightjars Shuriken Material 1 Noon
+14503121 Tokugawa invasion Nightjars Shuriken Material 1 Evening
+14503131 Tokugawa invasion Nightjars Shuriken Material 1 Night
+14503141 Tokugawa invasion Nightjars Shuriken Material 1 Bell evening
+14503200 Tokugawa Invasion Nightjars Black Flame Encha Consumption 1 Default
+14503201 Tokugawa Invasion Nightjars Black Flame Encha Material 1 Morning
+14503211 Invasion of Tokugawa Nightjars Black Flame Encha Material 1 Noon
+14503221 Tokugawa Invasion Nightjars Black Flame Encha Material 1 Evening
+14503231 Tokugawa Invasion Nightjars Black Flame Encha Material 1 Night
+14503241 Tokugawa Invasion Nightjars Black Flame Encha Material 1 Bell Evening
+14503300 Tokugawa Invasion Nightjar White Betrayal Proximity Consumption 1 Default
+14503301 Tokugawa Invasion Nightjar White Betrayal Proximity Material 1 Night
+14503341 Tokugawa Invasion Nightjar White Betrayal Proximity Material 1 Bell Evening
+14503400 Tokugawa Invasion Nightjar White Betrayal Shuriken Consumption 1 Default
+14503401 Tokugawa Invasion Nightjars White Betrayal Shuriken Material 1 Night
+14503441 Tokugawa Invasion Nightjar White Betrayal Shuriken Material 1 Bell Evening
+14700000 Honjo_Ninja Army Kokageshu Event_Attic ①
+14700001 Honjo_Ninja Army Kokageshu Event_Attic ②
+14700005 Honjo_Ninja Army Kokageshu Orbital Replacement Event_Attic ①
+14700100 Ninja Army Invasion Solitary People Normal Consumption 1 Default
+14700101 Ninja Army Invasion Lonely People Normal Material 1 Evening
+14700131 Ninja Army Invasion Lonely People Normal Material 1 Night
+14700141 Ninja Army Invasion Solitary People Normal Material 1 Bell Evening
+14700200 Ninja Army Invasion Solitary People Poisonous Hand Consumption 1 Default
+14700201 The Ninja Army Strikes the Lonely Shadow and Poisonous Hand Material 1 Evening
+14700231 The Ninja Army Strikes the Lonely Shadow Poisonous Hand Material 1 Night
+14700241 Ninja Army Invasion Solitary People Poison Hand Material 1 Bell Evening
+14701000 Honjo_Ninja Army Kokageshu Event_White Snake Shrine ①
+14701001 Honjo_Ninja Army Kokageshu Event_White Snake Shrine ②
+14701005 Honjo_Ninja Army Kokageshu Orbital Replacement Event_White Snake Shrine ①
+14702000 Hidden Prison Secret Life of the Shadows Event ①
+14702001 Hidden Prison Secret Life of the Shadows Event ②
+14702005 Hidden prison Secret life lonely people lap replacement event ①
+14703000 Samurai residence Kokageshu three-storied pagoda First time
+14703010 Samurai residence
+14703100 Samurai Residence_Truth The Lonely People Dog Master ①A
+14703101 Samurai Residence_Truth The Lonely People Dog Master ②
+14703105 Samurai Residence_Truth The Lonely People Dog Master ①B
+14703200 Samurai Residence Truth Solitary People Normal Consumption 1 Default
+14703201 Samurai Residence Truth Lonely People Normal Material 1 Evening
+14703231 Samurai Residence Truth Lonely People Normal Material 1 Night
+14703241 Samurai Residence Truth Solitary People Normal Material 1 Kaneyoi
+14703300 Samurai Residence Truth Lonely People Poisonous Hand Consumption 1 Default
+14703301 The Truth Of The Samurai House
+14703331 The Truth Of The Samurai House Shiki Lonely Shadow Poisonous Hand Material 1 Night
+14703341 The Truth Of The Samurai House Shiki The Lonely Shadow Poisonous Hand Material 1 Zhong Xiao
+14704000 Sick Village Lonely People Event
+14704100 Sick Village Lonely Poisonous Hand Consumption 1 Default
+14704101 Diseased village lone shadow public poisonous hand material 1 Chao
+14704111 Sick Village Kokageshu Poison Hand Material 1 Noon
+14704121 Diseased village lone shadow crowd poisonous hand material 1 evening
+14704131 Diseased village lone shadow crowd poisonous hand material 1 night
+14704141 Bing み Village Lonely Shadow Public Poisonous Hand Material 1 Zhong Xiao
+14705000 Tokugawa Invasion Solitary People Normal Consumption 1 Default
+14705001 Tokugawa Invasion Solitary People Normal Material 1 Evening
+14705031 Tokugawa Invasion Solitary People Normal Material 1 Night
+14705041 Invasion of Tokugawa Solitary people Normal material 1 Kaneyoi
+14705100 Tokugawa Invasion Solitary People Poisonous Hand Consumption 1 Default
+14705101 Tokugawa Invasion Solitary People Poisonous Hand Material 1 Evening
+14705131 Tokugawa Invasion Solitary People Poisonous Hand Material 1 Night
+14705141 Tokugawa Invasion Solitary People Poisonous Hand Material 1 Kaneyoi
+15000000 Sick Village Villager Zombie General Purpose Consumption 1 Default
+15000001 Sick Village Villager Zombie General Purpose Material 1 Morning
+15000011 Sick Village Villager Zombie General Purpose Material 1 Noon
+15000021 Sick Village Villager Zombie General Purpose Material 1 Evening
+15000031 Sick Village Villager Zombie General Purpose Material 1 Night
+15000041 Sick Village Villager Zombie General-purpose Material 1 Kaneyoi
+15000100 Sick Village Villager Zombie Knife Consumption 1 Default
+15000101 Sick Village Villager Zombie Knife Material 1 Morning
+15000111 Sick Village Villager Zombie Knife Material 1 Noon
+15000121 Sick Village Villager Zombie Knife Material 1 Evening
+15000131 Sick Village Villager Zombie Knife Material 1 Night
+15000141 Sick Village Villager Zombie Knife Material 1 Kaneyoi
+15000200 Sick Village Villager Zombie Mad Dumpling Consumption 1 Default
+15000201 Sick Village Villager Zombie Mad Dumpling Material 1 Morning
+15000211 Sick Village Villager Zombie Mad Dumpling Material 1 Noon
+15000221 Sick Village Villager Zombie Mad Dumpling Material 1 Evening
+15000231 Sick Village Villager Zombie Mad Dumpling Material 1 Night
+15000241 Sick Village Villager Zombie Mad Dumpling Material 1 Kaneyoi
+15200000 Dungeon Prisoner Zombie Bare Hand Consumption 2 Default
+15500000 Samurai Residence Bandit Sword Consumption 1 Default
+15500001 Samurai residence field thief sword material 1 morning
+15500011 Samurai residence field thief sword material 1 noon
+15500021 Samurai residence field thief sword material 1 evening
+15500031 Samurai residence field thief sword material 1 night
+15500041 Samurai residence field thief sword material 1 bell evening
+15500100 Samurai Residence Bandit Ax Consume 1 Default
+15500101 Samurai Residence Bandit Ax Material 1 Morning
+15500111 Samurai Residence Bandit Ax Material 1 Noon
+15500121 Samurai Residence Bandit Ax Material 1 Evening
+15500131 Samurai Residence Bandit Ax Material 1 Night
+15500141 Samurai Residence Bandit Ax Material 1 Bell Evening
+15500200 Samurai Residence Bandit Torch Consumption 1 Default
+15500201 Samurai Residence Bandit Matsuaki Material 1 Morning
+15500211 Samurai Residence Bandit Matsuaki Material 1 Noon
+15500221 Samurai Residence Bandit Torch Material 1 Evening
+15500231 Samurai Residence Bandit Torch Material 1 Night
+15500241 Samurai Residence Bandit Matsuaki Material 1 Bell Evening
+15500300 Samurai Residence Bandit Shield Consumption 1 Default
+15500301 Samurai Residence Bandit Shield Material 1 Morning
+15500311 Samurai Residence Bandit Shield Material 1 Noon
+15500321 Samurai Residence Bandit Shield Material 1 Evening
+15500331 Samurai Residence Bandit Shield Material 1 Night
+15500341 Samurai Residence Bandit Shield Material 1 Bell Evening
+15500400 Samurai Residence Bandit Fire Bow Consumption 1 Default
+15500401 Samurai Residence Bandit Fire Bow Material 1 Morning
+15500411 Samurai Residence Bandit Fire Bow Material 1 Noon
+15500421 Samurai Residence Bandit Fire Bow Material 1 Evening
+15500431 Samurai Residence Bandit Fire Bow Material 1 Night
+15500441 Samurai Residence Bandit Fire Bow Material 1 Bell Evening
+15500500 Samurai Residence Bandit Heavy Equipment Consumption 1 Default
+15500501 Samurai residence bandit heavy equipment material 1 morning
+15500511 Samurai residence bandit heavy equipment material 1 noon
+15500521 Samurai residence bandit heavy equipment material 1 evening
+15500531 Samurai Residence Bandit Heavy Material 1 Night
+15500541 Samurai Residence Bandit Heavy Equipment Material 1 Kaneyoi
+15501000 Samurai Residence Truth Field Thief Sword Consumption 1 Default
+15501001 Samurai residence truth field thief sword material 1 morning
+15501011 Samurai residence truth field thief sword material 1 noon
+15501021 Samurai Residence Truth Field Thief Sword Material 1 Evening
+15501031 Samurai Residence Truth Wild Thief Sword Material 1 Night
+15501041 Samurai residence truth field thief sword material 1 bell evening
+15501100 Samurai Residence Truth Bandit Ax Consumption 1 Default
+15501101 Samurai Residence Truth Bandit Ax Material 1 Morning
+15501111 Samurai Residence Truth Bandit Ax Material 1 Noon
+15501121 Samurai Residence Truth Bandit Ax Material 1 Evening
+15501131 Samurai Residence Truth Bandit Ax Material 1 Night
+15501141 Samurai Residence Truth Bandit Ax Material 1 Bell Evening
+15501200 Samurai Residence Truth No Thief Matsuaki Consumption 1 Default
+15501201 Samurai Residence Truth Bandit Torch Material 1 Morning
+15501211 Samurai Residence Truth No Thief Matsuaki Material 1 Noon
+15501221 Samurai Residence Truth No Thief Torch Material 1 Evening
+15501231 Samurai Residence Truth No Thief Torch Material 1 Night
+15501241 Samurai Residence Truth No Thief Torch Material 1 Kaneyoi
+15501300 Samurai Residence Truth Wild Thief Shield Consumption 1 Default
+15501301 Samurai Residence Truth Wild Thief Shield Material 1 Morning
+15501311 Samurai Residence Truth Wild Thief Shield Material 1 Noon
+15501321 Samurai Residence Truth Wild Thief Shield Material 1 Evening
+15501331 Samurai Residence Truth Wild Thief Shield Material 1 Night
+15501341 Samurai Residence Truth Wild Thief Shield Material 1 Bell Evening
+15501400 Samurai Residence Truth Field Thief Fire Bow Consumption 1 Default
+15501401 Samurai Residence Truth Field Thief Fire Bow Material 1 Morning
+15501411 Samurai Residence Truth Field Thief Fire Bow Material 1 Noon
+15501421 Samurai Residence Truth Field Thief Fire Bow Material 1 Evening
+15501431 Samurai Residence Truth Field Thief Fire Bow Material 1 Night
+15501441 Samurai Residence Truth Field Thief Fire Bow Material 1 Bell Evening
+15501500 Samurai Residence Truth Field Thief Heavy Equipment Consumption 1 Default
+15501501 Samurai residence truth field thief heavy equipment material 1 morning
+15501511 Samurai residence truth field thief heavy equipment material 1 noon
+15501521 Samurai Residence Truth Bandit Heavy Equipment Material 1 Evening
+15501531 Samurai Residence Truth Bandit Heavy Equipment Material 1 Night
+15501541 Samurai Residence Truth Bandit Heavy Equipment Material 1 Kaneyoi
+15501600 Samurai Residence Truth Field Thief Poison Bow Consumption 1 Default
+15501601 Samurai Residence Truth Wild Thief Poison Bow Material 1 Morning
+15501611 Samurai Residence Truth Wild Thief Poison Bow Material 1 Noon
+15501621 Samurai Residence Truth Wild Thief Poison Bow Material 1 Evening
+15501631 Samurai Residence Truth Wild Thief Poison Bow Material 1 Night
+15501641 Samurai Residence Truth Wild Thief Poison Bow Material 1 Bell Evening
+15502000 Temple Bandit Sword Consumption 1 Default
+15502001 Temple field thief sword material 1 morning
+15502011 Temple field thief sword material 1 noon
+15502021 Temple field thief sword material 1 evening
+15502031 Temple Bandit Sword Material 1 Night
+15502041 Temple field thief sword material 1 bell evening
+15502100 Temple Bandit Ax Consume 1 Default
+15502101 Temple Bandit Ax Material 1 Morning
+15502111 Temple Bandit Ax Material 1 Noon
+15502121 Temple Bandit Ax Material 1 Evening
+15502131 Temple Bandit Ax Material 1 Night
+15502141 Temple Bandit Ax Material 1 Bell Evening
+15502200 Temple Bandit Torch Consumption 1 Default
+15502201 Temple Bandit Torch Material 1 Morning
+15502211 Temple Bandit Torch Material 1 Noon
+15502221 Temple Bandit Torch Material 1 Evening
+15502231 Temple Bandit Torch Material 1 Night
+15502241 Temple Bandit Torch Material 1 Bell Evening
+15502300 Temple Bandit Shield Consumption 1 Default
+15502301 Temple Bandit Shield Material 1 Morning
+15502311 Temple Bandit Shield Material 1 Noon
+15502321 Temple Bandit Shield Material 1 Evening
+15502331 Temple Bandit Shield Material 1 Night
+15502341 Temple Bandit Shield Material 1 Bell Evening
+15502400 Temple Bandit Fire Bow Consumption 1 Default
+15502401 Temple Bandit Fire Bow Material 1 Morning
+15502411 Temple Bandit Fire Bow Material 1 Noon
+15502421 Temple Bandit Fire Bow Material 1 Evening
+15502431 Temple Bandit Fire Bow Material 1 Night
+15502441 Temple Bandit Fire Bow Material 1 Bell Evening
+15502500 Temple Bandit Heavy Equipment Consumption 1 Default
+15502501 Terano Thief Reload Material 1 Chaos
+15502511 Temple Bandit Heavy Equipment Material 1 Noon
+15502521 Terano Thief Reload Material 1 Evening
+15502531 Terano Thief Reloading Material 1 Night
+15502541 Temple Thief Reloading Material 1 Zhong Xiao
+15502600 Temple Bandit Poison Bow Consumption 1 Default
+15502601 Temple Bandit Poison Bow Material 1 Morning
+15502611 Temple Bandit Poison Bow Material 1 Noon
+15502621 Temple Bandit Poison Bow Material 1 Evening
+15502631 Temple Bandit Poison Bow Material 1 Night
+15502641 Temple Bandit Poison Bow Material 1 Bell Evening
+17000000 Ninja Army Invasion Tokugawa Samurai Tanto Consumption 1 Default
+17000001 Ninja Army Invasion Tokugawa Samurai Tanto Material 1 Evening
+17000031 Ninja Army Invasion Tokugawa Samurai Tanto Material 1 Night
+17000041 Ninja Army Invasion Tokugawa Samurai Tanto Material 1 Bell Evening
+17001000 Tokugawa Invasion Tokugawa Samurai Shigeji Sword Consumption 1 Default
+17001001 Tokugawa Invasion Tokugawa Samurai Shigeji Sword Material 1 Night
+17001041 Tokugawa Invasion Tokugawa Samurai Shigeji Sword Material 1 Bell Evening
+17001100 Tokugawa Invasion Tokugawa Samurai Light Two Sword Consumption 1 Default
+17001101 Tokugawa Invasion Tokugawa Samurai Light Two Sword Material 1 Night
+17001141 Tokugawa Invasion Tokugawa Samurai Light Two Sword Material 1 Bell Evening
+17001200 Tokugawa Invasion Tokugawa Samurai Short Two Sword Consumption 1 Default
+17001201 Tokugawa Invasion Tokugawa Samurai Short Two Sword Material 1 Night
+17001241 Tokugawa Invasion Tokugawa Samurai Short Two Sword Material 1 Bell Evening
+17001300 Tokugawa Invasion Tokugawa Samurai Flamethrower Consumption 1 Default
+17001301 Tokugawa Invasion Tokugawa Samurai Flame Radiation Material 1 Night
+17001341 Tokugawa Invasion Tokugawa Samurai Flame Radiation Material 1 Bell Evening
+17001400 Tokugawa Invasion Tokugawa Samurai Incendiary Gun Consumption 1 Default
+17001401 Tokugawa Invasion Tokugawa Samurai Incendiary Gun Material 1 Night
+17001441 Tokugawa Invasion Tokugawa Samurai Incendiary Gun Material 1 Bell Evening
+20000000 Revenge Spirit_Miscellaneous Fish
+20000100 Revenge Spirit_Strong Fish
+50100000 Canyon snake
+50200000 Honjo Caucasian Slave Event ①
+50200001 Honjo Caucasian Slave Event ②
+50200005 Honjo Caucasian slave lap replacement event ①
+50201000 Castle Caucasian Slave Event ① A
+50201001 Castle Caucasian Slave Event ②
+50201005 Castle Caucasian Slave Event ① B
+50204000 Dungeon Experimental Body Event
+50500000 Canyon Nishikigoi event
+70000000 Sick village female player
+70000001 Sick village female player
+70000005 Sick village female player

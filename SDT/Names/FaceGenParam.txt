@@ -1,0 +1,147 @@
+0 testData
+1 Male_Prototype 1
+2 Male_Prototype 2
+3 Male_Prototype 3
+4 Male_Prototype 4
+5 Male_Prototype 5
+6 Male_Prototype 6
+7 Male_Prototype 7
+8 Male_Prototype 8
+9 Male_Prototype 9
+10 Male_Prototype 10
+11 Male_Prototype 11
+12 Male_Prototype 12
+13 Male_Prototype 13
+14 Male_Prototype 14
+20 Female_Prototype 1
+21 Female_Prototype 2
+30 4 Final Edition Warrior_Man
+31 4 Final Edition Knight_Man
+32 4 End Edition Wizard_Woman
+33 4 End Edition Shaman_Man
+34 E3 Sun Knight_Man
+100 Default face test_01
+101 Default face test_02
+102 Default face test_03
+103 Default face test_04
+104 Default face test_05
+105 Default face test_06
+106 Default face test_07
+107 Default face test_08
+108 Default face test_09
+109 Default face test_10
+110 Default face test_11
+111 Default face test_12
+112 Default face test_13
+113 Default face test_14
+114 Default face test_15
+115 Default face test_16
+116 Default face test_17
+117 Default face test_18
+118 Default face test_19
+119 Default face test_20
+120 Default face test_21
+121 Default face test_22
+122 Default face test_23
+123 Default face test_24
+124 Default face test_25
+125 Default face test _26
+126 Default face test _27
+127 Default face test _28
+128 Default face test _29
+129 Default face test_30
+130 Default face test_31
+131 Default face test _32
+132 Default face test_33
+133 Default face test_34
+134 Default face test_35
+135 Default face test _36
+136 Default face test _37
+137 Default face test _38
+138 Default face test _39
+139 Default face test_40
+140 Default face test_41
+141 Default face test _42
+142 Default face test_43
+143 Default face test_44
+144 Default face test_45
+145 Default face test_46
+146 Default face test _47
+147 Default face test _48
+148 Default face test _49
+149 Default face test_50
+300 Gray saint
+1000 Commoner face
+1001 Peasant face of the Gosashi River
+1002 Astra noble face
+1003 Ryu Gakuin&#39;s student face
+1004 Sol Rondo saint face
+1005 Catalina&#39;s cheerful face
+1006 Karim&#39;s gloomy face
+1007 Zena&#39;s old face
+1008 Onuma&#39;s different phase
+1009 East strange face
+2000 Commoner face
+2001 Peasant face of the Gosashi River
+2002 Astra noble face
+2003 Ryu Gakuin&#39;s student face
+2004 Sol Rondo saint face
+2005 Catalina&#39;s cheerful face
+2006 Karim&#39;s gloomy face
+2007 Zena&#39;s old face
+2008 Onuma&#39;s different phase
+2009 East strange face
+6000 Knight of the sun
+6001 Knight of the Sun (Sunworm Ver)
+6002 Knight of the Sun (Dead)
+6010 Knight of the dark moon
+6020 Knight Ostra
+6021 Knight Ostra (hostile)
+6030 &quot;Big Hat&quot; Logan
+6031 &quot;Big Hat&quot; Logan (Dead)
+6040 Logan&#39;s disciple
+6041 Logan&#39;s disciple (dead)
+6050 Princess of the exiled country
+6060 Gray saint
+6070 White saint
+6071 White saint (dead)
+6080 Knight of the Saint A
+6090 Knight of the Saint B
+6091 Knight of the Saint B (Dead)
+6100 Knight of the Saint C
+6101 Knight of the Saint C (Dead)
+6130 Vase Shaman
+6131 Vase Shaman (Dead)
+6170 Wandering chaos
+6180 Healer
+6220 Blacksmith Rickert
+6250 A broken merchant
+6260 Trickster
+6270 A broken warrior
+6271 Broken heart warrior (dead)
+6280 Onion knight
+6290 Onion knight&#39;s daughter
+6300 Embraced Knight Lautrec
+6310 Nobushi
+6320 Cemetery coward patch
+6370 Dragon priest
+6390 Black Knight Tarkus
+6400 Belka Knight
+6410 Witch Marose
+6420 Ninja
+6490 Lautrec&#39;s companion 1
+6500 Lautrec&#39;s companion 2
+6530 Swamp Woman (NPC Multi)
+6550 Temple Knight (NPC Multi)
+6560 Thorn Knight (NPC Multi)
+6570 Yellow robe (NPC multi)
+6580 Castle Tower NPC (Havell)
+6600 NPC (Ricard) of the 1st Tower of the Royal Castle
+6610 Crystal Knight
+6801 Bandit A Gatekeeper
+6802 Bandit B Warrior
+6803 Bandit C Bower
+6804 Bandit D Magic (Attack)
+6805 Bandit E Magic (Recovery)
+6806 Bandit F covert
+9999 Phantom (without face)

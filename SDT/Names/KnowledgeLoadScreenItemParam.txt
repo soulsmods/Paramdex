@@ -1,0 +1,65 @@
+0 Fixed target
+1 Thrust attack
+2 Step
+3 Closeout
+4 Items used
+5 Dash jump
+6 Trampling
+7 Breaking back
+8 Eavesdropping
+9 Dash slash
+10 Avoid rolling
+11 Gourd seeds
+12 Growth of physical strength
+13 Growth of offensive power
+14 Stealth effect
+15 HP and core
+16 On fire
+17 Vigilance
+18 Demon Buddha
+19 Night eyes
+20 The power of regeneration
+21 virus
+22 Scary
+23 thunder
+24 Skill acquisition
+25 Stealth technique
+26 Stealth artificial limb style
+27 Ashina
+28 Senmineji Kenpo
+29 Strengthening artificial limbs
+30 Demon Buddha warehouse function
+31 Revenge spirit
+32 Form fee
+33 A gecko crawling on the ground
+34 Stop Shinobi
+35 Regenerative surgery recurrence
+36 Help probability
+37 Coughing sound
+38 Flow Hitohira
+39 Dragon cough
+40 Trunk and shinobi
+41 Play
+42 Slash back attack
+43 Wound medicine gourd
+44 Hanging shinobi
+45 Shinobi with wall
+46 Proper use of artificial limbs
+47 Red eyes
+48 Distant grappling hook target
+49 beast
+50 Destruction of wooden shield
+51 Armor
+52 Core recovery speed
+53 Blue rust poison
+54 Shuriken
+55 candy
+56 Genre skills
+57 Skill classification
+58 Playing is a moment
+59 Memorial
+60 Immortal warrior
+61 Treasure carp
+62 Buddhist priest
+63 Message
+64 Sharp attack

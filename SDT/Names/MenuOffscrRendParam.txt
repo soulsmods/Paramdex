@@ -1,0 +1,11 @@
+0 For character makeup preview &lt;whole body&gt;
+1 For character makeup preview &lt;face&gt;
+2 For status menu &lt;whole body&gt;
+3 For ranking menu &lt;whole body&gt;
+10 For character makeup grid &lt;face&gt;
+11 For kick menu &lt;face&gt;
+12 For status menu &lt;face&gt;
+13 For ranking menu &lt;face&gt;
+14 For summon sign &lt;face&gt;
+15 &lt;Face&gt; for game end confirmation menu
+20 For profile selection &lt;face&gt;

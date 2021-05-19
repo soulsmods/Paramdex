@@ -1,0 +1,6 @@
+80 Front defenseless production camera
+81 Front defenseless production camera (pulled out)
+82 Front defenseless production camera (for hammering)
+83 Front defenseless production camera (for large sword)
+90 Rear defenseless production camera
+92 Rear defenseless production camera (for mallet)

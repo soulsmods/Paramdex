@@ -1,0 +1,149 @@
+0 test data
+1 No arts
+10 Bare hand: Right hand arts activated
+60 Small shield: Right hand arts activated
+70 Great Shield: Activate Right Hand Arts
+80 Middle shield: Right hand arts activated
+90 Small shield: Parry
+91 Middle shield: Parry
+92 Small Shield: Spell Parry
+93 Middle shield: Spell Parry
+99 Dagger: Parry
+100 Dagger: Strong Rock Step
+101 Dagger: Shield penetration: Do not store one-shot weapons
+102 Dagger: Underground Prisoner: One Shot
+103 Dagger: Candlestick: Do not store one-shot weapons
+104 Dagger: Rosalia: One Shot
+105 Dagger: Fang: Do not store one-shot weapons
+200 Straight sword: Ready
+201 Straight sword: Stepping on
+202 Straight sword: Candlestick: One-shot Weapon not stored
+203 Straight sword: Sun: Do not store one-shot weapons
+204 Straight sword: Brother: Ready
+205 Straight Sword: Dark Knight: Ready
+300 Great Sword: Ready
+301 Great Sword: King of the Dead: One Shot
+302 Great Sword: Last Boss: One Shot
+303 Great Sword: Moonlight: One Shot
+304 Great Sword: Old King: Ready
+305 Great Sword: Twin Princes Combined: Ready
+306 Great Sword: Altri: Ready
+307 Great Sword: Executioner Sword: Stepping on
+308 Great Sword: Bastard Sword: Stepping on
+309 Great Sword: Storm Ruler: Special Position
+310 Great sword: Patience
+400 Oversized sword: Stepping on
+401 Oversized Sword: Watcher: Parry
+402 Oversized Sword: Charge
+403 Oversized Sword: Old King: Stepping on
+404 Oversized sword: Twin prince brother: Stepping on
+405 Oversized sword: Step on (horizontal rotation)
+406 Oversized Sword: Black Knight: Stepping on
+407 Oversized Sword: Smoke: Stepping on
+500 Sword: Ready
+501 Sword: Fang: One Shot
+502 Sword: Ricard: One-shot Weapon not stored
+600 Curved sword: Rotate
+601 Sword: Missing month: One shot
+602 Sword: King of Storms: Rotation
+603 Curved Sword: Sulliburn: Rotate
+604 Sword: Shortel: Rotate
+605 Light sword: Rotate
+606 Light sword: Painting protection: Rotation
+700 Omagari Sword: Rotation
+701 Omagari Sword: Wolf: Rotate
+702 Omagari Sword: Skeleton: Rotate
+703 Omagari Sword: Forest Keeper: Rotation
+800 Sword: stance
+801 Sword: Seppuku sword: One shot
+802 Sword: Clothesline: Ready
+803 Sword: Fang: One shot
+900 Ax: Walk Rye
+901 Ax: Cut meat: One shot
+902 Ax: 4 Knights: One Shot
+903 Ax: Strong Rock Step
+1000 Large Ax: Walk Rye
+1001 Large Ax: Dragon King: One Shot
+1002 Large Ax: Firewood Demon: One Shot
+1003 Large Ax: Guardian Knight: One Shot
+1004 Large Ax: Harek: Walk Rye
+1005 Large ax: Sharpen: One shot
+1100 Mallet: I&#39;m slow
+1101 Hammer: Walk Rye
+1102 Mallet: magic enhancement
+1103 Hammer: Pick: Patience
+1200 Otsuchi: Patience
+1201 Otsuchi: Ash Demon: Patience
+1202 Otsuchi: Gargoyle: Patience
+1203 Otsuchi: Walk Rye
+1204 Otsuchi: Black dog: Patience
+1205 Gavel: Rotation
+1206 Otsuchi: Ice ax: Patience
+1300 Spear: Charge
+1301 Spear: King of Storms: One Shot
+1302 Spear: Rosalia: One Shot
+1303 Spear: Fang: One Shot
+1304 Spear: Sullivan: Magical Enhancement
+1305 Spear: Not good: One shot
+1306 Spear: Lance: Assault
+1307 Spear: Fork: Charge
+1308 Spear: Dragon Hunting: Charge
+1309 Spear: Gargoyle: Charge
+1310 Spear: Cardinal: Charge
+1311 Spear: Rotate
+1400 Halberd: Rotate
+1401 Halberd: Royal Castle Fat: Rotating
+1402 Halberd: Gunda: Charge
+1403 Halberd: Mother Dragon: One Shot
+1404 Halberd: Moonlight Witch: One Shot
+1405 Halberd: Crescent: Walk Rye
+1406 Halberd: Charge
+1407 Halberd: Patience
+1500 Sickle: Headshot
+1501 Sickle: Thirsty: One shot
+1502 Sickle: Sullivan: One Shot
+1503 Sickle: Twin Prince: One Shot
+1600 Whip: Do not store one-shot weapons
+1601 Whip: Ash Demon: Do not store one-shot weapons
+1700 Fist: Strong rock step
+1701 Fist: Firewood Demon Knuckle: Rotate
+1702 Fist: Dark Hand: Throw
+1703 Fist: Cestvs: Patience
+1800 Claws: Headshot
+1801 Nail: One shot
+1802 Claw: Strong lock step
+1900 Koyumi: Rapid fire
+1901 Small bow: strong shot
+1902 Koyumi: Diffusion
+1903 Koyumi: Sullivan: Strong fire
+2000 Big Bow: Through
+2001 Big Bow: Through
+2101 Crossbow: One shot
+2102 Crossbow: Strong rock step
+2200 Staff: magic enhancement
+2201 Rod: Crystallized Ancient: Magical Strengthening
+2202 Wand: Zombie Crow: Magical Enhancement
+2203 Wand: Logan: Magical Enhancement
+2300 Talisman: Patience Chant (Middle)
+2301 Suzu: Magic enhancement (regeneration)
+2302 Talisman: One Shot (Full)
+2303 Talisman: Patience Chant (Weak)
+2304 Talisman: Patience Chant (Strong)
+2400 Fire of Magic: One Shot (Full)
+2500 Twin Dagger: Strong Rock Step
+2600 Double sword: Rotate
+2700 Hyperbolic sword: Rotate
+2701 Hyperbolic Sword: Elite: Rotate
+2710 Hyperbolic Sword: Kiaran: Rotation
+2720 Hyperbolic Sword: Tracker: Rotate
+2800 Twin sword: Headshot
+2900 Double Guns: Suddenly
+3000 Twin ax: Rotate
+3100 Twin mallet: Rotation
+3200 Middle shield: One shot (full)
+3201 Middle shield: Thorn shield: One shot (full)
+3300 Large shield: One shot (full)
+3301 Large shield: Gunda: One shot (full)
+3310 Great Shield: Havel: One Shot (Full)
+3320 Large shield: Skeleton: One shot (full)
+3400 Small shield: One shot (full)

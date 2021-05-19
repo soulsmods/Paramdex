@@ -1,0 +1,14 @@
+0 For players
+1000000 Enemy initial value
+1000001 for test
+1000100 Enemy_small fish
+1000200 Enemy_strong enemy
+1012000 Enemy_Battle Tutorial Ochimusha_Collapse Shinobi Killing Tutorial
+1040000 Enemy _ Centipede University only
+1060000 Enemy_Rotating Spearman Only
+1070000 Enemy_Shura Samurai
+1130000 Enemy_Nanban Armor
+5000000 Enemy _ Dedicated to the Haunting Monk
+5060000 Enemy_Ninja Army Chief
+5080000 Enemy_Cavalry Warrior Only
+5100000 Enemy_Yaksha Monkey Only

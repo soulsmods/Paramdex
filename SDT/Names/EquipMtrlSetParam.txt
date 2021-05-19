@@ -1,67 +1,33 @@
-1000 Uncorrected weapon
-1100 Throw knife
-1200 Molotov cocktail
-5000 Right-handed sword_style: None
-5100 Right-handed sword_style technique: rotary sword
-5200 Right-handed sword_style technique: jumping and slashing
-5300 Right-handed sword_style technique: face-to-face
-5400 Right-handed sword_style technique: Kensei Iai
-5500 Right-handed sword_style technique: Iai
-5600 Right-handed sword_style technique: Eight-handed rush
-5700 Right-handed sword_style technique: immortal sword
-5800 Right-handed sword_style technique: kick rush
-5900 Right-handed knife_genre skill: boxing
-6000 Right-handed sword_style technique: sneak stab
-6100 Right-handed sword_style technique: Invisible Iai continuous attack
-7000 Right-handed sword_style technique: jumping and slashing +1
-7100 Right-handed sword_style skill: Face-up +1
-7200 Right-handed sword_style technique: Eight-flying rush +1
-7300 Right-handed sword_style technique: immortal sword +1
-7400 Right-handed sword_style: Kick rush +1
-7500 Right Hand Knife_ Genre Skill: Punch +1
-7600 Right-handed sword_style technique: sneak stab +1
-70000 Shuriken LV1
-70100 Shuriken LV2 (can be stored)
-70200 Shuriken LV3-A (can be stored + penetrated)
-70300 Shuriken LV3-B (can be stored + butterfly phantom bullet)
-70400 Shuriken LV3-C (can be stored + throwing money)
-70500 Shuriken LV4 (can be stored + penetration + power up)
-71000 Firecracker LV1
-71100 Firecracker LV2 (It’s possible to slip away)
-71200 Firecrackers LV3-A (you may slip + explosion time prolonged)
-71300 Firecrackers LV3-B (slipping possible + hazardous substances)
-72000 Ignition LV1
-72100 Ignition LV2 (can be stored)
-72200 Ignition LV3 (can be stored + flame can be emitted)
-72300 Ignition LV4 (can be stored + flame can be emitted + anti-spirit)
-73000 Axe LV1
-73100 Ax LV2 (can be stored)
-73200 Axe LV3 (slide め possibility + burst)
-73300 Ax LV4 (can be stored + explodes + illusion eraser)
-74000 Transformation LV1
-74100 Transformation LV2 (can be activated after damage)
-74200 Transformation LV3 (Can be activated after damage + Shock wave when activated)
-75000 Kodachi LV1
-75100 Kodachi LV2 (derivative attack possible)
-75200 Kodachi LV3-A (derivative attack possible + guard penetration)
-75300 Kodachi LV3-B (derivative attack possible + poison fog spray)
-76000 Iron fan LV1
-76100 Iron fan LV2 (can be turned)
-76200 Iron fan LV3-A (can be turned + anti-flame)
-76300 Iron fan LV3-B (can be turned + anti-spirit)
-77000 Enemy turning LV1
-77100 Enemy turning LV2 (can be activated continuously)
-77200 Enemy turning LV3 (continuous activation possible + stealing)
-78000 Gun LV1
-78100 Spear LV2-A (Available for charge)
-78200 Spear LV2-B
-78300 Spear LV3-A (chargeable assault + corkscrew)
-78400 Spear LV3-B (Can be wiped off + flame)
-79000 Finger flute LV1
-79100 Finger flute LV2 (you can slip away)
-79200 Whistling LV3 (can be stored + minor)
-110000 bare hands
-110900 Bare hand_for sword confirmation
+1 Scale requirements_1 pieces
+2 Scale requirements_2
+3 Scale requirement_3 pieces
+4 Scale requirements_4
+5 Scale requirements_5 pieces
+6 Scale requirements_6 pieces
+7 Scale requirements_7 pieces
+8 Scale requirements_8 pieces
+9 Scale requirements_9 pieces
+10 Scale requirement_10 pieces
+11 Scale requirements_11 pieces
+12 Scale requirements_12 pieces
+13 Scale requirements_13 pieces
+14 Scale requirements_14 pieces
+15 Scale requirements_15 pieces
+16 Scale requirements_16 pieces
+17 Scale requirements_17 pieces
+18 Scale requirements_18 pieces
+19 Scale requirements_19 pieces
+20 Scale requirements_20 pieces
+100000 Shuriken
+100010 Firecrackers
+100020 Ignition
+100030 Preparation ax
+100040 Transformation
+100050 Kodachi
+100060 Iron fan
+100070 Turn the enemy
+100080 Preparation spear
+100090 Finger flute
 200000 Artificial limb stealth: Wire attack
 200100 Ninja: Aerial Guard / Jasuga
 200200 Artificial limb ninja style: Aerial artificial limb ninja
@@ -77,6 +43,7 @@
 301300 Artificial limb ninja style: Matoi slash
 310000 Artificial limb ninja style: Special sword_Dive slash lifted
 310100 Artificial limb stealth: Special sword _ Dive slash enhancement +1
+400000 Ashina style: Reservoir thrust
 410000 Ashina style: Deadly sword _ face-to-face lifted
 410100 Ashina style: Special sword_face-up strengthening +1
 411000 Ashina style: Deadly sword _ Iai lifted
@@ -89,8 +56,10 @@
 612100 Combined: Deadly Sword_Immortal Slash Slash Strengthening +1
 620000 Covert A (make the sign smaller)
 620100 Covert B (makes the sound quieter)
+620200 Covert + 1C
 630000 Lucky +1A
 630100 Lucky +1B
+630200 Lucky +1C
 640000 Knowledge of medicine + 1A
 640100 Knowledge of medicine + 1B
 640200 Knowledge of medicine + 1C
@@ -110,18 +79,6 @@
 660600 Jasuga&#39;s trunk shaving UP
 660700 Jasuga rear sword trunk sharpening UP
 660800 Guard / Jasuga&#39;s trunk cut
-670000 Deadly Sword_Immortal Sword Lifted
-671000 Deadly Sword_Sword Holy Iai Ban Lifted
-672000 Special Sword_Hachizara Flying Rush Lifted
-673000 Deadly Sword_Invisible Iai Continuous Attack Lifted
-680000 Unlimited breathing lifted
-681000 Anti-aircraft shinobi ban lifted
-690000 Not lifted the ban_genre skills
-690100 Not lifted _ genre skills enhancement
-690200 Unbanned_action
-690300 Unbanned_status
-690400 Unlifted_Composite Stream
-699000 Private_common to all skills
 701000 Virtual Weapon: Shuriken LV2 (can be stored)
 702000 Virtual Weapon: Shuriken LV3-A (can be stored + penetrated)
 703000 Virtual Weapon: Shuriken LV3-B (Can be stored + Butterfly Phantom Bullet)
@@ -152,20 +109,3 @@
 784000 Virtual Weapon: Spear LV3-B
 791000 Virtual weapon: Finger whistle LV2 (can be stored)
 792000 Virtual Weapon: Finger Whistling LV3 (Can be stored + Minor)
-1700000 Virtual Weapon_Unveiled: Shuriken
-1710000 Don&#39;t want to weapon _ not lifted the ban: firecrackers
-1720000 Virtual Weapon_Unbanned: Ignition
-1730000 Virtual Weapon_Unlocked: Ax
-1740000 Virtual Weapon_Unbanned: Transformation
-1750000 Virtual Weapon_Unbanned: Kodachi
-1760000 Virtual Weapon_Unbanned: Iron Fan
-1770000 Virtual Weapon_Unbanned: Enemy Turn
-1780000 Virtual Weapon_Unbanned: Spear
-1790000 Virtual Weapon_Unreleased: Finger Whistle
-2700000 Virtual Weapon_Private: Common to all artificial limbs
-8000000 Debug non-killing sword
-8000100 Debug Special Sword
-8000200 Debug bare hand sword
-9500000 Wire weapon
-9600000 parachute
-9700000 Immortal sword

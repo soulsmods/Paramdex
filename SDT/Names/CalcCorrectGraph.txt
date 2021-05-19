@@ -1,0 +1,78 @@
+0 0: None
+1 1: Hard Rock
+2 2: ochre
+3 3: Minagi stone
+4 4: Nibi stone
+5 5: Edge Stone
+6 6: Spider wire
+7 7: Mercury stone
+8 8: Dragon stone
+9 9: Sucking stone
+10 10: 髄石
+11 11: Moonstone
+12 12: Moonshade
+13 13: Shimmering Stone
+14 14: Magic Shield Stone
+15 15: Ore Spirit DS
+16 16: ＤＳ
+50 The lower the equipment weight, the higher the attack power
+51 The heavier the equipment weight, the higher the attack power
+100 (Old) Max HP
+101 Max MP
+102 Defense (soul level)
+110 Disease resistance (former poison: soul level dependent)
+111 Madness resistance (former plague: soul level dependent)
+112 Flame resistance (former bleeding: soul level dependent)
+113 Aging resistance (old curse: soul level dependent)
+114 Electric shock resistance (former: cold air (depending on soul level)
+120 Toxic resistance (stamina)
+121 Disease tolerance (stamina)
+122 Bleeding tolerance (stamina)
+123 Curse resistance (luck)
+124 Cold resistance (life force)
+130 Physical defense (muscle strength)
+131 Physical defense (stamina)
+132 Magical Defense (Faith)
+133 Flame defense (muscle strength)
+134 Thunder defense (stamina)
+135 Dark defense (faith)
+140 Drop rate (luck)
+150 Maximum number of recovery spots replenished
+160 Shield status correction Physical cut rate
+161 Shield status correction Attribute cut rate
+162 Shield Status Correction Resistance Cut Rate
+163 Shield status correction Stamina cut rate
+170 Maximum arts point (muscle strength)
+171 Maximum arts point (skill)
+172 Maximum arts point (magic)
+173 Maximum arts point (miracle)
+200 Growth consumption soul
+210 Fall damage basic value
+211 Fall damage weight ratio correction
+212 Fall damage vitality correction
+213 Fall damage skill correction
+300 Level sync: HP
+301 Level sync: MP
+302 Level Sync: Stamina
+303 Level Sync: Defense
+304 Level sync: resistance value
+310 Level Sync: Weapon: Straight Sword
+320 Level Sync: Weapon: Dagger
+330 Level Sync: Weapon: Oversized Sword
+340 Level Sync: Weapon: Bow
+341 Level Sync: Weapon: Large Bow
+342 Level Sync: Weapon: Crossbow
+350 Level Sync: Weapon: Cane
+351 Level Sync: Weapon: Talisman and Bell
+352 Level Sync: Weapon: Fire of Magic
+400 Level Sync: Item: Throw Knife
+401 Level Sync: Item: Throw Bin
+500 Max HP
+501 Maximum stamina
+502 Kick stamina attack power multiplier
+503 Attack contact parry (closeout) stamina attack power multiplier
+504 Stamina recovery speed
+600 Required skill experience value
+610 Remaining machine protection price
+620 Dragon cough incidence [%]
+630 Money / Skill Experience Lost Rate [%]

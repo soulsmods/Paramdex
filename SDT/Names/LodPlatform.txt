@@ -1,0 +1,7 @@
+0 PS4
+1 PS4Pro
+2 XboxOne
+3 XboxOneX
+4 Windows Low
+5 Windows Middle
+6 Windows High

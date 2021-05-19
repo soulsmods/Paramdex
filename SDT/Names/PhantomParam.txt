@@ -1,0 +1,117 @@
+1 Small white phantom
+2 White phantom
+3 Blue phantom 0
+4 Blue phantom 1
+5 Blue phantom 2
+28 Blue phantom 3
+6 Small money phantom
+7 Gold phantom
+8 Red phantom 0
+9 Red phantom 1
+10 Red phantom 2
+29 Red phantom 3
+11 Black phantom
+12 Dragon Spirit Phantom
+13 Abyss Phantom
+14 Servant Phantom
+15 Normal phantom phantom
+16 Kagaribi Phantom Phantom
+17 Tomb Spirit Phantom
+18 Weapon Enchantment_Physical Enhancement
+19 Weapon Enchantment_Magic Enhancement
+20 Weapon Enchantment_Lightning Enhancement
+21 Weapon Enchantment_Fire Enhancement
+22 Weapon Enchantment_Darkness Enhancement
+23 Weapon Enchantment_Poison Enhancement
+24 Weapon Enchantment_Bleeding Enhancement
+25 Weapon Enchantment_Weapon Destruction Enhancement
+26 Weapon Enchantment_Curly Enhancement
+27 Phantom Spirit Phantom (tentative name)
+28 Weapon Enchantment_Cold
+29 Weapon Enchantment_Sacred
+30 Weapon Enchantment_Magic Strengthening (Strong)
+31 Ghost Knight_Ghost State
+32 Painting guard illusion
+33 Old King of Erosion Illusion
+35 Firewood King Test
+36 Firewood King Test (with edge)
+40 Tiger translucent
+41 Tiger completely transparent
+42 Tiger normal
+43 Black tiger normal
+50 Shield Enchantment_Strengthen Magic
+51 Shield Enchantment_Strengthen Magic
+52 Shield Enchantment_Lightning Enhancement
+53 Shield Enchantment_Fire Enhancement
+54 Shield Enchantment_Darkness Enhancement
+55 Shield Enchantment_Poison Enhancement
+56 Shield Enchantment_Bleeding Enhancement
+57 Shield Enchantment_Enhanced Shield Destruction
+58 Shield Enchantment_Curly Enhancement
+59 Shield Enchantment_Cold
+60 Dark spirit
+61 Shirorei
+62 Wandering Phantom
+63 Bloodstain Phantom
+64 Sun White Spirit
+65 Sun red
+66 Berserker White Spirit
+67 Berserker Red Spirit
+68 Sinner&#39;s Hero
+69 Sinner hunting spirit
+70 Red Scare Spirit (Red Scare 1, Dark Moon)
+71 Rosalia Guardian Spirit
+72 Map Guardian Spirit (Forest)
+73 Map Guardian Spirit (Anor)
+74 Sign illusion (white spirit preview)
+75 Campfire Phantom
+76 NPC Phantom
+80 Shirorei
+81 Dark spirit
+82 Red Scare Spirit (early)
+83 Red Scare Spirit (Orthodox)
+84 Red Scare Spirit (Orthodox) Lv2
+85 Sun White Spirit
+86 Sun dark spirit
+87 Berserker White Spirit
+88 Berserka White Spirit / Dark Spirit
+89 Boss Guardian Dark Spirit
+90 Map Guardian Dark Spirit (Forest)
+91 Map Guardian Dark Spirit (Anor)
+101 Small White Phantom-Remaining Time-Medium
+102 White Phantom-Remaining Time-Medium
+103 Small Money Phantom-Remaining Time-Medium
+104 Gold Phantom-Remaining Time-Medium
+105 Red Phantom 0-Time Remaining-Medium
+106 Red Phantom 1-Remaining Time-Medium
+107 Red Phantom 2-Remaining Time-Medium
+108 Red Phantom 3-Remaining Time-Medium
+109 Black Phantom-Remaining Time-Medium
+170 Red Scare Spirit Lv2
+181 Dark Spirit (Preview)
+185 Sun White Spirit (Preview)
+186 Sun Dark Spirit (Preview)
+187 Berserker (preview)
+201 Small White Phantom-Remaining Time-Small
+202 White Phantom-Time Remaining-Small
+203 Small Gold Phantom-Remaining Time-Small
+204 Gold Phantom-Time Remaining-Small
+205 Red Phantom 0-Time Remaining-Small
+206 Red Phantom 1-Time Remaining-Small
+207 Red Phantom 2-Remaining Time-Small
+208 Red Phantom 3-Remaining Time-Small
+209 Black Phantom-Time Remaining-Small
+300 Chigo Monkey_Seeing Monkey
+301 Chigo monkey _ listening monkey
+302 Chigo monkey_say monkey
+303 Chigo monkey _ visible monkey
+305 Chigo monkey _ temple miscellaneous fish
+310 Chigo monkey_PG for survey request
+320 Phantom bandit_temporary response
+321 Phantom Breaker
+330 Revenge spirit
+340 Phantom [Past Conversation]
+341 Phantom Outdoor [Past Conversation]
+350 【病み村】Phantom Breaking Monk_A
+360 【病み村】The Phantom Breaking Monk_B
+370 [C1370] No underwater neck

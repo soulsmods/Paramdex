@@ -1,0 +1,550 @@
+4 Object destruction attack for automatic patrol
+6 Object destruction attack for automatic patrol_for debugging function verification
+10 PC_common_egg attack
+200 Contact impact_in-game start
+210 Contact impact_weak_upper and lower wrap
+211 Contact impact_weak_origin wrap
+220 Contact impact_medium_upper and lower wrap
+221 Contact impact_medium_origin wrap
+222 Contact impact_middle_below origin
+280 Foot for SFX / right foot
+281 Foot for SFX / left foot
+285 Hand for SFX / right hand
+286 Hand for SFX / left hand
+600 Shinobi killing start_break
+640 Shinobi killing start_behind
+650 Shinobi killing start_ crouching behind
+660 Shinobi killing start_fall
+680 Shinobi killing start_breaking wire
+690 Shinobi killing start_anti-aircraft
+700 Shinobi killing start_wall left
+710 Shinobi killing start_walled right
+720 Shinobi killing start_ hanging
+740 Shinobi killing start_breaking kick jump
+800 Shinobi slaughter start _ stop _ priest
+801 Shinobi killing start _ stop _ chief of the ninja army
+803 Shinobi killing start _ stop _ Yasha monkey
+804 Shinobi killing start _ stop _ rival
+805 Shinobi killing start _ stop _ butterfly
+806 Shinobi killing start _ stop _ sword sacred
+807 Shinobi killing start _ stop _ Buddhist demon
+840 Shinobi shock _ short distance _ on the spot
+841 Shinobi shock _ short distance _ jump away
+842 Shinobi shock _ long distance _ on the spot
+843 Shinobi shock _ long distance _ jump away
+900 Kick
+901 Kick_in the air
+902 Kick _ closeout success production
+903 Kick_dash
+950 Action ID direct designation attack for wire
+105000000 Right-handed sword_reservoir 1
+105000001 Right-handed sword_reservoir 2
+105000006 Right hand sword_reservoir 2_reverse foot
+105000010 Right hand sword_normal attack 1
+105000011 Right hand sword_normal attack 2
+105000012 Right hand sword_normal attack 3
+105000013 Right hand sword_normal attack 4
+105000014 Right hand sword_normal attack 5
+105000016 Right hand sword_normal attack 2_reverse foot
+105000020 Right hand sword _ Small jasuga received and then accumulated stab _ Left
+105000021 Right hand sword_Small jasuga received and then accumulated thrust_Right
+105000025 Right hand sword _ Middle jasuga receiver / After step stab _ Left
+105000026 Right hand sword _ Middle jasuga receiving / After step stab _ Right
+105000030 Right hand sword _ Attack after receiving small jasuga _ Left
+105000031 Right hand sword _ Attack after receiving small jasuga _ Right
+105000035 Right hand sword _ Middle jasuga receiving / Attack after step_ Left
+105000036 Right hand sword_Medium Jasuga receiving / Attack after step_Right
+105000040 Right hand sword _ guard / jasuga is played and then accumulated stab _ right
+105000041 Right-handed sword_guard / Jasuga is played
+105000050 Right hand sword_guard / Jasuga attack after being hit_right
+105000051 Right hand sword_guard / Jasuga attack after being hit_left
+105000060 Right hand sword_Aerial attack 1
+105000061 Right hand sword_Aerial attack 2
+105000062 Right hand sword_Aerial attack 3
+105000065 Right hand sword_wire attack 1
+105000066 Right hand sword_wire attack 2
+105000070 Right hand sword_dash attack
+105000075 Right hand sword_ crouching attack
+105000076 Right hand sword_Crouching attack_Underfloor
+105000080 Right hand sword _ hanging attack
+105000085 Right hand sword_aging attack
+105000090 Right hand sword_guard
+105000100 Shuriken_Chasing Slash
+105000105 Firecracker _ slip-through slash
+105000110 Ignition_Flame Matoi Slash
+105000115 Ax _ front slash _ sword
+105000120 Transformation_ground appearance attack
+105000121 Transformation_Aerial Appearance Attack
+105000131 Kodachi_Table 2nd stage_Right hand sword
+105000133 Kodachi _ Table 4th _ Right hand sword
+105000135 Kodachi _ Table 6th _ Right hand sword
+105000140 Kodachi_back 1st stage_right hand sword
+105000141 Kodachi _ back 2nd stage _ right hand sword
+105000142 Kodachi_back 3rd stage_right hand sword
+105000143 Kodachi_back 4th stage_right hand sword
+105000144 Kodachi_back 5th stage_right hand sword
+105000145 Kodachi_back 6th stage_right hand sword
+105000150 Kodachi _ front and back switching slash _ front and back left
+105000151 Kodachi _ front and back switching slash _ right
+105000155 Iron fan_throwing slash
+105000156 Iron fan _ release slash _ anti-flame
+105000157 Iron fan_Slashing _ Anti-spirit
+105000160 Enemy turning _ Wind sword
+105000165 Spear_Chasing Slash
+105000166 Spear_Pulling Slash
+105000170 Finger whistle_sound feed slash
+105000180 Right Hand Sword_Red Blood Enchantment Additional Attack
+105000181 Right-handed sword_poison blood enchantment additional attack
+105000182 Right-handed sword_white blood enchantment additional attack
+105000183 Right-handed sword_Weak thunder enchantment additional attack
+105000184 Right-handed sword_strong thunder enchantment additional bullet
+105000185 Right-handed sword_Orange-style enchantment additional attack
+105000186 Right-handed sword_Kinfu enchantment additional attack
+105000190 Right hand sword_red blood enchantment additional bullet (thrust)
+105000191 Right hand sword_poison blood enchantment additional bullet (thrust)
+105000192 Right hand sword_white blood enchantment additional bullet (thrust)
+105000193 Right-handed sword_Weak thunder enchantment additional bullet (thrust)
+105000280 Right hand sword _ thunder return _ weak thunder _ blade
+105000281 Right hand sword _ lightning return _ lightning _ lightning
+105000290 Right-handed sword_anti-spirit force
+105000295 Right-handed sword_Crisis Force
+105000300 Right-handed sword_Ninjato body_Ninjutsu Ninjutsu_Blood smoke_Normal_Red blood_Dazzle
+105000301 Right Hand Sword_Ninja Body_Ninjutsu_Blood Smoke_Usually_Red Blood_姿隠し
+105000360 Right hand sword _ Ninja body _ Ninjutsu ninjutsu _ Blood smoke _ Radiation _ Red blood _ Dazzle
+105000361 Right Hand Sword_Ninja Body_Ninjutsu_Blood Smoke_Radiation_Red Blood_Zi隠し
+105000368 Right Hand Sword_Ninja Body_Ninjutsu_Blood Smoke_Radiation_Red Blood_SFX Use
+105000370 Right hand sword _ Ninja body _ Ninjutsu ninjutsu _ Blood smoke _ Radiation _ Poison blood _ Dazzle
+105000371 Right hand sword _ Ninja body _ Ninjutsu ninjutsu _ Blood smoke _ Radiation _ Poison blood _ Hidden
+105000378 Right Hand Sword_Ninja Body_Ninjutsu_Blood Smoke_Radiation_Poisonous Blood_SFX Use
+105000380 Right-handed sword_Ninjato body_Ninjutsu Ninjutsu_Blood smoke_Radiation_White blood_Dazzle
+105000381 Right-handed sword_Ninjato body_Ninjutsu Ninjutsu_Blood smoke_Radiation_White blood_Hidden
+105000388 Right Hand Sword_Ninja Body_Ninjutsu_Blood Smoke_Radiation_White Blood_SFX Use
+105000400 Right-handed sword_Ninjato body_Ninjato Ninjutsu_Puppet_Default
+105000410 Right-handed sword_Ninjato body_Ninjato Ninjutsu_Puppet_Infinite duration
+105000500 Right Hand Sword_Ninjutsu Main Body_Ninjutsu_Paying_Usually_Red Blood
+105000510 Right hand sword _ Ninja body _ Ninjutsu ninjutsu _ Grant _ Normal _ Poison blood
+105000520 Right hand sword _ Ninja body _ Ninjutsu ninjutsu _ Grant _ Normal _ White blood
+105000600 Right-handed sword_Ninjato body_Crush
+105000610 Right-handed sword_Ninjato body_Playing
+105000620 Right hand sword _ Ninjato body _ Closeout
+105000640 Right-handed sword _ Ninja body _ behind
+105000650 Right hand sword_Ninjato body_Crouching behind
+105000660 Right Hand Sword_Ninja Body_Fall
+105000680 Right hand sword _ Ninja body _ Wire
+105000690 Right hand sword _ Ninja body _ Anti-aircraft
+105000700 Right hand sword _ Ninja body _ Left and right with wall
+105000720 Right hand sword _ Ninja body _ Before and after hanging
+105000790 Right-handed sword_Ninjato body_Dummy attack that causes the enemy to send Kanji SFX_Blood smoke
+105000791 Right-handed sword_Ninjato body_Dummy attack that causes the enemy to send Kanji SFX_Puppet
+105000792 Right-handed sword_Ninjato body_Dummy attack that causes the enemy to send Kanji SFX_Grant
+105000800 Right hand sword _ Ninja body _ Stop
+105000899 Right-handed sword_Ninjato body_Aging Ninjato_Abnormal condition recovery bullet
+105000990 Shinobi shock _ short distance _ on the spot
+105000991 Shinobi shock _ short distance _ jump away
+105000992 Shinobi shock _ long distance _ on the spot
+105000993 Shinobi shock _ long distance _ jump away
+105000994 Resurrection Technique_Boss Sensing Dummy Attack
+105000910 Pottery
+105000911 Pottery piece _ hanging
+105000912 Pottery piece _ peek left
+105000913 Pottery piece _ peep right
+105001200 School Technique_Rotating Slash 1-1
+105001201 School Technique_Rotating Slash 1-2
+105002200 School Technique_Dive Slash 1
+105002201 School Technique_Dive Slash 2
+105003200 School technique_face-up 1_reservoir
+105003201 School technique_face-up 1
+105003210 School Technique_Face 2
+105004200 School technique _ Kensei Iai _ Reservoir
+105004210 School Technique_Sword Holy Iai_Reserved Bullet 1
+105004215 School Technique_Sword Holy Iai_Reserved Bullet 2
+105004220 School technique_Kensei Iai
+105004230 School Technique_Sword Holy Iai_Bullet
+105005200 School technique_Iai 1
+105005201 School technique_Iai 2
+105005210 School technique_Invisible Iai continuous attack 1
+105005211 School technique_Invisible Iai continuous attack 2
+105005220 School technique_Invisible Iai continuous attack_Delayed continuous attack 1
+105005221 School technique_Invisible Iai continuous attack_Delayed continuous attack 2
+105005222 School technique_Invisible Iai continuous attack_Delayed continuous attack 3
+105005223 School technique_Invisible Iai continuous attack_Delayed continuous attack 4
+105005230 School technique_Invisible Iai continuous attack_Delayed continuous attack SFX
+105005180 School technique_Invisible Iai continuous attack_Red blood enchantment additional attack
+105005181 School technique_Invisible Iai continuous attack_Poison blood enchantment additional attack
+105005182 School technique_Invisible Iai continuous attack_White blood enchantment additional attack
+105005183 School technique_Invisible Iai continuous attack_Weak thunder enchantment additional attack
+105005184 School technique _ Invisible Iai continuous attack _ Strong thunder enchantment additional bullet
+105005185 School technique_Invisible Iai continuous attack_Orange wind enchantment additional attack
+105005186 School technique_Invisible Iai continuous attack_Kinfu enchantment additional attack
+105006200 School Technique_Hachiman Flying Rush 1
+105006201 School Technique_Hachiman Flying Rush 2
+105006202 School Technique_Hachiman Flying Rush 3
+105006203 School Technique_Hachiman Flying Rush 4
+105006204 School Technique_Hachiman Flying Rush 5
+105006205 School Technique_Hachiman Flying Rush 6
+105006206 School Technique_Hachiman Flying Rush 7
+105006207 School Technique_Hachiman Flying Rush 8
+105006208 School Technique_Hachiman Flying Rush 9F
+105006209 School Technique_Hachiman Flying Rush 3F
+105006220 School technique_Hachiman flying rush 1_There is a form fee
+105006221 School technique_Hachimanbuki Rush 2_There is a form fee
+105006222 School technique_Hachiman flying rush 3_There is a form fee
+105006223 School technique_Hachiman flying rush 4_There is a form fee
+105006224 School technique_Hachiman flying rush 5_There is a form fee
+105006225 School technique_Hachimanbuki Rush 6_There is a form fee
+105006226 School technique_Hachiman flying rush 7_There is a form fee
+105006227 School technique_Hachiman flying rush 8_There is a form fee
+105006228 School technique_Hachiman Flying Rush 9F_There is a form fee
+105006229 School technique_Hachimanju Rush 3F_There is a form fee
+105006999 School Technique_Hachiman Flying Rush_Shape Consumption Dummy
+105007200 School Technique_Immortal Slash 1_Reservoir
+105007201 School Technique_Immortal Slash 1
+105007210 School Technique_Immortal Slash 2_Reservoir
+105007211 School Technique_Immortal Slash 2
+105007220 School technique_Immortal slash 1_Reservoir_There is a form fee
+105007221 School technique_Immortal slash 1_There is a form fee
+105007230 School technique_Immortal slash 2_Reservoir_There is a form fee
+105007231 School technique_Immortal slash 2_There is a form fee
+105007999 School technique_immortal slashing_form consumption dummy
+105008200 School Technique_Kick Rush 1-1
+105008201 School Technique_Kick Rush 1-2
+105008210 School Technique_Kick Rush 2-1
+105008211 School Technique_Kick Rush 2-2
+105008220 School Technique_Kick Rush 3-1
+105008221 School Technique_Kick Rush 3-2
+105008230 School Technique_Kick Rush 4
+105009200 School Technique_Fist Attack 1_Accumulation
+105009201 Genre Skills_Fist Fight 1
+105009210 Genre Skills_Fist Fight 2
+105009220 Genre Skills_Fist Fight 3
+105009251 School Technique_Fist Attack 1_Aerial
+105010200 School technique _ sneak stab _ reservoir
+105010210 School technique_Sneak stab
+105010215 School technique_Sneak stab_Kick up after hit
+105010220 School technique_Sneak stab_After kicking up, aerial rotation slash 1
+105010221 School technique_Sneak stab_After kicking up, aerial rotation slash 2
+107000100 Shuriken_Reservoir 1/3 throw
+107000110 Shuriken_2nd throw
+107000150 Shuriken_1 / 3rd pitch
+107000160 Shuriken_2 pitch
+107000184 Right-handed sword_strong thunder enchantment additional bullet
+107000190 Right hand sword_red blood enchantment additional bullet (thrust)
+107000191 Right hand sword_poison blood enchantment additional bullet (thrust)
+107000192 Right hand sword_white blood enchantment additional bullet (thrust)
+107000193 Right-handed sword_Weak thunder enchantment additional bullet (thrust)
+107000195 Right-handed sword_Orange-style enchantment additional bullet (thrust)
+107000196 Right hand sword_Kinfu enchantment additional bullet (thrust)
+107000290 Shuriken_Anti-Spirit Force
+107000295 Shuriken_Crisis Force
+107002100 Shuriken LV3-A_ Reservoir 1/3 throw
+107002110 Shuriken LV3-A_ 2nd throw
+107002150 Shuriken LV3-A_1 / 3 throw
+107002160 Shuriken LV3-A_2 Pitcher
+107003100 Shuriken LV3-B_ Reservoir 1/3 throw
+107003110 Shuriken LV3-B_ 2nd throw
+107003120 Shuriken LV3-B_ Reservoir Guided Bullet
+107003150 Shuriken LV3-B_1 / 3 throw
+107003160 Shuriken LV3-B_2 pitch
+107003170 Shuriken LV3-B_ Guided Bullet
+107004100 Shuriken LV3-C_ Reservoir 1/3 throw
+107004101 Shuriken LV3-C_Reservoir 1/3 Throw_LV0
+107004102 Shuriken LV3-C_Reservoir 1/3 Throw_LV1
+107004103 Shuriken LV3-C_Reservoir 1/3 Throw_LV2
+107004104 Shuriken LV3-C_Reservoir 1/3 Throw_LV3
+107004110 Shuriken LV3-C_ 2nd throw
+107004111 Shuriken LV3-C_Pump 2nd throw_LV0
+107004112 Shuriken LV3-C_Pump 2nd throw_LV1
+107004113 Shuriken LV3-C_2nd throw _LV2
+107004114 Shuriken LV3-C_2nd throw _LV3
+107004150 Shuriken LV3-C_1 / 3
+107004151 Shuriken LV3-C_1 / 3 Throw _LV0
+107004152 Shuriken LV3-C_1 / 3 Throw _LV1
+107004153 Shuriken LV3-C_1 / 3 Throw _LV2
+107004154 Shuriken LV3-C_1 / 3 Throw _LV3
+107004160 Shuriken LV3-C_2 pitch
+107004161 Shuriken LV3-C_2 Pitcher_LV0
+107004162 Shuriken LV3-C_2 Pitcher_LV1
+107004163 Shuriken LV3-C_2 Pitcher_LV2
+107004164 Shuriken LV3-C_2 Pitcher_LV3
+107005100 Shuriken LV4_ Reservoir 1/3 throw
+107005110 Shuriken LV4_ 2nd throw
+107005150 Shuriken LV4_1 / 3 throw
+107005160 Shuriken LV4_2
+107100100 Firecracker_parent_reservoir
+107100110 Firecracker _ Parent _ Reservoir _ Anti-Special Attack Character
+107100120 Firecrackers_air_pro
+107100130 Firecracker_Aerial_Parent_Vs. Special Attack Character
+107100150 Firecrackers_pro
+107100160 Firecracker_parent_ vs. special attack character
+107100184 Right-handed sword_strong thunder enchantment additional bullet
+107100190 Right hand sword_red blood enchantment additional bullet (thrust)
+107100191 Right hand sword_poison blood enchantment additional bullet (thrust)
+107100192 Right hand sword_white blood enchantment additional bullet (thrust)
+107100193 Right-handed sword_Weak thunder enchantment additional bullet (thrust)
+107100195 Right-handed sword_Orange-style enchantment additional bullet (thrust)
+107100196 Right hand sword_Kinfu enchantment additional bullet (thrust)
+107100290 Firecracker _ Anti-Spirit Force
+107100295 Firecracker _ Depression Force
+107102100 Firecracker LV3-A_parent_reservoir
+107102110 Firecracker LV3-A_Parent_Reservoir_Anti-Special Attack Character
+107102120 Firecracker LV3-A_Air_Pro
+107102130 Firecracker LV3-A_Aerial_Parent_Vs. Special Attack Character
+107102150 Firecrackers LV3-A_ pro
+107102160 Firecracker LV3-A_parent_ vs. special attack character
+107103100 Firecracker LV3-B_parent_reservoir
+107103110 Firecracker LV3-B_Parent_Reservoir_Anti-Special Attack Character
+107103120 Firecracker LV3-B_Air_Pro
+107103130 Firecracker LV3-B_Aerial_Parent_Vs. Special Attack Character
+107103150 Firecrackers LV3-B_ pro
+107103160 Firecracker LV3-B_parent_ vs. special attack character
+107200100 Ignition_Pump shooting
+107200110 Ignition_normal shooting
+107200120 Ignition_Aerial shooting
+107200130 Ignition_flamethrower_start
+107200131 Ignition_flamethrower_loop
+107200140 Ignition_Derived Attack Enchantment Dummy
+107200184 Right-handed sword_strong thunder enchantment additional bullet
+107200190 Right hand sword_red blood enchantment additional bullet (thrust)
+107200191 Right hand sword_poison blood enchantment additional bullet (thrust)
+107200192 Right hand sword_white blood enchantment additional bullet (thrust)
+107200193 Right-handed sword_Weak thunder enchantment additional bullet (thrust)
+107200195 Right-handed sword_Orange-style enchantment additional bullet (thrust)
+107200196 Right hand sword_Kinfu enchantment additional bullet (thrust)
+107200290 Ignition_Anti-Spirit Force
+107200295 Ignition_Crisis Force
+107200297 Ignition_Crisis Force_Encha not required Ver.
+107200999 Ignition_form consumption dummy
+107203100 Ignition LV4_ Accumulation shooting
+107203110 Ignition LV4_normal shooting
+107203120 Ignition LV4_Aerial shooting
+107203130 Ignition LV4_flamethrower_start
+107203131 Ignition LV4_flamethrower_loop
+107203140 Ignition LV4_ Derived Attack Enchantment Dummy
+107203292 Ignition LV4_Anti-Spirit Force_ Reach far
+107300100 Ax_Pump Attack 1
+107300101 Ax_Pump Attack 2
+107300102 Ax_single attack
+107300110 Ax _ front slash _ ax
+107300121 Ax_Aerial attack
+107300122 Ax_Aerial Attack_Loop / Landing
+107300184 Right-handed sword_strong thunder enchantment additional bullet
+107300190 Right hand sword_red blood enchantment additional bullet (thrust)
+107300191 Right hand sword_poison blood enchantment additional bullet (thrust)
+107300192 Right hand sword_white blood enchantment additional bullet (thrust)
+107300193 Right-handed sword_Weak thunder enchantment additional bullet (thrust)
+107300195 Right-handed sword_Orange-style enchantment additional bullet (thrust)
+107300196 Right hand sword_Kinfu enchantment additional bullet (thrust)
+107300290 Ax_Anti-Spirit Force
+107300295 Ax_Crisis Force
+107302100 Ax LV3_ Reservoir Attack 1
+107302101 Ax LV3_ Reservoir Attack 2
+107302102 Ax LV3_ single attack
+107302110 Ax LV3_Front Slasher_Ax
+107302121 Ax LV3_ aerial attack
+107302122 Ax LV3_Aerial Attack_Loop / Landing
+107302130 Ax LV3_ shock wave
+107302297 Ax LV3_ Depression Force
+107303100 Ax LV4_ Reservoir Attack 1
+107303101 Ax LV4_ Reservoir Attack 2
+107303102 Ax LV4_ single attack
+107303110 Ax LV4_Front Slasher_Ax
+107303121 Ax LV4_ aerial attack
+107303122 Ax LV4_Aerial Attack_Loop / Landing
+107303130 Ax LV4_ shock wave
+107303140 Ax LV4_Shockwave_Phantom Eraser
+107400184 Right-handed sword_strong thunder enchantment additional bullet
+107400190 Right hand sword_red blood enchantment additional bullet (thrust)
+107400191 Right hand sword_poison blood enchantment additional bullet (thrust)
+107400192 Right hand sword_white blood enchantment additional bullet (thrust)
+107400193 Right-handed sword_Weak thunder enchantment additional bullet (thrust)
+107400195 Right-handed sword_Orange-style enchantment additional bullet (thrust)
+107400196 Right hand sword_Kinfu enchantment additional bullet (thrust)
+107400290 Transformation_Anti-Spirit Force
+107400295 Transformation_Crisis Force
+107400999 Transformation_form consumption dummy
+107402100 Transformation LV3_ activation impact
+107402297 Transformation LV3_ Depression Force
+107500100 Kodachi_Table 1st stage_Left hand sword
+107500102 Kodachi _ Table 3rd _ Left hand sword
+107500104 Kodachi _ Table 5th _ Left hand sword
+107500105 Kodachi _ Table 6th _ Left hand sword
+107500110 Kodachi _ back 1st stage _ left hand sword
+107500111 Kodachi _ back 2nd stage _ left hand sword
+107500112 Kodachi _ back 3rd stage _ left hand sword
+107500113 Kodachi_back 4th stage_left hand sword
+107500114 Kodachi_back 5th stage_left hand sword
+107500115 Kodachi_back 6th stage_left hand sword
+107500140 Kodachi _ 1st stage in the air_ Left hand sword 1
+107500141 Kodachi_Aerial 1st stage_Left hand sword 2
+107500184 Right-handed sword_strong thunder enchantment additional bullet
+107500190 Right hand sword_red blood enchantment additional bullet (thrust)
+107500191 Right hand sword_poison blood enchantment additional bullet (thrust)
+107500192 Right hand sword_white blood enchantment additional bullet (thrust)
+107500193 Right-handed sword_Weak thunder enchantment additional bullet (thrust)
+107500195 Right-handed sword_Orange-style enchantment additional bullet (thrust)
+107500196 Right hand sword_Kinfu enchantment additional bullet (thrust)
+107500290 Kodachi_Anti-Spirit Force
+107500295 Kodachi_Crisis Force
+107502100 Kodachi LV3-A_Table 1st stage_Left hand sword
+107502102 Kodachi LV3-A_Table 3rd stage_Left hand sword
+107502104 Kodachi LV3-A_Table 5th stage_Left hand sword
+107502105 Kodachi LV3-A_Table 6th row_Left hand sword
+107502110 Kodachi LV3-A_back 1st stage_left hand sword
+107502111 Kodachi LV3-A_back 2nd stage_left hand sword
+107502112 Kodachi LV3-A_back 3rd stage_left hand sword
+107502113 Kodachi LV3-A_back 4th stage_left hand sword
+107502114 Kodachi LV3-A_back 5th stage_left hand sword
+107502115 Kodachi LV3-A_Back 6th stage_Left hand sword
+107502140 Kodachi LV3-A_Aerial 1st stage_Left hand sword 1
+107502141 Kodachi LV3-A_Aerial 1st stage_Left hand sword 2
+107503100 Kodachi LV3-B_Table 1st stage_Left hand sword
+107503102 Kodachi LV3-B_Table 3rd stage_Left hand sword
+107503104 Kodachi LV3-B_Table 5th stage_Left hand sword
+107503105 Kodachi LV3-B_Table 6th row_Left hand sword
+107503110 Kodachi LV3-B_Back 1st stage_Left hand sword
+107503111 Kodachi LV3-B_Back 2nd stage_Left hand sword
+107503112 Kodachi LV3-B_back 3rd stage_left hand sword
+107503113 Kodachi LV3-B_back 4th stage_left hand sword
+107503114 Kodachi LV3-B_back 5th stage_left hand sword
+107503115 Kodachi LV3-B_Back 6th stage_Left hand sword
+107503140 Kodachi LV3-B_Aerial 1st stage_Left hand sword 1
+107503141 Kodachi LV3-B_Aerial 1st stage_Left hand sword 2
+107503150 Kodachi LV3-B_poison fog_front
+107503151 Kodachi LV3-B_Poison fog_Left front
+107503152 Kodachi LV3-B_Poison fog_To the front right
+107600100 Iron fan_guard
+107600110 Iron fan _ Unleashed slash _ Iron fan _ Normal
+107600111 Iron fan _ Unleashed slash _ Iron fan _ Anti-flame
+107600112 Iron fan _ Unleashed slash _ Iron fan _ Anti-spirit
+107600184 Right-handed sword_strong thunder enchantment additional bullet
+107600190 Right hand sword_red blood enchantment additional bullet (thrust)
+107600191 Right hand sword_poison blood enchantment additional bullet (thrust)
+107600192 Right hand sword_white blood enchantment additional bullet (thrust)
+107600193 Right-handed sword_Weak thunder enchantment additional bullet (thrust)
+107600195 Right-handed sword_Orange-style enchantment additional bullet (thrust)
+107600196 Right hand sword_Kinfu enchantment additional bullet (thrust)
+107600200 Iron fan _ Shooting attack _ Iron fan _ Bullet LV1
+107600210 Iron fan _ Shooting attack _ Iron fan _ Bullet LV2
+107600211 Iron fan_Shoot attack_Iron fan_Bullet LV2_SFX only
+107600220 Iron fan _ Shooting attack _ Iron fan _ Bullet LV3
+107600221 Iron fan_Shoot attack_Iron fan_Bullet LV3_SFX only
+107600290 Iron fan_anti-spirit force
+107600295 Iron Fan_Crisis Force
+107600999 Iron fan_form consumption dummy
+107602297 Iron Fan LV2-A_ Depression Force
+107603292 Iron fan LV2-B_Anti-spirit force_Jasuga / Turn receiver
+107603293 Iron fan LV2-B_Anti-spirit force_ Reach far
+107700100 Enemy turning _ wind gathering
+107700101 Enemy turning _ Wind subtraction by slashing (1 → 0)
+107700110 Enemy turning _ Wind release body (remaining 1 → 0)
+107700120 Enemy turning_Wind collection extension
+107700140 Enemy Turn_Dummy for Derived Attack Enchantment
+107700184 Right-handed sword_strong thunder enchantment additional bullet
+107700190 Right hand sword_red blood enchantment additional bullet (thrust)
+107700191 Right hand sword_poison blood enchantment additional bullet (thrust)
+107700192 Right hand sword_white blood enchantment additional bullet (thrust)
+107700193 Right-handed sword_Weak thunder enchantment additional bullet (thrust)
+107700195 Right-handed sword_Orange-style enchantment additional bullet (thrust)
+107700196 Right hand sword_Kinfu enchantment additional bullet (thrust)
+107701100 Enemy turning LV2_Wind collection_Remaining 2
+107701101 Enemy turning LV2_ Remaining subtraction by wind slashing (2 → 1)
+107701110 Enemy turning LV2_ Wind release body (remaining 1 → 0)
+107701111 Enemy turning LV2_ Wind release body (remaining 2 → 1)
+107701120 Enemy turning LV2_Wind collection extension_Remaining 1
+107701121 Enemy turning LV2_Wind collection extension_Remaining 2
+107702100 Enemy turning LV3_Wind collection_Remaining 2
+107702101 Enemy turning LV3_ Remaining subtraction by wind slashing (2 → 1)
+107702110 Enemy turning LV3_ Wind release body (remaining 1 → 0)
+107702111 Enemy turning LV3_ Wind release body (remaining 2 → 1)
+107702120 Enemy turning LV2_Wind collection extension_Remaining 1
+107702121 Enemy turning LV2_Wind collection extension_Remaining 2
+107702140 Enemy Turn LV3_ Derived Attack Enchantment Dummy
+107800100 Spear_Pump Charge 1
+107800101 Spear_Pump Charge 2
+107800102 Spear_Pump Charge 3_Tip
+107800103 Spear_Pump Charge 3_Intermediate
+107800104 Spear_Pump Charge 3_Root
+107800105 Spear_single thrust_tip
+107800106 Spear _ single shot _ middle
+107800107 Spear _ single shot _ root
+107800110 Spear_Attract 1
+107800115 Spear_pull 2_tip
+107800116 Spear_Attract 2_Intermediate
+107800117 Spear_Attract 2_Root
+107800184 Right-handed sword_strong thunder enchantment additional bullet
+107800190 Right hand sword_red blood enchantment additional bullet (thrust)
+107800191 Right hand sword_poison blood enchantment additional bullet (thrust)
+107800192 Right hand sword_white blood enchantment additional bullet (thrust)
+107800193 Right-handed sword_Weak thunder enchantment additional bullet (thrust)
+107800195 Right-handed sword_Orange-style enchantment additional bullet (thrust)
+107800196 Right hand sword_Kinfu enchantment additional bullet (thrust)
+107800290 Spear_Anti-Spirit Force
+107800295 Spear_Crisis Force
+107802100 Spear LV2-B_ Reservoir _ Tip
+107802101 Spear LV2-B_Reservoir _Intermediate
+107802102 Spear LV2-B_ Reservoir _ Root
+107802105 Spear LV2-B_single thrust_tip
+107802106 Spear LV2-B_single thrust_intermediate
+107802107 Spear LV2-B_single thrust_root
+107802110 Spear LV2-B_Attract 1
+107802115 Spear LV2-B_Pulling 2_Tip
+107802116 Spear LV2-B_Attract 2_Intermediate
+107802117 Spear LV2-B_Attract 2_Root
+107803100 Spear LV3-A_ Reservoir Charge 1
+107803101 Spear LV3-A_ Reservoir Charge 2
+107803102 Spear LV3-A_ Reservoir Charge 3_ Tip
+107803103 Spear LV3-A_Pump Charge 3_Intermediate
+107803104 Spear LV3-A_Pump Charge 3_Root
+107803105 Spear LV3-A_single thrust_tip
+107803106 Spear LV3-A_single thrust_intermediate
+107803107 Spear LV3-A_single thrust_root
+107803110 Spear LV3-A_Attract 1
+107803115 Spear LV3-A_Attract 2_ Tip
+107803116 Spear LV3-A_Attract 2_Intermediate
+107803117 Spear LV3-A_Attract 2_Root
+107804100 Spear LV3-B_ Reservoir _ Tip
+107804101 Spear LV3-B_Reservoir _Intermediate
+107804102 Spear LV3-B_ Reservoir _ Root
+107804105 Spear LV3-B_single thrust_tip
+107804106 Spear LV3-B_single thrust_intermediate
+107804107 Spear LV3-B_single thrust_root
+107804110 Spear LV3-B_Attract 1
+107804115 Spear LV3-B_Pulling 2_Tips
+107804116 Spear LV3-B_Attract 2_Intermediate
+107804117 Spear LV3-B_Attract 2_Root
+107804297 Spear LV3-B_ Depression Force
+107900100 Finger whistle_no lock_reservoir
+107900101 Finger whistle_no lock
+107900110 Finger whistle_lock-on_reservoir
+107900111 Finger whistle_lock on
+107900112 Finger whistle_lock on (hanging)
+107900114 Whistling_Lock-on (Peeping_Left)
+107900115 Whistling_Lock-on (Peeping_Right)
+107900175 Finger whistle _ sound feed slash _ accumulated bullet
+107900176 Finger whistle _ sound feed slash _ bullet
+107900184 Right-handed sword_strong thunder enchantment additional bullet
+107900190 Right hand sword_red blood enchantment additional bullet (thrust)
+107900191 Right hand sword_poison blood enchantment additional bullet (thrust)
+107900192 Right hand sword_white blood enchantment additional bullet (thrust)
+107900193 Right-handed sword_Weak thunder enchantment additional bullet (thrust)
+107900195 Right-handed sword_Orange-style enchantment additional bullet (thrust)
+107900196 Right hand sword_Kinfu enchantment additional bullet (thrust)
+107900999 Finger whistle_form consumption dummy
+107902100 Finger whistle LV3_no lock_reservoir
+107902101 Finger whistle LV3_ no lock
+107902110 Finger whistle LV3_lock-on_reservoir
+107902111 Finger whistle LV3_ lock on
+107902112 Finger whistle LV3_ lock on (hanging)
+107902114 Finger whistle LV3_lock on (peeping_left)
+107902115 Whistling LV3_Lock-on (Peeping_Right)
+107902175 Finger whistle LV3_Sound feed slash_Reservoir bullet
+107902176 Finger whistle LV3_sound feed slash_bullet
+109500000 Wire Weapon_Injection
+150100000 Test Shinobi 1 Grab
+150100010 Test Shinobi 2 Grab
+150200000 Test Shinobi 1 Grab
+150200010 Test Shinobi 2 Grab
+150300000 Test Shinobi 1 Grab
+150300010 Test Shinobi 2 Grab
+150400000 Test Shinobi 1 Grab
+150400010 Test Shinobi 2 Grab

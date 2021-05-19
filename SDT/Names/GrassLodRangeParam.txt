@@ -1,0 +1,9 @@
+0 Global settings
+1 Grass_large
+2 Grass_small
+5 Game grass
+32 Nezasa
+37 Miscanthus (specify angle)
+99 General purpose test
+110 Castle
+111 Honjo

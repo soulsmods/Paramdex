@@ -1,0 +1,165 @@
+0 Normal state (default)
+100 Jump_vertical
+101 Jump_before
+111 Jump_positioning_before
+112 After jump_positioning_
+113 Jump_Positioning_Left
+114 Jump_Position_Right
+115 Jump_Positioning_Left front
+116 Jump_Positioning_Right front
+117 Jump_Positioning_Left Rear
+118 Jump_Positioning_Right rear
+121 Jump_dash_before
+200 Water jump_vertical
+201 Water jump_before
+221 Water jump_acceleration_before
+240 Dolphin Jump 1_Vertical
+241 Dolphin Jump 2_Vertical
+800 Swamp Jump_Vertical
+801 Swamp Jump_Before
+811 Swamp Jump_Positioning_Before
+812 Swamp jump_positioning_after
+813 Swamp Jump_Positioning_Left
+814 Swamp Jump_Positioning_Right
+815 Swamp jump_positioning_left front
+816 Swamp jump_positioning_right front
+817 Swamp jump_positioning_left rear
+818 Swamp Jump_Positioning_Right Rear
+980 Storm Jump_Top 1
+981 Storm Jump_Top 2
+982 After storm jump_
+1000 Wall jump_vertical
+1001 Wall jump_horizontal_front
+1002 After wall jump_horizontal_
+1003 Wall jump_horizontal_left
+1004 Wall jump_horizontal_right
+1011 Wall jump_horizontal_front_infinite
+1111 Wall jump_positioning_front
+1112 After wall jump_positioning_
+1113 Wall jump_positioning_left
+1114 Wall jump_positioning_right
+1115 Wall jump_positioning_left front
+1116 Wall jump_positioning_right front
+1117 Wall jump_positioning_left rear
+1118 Wall jump_positioning_right rear
+1200 Wall jump_vertical
+1201 Wall jump_horizontal_front
+1202 After wall jump_horizontal_
+1211 Wall jump_positioning_front
+1212 After wall jump_positioning_
+1213 Wall jump_positioning_left
+1214 Wall jump_positioning_right
+1215 Wall jump_positioning_left front
+1216 Wall jump_positioning_right front
+1217 Wall jump_positioning_left rear
+1218 Wall jump_positioning_right rear
+1250 Wall Jump_Gravity Ignore Alternative 1
+1251 Wall Jump_Gravity Ignore Alternative 1_ Hanging
+1260 Wall Jump_Gravity Ignore Alternative 2
+1100 wire
+1101 [For system] Ground wire acceleration
+1102 [For system] Aerial wire deceleration
+1600 Charged_strong_hop (common to jasuga / guard / direct hit / death)
+1605 Charged_strong_slow (common to jasuga / guard / direct hit / death)
+1610 Charged_weak_hop (jasuga)
+1611 Charged_weak_hop (guard)
+1612 Charged_weak_hop (direct hit)
+1613 Charged_weak_hop (death)
+1615 Charged_weak_slow (common to jasuga / guard / direct hit / death)
+1620 Lightning return _ strong
+1621 Lightning return _ strong _ direct hit blast receiver 1
+1622 Lightning return _ strong _ direct hit blast receiver 2
+1630 Lightning return _ weak
+2000 Kick jump_enemy_ground_vertical
+2001 Kick jump_enemy_ground_front
+2002 Kick jump_enemy_ground_after
+2003 Kick jump_enemy_ground_left
+2004 Kick jump_enemy_ground_right
+2011 Kick jump_enemy_ground_front_locking
+2020 Kick jump_enemy_ground_vertical / front 2
+2040 Kick jump_slow
+2100 Kick jump_enemy_air_vertical
+2101 Kick jump_enemy_air_front
+2102 Kick jump_enemy_air_after
+2103 Kick jump_enemy_air_left
+2104 Kick jump_enemy_air_right
+2111 Kick jump_enemy_air_front_locking
+2120 Kick Jump_Enemy_Aerial_Vertical / Front 2
+2900 Jumping during aging_vertical
+2901 Jumping during aging_before
+3040 Fluffy damage_before
+3041 After fluffy damage_
+3090 Lifting damage
+3100 Large fluffy damage_before
+3101 After a big fluffy damage_
+3110 Super oversized fluffy damage _ before
+3111 After super-large fluffy damage_
+3240 Futobi death_before
+3241 After fluffy death_
+3290 Raised death
+3300 Big fluffy death_before
+3301 After a big fluffy death_
+3310 Super oversized fluffy death _ before
+3311 After the super-large fluffy death_
+3400 Small aerial damage_before
+3401 After small aerial damage_
+3430 Large aerial damage_before
+3431 After heavy damage in the air
+3440 Aerial fluffy damage_before
+3441 After aerial fluffy damage_
+3460 Air slamming damage
+3490 Aerial lift damage
+3500 Large aerial fluffy damage_before
+3501 After a large fluffy damage in the air
+3510 Super oversized fluffy damage in the air_before
+3511 After the aerial super-large fluffy damage_
+3600 Death in the air _ front
+3601 Death in the air_after
+3640 Aerial fluffy death _ before
+3641 After aerial fluffy death_
+3660 Death by slamming in the air
+3690 Aerial lift death
+3700 Large aerial fluffy death _ before
+3701 After the death in the air
+3710 Super oversized fluffy death in the air _ before
+3711 After the aerial super-large fluffy death_
+3800 Air speed maintenance_usually fall
+3810 Air speed maintenance_usually fall_cannot be adjusted
+4400 Aerial small guard receiver
+4430 Received a large aerial guard
+4500 Received oversized guard in the air
+4600 Aerial small jasuga receiver
+4630 Large aerial jasuga receiver
+4700 Aerial oversized jasuga receiver
+5000 [Enemy] Aerial damage_Hop-up_Before
+5010 [Enemy] After air damage_hop-up_
+5020 [Enemy] Aerial damage_Hop-up_No before or after
+5100 [Enemy] Aerial damage_slow
+7200 Artificial limb _fire_air_air
+7201 Artificial limb _fire_air_air_slow
+7300 Artificial limb ninja _ training ax _ in the air
+7400 Artificial limbs _ transformation _ aerial _ vertical reset &amp; hop
+7401 Artificial limb _ transformation _ aerial _ slow
+7410 Artificial limb ninja _ transformation _ aerial _ bottom
+7411 Artificial limb ninja _ transformation _ aerial _ front
+7412 Artificial limb _ transformation _ aerial _ after
+7413 Artificial limb ninja _ transformation _ aerial _ left
+7414 Artificial limb ninja _ transformation _ aerial _ right
+7415 Artificial limb _ transformation _ aerial _ left front
+7416 Artificial limb _ transformation _ aerial _ right front
+7417 Artificial limb _ transformation _ aerial _ left rear
+7418 Artificial limb _ transformation _ aerial _ right rear
+8000 Fall down to kill
+8010 Anti-aircraft shinobi
+8020 Wire Shinobi _ Horseman Warrior / Red Demon
+9000 Red demon thrown and blown away
+9010 Yasha Ape is thrown and blown away
+10000 School technique_Sneak stab_Jump after hit
+10001 School technique_Sneak stab_Jump after hit_Slow
+10002 School Technique_Sneak Prick_Aerial_Slow
+10003 School Technique_Sneak Prick_Aerial_Acceleration
+10010 School technique_kick rush
+10014500 Nightjars_Jump attack (test)
+40000000 Base_jump move
+40014500 Nightjars_Jump move
+40013100 Genpei Warrior_Jump Move

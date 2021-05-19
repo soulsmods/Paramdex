@@ -1,0 +1,2269 @@
+0 [System] Dummy bullets
+1 [System] Dummy bullets (does not hit characters, hits maps)
+2 [System] Dummy bullets (hits characters, does not hit maps)
+3 [System] Dummy bullets (does not hit characters, do not hit maps)
+4 [System] Invalid attack [Common]
+5 Dummy attack that keeps firing bullets
+6 [System] Dummy bullets
+7 [System] Dummy bullets
+8 [System] Dummy bullets
+10 Template LV1 small damage
+11 Template LV2 Medium damage
+12 Template LV3 Large damage
+13 Template LV4 blown away (large)
+14 Template LV5 push
+15 Template LV6 slamming damage
+16 Template LV7 blown away (small)
+17 Template LV8 Minimal damage
+18 Template LV9 Lifting damage
+19 Template LV10 blown away (extra large)
+20 Template LV11 Breath
+21 Template guard
+22 Template parry guard
+23 Template parry throw
+24 Template back throw
+25 Template Parry
+26 Parry test
+101 NPC_test1
+102 NPC_test2
+103 NPC_test3
+104 NPC_test4_guard
+105 NPC_test5_Large Attack
+106 NPC_test6_ Shield Attack
+107 NPC_test7_ Rush Attack
+200 Falling radius 1m
+201 Blow-off (weak) radius 1m
+202 Blow-off (strong) radius 1m
+1001 Artificial limb ninja _ finger whistle _ AI sound that only you can hear
+1020 Pottery piece_AI sound that only you can hear
+1500 Suspected squad AI voice
+2000 Shinobi killing _ stab shock
+2001 Shinobi killing _ assembling shock
+2300 Dummy bullet _ enemy turning AI sound bullet
+2400 Dummy bullet _ resurrection detection AI sound bullet
+2500 [GC version provisional] Dummy bullet _ Continue to make sound from PC during battle
+3000 Common attack [foot, heavy damage, humanoid]
+3001 Common attack [center, large damage, humanoid]
+3002 Common attack [foot, small damage, humanoid]
+3003 Common attack [center, small damage, humanoid]
+3010 Common attack [center, no damage, humanoid]
+3011 Common attack [back, no damage, humanoid]
+3012 Common attack [belly, no damage, humanoid]
+3013 Common attack [foot, no damage, humanoid]
+3020 Common attack [Right hand / ladder damage / humanoid]
+3021 Common attack [Left hand / Ladder damage / Humanoid]
+3022 Common attack [Right foot / ladder damage / humanoid]
+3023 Common attack [Left foot / ladder damage / humanoid]
+3030 Common attack [navel / air damage / humanoid]
+3100 Common attack [foot, large damage, large size]
+3101 Common attack [center, large damage, large size]
+3102 Common attack [foot, small damage, large size]
+3103 Common attack [center / small damage / large]
+3110 Common attack [center, no damage, large size]
+3111 Common attack [back, no damage, large size]
+3112 Common attack [belly, no damage, large size]
+3113 Common attack [foot, no damage, large size]
+3120 Common attack [Right hand, no damage, OBJ useless large, large]
+3121 Common attack [Left hand, no damage, OBJ useless large, large]
+3122 Common attack [Right foot, no damage, OBJ useless large, large]
+3123 Common attack [Left foot, no damage, OBJ useless large, large]
+3130 Common attack [Right hand, no damage, OBJ useless small, large]
+3131 Common attack [Left hand, no damage, OBJ useless small, large]
+3132 Common attack [Right foot, no damage, OBJ useless small, large]
+3133 Common attack [Left foot, no damage, OBJ useless small, large]
+3230 Common attack [navel, air damage, small size]
+1000000 Map placement Mario coin
+1000100 Castle_Smoke Signal_Flame Accumulation
+1000200 Castle_Gunpowder Box_First Bullet
+1000201 Castle_Gunpowder Box_Explosion
+1000202 Castle_Gunpowder Box_Shock Wave
+1001200 Hidden prison_lightning strike
+1002500 Submerged city_lightning strike
+2000000 Fire spread
+10100100 c1010_Ochimusha_Sword_One-handed_Nagibashi Combo 1
+10100110 c1010_Ochimusha_Sword_One-handed_Nagibashi Combo 2
+10100120 c1010_Ochimusha_Sword_One-handed_Running off 0
+10100130 c1010_Ochimusha_Sword_One-handed_Jumping and slashing
+10100150 c1010_Ochimusha_Sword_One-handed_Kick
+10100170 c1010_Ochimusha_Sword_One-handed_Slash from kick
+10100180 c1010_Ochimusha_Sword_One-handed_Continuous slash 0
+10100181 c1010_Ochimusha_Sword_One-handed_Continuous slash 1
+10100182 c1010_Ochimusha_Sword_One-handed_Continuous slash 2
+10100183 c1010_Ochimusha_Sword_One-handed_Continuous slash 3
+10100184 c1010_Ochimusha_Sword_One-handed_Continuous slash 4
+10100190 c1010_Ochimusha_Sword_One-handed_Stone throwing
+10100200 c1010_Ochimusha_Sword_One-handed_Jumping
+10100210 c1010_Ochimusha_Sword_One-handed_Lariat_Running
+10100211 c1010_Ochimusha_Sword_One-handed_Lariat_Bumping
+10100220 c1010_Ochimusha_Sword_One-handed_Left Nagi
+10100221 c1010_Ochimusha_Sword_One hand_Slamming
+10100230 c1010_Ochimusha_Sword_One-handed_Push
+10100240 c1010_Ochimusha_Sword_One hand_Lower
+10100500 c1010_Ochimusha_Sword_One-handed_Right
+10100510 c1010_Ochimusha_Sword_One-handed_Right
+10100520 c1010_Ochimusha_Sword_One-handed_Left Slashing from a weak hit
+10100530 c1010_Ochimusha_Sword_One-handed_Left Weakly flipped Kasaya → Kasaya Slash 1
+10100531 c1010_Ochimusha_Sword_One-handed_Left Weakly flipped Kasaya → Kasaya Slash 2
+10100550 c1010_Ochimusha_Sword_One hand_Kick from right weak
+10100560 c1010_Ochimusha_Sword_One-handed_Left Weakly played in the middle stage → Karatake split 0
+10100561 c1010_Ochimusha_Sword_One-handed_Left Weakly played in the middle stage → Karatake split 1
+10100900 c1010_Ochimusha_Sword_One-handed_Play
+10100940 c1010_Ochimusha_Sword_One-handed_Discontinued dummy
+10100941 c1010_Ochimusha_Sword_One hand_Discontinued dummy_From the origin
+10101100 c1010_Ochimusha_Sword_Eight Phases_Sword Combo 1
+10101110 c1010_Ochimusha_Sword_Eight Phases_Sword Combo 2
+10101120 c1010_Ochimusha_Sword_Hachiso_Karatake split
+10101130 c1010_Ochimusha_Sword_Eight Phases_Push
+10101140 c1010_Ochimusha_Sword_Eight Phases_Tsuba Push
+10101150 c1010_Ochimusha_Sword_Eight Phases_Hellow split from the tsuba push
+10101160 c1010_Ochimusha_Sword_Eight Phases_Return 0
+10101161 c1010_Ochimusha_Sword_Eight Phases_Return 1
+10101170 c1010_Ochimusha_Sword_Eight Phases_Slashing Retreat
+10101180 c1010_Ochimusha_Sword_Eight Phases_Down Chasing
+10101190 c1010_Ochimusha_Sword_Eight Phases_Sword Combo 2-2
+10101500 c1010_Ochimusha_Sword_Hachiso_Right Weakly slashed from being hit
+10101510 c1010_Ochimusha_Sword_Hachiso_Right Weakly split Karatake from being hit
+10101520 c1010_Ochimusha_Sword_Hachiso_Left Weakly hit
+10101530 c1010_Ochimusha_Sword_Hachiso_Left Weakly slashed
+10101540 c1010_Ochimusha_Sword_Hachiso_Right slashing from a weak player
+10101550 c1010_Ochimusha_Sword_Eight Phases_Right Thrust
+10101560 c1010_Ochimusha_Sword_Hachiso_Left Weakly played in the middle
+10101570 c1010_Ochimusha_Sword_Hachiso_Left Weakly played Karatake
+10101580 c1010_Ochimusha_Sword_Hachiso_Right-handed Kasaya
+10101581 c1010_Ochimusha_Sword_Eight Phases_Slashing from Right Weak Play
+10101590 c1010_Ochimusha_Sword_Eight Phases_Left Weakly Played Kasaya
+10101591 c1010_Ochimusha_Sword_Eight Phases_Yokonagi from a weak left
+10101900 c1010_Ochimusha_Sword_Eight Phases_Playing
+10101940 c1010_Ochimusha_Sword_Eight Phases_Discontinued Dummy
+10102100 c1010_Ochimusha_Spear_Push Combo 1
+10102110 c1010_Ochimusha_Spear_Push Combo 2
+10102120 c1010_Ochimusha_Spear_Treading thrust 0
+10102121 c1010_Ochimusha_Spear_Treading Thrust 1
+10102130 c1010_Ochimusha_Spear_Checking thrust
+10102140 c1010_Ochimusha_Spear_Pump thrust
+10102160 c1010_Ochimusha_Spear_Push back
+10102200 c1010_Ochimusha_Spear_Lower
+10102500 c1010_Ochimusha_Spear_Right Weakly hit
+10102510 c1010_Ochimusha_Spear_Right Retreat from being hit
+10102520 c1010_Ochimusha_Spear_Left Weakly pushed out from being hit 1
+10102521 c1010_Ochimusha_Spear_Left Weakly pushed out from being hit 2
+10102530 c1010_Ochimusha_Spear_Left Weakly hit
+10102540 c1010_Ochimusha_Spear_Right thrust from a weak player
+10102900 c1010_Ochimusha_Spear_Playing
+10102940 c1010_Ochimusha_Spear_Discontinued dummy
+10103100 c1010_Ochimusha_Matchlock_Shoot
+10103110 c1010_Ochimusha_Matchlock_Pattern
+10103120 c1010_Ochimusha_Matchlock_Pattern
+10103500 c1010_Ochimusha_Matchlock_Pattern from right weak play
+10103510 c1010_Ochimusha_Matchlock_Pattern from left weak
+10103900 c1010_Ochimusha_Matchlock_Play
+10110100 c1011_Tutorial Ochimusha_Sword_One-handed_Nagipai Combo 1
+10110110 c1011_Tutorial Ochimusha_Sword_One-handed_Nagipai Combo 2
+10110120 c1011_Tutorial Ochimusha_Sword_One-handed_Running
+10110130 c1011_Tutorial Ochimusha_Sword_One-handed_Jumping and slashing
+10110150 c1011_Tutorial Ochimusha_Sword_One-handed_Kick
+10110220 c1011_Tutorial Ochimusha_Sword_One-handed_Left Nagi
+10110221 c1011_Tutorial Ochimusha_Sword_One-handed_Slamming
+10110900 c1011_Tutorial Ochimusha_Sword_One-handed_Play
+10111100 c1011_Tutorial Ochimusha_Sword_Eight Phases_Sword Combo 1
+10111110 c1011_Tutorial Ochimusha_Sword_Eight Phases_Sword Slash Combo 2
+10111120 c1011_Tutorial Ochimusha_Sword_Hachiso_Karatake split
+10111140 c1011_Tutorial Ochimusha_Sword_Eight Phases_Tsuba Push
+10111540 c1011_Tutorial Ochimusha_Sword_Hachiso_Right slashing from a weak player
+10111570 c1011_Tutorial Ochimusha_Sword_Hachiso_Left Weakly played Karatake
+10111900 c1011_Tutorial Ochimusha_Sword_Eight Phases_Playing
+10120100 c1012_Battle Tutorial Ochimusha_Sword_One-handed_Nagibashi Combo 1
+10120110 c1012_Battle Tutorial Ochimusha_Sword_One-handed_Nagibashi Combo 2
+10120120 c1012_Battle Tutorial Ochimusha_Sword_One-handed_Running 0
+10120130 c1012_Battle Tutorial Ochimusha_Sword_One-handed_Jumping Slash
+10120180 c1012_Battle Tutorial Ochimusha_Sword_One-handed_Continuous Slash 0
+10120181 c1012_Battle Tutorial Ochimusha_Sword_One-handed_Continuous Slash 1
+10120182 c1012_Battle Tutorial Ochimusha_Sword_One-handed_Continuous Slash 2
+10120183 c1012_Battle Tutorial Ochimusha_Sword_One-handed_Continuous Slash 3
+10120184 c1012_Battle Tutorial Ochimusha_Sword_One-handed_Continuous Slash 4
+10120200 c1012_Battle Tutorial Ochimusha_Sword_One-handed_Jumping
+10120220 c1012_Battle Tutorial Ochimusha_Sword_One-handed_Left Nagi
+10120221 c1012_Battle Tutorial Ochimusha_Sword_One-handed_Slamming
+10120230 c1012_Battle Tutorial Ochimusha_Sword_One-handed_Push
+10120240 c1012_Battle Tutorial Ochimusha_Sword_One-handed_Lower
+10120500 c1012_Battle Tutorial Ochimusha_Sword_One-handed_SEQ2_Swashbuckler and Trunk_Attack
+10120900 c1012_Battle Tutorial Ochimusha_Sword_One-handed_Play
+10120940 c1010_Ochimusha_Sword_One-handed_Discontinued dummy
+10120941 c1010_Ochimusha_Sword_One hand_Discontinued dummy_From the origin
+10122100 c1010_Ochimusha_Spear_Push Combo 1
+10122200 c1010_Ochimusha_Spear_Lower
+10122900 c1010_Ochimusha_Spear_Playing
+10200100 c1020_Samurai General_Sword Slash Combo 1
+10200110 c1020_Samurai General_Sword Slash Combo 2
+10200120 c1020_Samurai General_Sword Slash Combo 3
+10200130 c1020_Samurai General_Jump and slash
+10200140 c1020_Samurai General_Lower Nagibashi Combo 1
+10200150 c1020_Samurai General_Lower Nagibashi Combo 2-1
+10200151 c1020_Samurai General_Lower Nagibashi Combo 2-2
+10200160 c1020_Samurai General_Upper Nagipai → Lower Nagipai 1
+10200161 c1020_Samurai General_Upper Nagipai → Lower Nagipai 2
+10200170 c1020_Samurai General_Helmet split from avoidance
+10200180 c1020_Samurai General_Tsuba squeeze
+10200190 c1020_Samurai General_Tsubasa from the tsuba push
+10200200 c1020_Samurai General_Advance thrust
+10200210 c1020_Samurai General_Slash from the forward thrust
+10200220 c1020_Samurai General_Neck Grab
+10200230 c1020_Samurai General_ Grab the neck and throw: Throw
+10200240 c1020_Samurai General_Blow from a deadly stance
+10200250 c1020_Samurai General_Smashing
+10200260 c1020_Samurai General_Execution stab
+10200500 c1020_Samurai General_Right Turn back from being hit
+10200510 c1020_Samurai General_Left Weakly hit back
+10200520 c1020_Samurai General_Right slashing weakly from being hit hard
+10200530 c1020_Samurai General_Right Weak reciprocal from being hit hard
+10200540 c1020_Samurai General_Right smashed bamboo
+10200550 c1020_Samurai General_Left Weak reciprocal from being hit hard
+10200560 c1020_Samurai General_Left Strongly slashed from a weak sword
+10200570 c1020_Samurai General_Left Strong lower tier from being hit
+10200580 c1020_Samurai General_Weak reciprocal from right weak playing
+10200590 c1020_Samurai General_Weak slash from left weak play
+10200600 c1020_Samurai General_Right body from a strong hit
+10200610 c1020_Samurai General_Strong Karatake split from left strong play
+10200620 c1020_Samurai General_Right turn back from a weak hit 1
+10200621 c1020_Samurai General_Right turn back from a weak hit 2
+10200622 c1020_Samurai General_Right turn back from a weak hit 3
+10200630 c1020_Samurai General_Left Weakly slashed from being hit 1
+10200631 c1020_Samurai General_Left Weakly slashed from being hit 2
+10200640 c1020_Samurai General_Right-right slashing figure 8 from being hit → thrust 1
+10200641 c1020_Samurai General_Right-right slashing figure 8 from being hit → thrust 2
+10200642 c1020_Samurai General_Right-right slashing figure 8 from being hit → thrust 3
+10200643 c1020_Samurai General_Right-right slashing figure 8 from being hit → thrust 4
+10200650 c1020_Samurai General_Left Weak kick from a weak kick
+10200900 c1020_Samurai General_Playing
+10200940 c1020_Samurai General_Discontinued dummy
+10201010 c1020_Samurai General_Large Spear_Combo 1-1: Nagi
+10201011 c1020_Samurai General_Oyari_Combo 1-2: Reverse Nagi
+10201012 c1020_Samurai General_Large Spear_Combo 1-3: Slamming
+10201020 c1020_Samurai General_Large Spear_Lower
+10201030 c1020_Samurai General_Large Spear_Nagibuki 2 consecutive 1
+10201031 c1020_Samurai General_Large Spear_Nagibuki 2 consecutive 2
+10201040 c1020_Samurai General_Large Spear_Tsuba Push
+10201050 c1020_Samurai General_Large Spear_Combo 2-1: Slamming
+10201051 c1020_Samurai General_Large Spear_Combo 2-2: Raise
+10201060 c1020_Samurai General_Large Spear_Dash Thrust
+10201070 c1020_Samurai General_Large Spear_Overhead Swing → Nagibashi 1
+10201071 c1020_Samurai General_Large Spear_Overhead Swing → Nagibashi 2
+10201080 c1020_Samurai General_Oyari_Attack from a deadly stance 1
+10201081 c1020_Samurai General_Oyari_Attack from a deadly stance 2
+10201082 c1020_Samurai General_Oyari_Attack from a deadly stance_Push
+10201090 c1020_Samurai General_Large Spear_Push
+10201100 c1020_Samurai General_Large Spear_3 Consecutive Thrust 1
+10201101 c1020_Samurai General_Large Spear_3 Consecutive Thrust 2
+10201102 c1020_Samurai General_Large Spear_3 Consecutive Thrust 3
+10201110 c1020_Samurai General_Large Spear_Push from below
+10201120 c1020_Samurai General_Large Spear_Nagi (Long Tame)
+10201130 c1020_Samurai General_Large Spear_Push
+10201140 c1020_Samurai General_Large Spear_Slamming: Parted out posture
+10201150 c1020_Samurai General_Large Spear_Raised: Parted out posture
+10201500 c1020_Samurai General_Oyari_Nagi: Right-handed posture
+10201510 c1020_Samurai General_Oyari_Reverse Nagi: Left-handed posture
+10201520 c1020_Samurai General_Large Spear_High Speed Nagi: Playing Posture
+10201530 c1020_Samurai General_Oyari_Lower: Left-handed posture
+10201900 c1020_Samurai General_Large Spear_Play
+10201940 c1020_Samurai General_Large Spear_Discontinued Dummy
+10201941 c1020_Samurai General_Large Spear_Discontinued Dummy_From Origin
+10210100 c1020_Samurai General_Sword Slash Combo 1
+10210110 c1020_Samurai General_Sword Slash Combo 2
+10210120 c1020_Samurai General_Sword Slash Combo 3
+10210130 c1020_Samurai General_Jump and slash
+10210160 c1020_Samurai General_Upper Nagipai → Lower Nagipai 1
+10210161 c1020_Samurai General_Upper Nagipai → Lower Nagipai 2
+10210170 c1020_Samurai General_Helmet split from avoidance
+10210180 c1020_Samurai General_Tsuba squeeze
+10210190 c1020_Samurai General_Tsubasa from the tsuba push
+10210500 c1020_Samurai General_Right Turn back from being hit
+10210510 c1020_Samurai General_Left Weakly hit back
+10210520 c1020_Samurai General_Right slashing weakly from being hit hard
+10210530 c1020_Samurai General_Right Weak reciprocal from being hit hard
+10210540 c1020_Samurai General_Right smashed bamboo
+10210550 c1020_Samurai General_Left Weak reciprocal from being hit hard
+10210560 c1020_Samurai General_Left Strongly slashed from a weak sword
+10210580 c1020_Samurai General_Weak reciprocal from right weak playing
+10210590 c1020_Samurai General_Weak slash from left weak play
+10210600 c1020_Samurai General_Right body from a strong hit
+10210610 c1020_Samurai General_Strong Karatake split from left strong play
+10210650 c1020_Samurai General_Left Weak kick from a weak kick
+10210900 c1020_Samurai General_Playing
+10300100 c1030_ Centipede (Small) _ Scratch on the spot 1
+10300101 c1030_ Centipede (Small) _ Scratch on the spot 2
+10300110 c1030_ Centipede (Small) _ Move backward Scratch 1
+10300111 c1030_ Centipede (Small) _ Move backward Scratch 2
+10300120 c1030_ Centipede (Small) _ Left movement scratch
+10300130 c1030_ Centipede (Small) _ Move to the right Scratch
+10300200 c1030_centipede (small) _self-destruct
+10300210 c1030_Centipede (Small) _Burning ball (Common)
+10300240 c1030_Centipede (Small) _Burning ball landing flame floor (common)
+10300900 c1030_centipede (small) _play
+10400000 c1040_ Centipede (Large) _ Rush _ Start _ Right hand
+10400001 c1040_ Centipede (Large) _ Rush _ Start _ Left hand
+10400010 c1040_ Centipede (Large) _ Rush _ Middle _ Right hand
+10400011 c1040_ Centipede (Large) _ Rush _ Middle _ Left hand
+10400020 c1040_Centipede (Large) _Rush_Final_Both hands A
+10400021 c1040_Centipede (Large) _Rush_Final_Both hands B
+10400100 c1040_ Centipede (Large) _ Lower cross
+10400900 c1040_ Centipede (Large) _ Playing
+10500000 c1050_Spear Monk Soldier_a3000 Continuous Thrust 1st Stage: Danger
+10500001 c1050_Spear Monk Soldier_Continuous Thrust 2nd Stage
+10500002 c1050_Spear Monk Soldier_Continuous Thrust 3rd Stage
+10500003 c1050_Spear Monk Soldier_Continuous Thrust 4th Stage
+10500010 c1050_Spear Monk Soldier_a3001 Check-off (Baxte attack)
+10500020 c1050_Spear Monk Soldier_a3002 Attack with a stone tip 1st stage_stone tip upper
+10500021 c1050_Spear Monk Soldier_a3002 Attack with a stab 2nd stage _Striking with a stab
+10500030 c1050_Spear Monk _a3003 Anti-aircraft thrust: Danger
+10500090 c1050_Spear Monk Soldier_a3009 Advance Accumulation Thrust: Danger
+10500100 c1050_Spear Monk_Striking the ground with a stab
+10500110 c1050_Spear Monk Soldier_Kusamura Thrust
+10500120 c1050_Spear Monk Soldier_ Looking Back
+10500130 c1050_Spear Monk _a3013 Turn back from attack with stone butt: Danger
+10500150 c1050_Spear Monk Soldier_a3015 Stone Thrust
+10500160 c1050_Spear Monk _a3016 Slashing from a stone slash
+10500170 c1050_Spear Monk _a3017 Lower sword from stone smashing: Danger
+10500200 c1050_Spear Monk Soldier_Shunpotsu
+10500201 c1050_Spear Monk _ Special Throw from Shunpotsu
+10500500 c1050_Spear Monk _ Blow away from being cut off
+10500900 c1050_Spear Monk _ Playing
+10500940 c1050_Spear Monk_Discontinued Dummy_30 Damage
+10500941 c1050_Spear Monk_Discontinued Dummy_60 Damage
+10500942 c1050_Spear Monk_Discontinued Dummy_90 Damage
+10600100 c1060_Rotating Spearman_Rotating 3 Consecutive Strikes 1
+10600101 c1060_Rotating Spearman_Rotating 3 Consecutive Strikes 2
+10600102 c1060_Rotating Spearman_Rotating 3 Consecutive Strikes 3
+10600110 c1060_Rotating Spearman_Jump Rotating Slash
+10600120 c1060_Rotating spearman_Large jump Rotating swing down
+10600130 c1060_Rotating Spearman_Rotating 4 Strikes_Front Blade
+10600131 c1060_Rotating Spearman_Rotating 4 Strikes_Rear Blade
+10600132 c1060_Rotating Spearman_Rotating 4 Consecutive Strikes_Swinging
+10600133 c1060_Rotating Spearman_Rotating 4 Strikes_Front Blade_Pushing
+10600134 c1060_Rotating spearman_Rotating sideways from 4 consecutive attacks
+10600140 c1060_Rotating Spearman_Reverse Rotating Slasher
+10600150 c1060_Rotating spearman_Strongly grated
+10600160 c1060_Rotating Spearman_Right Rotating Double Strike 1
+10600161 c1060_Rotating Spearman_Right Rotating Double Strike 2
+10600170 c1060_Rotating Spearman_Advance Rush_Odd
+10600171 c1060_Rotating Spearman_Advance Rush_Even
+10600180 c1060_Rotating Spearman_Lower Slash from 4 Rotating Strikes
+10600190 c1060_Rotating spearman_Pole vault Stepping down from wraparound Lower stage_First stage
+10600191 c1060_Rotating spearman_Pole vault Stepping down from wraparound Lower stage_Second shot
+10600200 c1060_Rotating Spearman_Slashing Retreat from Two Strikes
+10600300 c1060_Rotating Spearman_Aerial Attack Judgment
+10600500 c1060_Rotating Spearman_Kunai Common
+10600600 c1060_Rotating spearman_Right slashing from a weak hit
+10600900 c1060_Rotating Spearman_Playing
+10700100 c1070_Shura Samurai_ 袈裟 Slash Combo 1
+10700101 c1070_Shura Samurai_ 袈裟 Slash Combo 2
+10700105 c1070_Shura Samurai_袈裟 Slashing Combo 1_Poison
+10700106 c1070_Shura Samurai_袈裟 Slash Combo 2_Poison
+10700107 c1070_Shura Samurai_Sword Slash Combo 1_Flame
+10700108 c1070_Shura Samurai_Sword Slash Combo 2_Flame
+10700110 c1070_Shura Samurai_Tension Combo 2_ Swing down both hands
+10700115 c1070_Shura Samurai_Tension Combo 2_Both Hands Down_Poison
+10700117 c1070_Shura Samurai_Tension Combo 2_Both Hands Down_Flame
+10700120 c1070_Shura Samurai_One-handed sideways
+10700121 c1070_Shura Samurai_Reverse sideways from one-handed sideways
+10700125 c1070_Shura Samurai_One-handed sideways _Poison
+10700126 c1070_Shura Samurai_Reverse sideways from one-handed sideways_Poison
+10700127 c1070_Shura Samurai_One-handed sideways _Flame
+10700128 c1070_Shura Samurai_Reverse sideways from one-handed sideways_flame
+10700130 c1070_Shura Samurai_Slashing from the tensioner
+10700135 c1070_Shura Samurai_Slash from the tensioner_Poison
+10700137 c1070_Shura Samurai_Slashing from the tensioner_Flame
+10700140 c1070_Shura Samurai_Swing down from a headbutt
+10700145 c1070_Shura Samurai_Swing down from a headbutt_Poison
+10700147 c1070_Shura Samurai_Swing down from a headbutt_Flame
+10700150 c1070_Shura Samurai_One-handed lower tier
+10700151 c1070_Shura Samurai_One-handed lower sword from poison fog
+10700155 c1070_Shura Samurai_One-handed lower sword shaving _Poison
+10700156 c1070_Shura Samurai_One-handed lower sword from poison fog_Poison
+10700157 c1070_Shura Samurai_One-handed lower tier Nagibuki_Flame
+10700158 c1070_Shura Samurai_One-handed lower sword from poison fog_Flame
+10700160 c1070_Shura Samurai_Put down
+10700165 c1070_Shura Samurai_Pump down _Poison
+10700167 c1070_Shura Samurai_Pump down _Flame
+10700170 c1070_Shura Samurai_Right-handed slashing
+10700175 c1070_Shura Samurai_Right-handed sword slashing _ Poison
+10700177 c1070_Shura Samurai_Right-handed sword slashing _ Flame
+10700180 c1070_Shura Samurai_ Left-handed sword
+10700185 c1070_Shura Samurai_Left-handed slashing _Poison
+10700187 c1070_Shura Samurai_Left-handed slashing _flame
+10700190 c1070_Shura Samurai_Chase from swinging down
+10700195 c1070_Shura Samurai_Pursuit from the sump down Swing down_Poison
+10700197 c1070_Shura Samurai_Pursuit from the sump down Swing down_Flame
+10700300 c1070_Shura Samurai_Tension Combo 1_Tension
+10700301 c1070_Shura Samurai_Tension Combo 1_Stepping
+10700310 c1070_Shura Samurai_ Pursuit Strut
+10700320 c1070_Shura Samurai_Buchikamashi
+10700321 c1070_Shura Samurai_Buchikamashi_Hits other than the main
+10700330 c1070_Shura Samurai_Feint Tensioner
+10700340 c1070_Shura Samurai_Shikona Stepping_Kicking up
+10700341 c1070_Shura Samurai_Shikona trampling_Treading
+10700350 c1070_Shura Samurai_Rush Headbutt
+10700360 c1070_Sura Servant_Poisonous Mist
+10700361 c1070_Sura Servant_Poisonous Mist 2
+10700365 c1070_Shura Samurai_Poisonous fog_Dizziness
+10700370 c1070_Shura Samurai_Shikona trampling throw_Start
+10700371 c1070_Shura Samurai_Shikona trampling throw
+10700380 c1070_Shura Samurai_Fog Fog Dummy 1
+10700381 c1070_Shura Samurai_Fog Fog Dummy 2
+10700800 c1070_Shura Samurai_Armor Guard
+10700900 c1070_Shura Samurai_Playing
+10700910 c1070_Shura Samurai_Sake Bottle Throw Bullet (Cancel Special Standby)
+10700930 c1070_Shura Samurai_Dummy Attack_Armor Destruction
+10800100 c1080_Seven-faced warrior_Grated
+10800110 c1080_Seven-sided warrior_Nagipai combo 1
+10800111 c1080_Seven-sided warrior_Nagipai combo 2
+10800500 c1080_Seven-sided warrior_Rapid fire
+10800510 c1080_Seven-faced warrior_guided bullet
+10800520 c1080_Seven-sided warrior_Giant bullet
+10800660 c1080_Seven-faced warrior_Grief torrent
+10800900 c1080_Seven-sided warrior_Playing
+10900010 c1090_dog_deadly carotid artery torn
+10900030 c1090_dog_right step attack
+10900040 c1090_dog_left step attack
+10900050 c1090_dog_right curve attack
+10900060 c1090_dog_left curve attack
+10900070 c1090_Dog_2 Attack (1st stage)
+10900080 c1090_Dog_2 consecutive attack (2nd stage)
+10900090 c1090_dog_stuck tackle
+10900110 c1090_dog_barking and menacing_2 times
+10900120 c1090_dog_jumping and biting
+10900900 c1090_dog_jumping and biting bullet
+11000010 c1100_Gecko_Poisonous sprinkling
+11000020 c1100_Gecko_Poison_Impact
+11000060 c1100_gecko_bite
+11000110 c1100_Gecko_Poisonous sprinkling_Aging
+11000111 c1100_Gecko_Poison_Aging_Impact
+11100010 c1110_Handmaiden_Aunt_Calling a Friend_AI Sound
+11100020 c1110_Handmaiden Aunt_Basic_Fall (destroy the object)
+11200100 c1120: Watchman_Basic_Swing a stick A1
+11200101 c1120: Watchman_Basic_Swing a stick A2
+11200102 c1120: Watchman_Basic_Swing a stick A3
+11200103 c1120: Watchman_Basic_Swing a stick A4
+11200104 c1120: Watchman_Basic_Swing a stick A5
+11200110 c1120: Watchman_Basic_Swing a stick B1
+11200111 c1120: Watchman_Basic_Swing a stick B2
+11200112 c1120: Watchman_Basic_Swing a stick B3
+11200120 c1120: Watchman_Basic_Gong ringing A
+11200130 c1120: Watchman_Basic_Gong ringing B
+11300100 c1130_Nanban armor_Right sword
+11300101 c1130_Nanban armor_Left sword from right sword
+11300102 c1130_Nanban armor_Slash from the left armor slash
+11300103 c1130_Nanban armor_Right sword thrust
+11300110 c1030_Nanban armor_Left side slash from standby
+11300111 c1130_Nanban armor_Right sword from left side slash
+11300120 c1030_Nanban Armor_Right Reservoir
+11300130 c1130_Nanban armor_helmet split
+11300140 c1130_Nanban armor_Running helmet split
+11300150 c1130_Nanban Armor_Running Helmet Discount (for cancellation)
+11300160 c1130_Nanban Armor_Extruded
+11300170 c1130_Southern armor_Push from the right position
+11300400 c1130_Nanban Armor_4 consecutive rush 1
+11300401 c1130_Nanban armor_4 consecutive rush 2
+11300402 c1130_Nanban armor_4 consecutive rush 3
+11300403 c1130_Nanban armor_4 consecutive rush 4
+11300410 c1130_Nanban Armor_Angry Slash
+11300900 c1130_Nanban armor_Collision detection sonar dummy
+11300940 c1130_Nanban Armor_Discontinued Dummy
+11300950 c1130_Nanban Armor_Object Destruction
+11400100 c1140_earth wall soldier_ surprise attack A
+11400110 c1140_earth wall soldier_ surprise attack B
+11400120 c1140_earth wall soldiers_scraping
+11400130 c1140_Tsuki soldiers_Tsuki with both hands
+11400140 c1140_Soil wall soldier_Vertical slamming from shaving
+11400150 c1140_earth wall soldier_one-handed thrust
+11400160 c1140_earth wall soldier_push
+11400170 c1140_earth wall soldier_wall slamming_left
+11400180 c1140_earth wall soldier_wall slamming_right
+11400190 c1140_earth wall soldier_grab _left
+11400200 c1140_earth wall soldier_grab _right
+11400201 c1140_earth wall soldier_wall slamming throw
+11400210 c1140_earth wall soldier_surprise attack sideways_left
+11400220 c1140_earth wall soldier_surprise attack sideways_right
+11400230 c1140_earth wall soldier_rotary thrust
+11400240 c1140_earth wall soldier_double attack 1
+11400241 c1140_earth wall soldier_double attack 2
+11400250 c1140_earth wall soldier_derivative swing up
+11400260 c1140_earth wall soldier_push down
+11400300 c1140_earth wall soldier_press when appearing
+11400900 c1140_earth wall soldier_playing
+11400940 c1140_earth wall soldier_ parted out dummy
+11500100 c1150_dog_jumping and biting
+11500110 c1150_dog_stuck tackle
+11500120 c1150_dog_barking and menacing_2 times
+11500900 c1150_Dog_Special effect_Jump and bite
+11510100 c1151_Innsmouth dog_jumping and biting
+11510110 c1151_Innsmouth dog_Thunder bullet spitting
+11800100 c1180_Lower man_Mallet_Mochitsuki_Head
+11800101 c1180_Lower man_Mallet_Mochitsuki_Loop
+11800102 c1180_Lower man_Mallet_Mochitsuki_Beat
+11800103 c1180_Lower man_Mallet_Mochitsuki_Bunt
+11800104 c1180_Lower man_Mallet_Mochitsuki_Grated
+11800105 c1180_Lower man_Mallet_Mochitsuki_Back fist
+11800106 c1180_Lower man_Mallet_Mochitsuki_Loop 2
+11800110 c1180_Lower man_Mallet_Dash slamming_Head
+11800120 c1180_Lower man_Mallet_Side-down _Head
+11800130 c1180_Lower man_Mallet_Jump slamming_Head
+11800150 c1180_Lower man_Mallet_Rampaging_1 ~ 3rd stage
+11800151 c1180_Lower man_Mallet_Rampage_4th stage
+11800152 c1180_Lower man_Mallet_Rampage_5th stage
+11800153 c1180_Lower man_Mallet_Rampage_Final stage
+11800160 c1180_Lower man_Mallet_Continuous slamming
+11800300 c1180_Lower man_Mallet_Crying slamming
+11800800 c1180_Lower man_Mallet_Armor guard
+11800900 c1180_Lower man_Mallet_Mallet_Playing
+11800911 c1180_Lower man_Mallet_Dummy attack_Armor destruction
+11801100 c1180_Lower man_Kanabo _Mochitsuki
+11801101 c1180_Lower man_Kanabo__Mochitsuki_Loop
+11801102 c1180_Lower man_Kanabo__Mochitsuki_Beat
+11801103 c1180_Lower man_Kanabo__Mochitsuki_Bunt
+11801104 c1180_Lower man_Kanabo__Mochitsuki_Grated
+11801105 c1180_Lower man_Kanabo__Mochitsuki_Uraken
+11801106 c1180_Lower man_Kanabo__Mochitsuki_Loop 2
+11801110 c1180_Lower man_Kanabo_Dash slamming
+11801120 c1180_Lower man_Kanabo__Yokosagi combo 1_Upper
+11801121 c1180_Lower man_Kanabo__Yokosagi combo 2_Lower
+11801122 c1180_Lower man_Kanabo__Yokosagi combo 3_Swing up
+11801150 c1180_Lower man_Kanabo_Rampage_1 ~ 3rd stage
+11801151 c1180_Lower man_Kanabo_Rampage_4th stage
+11801152 c1180_Lower man_Kanabo_Rampage_5th stage
+11801153 c1180_Lower man_Kanabo_Rampage_Final stage
+11801160 c1180_Lower man_Kanabo_Left swing
+11801170 c1180_Lower man_Kanabo_Home run
+11801300 c1180_Lower man_Kanabo _Crying slamming
+11801800 c1180_Lower man_Kanabo_Armor guard
+11801900 c1180_Lower man_Kanabo_Flipping
+11801911 c1180_Lower man_Kanabo_Dummy attack_Armor destruction
+11802100 c1180_Lower man_Bell with string_Slamming combo_Start
+11802110 c1180_Lower man_Bell with string_Slamming combo_Left
+11802120 c1180_Lower man_Bell with string_Slamming combo_Right
+11802130 c1180_Lower man_Bell with string_Rotating swing_First lap
+11802131 c1180_Lower man_Bell with string_Rotating swing_Second lap
+11802132 c1180_Lower man_Bell with string_Rotating swing_Third lap
+11802140 c1180_Lower man_Bell with string_Bell throwing_Medium_Slamming
+11802141 c1180_Lower man_Bell with string_Bell throwing_Middle_Drag
+11802150 c1180_Lower man_Bell with string_Bell throwing_Near_Slamming
+11802151 c1180_Lower man_Bell with string_Bell throwing_Near_Drag
+11802160 c1180_Lower man_Bell with string_Bell cover Warp throw
+11802170 c1180_Lower man_Bell with string_Rampaging_1st stage
+11802171 c1180_Lower man_Bell with string_Rampaging_2 ~ 4th stage
+11802172 c1180_Lower man_Bell with string_Rampaging_5 ・ 6th stage
+11802173 c1180_Lower man_Bell with string_Rampaging_Final stage
+11802180 c1180_Lower man_Bell with string_Reverse rotation
+11802190 c1180_Lower man_Bell with string_Bell cover Warp throw_Throw start
+11802191 c1180_Lower man_Bell with string_Bell-covered warp throw_Throw
+11802800 c1180_Lower man_Bell with string_Armor guard
+11802900 c1180_Lower man_Bell with string_Play
+11802911 c1180_Lower man_Bell with string_Dummy attack_Armor destruction
+11804100 c1180_Lower man_Shield_Shield hitting combo 1-1
+11804110 c1180_Lower man_Shield_Shield hitting combo 1-2
+11804120 c1180_Lower man_Shield_Shield hitting combo 1-3
+11804130 c1180_Lower man_Shield_Pump shield Extrude
+11804140 c1180_Lower man_Shield_Shield slamming
+11804141 c1180_Lower man_Shield_Scooping_Weak
+11804142 c1180_Lower man_Shield_Scooping_Strong
+11804150 c1180_Lower man_Shield_Rush_Start
+11804151 c1180_lower man_shield_rush_between
+11804152 c1180_Lower man_Shield_Rush_End
+11804160 c1180_Lower man_Shield_Left 180 degrees Looking back
+11804161 c1180_Lower man_Shield_Right 180 degrees Looking back
+11804170 c1180_Lower man_Shield_Shield Flying body press
+11804180 c1180_lower man_shield_shield extruded
+11804190 c1180_Lower man_Shield_Push attack 1
+11804200 c1180_Lower man_Shield_Push attack 2
+11804210 c1180_Lower man_Shield_Push attack 3
+11804220 c1180_Lower man_Shield_Raise
+11804221 c1180_Lower man_Shield_Swing down connected from the lift
+11804500 c1180_lower man_shield_mud hanging
+11804600 c1180_Lower man_Shield_Sliding to the left from right-handed
+11804610 c1180_Lower man_Shield_Shield thrust from right-handed
+11804650 c1180_Lower man_Shield_Sliding to the right from being swept left
+11804660 c1180_Lower man_Shield_Shield thrust from left-handed
+11804900 c1180_Lower man_Shield_Playing
+11804911 c1180_Lower man_Shield_Dummy attack_Shield destruction
+11900100 c1190_valley enemy_shooting
+11900110 c1190_valley enemy_bayonet thrust_standing
+11900111 c1190_valley enemy_bayonet thrust_ crouching
+11900112 c1190_Valley enemy_Kick off
+11900113 c1190_valley enemy_bayonet assault
+11900900 c1190_valley enemy_play
+11900940 c1190_Valley enemy_Discontinued dummy
+11900941 c1190_Valley enemy_Discontinued dummy_From the origin
+11901100 c1190_valley enemy_shooting
+11901101 c1190_Valley enemy_Rapid fire
+11901103 c1190_valley enemy_strong shooting
+11901110 c1190_Valley enemy_Bayonet
+11901111 c1190_Valley enemy_Bayonet Kasaya
+11901112 c1190_Valley enemy_Bayonet slashing
+11901113 c1190_valley enemy_anchor hook
+11901114 c1190_Valley enemy_Anchor attraction
+11901115 c1190_Valley enemy_Anchor shooting: Throw
+11901116 c1190_Valley enemy_Swing up → Lower shooting
+11901117 c1190_Valley enemy_Swing → Kick → Shoot 1
+11901118 c1190_Valley enemy_Swing → Kick → Shoot 2
+11901120 c1190_Valley enemy_Right Anchor hook from a weak hit
+11901121 c1190_Valley enemy_Left Weak gun from being hit Left-handed slash
+11901122 c1190_Valley enemy_Right bayonet from being hit_Standing
+11901123 c1190_Valley enemy_Left strong bayonet from being slashed
+11901124 c1190_Valley enemy_Kicking from a weak right-handed player
+11901125 c1190_Valley enemy_Right attack from a weak hit
+11901900 c1190_valley enemy_play
+11902100 c1190_Valley enemy_Horizontal shooting_Shotgun
+11902101 c1190_valley enemy_vertical shooting_shotgun
+11902102 c1190_Valley enemy_Horizontal shooting_Shotgun_Child
+11902103 c1190_Valley enemy_Vertical shooting_Shotgun_Child
+11902110 c1190_Valley enemy_Kicking from playing
+11902120 c1190_Valley enemy_Striking from playing
+11902900 c1190_valley enemy_play
+11903000 c1190_valley enemy_shooting_cannon
+11903001 c1190_Valley enemy_Shooting_Cannon_Explosion
+11903002 c1190_valley enemy_shooting_cannon_shock wave
+11903110 c1190_valley enemy_beat 1
+11903111 c1190_valley enemy_beat 2
+11903112 c1190_Valley enemy_Extrude
+11903900 c1190_valley enemy_play
+12000100 c1200_Sokushinbutsu (with centipede) _8-shaped rush 0
+12000101 c1200_Sokushinbutsu (with centipede) _Eight-shaped rush 1
+12000102 c1200_Sokushinbutsu (with centipede) _8-shaped rush 2
+12000110 c1200_Sokushinbutsu (with centipede) _Left → Right → Vertical triple combo 0
+12000111 c1200_Sokushinbutsu (with centipede) _Left → Right → Vertical triple combo 1
+12000120 c1200_Sokushinbutsu (with centipede) _Nagibashi Futobashi_Up
+12000121 c1200_Sokushinbutsu (with centipede) _Nagibashi Futobashi
+12000130 c1200_Sokushinbutsu (with centipede) _Lower 0
+12000131 c1200_Sokushinbutsu (with centipede) _Lower 1
+12000151 c1200_Sokushinbutsu (with centipede) _Straight
+12000160 c1200_Sokushinbutsu (with centipede) _ clinging
+12000170 c1200_Sokushinbutsu (with centipede) _Centipede wrapping from clinging 0: Throw
+12000171 c1200_Sokushinbutsu (with centipede) _Centipede wrapping from clinging 1: Throw
+12000180 c1200_Sokushinbutsu (with centipede) _Rush from the right position 0
+12000181 c1200_Sokushinbutsu (with centipede) _Rush from the right position 1
+12000182 c1200_Sokushinbutsu (with centipede) _Rush from the right position 2
+12000190 c1200_Sokushinbutsu (with centipede) _ Straight out from the right position
+12000200 c1200_Sokushinbutsu (with centipede) _Double combo from the left position 0
+12000201 c1200_Sokushinbutsu (with centipede) _Double combo from the left position 1
+12000210 c1200_Sokushinbutsu (with centipede) _ Vertical bite from the left position
+12000220 c1200_Sokushinbutsu (with centipede) _ Left-handed
+12000230 c1200_Sokushinbutsu (with centipede) _Right-handed
+12000240 c1200_Sokushinbutsu (with centipede) _Attract centipede_Expand
+12000241 c1200_Sokushinbutsu (with centipede) _Centipede pulling_Pulling 1 Lower row
+12000242 c1200_Sokushinbutsu (with centipede) _Centipede pulling_Pulling 2 Lower row
+12000900 c1200_Sokushinbutsu (with centipede) _Play
+12100100 c1210_Sokushinbutsu (without centipede) _Vomiting
+12100101 c1210_Sokushinbutsu (without centipede) _Spitting _Impact
+12100150 c1210_Sokushinbutsu (without centipede) _Poltergeist_Khakkhara
+12100170 c1210_Sokushinbutsu (without centipede) _Poltergeist_Hanging lantern
+12100180 c1210_Sokushinbutsu (without centipede) _Poltergeist_Vase
+12100190 c1210_Sokushinbutsu (without centipede) _Poltergeist_Buddha statue_Overhead judgment dummy
+12100195 c1210_Sokushinbutsu (without centipede) _Poltergeist_Buddha statue_For HIT
+12100500 c1210_Sokushinbutsu (without centipede) _Pay by hand
+12110100 c1211_Cricket_Jump attack
+12110110 c1211_Cricket_Pump Jump Attack
+12110500 c1211_Cricket_Sokushinbutsu pops out
+12200100 c1220_Temple foundation Zako_With regular fist → Hand sword → Kick up 0
+12200101 c1220_Temple foundation Zako_With regular fist → Hand sword → Kick up 1
+12200102 c1220_Temple foundation Zako_With regular fist → Hand sword → Kick up 2
+12200110 c1220_Temple foundation Zako_Continuous roundhouse kick 0
+12200111 c1220_Temple foundation Zako_Continuous roundhouse kick 1
+12200120 c1220_Temple foundation Zako_Round treasure throw
+12200121 c1220_Temple foundation Zako_Round treasure throw
+12200130 c1220_Temple foundation Zako_Horizontal step punch → Uraken 0
+12200131 c1220_Temple foundation Zako_Horizontal step punch → Uraken 1
+12200132 c1220_Temple foundation Zako_Horizontal step punch → Uraken 2
+12200140 c1220_Temple foundation Zako_Diagonal jump Continuous rotation kick 0
+12200141 c1220_Temple foundation Zako_Diagonal jump Continuous rotation kick 1
+12200142 c1220_Temple foundation Zako_Diagonal jump Continuous rotation kick 2
+12200143 c1220_Temple foundation Zako_Diagonal jump Continuous rotation kick 3
+12200150 c1220_Temple foundation Zako_Rotating kick
+12200151 c1220_Temple foundation Zako_Treading from a rotary kick
+12200152 c1220_Temple foundation Zako_Kick up from trampling
+12200153 c1220_Temple foundation Zako_Heel drop from kicking up
+12200160 c1220_Temple foundation Zako_Uppercut
+12200200 c1220_Temple foundation Zako_Elbow strike
+12200210 c1220_Temple foundation Zako_Send from elbow strike Hand throw 0: Throw
+12200211 c1220_Temple foundation Zako_Send from elbow strike Hand throw 1: Throw
+12200500 c1220_Temple foundation Zako_Both palm bottoms from weak playing
+12200800 c1220_Temple foundation Zako_Projectile (explosion damage)
+12200809 c1220_Temple Foundation Zako_Erase the bullets that go up
+12200900 c1220_Temple foundation Zako_Playing
+12201100 c1220_Temple foundation Zako_Stick technique_Slamming continuous attack_1
+12201101 c1220_Temple foundation Zako_Stick technique_Slamming continuous attack_2
+12201110 c1220_Temple foundation Zako_Stick technique_Pattern
+12201111 c1220_Temple foundation Zako_Stick technique_Kick
+12201120 c1220_Temple foundation Zako_Stick technique_Rotating shake off
+12201130 c1220_Temple foundation Zako_Stick technique_High jump swing down
+12201140 c1220_Temple foundation Zako_Stick _2 Tsuki_1
+12201141 c1220_Temple foundation Zako_Bōjutsu_2 Consecutive thrust_2
+12201150 c1220_Temple foundation Zako_Stick technique_Payment back
+12201151 c1220_Temple foundation Zako_Bōjutsu_Push from payment
+12201160 c1220_Temple foundation Zako_Stick technique_Treading off
+12201500 c1220_Temple foundation Zako_Bōjutsu_Pattern from playing
+12201501 c1220_Temple foundation Zako_Bōjutsu_Pushing from patterning
+12201530 c1220_Temple foundation Zako_Bōjutsu_Spiral strike from right-handed
+12201900 c1220_Temple foundation Zako_Stick technique_Playing
+12201940 c1220_Temple foundation Zako_Bōjutsu_Discontinued dummy
+12201990 c1220_Temple Foundation Zako_Lucking Bullet
+12400100 c1240_Shamo chicken_Jump up and kick
+12400101 c1240_Shamo chicken_Beak slamming from a foot kick
+12400102 c1240_Shamo chicken_Beak slamming from foot kick 2
+12400110 c1240_Shamo chicken_Poke with beak 0
+12400111 c1240_Shamo chicken_Poke with beak 1
+12400120 c1240_Shamo chicken_Jump up and kick continuously 0
+12400121 c1240_Shamo chicken_Jump up and kick continuously 1
+12400122 c1240_Shamo chicken_Jump up and kick continuously 2
+12500000 c1250_Yaksha Monkey genus_Jump attack_Front
+12500010 c1250_Yaksha Monkey genus_Jump attack_Left
+12500020 c1250_Yaksha Monkey genus_Jump attack_Right
+12500030 c1250_Yaksha Monkey&#39;s genus_Jump and strong attack
+12500040 c1250_Yaksha Monkey genus_Scratch
+12500041 c1250_Yaksha Monkey genus_Scratch 2_1
+12500042 c1250_Yaksha Monkey genus_Scratch 2_2
+12500100 c1250_Yaksha Monkey genus_Sand hanging
+12500120 c1250_Yaksha Monkey Genus_Poisoning
+12500200 c1250_Yaksha Monkey genus_Jump attack_Front_Poison
+12500210 c1250_Yaksha Monkey genus_Jump attack_Left_Poison
+12500220 c1250_Yaksha Monkey genus_Jump attack_Right_Poison
+12500230 c1250_Yaksha Monkey&#39;s genus_Jump and strong attack_Poison
+12500240 c1250_Yaksha Monkey genus_Scratch_Poison
+12500241 c1250_Yaksha Monkey genus_Scratch 2_1_Poison
+12500242 c1250_Yaksha Monkey genus_Scratch 2_2_Poison
+12500300 c1250_Yaksha Monkey Family_Shooting
+12500350 c1250_Yaksha Monkey Genus_Sniper
+12500400 c1250_Yaksha Monkey genus_Gun strike_Both hands
+12500410 c1250_Yaksha Monkey genus_Gun strike_One hand
+12500420 c1250_Yasha Ape&#39;s genus_gun strike_explosion
+12500600 c1250_Yaksha Monkey Genus_Normal Slash
+12500610 c1250_Yaksha Monkey genus_Jump and slash
+12500620 c1250_Yaksha Monkey&#39;s genus_jumping slash
+12500630 c1250_Yaksha Monkey Genus_Passing Slash
+12500640 c1250_Yaksha Monkey Genus_Dash Slash
+12500650 c1250_Yaksha Monkey genus_Throw a sword
+12500660 c1250_Yaksha Monkey genus_Fall throw_Start
+12500670 c1250_Yaksha Monkey Family_Falling Throw
+12500800 c1250_Yaksha Monkey genus_Normal slashing_Poison
+12500810 c1250_Yaksha Monkey genus_Jumping slashing_Poison
+12500820 c1250_Yaksha Monkey genus_Flying slashing_Poison
+12500830 c1250_Yaksha Monkey genus_Passing slashing_Poison
+12500840 c1250_Yaksha Monkey genus_Dash slashing_Poison
+12500850 c1250_Yaksha Monkey genus_Throw a sword_Poison
+12500900 c1250_Yaksha Monkey&#39;s genus_playing
+12503000 c1250_Yaksha Monkey genus_3000_3007_Continuous blade sword_Horizontal 1 (left sword)
+12503001 c1250_Yaksha Monkey genus_3000_3007_Continuous blade sword_Horizontal 1 (right sword) Double hit
+12503010 c1250_Yaksha Monkey genus_3001_Continuous blade sword_Horizontal 2 (right sword)
+12503011 c1250_Yaksha Monkey genus_3001_Continuous blade sword_Horizontal 2 (left sword) Double hit
+12503020 c1250_Yaksha Monkey genus_ &lt;Unused&gt; 3002_Continuous blade sword_Vertical (left sword)
+12503021 c1250_Yaksha Monkey genus_3002_Continuous blade sword_Vertical (right sword) Jump slam
+12503022 c1250_Yaksha Monkey genus_3002 etc._Continuous blade _Vertical (slamming blast)
+12503030 c1250_ Yasha Ape&#39;s genus_3003_ Jumping double slash _1
+12503040 c1250_ Yasha Ape&#39;s genus_3004_ Jumping and double slashing_2 Lower danger
+12503050 c1250_Yasha Ape genus_3005_Rotating jumping sword (right sword)
+12503051 c1250_Yasha Ape&#39;s genus_3005_Rotating jumping sword (left sword) Double hit
+12503060 c1250_Yaksha Monkey genus_3006_Dash slashing_1
+12503100 c1250_Yaksha Monkey&#39;s genus_3050_Continuous blade sword from being hit_Horizontal 1 (left sword)
+12503101 c1250_Yasha Ape&#39;s genus_3050_Continuous blade sword from being hit_Horizontal 1 (right sword) Double hit
+12503110 c1250_Yaksha Monkey&#39;s genus_3051_Up and down slashing from being hit (slashing up)
+12503111 c1250_ Yasha Ape&#39;s genus_ &lt;Unused&gt; Up and down slashing from being flipped (swing down left)
+12503112 c1250_Yaksha Ape&#39;s genus_3051_Slash up and down from being hit (swing down right)
+12503150 c1250_Yaksha Monkey&#39;s genus_3070_Slashing from playing
+12503160 c1250_Yaksha Monkey&#39;s genus_3071_Danger of the lower counter from playing
+12503170 c1250_Yaksha Monkey genus_3060_Start of dance from playing (right sword) 5 shots
+12503171 c1250_Yaksha Monkey&#39;s genus_3060_Start of dance from playing (left sword) 5 shots
+12503180 c1250_ Yasha Ape&#39;s genus_3073_ Random dance from playing
+12503900 c1250_Yaksha Monkey&#39;s genus_playing
+12504000 c1250_Chigo Monkey_Jump Attack_Front
+12504010 c1250_Chigo Monkey_Jump Attack_Left
+12504020 c1250_Chigo Monkey_Jump Attack_Right
+12504030 c1250_Child monkey_Jump and strong attack
+12504040 c1250_chigo monkey_scratch
+12504041 c1250_chigo monkey_scratch 2_1
+12504042 c1250_chigo monkey_scratch 2_2
+12504070 c1250_Chigo Monkey_Normal Slash
+12504080 c1250_Chigo Monkey_Jump and Slash
+12504090 c1250_Chigo Monkey_ Jumping Slash
+12504100 c1260 Chigo monkey _ shout like howling
+12505000 c1250_Yaksha Monkey genus_Jump attack_Front
+12505010 c1250_Yaksha Monkey genus_Jump attack_Left
+12505020 c1250_Yaksha Monkey genus_Jump attack_Right
+12505030 c1250_Yaksha Monkey&#39;s genus_Jump and strong attack
+12505040 c1250_Yaksha Monkey genus_Scratch
+12505041 c1250_Yaksha Monkey genus_Scratch 2_1
+12505042 c1250_Yaksha Monkey genus_Scratch 2_2
+12505100 c1250_Yaksha Monkey genus_Sand hanging
+12505120 c1250_Yaksha Monkey Genus_Poisoning
+13000100 c1300_Japanese style Innsmouth_sucking animation
+13000101 c1300_Japanese style Innsmouth_rejuvenate
+13000102 c1300_Japanese Innsmouth_Dummy Bullet_For PC Appearance Change
+13000110 c1300_Japanese style Innsmouth_arm swing
+13000120 c1300_Japanese Innsmouth_Call Genpei Warrior
+13000130 c1300_Japanese style Innsmouth_Falling whistle piercing
+13000140 c1300_Japanese Innsmouth_Crawling Biting 1
+13000141 c1300_Japanese style Innsmouth_crawling bite 2
+13000800 c1300_Japanese-style Innsmouth_Looking Throw_Starting
+13000801 c1300_Japanese-style Innsmouth_
+13100100 c1310_Genpei Warrior_Sword_Mai Slash Up → Jump Nagisa 0
+13100101 c1310_Genpei Warrior_Sword_Mai Slash Up → Jump Nagisa 1
+13100110 c1310_Genpei Warrior_Sword_Mai Consecutive Attack_Left
+13100111 c1310_Genpei Warrior_Sword_Mai Consecutive Attack_Right
+13100112 c1310_Genpei Warrior_Sword_Mai Consecutive Attack_Stop
+13100113 c1310_Genpei Warrior_Sword_Mai Consecutive Attack_Rotating Slash in Front of Lightning
+13100114 c1310_Genpei Warrior_Sword_Mai Consecutive Attack_Thunder Finish_Sword Blade
+13100115 c1310_Genpei Warrior_Sword_Mai Strike_Thunder Finish_Thunder
+13100120 c1310_Genpei Warrior_Sword_Nagibuki from Hachimanju
+13100130 c1310_Genpei Warrior_Sword_Flying 3 Consecutive Attacks 1
+13100131 c1310_Genpei Warrior_Sword_Flying 3 Consecutive Attacks 2
+13100132 c1310_Genpei Warrior_Sword_Flying 3 Consecutive Attacks 3
+13100170 c1310_Genpei Warrior_Sword_Right Kasaya
+13100171 c1310_Genpei Warrior_Sword_Right-handed Kasaya back
+13100190 c1310_Genpei Warrior_Sword_Slash to the right
+13100191 c1310_Genpei Warrior_Sword_To the right Cut through to the left
+13100192 c1310_Genpei Warrior_Sword_Slash to the left and jump to the right
+13100200 c1310_Genpei Warrior_Sword_Rotating Thrust
+13100201 c1310_Genpei Warrior_Sword_Rotating Thrust_Thunder Finish_Sword Blade
+13100202 c1310_Genpei Warrior_Sword_Rotating Thunder_Thunder Finish_Thunder
+13100500 c1310_Genpei Warrior_Sword_Rotating sword from being hit in the air
+13100510 c1310_Genpei Warrior_Sword_Slamming from being hit in the air
+13100520 c1310_Genpei Warrior_Sword_Yumi Common
+13100540 c1310_Genpei Warrior_Sword_Slamming from being hit in the air_Lightning finish_Sword blade
+13100541 c1310_Genpei Warrior_Sword_Slamming from aerial hit_Thunder finish_Thunder
+13100900 c1310_Genpei Warrior_Sword_Playing
+13100940 c1310_Genpei Warrior_Sword_Discontinued Dummy
+13100990 c1310_Genpei Warrior_Sword_OBJ Destruction
+13101100 c1310_Genpei Warrior_Naginata_Flying Naginata
+13101101 c1310_Genpei Warrior_Naginata_Flying Yokonagi
+13101110 c1310_Genpei Warrior_Naginata_Naginata Three consecutive attacks 1
+13101111 c1310_Genpei Warrior_Naginata_Naginata 3 consecutive attacks 2
+13101112 c1310_Genpei Warrior_Naginata_Naginata 3 consecutive attacks 3
+13101120 c1310_Genpei Warrior_Naginata_Aerial Slamming
+13101121 c1310_Genpei Warrior_Naginata_Aerial Slamming_Lightning Finish_Naginata
+13101122 c1310_Genpei Warrior_Naginata_Aerial Slamming_Lightning Finish_Lightning
+13101130 c1310_Genpei Warrior_Naginata_Destruction Monk Jumping and Rotating Slash 1
+13101131 c1310_Genpei Warrior_Naginata_Destruction Monk Jumping and Rotating Slash 2 (Lower)
+13101132 c1310_Genpei Warrior_Naginata_Destruction Monk Jumping Rotation Slash_Thunder Finish_Naginata
+13101133 c1310_Genpei Warrior_Naginata_Destruction Monk Jumping Rotation Slash _Lightning Finish_Thunder
+13101140 c1310_Genpei Warrior_Naginata_Slanting to the right
+13101150 c1310_Genpei Warrior_Naginata_Rotating back from the right hand holding posture (lower)
+13101160 c1310_Genpei Warrior_Naginata_Burning Monk Top Rotating (1-3)
+13101161 c1310_Genpei Warrior_Naginata_Burning Monk Top Rotating (Last)
+13101170 c1310_Genpei Warrior_Naginata_Tsuki
+13101500 c1310_Genpei Warrior_Naginata_Push from being hit in the air
+13101501 c1310_Genpei Warrior_Naginata_Push_Thunder Finish_Naginata
+13101502 c1310_Genpei Warrior_Naginata_Push_Thunder Finish_Thunder
+13101900 c1310_Genpei Warrior_Naginata_Playing
+13101940 c1310_Genpei Warrior_Naginata_Discontinued Dummy
+13102500 c1310_Genpei Warrior_Bow_Bow Common
+13103100 c1310_Genpei Warrior_Kemari_Overhead Shoot
+13103140 c1310_Genpei Warrior_Kemari_Volley Shoot
+13103150 c1310_Genpei Warrior_Kemari_Front kick
+13103151 c1310_Genpei Warrior_Kemari_Landing shoot from front kick
+13103160 c1310_Genpei Warrior_Kemari_Heading ⇒ Heel Lifting ⇒ Left Foot Rotation Shoot
+13103170 c1310_Genpei Warrior_Kemari_Left foot kick up → Right foot kick up 1
+13103171 c1310_Genpei Warrior_Kemari_Left foot kick up → Right foot kick up 2
+13103180 c1310_Genpei Warrior_Kemari_Thunder Overhead Shoot_Kemari
+13103181 c1310_Genpei Warrior_Kemari_Lightning Overhead Shoot_Lightning
+13103190 c1310_Genpei Warrior_Kemari_Thunder Overhead Shoot_For Map Gimmick_Kemari
+13103191 c1310_Genpei Warrior_Kemari_Lightning Overhead Shoot_For Map Gimmick_Lightning
+13103290 c1310_Genpei Warrior_Kemari_Thunder Overhead Shoot_Kemari and Thunder in the water
+13200100 c1320_ Treasure carp straight rush
+13200901 c1320_Treasure carp_Collision detection sonar dummy
+13400000 c1340: No underwater neck_Lower left
+13400010 c1340: No underwater neck_Lower right shaving
+13400040 c1340: No underwater neck_slamming
+13400050 c1340: Underwater Neckless_Flying Press
+13400060 c1350: Neckless_All-around attack
+13400100 c1340: No underwater neck_sucking
+13400130 c1340: No underwater neck_Short-distance suction
+13400150 c1340: Underwater neckless _ front butt kappa grab
+13400151 c1340: Underwater neckless_Front butt child ball removal: Throw
+13400600 c1340: Underwater neckless_Slashing light wave
+13400650 c1340: Underwater neckless_machine gun
+13500100 c1350: No neck_slamming to the bottom left
+13500110 c1350: No neck_slamming to the bottom right
+13500120 c1350: Neckless _ slamming underneath
+13500130 c1350: Neckless_Two-handed continuous slamming 1
+13500131 c1350: Neckless_Two-handed continuous slamming 2
+13500132 c1350: Neckless_Two-handed continuous slamming 3
+13500133 c1350: Neckless_Two-handed continuous slamming 4
+13500150 c1350: Neckless_Ass child ball removal (throwing transition)
+13500151 c1350: Neckless_Ass child ball removal (success): Throw
+13500170 c1350: Neckless_Shaka Shaka
+13500180 c1350: Neckless_Flying Press
+13500200 c1350: Neckless_All-around attack
+13500210 c1350: Neckless_Right-handed Kasaya
+13500220 c1350: Neckless _ Left-handed
+13500230 c1350: Neckless_Right slamming with both hands
+13500240 c1350: Neckless_Slamming both hands from left-handed
+13600100 c1360: Rappa_Right cut through
+13600110 c1360: Rappa_ left slash
+13600120 c1360: Rappa_ Jumping piercing
+13600121 c1360: Rappa_Push
+13600130 c1360: Rappa_poisonous mucus
+13600140 c1360: Rappa_Kick_First stage
+13600141 c1360: Rappa_Kick_Jumping Blind
+13600150 c1360: Rappa_Kick Combo_First Stage
+13600151 c1360: Rappa_Kick Combo_Second Stage
+13600160 c1360: Rappa_ reed skipping
+13600161 c1360: Rappa_Reeds_No poison
+13600170 c1360: Rappa_ blindfold
+13600171 c1360: Rappa_blind_for judgment
+13600180 c1360: Rappa_Throw from behind_Start
+13600181 c1360: Rappa_throw from behind
+13600190 c1360: Rappa_Continuous Slash_First Stage
+13600191 c1360: Rappa_Continuous Slash_Second Stage
+13600200 c1360: Rappa_ Slash up
+13600210 c1360: Rappa_ Right-handed slashing
+13600220 c1360: Rappa_ Left-handed sideways
+13600230 c1360: Rappa_Sidearm Slash
+13600800 c1360: Rappa_Kasa_Dummy Attack_Kasa Destruction
+13600900 c1360: Rappa_playing
+13600901 c1360: Rappa_Kasa_Play
+13700100 c1370: Fire cow_run → rush
+13700105 c1370: Fire cow_Rodeo turn_Right swing
+13700106 c1370: Fire cow_Rodeo turn_Left swing
+13700110 c1370: Fire cow_swinging_1
+13700111 c1370: Fire cow_swing_2
+13700112 c1370: Fire cow_swing_launch
+13700113 c1370: Fire cow _ start swinging _1
+13700114 c1370: Fire cow _ start swinging _ 2
+13700115 c1370: Fire cow _ start swinging _ 3
+13700116 c1370: Fire Cow_Dorikan Attack
+13700120 c1370: Fire cow_flame anger → anger rush 1
+13700121 c1370: Fire cow_anger rush end 2
+13700200 c1370: Fire cow_run → rush
+13700205 c1370: Fire cow_Rodeo turn_Right swing
+13700206 c1370: Fire cow_Rodeo turn_Left swing
+13700210 c1370: Fire cow_swinging_1
+13700211 c1370: Fire cow_swing_2
+13700212 c1370: Fire cow_swing_launch
+13700213 c1370: Fire cow _ start swinging _1
+13700214 c1370: Fire cow _ start swinging _ 2
+13700215 c1370: Fire cow _ start swinging _ 3
+13700216 c1370: Fire Cow_Dorikan Attack
+13700220 c1370: Fire cow_flame anger → anger rush 1
+13700221 c1370: Fire cow_anger rush end 2
+13700510 c1370: Fire Bull _ always on fire _ weak
+13700511 c1370: Fire Bull_often flame on_medium
+13700520 c1370: Fire cow _ per body _ for tackle
+13700800 c1370: Fire cow_for destroying objects_fire cow
+13700810 c1370: Fire cow_for destroying objects_ Innsmouth fire cow
+13700920 c1370: Fire Bull _ 弾丸1 for advancing conflict judgment
+13700921 c1370: Fire Bull _ Rush Maru 2 for judging conflict
+13700922 c1370: Fire Cow_Rush Rage Regular Bullet 1
+13700923 c1370: Fire Cow_Rush Rage Regular Bullet 2
+14000103 c1400: Swordsman _ sticking out the handle
+14000104 c1400: Swordsman_Midline slashing down
+14000105 c1400: Swordsman_face repeated hits / finish
+14000108 c1400: Swordsman_Backstep Slash
+14000109 c1400: Swordsman_Push
+14000110 c1400: Swordsman_Sword Slasher 1
+14000111 c1400: Swordsman_Sword Slasher 2
+14000112 c1400: Swordsman_Devaluation
+14000113 c1400: Swordsman_right body
+14000114 c1400: Swordsman_Counterfeit
+14000115 c1400: Swordsman_Slashing sword
+14000116 c1400: Swordsman_face repeated hit / start
+14000117 c1400: Swordsman_face repeated hits, left side
+14000118 c1400: Swordsman _ Face-to-Face・Right
+14000119 c1400: Swordsman_face repeated hits, left side 2
+14000130 c1400: Swordsman _Right weakly slashed _Sword 2
+14000131 c1400: Swordsman _ Right from a weak hit _ Crossing
+14000132 c1400: Swordsman _ Right from a weak hit _ Left side
+14000133 c1400: Swordsman _ Left side from being hit _ Right side
+14000134 c1400: Swordsman _ Left weakly hit _ 袈裟 slash 1
+14000135 c1400: Swordsman _ Right from being hit _ Midline slashing down
+14000136 c1400: Swordsman _ Left strong hit _ 袈裟 slash combo 1
+14000137 c1400: Swordsman _ from right weak play _ slash up
+14000138 c1400: Swordsman _ from right-handed _ thrust
+14000139 c1400: Swordsman _ From left-handed _ Pull reverse body
+14000140 c1400: Swordsman _ From left weak playing _ Sticking out the handle
+14000141 c1400: Swordsman _ Right-handed _ Lower _ Sword delivery
+14000900 c1400: Swordsman_playing
+14000940 c1400: Swordsman_parted dummy
+14000941 c1400: Swordsman _ Parted out dummy _ From the origin
+14001900 c1400: Swordsman_playing
+14002110 c1400: Swordsman_Sword
+14002111 c1400: Swordsman_Good looking sword
+14002120 c1400: Swordsman _ Swallow _ Up
+14002121 c1400: Swordsman _ Swallow _ Down
+14002125 c1400: Swordsman_Striking from the step
+14002150 c1400: Swordsman_Shuriken-playing_Slash
+14002900 c1400: Swordsman_playing
+14500000 c1450_Nightjars_Rotating slash (right handheld) _First stage_Left
+14500001 c1450_Nightjars_Rotating slash (right handheld) _First stage_To right
+14500002 c1450_Nightjars_Rotating slash (left handheld) _First stage_Left
+14500003 c1450_Nightjars_Rotating slash (left handheld) _First stage_To right
+14500010 c1450_Nightjars_Rotating slash (right handheld) _Middle_Left
+14500011 c1450_Nightjars_Rotating slash (right handheld) _Middle_Right
+14500012 c1450_Nightjars_Rotating slash (left handheld) _Middle_Left
+14500013 c1450_Nightjars_Rotating slash (left handheld) _Middle_Right
+14500020 c1450_Nightjars_Rotating slash (right handheld) _Tightening_Left
+14500021 c1450_Nightjars_Rotating slash (right handheld) _Tightening_Right
+14500022 c1450_Nightjars_Rotating slash (left handheld) _Tightening_Left
+14500023 c1450_Nightjars_Rotating slash (left handheld) _Tightening_Right
+14500040 c1450_Nightjars_2 Continuous rotation slashing_Single-shot part
+14500060 c1450_Nightjars_Acceleration slamming from positioning jump
+14500070 c1450_Nightjars_Direction change from positioning jump Slamming_Left
+14500080 c1450_Yatakashu_Change direction from positioning jump _Right
+14500090 c1450_Nightjars_Rotating slashing down_First stage
+14500091 c1450_Nightjars_Rotating slashing _Intermediate
+14500092 c1450_Nightjars_Rotating slashing down_Tightening
+14500100 c1450_Nighthawks_Blast_Center
+14500101 c1450_Nightjars_Self-destruction_Body hit
+14500102 c1450_Nighthawks_Blast_Zhou Ren
+14500200 c1450_Nightjars_Slamming
+14500210 c1450_Nightjars_Slash up and jump down
+14500250 c1450_Nighthawks_Left Hand Throw_Proximity Use
+14500890 c1450_Nightjars_Fall attack from a kite
+14500900 c1450_Nightjars_Playing
+14501000 c1450_Nighthawks_Lian Qi throw 1_1
+14501001 c1450_Nighthawks_Lianqi throw 1_2
+14501010 c1450_Nighthawks_Lian Qi throwing 2_1
+14501011 c1450_Nighthawks_Lian Qi throwing 2_2
+14501020 c1450_Nighthawks_Lian Qi throw 3_1
+14501021 c1450_Nighthawks_Lian Qi throwing 3_3
+14501030 c1450_Nighthawks_Throw 1 at the same time
+14501031 c1450_Nighthawks_Throw 2 at the same time
+14501040 c1450_Nightjars_Jumping and throwing 1
+14501041 c1450_Nightjars_Jumping and throwing 2
+14501050 c1450_Nightjars_Step Slash
+14501051 c1450_Nightjars_Step slash throwing_Left
+14501061 c1450_Nightjars_Step slash throwing_Right
+14501090 c1450_Nightjars_Cross slashing
+14501100 c1450_Nighthawks_Left Simultaneous Throw 1
+14501101 c1450_Nighthawks_Left Simultaneous Throw 2
+14501120 c1450_Nightjars_Side step throwing_Left_1
+14501121 c1450_Nightjars_Side step throwing_Left_2
+14501130 c1450_Nightjars_Side step throwing_Right_1
+14501131 c1450_Nightjars_Side step throwing_Right_2
+14501140 c1450_Nighthawks_Throw from behind
+14501300 c1450_Nighthawks_Lianqi throw 1_1 (close range)
+14501301 c1450_Nighthawks_Lianqi throw 1_2 (close range)
+14501310 c1450_Nighthawks_Lianqi throw 2_1 (close range)
+14501311 c1450_Nighthawks_Lianqi throw 2_2 (close range)
+14501320 c1450_Nighthawks_Lianqi throw 3_1 (close range)
+14501321 c1450_Nighthawks_Lianqi throw 3_3 (close range)
+14501330 c1450_Nighthawks_Throw 1 at the same time (close range)
+14501331 c1450_Nighthawks_Throw 2 at the same time (close range)
+14501340 c1450_Nighthawks_Throw 1 left at the same time (close range)
+14501341 c1450_Nighthawks_Left Simultaneous Throw 2 (close range)
+14501750 c1450_Nightjars_Retreat throwing from left weak play
+14501900 c1450_Nightjars_Playing
+14501910 c1450_Nightjars_Weapon landing explosion
+14700100 c1470_Solitary people_Double slashing_First stage
+14700101 c1470_Solitary people_Double slashing_Second stage
+14700110 c1470_Kageshu_Upper kick from double slash
+14700120 c1470_Kageshu_Lower kick from double slash
+14700130 c1470_Solitary people_Slash through
+14700140 c1470_Lonely people_Roundhouse kick
+14700150 c1470_Solitary people_Slashing down
+14700160 c1470_Lonely people_Lower foot payment
+14700170 c1470_Solitary people_Slash → Kick_Slash
+14700171 c1470_Solitary people_Slash → Kick_Kick
+14700180 c1470_Lonely people_Push kick
+14700190 c1470_Solitary people_Jumping heel drop
+14700200 c1470_Solitary people_Kicking rush_01_Upper right
+14700203 c1470_Solitary people_Kicking rush_04_Right middle row
+14700204 c1470_Solitary people_Kicking rush_05_Swing down to the right
+14700205 c1470_Lonely people_Kicking rush_06_Left swing down
+14700206 c1470_Solitary people_Kicking rush_07_Swing down to the right
+14700207 c1470_Lonely people_Kicking rush_08_Right finish
+14700210 c1470_Solitary People_Somersault Kick
+14700220 c1470_Lonely people_Kicking rush_B-3
+14700221 c1470_Solitary people_Kicking rush_B-4
+14700222 c1470_Solitary people_Kicking rush_B-5 (Push)
+14700240 c1470_Lonely people_Jump kick
+14700250 c1470_Guyingzhong_Poisonous Hand_Horizontal Hand Knife 1
+14700251 c1470_Guyingzhong_Poisonous Hand_Horizontal Hand Knife 2
+14700260 c1470_Kageshu_8 character slashing_first stage
+14700261 c1470_Kageshu_8 character slashing_second stage
+14700270 c1470_Solitary people_2 consecutive kicks 1
+14700271 c1470_Solitary people_2 consecutive kicks 2
+14700280 c1470_Solitary people_Sword slashing → Poisonous hand (slashing)
+14700281 c1470_孤影众_袈裟切り→Poisonous Hand (Poisonous Hand)
+14700290 c1470_Lonely people_Kunai throwing
+14700300 c1470_Solitary people_Slashing up from being hit right
+14700301 c1470_Solitary people_Left horizontal slash from right hit
+14700302 c1470_Solitary people_Slashing up the reverse from being hit left
+14700303 c1470_Solitary people_Slashing from the left
+14700304 c1470_Lonely people_Left kick from a roundhouse kick
+14700305 c1470_Kageshu_Right kick from the upper kick
+14700306 c1470_Solitary people_Left-handed roundhouse kick from being hit
+14700307 c1470_Solitary people_Right high-speed figure 8 slash from a strong hit_First stage
+14700308 c1470_Solitary people_Right high-speed figure 8 slash from being hit_Second stage
+14700309 c1470_Solitary people_Left slashing in reverse 8 from being hit _First stage
+14700310 c1470_Solitary people_Left slashing in reverse 8 from being hit _Second stage
+14700900 c1470_Solitary people_Playing
+14700940 c1470_Lonely people_Dummy
+14700941 c1470_Solitary people_Discontinued dummy_From the origin
+15000000 c1500_villager zombie_bare hand_a3000_push
+15000010 c1500_Village Zombie_Bare Hands_a3002_Fertilizer Bukkake: For Bullets
+15000020 c1500_Village Zombie_Bare Hands_a3010_Striking with a Stone 0
+15000021 c1500_Village Zombie_Bare Hands_a3011_Striking with a Stone 1
+15000030 c1500_villager zombies_bare hands_a3012_throw stones: for bullets
+15000031 c1500_Village Zombie_Bare Hands_a3004_Throw Mad Dumplings: For Bullets_Parents
+15000032 c1500_Village Zombie_Bare Hand_a3004_Throw Mad Dumpling: For Bullet_Child
+15000040 c1500_Village Zombie_Bare Hands_a3013_Advance Hit
+15000050 c1500_Village Zombie_Bare Hand_a3015_Grab Restraint Start from Underground
+15000051 c1500_Village Zombie_Bare Hands_a3015_ Grab Rest from the Ground: Throw
+15000100 c1500_Village Zombie_Rake_a3020_Vertical Scratch
+15000110 c1500_Village Zombie_Rake_a3021_Three consecutive scratches
+15000120 c1500_Village Zombie_Rake_a3014_Advance Hit
+15000200 c1500_Village Zombie_Knife_a3000_Stab
+15000201 c1500_Village Zombie_Knife_a3001_Dash stab
+15000210 c1500_Village Zombie_Knife_a3002_8 Ream Metta Slash
+15000220 c1500_Village Zombie_Knife_a3003_Staggering piercing
+15000230 c1500_Village Zombie_Knife_a3010_Grab and stab (throw)
+15000231 c1500_Village Zombie_Knife_a3011_Grab and pierce (main body): Throw
+15000250 c1500_Village Zombie_Prisoner_a3005_Continuous Scratch 1
+15000251 c1500_Village Zombie_Prisoner_a3005_Continuous Scratch 2
+15000260 c1500_Village Zombie_Prisoner_a3006_Scratch
+15000270 c1500_Village Zombie_Prisoner_a3011_Lacrimal Gland Throw_Start
+15000271 c1500_Village Zombie_Prisoner_a3011_Lacrimal Gland Throw_Success: Throw
+15000300 c1500_Village Zombie_Hoe_a3000_Grated 0
+15000301 c1500_Village Zombie_Hoe_a3001_Grated 1
+15000302 c1500_Village Zombie_Hoe_a3002 &amp; 3003_Time difference
+15000400 c1500_Village Zombie_Bamboo Spear_a3010_Push (Normal)
+15000401 c1500_Village Zombie_Bamboo Spear_a3011_Push (above waist)
+15000402 c1500_Village Zombie_Bamboo Spear_a3012_Push (below waist)
+15000500 c1500_Village Zombie_Weaving Machine_a3000_Swinging Sideways
+15000510 c1500_Village Zombie_Weaving Machine_a3001_Reverse Swing
+15000800 c1500_Village Zombie_Hallucination Change_Butterfly Guided Bullet A
+15000810 c1500_Village Zombie_Hallucination Change_Butterfly Guided Bullet B
+15000820 c1500_Village Zombie_Hallucination Change_Butterfly Guided Bullet C
+15000850 c1500_Village Zombie_Sand for Restraint
+15000900 c1500_villager zombie_hoe_playing
+15000901 c1500_Village Zombie_Bamboo Spear_Play
+15000902 c1500_Village Zombie_Weaving Machine_Playing
+15000940 c1500_Village Zombie_Discontinued Dummy
+15500010 c1550_Bandit_Sword_Dash Slash
+15500011 c1550_Bandit_Sword_Looking back from the dash slash
+15500020 c1550_Bandit_Sword_Left Nagisa
+15500021 c1550_Bandit_Sword_Sword sword from left-handed sword
+15500030 c1550_Bandit_Sword_Slashing 2 consecutive attacks 1
+15500031 c1550_Bandit_Sword_Slashing 2 consecutive attacks 2
+15500040 c1550_Bandit_Sword_Running through
+15500050 c1550_Bandit_Sword_Dos thrust
+15500060 c1550_Bandit_Sword_Satsuma Jigen-ryu Karatake split
+15500070 c1550_Bandit_Sword_Down chasing trampling
+15500080 c1550_Bandit_Sword_Back fist
+15500090 c1550_Bandit_Sword_Swing down from menacing
+15500100 c1550_Bandit_Sword_Running and slashing from slashing
+15500120 c1550_Bandit_Sword_Right-handed sword-cutting → Slashing
+15500121 c1550_Bandit_Sword_Right-handed sword-cutting → Slashing 2
+15500130 c1550_Bandit_Sword_Left-handed sword slashing → Nagibuki
+15500131 c1550_Bandit_Sword_Left-handed sword slashing → Nagibashi 2
+15500140 c1550_Bandit_Ax_Ax swing down
+15500141 c1550_Bandit_Ax_Ax swinging back
+15500150 c1550_wild thief_axe_axe 横薙ぎ
+15500151 c1550_Bandit_Ax_Ax Slamming from sideways
+15500160 c1550_Bandit_Ax_Advance payment
+15500170 c1550_Bandit_Ax_Pattern
+15500171 c1550_Bandit_Ax_With handle
+15500180 c1550_Bandit_Ax_Grated both hands
+15500190 c1550_Bandit_Ax_Ax One-handed push
+15500200 c1550_Bandit_Ax_Down chasing trampling
+15500210 c1550_Bandit_Ax_Back Fist
+15500220 c1550_Bandit_Ax_Swing down from menacing
+15500230 c1550_Bandit_Ax_Slash up
+15500240 c1550_Bandit__Ax_Ax Delay Swing down
+15500260 c1550_Bandit_Torches_Right sword
+15500261 c1550_Bandit_Matsuaki_Sword Matsuaki Yokonagi_Sword
+15500262 c1550_Bandit_Matsuaki_Sword Matsuaki Yokonagi_Matsuaki
+15500263 c1550_Bandit_Matsuaki_Sword Matsuaki Grated _Sword
+15500264 c1550_Bandit_Matsuaki_Sword Matsuaki Grated _Matsuaki
+15500270 c1550_Bandit_Torches_Torches Press + Sword Thrust_Torches_Matsuaki
+15500271 c1550_Bandit_Torches_Torches Press + Sword thruster_Sword
+15500280 c1550_Bandit_Torches_Torches double swing_First stage
+15500281 c1550_Bandit_Torches_Torches double swing_Second stage
+15500290 c1550_Bandit_Torches_Lucking allies
+15500300 c1550_Bandit_Matsuaki_Right torch thrust from a weak player
+15500310 c1550_Bandit_Torches_Sword sword
+15500311 c1550_Bandit_Torches_Slashing from the sword
+15500312 c1550_Bandit_Torches_Torches from Nagisa
+15500320 c1550_Bandit_Torches_Sword thrust
+15500330 c1550_Bandit_Torches_Dash Torch
+15500360 c1550_Bandit_Shield_Slashing while guarding
+15500370 c1550_Bandit_Shield_Shield Push Slash
+15500371 c1550_Bandit_Shield_Shield Push Slash 2
+15500380 c1550_Bandit_Shield_Shield Charge 1
+15500381 c1550_Bandit_Shield_Shield Charge 2
+15500382 c1550_Bandit_Shield_Shield Charge 3
+15500383 c1550_Bandit_Shield_Shield Charge 4
+15500384 c1550_Bandit_Shield_Shield Charge 5
+15500385 c1550_Bandit_Shield_Shield Charge Finish
+15500410 c1550_Bandit_Shield_Shield push from weak play
+15500430 c1550_Bandit_Shield_OBJ Destruction damage
+15500600 c1550_Wild Pirate_Bow_Fire Arrow
+15500610 c1550_Wild Thief_Bow_Poison Arrow
+15500620 c1550_wild thief_bow_usual arrow
+15500700 c1550_wild thief_knife_oil pot cast げ
+15500800 c1550_Bandit_Sword_Sanding
+15500900 c1550_Bandit_Sword_Play
+15500901 c1550_Bandit_Shield_Play
+15500940 c1550_Bandit_Discontinued dummy
+15500941 c1550_Bandit_Discontinued Dummy_From Origin
+15500990 c1550_Bandit_Object Destruction Attack
+17000000 c1700_Tokugawa Samurai_Sword_Large upper slamming_Left
+17000001 c1700_Tokugawa Samurai_Sword_Large upper slamming_Right
+17000010 c1700_Tokugawa Samurai_Sword_Hunting from left and right_Left
+17000011 c1700_Tokugawa Samurai_Sword_Hunting from left and right_Right
+17000020 c1700_Tokugawa Samurai_Sword_Shoulder Tackle
+17000030 c1700_Tokugawa Samurai_Sword_Push Combo 1
+17000031 c1700_Tokugawa Samurai_Sword_Push Combo 2-1
+17000032 c1700_Tokugawa Samurai_Sword_Push Combo 2-2
+17000033 c1700_Tokugawa Samurai_Sword_Push Combo 3_Left
+17000034 c1700_Tokugawa Samurai_Sword_Push Combo 3_Right
+17000035 c1700_Tokugawa Samurai_Sword_Changing off → Thrust_Left
+17000036 c1700_Tokugawa Samurai_Sword_Changing off → Thrust_Right
+17000040 c1700_Tokugawa Samurai_Sword_Combo Attack 1
+17000041 c1700_Tokugawa Samurai_Sword_Combo Attack 2
+17000042 c1700_Tokugawa Samurai_Sword_Combo Attack 3_Left
+17000043 c1700_Tokugawa Samurai_Sword_Combo Attack 3_Right
+17000050 c1700_Tokugawa Samurai_Sword_Two-stage horizontal connection 1_Left
+17000051 c1700_Tokugawa Samurai_Sword_Two-stage horizontal connection 1_Right
+17000052 c1700_Tokugawa Samurai_Sword_Two-tiered horizontal 2_Left
+17000053 c1700_Tokugawa Samurai_Sword_Two-tiered horizontal 2_Right
+17000100 c1700_Tokugawa Samurai_Sword_Right flipped → Rush combo 1
+17000110 c1700_Tokugawa Samurai_Sword_Right flipped → Slashed up (left)
+17000120 c1700_Tokugawa Samurai_Sword_Left flipped → Rush combo 2-1
+17000121 c1700_Tokugawa Samurai_Sword_Left flipped → Rush combo 2-2
+17000130 c1700_Tokugawa Samurai_Sword_Left-played → Time difference 1
+17000131 c1700_Tokugawa Samurai_Sword_Left flipped → Time difference 2
+17000140 c1700_Tokugawa Samurai_Sword_Right-handed → Left-handed sword
+17000150 c1700_Tokugawa Samurai_Sword_Left-handed → Right-handed sword
+17000160 c1700_Tokugawa Samurai_Sword_Left flipped → Two-stage horizontal 2_Left
+17000161 c1700_Tokugawa Samurai_Sword_Left flipped → Two-stage horizontal 2_Right
+17000250 c1700_Tokugawa Samurai_Sword_Left flipped → Large upper slamming_Left
+17000251 c1700_ Tokugawa Samurai _ Sword _ Left flipped → Large upper slamming _ Right
+17000260 c1700_Tokugawa Samurai_Sword_Both left flipped → Head hunting from left and right_Left
+17000261 c1700_Tokugawa Samurai_Sword_Both left flipped → Head hunting from left and right_Right
+17000299 c1700_Tokugawa Samurai_Sword_Sword tip for sparks
+17000300 c1700_Samurai Tokugawa_Kodachi_Normal continuous attack_Round up to the left
+17000301 c1700_Samurai Tokugawa_Kodachi_Normal continuous attack_Left Kasaya
+17000302 c1700_Samurai Tokugawa_Kodachi_Normal continuous attack_Right cut
+17000303 c1700_Samurai Tokugawa_Kodachi_Normal continuous attack_Left rotation cut
+17000304 c1700_Samurai Tokugawa_Kodachi_Normal continuous attack_Scissors cutting_Left
+17000305 c1700_Samurai Tokugawa_Kodachi_Normal continuous attack_Scissors cutting_Right
+17000306 c1700_Samurai Tokugawa_Kodachi_Normal continuous attack_Opening_Left
+17000307 c1700_Samurai Tokugawa_Kodachi_Normal continuous attack_Opening_Right
+17000310 c1700_Samurai Tokugawa_Kodachi_Combo Attack 1
+17000311 c1700_Samurai Tokugawa_Kodachi_Combo Attack 2-1
+17000312 c1700_Samurai Tokugawa_Kodachi_Combo Attack 2-2
+17000313 c1700_Samurai Tokugawa_Kodachi_Combo Attack 3-1
+17000314 c1700_Samurai Tokugawa_Kodachi_Combo Attack 3-2
+17000315 c1700_Samurai Tokugawa_Kodachi_Reversal combo attack 3-1
+17000316 c1700_Samurai Tokugawa_Kodachi_Reversal combo attack 3-2
+17000317 c1700_Tokugawa Samurai_Kodachi_Push Combo 3_Left
+17000318 c1700_Tokugawa Samurai_Kodachi_Push Combo 3_Right
+17000320 c1700_Samurai Tokugawa_Kodachi_Dive attack_Left
+17000321 c1700_Samurai Tokugawa_Kodachi_Dive attack_Right
+17000330 c1700_Samurai Tokugawa_Kodachi_Anti-aircraft cut_Left
+17000331 c1700_Samurai Tokugawa_Kodachi_Anti-aircraft cut_Right
+17000340 c1700_Samurai Tokugawa_Kodachi_Ground proximity attack 1_Left
+17000341 c1700_Samurai Tokugawa_Kodachi_Ground proximity attack 1_Right
+17000342 c1700_Samurai Tokugawa_Kodachi_Ground proximity attack 2_Left
+17000343 c1700_Samurai Tokugawa_Kodachi_Ground proximity attack 2_Right
+17000350 c1700_Samurai Tokugawa_Kodachi_Raising Sword 1
+17000351 c1700_Samurai Tokugawa_Kodachi_Raising Sword 2
+17000400 c1700_Samurai Tokugawa_Kodachi_Right-playing → Combo 1
+17000401 c1700_Samurai Tokugawa_Kodachi_Left-playing → Combo 2-1
+17000402 c1700_Samurai Tokugawa_Kodachi_Left-playing → Combo 2-2
+17000403 c1700_Samurai Tokugawa_Kodachi_Left-playing → Combo 3-1
+17000404 c1700_Samurai Tokugawa_Kodachi_Left-playing → Combo 3-2
+17000410 c1700_Samurai Tokugawa_Kodachi_Right-handed → Rounded up
+17000420 c1700_Samurai Tokugawa_Kodachi_Left-playing → Time difference 1
+17000421 c1700_Samurai Tokugawa_Kodachi_Left-playing → Time difference 2
+17000430 c1700_Samurai Tokugawa_Kodachi_Left-playing → Lifting up 1
+17000431 c1700_Samurai Tokugawa_Kodachi_Left-playing → Lifting up 2
+17000440 c1700_Samurai Tokugawa_Kodachi_Right-handed → Left-handed slash
+17000450 c1700_Samurai Tokugawa_Kodachi_Left-handed → Right-handed slash
+17000460 c1700_Samurai Tokugawa_Kodachi_Left-playing → Ground proximity cutting 1_Left
+17000461 c1700_Samurai Tokugawa_Kodachi_Left-handed → Ground proximity cut 1_Right
+17000462 c1700_Samurai Tokugawa_Kodachi_Left-playing → Ground proximity cut 2_Left
+17000463 c1700_Samurai Tokugawa_Kodachi_Left-playing → Ground-based proximity 2_Right
+17000470 c1700_Samurai Tokugawa_Kodachi_Left-handed → Left-handed
+17000480 c1700_Samurai Tokugawa_Kodachi_Right-handed → Right-handed
+17000600 c1700_Samurai Tokugawa_Flame _Radiator Bumping 2 consecutive hits 1
+17000601 c1700_Samurai Tokugawa_Flame _Radiator Bumping 2 consecutive hits 2
+17000610 c1700_Tokugawa Samurai_Flame _Radiator hit
+17000620 c1700_Tokugawa Samurai_Flame _Reload Cancel Bumping
+17000650 c1700_Tokugawa Samurai_Flame _Fire flame
+17000800 c1700_Tokugawa Samurai_Incendiary Gun_Shooting
+17000801 c1700_ Tokugawa Samurai _ Incendiary Gun _ Landing Explosion
+17000850 c1700_Samurai Tokugawa_Incendiary gun_Switch to a sword and attack_Left
+17000851 c1700_Samurai Tokugawa_Incendiary gun_Switch to a sword and attack_Right
+17000900 c1700_Tokugawa Samurai_Sword_Playing
+17000940 c1700_Samurai Tokugawa_Discontinued dummy_Uchigatana_Left
+17000941 c1700_Samurai Tokugawa_Discontinued dummy_Uchigatana_Right
+17000942 c1700_Samurai Tokugawa_Discontinued dummy_Kodachi_Left
+17000943 c1700_Samurai Tokugawa_Discontinued dummy_Kodachi_Right
+20210010 c2021_dog_deadly carotid artery torn
+20210030 c2021_dog_right step attack
+20210040 c2021_dog_left step attack
+20210050 c2021_dog_right curve attack
+20210060 c2021_dog_left curve attack
+20210070 c2021_Dog_2 Attack (1st stage)
+20210080 c2021_Dog_2 consecutive attack (2nd stage)
+20210090 c2021_dog_stuck tackle
+20210110 c2021_dog_barking and menacing_2 times
+50000000 c5000_Burning Monk_Naginata_Normal Position_Jump Slash
+50000010 c5000_Burning Monk_Naginata_Normal Position_Rapid Approach Slash Up
+50000015 c5000_Burning Monk_Naginata_Normal Position_Rapid Approach Slash (Mushi)
+50000020 c5000_Burning Monk_Naginata_Normal stance_Sudden approach Slamming from slashing
+50000025 c5000_Burning Monk_Naginata_Normal stance_Sudden approach Slamming from slashing (worm)
+50000030 c5000_Burning Monk_Naginata_Normal Position_Yokonagi Combo 1-1
+50000035 c5000_Burning Monk_Naginata_Normal Position_Yokonagi Combo 1-1 (Mushi)
+50000040 c5000_Burning Monk_Naginata_Normal Position_Yokonagi Combo 1-2
+50000045 c5000_Burning Monk_Naginata_Normal Position_Yokonagi Combo 1-2 (Mushi)
+50000050 c5000_Burning Monk_Naginata_Normal Position_Yokonagi Combo 1-3A
+50000055 c5000_Burning Monk_Naginata_Normal Position_Yokonagi Combo 1-3A (Mushi)
+50000060 c5000_Burning Monk_Naginata_Normal Position_Yokonagi Combo 1-3B
+50000065 c5000_Burning Monk_Naginata_Normal Position_Yokonagi Combo 1-3B (Mushi)
+50000070 c5000_Burning Monk_Naginata_Normal Position_Yokonagi Combo 2-2
+50000075 c5000_Burning Monk_Naginata_Normal Position_Yokonagi Combo 2-2 (Mushi)
+50000080 c5000_Burning Monk_Naginata_Normal Position_Yokonagi Combo 2-3
+50000085 c5000_Burning Monk_Naginata_Normal Position_Yokonagi Combo 2-3 (Mushi)
+50000090 c5000_Burning Monk_Naginata_Normal stance_Slamming
+50000095 c5000_Burning Monk_Naginata_Normal Position_Slamming (Mushi)
+50000100 c5000_Burning Monk_Naginata_Normal Position_Lower Attack
+50000110 c5000_Burning Monk_Naginata_Normal Position_Slashing from Lower Attack
+50000120 c5000_Burning Monk_Naginata_Normal Position_Close-range Slash
+50000121 c5000_Burning Monk_Naginata_Normal Position_Close-range Slash-up_Mushi
+50000130 c5000_Burning Monk_Naginata_Normal Position_Close-range Slash
+50000140 c5000_Burning Monk_Naginata_Normal stance_Lower-stage Naginata from close range slashing
+50000150 c5000_Burning Monk_Naginata_Normal Position_High Speed Thrust
+50000160 c5000_Burning Monk_Naginata_Normal Position_Looking Back Naginata
+50000165 c5000_Burning Monk_Naginata_Normal Position_Looking Back Naginata (Mushi)
+50000170 c5000_Burning Monk_Naginata_Normal Position_Anti-Aircraft Attack
+50000180 c5000_Burning Monk_Naginata_Normal stance_Upper thrust
+50000190 c5000_Burning Monk_Naginata_Normal Position_Vertical Naginata
+50000200 c5000_Burning Monk_Naginata_Normal Position_Vertical Jump Slash Down
+50000220 c5000_Burning Monk_Naginata_Normal Position_Medium Range Slash
+50000225 c5000_Burning Monk_Naginata_Normal Position_Medium Range Slash (Mushi)
+50000230 c5000_Burning Monk_Naginata_Normal Position_Rotating Jump Slash
+50000235 c5000_Burning Monk_Naginata_Normal Position_Rotating Jump Slash (Mushi)
+50000240 c5000_Burning Monk_Naginata_Normal stance_Vertical jump Slash down (from standby)
+50000250 c5000_Burning Monk_Naginata_Normal Position_Jump Rotation Horizontal Slash
+50000260 c5000_Burning Monk_Naginata_Normal stance_Anti-aircraft rotation jump slash
+50000270 c5000_Burning Monk_Naginata_Normal Position_Anti-Aircraft Shoryu Slash Up
+50000280 c5000_Burning Monk_Naginata_Normal Position_Reverse Jump Naginata
+50000290 c5000_Burning Monk_Naginata_Normal Position_Retreat Jump Slash from Naginata
+50000300 c5000_Burning Monk_Naginata_Normal Position_Pinpoint Spell
+50000310 c5000_Burning Monk_Naginata_Normal Position_Wide Range Spell
+50000350 c5000_Burning Monk_Naginata_Normal Position_Continuous Rotation Slash_Start
+50000351 c5000_Burning Monk_Naginata_Normal Position_Continuous Rotation Slash_Loop
+50000352 c5000_Burning Monk_Naginata_Normal Position_Continuous Rotation Slash_End
+50000380 c5000_Burning Monk_Naginata_Normal Position_Strengthening Rotation Jump Slash
+50000385 c5000_Burning Monk_Naginata_Normal Position_Strengthening Rotation Jump Slash (Mushi)
+50000390 c5000_Burning Monk_Naginata_Normal Position_Running Lower Naginata
+50000400 c5000_Burning Monk_Naginata_Normal Position_Mushi Radiation 1
+50000401 c5000_Burning Monk_Naginata_Normal Position_Mushi Radiation 2
+50000402 c5000_Burning Monk_Naginata_Normal Position_Mushi Radiation 3
+50000409 c5000_Burning Monk_Naginata_Normal Position_Mushi Radiation_Remains on the Ground
+50000500 c5000_Burning Monk_Naginata_Normal Position_Right Naginata from a Weak Flow
+50000505 c5000_Burning Monk_Naginata_Normal Position_Right Naginata (Mushi)
+50000510 c5000_Burning Monk_Naginata_Normal stance_Left Naginata from right weak flow
+50000515 c5000_Burning Monk_Naginata_Normal Position_Right Left Naginata (Mushi)
+50000520 c5000_Burning Monk_Naginata_Normal stance_Rotating reverse Kasaya from right weak flow
+50000525 c5000_Burning Monk_Naginata_Normal stance_Rotating reverse Kasaya from right weak flow (Mushi)
+50000530 c5000_Burning Monk_Naginata_Normal stance_Lower Naginata from the right weak flow
+50000535 c5000_Burning Monk_Naginata_Normal Position_Right Lower Naginata (Mushi)
+50000550 c5000_Burning Monk_Naginata_Normal stance_Left Naginata from weakly swept
+50000555 c5000_Burning Monk_Naginata_Normal Position_Left Left Naginata (Mushi)
+50000560 c5000_Burning Monk_Naginata_Normal stance_Right Naginata from left weak flow
+50000565 c5000_Burning Monk_Naginata_Normal Position_Right Naginata (Mushi) from Left Weak Flow
+50000570 c5000_Burning Monk_Naginata_Normal stance_Rotating slamming from left weak flow
+50000575 c5000_Burning Monk_Naginata_Normal stance_Rotating slamming from left weak flow (Mushi)
+50000580 c5000_Burning Monk_Naginata_Normal Position_Left Slashing Diagonally from Weak Flow
+50000585 c5000_Burning Monk_Naginata_Normal Position_Left Slashing diagonally from a weak stream (Mushi)
+50000600 c5000_Burning Monk_Naginata_Normal Position_Right Naginata from a strong hit
+50000605 c5000_Burning Monk_Naginata_Normal Position_Right Naginata (Mushi) from a strong hit
+50000610 c5000_Burning Monk_Naginata_Normal stance_Right stab from being hit
+50000615 c5000_Burning Monk_Naginata_Normal stance_Right stab from being hit (Mushi)
+50000620 c5000_Burning Monk_Naginata_Normal Position_Right Retreat from a strong hit
+50000621 c5000_Burning Monk_Naginata_Normal Position_Right Retreat from a Strong Strike
+50000625 c5000_Burning Monk_Naginata_Normal Position_Right Retreat from a strong hit Naginata (Mushi)
+50000626 c5000_Burning Monk_Naginata_Normal stance_Rotating retreat from right-handed slamming Naginata_Nemoto (Mushi)
+50000630 c5000_Burning Monk_Naginata_Normal stance_Right retreat jump from being hit Nagi 1
+50000631 c5000_Burning Monk_Naginata_Normal stance_Right retreat jump from being hit Nagi 2
+50000640 c5000_Burning Monk_Naginata_Normal Position_Left Blow away from being hit 1
+50000641 c5000_Burning Monk_Naginata_Normal Position_Left Blow away from being hit 2
+50000650 c5000_Burning Monk_Naginata_Normal Position_Left Left Naginata from a strong hit
+50000655 c5000_Burning Monk_Naginata_Normal Position_Left Left Naginata (Mushi)
+50000660 c5000_Burning Monk_Naginata_Normal stance_Left slammed Kasaya
+50000665 c5000_Burning Monk_Naginata_Normal Position_Left Strong Kasaya Kasaya (Mushi)
+50000670 c5000_Burning Monk_Naginata_Normal Position_Left Rotating Lower Naginata
+50000675 c5000_Burning Monk_Naginata_Normal Position_Left Rotation from a strong hit Lower Naginata (Mushi)
+50000680 c5000_Burning Monk_Naginata_Normal Position_Left Strikes from a smashed blow 1
+50000681 c5000_Burning Monk_Naginata_Normal stance_Left smashing from a smashing blow 2
+50000682 c5000_Burning Monk_Naginata_Normal stance_Left smashing from a smashing blow 3
+50000690 c5000_Burning Monk_Naginata_Normal stance_Right slashing from a strong hit Lower combo 1
+50000691 c5000_Burning Monk_Naginata_Normal stance_Right slashing from a strong hit Lower combo 2
+50000692 c5000_Burning Monk_Naginata_Normal stance_Right slashing from a strong hit Lower combo 3
+50000695 c5000_Burning Monk_Naginata_Normal stance_Slashing up from right-handed smashing Lower combo 1 (Mushi)
+50000696 c5000_Burning Monk_Naginata_Normal stance_Slashing up from right-handed smashing Lower combo 2 (Mushi)
+50000697 c5000_Burning Monk_Naginata_Normal stance_Slashing up from a right-handed smash Lower combo 3 (Mushi)
+50000700 c5000_Burning Monk_Naginata_Normal Position_Right Naginata from Right Weak Play
+50000710 c5000_Burning Monk_Naginata_Normal Position_Left Naginata from Right Weak Play
+50000720 c5000_Burning Monk_Naginata_Normal Position_Rotating Slash from Right Weak Play
+50000721 c5000_Burning Monk_Naginata_Normal stance_Rotating slashing from a weak right-handed _Root
+50000730 c5000_Burning Monk_Naginata_Normal Position_Treading from Right Weak Play
+50000750 c5000_Burning Monk_Naginata_Normal Position_Left Naginata from Weak Left Play
+50000760 c5000_Burning Monk_Naginata_Normal Position_Right Naginata from Left Weak Play
+50000770 c5000_Burning Monk_Naginata_Normal stance_Rotating slamming from left weak
+50000771 c5000_Burning Monk_Naginata_Normal stance_Rotating slamming from left weak _Root
+50000780 c5000_Burning Monk_Naginata_Normal stance_Slanted slash from left weak
+50000800 c5000_Burning Monk_Naginata_Normal Position_Right Naginata from Right Strong Play
+50000810 c5000_Burning Monk_Naginata_Normal stance_Slash from right-handed sword
+50000850 c5000_Burning Monk_Naginata_Normal Position_Left Naginata from Left Strong Play
+50000860 c5000_Burning Monk_Naginata_Normal Position_Kasaya from Left Strong Play
+50000940 c5000_Burning Monk_Naginata_Normal Position_Discontinued Dummy
+50000970 c5000_Burning Monk_Naginata_Normal Position_Battle Start Blow away
+50000980 c5000_Burning Monk_Naginata_Normal stance_ (Damipoli 203) Vertical closeout
+50000981 c5000_Burning Monk_Naginata_Normal Position_ (Damipoli 203) Horizontal Undercut
+50000999 c5000_Burning Monk_Naginata_Normal Position_Playing
+50050010 c5005_Burning Monk_Phantom_Suddenly approaching and slashing
+50050030 c5005_Burning Monk_Phantom_Yokonagi Combo 1-1
+50050060 c5005_Burning Monk_Phantom_Yokonagi Combo 1-3B
+50050110 c5005_Burning Monk_Phantom_Slashing from the lower attack
+50050130 c5005_Burning Monk_Phantom_Slash at close range
+50050220 c5005_Burning Monk_Phantom_Middle Range Slash
+50050230 c5005_Burning Monk_Phantom_Rotating Jump Slash
+50050240 c5005_Burning Monk_Phantom_Vertical Jump Slash down (from standby)
+50050250 c5005_Burning Monk_Phantom_Jump Rotation Horizontal Slash
+50050260 c5005_Burning Monk_Phantom_Anti-aircraft rotation jump slash
+50050350 c5005_Burning Monk_Phantom_Continuous Rotation Slash_Start
+50050351 c5005_Burning Monk_Phantom_Continuous Rotation Slash_Loop
+50050352 c5005_Burning Monk_Phantom_Continuous Rotation Slash_End
+50100100 c5010_Large snake_General-purpose production_Snow splash
+50100800 c5010_Large snake_General-purpose production_Foot vibration: Mouth
+50100810 c5010_Large snake_General-purpose production_Foot vibration: Body
+50100900 c5010_Large snake_General-purpose attack_Bite
+50100901 c5010_Large snake_General-purpose attack_Biting_Large
+50100910 c5010_Large Snake_General Attack_Torso: Strong
+50100911 c5010_Large Snake_General Attack_Torso: Weak
+50100920 c5010_Large snake_General-purpose attack_Shake your body_Direct attack (unused)
+50102800 c5010_Large snake_General-purpose production_Foot vibration: Mouth
+50103902 c5010_Large Snake_General Purpose Attack_Burrow_Ishibashi Biting
+50103903 c5010_Large snake_General-purpose attack_Burrow_Bite in front of the company
+50103912 c5010_Large snake_General-purpose attack_Torso: Strong_Slamming company
+50200010 c5020_Akaoni_Akaoni Self-harm damage
+50200100 c5020_Akaoni_Low Kick Combo 0
+50200101 c5020_Akaoni_Low Kick Combo 1
+50200110 c5020_Akaoni_Front kick
+50200120 c5020_Akaoni_Too kick from dash
+50200130 c5020_Akaoni_Dropkick
+50200510 c5020_Akaoni_Grab both hands
+50200520 c5020_Akaoni_Power bomb throwing from both hands
+50200530 c5020_Akaoni_Slamming with both hands
+50200540 c5020_Akaoni_Dash Grab
+50200550 c5020_Akaoni_Dash Grab (Short Distance)
+50200560 c5020_Red Demon_Elbow Drop
+50200580 c5020_Red Demon_Tackle Grab (Push Damage)
+50200581 c5020_Red Demon_Tackle Grab
+50200590 c5020_Akaoni_Tackle Throw from a grab
+50200600 c5020_Akaoni_Front kick from low kick
+50200610 c5020_Akaoni_Elbow drop from low kick
+50200910 c5020_Red Demon_Object Destruction Attack
+50200911 c5020_Red Demon_Object Destruction Attack_Foot
+50200912 c5020_Red Demon_Object Destruction Attack_Hand
+50310100 c5031_Straw doll bug_bite
+50310110 c5031_Straw doll bug_Venom
+50500000 c5050_Nishikigoi_Straight rush
+50500010 c5050_Nishikigoi_Up and down curve rush
+50500020 c5050_Nishikigoi_Left curve rush
+50500030 c5050_Nishikigoi_Right curve rush
+50500040 c5050_Nishikigoi_Continuous forward biting
+50500050 c5050_Nishikigoi_Looking back to the left and biting
+50500060 c5050_Nishikigoi_Looking back to the right and biting
+50500070 c5050_Nishikigoi_Rampage
+50500071 c5050_Nishikigoi_Rampaging_Underwater tornado
+50500901 c5050_Nishikigoi_Collision detection sonar dummy
+50500910 c5050_Nishikigoi_Appeared after destroying the bridge
+50500920 c5050_Nishikigoi_Water flow involvement
+50600100 c5060_Ninja Army Chief_Sword Slash Combo 1
+50600101 c5060_Ninja Army Chief_Sword Slash Combo 2
+50600102 c5060_Ninja Army Chief_Sword Slash Combo 3
+50600110 c5060_Ninja Army Chief_Jump Before Rolling Down
+50600111 c5060_Ninja Army Chief_Jump Front Roll Slash Horizontal Rotation Slash from Down
+50600120 c5060_Ninja Army Chief_Lower Falling Down
+50600130 c5060_Ninja Army Chief_Front Kick
+50600131 c5060_Ninja Army Chief_Front Kick Derived Rear Shuriken
+50600140 c5060_Ninja Army Chief_Tetsuyama Yasushi
+50600141 c5060_Ninja Army Chief_Blow-off slash from Yasushi Tetsuyama
+50600150 c5060_Ninja Army Chief_Shuriken
+50600160 c5060_Ninja Army Chief_Firecracker
+50600170 c5060_Ninja Army Chief_Rush Slash
+50600171 c5060_Ninja Army Chief_Rush Slash_Derivative_First Stage
+50600172 c5060_Ninja Army Chief_Rush Slash_Derived_Second Stage
+50600180 c5060_Ninja Army Chief_Left Curve Rush Slash
+50600190 c5060_Ninja Army Chief_Explosion
+50600199 c5060_Ninja Army Chief_Bomb Slash
+50600200 c5060_Ninja Army Chief_Shuriken Dash Slash
+50600210 c5060_Ninja Army Chief_Reservoir
+50600220 c5060_Ninja Army Chief_Owl Warp_Fall Slash
+50600230 c5060_Ninja Army Chief_Owl Warp_Fall Slash_Low
+50600240 c5060_Ninja Army Chief_Owl Warp_Dash Slash
+50600260 c5060_Ninja Army Chief_Owl Warp_Pump Slash
+50600280 c5060_Ninja Army Chief_Horizontal Rotation Slash from Strong Swing Down
+50600290 c5060_Chief of Ninja Army_Slashing sideways from swinging down
+50600300 c5060_Ninja Army Chief_Right Turn around from being swept down
+50600310 c5060_Ninja Army Chief_Shinobi Stab_Rush Thrust
+50600311 c5060_Ninja Army Chief_Shinobi Stab_Rush Thrust (Dummy Judgment for Parting Out)
+50600320 c5060_Ninja Army Chief_Shinobi stab_When jumping up
+50600330 c5060_Ninja Army Chief_Shinobi Stab_Descent Double Cut 1
+50600331 c5060_Ninja Army Chief_Shinobi Stab_Descent Double Cut 2
+50600500 c5060_Ninja Army Chief_Attack from right-handed
+50600510 c5060_Ninja Army Chief_Attack from Leftward
+50600520 c5060_Ninja Army Chief_Horizontal Slash from Left Slash
+50600700 c5060_Ninja Army Chief_Poison Ball Throwing
+50600710 c5060_Ninja Army Chief_Recovery Sealed Throwing
+50600720 c5060_Ninja Army Chief_Smoke Screen
+50600721 c5060_Ninja Army Chief_Smoke Screen_Dazzle
+50600800 c5060_Ninja Army Chief_Collapse Throw_Start
+50600801 c5060_Ninja Army Chief_Crushing Throw
+50600810 c5060_Ninja Army Chief_Parting Throw_Start
+50600811 c5060_Ninja Army Chief_Parting Throw 1
+50600812 c5060_Ninja Army Chief_Parting Throw 2
+50600813 c5060_Ninja Army Chief_Parting Throw_Sword Flash Dummy
+50600900 c5060_Ninja Army Chief_Playing
+50600910 c5060_Ninja Army Chief_Dogeza Explosion (HU)
+50601100 c5060_Ninja Army Chief_Sword Slash Combo 1
+50601101 c5060_Ninja Army Chief_Sword Slash Combo 2
+50601102 c5060_Ninja Army Chief_Sword Slash Combo 3
+50601110 c5060_Ninja Army Chief_Jump Before Rolling Down
+50601111 c5060_Ninja Army Chief_Jump Front Roll Slash Horizontal Rotation Slash from Down
+50601120 c5060_Ninja Army Chief_Lower Falling Down
+50601130 c5060_Ninja Army Chief_Front Kick
+50601131 c5060_Ninja Army Chief_Front Kick Derived Rear Shuriken
+50601140 c5060_Ninja Army Chief_Tetsuyama Yasushi
+50601141 c5060_Ninja Army Chief_Blow-off slash from Yasushi Tetsuyama
+50601150 c5060_Ninja Army Chief_Shuriken
+50601160 c5060_Ninja Army Chief_Firecracker
+50601170 c5060_Ninja Army Chief_Rush Slash
+50601171 c5060_Ninja Army Chief_Rush Slash_Derivative_First Stage
+50601172 c5060_Ninja Army Chief_Rush Slash_Derived_Second Stage
+50601180 c5060_Ninja Army Chief_Left Curve Rush Slash
+50601190 c5060_Ninja Army Chief_Explosion
+50601199 c5060_Ninja Army Chief_Bomb Slash
+50601200 c5060_Ninja Army Chief_Shuriken Dash Slash
+50601210 c5060_Ninja Army Chief_Reservoir
+50601220 c5060_Ninja Army Chief_Owl Warp_Fall Slash
+50601230 c5060_Ninja Army Chief_Owl Warp_Fall Slash_Low
+50601240 c5060_Ninja Army Chief_Owl Warp_Dash Slash
+50601260 c5060_Ninja Army Chief_Owl Warp_Pump Slash
+50601280 c5060_Ninja Army Chief_Horizontal Rotation Slash from Strong Swing Down
+50601290 c5060_Chief of Ninja Army_Slashing sideways from swinging down
+50601300 c5060_Ninja Army Chief_Right Turn around from being swept down
+50601310 c5060_Ninja Army Chief_Shinobi Stab_Rush Thrust
+50601311 c5060_Ninja Army Chief_Shinobi Stab_Rush Thrust (Dummy Judgment for Parting Out)
+50601320 c5060_Ninja Army Chief_Shinobi stab_When jumping up
+50601330 c5060_Ninja Army Chief_Shinobi Stab_Descent Double Cut 1
+50601331 c5060_Ninja Army Chief_Shinobi Stab_Descent Double Cut 2
+50601500 c5060_Ninja Army Chief_Attack from right-handed
+50601510 c5060_Ninja Army Chief_Attack from Leftward
+50601520 c5060_Ninja Army Chief_Horizontal Slash from Left Slash
+50601700 c5060_Ninja Army Chief_Poison Ball Throwing
+50601710 c5060_Ninja Army Chief_Recovery Sealed Throwing
+50601720 c5060_Ninja Army Chief_Smoke Screen
+50601721 c5060_Ninja Army Chief_Smoke Screen_Dazzle
+50601800 c5060_Ninja Army Chief_Collapse Throw_Start
+50601801 c5060_Ninja Army Chief_Crushing Throw
+50601810 c5060_Ninja Army Chief_Parting Throw_Start
+50601811 c5060_Ninja Army Chief_Parting Throw 1
+50601812 c5060_Ninja Army Chief_Parting Throw 2
+50601813 c5060_Ninja Army Chief_Parting Throw_Sword Flash Dummy
+50601900 c5060_Ninja Army Chief_Playing
+50601910 c5060_Ninja Army Chief_Dogeza Explosion (HU)
+50700100 c5070_long owl_straight attack
+50700110 c5070_long owl_left curve attack
+50700120 c5070_long owl_right curve attack
+50700130 c5070_long owl_lower rush attack
+50700140 c5070_long owl_bullet attack
+50700150 c5070_Owl of the length_Turn rush from right movement
+50700160 c5070_long owl_rush somersault attack 1
+50700161 c5070_long owl_rush somersault attack 2
+50700170 c5070_long owl_rush drift turn back 1
+50700171 c5070_long owl_rush drift turn back 2
+50700180 c5070_long owl_left curve rush turn back 1
+50700181 c5070_long owl_left curve rush turn back 2
+50700190 c5070_long owl_ascending rush from the ground
+50700600 c5070_Owl of length_Dummy bullet that applies special effects to the length
+50800000 c5080_ Cavalry Warrior_2
+50800001 c5080_ Cavalry Warrior_2
+50800010 c5080_Cavalry Warrior_Slash down
+50800030 c5080_horse warrior_left swing
+50800040 c5080_Cavalry Warrior_Running down
+50800050 c5080_Cavalry Warrior_Short Rush
+50800070 c5080_Cavalry Warrior_Hindfoot Kick
+50800090 c5080_horse warrior_spear throwing
+50800100 c5080_Cavalry Warrior_Spear Nagibuki Throwing_Start
+50800101 c5080_Cavalry Warrior_Spear Nagibuki Throwing
+50800110 c5080_Cavalry Warrior_Swinging Assault_Start
+50800120 c5080_Cavalry Warrior_Swinging Assault_Loop 1
+50800121 c5080_Cavalry Warrior_Swinging Assault_Loop 2
+50800130 c5080_Cavalry Warrior_Swinging Assault_End
+50800140 c5080_Cavalry Warrior_Jump
+50800150 c5080_Cavalry Warrior_Charge_Start
+50800160 c5080_Cavalry Warrior_Charge_Loop 1
+50800161 c5080_Cavalry Warrior_Charge_Loop 2
+50800170 c5080_Cavalry Warrior_Charge_End
+50800180 c5080_Cavalry Warrior_Hang on Assault
+50800181 c5080_Cavalry Warrior_Drag Throw_Multi-stage Hit: Throw
+50800182 c5080_Cavalry Warrior_Drag Throw_Tightening: Throw
+50800220 c5080_Cavalry Warrior_Short Rush Slash from Nagibuki
+50800240 c5080_Cavalry Warrior_Short Rush
+50800260 c5080_horse warrior_ trampling
+50800270 c5080_Cavalry Warrior_Swirl
+50800280 c5080_Cavalry Warrior_Payment Attack
+50800300 c5080_Cavalry Warrior_Push → Slamming → Slashing 1
+50800301 c5080_Cavalry Warrior_Push → Slamming → Slashing 2
+50800302 c5080_Cavalry Warrior_Push → Slamming → Slashing 3
+50800310 c5080_Cavalry Warrior_Large Movement Attack
+50800330 c5080_Cavalry Warrior_Jump Slash Up
+50800340 c5080_Cavalry Warrior_Push (single shot)
+50800350 c5080_Cavalry Warrior_Slamming Combo 1
+50800351 c5080_Cavalry Warrior_Slamming Combo 2
+50800352 c5080_Cavalry Warrior_Slamming Combo 3
+50800360 c5080_Cavalry Warrior_Jump Thrust Combo 1
+50800361 c5080_Cavalry Warrior_Jump Thrust Combo 2
+50800362 c5080_Cavalry Warrior_Jump Thrust Combo 3
+50800363 c5080_Cavalry Warrior_Jump Thrust Combo 4
+50800370 c5080_Cavalry Warrior_Test Combo 2-1
+50800371 c5080_Cavalry Warrior_Test Combo 2-2
+50800372 c5080_Cavalry Warrior_Rotation Attack 1
+50800373 c5080_Cavalry Warrior_Rotation Attack 2
+50800620 c5080_Cavalry Warrior_Blow away from being swept right
+50800630 c5080_horse warrior_ trampling from being swept right
+50800640 c5080_Cavalry Warrior_Right turn from right-handed rush 1
+50800660 c5080_Cavalry Warrior_Stab from left-handed
+50800680 c5080_Cavalry Warrior_ Trampling off from the left
+50800681 c5080_Cavalry Warrior_Treading off from left-handed (horse)
+50800900 c5080_horse warrior_playing
+50800910 c5080_Cavalry Warrior_Slamming from damage
+50800920 c5080_Cavalry Warrior_Special effects attack for judgment that passed
+50800930 c1370: Fire Bull _ 弾丸1 for advancing conflict judgment
+50800931 c1370: Fire Bull _ Rush Maru 2 for judging conflict
+50800990 c5080_horse warrior_common attack_horse assault
+50800991 c5080_Cavalry Warrior_Common Attack_Horse Assault (for destroying objects)
+50900000 c5090_Butterfly_Combo A-1 Weak right axis shift slash
+50900010 c5090_Butterfly_Combo A-2 Two consecutive roundhouse kicks_First stage
+50900011 c5090_Butterfly_Combo A-2 Two consecutive roundhouse kicks_Second stage
+50900020 c5090_Butterfly_Combo A-3 Strong slash
+50900030 c5090_Butterfly_Combo A-4 Steel Wire Footrest Assault Slash
+50900040 c5090_Butterfly_Combo B-1 Weak right horizontal stripping
+50900050 c5090_Butterfly_Combo B-2 Weak sword
+50900060 c5090_Butterfly_Combo B-3 Heel drop
+50900070 c5090_Butterfly_Combo B-4 Strong right-handed sword
+50900080 c5090_Butterfly_Combo C-1 Two consecutive roundhouse kicks_First stage
+50900081 c5090_Butterfly_Combo C-1 Two consecutive roundhouse kicks_Second stage
+50900090 c5090_Butterfly_Combo C-2 Two consecutive horizontal strips_First stage
+50900091 c5090_Butterfly_Combo C-2 Two consecutive horizontal strips_Second stage
+50900100 c5090_Butterfly_Combo C-3 Double needle throwing Steel wire jumping
+50900110 c5090_Butterfly_Combo D-1 Weak left-handed
+50900120 c5090_Butterfly_Combo D-2 Reservoir rotation kick
+50900130 c5090_Butterfly_Strong lower slash
+50900131 c5090_Butterfly_Strong lower slashing _Second tier
+50900140 c5090_Butterfly_Summer salt from slashing
+50900150 c5090_Butterfly_Summer salt steel wire jumping from a slash
+50900160 c5090_butterfly_diffusion needle throw
+50900170 c5090_butterfly_backstep needle throw
+50900180 c5090_Butterfly_Needle &amp; Kicking Strikes_First Stage
+50900181 c5090_Butterfly_Needle &amp; Kicking Strikes_Second Stage
+50900182 c5090_Butterfly_Needle &amp; Kicking Strikes_Third Stage
+50900183 c5090_Butterfly_Needle &amp; Kicking Strikes_4th Stage
+50900184 c5090_Butterfly_Needle &amp; Kicking Strikes_Fifth Stage
+50900185 c5090_Butterfly_Needle &amp; kick continuous attack_Sixth stage
+50900186 c5090_Butterfly_Needle &amp; Kicking Strikes_Seventh Stage
+50900187 c5090_Butterfly_Needle &amp; Kicking Strikes_8th Stage
+50900190 c5090_Butterfly_Steel wire jump from one-shot Somersault
+50900200 c5090_butterfly_steel wire trampling
+50900210 c5090_Butterfly_Dive kick from steel wire
+50900220 c5090_Butterfly_Steel wire → Drop throw start
+50900221 c5090_Butterfly_Steel wire → Fall throw: Throw
+50900230 c5090_Butterfly_Medium-range needle throw forward slash
+50900240 c5090_Butterfly_Steel wire Zigzag front jumping needle throwing_Third stage
+50900241 c5090_Butterfly_Steel wire Zigzag front jump needle throw_4th stage
+50900300 c5090_Butterfly_Steel wire → Diffusion needle throw
+50900310 c5090_Butterfly_Butterfly_HU Time difference bullet_Parent_Life is short
+50900320 c5090_Butterfly_Butterfly_HU Time difference bullet_Parent_Life is normal
+50900330 c5090_Butterfly_Butterfly_HU Time difference bullet_Parent_Long life
+50900600 c5090_Butterfly_Kicked through the lower tier_First tier
+50900601 c5090_Butterfly_Kicking through the lower tier from being hit_Second tier
+50900610 c5090_Butterfly_Right-handed roundhouse kick_First stage
+50900611 c5090_Butterfly_Right-handed roundhouse kick_Second stage
+50900620 c5090_Butterfly_Right horizontal scraping from a strong hit
+50900630 c5090_Butterfly_Right-handed slashing from the right-handed sword
+50900640 c5090_Butterfly_Right-handed rotation from a strong left-handed slash
+50900650 c5090_Butterfly_Three consecutive attacks from kicking _First stage
+50900651 c5090_Butterfly_Three consecutive hits from kicking_Second stage
+50900652 c5090_Butterfly_Three consecutive hits from kicking_Third stage
+50900660 c5090_Butterfly_Left slashing from being hit _First stage
+50900661 c5090_Butterfly_Left slashing from a strong hit_Second stage
+50900670 c5090_Butterfly_Left Roundhouse kick from being hit
+50900680 c5090_Butterfly_Left strong slashing up from the left strong slash
+50900690 c5090_Butterfly_Left strong rotation from being hit Right strong sword
+50900700 c5090_Butterfly_Roundhouse kick from right weak _First stage
+50900701 c5090_Butterfly_Roundhouse kick from right weak _Second stage
+50900710 c5090_Butterfly_Right slashing from a weak play
+50900750 c5090_Butterfly_Strong from left weak _Slash up_First stage
+50900751 c5090_Butterfly_Strong from left weak _Slash up_Second stage
+50900760 c5090_Butterfly_Heel drop from left weak
+50900900 c5090_butterfly_playing
+51000100 c5100_Yasha Monkey_Rush 1-1 Right arm payment → Right arm reverse payment 1-1
+51000101 c5100_Yasha Monkey_Rush 1-1 Right arm payment → Right arm reverse payment 1-2
+51000110 c5100_Yasha Monkey_Rush 1-2 While turning around, hit the left arm floor repeatedly → Right arm payment 1-1
+51000111 c5100_Yasha Monkey_Rush 1-2 While turning around, hit the left arm floor repeatedly → Right arm payment 1-2
+51000112 c5100_Yasha Monkey_Rush 1-2 While turning around, hit the left arm floor repeatedly → Right arm payment 1-3
+51000120 c5100_Yasha Monkey_Rush 1-3 Collapse from right arm sweep 1-1
+51000121 c5100_Yasha Monkey_Jitabata (left)
+51000122 c5100_Yasha Monkey_Jitabata (right)
+51000123 c5100_Yasha Ape_Rush 1-3 Collapse from right arm sweep (Jitabata) 1-4
+51000124 c5100_Yasha Monkey_Rush 1-3 Falling down from right arm sweep (Jitabata) 1-5
+51000125 c5100_Yasha Monkey_Rush 1-3 Collapse from right arm sweep (Jitabata) 1-6
+51000130 c5100_Yasha Monkey_Combo 1-1 Lower Nagibashi
+51000140 c5100_Yasha Ape_Combo 1-2 Left arm upper from upper row
+51000141 c5100_Yasha Ape_Combo 1-2 Left arm upper 1-2 from the upper cut
+51000150 c5100_Yasha Ape_Jumping attack (high angle)
+51000160 c5100_Yasha Ape_Passing off
+51000170 c5100_Yasha Ape_Shooting from positioning movement
+51000180 c5100_Yasha Monkey_Back Fist 1-1
+51000181 c5100_Yasha Monkey_Back Fist 1-2 behind (planned to be separated)
+51000190 c5100_Yasha Monkey_Rush 2-1 Continuous left and right arm payment from drumming 1-1
+51000191 c5100_Yasha Monkey_Rush 2-1 Continuous left and right arm sweep from drumming 1-2
+51000200 c5100_Yasha Monkey_Rush 2-2 Hitting the right arm from the hip turning → Jumping 1-1
+51000201 c5100_Yasha Monkey_Rush 2-2 Hitting the right arm from the hip turning → Jumping 1-2
+51000202 c5100_Yasha Monkey_Rush 2-2 Hitting the right arm from the hip turning → Jumping 1-3
+51000203 c5100_Yasha Monkey_Rush 2-2 Hitting the right arm from the hip turning → Jumping 1-4
+51000220 c5100_Yasha Monkey_Drumming Move_Before 1-1
+51000221 c5100_Yasha Monkey_Drumming Move_Before 1-2
+51000230 c5100_Yasha Monkey_Drumming Move_After 1-1
+51000231 c5100_Yasha Monkey_Drumming Move_After 1-2
+51000240 c5100_Yasha Monkey_Drumming Move_Left 1-1
+51000241 c5100_Yaksha Monkey_Drumming Move_Left 1-2
+51000250 c5100_Yasha Monkey_Drumming Move_Right 1-1
+51000251 c5100_Yaksha Monkey_Drumming Move_Right 1-2
+51000260 c5100_Yaksha Monkey_Jumping and throwing from a grab
+51000270 c5100_Yasha Monkey_PC Follow Step Jump
+51000271 c5100_Yasha Monkey_PC Follow Step Jump_Landing
+51000280 c5100_Yaksha Monkey_Skip the skull from your mouth
+51000290 c5100_Yasha Monkey_Dung Throw
+51000300 c5100_Yasha Ape_Flatulence from running
+51000310 c5100_Yasha Ape_Large backstep flatulence
+51000320 c5100_Yasha Monkey_Close-distance slap み
+51000321 c5100_Yasha Ape_Throwing from a short-range grab_Slamming: Throwing
+51000322 c5100_Yasha Monkey_Throw from a short-range grab_Drag: Throw
+51000330 c5100_Yasha Ape_Sprinkling feces_Parents
+51000331 c5100_Yasha Ape_Sprinkling feces_Child
+51000340 c5100_Yasha Monkey_Slamming from Firecracker Reaction
+51000470 c5100_Yasha Monkey_Battle Start (Bride Monkey) _Landing
+51000471 c5100_Yasha Monkey_Battle Start (Bride Monkey) _Nagibuki 1
+51000472 c5100_Yasha Monkey_Battle Start (Bride Monkey) _Nagibuki 2
+51000473 c5100_Yasha Monkey_Battle Start (Bride Monkey) _Slamming
+51000500 c5100_Yasha Monkey_2 consecutive attacks with a sword 1-1
+51000501 c5100_Yasha Monkey_2 consecutive attacks with a sword 1-2
+51000502 c5100_Yasha Monkey_2 consecutive attacks with a sword 1-3 (slamming)
+51000510 c5100_Yasha Ape_Sword 2 consecutive attacks 1-3 (thrust)
+51000520 c5100_Yasha Monkey_Continuous Slashing 1-1
+51000521 c5100_Yasha Monkey_Continuous Slashing 1-2
+51000522 c5100_Yasha Monkey_Continuous Slashing 1-3
+51000523 c5100_Yasha Monkey_Continuous Slashing 1-4
+51000524 c5100_Yasha Monkey_Continuous Slashing 1-5
+51000530 c5100_Yasha Monkey_Slamming from standing up movement 1-1 (per body)
+51000531 c5100_Yasha Monkey_Slamming from standing up 1-2 (thrust)
+51000532 c5100_Yasha Monkey_Slamming from standing up movement 1-3 (Slamming)
+51000540 c5100_Yasha Monkey_Dive Attack
+51000541 c5100_Yasha Ape_Inverted fall from a big jump ⇒ Ground sweep (Nagi wipe)
+51000550 c5100_Yasha Ape_Advance thrust after placing your left hand 1-1
+51000551 c5100_Yasha Ape_Advance thrust after placing your left hand 1-2
+51000552 c5100_Yasha Ape_Advance thrust after placing your left hand 1-3
+51000553 c5100_Yasha Ape_Advance thrust after placing your left hand 1-4
+51000560 c5100_Yasha Ape_ Horizontal slide cutting after stretching the body sideways
+51000565 c5100_Yasha Monkey_Foot Slash 1-1
+51000566 c5100_Yasha Monkey_Foot Slash 1-2
+51000570 c5100_Yasha Ape_Striking Attack 1-1
+51000571 c5100_Yasha Ape_Striking Attack 1-2
+51000572 c5100_Yasha Ape_Striking Attack 1-3
+51000573 c5100_Yasha Ape_Striking Attack 1-4
+51000580 c5100_Yasha Monkey_Roar 1-1 (for judgment)
+51000590 c5100_Yasha Monkey_Roar 1-2 (for attack)
+51000640 c5100_Yaksha Monkey_Call the bride monkey
+51000650 c5100_Yasha Monkey_Crazy Roar_Attack Test
+52000100 c5200_Mermaid Dragon_Slamming
+52000110 c5200_Mermaid Dragon_Double Nagibashi 1
+52000111 c5200_Mermaid Dragon_Double Nagibashi 2
+52000120 c5200_Mermaid Dragon_Smashing
+52000130 c5200_Mermaid Dragon_Pushing away from crushing
+52000140 c5200_Mermaid Dragon_Mouth Shooting Star
+52000150 c5200_Mermaid Dragon_Diagonal Slash
+52000151 c5200_Mermaid Dragon_Left payment from diagonal slash
+52000160 c5200_Mermaid Dragon_Left payment
+52000170 c5200_Mermaid Dragon_Right payment from left payment
+52000180 c5200_Mermaid Dragon_Slashing through
+52000181 c5200_Mermaid Dragon_Slashing Back 2
+52000190 c5200_Mermaid Dragon_Reverse Slash Through
+52000191 c5200_Mermaid Dragon_Reverse Slashing Back 2
+52000200 c5200_Mermaid Dragon_Eight-shaped slash 1
+52000201 c5200_Mermaid Dragon_Eight-shaped slash 2
+52000210 c5200_Mermaid Dragon_Stab
+52000220 c5200_Mermaid Dragon_Shake off from the sword
+52000230 c5200_Mermaid Dragon_Double Strike 1
+52000231 c5200_Mermaid Dragon_Double Strike 2
+52000240 c5200_Mermaid Dragon_Four consecutive attacks from two consecutive attacks 1
+52000241 c5200_Mermaid Dragon_Four consecutive attacks from two consecutive attacks 2
+52000242 c5200_Mermaid Dragon_Four consecutive attacks from two consecutive attacks 3
+52000243 c5200_Mermaid Dragon_Four consecutive attacks from two consecutive attacks 4
+52000250 c5200_Mermaid Dragon_Storm Slash from Four Strikes
+52000300 c5200_Mermaid Dragon_Rush Biting
+52000310 c5200_Mermaid Dragon_Bite from slamming
+52000320 c5200_Mermaid Dragon_Neck attack from left-handed
+52000330 c5200_Mermaid Dragon_Neck attack from right-handed
+52000400 c5200_Mermaid Dragon_Anti-aircraft_Yokonagi
+52000410 c5200_Mermaid Dragon_Anti-Aircraft_Slash Up
+52000500 c5200_Mermaid Dragon_Weak Lightning
+52000501 c5200_Mermaid Dragon_Weak Lightning_Propagation
+52000510 c5200_Mermaid Dragon_Strong Lightning
+52000620 c5200_Mermaid Dragon_Distance Attack_Sword Flash Wave_Vertical
+52000630 c5200_Mermaid Dragon_Distance Attack_Sword Flash Wave_Horizontal
+52000640 c5200_Mermaid Dragon_Full Range Attack
+52000650 c5200_Mermaid Dragon_Lower Range Attack
+52000750 c5200_Mermaid Dragon_Slamming_Shockwave Test 1_Attack
+52000760 c5200_Mermaid Dragon_Slamming_Shockwave Test 2_Bullet
+52000800 c5200_Mermaid Dragon_Updraft
+52000810 c5200_Mermaid Dragon_Updraft_Weak
+52000820 c5200_Mermaid Dragon_Lightning Return_PC Blow-off Explosion
+52000830 c5200_Mermaid Dragon_Strong Wind_Blows Off After PC
+53000100 c5300_Okinayu_Short distance_Kasaya Nagi
+53000110 c5300_Okinayu_Middle-distance_Left Kasaya Nagi
+53000120 c5300_Okinayu_Swing down
+53000130 c5300_Okina Dragon_Two consecutive horizontal sweeps
+53000140 c5300_Okina Dragon_Continuous magic bullet
+53000150 c5300_Okina Dragon_Induced magic bullet
+53000160 c5300_Okina Dragon_Breath
+53000170 c5300_Okinayu_Swing down
+53000200 c5300_Okina Dragon_Falling Shinobi Killing Involvement
+53100000 c5310_tentacles_pop out
+53100100 c5310_Tentacles_Nagibuki
+53100110 c5310_tentacles_get up 1
+53100111 c5310_tentacles_get up 2
+53100500 c5310_Tentacles_Signs_Flipping
+53100600 c5310_tentacles_lightning strike sign
+53200000 c5300_Okinayu_Swing down
+53200020 c5300_Okina Dragon_Yokonagi
+53200030 c5300_Okina Dragon_Coughing
+54000010 c5400_Revived Kensei_Right-handed Sword Combo 1
+54000011 c5400_Revived Kensei_Right-handed Sword Combo 2-A
+54000012 c5400_Revived Kensei_Right-handed Sword Combo 3-A
+54000013 c5400_Revived Kensei_Right-handed Sword Combo 2-B
+54000014 c5400_Revived Kensei_Right-handed Sword Combo 3-B (Push)
+54000015 c5400_Revived Kensei_Sliding to the right (standby posture)
+54000016 c5400_Revived Kensei_Slash up (standby posture)
+54000020 c5400_Revived Kensei_Left Paper A dragon roll flash from a single avoidance
+54000030 c5400_Revived Kensei_Tsubame from the strong stance 1
+54000031 c5400_Revived Kensei_Tsubame from the strong stance 2
+54000040 c5400_Revived Kensei_Double Sword 1
+54000041 c5400_Revived Kensei_Double Sword 2
+54000042 c5400_Revived Kensei_Lower row from double sword
+54000043 c5400_Revived Kensei_Double Sword (Short Knockback)
+54000050 c5400_Revived Kensei_Raising from a weak stance
+54000051 c5400_Revived Kensei_Lower from the lift
+54000080 c5400_Revived Kensei_180 degree turn attack
+54000090 c5400_Revived Kensei_Kabutowari
+54000100 c5400_Revived Kensei_Left 90 degree turn attack
+54000110 c5400_Revived Kensei_Right 90 degree turn attack (thrust)
+54000120 c5400_Revived Kensei_Turn and slash
+54000130 c5400_Revived Kensei_Face
+54000131 c5400_Revived Kensei_Chase
+54000132 c5400_Revived Kensei_Face-to-Flame_Fire
+54000135 c5400_Revived Kensei_Face-to-face_Sickbed
+54000136 c5400_Revived Kensei_Follow-up_Sickbed
+54000140 c5400_Revived Kensei_Two consecutive attacks from being swept away 1
+54000141 c5400_Revived Kensei_Two consecutive attacks from being swept away 2
+54000150 c5400_Revived Kensei_Unplugged body
+54000160 c5400_Revived Kensei_Left Dash Attack 1
+54000161 c5400_Revived Kensei_Left Dash Attack 2
+54000162 c5400_Revived Kensei_Left Dash Attack 3
+54000170 c5400_Revived Kensei_Mae Shukuchi Attack
+54000180 c5400_Revived Kensei_Sword sword from right-handed
+54000190 c5400_Revived Kensei_Sliding from the left
+54000200 c5400_Revived Kensei_Left-slashing flow from a general-purpose stance
+54000201 c5400_Revived Kensei_Right-slashing flow from left-slashing flow
+54000210 c5400_Revived Kensei_Move diagonally 45 degrees from a general-purpose stance Kasaya
+54000220 c5400_Revived Kensei_Right Sword to the right
+54000230 c5400_Revived Kensei_Sword sword from left weak play
+54000240 c5400_Revived Kensei_Strong Iai
+54000250 c5400_Revived Kensei_Strong Iai (Explosion)
+54000260 c5400_Revived Kensei_Strong Iai (Vertical)
+54000261 c5400_Revived Kensei_Strong Iai (Vertical) _Second stage
+54000270 c5400_Revived Kensei_Strong Iai (Power Wave)
+54000280 c5400_Revived Kensei_Throwing Start
+54000290 c5400_Revived Kensei_Throw
+54000291 c5400_Revived Kensei_Iai (throwing posture)
+54000320 c5400_Revived Kensei_Two consecutive Iai 1
+54000321 c5400_Revived Kensei_Two consecutive Iai 2
+54000330 c5400_Revived Kensei_Two consecutive Iai_Burning
+54000350 c5400_Revived Kensei_ Ground trampling
+54000351 c5400_Revived Kensei_Desperate Slash
+54000352 c5400_Revived Kensei_Slashing back
+54000353 c5400_Revived Kensei_Desperate Slash Up_Fan-shaped Flame
+54000360 c5400_Revived Kensei_Flame Slasher_Flame Damage
+54000370 c5400_Revived Kensei_Flying Slashing_Lower
+54000380 c5400_Revived Kensei_Two consecutive Iai_Launch damage
+54000390 c5400_Revived Kensei_Slashing up → Trampling 1
+54000391 c5400_Revived Kensei_Slashing up → Trampling 2
+54000392 c5400_Revived Kensei_Slashing up → Trampling 3
+54000400 c5400_Revived Kensei_Flame Slash Test
+54000411 c5400_Revived Kensei_Invisible Iai Continuous Attack_Slash 1
+54000412 c5400_Revived Kensei_Invisible Iai Continuous Attack_Slash 2
+54000416 c5400_Revived Kensei_Invisible Iai Continuous Attack_Delayed Slash 1
+54000417 c5400_Revived Kensei_Invisible Iai Continuous Attack_Delayed Slash 2
+54000418 c5400_Revived Kensei_Invisible Iai Continuous Attack_Delayed Slash 3
+54000419 c5400_Revived Kensei_Invisible Iai Continuous Attack_Delayed Slash 4
+54000500 c5400_Revived Kensei (after HU) _ Right-handed sword combo 1
+54000501 c5400_Revived Kensei (after HU) _ Right-handed sword combo 2
+54000502 c5400_Revived Kensei (after HU) _ Right-handed sword combo 3-A
+54000503 c5400_Revived Kensei (after HU) _ Right-handed sword combo 3-B (spear)
+54000510 c5400_Revived Kensei (after HU) _ Spear Slamming Combo 1 (Spear)
+54000511 c5400_Revived Kensei (after HU) _ Spear Slamming Combo 2-A
+54000512 c5400_Revived Kensei (after HU) _ Spear Slamming Combo 2-B (Spear _ Lower)
+54000520 c5400_Revived Kensei (after HU) _ Dive attack (spear)
+54000521 c5400_Revived Kensei (after HU) _Dive attack_Knockback short (spear)
+54000530 c5400_Revived Kensei (after HU) _Unplugged body
+54000540 c5400_Revived Kensei (after HU) _ Rush 1
+54000541 c5400_Revived Kensei (after HU) _ Rush 2
+54000542 c5400_Revived Kensei (after HU) _ Rush 3 (spear)
+54000543 c5400_Revived Kensei (after HU) _ Rush 4 (spear)
+54000544 c5400_Revived Kensei (after HU) _Rush 5-A (Spear_Push)
+54000550 c5400_Revived Kensei (after HU) _Jump piercing (spear)
+54000560 c5400_Revived Kensei (after HU) _ Two sword spear strikes 1
+54000561 c5400_Revived Kensei (after HU) _ Two sword spear strikes 2 (spear)
+54000580 c5400_Revived Kensei (after HU) _ Spear pulling (spear)
+54000590 c5400_Revived Kensei (after HU) _Sword spear two consecutive attacks_Left_90 degree turn 1
+54000591 c5400_Revived Kensei (after HU) _Sword spear double strike_Left_90 degree turn 2 (spear)
+54000600 c5400_Revived Kensei (after HU) _ Spear thrust (Spear _ thrust)
+54000601 c5400_Revived Kensei (after HU) _Spear Thrust_Knockback Long (Spear_Push)
+54000610 c5400_Revived Kensei (after HU) _ Spear retreat and sword 1 (spear)
+54000620 c5400_Revived Kensei_Weakness Slash
+54000630 c5400_Revived Kensei_Weakness Slash_Delayed Explosion
+54000640 c5400_Revived Kensei (after HU) _ New Rush 1
+54000641 c5400_Revived Kensei (after HU) _ New Rush 2
+54000642 c5400_Revived Kensei (after HU) _ New Rush 3 (Spear)
+54000643 c5400_Revived Kensei (after HU) _ New Rush 4 (Spear)
+54000644 c5400_Revived Kensei (after HU) _ New Rush 5
+54000650 c5400_Revived Kensei (after HU) _ Shukuchi sword two consecutive attacks 1
+54000651 c5400_Revived Kensei (after HU) _ Shukuchi sword two consecutive attacks 2
+54000660 c5400_Revived Kensei (after HU) _ Dash sword double 1
+54000661 c5400_Revived Kensei (after HU) _ Dash sword double 2
+54000670 c5400_Revived Kensei_Face
+54000671 c5400_Revived Kensei_Chase
+54000680 c5400_Revived Kensei_Strong Iai
+54000690 c5400_Revived Kensei (after HU) _Continuous light wave_Sword: Slash
+54000692 c5400_Revived Kensei (after HU) _Continuous light wave_Light wave
+54000700 c5400_Revived Kensei (after HU) _ Spear to the left (spear)
+54000710 c5400_Revived Kensei (after HU) _HU Transition_Fighting spirit blown away
+54000711 c5400_Revived Kensei (after HU) _ Spear to the left (spear)
+54000750 c5400_Revived Kensei (after HU) _ Spear retreat Nagibuki Thunder attack _ Thunder
+54000751 c5400_Revived Kensei (after HU) _ Spear retreat Nagibuki Thunder attack _ Spear body
+54000760 c5400_Revived Kensei (after HU) _ Spear jumping thunder attack _ Thunder
+54000761 c5400_Revived Kensei (after HU) _ Spear jumping lightning attack _ Spear body
+54000800 c5400_Revived Kensei (after HU) _Pistol
+54000801 c5400_Revived Kensei (after HU) _Handgun_Power attenuation
+54000810 c5400_Revived Kensei (after HU) _Pistol_Rapid fire_Left
+54000811 c5400_Revived Kensei (after HU) _Pistol_Rapid fire_Right
+54000812 c5400_Revived Kensei (after HU) _Pistol_Rapid fire_Left_Weak
+54000813 c5400_Revived Kensei (after HU) _Pistol_Rapid fire_Right_Weak
+54000900 c5400_Revived Kensei_Playing
+54000940 c5400_Revived Kensei_Discontinued Dummy_In front of HU
+54000941 c5400_Revived Kensei_Discontinued Dummy_After HU
+70000100 c7000_Female player_Mai continuous attack 1
+70000110 c7000_Female player_Mai continuous attack 2-1
+70000111 c7000_Female player_Mai continuous attack 2-2
+70000120 c7000_Female player_Mai continuous attack 3_Upper tightening-1
+70000121 c7000_Female player_Mai continuous attack 3_Upper tightening-2
+70000130 c7000_Female player_Mai continuous attack 3_Lower tightening-1
+70000131 c7000_Female player_Mai continuous attack 3_Lower tightening-2
+70000140 c7000_Female player_Movement attack 1_Left
+70000150 c7000_Female player_Movement attack 2_Right
+70000160 c7000_Female player_Thrust four consecutive attacks 1-3
+70000161 c7000_Female player_Thrust four consecutive attacks 4
+70000170 c7000_Female player_Shukuchi slashing
+70000180 c7000_female player_jump slash
+70000190 c7000_Female player_Previous step Slash up
+70000200 c7000_Female player_High-speed slash from the reservoir
+70000210 c7000_Female player_Slash around _Left
+70000211 c7000_Female player_Slash around _Left_Addition
+70000220 c7000_Female player_Slash around _Right
+70000221 c7000_Female player_Slash around _Right_Addition
+70000230 c7000_Female player_Slash around _Left_180 degrees
+70000231 c7000_Female player_Slash around _Left_180 degrees_Addition
+70000240 c7000_Female player_Slash around _Right_180 degrees
+70000241 c7000_Female player_Slash around _Right_180 degrees_Addition
+70000250 c7000_Female player_Slash around _Left_Lower
+70000260 c7000_Female player_Slash around _Right_Lower
+70000270 c7000_Female player_Slash around _Right_Lower_180 degrees
+70000300 c7000_female player_stop throw start
+70000301 c7000_female player_stop throw 1
+70000302 c7000_female player_stop throw 2
+70000400 c7000_Female player_Slashing back from right-handed strong play
+70000410 c7000_Female player_Slash back from left-handed strong play
+70000420 c7000_Female player_Slashing from right-handed strong
+70000900 c7000_female player_playing
+70100000 c7010_Busshi (NPC) _Buddha image throwing
+70200100 c7020_Busshi (demon) _Basic combo 1_1_Right hand scratch
+70200101 c7020_Busshi (Oni) _Basic Combo 1-2_Right Hands
+70200102 c7020_Busshi (demon) _Basic combo 1_2_Flame arm shaving
+70200103 c7020_Busshi (demon) _Basic combo 1_2_Flame arm slamming
+70200104 c7020_Busshi (demon) _Basic combo 1_3_Right hand slamming
+70200105 c7020_Busshi (demon) _Basic combo 1_3_ From left to right
+70200106 c7020_Busshi (demon) _Basic combo 1_4_ From right to left
+70200107 c7020_Busshi (Oni) _Basic Combo 1_4_Right Hands
+70200108 c7020_Busshi (demon) _Basic combo 1_4_Right foot trampling
+70200109 c7020_Busshi (demon) _Basic combo 1_4_Right hand slamming
+70200110 c7020_Busshi (demon) _close attack 1_headbutt
+70200111 c7020_Busshi (demon) _close attack 2_continuous headbutt_first stage
+70200112 c7020_Busshi (demon) _close attack 2_continuous headbutt_second stage
+70200120 c7020_Busshi (demon) _long jump right hand slam
+70200121 c7020_Busshi (demon) _Vertical jump attack_Flame vertical sweep
+70200125 c7020_Busshi (demon) _Vertical jump attack_Bombing
+70200126 c7020_Busshi (demon) _long jump right hand slamming_shock wave
+70200130 c7020_Busshi (demon) _Basic combo 2_1_ From left to right
+70200131 c7020_Busshi (Oni) _Basic Combo 2_1_ Right to Left Right Arm Swipe
+70200132 c7020_Busshi (demon) _Basic combo 2_1_Right foot trampling
+70200133 c7020_Busshi (demon) _Basic combo 2_2_Flame arm swing up
+70200134 c7020_Busshi (demon) _Basic combo 2_2_Flame arm swing down
+70200135 c7020_Busshi (demon) _Basic combo 2_3_Right hand swing down
+70200136 c7020_Busshi (demon) _Basic combo 2_3_Flame arm swing down
+70200137 c7020_Busshi (demon) _Basic combo 2_3_Flame arm backward drag
+70200140 c7020_Busshi (demon) _Basic combo 3_1_Right hand thrust
+70200141 c7020_Busshi (demon) _Basic combo 3_1_Right foot trampling
+70200142 c7020_Busshi (demon) _Basic combo 3_2_ From right to left
+70200143 c7020_Busshi (Oni) _Basic Combo 3_2_Right Hands
+70200144 c7020_Busshi (demon) _Basic combo 3_3_Right foot trampling
+70200150 c7020_Busshi (demon) _Basic combo 3_2_Single shot_Right hand sweep
+70200151 c7020_Busshi (demon) _Basic combo 3_2_Single shot_From left to right
+70200160 c7020_Busshi (demon) _Basic combo 3_3_Single shot_Right foot trampling
+70200170 c7020_Busshi (demon) _grabbing and hitting_grabbing
+70200171 c7020_Busshi (demon) _grabbing and hitting_right hand hitting
+70200172 c7020_Busshi (demon) _grabbing and hitting_left hand grabbing
+70200180 c7020_Busshi (demon) _Cut through _Right arm
+70200181 c7020_Busshi (demon) _Cut through _Burning arm
+70200190 c7020_Busshi (demon) _Flame arm shaving 1
+70200191 c7020_Busshi (demon) _Flame arm shaving 2
+70200192 c7020_Busshi (demon) _Flame arm Nagisa 3_Nagibuki
+70200193 c7020_Busshi (demon) _Flame arm stripping 3_Slamming
+70200194 c7020_Busshi (demon) _Flame arm stripping 4_Right hand slamming
+70200200 c7020_Busshi (demon) _Attack surrounded by flames_First lap
+70200201 c7020_Busshi (demon) _Attack surrounded by flames_Second lap
+70200202 c7020_Busshi (demon) _Attack surrounded by flames_Third lap
+70200210 c7020_Busshi (demon) _flame arm slamming forward
+70200220 c7020_Busshi (demon) _flame smashing_flame arm
+70200221 c7020_Busshi (demon) _Flame smashing_Both steps
+70200230 c7020_Busshi (demon) _Jump_
+70200231 c7020_Busshi (demon) _Jump_Landing shock wave_HU1
+70200233 c7020_Busshi (demon) _Jump_Wide range shock wave_DL3
+70200234 c7020_Busshi (demon) _Jump_Wide range shock wave_DL11
+70200240 c7020_Busshi (demon) _Damage Slamming the flame arm connected from dying
+70200250 c7020_Busshi (demon) _Basic combo 1_2_Flame arm backwards
+70200260 c7020_Busshi (demon) _foot attack_left foot trampling
+70200261 c7020_Busshi (demon) _Foot attack_Flame arm sweeping
+70200262 c7020_Busshi (demon) _foot attack_right foot trampling
+70200263 c7020_Busshi (demon) _foot attack_right arm
+70200300 c7020_Busshi (demon) _Firewave
+70200310 c7020_Busshi (demon) _damage floor _flame_strong
+70200311 c7020_Busshi (demon) _damage floor _flame_medium
+70200312 c7020_Busshi (demon) _damage floor _flame_weak
+70200320 c7020_Busshi (demon) _Direction_Flame floor
+70200330 c7020_Busshi (demon) _range explosion
+70200340 c7020_Busshi (demon) _FB explosion
+70200350 c7020_Busshi (demon) _breath_center
+70200351 c7020_Busshi (demon) _Breath_Around_Jump avoidable
+70200400 c7020_Busshi (demon) _demon Buddha_small attack
+70200401 c7020_Busshi (demon) _demon Buddha_medium attack
+70200402 c7020_Busshi (demon) _demon Buddha_great attack
+70200440 c7020_Busshi (demon) _flame wall
+70200450 c7020_Busshi (demon) _Self-centered explosion_For HU2
+70200520 c7020_Busshi (demon) _Triple thrust from right-handed _First stage
+70200521 c7020_Busshi (demon) _Triple strut from right-handed _Second stage
+70200522 c7020_Busshi (demon) _Triple strut from right-handed _Third stage
+70200560 c7020_Busshi (demon) _Triple payment from left-handed _First stage
+70200561 c7020_Busshi (demon) _Triple payment from left-handed _Second stage
+70200562 c7020_Busshi (demon) _Triple payment from left-handed _Third stage
+70200563 c7020_Busshi (demon) _Triple payment from left-handed _Flame arm shaving
+70200592 c7020_Busshi (demon) _Slamming the flame arm from the right flow_First stage
+70200593 c7020_Busshi (demon) _Slamming the flame arm from the right flow_Second stage
+70200600 c7020_Busshi (demon) _right foot_weak_attack
+70200601 c7020_Busshi (demon) _right foot_strong_attack
+70200602 c7020_Busshi (demon) _right foot_strong_addition_attack
+70200610 c7020_Busshi (demon) _left foot_weak_attack
+70200611 c7020_Busshi (demon) _left foot_strong_attack
+70200612 c7020_Busshi (demon) _left foot_strong_addition_attack
+70200615 c7020_Busshi (demon) _both legs_weak_attack
+70200616 c7020_Busshi (demon) _both legs_strong_attack
+70200620 c7020_Busshi (demon) _face_attack_weak
+70200621 c7020_Busshi (demon) _face_attack_strong
+70200625 c7020_Busshi (demon) _Composite_Upper body_Attack
+70200626 c7020_Busshi (demon) _Composite_Whole body crawling_Attack
+70200627 c7020_Busshi (demon) _Composite_Whole body crushing_Attack
+70200800 c7020_Busshi (demon) _for destroying objects
+70200900 c7020_Busshi (demon) _play / guard
+70200970 c7020_Busshi (demon) _Explosion_HU For production
+70210100 c7021_demon Buddha_small attack
+70210101 c7021_Demon Buddha_Medium attack
+70210102 c7021_Demon Buddha_Large attack
+71000100 c7100_Rival_Right sword
+71000101 c7100_Rival_Left sword from right sword
+71000102 c7100_Rival_Left elbow from left sword
+71000103 c7100_Rival_Right body slash from left elbow
+71000110 c7100_Rival_Right body slash
+71000111 c7100_Rival_Left body slash from right body slash
+71000120 c7100_rival_pulling body
+71000130 c7100_Rival_Kicking off
+71000140 c7100_Rival_Left through the lower step from the front step
+71000150 c7100_Rival_Dive slash from the brake bow
+71000160 c7100_Rival_Short-distance pattern lift
+71000161 c7100_Rival_Body blow from handle lift: No throwing
+71000170 c7100_Rival_Lariat Neck Grab Pull
+71000171 c7100_Rival_Roll → Stick: Don&#39;t throw
+71000180 c7100_Rival_Two-pawns restriction Kenka Kick: No throwing
+71000190 c7100_Rival_Right slashing high-speed sword from being hit
+71000200 c7100_Rival_Left slashing high-speed reverse slashing from being hit
+71000210 c7100_Rival_High-speed reverse slashing from a weak right-handed player
+71000220 c7100_Rival_High-speed slashing from a weak left
+71000230 c7100_Rival_Right low-speed reverse slashing from being hit
+71000240 c7100_Rival_Left Weakly hit high-speed sword
+71000250 c7100_Rival_Right backstep thrust from being hit
+71000260 c7100_rival_bow storage forward slash
+71000270 c7100_Rival_Hachiman Flying Slash 0
+71000271 c7100_Rival_Hachiman Flying Slash 1
+71000272 c7100_Rival_Push from the eight-legged sword
+71000290 c7100_Rival_Rush from being played_Right
+71000291 c7100_Rival_Rush from being played_Left
+71000292 c7100_Rival_Rush from being played_Finish
+71000300 c7100_Rival_Right body slash
+71000301 c7100_Rival_Left body slash from right body slash
+71000310 c7100_Rival_Strongly hit_Right_Rotating eight swords in a row 1
+71000311 c7100_Rival_Strongly hit_Right_Rotating eight swords
+71000320 c7100_Rival_Right-handed Kasaya Rotation from swinging down Two consecutive hits 1
+71000321 c7100_Rival_Right-handed Kasaya Rotation from swinging down Two consecutive attacks 2
+71000330 c7100_Rival_Bow storage Forward slashing to eight swords 1
+71000331 c7100_Rival_Bow storage Forward slashing to eight swords 2 consecutive slashes 2
+71000340 c7100_Rival_Bow storage Eight swords from forward slash
+71000341 c7100_Rival_Lower row from Hachiman Sword
+71000350 c7100_Rival_Single-shot eight sword grated
+71000360 c7100_Rival_Thunder Jump Slash
+71000370 c7100_Rival_Hachiman Sword → Wrap around
+71000380 c7100_Rival_Down revenge
+71000390 c7100_rival_turning kick
+71000400 c7100_Rival_Push: Repartitioning posture
+71000500 c7100_Rival_Common bow attack_Right-playing_Short range
+71000501 c7100_Rival_Common bow attack_Right-playing_Long-distance
+71000502 c7100_Rival_Common bow attack_Left-playing_Short range
+71000503 c7100_Rival_Common bow attack_Left-playing_Long distance
+71000510 c7100_Rival_Bow Attack_Reservoir Bow
+71000520 c7100_rival_bow attack_thunder bow
+71000530 c7100_Rival_Bow 4 Fire 1
+71000531 c7100_Rival_Bow 4 Fire 2
+71000532 c7100_Rival_Bow 4 Fire 3
+71000533 c7100_Rival_Bow 4 Fire 4
+71000900 c7100_rival_playing
+71000940 c7100_rival_closed dummy
+71000980 c7100_Rival_Danger display dummy bullet
+71100100 c7110_Rival (naked) _Right sword
+71100101 c7110_Rival (naked) _Left sword from right sword
+71100102 c7110_Rival (naked) _Left elbow from left sword
+71100103 c7110_Rival (naked) _Right body slash from left elbow
+71100110 c7110_Rival (naked) _Right body slash
+71100111 c7110_Rival (naked) _Left body slash from right body slash
+71100120 c7110_Rival (naked) _Unplugged body
+71100130 c7110_Rival (naked) _Kick and push
+71100140 c7110_Rival (naked) _Lower cut through from left front step
+71100150 c7110_Rival (naked) _Dive slash from the brake bow
+71100160 c7110_Rival (naked) _Short-distance pattern lift
+71100161 c7110_Rival (naked) _Body blow from handle lift: Throw
+71100170 c7110_Rival (naked) _Lariat neck grab and pull
+71100171 c7110_Rival (naked) _Turn → Prick: Throw
+71100180 c7110_Rival (naked) _Walking two steps Kenka Kick: Throw
+71100190 c7110_Rival (naked) _High-speed slashing from a right-handed slash
+71100200 c7110_Rival (naked) _High-speed reverse slashing from a left-handed slash
+71100210 c7110_Rival (naked) _High-speed reverse slashing from a weak right-handed player
+71100220 c7110_Rival (naked) _High-speed slashing from a weak left
+71100230 c7110_Rival (naked) _High-speed reverse slashing from a weak right-handed hit
+71100240 c7110_Rival (naked) _High-speed slashing from a weak left hit
+71100250 c7110_Rival (naked) _Backstep thrust from right bang
+71100260 c7110_Rival (naked) _Bow storage forward slash
+71100270 c7110_Rival (naked) _Hachiman Flying Slash 0
+71100271 c7110_Rival (naked) _Hachiman Flying Slash 1
+71100272 c7110_Rival (naked) _Push from eight swords
+71100290 c7110_Rival (naked) _Rush from being played_Right
+71100291 c7110_Rival (naked) _Rush from being played_Left
+71100292 c7110_Rival (naked) _Rush from being played_Finish
+71100300 c7110_Rival (naked) _Right body slash
+71100301 c7110_Rival (naked) _Left body slash from right body slash
+71100310 c7110_Rival (naked) _Strongly hit _To the right_Rotating eight swords in a row 1
+71100311 c7110_Rival (naked) _Strongly hit _To the right_Rotating eight swords two consecutive attacks 2
+71100320 c7110_Rival (naked) _Right-handed Kasaya Rotation from swinging down Two consecutive hits 1
+71100321 c7110_Rival (naked) _Right-handed Kasaya Rotation from swinging down Two consecutive hits 2
+71100330 c7110_Rival (naked) _Bow storage Forward slashing to eight swords 1
+71100331 c7110_Rival (naked) _Bow storage Forward slashing to eight swords 2
+71100340 c7110_Rival (naked) _Bow storage Eight slashes from forward slash
+71100341 c7110_Rival (naked) _Lower row from eight swords
+71100350 c7110_Rival (naked) _Single-shot eight sword grated
+71100361 c7110_Rival (naked) _Lightning jump slash _ Lightning
+71100370 c7110_Rival (naked) _Hachiman Sword → Wrap around
+71100380 c7110_Rival (naked) _Down revenge
+71100390 c7110_Rival (naked) _Dash Eight stabs
+71100400 c7110_Rival (naked) _Push: Repartitioning posture
+71100410 c7110_Rival (naked) _Roundhouse kick
+71100420 c7110_Rival (naked) _Immortal Slash_1st stage
+71100421 c7110_Rival (naked) _Immortal Slash-2nd stage
+71100500 c7110_Rival (naked) _Common bow attack_Right-playing_Short range
+71100501 c7110_Rival (naked) _Common to bow attack_Right-playing_Long-distance
+71100502 c7110_Rival (naked) _Common bow attack_Left-playing_Short range
+71100503 c7110_Rival (naked) _Common to bow attack_Left-playing_Long-distance
+71100510 c7110_Rival (naked) _Bow attack_Reservoir bow
+71100521 c7110_Rival (naked) _Bow attack_Thunder bow_Thunder
+71100900 c7110_Rival (naked) _Playing
+71100940 c7110_Rival (naked) _Discontinued dummy
+71100980 c7110_Rival (naked) _Danger display dummy bullet
+74000000 c7400_Daughter of Medical Holy_Combo A-1 Right-handed sword
+74000010 c7400_Daughter of Medical Holy_Combo A-2 Right-handed
+74000020 c7400_Daughter of Isei_Combo A-3 Slash up diagonally to the left
+74000030 c7400_Daughter of Medical Holy_Combo B-1 Swipe to the right
+74000031 c7400_Daughter of Isei_Combo B-1 Slashing down from the right sword
+74000040 c7400_Daughter of Isei_Combo B-2A Swallowing from slashing
+74000050 c7400_Daughter of Isei_Combo B-2B Thrust from the slash
+74000060 c7400_Daughter of Isei_Combo B-2C Lower payment from slashing
+74000070 c7400_Daughter of Isei_Iai Tsubame from the sword_First stage
+74000071 c7400_Daughter of Isei_Iai Tsubame connected from the sword_Second stage
+74000080 c7400_Daughter of Isei_Anti-aircraft slashing
+74000100 c7400_Daughter of Isei_Face
+74000110 c7400_Daughter of Isei_Daughter without body
+74000111 c7400_Daughter of Isei_Reverse body
+74000130 c7400_Daughter of Isei_Jumping thrust
+74000150 c7400_Daughter of Medical Holy_Slashing Flow_Left
+74000160 c7400_Daughter of Medical Holy_Slashing Flow_Right
+74000220 c7400_Daughter of Isei_Surrounding to the left_Lower Nagi
+74000230 c7400_Daughter of Isei_Right turn_Iai swallowback_First stage
+74000231 c7400_Daughter of Isei_Right turn_Iai swallowback_Second stage
+74000250 c7400_Daughter of Isei_Aikido Throw_Start
+74000251 c7400_Daughter of Isei_Aikido Throw_Body: Throw
+74000260 c7400_Daughter of Isei_Iai connected from Aikido throwing
+74000270 c7400_Daughter of Isei_Slashing up the previous step
+74000600 c7400_Daughter of Isei_Right-handed Iaido swallowing-First stage
+74000601 c7400_Daughter of Isei_Right-handed Iaido swallowing-Second stage
+74000610 c7400_Daughter of Isei_Ryumaki Sen from being hit right_First stage
+74000611 c7400_Daughter of Isei_Ryumaki Sen from being hit right_Second stage
+74000612 c7400_Daughter of Isei_Ryumaki Sen from being hit right_Third stage
+74000613 c7400_Daughter of Isei_Ryumaki Sen from being hit right_4th stage
+74000620 c7400_Daughter of Isei_Right
+74000650 c7400_Daughter of Isei_Reverse dragon roll flash from left-handed
+74000660 c7400_Daughter of Isei_Lower row from being flipped to the left
+74000670 c7400_Daughter of Isei_Left slashing from a strong hit
+74000680 c7400_Daughter of Isei_Left slashing from being hit_Right 180 degrees
+74000700 c7400_Daughter of Isei_Slashing from right-handed
+74000750 c7400_Daughter of Isei_Double attack from left-handed_First stage
+74000751 c7400_Daughter of Isei_Second strike from left-handed_Second stage
+74000900 c7400_Daughter of Medical Holy_Playing
+74000940 c7400_Daughter of Medical Holy_Dummy
+74000980 c7400_Daughter of Medical Holy_Danger Display Dummy Bullet

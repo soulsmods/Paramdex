@@ -1,0 +1,149 @@
+0 necessary
+110 Treasure chest
+200 Treasure chest
+350 m93_01_door_candle room
+351 m93_01_door_candle room
+360 m96_00 Door Concept Map_Entrance
+370 m96_00 Door Concept Map_Basilica Entrance
+371 m96_00 Door Concept Map_Distant View Entrance
+475 m20_01_door_orphanage 2F_small
+1011 test_ door test
+1012 test_ door test
+300300 m30_00_door_mausoleum shortcut
+300301 m30_00_door_starting point
+300310 m30_00_door_castle wall shortcut
+300311 m30_00_door_beast room door
+300312 m30_00_door_one way
+300313 m30_00_扉_ Merchant B is fast
+300320 m30_01_door_old garden building
+300330 m30_01 Door in front of the twin prince room
+300370 m30_00_door_hall entrance
+300371 m30_00_door_mausoleum exit door
+300500 m30_00_lever_mausoleum front elevator
+300510 m30_00_lever_castle wall elevator
+302420 m34_01_lever_library elevator
+304873 m30_01_lever_hall elevator
+304874 m30_01_lever_gate
+310300 m31_00_door_sewer with key
+310301 m31_00_door_sewer one-way door
+310302 m31_00_door_sewage normal
+310310 m31_00_Door_Prison spider room One way
+310311 m31_00_Door_Prison Spider Room Normal
+310320 m31_00_door_front route building exit
+310500 m31_00_gate lever
+312100 m31_00_door_cage
+314027 m31_00_door_in front of the sniper tower
+314028 m31_00_door_giant elephant boss in front of the room
+324012 m32_00 lever_big bell
+324051 m32_00 Lever_Bridge Elevator
+329250 m32_00_door_tower with key
+330052 m33_00 Double door (provisional)
+331312 m33_00 Lever Poison Swamp Forest Elevator
+331321 m33_00 Double door in front of the boss
+332100 m33_00_door_shotoka
+340320 m34_01_door_old garden building
+340330 m34_01_扉_Book Stack Entrance
+341020 m34_01_ wax bathtub
+342100 m34_01_ wax bathtub (mini)
+342200 m34_01_ Moving bookshelf lever in the library
+350003 m35_00 lever_elevator
+350005 m35_00 Large door_Basilica on both sides
+350021 m35_00 Lever_shutter_front
+350022 m35_00 Lever_Shutter_Center
+350023 m35_00 Lever_Shutter_Innermost
+350206 m35_00 Dafei_The main entrance of the church
+350300 m35_00_ door
+351000 m35_00 Double door
+360320 m36_00 Double door in front of the middle boss
+360330 m36_00 Double door Shotoka
+370301 m37_00_door_boulevard back vacant lot
+370302 m37_00_door_garden building
+370303 m37_00_ Landmark Church Square
+370502 m37_00_ lever
+370508 m37_00_Anor main building entrance_lever
+381060 m38_00 Lifting door for Shotoka
+381080 m38_00 lever
+382002 m38_00 Double door for Shotoka
+390300 m39_00_ normal door
+390301 m39_00_iron fence door_outside
+390302 m39_00_iron fence door_inside
+390305 m39_00_ door One-way door
+390306 m39_00_ Door (Large) One-way door
+390310 m39_00_Atrium prison_Upper exit with key
+390320 m39_00_Atrium prison_Window with key
+390330 m39_00_Poison Swamp Ruins_Double Door
+390340 m39_00_ Normal door with key
+390350 m39_00_iron fence door_outside with key
+390360 m39_00_iron fence door_inside with key
+390500 m39_00_ Dungeon Shotoka Elevator
+400005 m40_00 Boss room door
+400340 m40_00_ Las Boss Room Door
+400510 m40_00_ lever
+10000 Default
+1300311 m30_00_door_castle wall shortcut 1
+2300311 m30_00_door_castle wall shortcut 2
+1000370 m96_00 Door Concept Map_Basilica Entrance
+1000371 m96_00 Door Concept Map_Distant View Entrance
+1314027 m31_00_door_in front of the sniper tower
+1324051 m32_00 Starting point gate_lever
+1400340 m40_00_ Las Boss Room Door
+2400340 m40_00_ Las Boss Room Door
+3400340 m40_00_ Sub-tower entrance door with key
+90000 FDP_Test_General-purpose door (double door)
+90001 FDP_test_door with key (double door)
+90002 FDP_test_internal key door
+90010 FDP_Test_General-purpose door (single door)
+90011 FDP_test_door with key (single opening)
+90012 FDP_test_inner key door (single opening)
+90013 FDP_test_playable operation check A
+90014 FDP_test_playable operation check B
+90015 FDP_test_playable operation check B
+90050 NTC_Test_Climb steep stairs / ladders
+90051 NTC_test_steep stairs / ladder down
+90060 NTC_For testing_Donden floor (folded back) Go up
+90061 NTC_For testing_Donden floor (folded back) Go down
+90065 NTC_For testing_Donden floor (go straight) Go up
+90066 NTC_For testing_Donden floor (go straight) Go down
+90070 NTC_Test_Don&#39;t return warp
+90071 NTC_Test_Don&#39;t return warp
+90075 NTC_for testing_plot twist
+90076 NTC_for testing_plot twist
+101050 Door of the temple
+109950 Boss room hidden tatami
+1100000 Honjo_Open window_Test
+205000 Temple_elevator
+205010 Temple_elevator_lever
+205011 Temple_elevator_lever
+205100 Temple_bell
+205101 Temple_Bell_Infinite Corridor
+252555 No Water _ Bell
+999900 Open the door_Koraimon_171
+999901 Open the door_Koraimon_170_Back
+999910 Open the door _ in front of you
+999911 Open the door_Small front_171
+999920 Open the door_large door_push
+999921 Open the door_large door_front
+999922 Open the door_Large door_Front_Infinite corridor
+999930 Open the door_Otemae_Key
+999940 Open the door _1st_ push
+999941 Open the door _1st_ front
+999945 Open the door _1st_push_one
+999946 Open the door _1st_push_one
+999950 Open the door_Kido
+999960 Open the door_middle door
+999970 Open the door_sliding door_table
+999971 Open the door_sliding door_back
+999975 Open the door_special_ prison door
+999976 Open the door_special_loophole door
+999980 Open treasure chest _ general purpose
+999985 Open treasure chest _ submerged
+999990 Open treasure chest _ underwater
+9620000 Placement money _360 °
+9620001 Placement money _180 °
+9990000 Aristocratic corpse
+9990900 Object and character update order test
+9991000 Missing test of the object_waiting
+9991001 Objet d&#39;art hit test_seesaw
+9991002 Object hit test_rotation
+9991003 Object white door test_for intrusion
+9991004 Object white door test_for release

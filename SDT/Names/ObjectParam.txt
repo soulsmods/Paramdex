@@ -1,0 +1,1090 @@
+0 Don&#39;t erase
+100 Item drawstring
+300 Blood smoke shinobi gaze shielding dummy
+1000 Falling ninja debug scaffolding
+1001 Destruction and anime debugging
+1400 Bai Fei _ small
+1401 Bai Fei_中
+1402 Bai Fei_Big
+1500 Plot twist door
+2000 Riding pine (turn left) _ Criteria
+2001 Riding pine (turn left) _ fall prevention
+2010 Riding pine (turn right) _ Criteria
+2011 Riding pine (turn right) _ fall prevention
+2020 Riding pine (S-shaped) _ standard
+2021 Riding pine (S-shaped) _ fall prevention
+2030 Riding pine (right L-shaped) _ standard
+2031 Riding pine (right L-shaped) _ fall prevention
+2040 Riding pine (from the ground) _ standard
+2041 Riding pine (from the ground) _ fall prevention
+2042 Riding pine (from the ground) _ hit
+2050 Riding pine (from the ground / large) _ standard
+2051 Riding pine (from the ground / large) _ fall prevention
+2052 Riding pine (from the ground / large) _ hit
+2100 Unable to ride pine (straight line) _ standard
+2110 Unable to ride pine (curve) _ standard
+2120 Unable to ride pine (swell) _ standard
+2500 Snow-covered pine that you can ride (turn left)
+2501 Snow-covered pine (turn left) _ fall prevention
+2510 Snow-covered pine that you can ride (turn right)
+2511 Riding snow-covered pine (turn right) _ fall prevention
+2520 Snow-covered pine (S-shaped)
+2521 Riding snow-covered pine (S-shaped) _ fall prevention
+2530 Snow-covered pine (L-shaped on the right)
+2531 Snow-covered pine (L-shaped on the right) _ fall prevention
+2540 Riding snow-covered pine (from the ground)
+2541 Riding snow-covered pine (from the ground) _ fall prevention
+2542 Riding snow-covered pine (from the ground) _ hit
+2550 Riding snow-covered pine (from the ground)
+2551 Riding snow-covered pine (from the ground) _ fall prevention
+2552 Riding snow-covered pine (from the ground) _ hit
+2600 Snow-covered pine that cannot be ridden (straight line)
+2610 Snow-covered pine (curve) that cannot be ridden
+2620 Snow-covered pine that can&#39;t ride
+2700 kite
+3000 Root (wire Pt)
+3001 Roots are all used _ fall prevention
+3010 Root (wire Pt)
+3020 Root (wire Pt)
+3100 Shachi (wire Pt)
+3110 Shachi (wire Pt)
+3150 Wooden shark (wire Pt)
+3160 Wooden shark (wire Pt)
+3200 Snake metal fittings
+3210 Snake metal fittings
+3250 Power God&#39;s nail hiding
+3500 Root (wire Pt)
+3510 Root (wire Pt)
+3520 Root (wire Pt)
+3600 Shachi (wire Pt)
+3601 Shachi (wire Pt) inversion
+3610 Shachi (wire Pt)
+3650 Wooden shark (wire Pt)
+3660 Wooden shark (wire Pt)
+3700 Fossil bone 1 (wire Pt)
+3710 Fossil bone 2 (wire Pt)
+4000 Katayo Jizo (Large)
+4010 Katayo Jizo (middle)
+4020 Katayo Jizo (Small)
+4500 [Snow] Jizo Katashiro (Large)
+4510 [Snow] Jizo Katashiro (middle)
+4520 [Snow] Jizo Katashiro (Small)
+5000 Checkpoint
+5200 Lower man large shield (destruction object)
+5210 Bandit Shield (Destruction Object)
+5220 Rappa Kikasa (Destruction Object)
+5222 [Tokugawa] Shura Samurai body black armor (peeled object)
+5223 [Tokugawa] Shura Samurai body red armor (peeled object)
+5224 Lower man body armor 01 (peeled object)
+5225 Lower man body armor 02 (peeled object)
+5300 Universal treasure chest
+5380 Bird&#39;s nest (low)
+5381 Bird&#39;s nest (low, no drawstring purse)
+5390 Bird&#39;s nest (for high and slope 15 °)
+5391 Bird&#39;s nest (for high and slope 30 °)
+5392 Bird&#39;s nest (for high and slope 45 °)
+5500 Checkpoint / snow
+6000 shop
+6500 Shop / snow
+7000 Nezasa
+7001 Nezasa (more)
+7002 Nezasa (less)
+7010 Fern
+7020 Miscanthus
+7021 Tall pampas grass
+7023 Miscanthus (specify angle)
+7024 Japanese pampas grass + tall Japanese pampas grass (angle designation)
+7026 Miscanthus
+7030 Carex lenta
+7040 Solidago virgaurea
+7050 Needlesa
+7060 Imperata cylindrica
+7070 Yabutachibana
+7071 Ardisia japonica
+7080 Kobanogamazumi
+7090 General purpose grass A
+7091 General purpose grass B
+7092 General purpose grass C
+7093 General purpose grass D
+7100 Withered grass_large
+7110 Hay_small
+7111 Dead grass _ large _ flat
+7120 Narcissus
+7130 Village Nezasa Set
+7140 Selaginella moell
+7150 Monotropastrum humilis
+7160 Fuchisou (angle designation)
+7170 Swertia japonica
+7200 Waterthyme
+7201 Waterthyme
+7202 Chromo (shallow)
+7210 Hanashobu (purple)
+7211 Hanashobu (white)
+7220 lotus
+7230 Withering lotus
+7240 moss
+7250 Akami moss
+7270 Stalagmite_Small
+7280 reed
+7281 Tall reeds (1 bunch)
+7282 Tall reeds (7 bunches
+7283 Underwater high reeds (less)
+7284 Underwater high reeds (more)
+7285 Underwater high reeds (more)
+7286 Hydrangea 01
+7287 Hydrangea 02
+7290 Algae
+7310 Syneilesis
+7300 Ramie
+7320 Ostrich Fern
+7330 Cattail
+7340 Completely dead lotus
+7350 Cliff grass
+7351 Cliff grass
+7352 Cliff grass_green
+7360 Underwater lotus
+7500 Nezasa
+7501 Nezasa (more)
+7502 Nezasa (less)
+7510 Fern
+7520 Miscanthus
+7521 Tall pampas grass
+7530 Carex lenta
+7540 Solidago virgaurea
+7550 Needlesa
+7560 Imperata cylindrica
+7570 Yabutachibana
+7571 Ardisia japonica
+7580 Kobanogamazumi
+7590 General purpose grass A (snow)
+7592 General-purpose grass (snow)
+7600 Withered grass_big (snow)
+7610 Withered grass_small (snow)
+7630 Set of Nezasa, Dwarf lilyturf and fallen leaves
+7660 Fuchisou (angle designation) / (snow)
+7800 Ramie (snow)
+9010 Straw doll scaffolding_right leg 0
+9011 Straw doll scaffolding_right leg 1
+9012 Straw doll scaffolding_right leg 2
+9013 Straw doll scaffolding_right leg 3
+9014 Straw doll scaffolding_right leg 4
+9015 Straw doll scaffolding_right leg 5
+9016 Straw doll scaffolding_right leg 6
+9017 Straw doll scaffolding_right leg 7
+9018 Straw doll scaffolding_right leg 8
+9019 Straw doll scaffolding_right leg 9
+9020 Straw doll scaffolding_left leg 1
+9021 Straw doll scaffolding_left leg 2
+9022 Straw doll scaffolding_left leg 3
+9023 Straw doll scaffolding_left leg 4
+9024 Straw doll scaffolding_left leg 5
+9025 Straw doll scaffolding_left leg 6
+9026 Straw doll scaffolding_left leg 7
+9027 Straw doll scaffolding_left leg 8
+9028 Straw doll scaffolding_right arm 0
+9029 Straw doll scaffolding_right arm 1
+9030 Straw doll scaffolding_right arm 2
+9031 Straw doll scaffolding_right arm 3
+9032 Straw doll scaffolding_left arm 1
+9033 Straw doll scaffolding_left arm 2
+9034 Straw doll scaffolding_left arm 3
+9035 Straw doll scaffolding_right arm 2
+9035 Straw doll scaffolding_left arm 4
+9036 Straw doll scaffolding_body 0
+9037 Straw doll scaffolding_body 1
+9038 Straw doll scaffolding_body 2
+9039 Straw doll scaffolding_body 3
+9040 Straw doll scaffolding_body 4
+9041 Straw doll scaffolding_body 5
+9042 Straw doll scaffolding_body 6
+9070 For hit-and-miss verification
+9990 Suspended corpse (FDPo319180)
+9530 General purpose _ small B (usually)
+9540 General-purpose door_medium (normal)
+9541 General-purpose door_middle (with bar)
+9550 General-purpose door_large (normal)
+9551 General-purpose door_large (with bar)
+9560 General-purpose door_extra large (normal)
+9561 General-purpose door_extra large (with bar)
+101000 Boss room door
+101020 Three-storied pagoda door
+101050 Toki Buddhist temple door
+101070 Yaguramon door
+101100 Plot twist door
+103000 boat
+104000 salary
+104050 Spear stand
+104060 Sword rack
+104090 Tsuitate (wood grain)
+104100 machine
+104110 Walker
+104120 Threatened
+104130 Two gradations and one tool
+104140 Kitchen shelves
+104150 Mirror table
+104160 Machine_small
+104170 Clothes
+104171 Clothes
+104172 Clothes
+104180 Zhuzha
+104181 Zhuzha_3 section
+104182 Zhuzha_3 Section_Break
+104190 Bamboo fence_diagonal 30 degrees
+104191 Bamboo fence_diagonal 30 degrees_destroy
+104192 Bamboo fence_diagonal 30 degrees_destroy
+104193 Zhuzha_Low
+104200 Vase_with letter
+104201 Rolling paper alone
+104210 Vase
+104220 thallium
+104230 thallium
+104240 screen
+104250 Vase_with cassotte
+104260 Vase_without lid
+104300 Barrel_open lid
+104310 Barrel_closed lid
+104350 barrel
+104370 Hand barrel
+104380 Bucket (large)
+104390 Fat bucket
+104400 Destructed bamboo
+104410 Destructed bamboo
+104420 Destructed bamboo
+104430 Bamboo shoots _ small
+104440 Bamboo shoots_large
+104450 Bamboo_Broken
+104460 Broken bamboo
+104500 Daihachiguruma
+104501 Daihachiguruma_Luggage
+104502 Daihachiguruma_Luggage_茣 蓙
+104503 Big Eight Car_Bamboo
+104510 Daihachiguruma_destroy
+104511 Daihachiguruma_Luggage_茣 蓙_Destroy
+104630 Gyo Lee _ open lid
+104640 Luggage_Second Section
+104650 Bamboo basket
+104660 With basket charcoal
+104661 With basket bamboo shoots
+104680 Laundry
+104700 cabinet
+104701 cabinet
+104702 Chest alone
+104710 cabinet
+104711 cabinet
+104720 Paint_box
+104721 Paint_box
+104750 sake bottle
+104760 Deli _ pour
+104770 Props
+104771 Props 2
+104780 Book pile
+104781 Book pile
+104790 hearth
+104800 shelf
+104801 Shelf_for walls
+104802 Shelf_2 steps
+104803 shelf
+104804 Bookshelf_small
+104810 Shoji 01
+104811 Shoji 02
+104812 Shoji
+104813 Shoji
+104814 Shoji
+104815 Shoji
+104820 Fusuma single unit 01
+104830 Fusuma single unit 02
+104840 Fusuma single size 01
+104850 Fusuma single size 02
+104860 Fusuma single large foil 01
+104870 Fusuma single large foil 02
+104880 Fusuma picture 01
+104881 Fusuma picture 02
+104882 Fusuma picture 03
+104883 Fusuma picture 04
+104890 Zhu Fei
+104900 Armor warrior
+105100 cadaver
+105200 Corpse_servant man
+105210 Corpse_servant woman
+105211 Corpse_servant woman
+105220 Corpse_Samurai
+105221 Corpse_Samurai
+106000 High light stand
+106010 High light cup table
+106010 Hanging lantern
+106050 bonfire
+106060 Torch plate
+106070 Candlestick
+106051 Bonfire (without charcoal)
+106100 Stone lamp 1
+106150 fire
+106220 Gao Shu _ small
+106221 Straw bundle_burning_small
+106225 Straw bundle _ Takebayashizaka event
+106226 Straw bundle _ Takebayashizaka event
+106227 Straw bundle _ Takebayashizaka event _ Hit only _ Damage judgment
+106228 Straw bundle _ Takebayashizaka event _ Hit only _ Damage judgment
+106229 Straw bundle _ Takebayashizaka event _ Hit only
+106230 Straw bundle _ Takebayashizaka event _ Hit only
+106300 Lily bundle (large)_usually
+106301 Gao Shu (Large)_The Truth
+106310 Gao Shu (middle)_usually
+106311 Gao Shu (middle)_truth
+106320 Gao Shu (small)_usually
+106321 Gao Shu (Small)_The Truth
+106400 Burnt tree_normal
+106401 Burning tree_truth
+106500 Flame entrance_door_closed_normal
+106501 Flame entrance_door_open_truth
+107000 Wire point for bridge
+107010 Shachi wire point
+107020 Thatched wire point
+107100 Reien_well
+108000 Falling beam for cutscenes 1
+108010 Falling beam for cutscenes 2
+108020 Falling beam for cutscenes 3
+108100 Big Buddha for cutscenes
+109050 Falling beam
+109100 Flame entrance gate (normal)
+109101 Flame entrance gate (burning)
+109150 Fence of the burning entrance (normal)
+109151 Fence of the burning entrance (burning)
+109800 Falling beam _ small
+109850 Falling beam _ small
+109910 Burning pillar
+109920 Burning pillar
+109930 Burning pillar
+109950 tatami
+109990 Character test object
+111100 Hidden prison_Tsukimi turret door
+111200 Twisting door (Kakejiku)
+111300 Koraimon_Latch
+111310 Huoniuchang Gate
+111320 Gate with a bar (castle entrance)
+111330 Battlefield door
+113370 Wood for dead end in Jaya
+111400 Koraimon_Latch
+111410 Middle door_push open
+111500 Indoor door with a bar (entrance room)
+111510 General-purpose door
+111520 Door for attacking Tokugawa (for Koguchi only)
+111540 Downhill door
+111550 Fire cow square door
+111600 Big jacket 1
+111610 Big jacket 2
+111620 Big jacket 3
+111630 Big jacket 4
+111650 Set of 2 large sliding doors
+111750 Shoji
+111810 Single swing sliding door
+111850 Double swing sliding door
+111860 Tower door
+111900 Locked window
+112400 Bamboo 0
+112410 Bamboo 1
+112420 Bamboo 2
+112430 Bamboo 3
+112440 Bamboo diagonal
+112700 Hosoki
+112710 Autumn leaves
+113000 Stone (small)
+113001 Stone (middle)
+113002 Stone (Large)
+113010 Small five-wheeled tower
+113100 Home Front Flag_White
+113110 Headquarters flag_black
+113120 Headquarters flag_Assault flag
+113200 Separation Formation Flag_Red (Small Deterioration)
+113201 Separation Formation Flag_Red (Deteriorating)
+113202 Separation Formation Flag_Red (Great Deterioration)
+113210 Division flag_white (small deterioration)
+113211 Separation Array Flag_White (Deteriorating)
+113220 Division of Family Flag_Fine Troops
+113300 Hand-held flag_yellow (small deterioration)
+113301 Hand-held flag_yellow (deteriorating)
+113302 Hand-held flag_yellow (large deterioration)
+113310 Hands-on flag_black
+113320 Hands-on flag_black and white
+113360 When Tokugawa invades _ Honjin fence
+113370 When Tokugawa attacks _ Breakthrough prevention fence 0
+113371 When Tokugawa attacks _ Breakthrough prevention fence 1
+113372 When Tokugawa attacks _ Breakthrough prevention fence (low)
+113373 When Tokugawa attacks _ Breakthrough prevention fence (door)
+113380 Hanging prevention fence_for stairs (7 on the right)
+113381 Hanging prevention fence_for stairs (3 on the left)
+113382 Hanging prevention fence_for stairs (4 on the left)
+113390 Hanging prevention fence_for stairs (6 on the right)
+113391 Hanging prevention fence_for stairs (6 on the left)
+113392 Hanging prevention fence_for stairs (4 on the right)
+113393 Hanging prevention fence_for stairs (3 on the left)
+113398 Hanging prevention fence_for low steps (6)
+113399 Hanging prevention fence_for low steps (3)
+113400 掻楯
+113401 Shield (damaged)
+113402 Shield (collapse)
+113403 掻楯 (for setting up)
+113404 When Tokugawa invades _ Shield (iron _ for leaning)
+113405 Bed table
+113406 When Tokugawa attacks _ Shield (iron)
+113407 When Tokugawa invades _ Shield (iron _ high)
+113410 fence
+113411 fence
+113412 fence
+113413 fence
+113414 fence
+113415 fence
+113416 fence
+113417 fence
+113418 Mucha (Spinning)
+113420 Hand barrel
+113430 Long spear (with lid)
+113431 Long spear (without lid)
+113440 Pail (with lid)
+113450 A table with a shield laid down
+113451 Table with a shield laid down (shield removed)
+113460 Stone oven
+113470 carbon
+113480 Goza
+113490 Pail (without lid)
+113500 A turret that the boss can break
+113501 A turret that can be broken by the boss A_ Fall prevention hit
+113510 Tower B that the boss can break
+113511 Boss can break turret B_ fall prevention hit
+113515 Legs for extension of turret B that the boss can break
+113521 Lower turret
+113522 Upper turret
+113530 Temporary camp that the boss can break
+113540 At the time of the Tokugawa invasion_temporary turret
+113550 Jinnai hut A
+113560 Jinnai hut B
+113570 Jinnai hut C
+113580 Jinnai stand
+113600 Stand
+113610 Shelf A
+113611 Shelf B
+113630 Bamboo tube
+113631 Bamboo tube (horizontal)
+113640 Bolt (seat firmly)
+113650 map
+114000 Bookshelf
+114001 Bookshelf_small
+114010 Bookshelf_extra large
+114050 Spear stand
+114100 machine
+114110 Walker
+114120 Elbow rest
+114130 Two gradations and one tool
+114140 Kitchen shelves
+114150 Mirror table
+114160 Machine_small
+114180 Zhuzha
+114181 Zhuzha_3 section
+114182 Zhuzha_3 Section_Break
+114190 Bamboo fence_diagonal 30 degrees
+114191 Bamboo fence_diagonal 30 degrees_destroy
+114192 Bamboo fence_diagonal 30 degrees_destroy
+114193 Zhuzha_Low
+114200 Pot_Lid, handle and scoop
+114210 Vase_without lid
+114240 screen
+114241 screen
+114250 Tsuitate A
+114251 Tsuitate B
+114255 Tsuitate (wood grain)
+114260 Cushion (Goza)
+114270 Vase with lid
+114280 Large jar
+114290 Japanese cushion
+114300 Barrel_open version
+114310 Barrel_closed version
+114350 barrel
+114351 barrel
+114370 Hand barrel
+114380 Bucket (large)
+114400 Flag_white
+114410 Flag_black
+114400 Flag_white_destroy
+114410 Flag_white_destructive strength
+114450 Bamboo_Broken
+114500 pot
+114501 Vase (lid stand)
+114502 Vase size (with lid and cassotte)
+114503 pot
+114505 Pot size (with shimenawa)
+114506 Amulet pot (large)
+114507 Amulet pot (small)
+114508 Vase (with Sakaki)
+114510 Wine vessel
+114511 Wine vessel
+114512 Sake set and cup
+114515 Medicine box
+114520 Tea set
+114525 Tea set
+114530 brazier
+114531 brazier
+114533 brazier
+114540 salary
+114541 Firewood (with snow)
+114560 gun
+114565 Spear (for wall hanging)
+114570 gun
+114575 Bow stand
+114580 Daihachiguruma
+114585 Daihachiguruma (with corpse)
+114590 Daihachiguruma (broken)
+114595 Daihachiguruma
+114630 Ma Yin
+114640 Flamethrower stacking
+114641 Flamethrower stacking (low)
+114650 Bamboo basket
+114655 Bamboo basket (large)
+114660 With basket charcoal
+114661 With basket bamboo shoots
+114670 cannon
+114680 arms
+114690 Wheel iron
+114700 General purpose cabinet (1 section)
+114701 General-purpose chest (1 step) version difference
+114702 Guiji
+114710 General purpose cabinet (2 sections)
+114711 General-purpose chest (2 steps) version difference
+114712 General purpose cabinet (1 section)
+114720 General-purpose chest (1 step) Small version
+114730 Paint_box
+114731 Lacquer _ box (open)
+114740 Non-destructive box
+114741 Non-destructive box (with flame radiation)
+114750 Gunpowder box
+114760 Shop box
+114765 Shop box
+114770 Crate pile
+114780 Book pile
+114781 Book pile
+114785 Book pile (large)
+114800 Falling rocks (snow)
+114801 Falling rocks
+114805 Falling Rock + Soil
+114806 Falling rocks + soil (snow)
+114809 Rockfall (hanging)
+114810 Falling snow
+114820 Shiji
+114900 Samurai armor
+114901 Samurai armor
+114902 Samurai armor
+114903 Samurai armor
+114904 Samurai armor
+114905 Samurai armor
+114906 Samurai armor
+114910 Censer of sacred treasure
+114920 vase
+114930 The size of the sword
+114940 Three-legged
+114950 screen
+114960 Deer horn bundle
+114990 hanging scroll
+115300 Aristocratic corpse
+115400 Litter (OBJ that hides the valley)
+115410 Takebashi (short)
+115411 Takebashi (short) _ fall prevention
+115420 Takebashi (middle)
+115421 Takebashi (middle) _ fall prevention
+115430 Takebashi (Large)
+115431 Takebashi (Large) _ Fall prevention
+115440 Takebashi (middle) 1_root
+115441 Takebashi (middle) 1_root_fall prevention
+115450 Takebashi (middle) 2_root
+115451 Takebashi (middle) 2_root_fall prevention
+115460 Takebashi (middle) 3_root
+115461 Takebashi (middle) 3_root_fall prevention
+115470 Takebashi (middle) 4_root
+115471 Takebashi (middle) 4_root_fall prevention
+115480 Takebashi (Large) 1_Root
+115481 Takebashi (Large) 1_Root_Fall prevention
+115490 Takebashi (Large) 2_Root
+115491 Takebashi (Large) 2_Root_Fall prevention
+115500 Root (wire point)
+115510 Root (wire point)
+115520 Root (wire point)
+115550 Snake metal fittings 1
+115560 Snake metal fittings 2
+115600 Power God&#39;s nail hiding
+115700 Wooden Shachihoko (Large)
+115710 Wooden shachihoko (small)
+115720 Iro turret_Gathering hand (decoration)
+115730 Jinglou _ bed (nail)
+115750 Decorative tile _ large
+115760 Decorative tile_small
+115790 Giant Shachihoko
+115800 Burning straw bundle (large)
+115810 Burning straw bundle (middle)
+115820 Burning straw bundle (small)
+115830 Burning Tokugawa corpse
+115840 Burning wood
+115850 Burning straw bundle (for hidden prison only)
+115921 Corpse of the lonely people_hit
+115923 Corpse of the lonely people_hit
+115980 Roof guidance OBJ
+116000 bonfire
+116010 Hanging bonfire
+116020 Suspended bonfire (half destroyed)
+116050 Bonfire with pot
+116051 Bonfire with pot
+116060 Wolf smoke
+116100 Torch plate (with stand)
+116101 Torch plate (with stand) (for prince only)
+116110 Candlestick
+116120 Torch plate
+116140 High light stand
+116210 Stone lantern
+116300 Stone lantern_castle
+116310 Stone lantern_castle
+116320 Stone lantern_castle
+116220 Gao Shu
+116501 Daihachiguruma_Luggage
+116600 Fishing lantern (without cross)
+116601 Fishing lantern (with cross)
+116602 Fishing lantern (with cross_short)
+116710 Stone lantern (indoor)
+117000 Hikibashi
+117020 Invasion of Tokugawa_Floor of the main team
+117200 Stone
+117600 Well lid_open
+117601 Well lid _ closed
+118200 dead tree
+118201 dead tree
+118202 dead tree
+118203 dead tree
+118204 dead tree
+118300 Kushanshuiyan
+118301 Kushanshuiyan
+118302 Kushanshuiyan
+118500 Door to loophole
+118170 Sentence to drop towards the hero OBJ (hidden prison)
+133000 Stone (small)
+133001 Stone (middle)
+133002 Stone (Large)
+134200 Pot_Lid, handle and scoop
+134210 Vase_without lid
+134290 Pot_worm
+134300 Barrel_open version
+134310 Barrel_closed version
+134350 barrel
+134370 Hand barrel
+134380 Bucket (large)
+134390 Offering meal
+134450 Bamboo_Broken
+134460 Door_ jail
+134501 Daihachiguruma_Luggage
+134510 Wine vessel
+134511 Wine vessel
+134540 salary
+134650 Bamboo basket
+134660 With basket charcoal
+134661 With basket bamboo shoots
+134700 Saw A
+134701 Saw B
+134702 Saw C
+135100 Experimental zombie
+136000 bonfire
+136010 Hanging lantern
+136100 Torch plate
+136110 Torch plate stand
+136200 Stone lamp 1
+136210 Stone lamp 2
+136250 Stone lamp (shrine)
+136450 Incense stick (without light)
+136455 Incense stick (with light)
+136460 Incense stick_bundle (without light)
+136465 Incense stick_bundle (with light)
+151000 Shrine door
+153000 boat
+154000 Firewood
+154010 Firewood (Takigi) _ single unit
+154100 Libra
+154110 Fat bucket
+154120 Censer of Araji Temple
+154200 Pot_Lid, handle and scoop
+154201 Vase_without lid
+154210 Vase_without lid
+154300 Barrel_open version
+154310 Barrel_closed version
+154320 Barrel_Large
+154350 barrel
+154360 Barrel_Blood Stain め布付
+154370 Hand barrel
+154500 Daihachiguruma
+154510 Daihachiguruma_destroy
+154600 Basket_with charcoal
+154620 Bamboo basket with persimmon
+154630 With a lid
+154650 Basket_cocoon
+154640 Season_Second Section
+154700 sake bottle
+154710 Deli _ pour
+154750 hearth
+154800 shelf
+154809 Stupa destruction
+154810 Zutapo
+154811 General-purpose fence
+154812 Zhuzha
+154813 Zhuzha
+154814 General-purpose fence_destruction
+154815 General-purpose fence_destruction
+154816 Bamboo fence_destroy
+154817 Gate_cave
+154818 Fence_cave_destroy
+154819 Zhuzha_Saka with 15 degrees
+154820 Zhuzha_Saka with 15 degrees
+154900 Offerings
+154910 Vase with lid
+154950 screen
+155000 Monk corpse
+155010 Monk corpse
+155020 Instant
+155030 Upside-down hanging corpse of a monk
+155040 Sukekiyo
+155041 Sukekiyo
+155042 Sukekiyo
+155100 Donden floor
+155200 Disliked House_Rock
+155210 Disliked house_fallen tree
+155220 Wire point for thatched roof
+155230 Saw sickle wire point
+155300 Meppajiki
+155400 Artifact
+155500 Pot_for conversation
+156000 fire
+156100 Torch plate
+156110 Torch plate stand
+156111 Torch plate stand
+156150 Candlestick (small)
+156160 Candlestick (large)
+156170 Fishing lantern
+156300 lantern
+156310 General-purpose light source_with lid
+156320 General-purpose light source_closed lid
+156350 Shrine_with red cloth
+156400 Gomadan
+156500 Cricket cage
+156820 Shelf_for walls
+157000 Mofu cloth
+157001 Mofu cloth
+157002 Mofu cloth
+157200 Canopy (swaying)
+157300 Hanging corpse
+158000 Woven Wood
+158100 Public opinion
+158110 Litter_after destruction
+158200 Trees for cutscenes
+159020 Rough Temple_Floor
+159030 Rough Temple_Floor_After the illusion is released
+159100 For ladder test
+174100 incense burner
+174300 Flame glass barrel (closed lid)
+174301 Flame glass barrel (open lid)
+174310 塩nitrate wooden box A
+174311 塩nitro wood box B
+174330 Light box
+174340 Flint box
+174350 Roasted Jade
+174400 barrel
+174410 Hand barrel
+174700 General purpose cabinet (1 section)
+174800 Falling rocks
+174805 Falling Rock + Soil
+174806 Falling rocks + soil (snow)
+174850 Soil (snow)
+174540 salary
+174550 Thallium
+174551 Thallium
+174560 Vase with lid
+174561 Shimenawa pot A
+174562 Shimenawa pot B
+175000 Suspension bridge (for hits)
+175100 Suspension bridge (for events)
+175101 Suspension bridge (for events, for broken)
+175200 Geyser
+175300 Company door
+175400 Stone (Large)
+175500 Root for valley bottom (wire point)
+175510 Root for valley bottom (wire point)
+175520 Root for valley bottom (wire point)
+175600 The root standard of the sacred tree that cannot be ridden
+175610 The root standard of the sacred tree that cannot be ridden
+175620 The root standard of the sacred tree that cannot be ridden
+175700 Company wall (for events)
+175701 Company wall_after destruction (for events)
+175800 Dead tree (wire point)
+175810 Dead tree (wire point)
+175900 Bodhisattva crack (wire point)
+175901 Bodhisattva crack (wire point) (thin)
+175910 Bodhisattva crack (wire point)
+175911 Bodhisattva crack (wire point) (thin)
+176000 bonfire
+176010 Hanging lantern
+176020 Hanging lantern (half destroyed)
+176050 Bonfire with pot
+176100 Candlestick
+176110 Candlestick
+176120 Torch plate
+176125 Torch plate (summary for rock cave)
+176140 Torch pottery
+176141 Torch pottery
+176200 Shrine (snow)
+176210 temple
+177100 Valley Enemy Weapon_Shotgun
+177110 Valley Enemy Weapon_Cannon
+177120 Valley Enemy Weapon_Gun
+177130 Valley Enemy Weapon_Gun (Normal)
+177700 Carp carp
+177800 Sacred Lotus
+177900 Snake liver
+201000 Main hall door
+201010 The door that connects the hidden hall and the main hall
+201020 Five-storied pagoda door
+201030 Bell tower door
+201040 Light source room door
+201050 The front door of the hidden hall
+202000 Maple that can ride
+202010 Maple that can ride
+203000 Tongtianqiao_蔀度
+203001 Tongtianqiao_蔀度_开き
+203002 Tongtianqiao_蔀度_lower part
+203005 Tsutenbashi_railing
+203010 windmill
+203020 Windmill (white)
+203030 Windmill (red and white)
+203100 Bodhisattva statue set
+204100 Fire censer
+204105 Platform set
+204106 Platform set
+204110 incense burner
+204120 incense burner
+204260 pot
+204270 Vase with lid
+204280 Worm Pot
+204290 Hanging insect jar
+204291 Hanging insect jar
+204500 Bookshelf
+204700 cabinet
+204710 経机
+204715 経机 (meat slices)
+204720 Sutra box
+204730 Bamboo basket
+204781 Book pile
+204782 Book pile
+204790 Scroll set
+204800 Gomadou_Folding screen
+204801 Gomadou_Folding screen
+204810 Infinite corridor _ screen _ before breaking
+204811 Infinite Corridor_Screen_After breaking
+204820 Screen _ 撃破前_■□□□
+204821 Screen_撃破前_□■□□
+204822 Screen_撃破前_□□■□
+204823 Screen_撃破前_□□□■
+204830 Screen_After breaking_■□□□
+204831 Screen_After breaking_□■□□
+204832 Screen _ After breaking _□□■□
+204833 Screen_After breaking_□□□■
+204850 Hidden main hall_altar object
+204851 Hidden main hall_altar object
+205000 Elevator
+205010 Elevator_lever
+205100 bell
+205101 Bell_for infinite corridor
+205300 kite
+205550 Hanging lantern_for events
+205570 Stage equipment_for events
+205600 Kuri_folding screen
+205700 Poster
+205900 Instant
+205910 Immediately (purple)
+204801 Gomadou_Folding screen
+206000 Stone lamp
+206010 High glass lampstand
+206020 High light stand
+206030 Torch plate
+206040 With candlestick
+206050 Desktop candlestick
+206051 Desktop candlestick (small)
+206052 Desktop candlestick (small) _ for children only
+206060 Candlestick for the main hall
+206070 Hidden main hall_candlestick (large)
+206071 Hidden main hall_candlestick (small) set
+206080 bonfire
+206100 Fishing lantern
+206101 Fishing lantern (without light source)
+206110 Fishing lantern
+206111 Fishing lantern (without light source)
+206150 Hand-held candlestick
+206160 Hidden main hall_handheld candlestick
+206200 Bodhisattva
+206300 Mark object
+207000 Instant
+207100 Roof general purpose wire point
+207110 Indoor general purpose wire point
+207300 Human canopy
+208000 Redo bell
+208100 Immortal Slash Box
+208200 Hidden main hall 2 tatami mats
+208210 Hidden main hall cushion
+208300 Immortal sword and a stand to put a box on
+208500 Prince pillow
+208600 Trees for cutscenes
+251000 Rear door
+251100 Rear door
+252000 Riding cherry blossoms (turn left)
+252001 Riding cherry blossoms (turn left) _ fall prevention
+252010 Riding cherry blossoms (turn right)
+252011 Riding cherry blossoms (turn right) _ fall prevention
+252020 Riding cherry blossoms (S-shaped)
+252021 Riding cherry blossoms (S-shaped) _ fall prevention
+252030 Riding cherry blossoms (L-shaped on the right)
+252031 Riding cherry blossoms (L-shaped on the right) _ fall prevention
+252040 Riding cherry blossoms (from the ground)
+252041 Riding cherry blossoms (from the ground) _ fall prevention
+252042 Riding cherry blossoms (from the ground) _ hit
+252050 Riding cherry blossoms (from the ground / large)
+252051 Riding cherry blossoms (from the ground / large) _ fall prevention
+252052 Riding cherry blossoms (from the ground / large) _ hit
+252200 Maple (wire point)
+252201 Maple (wire point)
+252202 Maple (wire point)
+252203 Maple (wire point)
+252212 Maple (wire point)
+252213 Maple (wire point)
+252550 Genpei Warrior Corpse Mask
+252551 Genpei Warrior Corpse Masks (Multiple)
+25300 Bullock cart
+253100 Insect cage (cylinder)
+253110 Insect cage (box type)
+253500 Underwater corridor (roof) that carp breaks
+253510 Underwater corridor broken by carp (wall with window)
+253520 Underwater corridor (wall) that carp breaks
+253530 Underwater corridor (floor) destroyed by carp
+253600 Underwater turret that carp breaks (above)
+253610 Underwater turret that carp breaks (bottom)
+254000 screen
+254001 Folding screen (broken)
+254002 Folding screen
+254003 Screen (Weng Long left)
+254004 Screen (Weng Long right)
+254005 Folding screen (Okina Dragon left) _ tilt
+254006 Folding screen (Okina Ryu right) _ tilt
+254000 Screen (small)
+254010 A few accounts
+254020 screen
+254050 screen
+254051 Folding screen (Okina Ryu left) _ Damaged
+254052 Screen (Weng Long right)_Damaged
+254100 Clothes string
+254110 Upstairs shelf
+254120 Nekoji mirror stand
+254130 Horny
+254140 Tang Zhiji
+254150 Bow stand
+254151 Bow stand (desk only)
+254200 Tang Cabinet
+254270 Vase with lid
+254300 Fortune-telling set A
+254310 Fortune-telling set B
+254350 Sake set
+254900 Maple branch
+254901 Maple branch
+254902 Maple branch
+255000 Taikobashi that carp breaks
+255001 Only hits on the floor of the drum bridge that the carp breaks
+255500 Bell calling a carp
+255110 Parasitic cherry blossoms (large)
+255600 Decorative tile (Pt)
+255610 Parasitic cherry blossoms
+256000 Stone lamp 1
+256010 Stone lamp 2
+256020 Hanging lantern
+256030 Hanging incense burner
+256100 High lighthouse
+256110 High cup lighthouse
+259900 Mermaid Dragon_Hit Only Object
+259910 Mermaid Dragon_Seven-Branched Sword Attached Object
+259911 Mermaid Dragon_Hit Only Object
+259912 Mermaid Dragon_Fall Prevention Hit
+259920 Mermaid Dragon_Hit Only Object
+259921 Mermaid Dragon_Hit Only Object
+259922 Mermaid Dragon_Hit Only Object
+259923 Mermaid Dragon_Fall Prevention Hit
+259924 Mermaid Dragon_Fall Prevention Hit
+259925 Mermaid Dragon_Fall Prevention Hit
+950010 Ogawa test door
+950100 Water drop test door
+959000 Tsukamoto test
+959010 Bank test
+961500 Exit door of the Great Buddha Hall
+961598 Great Buddha Hall Exit Door Test 2
+961599 Great Buddha Hall Exit Door Test 1
+963000 Stone (small)
+963001 Stone (middle)
+963002 Stone (Large)
+964450 barrel
+964451 barrel
+964500 pot
+964501 Vase (lid stand)
+964502 Vase size (with lid and cassotte)
+964510 Wine vessel
+964511 Wine vessel
+964512 Wine vessel
+964530 brazier
+964540 salary
+964560 gun
+964570 gun
+964580 Daihachiguruma
+964590 Daihachiguruma (broken)
+964700 General purpose cabinet (1 section)
+964701 General-purpose chest (1 step) version difference
+964710 General purpose cabinet (2 sections)
+964711 General-purpose chest (2 steps) version difference
+964800 Falling rocks
+964805 Falling Rock + Soil
+964806 Falling rocks + soil (snow)
+964810 Falling snow
+964820 Shiji
+964900 Maple branch
+964901 Maple branch
+964902 Maple branch
+965200 Suspension bridge (FDP transplant)
+965210 Suspension bridge (for hits)
+965220 Suspension bridge (for events)
+965300 Aristocratic corpse
+965400 Litter (OBJ that hides the valley)
+965500 Root (wire point)
+965510 Root (wire point)
+965520 Root (wire point)
+965550 Snake metal fittings 1
+965560 Snake metal fittings 2
+965600 Power God&#39;s nail hiding
+965700 Wooden Shachihoko (Large)
+965710 Wooden shachihoko (small)
+965800 Shachihoko (Large)
+965810 Shachihoko (Small)
+965900 Parade
+966000 bonfire
+966050 Bonfire with pot
+966051 Bonfire with pot
+966060 Wolf smoke
+966100 Candlestick
+966110 Candlestick
+966210 temple
+969000 Nezasa
+969001 Nezasa (more)
+969002 Nezasa (less)
+969010 Fern
+969020 Miscanthus
+969021 Tall pampas grass
+969030 Carex lenta
+969040 Solidago virgaurea
+969050 Needlesa
+969060 Imperata cylindrica
+969070 Yabutachibana
+969071 Ardisia japonica
+969080 Kobanogamazumi
+969900 Nezasa (with a lot of collisions)
+999999 Default

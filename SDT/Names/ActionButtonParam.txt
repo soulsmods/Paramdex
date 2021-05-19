@@ -1,0 +1,300 @@
+0 Test 0
+1 Test 1
+1000 Regain lost life
+1010 Take a life
+1020 Read the tombstone
+2000 Read the letter (summon)
+2001 Read the letter (summon a red sign)
+2010 Check your letter (summon)
+3000 Read the letter (blood letters)
+3010 Check your letter (blood letters)
+4000 Pick up an item
+4050 Pick up items (for water surface)
+4100 Scour the corpse
+4200 Purse _360 °
+4201 Purse _180 °
+4210 Underwater purse _360 °
+4211 Underwater purse _180 °
+4215 Underwater purse _360 ° _for shallow water_used in sick village
+4220 Squeeze a purse in a high place _360 °
+4300 Take the treasure
+4400 OK
+5000 Climb the ladder
+5010 Ladder
+5020 Stick
+5030 Hanging
+5031 Hanging
+5040 Grab the clouds
+5100 Ritual: grab
+5110 ceremony
+5111 Ritual: Level up
+5112 Ritual: Reassign status
+5113 Ritual: Reset the deceased
+5114 Ceremony: Atonement
+5115 Ceremony: Call of NPC Baiji
+5116 Ritual: Bomb
+5117 Ceremony: Intrusion prohibited
+6000 talk
+6001 Conversation skip
+6010 Talk _ Exploration Shop
+6100 Light a bonfire
+6101 Rest on a bonfire
+6900 Talk _ For Buddhist sitting posture
+6910 Talk to the Chief of the Ninja Army_Samurai Residence
+6920 Talk _ Fallen Warrior _ Combat Tutorial For Characters
+7100 Open the door_general purpose
+7101 Open the door_General-purpose 101 standard
+7110 Close the door_general purpose
+7200 Open the door_general purpose (guest invalid)
+8000 Open the treasure chest
+8010 Open the treasure chest
+8020 Open the underwater treasure chest
+8100 Open the door_lift
+8200 Activate the gimmick
+8300 Activate the lever
+8310 Activate the lever Ojo 1 Vertical lever
+8500 Enter the wall of light (test)
+8501 Enter the wall of light (test 2)
+8900 Pull out the sword from Gunda&#39;s grave marker
+8901 Pull out the sword from Gunda&#39;s grave marker 2
+8910 Simple bonfire message
+8920 Open the door_back side
+9000 For events
+9010 Event FDP Playable Version_Kneeling on the Evil Spirit
+9011 Event FDP Playable Version_Seal the Evil Spirit
+9100 Warp from the event base
+9101 Warp from the event base to the last boss
+9200 Examine (for kicking off the shrine)
+9300 m37_Anor Rotating Bridge_Lever (right side)
+9301 m37_Anor Rotating Bridge_Lever (left side)
+9320 m38 Abandoned city varistor rotary lever (right side)
+9321 m38 Abandoned city varistor rotary lever (left side)
+9400 Messenger tombstone (not ignited)
+9401 Messenger tombstone (ignited) * Text difference
+9410 Messenger tombstone (not ignited)
+9411 Messenger tombstone (ignited) * Text difference
+9500 Enter the litter
+9501 Get out of the litter
+9600 Open the general-purpose door_170
+9601 Open the general-purpose door _ ??? Infinite corridor
+9610 Open the general-purpose door_171
+9700 Steep ladder / stairs_climb
+9701 Steep ladder / stairs _ get off
+9710 Donden floor (folded back) _ goes up
+9711 Donden floor (folded back) _ go down
+9715 Donden floor (go straight) _ go up
+9716 Donden floor (go straight) _ go down
+9720 Nishikigoi _ feeding
+9730 Receive the prince _ sword
+9740 Money box _ check
+9750 Cutscene test
+9800 NPC Tutorial_Fog Wall
+9810 Illness Village_The innermost portable shrine
+9811 Sick village _ innermost portable shrine _ after destruction
+9820 Submerged city_pillar of light
+9821 Submerged City_Immortal Priestess
+9850 To Prince_ED
+9860 Examine the incense
+9861 Burn incense
+962000 Eavesdropping_parachute
+962010 Eavesdropping_white slave
+962020 Eavesdropping_destination
+962030 Eavesdropping_Exploration Shop
+962040 Eavesdropping_Flame Suggestions
+962050 Eavesdropping_Hidden prison (corresponding to the end of 11)
+1000200 Door of the temple_prepared ax
+1000670 Boss room hidden tatami
+1100000 Honjo_window
+1100010 Medical Holy Daughter_Receive Night Eyes
+1100020 Buddha statue at Araji Temple_Butterfly
+1100021 Buddha statue at Araji Temple_The truth
+1100022 Buddha statue at Araji Temple_Examine
+1100030 Mido poster
+1100031 Ninja loophole
+1100040 Wrathful Demon Buddha
+1100050 Battlefield ruins closed
+1100060 Lightning scroll hanging scroll
+1100070 Castle_Small castle tower_Skill grandfather&#39;s bookkeeping
+1100080 Guide to Honjo_Meditation Room_Library
+1100090 Sick Village_Dwelling Stone Altar
+1110000 About material_flower
+1110010 About material_calculus
+1110020 About the material_Koki
+1120000 Loopway door
+1300000 Stone monument in front of the seven-sided warrior
+1500000 Pick up items_calculus
+1778000 Pick up items _ Canyon sacred treasure
+1779000 Pick up an item_Snake Organ B
+2000000 Pick up items_temple
+2000651 Temple_elevator_lever
+2000652 Temple_elevator_lever
+2000680 Warp in the infinite corridor
+2000681 After defeating the Chigo Monkey_Rewarp to the Infinite Corridor
+2000682 Infinite Corridor_Hint Text
+2000690 Temple _ poke the bell
+2000691 Temple_Poke the bell_Infinite corridor
+2000692 Temple_demon bell inscription
+2000700 Get an immortal treasure sword from a temple _ chigo
+2000710 Temple_fly a kite
+2000711 Temple_Kite
+2000720 Temple_Gero Sokushinbutsu
+3000250 For treasure corpses broken from jars
+3001800 Enter the wall of light (Oujou 1 Full Armor Beast)
+3001830 Enter the wall of light (Oujou 1 Dragon Angel)
+3001890 Enter the wall of light (Oujou 1 E3 version tracker)
+3011800 Enter the wall of light (Royal Castle 2 Dragon Guardian Knight)
+3100000 Have the younger man ombre
+3101800 Enter the wall of light (city)
+3201800 Enter the wall of light (bridge_flying dragon&#39;s nest)
+3201850 Enter the wall of light (on the bridge_bridge)
+3301800 Enter the wall of light (Poison Swamp Forest)
+3301850 Enter the wall of light (Poison Swamp Forest Crystal Elder)
+3411830 Enter the wall of light (Oujou 2 Dark Twin Prince)
+3411860 Enter the wall of light (Oujou 2 Dark Twin Prince Perfect)
+3501800 Enter the wall of light (Church of the Basilica_Cardinal)
+3501850 Enter the wall of light (Church of the Basilica_Rosaria)
+3601800 Enter the wall of light (God grave_Dragon angel)
+3701800 Enter the wall of light (Anor_Sullivan)
+3701850 Enter the Wall of Light (Anor Landmark Church)
+3801800 Enter the wall of light (Abandoned City_Halek)
+3801830 Enter the wall of light (abandoned city_sandworm)
+3801860 Enter the wall of light (Abandoned City_Ash Demon)
+3901800 Enter the wall of light (dungeon)
+4001800 Enter the wall of light (base)
+4001830 Enter the wall of light (base)
+4001860 Enter the wall of light (base_last boss)
+7001000 Buddhist priest
+7001005 Buddhist _ eavesdropping _ returning
+7001006 Buddhist _ eavesdropping _ after obtaining the source cherry blossoms
+7001007 Buddhist priest _ eavesdropping _ flame of grudge
+7001008 Buddhist priest _ eavesdropping _ during home visit
+7001020 Buddhist _ after disappearing
+7001100 Prince
+7001150 Prince _ eavesdropping _ sleeping
+7001151 Prince _ eavesdropping _ reading a book
+7001152 After making the prince _ eavesdropping _ ohagi
+7001160 Prince _ eavesdropping _ capture stage _ first
+7001161 Prince _ eavesdropping _ capture stage _ after the long defeat of the Ninja army
+7001162 Prince _ eavesdropping _ capture stage _ after reaching the submerged city
+7001170 Prince_Phantom Conversation ①
+7001171 Prince_Phantom Conversation ②
+7001172 Prince_Phantom Conversation ③
+7001173 Prince_Phantom Conversation ④
+7001174 Prince_Phantom Conversation ⑤
+7001200 Ninja Army Chief_Modern
+7001201 Ninja Army Chief_Past_Past
+7001202 Ninja Army Chief_Past_Truth Edition
+7001203 Ninja Chief _ Past _ Past _ Corpse
+7001204 Ninja Army Chief_Past_Truth Edition_Inaccessible Dummy
+7001300 Combat tutorial
+7001400 White Rappa_Honjo
+7001401 White Rappa_Temple
+7001500 Female player
+7001600 Suzubaa_Modern
+7001601 Suzubaa_past
+7001700 Selling bandits_modern
+7001701 Selling bandits_past
+7001800 Suzuba&#39;s son_modern
+7001801 Suzuba&#39;s son _ past
+7001900 Stable Resident A
+7001901 Stable Resident B
+7001902 Stable Resident C
+7002000 Woman of servant
+7002100 Retired swordsman
+7002200 Chigo
+7002201 Chigo_Telepathy
+7002202 Chigo_Infinite Corridor
+7002203 Chigo_ Eavesdropping through the wall
+7002300 Daughter of Isei_Honjo
+7002301 Daughter of Isei_Castle
+7002302 Daughter of Isei_Honjo_When Tokugawa invades
+7002400 Kensei
+7002401 Kensei (Skill Grandpa) _ Castle Small Tower
+7002410 Kensei_Eavesdropping_After Immortal Slash
+7002411 Kensei_Eavesdropping_After the worsening of the condition
+7002412 Kensei_Note
+7002500 Caucasian innsmouth
+7002600 The kidnapped young man_temple
+7002610 The kidnapped young man _ castle
+7002620 The kidnapped younger man_dungeon
+7002700 A decent villager
+7002800 Sick village priest
+7002801 Sick village priest _ eavesdropping _ early
+7002802 Sick village priest _ eavesdropping _ Kyo no Mizuwa
+7002900 Yayobioka Nun_Honjo
+7002901 Eight Hundred Bhikkhuni _ Temple
+7002902 Yayobioka Nun_Valley
+7002903 Yayobioka Ninji Temple (Hidden main hall front door)
+7002904 Eight Hundred Bhikshuni_Dungeon
+7003000 Fascinated Samurai_Hidden Prison
+7003001 Fascinated Samurai_Hidden Prison_Special Waiting
+7003002 Fascinated Samurai_Hidden Prison_When Tokugawa Invades
+7003003 Fascinated Samurai_Hidden Prison_Special Waiting_When Tokugawa Invades
+7003004 Fascinated Samurai_Dragon Cough_When Tokugawa Invades
+7003010 Fascinated Samurai_Dungeon
+7003011 Fascinated Samurai_Dungeon_Special Waiting
+7003020 Fascinated Samurai_Dungeon (Crucifixion)
+7003030 Fascinated Samurai_Sick Village Entrance
+7003031 Fascinated Samurai_Sick Village Entrance_Special Waiting
+7003040 Fascinated Samurai_In front of the Sick Village Square
+7003050 Fascinated Samurai_Dragon Cough
+7003100 Immortal Experiment Doctor
+7003101 Immortal Experiment Doctor_Experiment 1 Eavesdropping
+7003102 Immortal Experiment Doctor_Experiment 2 Eavesdropping
+7003200 Instant
+7003600 Scale shop_samurai residence_pot
+7003601 Scale shop_Samurai residence_Carp
+7003650 Scale shop_submerged city_pot
+7003651 Scale shop_submerged city_carp
+7003700 Servant Woman 2 Eavesdropping
+7003800 Submerged Handmaiden Aunt_Sister
+7003900 Submerged maid aunt _ sister _ in front of the cave
+7003901 Submerged Handmaiden Aunt_Sister_Dairi
+7004000 Auntie, a maid who talks about Shura
+7004700 Araji shop clerk_Honjo
+7004701 Araji Shop Clerk_Castle
+7004800 Captive Temple Small Fish_Infinite Corridor
+7004900 Secret life lonely people
+7007000 Voice of the end _ Samurai residence _ Nightjars 00
+7007001 Voice of the end _ Samurai residence _ Nightjars 00_ After death
+7007010 Voice of the end _ Samurai residence _ Swordsman 00
+7007020 Voice of the end _ valley _ Kikasa Rappa
+7007030 Voice of the end _ Sick village _ Kiri no Mori priest
+7007040 Voice of the end _ castle _ fallen warrior at the bridge
+7007050 Voice of the end _ Honjo _ Guidance to kite
+7007060 Voice of the end _ Canyon _ Headless Yasha Ape&#39;s omen
+7007070 Voice of the end _ Honjo _ Ninja army invasion _ Ninja army invasion
+7007080 Voice of the end _ Honjo _ Ninja army invasion _ Guidance to the meditation room
+7007090 Voice of the end _ Castle _ Invasion of Tokugawa _ Smell of Buddhist demon
+7007100 Voice of the end _ Honjo _ Tokugawa invasion _ Guided conversation across the bridge
+7007110 Voice of the end _ Honjo _ Ninja army invasion _ Someone&#39;s invasion suggestion
+7007999 Old servant
+7008000 Shop clerk
+7009000 About Samurai Residence_Eavesdropping_Bandits_Do
+7009002 Samurai residence _ eavesdropping _ bandit _ guidance to the standing area
+7009004 Samurai residence _ eavesdropping _ bandit _ guidance to a well
+7009006 Samurai residence _ eavesdropping _ burning lonely people _ back information
+7009050 Castle _ Eavesdropping _ Fallen Warrior _ Akaoni&#39;s Weakness
+7009052 Castle _ eavesdropping _ fallen warrior _ guidance to horse-riding warrior
+7009054 Castle _ eavesdropping _ fallen warrior _ introduction of cavalry warrior
+7009056 Castle _ eavesdropping _ fallen warrior _ guidance to horse-riding warrior
+7009058 Castle_Eavesdropping_Falling Warrior_Cavalry Weaknesses
+7009100 About Honjo_Eavesdropping_Ochimusha_Hidden prison station
+7009102 Honjo_Eavesdropping_Samurai General_Not enough salt_Anayama event
+7009104 Honjo_Eavesdropping_Trumpet_Guide to White Trumpet
+7009106 Honjo_Eavesdropping_Ochimusha_Guide to loopholes_Tutorial
+7009108 About Honjo_Eavesdropping_Ochimusha_Fire Cow
+7009110 Honjo_Eavesdropping_Ochimusha_Smell of Ninja Army Invasion
+7009112 Honjo_Eavesdropping_Sneak-thief _Speaking to fellow corpses
+7009114 Honjo_Eavesdropping_Spear Monk Soldier of Money Account_When the Ninja Army Invades
+7009116 Honjo_Eavesdropping_Tokugawa Rappa_Tokugawa Demonstration
+7009118 Honjo _ eavesdropping _ swordsman _ regrets the death of Kensei
+7009120 Honjo _ eavesdropping _ spear monk soldier of money account _ at the time of Tokugawa invasion
+7009150 Hidden prison _ eavesdropping _ fallen warrior _ prince
+7009152 Hidden prison _ eavesdropping _ fallen warrior _ entrance to Tsukimi turret
+7009154 Hidden prison _ eavesdropping _ general samurai _ guidance to rivals
+7009156 Hidden prison _ eavesdropping _ secret life lonely people _ well spy
+7009158 Hidden prison _ eavesdropping _ fallen warrior _ rumors of lonely people
+9990800 Enter the wall of light (test)
+9990810 Eavesdropping_test
+9990811 For eavesdropping_test_offset

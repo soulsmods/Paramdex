@@ -1,0 +1,60 @@
+0 No lifting of ban
+2000 Resurrection technique
+2300 Right hand knife
+2301 Right Hand Sword_Ninjutsu
+2310 Left hand artificial limb
+2311 Left hand artificial limb _ artificial limb ninja
+2320 A school technique that consumes form charges
+2330 Items that consume the shape fee
+2390 Night eyes
+2400 Immortal slash
+2420 Infinite breathing
+2440 Breaking back
+2450 Anti-aircraft shinobi
+200000 Stealth: Wire Attack
+200100 Ninja: Aerial Guard / Jasuga
+200200 Shinobi-ryu: Aerial artificial limbs Ninja
+200300 Ninja: Step closeout
+200400 Ninja: Sliding (dash crouching)
+200500 Ninja style: aerial style
+301000 Artificial limb ninja style: slashing
+301100 Artificial limb ninja style: slashing in a row
+301200 Artificial limb ninja style: slashing
+301300 Artificial limb ninja style: Matori slash
+400000 Ashina style: Reservoir thrust
+910000 Debugging Skills Lifted: New Game
+910010 Debugging skills lifted: Castle
+910020 Debugging skills lifted: Samurai residence
+910030 Debugging skills lifted: Honjo
+910040 Debugging skills lifted: Hidden prison
+910050 Debugging skills lifted: Dungeon
+910060 Debugging skills lifted: Temple
+910070 Debugging skills lifted: Canyon
+910080 Debugging skills lifted: Lower canyon
+910090 Debugging Skills Lifted: Sick Village
+910100 Debugging skill lifted: Honjo_Ninja army invasion
+910110 Debugging skill lifted: Submerged city
+910120 Debugging skills lifted: Honjo_Tokugawa invasion
+910130 Debugging skill lifted: Hidden prison _ When Tokugawa attacks
+910140 Debugging skills lifted: Castle_Tokugawa invasion
+910150 Debugging skills lifted: Game clear
+920000 Debugging skills lifted: New game for checking enemies
+920010 Debugging skill lifted: Castle for checking enemies
+920020 Debugging skills lifted: Samurai residence for checking enemies
+920030 Debugging skill lifted: Honjo for checking enemies
+920040 Debugging skill lifted: Hidden prison for checking enemies
+920050 Debugging skills lifted: Enemy check dungeon
+920060 Debugging skill lifted: Enemy check temple
+920070 Debugging skills lifted: Enemy check canyon
+920080 Debugging skill lifted: Lower layer of canyon for checking enemies
+920090 Debugging skill lifted: Enemy check sick village
+920100 Debugging skill lifted: Enemy check Honjo_Ninja army invasion
+920110 Debugging skill lifted: Submerged city for checking enemies
+920120 Debugging skill lifted: Enemy check Honjo_When Tokugawa attacks
+920130 Debugging skill lifted: Hidden prison for checking enemies_When Tokugawa attacks
+920140 Debugging skill lifted: Enemy check castle _ Tokugawa invasion
+920150 Debugging skill lifted: Clear enemy check game
+999996 Lifting of all actions for debugging_No derivative attacks
+999997 Lifting of the ban on all actions for debugging
+999998 All actions for debugging have been lifted _ except for immortal slashing
+999999 All actions for debugging have been lifted

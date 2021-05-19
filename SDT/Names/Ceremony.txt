@@ -1,0 +1,61 @@
+1000 For automatic tour: usually
+1001 For automatic tour: Ceremony A
+1002 For automatic tour: Ceremony B
+1003 For automatic tour: Ceremony C
+1004 For automatic tour: Ceremony D
+1005 For automatic tour: Ceremony E
+11000000 Castle: Default
+11000020 Castle: Invasion of Tokugawa
+11010000 Honjo: Default
+11010010 Honjo: Arashi
+11010020 Honjo: Invasion of Tokugawa
+11020000 Hidden Prison: Default
+11020020 Hidden prison: Tokugawa invasion
+15000000 Sick Village: Default
+15000010 Sick Village: During illusion
+25000000 Submerged City: Default
+25000010 Submerged city: dense fog
+30000000 King of Corrosion_1: Default
+30000010 King of Corrosion_1: The World of Corrosion
+30001000 King of Corrosion_1: Product Version
+30001010 King of Corrosion_1: NT
+30001011 King of Corrosion_1: TGS
+30001012 King of Corrosion_1: E3 Light Test
+30001015 King of Corrosion_1: King Castle 2 distant view test
+30001020 King of Corrosion_1: Gparam Or Test
+30010000 King of Eating_2: Default
+30010010 King of Corrosion_2: Corrosion World
+31000000 Evil Eye City: Default
+31000010 Evil Eye City: The World of Evil Eyes
+31000020 City of Evil Eyes: Default (Oujou 1)
+31000030 Evil Eye City: The World of Evil Eye (Oujou 1)
+31001000 City of Evil Eyes: Pseudo NPC Multi 1
+32000000 Flying Dragon Bridge: Default (fine weather)
+32000010 Hiryu no Hashi: Boss Room Appears
+33000000 Poison Swamp Forest: Default
+33000010 Poison Swamp Forest: Corrosion World
+34010000 King of Eating_3: Default
+34010010 King of Corrosion_3: Corrosion World
+35000000 Basilica Church: Default
+35000010 Templar Church: Eclipse World
+37000000 Anor: Default
+37000010 Anor: Corrosion World
+37001000 Anor: Pseudo NPC Multi 1
+37001100 Anor: Pseudo NPC Multi 2
+37001200 Anor: Pseudo NPC Multi 3-1
+37001201 Anor: Pseudo NPC Multi 3-2
+38000000 Abandoned city: Default (dedicated)
+39000000 Dungeon: Default
+40000000 Location: Default
+40000010 Base: Corrosion World
+40000020 Base: Las Boss
+41000000 Last map: default
+91080000 Ritual Layer Test Map: Noon
+91080010 Ritual layer test Map: gloomy cloudy
+91080020 Ritual Layer Test Map: Evening / Evening Darkness
+91080030 Ritual Layer Test Map: Moonlit Night
+91080040 Ritual Layer Test Map: Map Specific
+91080050 Ritual Layer Test Map: Map Specific
+91080800 Ritual Layer Test Map: Reload Test
+99090000 Event test: Default
+99090010 Event test: Pseudo multi

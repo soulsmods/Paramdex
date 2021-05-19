@@ -1,0 +1,5 @@
+90 Consumption type
+100 A table that converts numbers to the letters E to S
+110 Pledge
+120 Weapon type
+121 Convert the value of the weapon para WEP_TYPE_FOR_TEXT

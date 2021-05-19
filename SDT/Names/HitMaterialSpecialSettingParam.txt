@@ -1,0 +1,9 @@
+0 Default
+1 Stage・Slope
+2 Without camera
+3 Absolutely climb
+4 Can&#39;t ride
+5 I can&#39;t ride without the camera
+6 Steep slope
+7 Deep waterside
+8 An object that you can ride

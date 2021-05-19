@@ -1,0 +1,88 @@
+2 Ninja: Aerial Guard / Jasuga
+4 Ninja: Step closeout
+5 Ninja: Sliding (dash crouching)
+6 Ninja style: aerial style
+7 Ninja: Breaking the back
+10 Shinobi-ryu: Deadly Sword_Rotating Slash Lifted
+20 Shinobi-ryu: Deadly Sword_Ninja Fang Crash Lifted
+60 Covert A (make the sign smaller)
+61 Covert B (makes the sound quieter)
+70 Parting off trunk shaving UP
+75 The upper limit held by Xingdai+1A
+76 The upper limit held by Xingdai+1B
+80 HP recovery at the time of shinobi (A)
+100 Artificial limb ninja style: slashing
+101 Artificial limb ninja style: slashing in a row
+102 Artificial limb ninja style: slashing
+103 Artificial limb ninja style: Matoi slash
+104 Artificial limb stealth: Wire attack
+105 Artificial limb ninja style: Aerial artificial limb ninja
+110 Artificial limb ninja style: Special sword_Dive slash lifted
+111 Artificial limb stealth: Special sword _ Dive slash enhancement +1
+170 Knowledge of medicine + 1A
+171 Knowledge of medicine + 1B
+175 The upper limit held by Xingdai +1C
+176 The upper limit of Xingdai holding +1D
+210 Ashina style: Deadly sword _ face-to-face lifted
+211 Ashina style: Special sword_face-up strengthening +1
+220 Ashina style: Deadly sword _ Iai lifted
+265 Body recovery during shinobi (A)
+270 Jasuga&#39;s trunk shaving UP
+275 Jasuga rear sword trunk sharpening UP
+280 Guard / Jasuga&#39;s trunk cut
+310 Temple style: Special sword_Body arts ban lifted
+311 Temple style: Special sword_Strengthen physical arts +1
+320 Temple style: Special sword_Kick rush lifted
+321 Temple style: Special sword _ Kick rush strengthening +1
+365 Lucky +1A
+366 Lucky +1B
+370 Buff effect time UP
+400 Temple style: Special sword _ Kick rush strengthening +1
+401 Shinobi-ryu: Deadly Sword_Ninja Fang Crash Lifted
+402 Ashina style: Deadly sword _ Iai lifted
+403 Artificial limb ninja style: Matoi slash
+411 Combined: Deadly Sword_Ninja Fang Strengthening +1
+421 Combined: Special Sword _ Eight-Flying Rush Strengthening +1
+431 Combined: Deadly Sword_Immortal Slash Slash Strengthening +1
+600 Knowledge of medicine + 1C
+601 Knowledge of medicine + 1D
+602 Knowledge of medicine + 1E
+603 The upper limit held by Xingdai +1E
+604 HP recovery at the time of shinobi (B)
+605 Body recovery during shinobi (B)
+610 Unlimited breathing lifted
+620 Anti-aircraft shinobi ban lifted
+630 Deadly Sword_Immortal Sword Lifted
+640 Deadly Sword_Sword Holy Iai Ban Lifted
+650 Special Sword_Hachizara Flying Rush Lifted
+660 Deadly Sword_Invisible Iai Continuous Attack Lifted
+701 Shuriken LV2 (can be stored)
+702 Shuriken LV3-A (can be stored + penetrated)
+703 Shuriken LV3-B (can be stored + butterfly phantom bullet)
+704 Shuriken LV3-C (can be stored + throwing money)
+705 Shuriken LV4 (can be stored + penetration + power up)
+711 Firecracker LV2 (It’s possible to slip away)
+712 Firecrackers LV3-A (you may slip + explosion time prolonged)
+713 Firecrackers LV3-B (slipping possible + hazardous substances)
+721 Ignition LV2 (can be stored)
+722 Ignition LV3 (can be stored + flame can be emitted)
+723 Ignition LV4 (can be stored + flame can be emitted + anti-spirit)
+731 Ax LV2 (can be stored)
+732 Axe LV3 (slide め possibility + burst)
+733 Ax LV4 (can be stored + explodes + illusion eraser)
+741 Transformation LV2 (can be activated after damage)
+742 Transformation LV3 (Can be activated after damage + Shock wave when activated)
+751 Kodachi LV2 (derivative attack possible)
+752 Kodachi LV3-A (derivative attack possible + guard penetration)
+753 Kodachi LV3-B (derivative attack possible + poison fog spray)
+761 Iron fan LV2 (can be turned)
+762 Iron fan LV3-A (can be turned + anti-flame)
+763 Iron fan LV3-B (can be turned + anti-spirit)
+771 Enemy turning LV2 (can be activated continuously)
+772 Enemy turning LV3 (continuous activation possible + stealing)
+781 Spear LV2-A (Available for charge)
+782 Spear LV2-B
+783 Spear LV3-A (chargeable assault + corkscrew)
+784 Spear LV3-B (Can be wiped off + flame)
+791 Finger flute LV2 (you can slip away)
+792 Whistling LV3 (can be stored + minor)

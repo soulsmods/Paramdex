@@ -1,0 +1,28 @@
+0 Dummy (for data output)
+10000000 Burning down samurai residence
+11020070 Receive a sword from the prince
+20000000 Temple boss battle started
+20000011 Defeat the temple boss_day
+20000010 Defeat the temple boss
+20000012 Defeat the temple boss_evening
+10000000 Burning down samurai residence
+10000010 Butterflies appeared
+11010010 Second appearance of rivals
+11010011 Second appearance of rivals _ noon
+11010020 Rival 2nd HU
+11010030 Defeat the second rival
+11010031 Defeat the second rival _ evening
+11010040 Ninja army chief appearance
+11010060 Isei&#39;s daughter battle begins
+11010070 Shura End
+11020000 Lose to rivals
+11020001 Losing to rivals_Victory
+11020040 Resurrected Kensei Appears
+11020070 Receive a sword from the prince
+25000020 Mermaid dragon appeared
+25000020 Moving to the sea of clouds
+11010080 Kensei Appearance Tower
+11020090 Join the prince
+15000000 Taken to a straw doll
+10000020 Japanese payment indication
+89000099 Burning down samurai residence

@@ -1,0 +1,16 @@
+0 Don&#39;t erase
+1 Dummy1
+2 Dummy2
+3 Dummy3
+10 Stick
+11 Leave
+20 Hanging
+21 Climb
+22 get off
+30 dive
+40 accelerate
+41 Rise
+42 decline
+43 Ascend
+90 Resurrection
+91 die

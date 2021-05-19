@@ -1,0 +1,205 @@
+0 test
+40011 [OBJ] Burning grass (defard)
+50010 [Item] Aburatsubo landing oil (character)
+50011 [Item] Aburatsubo landing oil map)
+600010 [Shinobi / Medium] Sword stab (attacking side) Blood (character)
+600011 [Shinobi / Medium] Sword stab (attacking side) Blood (map)
+610010 [Shinobi / Medium] Sword stab (Defender) Blood (Character)
+610011 [Shinobi / Medium] Sword stab (Defender) Blood (Map)
+620010 [Shinobi / Middle] Sword-paying Blood (Character)
+620011 [Shinobi / Medium] Sword-paying Blood (Map)
+710011 [Shinobi / Medium] Massive bleeding Blood (Map)
+800000 [NTC] Prototype Mud splash walking (character)
+800001 [NTC] Prototype Mud splash running (character)
+800002 [NTC] Proto Mud Splash Dash (Character)
+800003 [NTC] Prototype mud splash walking (map)
+800004 [NTC] Prototype mud splash running (map)
+800005 [NTC] Proto Mud Splash Dash (Map)
+801000 [Attack] Blood (dead) Middle front (for characters)
+801001 [Attack] Blood (dead) Nakagami (for characters)
+801002 [Attack] Blood (dead) Nakashita (for characters)
+801003 [Attack] Blood (dead) Middle left (for characters)
+801004 [Attack] Blood (dead) Middle right (for characters)
+801010 [Special Attack] Blood Doba (for characters)
+801011 [Special Attack] Blood Doba (for characters)
+801012 [Special Attack] Under the blood (for characters)
+801013 [Special Attack] Blood Doba (for characters) Diagonally in front
+801014 [Special Attack] Blood Doba (for characters) Diagonally behind
+801015 [Special Attack] Blood Doba (for characters) Back
+801016 [Special Attack] Blood Potapota (for characters)
+801030 [Attack] Meat under armor Fresh blood (PC) Front (for characters)
+801031 [Attack] Meat under armor (for characters)
+801032 [Attack] Under the flesh under the armor (for characters)
+801033 [Attack] Meat under armor Left (for characters)
+801034 [Attack] Meat under armor Right (for characters)
+801100 [Attack] Blood (dead) in front (for map)
+801101 [Attack] Blood (dead) Nakagami (for map)
+801102 [Attack] Blood (dead) Nakashita (for map)
+801103 [Attack] Blood (dead) Middle left (for map)
+801104 [Attack] Blood (dead) Middle right (for map)
+801110 [Special Attack] Blood Doba (for map) Front
+801111 [Special Attack] Blood Doba (for map)
+801112 [Special Attack] Under Blood (for Map)
+801115 [Special Attack] Blood Doba (for map) Diagonally in front
+801116 [Special Attack] Blood Doba (for map) diagonally behind
+801117 [Special Attack] Blood Doba (for map) Back
+801120 [Special Attack] Blood Potapota (for map) Front
+801121 [Special Attack] Bloody Potapota (for map)
+801122 [Special Attack] Under Blood Potapota (for Map)
+801125 [Special Attack] Blood Potapota (for map) Diagonally in front
+801126 [Special attack] Blood potapota (for map) diagonally behind
+801127 [Special Attack] Blood Potapota (for map) back
+801130 [Attack] Meat under armor Front (for map)
+801131 [Attack] Meat under armor (for map)
+801132 [Attack] Under the armor (for maps)
+801133 [Attack] Meat under armor Left (for map)
+801134 [Attack] Meat under armor Right (for map)
+802000 [Shinobi] Under Blood World (Character)
+802100 [Shinobi] Blood World Below (Map)
+802200 [Attack] Blood (dead) Middle front (for characters)
+803010 c5010 The big snake falls and kills blood
+803011 c5010 Large snake litter hidden shinobi blood killing
+803021 c1200 In front of Sokushinbutsu Gero (character)
+803022 c1200 After Sokushinbutsu Gero (Character)
+803025 c1200 Immediate Buddha Gero (Character) For foot range attack Before
+803026 c1200 Immediate Buddha Gero (Character) For foot range attack After
+803030 c1500 Villager Zombie Fertilizer Reservoir Landing (Map)
+803031 c1500 Villager Zombie Fertilizer Accumulation Landing (Character)
+803040 c1360 Rappa Poison Ball Landing (Map)
+803050 c1260 Chigo Monkey Luminous Footprint Left Foot (Map)
+803060 c1260 Chigo Monkey Luminous Footprint Right Foot (Map)
+9990000 test
+9990001 test
+9990002 test
+9990003 Random decal test
+9990004 Random decal test
+9990005 Normal test
+9990006 Normal test
+9990007 Normal test
+9990008 Normal test
+100600010 [Shinobi / Medium] Sword stab (attacking side) Blood (Character) [MILD]
+100600011 [Shinobi / Medium] Sword stab (attacking side) Blood (Map) [MILD]
+100610010 [Shinobi / Medium] Sword stab (Defender) Blood (Character) [MILD]
+100610011 [Shinobi / Medium] Sword stab (Defender) Blood (Map) [MILD]
+100620010 [Shinobi / Medium] Sword-paying Blood (Character) [MILD]
+100620011 [Shinobi / Medium] Sword-paying Blood (Map) [MILD]
+100710011 [Shinobi / Medium] Massive bleeding Blood (Map) [MILD]
+100801000 [Attack] Blood (dead) Middle Front (for characters) Blood MILD
+100801001 [Attack] Blood (dead) Nakagami (for characters) Blood MILD
+100801002 [Attack] Blood (dead) Nakashita (for characters) Blood MILD
+100801003 [Attack] Blood (dead) Middle Left (for characters) Blood MILD
+100801004 [Attack] Blood (dead) Middle right (for characters) Blood MILD
+100801010 [Special Attack] Blood Doba (for characters)
+100801100 [Attack] Blood (dead) Middle Front (for map) Blood MILD
+100801101 [Attack] Blood (dead) Nakagami (for map) Blood MILD
+100801102 [Attack] Blood (dead) Middle and lower (for map) Blood MILD
+100801103 [Attack] Blood (dead) Middle Left (for map) Blood MILD
+100801104 [Attack] Blood (dead) Middle right (for map) Blood MILD
+100801112 [Special Attack] Under Blood (for Map)
+100801122 [Special Attack] Under Blood Potapota (for Map)
+100802000 [Shinobi] Blood World Under (Character) [MILD]
+100802100 [Shinobi] Under Blood World (Map) [MILD]
+100803010 c5010 The big snake falls and kills blood【MILD】
+100803011 c5010 Large Serpent Litter Hidden Shinobi Blood Killing [MILD]
+300027201 【PC Foot】Clay Boots
+300030201 【NTC】Snow Footprint Boots
+600109000 [Attack] Blood (fresh blood) in front (for characters)
+600109001 [Attack] Blood (fresh blood) Nakagami (for characters)
+600109002 [Attack] Blood (fresh blood) Middle and lower (for characters)
+600109003 [Attack] Blood (fresh blood) Middle Left (for characters)
+600109004 [Attack] Blood (fresh blood) Middle right (for characters)
+600109100 [Attack] Blood (fresh blood) in front (for map)
+600109101 [Attack] Blood (fresh blood) Medium Top (for map)
+600109102 [Attack] Blood (fresh blood) middle and lower (for map)
+600109103 [Attack] Blood (fresh blood) Middle Left (for map)
+600109104 [Attack] Blood (fresh blood) Middle right (for map)
+600114000 [Attack] Meat under armor Fresh blood (PC) Front (for characters)
+600114001 [Attack] Meat under armor (for characters)
+600114002 [Attack] Under the flesh under the armor (for characters)
+600114003 [Attack] Meat under armor Left (for characters)
+600114004 [Attack] Meat under armor Right (for characters)
+600114100 [Attack] Meat under armor Front (for map)
+600114101 [Attack] Meat under armor (for map)
+600114102 [Attack] Under the armor (for maps)
+600114103 [Attack] Meat under armor Left (for map)
+600114104 [Attack] Meat under armor Right (for map)
+600134000 [Attack] Poisonous meat in front (for characters)
+600134001 [Attack] Poisonous meat Nakagami (for characters)
+600134002 [Attack] Poisonous meat Nakashita (for characters)
+600134003 [Attack] Poisonous meat middle left (for characters)
+600134004 [Attack] Poisonous meat middle right (for characters)
+600134100 [Attack] Poisonous meat in front (for map)
+600134101 [Attack] Poisonous meat Nakagami (for map)
+600134102 [Attack] Poisonous meat Nakashita (for map)
+600134103 [Attack] Poisonous meat middle left (for map)
+600134104 [Attack] Poisonous meat middle right (for map)
+600135000 [Attack] White meat in front (for characters)
+600135001 [Attack] White meat Nakagami (for characters)
+600135002 [Attack] White meat Nakashita (for characters)
+600135003 [Attack] White meat middle left (for characters)
+600135004 [Attack] White meat middle right (for characters)
+600135100 [Attack] White meat in front (for map)
+600135101 [Attack] White meat Nakagami (for map)
+600135102 [Attack] White meat middle bottom (for map)
+600135103 [Attack] White meat middle left (for map)
+600135104 [Attack] White meat middle right (for map)
+600146000 [Attack] Fresh blood (PC) Front (for characters)
+600146001 [Attack] Fresh blood (PC) on (for characters)
+600146002 [Attack] In fresh blood (PC) Under (for characters)
+600146003 [Attack] Fresh blood (PC) Left (for characters)
+600146004 [Attack] Fresh blood (PC) Right (for characters)
+600146100 [Attack] Fresh blood (PC) Front (for map)
+600146101 [Attack] On fresh blood (PC) (for map)
+600146102 [Attack] In fresh blood (PC) Below (for map)
+600146103 [Attack] Fresh blood (PC) Left (for map)
+600146104 [Attack] Fresh blood (PC) Right (for map)
+700109000 [Attack] Blood (fresh blood) Middle front (for characters) Blood MILD
+700109001 [Attack] Blood (fresh blood) Nakagami (for characters) Blood MILD
+700109002 [Attack] Blood (fresh blood) Middle and lower (for characters) Blood MILD
+700109003 [Attack] Blood (fresh blood) Middle Left (for characters) Blood MILD
+700109004 [Attack] Blood (fresh blood) Middle right (for characters) Blood MILD
+700109100 [Attack] Blood (fresh blood) Middle front (for map) Blood MILD
+700109101 [Attack] Blood (fresh blood) Medium (for map) Blood MILD
+700109102 [Attack] Blood (fresh blood) Middle bottom (for map) Blood MILD
+700109103 [Attack] Blood (fresh blood) Middle Left (for map) Blood MILD
+700109104 [Attack] Blood (fresh blood) Middle right (for map) Blood MILD
+700114000 [Attack] Meat under armor Fresh blood (PC) Front (for characters) Blood MILD
+700114001 [Attack] Meat under armor (for characters) Blood MILD
+700114002 [Attack] Under the flesh under the armor (for characters) Blood MILD
+700114003 [Attack] Meat under armor Left (for characters) Blood MILD
+700114004 [Attack] Meat under armor Right (for characters) Blood MILD
+700114100 [Attack] Meat under armor Front (for map) Blood MILD
+700114101 [Attack] Meat under armor (for map) Blood MILD
+700114102 [Attack] Under the flesh under the armor (for maps) Blood MILD
+700114103 [Attack] Meat under armor Left (for map) Blood MILD
+700114104 [Attack] Meat under armor Right (for map) Blood MILD
+700134000 [Attack] Poisonous meat in front (for characters) Blood MILD
+700134001 [Attack] Poisonous meat Nakagami (for characters) Blood MILD
+700134002 [Attack] Poisonous meat Nakashita (for characters) Blood MILD
+700134003 [Attack] Poisonous meat middle left (for characters) Blood MILD
+700134004 [Attack] Poisonous meat middle right (for characters) Blood MILD
+700134100 [Attack] Poisonous meat in front (for map) Blood MILD
+700134101 [Attack] Poisonous meat Nakagami (for map) Blood MILD
+700134102 [Attack] Poisonous meat Nakashita (for map) Blood MILD
+700134103 [Attack] Poisonous meat middle left (for map) Blood MILD
+700134104 [Attack] Poisonous meat middle right (for map) Blood MILD
+700135000 [Attack] White meat in front (for characters) Blood MILD
+700135001 [Attack] White meat Nakagami (for characters) Blood MILD
+700135002 [Attack] White meat Nakashita (for characters) Blood MILD
+700135003 [Attack] White meat Middle left (for characters) Blood MILD
+700135004 [Attack] White meat Middle right (for characters) Blood MILD
+700135100 [Attack] White meat in front (for map) Blood MILD
+700135101 [Attack] White meat Nakagami (for map) Blood MILD
+700135102 [Attack] White meat Nakashita (for map) Blood MILD
+700135103 [Attack] White meat Middle left (for map) Blood MILD
+700135104 [Attack] White meat Middle right (for map) Blood MILD
+700146000 [Attack] Fresh blood (PC) Front (for characters) Blood MILD
+700146001 [Attack] Fresh blood (PC) on (for characters) Blood MILD
+700146002 [Attack] Fresh blood (PC) Under (for characters) Blood MILD
+700146003 [Attack] Fresh blood (PC) Left (for characters) Blood MILD
+700146004 [Attack] Fresh blood (PC) Right (for characters) Blood MILD
+700146100 [Attack] Fresh blood (PC) Front (for map) Blood MILD
+700146101 [Attack] Fresh blood (PC) on (for map) Blood MILD
+700146102 [Attack] Fresh blood (PC) Under (for map) Blood MILD
+700146103 [Attack] Fresh blood (PC) Left (for map) Blood MILD
+700146104 [Attack] Fresh blood (PC) Right (for map) Blood MILD

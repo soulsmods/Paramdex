@@ -1,0 +1,33 @@
+0 Surviving player
+1 White ghost
+2 Black ghost
+3 Wandering
+4 Wandering NPC
+5 Usually the enemy
+6 Animal enemy
+7 Boss enemy
+8 Gray ghost
+9 NPC
+10 Replay
+11 Means
+12 Intruder
+13 For the technical field
+14 Maximum number
+10001 White Ghost (Red Scare White Pledge)
+10002 Black Ghost (Red Scare White Pledge)
+20001 White ghost (sun pledge)
+20002 Black Ghost (Sun Pledge)
+30001 White Ghost (Berserker Pledge)
+30002 Black Ghost (Berserker Pledge)
+40001 White Ghost (Sinner Hero Pledge)
+40002 Black Ghost (Sinner Hero Pledge)
+50001 White Ghost (Rosaria Pledge)
+50002 Black Ghost (Rosaria Pledge)
+60001 White Ghost (Map Guardian Pledge (Bridge))
+60002 Black Ghost (Map Guardian Pledge (Bridge))
+70001 White Ghost (Map Guardian Pledge (Anor))
+70002 Black Ghost (Map Guardian Pledge (Anor))
+80001 Youth Education 1
+80002 Youth Education 2
+90001 White Ghost (Red Scare 2 Pledge)
+90002 Black Ghost (Red Scare 2 Pledge)

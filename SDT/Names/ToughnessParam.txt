@@ -1,0 +1,13 @@
+1 General parameters for enemies
+10 General purpose: 1.0 times
+15 General purpose: 1.5 times
+20 General purpose: 2.0 times
+25 General purpose: 2.5 times
+30 General purpose: 3.0 times
+50 Rolling: Toughness (less than straight sword)
+100 Attack: One hand: Weak
+101 Attack: One hand: Weak: Minimum guarantee
+110 Attack: One hand: Strong
+111 Attack: One hand: Strong: Minimum guarantee
+120 Attack: One hand: Strong MAX accumulation
+121 Attack: One hand: Strong MAX Accumulation: Minimum guarantee

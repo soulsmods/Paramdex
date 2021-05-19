@@ -1,0 +1,46 @@
+1000 Detailed status: Tools
+1014 Detailed status: Tool: Termination
+1100 Detailed status: Ring
+1114 Detailed status: Ring: End
+1200 Detailed status: Pledge Amulet
+1214 Detailed status: Ring: End
+1500 Detailed status: Other
+1501 * Reinforced materials and valuables
+1514 Detailed status: Other: Termination
+2000 Detailed status: Weapon * Other than catalyst
+2062 Detailed status: Weapon * Terminal other than catalyst
+2300 Detailed status: Weapon: Only catalyst Ability correction item Help only differs
+2301 * Wand, magic, sacred bell, Talisman
+2362 Detailed Status: Weapon: Catalyst Dedicated Termination
+4000 Detailed status: Armor
+4024 Advanced Status: Armor: Termination
+5000 Advanced Status: Spell
+5016 Advanced Status: Spell: End
+6000 Detailed status: Arrow, Bolt
+6025 Detailed status: Arrow, Bolt: End
+10000 Player status: 1st page
+10024 Player status: 1st page: End
+11000 Player status: 2nd page
+11035 Player status: 2nd page: End
+15000 Status: 2nd page: Center
+15006 Status: 2nd page: Center: End
+15500 Status: Common to pages 1 and 2: Left side
+15516 Status: Common to pages 1 and 2: Left side: End
+16000 Status: 1st page (player status)
+16048 Status: 1st page: End
+20000 Inventory: Top
+20100 Shop: Top
+20200 Shop for sale: Top
+20300 Equipment: Top
+20400 Weapon enhancement: upper part
+20500 Alteration enhancement: upper part
+20600 Repair: upper part
+20700 Training furnace: upper part
+20900 Other item selection system: Top
+30000 Level up left side
+30016 Level up left side: end
+31000 Level up right side
+31032 Level up right side: end
+40000 Character Makeup Top: Top
+40005 Character Makeup Top: Bottom
+40015 Character Makeup Top: End

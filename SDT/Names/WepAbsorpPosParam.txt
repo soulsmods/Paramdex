@@ -1,0 +1,33 @@
+0 test
+1 dmy
+2 dmy
+3 dmy
+4 dmy
+5 dmy
+6 dmy
+7 dmy
+8 dmy
+9 dmy
+10 dmy
+11 dmy
+12 dmy
+13 dmy
+14 dmy
+15 dmy
+16 dmy
+17 dmy
+18 dmy
+19 dmy
+100 Light Source / Ninja Cancer
+110 parachute
+5000 Right hand knife
+7000 Artificial limbs _ Shuriken
+7100 Artificial limbs _ firecrackers
+7200 Artificial limb _ ignition
+7300 Artificial limb _
+7400 Artificial limb _ transformation
+7500 Artificial limb _
+7600 Artificial limb ninja _ iron fan
+7700 Artificial limb _ beads
+7800 Artificial limb _
+7900 Artificial limb ninja _ finger whistle

@@ -1,0 +1,381 @@
+1 Don&#39;t erase
+1000 Resource item A (white charge)
+1010 Resource item A (white charge)
+1020 Resource item A (white charge)
+1030 Resource item A (white charge)
+1000000 Lifting of the ban on school techniques_Hachiman Flying Rush
+1000001 【Supplement】Prevention of Yanshang_Yes
+1000002 Mask Fragment A
+1000003 Dragon cough healing
+1000004 [Consumption] Elixir
+1000005 [Consumption] Weird young water thrombus (scale shop fry)
+1000006 Mask Fragment B
+1000007 Master
+1000008 Dragon cough healing
+1100000 Artificial limb making _ firecracker
+1100001 [Consumption] Regeneration
+1100002 【Consumption】Strengthen defense
+1100003 [Consumption] Virus recovery + patience enhancement
+1100004 【Consumption】Gold nuggets_small
+1100005 Gourd possession upper limit UP
+1100006 HP / Trunk UP Fragment
+1100007 Mask Fragment C
+1100008 Madness prevention gourd
+1100009 Poison prevention gourd
+1100010 Five-color rice
+1100011 Kodachi hint
+1100012 Finger whistle strengthening tips
+1100013 Transformation tips
+1100014 Artificial limb ninja strengthening _ shuriken _ butterfly kunai
+1100015 Artificial limb making _ iron fan
+1100016 Basic action lifted _ anti-aircraft shinobi killing
+1100017 【Consumption】Illusion Dispelled
+1100018 [Consumption] Strengthening anti-spirit
+1100019 [Consumption] Strengthening resistance to electric shock
+1100020 General-purpose material: Steel 1 (fragment)
+1100021 General-purpose material: Chemical magic 1 (fragment)
+1100050 Artificial limb making _ firecracker
+1100051 [Consumption] Regeneration
+1100052 【Consumption】Strengthen defense
+1100053 [Consumption] Virus recovery + patience enhancement
+1100054 【Consumption】Gold nuggets_small
+1100055 Gourd possession upper limit UP
+1100056 HP / Trunk UP Fragment
+1100057 Mask Fragment C
+1100058 Madness prevention gourd
+1100059 Poison prevention gourd
+1100060 Five-color rice
+1100061 Kodachi hint
+1100062 Finger whistle strengthening tips
+1100063 Transformation tips
+1100064 Artificial limb ninja strengthening _ shuriken _ butterfly kunai
+1100065 Artificial limb making _ iron fan
+1100066 Basic action lifted _ anti-aircraft shinobi killing
+1100067 【Consumption】Illusion Dispelled
+1100068 [Consumption] Strengthening anti-spirit
+1100069 [Consumption] Strengthening resistance to electric shock
+1100070 General-purpose material: Steel 1 (fragment)
+1100071 General-purpose material: Chemical magic 1 (fragment)
+1100100 Artificial limb making _ firecracker
+1100101 Gourd possession upper limit UP
+1100102 [Consumption] Virus recovery + patience enhancement
+1100103 [Consumption] Grip ash
+1100104 Dragon cough healing
+1100105 【Consumption】Gold nuggets_small
+1100106 【Consumption】Gold Bullion_Medium
+1100107 【Consumption】Illusion Dispelled
+1100108 [Consumption] Strengthening anti-spirit
+1100109 [Consumption] Strengthening resistance to electric shock
+1100110 General-purpose material: Steel 1 (fragment)
+1100111 General-purpose material: Chemical magic 1 (fragment)
+1100150 Artificial limb making _ firecracker
+1100151 Gourd possession upper limit UP
+1100152 [Consumption] Virus recovery + patience enhancement
+1100153 [Consumption] Grip ash
+1100154 Dragon cough healing
+1100155 【Consumption】Gold nuggets_small
+1100156 【Consumption】Gold Bullion_Medium
+1100157 【Consumption】Illusion Dispelled
+1100158 [Consumption] Strengthening anti-spirit
+1100159 [Consumption] Strengthening resistance to electric shock
+1100160 General-purpose material: Steel 1 (fragment)
+1100161 General-purpose material: Chemical magic 1 (fragment)
+1100200 Artificial limb ninja strengthening _ shuriken _ butterfly kunai
+1100201 [Consumption] Pottery
+1100202 [Consumption] Grip ash
+1100203 [Consumption] Regeneration
+1100204 【Consumption】Gold nuggets_small
+1100205 General-purpose material: Steel 1 (fragment)
+1100206 General-purpose material: Chemical magic 1 (fragment)
+1100207 [Consumption] Attack enhancement_with disadvantages
+1100208 【Consumption】Strengthen the body
+1100209 【Consumption】Gold Bullion_Medium
+1100210 General-purpose material: Steel 2 (Large piece)
+1100211 General-purpose material: Chemistry 2 (Large piece)
+1100212 General-purpose material: Magic 2 (Large Fragment)
+1100213 【Consumption】Gold Bullion_Large
+1100214 [Consumption] Attack enhancement
+1100215 [Consumption] Elixir
+1100216 【Consumption】Illusion Dispelled
+1100217 [Consumption] Strengthening anti-spirit
+1100218 [Consumption] Strengthening resistance to electric shock
+1100250 Artificial limb ninja strengthening _ shuriken _ butterfly kunai
+1100251 [Consumption] Pottery
+1100252 [Consumption] Grip ash
+1100253 [Consumption] Regeneration
+1100254 【Consumption】Gold nuggets_small
+1100255 General-purpose material: Steel 1 (fragment)
+1100256 General-purpose material: Chemical magic 1 (fragment)
+1100257 [Consumption] Attack enhancement_with disadvantages
+1100258 【Consumption】Strengthen the body
+1100259 【Consumption】Gold Bullion_Medium
+1100260 General-purpose material: Steel 2 (Large piece)
+1100261 General-purpose material: Chemistry 2 (Large piece)
+1100262 General-purpose material: Magic 2 (Large Fragment)
+1100263 【Consumption】Gold Bullion_Large
+1100264 [Consumption] Attack enhancement
+1100265 [Consumption] Elixir
+1100266 【Consumption】Illusion Dispelled
+1100267 [Consumption] Strengthening anti-spirit
+1100268 [Consumption] Strengthening resistance to electric shock
+1100300 Anayama partnership certificate
+1100400 Gourd possession upper limit UP
+1100401 [Consumption] Regeneration
+1100402 [Consumption] Virus recovery + patience enhancement
+1100403 [Consumption] Recovery from fire + Strengthening resistance
+1100404 [Consumption] Recovery from madness + Strengthening resistance
+1100405 【Consumption】Strengthen defense
+1100406 Kodachi hint
+1100407 Finger whistle strengthening tips
+1100408 Transformation tips
+1100409 【Consumption】Gold nuggets_small
+1100410 【Consumption】Gold Bullion_Medium
+1100411 【Consumption】Illusion Dispelled
+1100412 [Consumption] Strengthening anti-spirit
+1100413 [Consumption] Strengthening resistance to electric shock
+1100414 General-purpose material: Steel 1 (fragment)
+1100415 General-purpose material: Chemical magic 1 (fragment)
+1100450 Gourd possession upper limit UP
+1100451 [Consumption] Regeneration
+1100452 [Consumption] Virus recovery + patience enhancement
+1100453 [Consumption] Recovery from fire + Strengthening resistance
+1100454 [Consumption] Recovery from madness + Strengthening resistance
+1100455 【Consumption】Strengthen defense
+1100456 Kodachi hint
+1100457 Finger whistle strengthening tips
+1100458 Transformation tips
+1100459 【Consumption】Gold nuggets_small
+1100460 【Consumption】Gold Bullion_Medium
+1100461 【Consumption】Illusion Dispelled
+1100462 [Consumption] Strengthening anti-spirit
+1100463 [Consumption] Strengthening resistance to electric shock
+1100464 General-purpose material: Steel 1 (fragment)
+1100465 General-purpose material: Chemical magic 1 (fragment)
+1100500 Basic action lifted _ anti-aircraft shinobi killing
+1100501 HP / Trunk UP Fragment
+1100502 HP / Trunk UP Fragment
+1100503 Artificial limb ninja creation_shuriken
+1100504 Artificial limb ninja creation_prepared spear
+1100505 Gourd possession upper limit UP
+1100506 Artificial limb ninja strengthening _ shuriken _ butterfly kunai
+1100507 HP / Trunk UP Fragment
+1100508 HP / Trunk UP Fragment
+1100509 HP / Trunk UP Fragment
+1100510 Artificial limb making _ firecracker
+1100511 Gourd possession upper limit UP
+1100512 HP / Trunk UP Fragment
+1100513 Mask Fragment C
+1100514 Artificial limb making _ iron fan
+1100515 HP / Trunk UP Fragment
+1101000 Shuriken
+1101001 Firecrackers
+1101002 Ignition
+1101003 Preparation ax
+1101004 Transformation
+1101005 Kodachi
+1101006 Iron fan
+1101007 Turn the enemy
+1101008 Preparation spear
+1101009 Finger flute
+1110000 HP / Trunk UP Fragment
+1110001 Mask Fragment C
+1110002 [Consumption] Regeneration
+1110003 【Consumption】From the virus
+1110004 【Consumption】Gold nuggets_small
+1110005 【Consumption】Gold Bullion_Medium
+1110006 [Consumption] Item drop rate UP
+1110007 【Consumption】Illusion Dispelled
+1110008 [Consumption] Strengthening anti-spirit
+1110009 [Consumption] Strengthening resistance to electric shock
+1110010 General-purpose material: Steel 1 (fragment)
+1110011 General-purpose material: Chemical magic 1 (fragment)
+1110050 HP / Trunk UP Fragment
+1110051 Mask Fragment C
+1110052 [Consumption] Regeneration
+1110053 【Consumption】From the virus
+1110054 【Consumption】Gold nuggets_small
+1110055 【Consumption】Gold Bullion_Medium
+1110056 [Consumption] Item drop rate UP
+1110057 【Consumption】Illusion Dispelled
+1110058 [Consumption] Strengthening anti-spirit
+1110059 [Consumption] Strengthening resistance to electric shock
+1110060 General-purpose material: Steel 1 (fragment)
+1110061 General-purpose material: Chemical magic 1 (fragment)
+1111400 Artificial limb making _ iron fan
+1111401 Basic action lifted _ anti-aircraft shinobi killing
+1111402 【Consumption】Illusion Dispelled
+1111403 [Consumption] Attack enhancement_with disadvantages
+1111404 【Consumption】Suicide
+1111405 【Consumption】Illusion Dispelled
+1111406 [Consumption] Strengthening anti-spirit
+1111407 [Consumption] Strengthening resistance to electric shock
+1111408 General-purpose material: Steel 1 (fragment)
+1111409 General-purpose material: Chemical magic 1 (fragment)
+1111450 Artificial limb making _ iron fan
+1111451 Basic action lifted _ anti-aircraft shinobi killing
+1111452 【Consumption】Illusion Dispelled
+1111453 [Consumption] Attack enhancement_with disadvantages
+1111454 【Consumption】Suicide
+1111455 【Consumption】Illusion Dispelled
+1111456 [Consumption] Strengthening anti-spirit
+1111457 [Consumption] Strengthening resistance to electric shock
+1111458 General-purpose material: Steel 1 (fragment)
+1111459 General-purpose material: Chemical magic 1 (fragment)
+1500000 Madness prevention gourd
+1500001 [Consumption] Regeneration
+1500002 General-purpose material: Steel 3 (lump)
+1500003 [Consumption] Stealth enhancement
+1500004 【Consumption】Gold Bullion_Medium
+1500005 【Consumption】Gold Bullion_Large
+1500006 Uroko
+1500007 Liquor (Longquan)
+1500008 【Consumption】Illusion Dispelled
+1500009 [Consumption] Strengthening anti-spirit
+1500010 [Consumption] Strengthening resistance to electric shock
+1500011 General-purpose material: Steel 1 (fragment)
+1500012 General-purpose material: Chemical magic 1 (fragment)
+1500050 Madness prevention gourd
+1500051 [Consumption] Regeneration
+1500052 General-purpose material: Steel 3 (lump)
+1500053 [Consumption] Stealth enhancement
+1500054 【Consumption】Gold Bullion_Medium
+1500055 【Consumption】Gold Bullion_Large
+1500056 Uroko
+1500057 Liquor (Longquan)
+1500058 【Consumption】Illusion Dispelled
+1500059 [Consumption] Strengthening anti-spirit
+1500060 [Consumption] Strengthening resistance to electric shock
+1500061 General-purpose material: Steel 1 (fragment)
+1500062 General-purpose material: Chemical magic 1 (fragment)
+1700000 Poison prevention gourd
+1700001 [Consumption] Regeneration
+1700002 [Consumption] Virus recovery + patience enhancement
+1700003 General-purpose material: Chemistry 2 (Large piece)
+1700004 【Consumption】Gold Bullion_Medium
+1700005 Dragon cough healing
+1700006 【Consumption】Illusion Dispelled
+1700007 [Consumption] Strengthening anti-spirit
+1700008 [Consumption] Strengthening resistance to electric shock
+1700009 General-purpose material: Steel 1 (fragment)
+1700010 General-purpose material: Chemical magic 1 (fragment)
+1700050 Poison prevention gourd
+1700051 [Consumption] Regeneration
+1700052 [Consumption] Virus recovery + patience enhancement
+1700053 General-purpose material: Chemistry 2 (Large piece)
+1700054 【Consumption】Gold Bullion_Medium
+1700055 Dragon cough healing
+1700056 【Consumption】Illusion Dispelled
+1700057 [Consumption] Strengthening anti-spirit
+1700058 [Consumption] Strengthening resistance to electric shock
+1700059 General-purpose material: Steel 1 (fragment)
+1700060 General-purpose material: Chemical magic 1 (fragment)
+2000000 Five-color rice
+2000001 General-purpose material: Steel 2 (Large piece)
+2000002 [Consumption] Attack enhancement
+2000003 【Consumption】Strengthen defense
+2000004 persimmon
+2000005 【Consumption】Gold nuggets_small
+2000006 【Consumption】Gold Bullion_Medium
+2000007 【Consumption】Gold Bullion_Large
+2000008 【Consumption】Illusion Dispelled
+2000009 [Consumption] Strengthening anti-spirit
+2000010 [Consumption] Strengthening resistance to electric shock
+2000011 General-purpose material: Steel 1 (fragment)
+2000012 General-purpose material: Chemical magic 1 (fragment)
+2000050 Five-color rice
+2000051 General-purpose material: Steel 2 (Large piece)
+2000052 [Consumption] Attack enhancement
+2000053 【Consumption】Strengthen defense
+2000054 persimmon
+2000055 【Consumption】Gold nuggets_small
+2000056 【Consumption】Gold Bullion_Medium
+2000057 【Consumption】Gold Bullion_Large
+2000058 【Consumption】Illusion Dispelled
+2000059 [Consumption] Strengthening anti-spirit
+2000060 [Consumption] Strengthening resistance to electric shock
+2000061 General-purpose material: Steel 1 (fragment)
+2000062 General-purpose material: Chemical magic 1 (fragment)
+2500000 Mask Fragment B
+2500001 Master
+2500002 Dragon cough healing
+2500003 [Consumption] Weird young water thrombus (scale shop fry)
+2500004 Lifting of the ban on school techniques_Hachiman Flying Rush
+2500005 【Supplement】Prevention of Yanshang_Yes
+2500006 Mask Fragment A
+2500007 Dragon cough healing
+2500008 [Consumption] Elixir
+9620000 Magatama Fragment 1
+9620001 Resource item C (blue)
+9620002 Preparation ax
+9620003 Magatama Fragment 2
+9620004 Magatama Fragment 3
+9620006 Whetstone Fragment 1
+9620007 Whetstone Fragment 4
+9620008 Whetstone Fragment 5
+9620009 parachute
+9620010 Ignition
+9620011 Firecrackers
+9620100 Puppet puppet killing technique
+9620101 Blessing technique
+9620102 Magatama Fragment 4
+9620103 Whetstone Fragment 2
+9620200 Detoxification prescription
+9620201 Magatama
+9620202 Whetstone Fragment 3
+9620300 Resource item A (white charge)
+9620301 Resource item B (red)
+9620302 Resource item C (blue)
+9999000 Preparation ax
+9999001 Resurrection technique
+9999002 Magatama Fragment 1
+9999003 Magatama Fragment 2
+9999004 Magatama Fragment 3
+9999005 Whetstone Fragment 1
+9999006 Whetstone Fragment 4
+9999007 Whetstone Fragment 5
+9999008 parachute
+9999009 Ignition
+9999010 Shuriken
+9999011 Puppet puppet killing technique
+9999012 Blessing technique
+9999013 Magatama Fragment 4
+9999014 Whetstone Fragment 2
+9999015 Detoxification prescription
+9999016 Magatama
+9999017 Whetstone Fragment 3
+9999018 Resource item A (white charge)
+9999019 Resource item B (red)
+9999020 Resource item C (blue)
+9999021 Pills
+9999022 Blood and Smoke Kill
+9999023 Puppet endurance
+9999024 parachute
+9999025 Blessing technique
+9999026 Pills_small
+9999027 Detoxification circle
+9999028 Detoxification Maru prescription
+9999029 HP / Trunk_Heart Fragment
+9999030 HP / Trunk_Heart Vessel
+9999031 Sword attack power up item
+9999032 Recovery Ninja Frame Expansion Item
+9999033 Resurrection technique
+9999034 Ninjutsu_Blood Smoke
+9999035 Ninjutsu_Puppet
+9999036 Ninjutsu Ninjutsu_Encha
+9999037 Parachute_for discrimination
+9999100 Pills
+9999101 Resurrection technique
+9999102 Magatama Fragment 1
+9999103 Magatama Fragment 2
+9999104 Magatama Fragment 3
+9999105 Detoxification circle
+9999200 Shuriken
+9999201 Firecrackers
+9999202 Ignition
+9999203 Preparation ax
+9999204 Transformation
+9999205 Kodachi
+9999206 Iron fan
+9999207 Turn the enemy
+9999208 Preparation spear
+9999209 Finger flute

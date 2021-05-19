@@ -1,0 +1,1436 @@
+0 test
+1 Magic test
+2 Funnel test
+3 Flying Dragon Breath Test
+4 For destroying automatic patrol objects
+6 For automatic patrol object destruction_for debug function verification
+50 Bonfire recovery effect
+60 Bullet Random Number Test_Parent
+61 Bullet random number test_child
+62 Long-distance magic: Flame to pierce_Begin to appear
+63 Long-distance magic: wear つ Yan _ dear
+64 Long-distance magic: piercing flame_search bullet
+65 Long-distance Magic: Wearing Yan_子
+290 Anti-spirit force
+295 Depression Force_Parent
+296 Depression Force_Child
+300 Ninjutsu Ninjutsu_Blood Smoke_Normal_Reaction Playback
+301 Ninjutsu Ninjutsu_Blood Smoke_Normal_Blind Effect + Eye Shield
+360 Ninjutsu Ninjutsu_Blood Smoke_Radiation_Red Blood_Parent_Early_Early_Reaction Playback
+361 Ninjutsu Ninjutsu_Blood Smoke_Radiation_Red Blood_Parent_Early_Blind Effect + Eye Shield
+362 Ninjutsu Ninjutsu_Blood Smoke_Radiation_Red Blood_Parent_Middle_Reaction Playback
+363 Ninjutsu Ninjutsu_Blood Smoke_Radiation_Red Blood_Parent_Middle_Blind Effect + Eye Shield
+364 Ninjutsu Ninjutsu_Blood Smoke_Radiation_Red Blood_Parent_Late Stage_Reaction Playback
+365 Ninjutsu_Blood Smoke_Radiation_Red Blood_Pro_Final_Blind Effect + Sight Blocking
+366 Ninjutsu Ninjutsu_Blood Smoke_Radiation_Red Blood_Child_Early_Reaction Playback
+367 Ninjutsu Ninjutsu_Blood Smoke_Radiation_Red Blood_Child_Early_Blind Effect + Eye Shield
+368 Ninjutsu Ninjutsu_Blood Smoke_Radiation_Red Blood_Child_Middle_Reaction Playback
+369 Ninjutsu_Blood Smoke_Radiation_Red Blood_Sub_Middle Plate_Blind Effect + Sight Blocking
+370 Ninjutsu Ninjutsu_Blood Smoke_Radiation_Red Blood_Child_Late Stage_Reaction Playback
+371 Ninjutsu_Blood Smoke_Radiation_Red Blood_Sub_Final_Blind Effect + Sight Blocking
+372 Ninjutsu_Blood Smoke_Radiation_Red Blood_SFX Use
+375 Ninjutsu Ninjutsu_Blood Smoke_Radiation_Poisonous Blood_Parent_Early_Reaction Playback
+376 Ninjutsu Ninjutsu_Blood Smoke_Radiation_Poisonous Blood_Parent_Early_Blind Effect + Gaze Shielding + Poison
+377 Ninjutsu Ninjutsu_Blood Smoke_Radiation_Poisonous Blood_Parent_Middle_Reaction Playback
+378 Ninjutsu Ninjutsu_Blood Smoke_Radiation_Poisonous Blood_Parent_Middle_Blind Effect + Line-of-sight + Poison
+379 Ninjutsu Ninjutsu_Blood Smoke_Radiation_Poisonous Blood_Parent_Late Stage_Reaction Playback
+380 Ninjutsu Ninjutsu_Blood Smoke_Radiation_Poisonous Blood_Parent_Late Stage_Blind Effect + Eye-blocking + Poison
+381 Ninjutsu Ninjutsu_Blood Smoke_Radiation_Poisonous Blood_Child_Early_Reaction Playback
+382 Ninjutsu Ninjutsu_Blood Smoke_Radiation_Poisonous Blood_Child_Early_Blind Effect + Gaze Shielding + Poison
+383 Ninjutsu Ninjutsu_Blood Smoke_Radiation_Poisonous Blood_Child_Middle_Reaction Playback
+384 Ninjutsu Ninjutsu_Blood Smoke_Radiation_Poisonous Blood_Child_Middle_Blind Effect + Gaze Shielding + Poison
+385 Ninjutsu Ninjutsu_Blood Smoke_Radiation_Poisonous Blood_Child_Late Stage_Reaction Playback
+386 Ninjutsu Ninjutsu_Blood Smoke_Radiation_Poisonous Blood_Child_Late _Blind Effect + Eye Shield + Poison
+387 Ninjutsu_Blood Smoke_Radiation_Poisonous Blood_SFX Use
+390 Ninjutsu Ninjutsu_Blood Smoke_Radiation_White Blood_Parent_Early_Early_Reaction Playback
+391 Ninjutsu Ninjutsu_Blood Smoke_Radiation_Leukemia_Parent_Early_Blind Effect + Gaze Shielding + Recovery
+392 Ninjutsu Ninjutsu_Blood Smoke_Radiation_White Blood_Parent_Middle_Reaction Playback
+393 Ninjutsu Ninjutsu_Blood Smoke_Radiation_Leukemia_Parent_Middle_Blind Effect + Gaze Shielding + Recovery
+394 Ninjutsu Ninjutsu_Blood Smoke_Radiation_White Blood_Parent_Late Stage_Reaction Playback
+395 Ninjutsu Ninjutsu_Blood Smoke_Radiation_Leukemia_Parent_Late_Blind Effect + Gaze Shielding + Recovery
+396 Ninjutsu Ninjutsu_Blood Smoke_Radiation_White Blood_Child_Early_Reaction Playback
+397 Ninjutsu Ninjutsu_Blood Smoke_Radiation_Leukemia_Child_Early_Blind Effect + Gaze Shielding + Recovery
+398 Ninjutsu Ninjutsu_Blood Smoke_Radiation_White Blood_Child_Middle_Reaction Playback
+399 Ninjutsu Ninjutsu_Blood Smoke_Radiation_Leukemia_Child_Middle_Blind Effect + Gaze Shielding + Recovery
+400 Ninjutsu Ninjutsu_Blood Smoke_Radiation_White Blood_Child_Late Stage_Reaction Playback
+401 Ninjutsu Ninjutsu _ Blood Smoke _ Radiation _ Leukemia _ Child _ Late _ Blind Effect + Eye Shield + Recovery
+402 Ninjutsu_Blood Smoke_Radiation_White Blood_SFX Use
+999 Artificial limb _ shape fee consumption dummy
+1000 Artificial limb ninja _ finger whistle _ lock-on _ from enemy _ parent A (reservoir)
+1001 Artificial limb ninja _ finger whistle _ lock-on _ from enemy _ parent B
+1002 Artificial limb ninja _ finger whistle _ lock-on _ from enemy _ child A (reservoir)
+1003 Artificial limb ninja _ finger whistle _ lock on _ from enemy _ child B
+1004 Artificial limb ninja _ finger whistle _ lock-on _ from enemy _ grandson A (reservoir)
+1010 Artificial limb ninja _ finger whistle LV3 _ lock on _ from enemy _ parent A (reservoir)
+1011 Artificial limb ninja _ finger whistle LV3 _ lock on _ from enemy _ parent B
+1012 Artificial limb ninja _ finger whistle LV3 _ lock on _ from enemy _ child A (reservoir)
+1013 Artificial limb ninja _ finger whistle LV3 _ lock on _ from enemy _ child B
+1014 Artificial limb ninja _ finger whistle LV3 _ lock on _ from enemy _ grandson A (reservoir)
+1020 Pottery _ Bullet to fly from the enemy
+1700 Miasma_dummy_parent
+1701 Miasma_dummy_child
+1702 Miasma_dummy_grandson
+1705 Miasma _ body _ parent
+1706 Miasma_body_child
+3020 Regeneration_Activation + &quot;Cure (Small)&quot;
+3021 Regen_Effect: HP Regen (Small)
+3040 Elixir_Activation + &quot;Cure (Large)&quot; + Effect: HP / Core Recovery
+3041 Elixir_Effect: Abnormal condition recovery
+3042 Elixir Effect: Restoration of virus resistance
+3043 Elixir _Effect: Eliminates poison slip damage
+3044 Elixir _ Effect: Restoration of resistance to fire
+3045 Elixir _Effect: Restores madness resistance
+3046 Elixir_ &quot;Healing (Large)&quot;
+3050 Weird young water thrombus _ activation + &quot;red eye&quot;
+3051 Weird water thrombus_Effect: SA grant
+3060 Ohagi_ Activate + &quot;Cure (Large)&quot;
+3061 Ohagi_Effect: HP Regeneration (Large)
+3062 Ohagi_Effect: Strengthening the core (Large)
+3063 Ohagi_ &quot;Trunk (Large)&quot;
+3070 Persimmon _ activation + &quot;trunk (middle)&quot;
+3071 Persimmon_Effect: Strengthening the core (Large)
+3075 Persimmon (lower son) _ activation + &quot;trunk (large)&quot;
+3076 Persimmon (lower man) _Effect: Strengthening the core
+3080 Chigo rice _ activation + &quot;cure (middle)&quot;
+3081 Chigo Rice_Effect: HP Regeneration (Medium)
+3085 Chigo rice (Sasameyuki) _ activation + &quot;Cure (Large)&quot;
+3086 Chigo rice (Sasameyuki) _Effect: HP regen (Large)
+3200 Disease recovery_Activation + &quot;Healing&quot; + Effect: State recovery
+3201 Disease recovery_Effect: Resistance recovery
+3202 Disease recovery_Effect: Dot damage elimination
+3203 Disease recovery_Effect: Increased resistance
+3204 Virus Recovery_ &quot;Virus Resistant&quot;
+3210 Flame recovery_Activation + &quot;Healing&quot; + Effect: State recovery
+3211 Flame Recovery_Effect: Resistance Recovery
+3212 Flame recovery_Effect: Increased resistance
+3213 Flaming recovery_ &quot;flaming resistance&quot;
+3215 Flame recovery_Activation + &quot;Healing&quot; + Effect: State recovery_Tokugawa
+3216 Flame recovery_Effect: Resistance recovery_Tokugawa
+3217 Flame recovery_Effect: Resistance UP_Tokugawa
+3218 Flame recovery _ &quot;flaming resistance&quot; _ Tokugawa
+3220 Mad Recovery_Activation + &quot;Healing&quot; + Effect: State Recovery
+3221 Madness Recovery_Effect: Resistance Recovery
+3222 Mad Recovery_Effect: Increased resistance
+3223 Mad recovery_ &quot;fear resistance&quot;
+3230 Electric shock delay _ activation + &quot;lightning resistance&quot;
+3231 Electric shock delay_effect: Increased resistance
+3240 Aging recovery_state recovery
+3241 Aging recovery_tolerance recovery
+3242 Aging recovery_tolerance UP
+3250 Self virus
+3270 Spontaneous
+3300 Disease prevention_invocation + &quot;anti-poison&quot;
+3301 Disease prevention_Effect: Tolerance recovery
+3302 Disease prevention_Effect: Increased resistance
+3310 Flame prevention_Activation + &quot;Anti-flame&quot;
+3311 Flame Prevention_Effect: Tolerance Recovery
+3312 Flame prevention_Effect: Increased resistance
+3320 Madness Prevention_Activation + &quot;Fear-Resistant&quot;
+3321 Madness Prevention_Effect_Resistance Recovery
+3322 Madness Prevention_Effect_Resistance UP
+3350 Attack enhancement (unlimited/form generation consumption)_VFX
+3351 Attack enhancement (infinite / form cost consumption) _ effect
+3360 Attack enhancement (infinite / consumption of form) _with disadvantages_VFX
+3361 Attack enhancement (infinite / consumption of form) _with disadvantages_effect
+3370 Defense enhancement (unlimited/form generation consumption)_VFX
+3371 Strengthening defense (infinite / consumption of form) _ effect
+3380 Body strengthening (unlimited/form generation consumption)_VFX
+3381 Core strengthening (infinite / shape cost consumption) _ effect
+3390 Stealth enhancement (infinite / shape cost consumption) _VFX
+3391 Stealth enhancement (infinite / shape cost consumption) _ effect
+3400 Attack enhancement_VFX
+3401 Attack enhancement_effect
+3410 Attack enhancement_with disadvantages_VFX
+3411 Attack enhancement_with disadvantages_effect
+3420 Defense enhancement_VFX
+3421 Defense enhancement_effect
+3430 Body Strengthening_VFX
+3431 Core strengthening_effect
+3440 Stealth enhancement_VFX
+3441 Stealth enhancement_effect
+3450 Anti-spirit strengthening_VFX
+3451 Anti-spirit strengthening_effect
+3490 Pottery_pro
+3491 Pottery_child
+3492 Pottery_Sun
+3495 Pottery piece_parent_ hanging
+3496 Pottery piece_child_ hanging
+3497 Pottery piece _ grandson _ hanging
+3500 Pottery piece_parent_peeping left
+3501 Pottery piece _ child _ peeping left
+3502 Pottery piece _ grandson _ peeping left
+3505 Pottery piece_parent_peeping right
+3506 Pottery piece_child_peeping right
+3507 Pottery piece _ grandson _ peeping right
+3510 Nigiri Ash_Parent
+3511 Nigiri Ash_Child
+3512 Nigiri Ash_Grandson
+3520 You 壷_Dear
+3521 Youyi
+3530 Release illusion_Phantom drowning bullet
+3580 Five-color rice
+3600 Money acquisition UP_VFX
+3601 Money acquisition UP_effect
+3610 Resurrection right acquisition amount UP_VFX
+3611 Resurrection right acquisition amount UP_ effect
+3620 Item drop rate UP_VFX
+3621 Item drop rate UP_effect
+3630 Form cost drop rate UP_VFX
+3631 Form cost drop rate UP_effect
+3640 White Rappa Water Balloon_Money Acquisition amount UP_VFX
+3641 White Rappa Water Balloon_Money Acquisition _Effect
+3643 White Rappa Water Balloon_Resurrection Right Acquisition Amount UP_Effect
+3645 White Rappa Water Balloon_Item Drop Rate UP_Effect
+3647 White Rappa Water Balloon_Shape Drop Rate UP_Effect
+9900 DL confirmation 00_ None
+9901 DL confirmation 01_small
+9902 DL confirmation 02_in
+9903 DL confirmation 03_large
+9904 DL confirmation 04_ Blow-off size
+9905 DL confirmation 05_ press
+9906 DL confirmation 06_ slamming
+9907 DL confirmation 07_Blow-off small (PC kick only)
+9908 DL confirmation 08_minimal addition
+9909 DL confirmation 09_ lift up
+9910 DL confirmation 10_ Blow-off oversized
+9911 DL confirmation 11_ breath (unused)
+9915 DL confirmation 20_break
+9920 DL confirmation 15_ inflammation
+9930 AI sound confirmation_normal sound
+9931 AI sound confirmation_important sound
+500184 Right-handed sword_strong thunder enchantment additional bullet
+500190 Right hand sword_red blood enchantment additional bullet (thrust)
+500191 Right hand sword_poison blood enchantment additional bullet (thrust)
+500192 Right hand sword_white blood enchantment additional bullet (thrust)
+500193 Right-handed sword_Weak thunder enchantment additional bullet (thrust)
+500410 School Technique_Sword Holy Iai_Reserved Bullet 1
+500415 School Technique_Sword Holy Iai_Reserved Bullet 2_Parent
+500416 School Technique_Sword Holy Iai_Reserved Bullet 2_Child
+500417 School Technique_Sword Holy Iai_Reservoir Bullet 2_Grandson
+500418 School Technique_Sword Holy Iai_Reservoir Bullet 2_Great-Grandson
+500430 School Technique_Sword Holy Iai_Bullet
+500520 School technique_Invisible Iai continuous attack_Delayed continuous attack 0
+500521 School technique_Invisible Iai continuous attack_Delayed continuous attack 1
+500522 School technique_Invisible Iai continuous attack_Delayed continuous attack 2
+500523 School technique_Invisible Iai continuous attack_Delayed continuous attack 3
+500524 School technique_Invisible Iai continuous attack_Delayed continuous attack 4
+500530 School technique_Invisible Iai continuous attack_Delayed continuous attack SFX0
+500531 School technique_Invisible Iai continuous attack_Delayed continuous attack SFX1
+700000 Artificial limb ninja _ Shuriken _ Reservoir 1/3 throw _1 Hit
+700001 Artificial limb ninja _ Shuriken _ Reservoir 1/3 throw _1 Wait
+700002 Artificial limb ninja _ Shuriken _ Reservoir 1/3 throw _2 Hit
+700003 Artificial limb ninja _ Shuriken _ Reservoir 1/3 throw _2 Wait
+700004 Artificial limb ninja _ Shuriken _ Reservoir 1/3 throw _ 3 Hit
+700010 Artificial limb ninja _ Shuriken _ Reservoir 2nd throw _1 Hit
+700011 Artificial limb ninja _ Shuriken _ Reservoir 2nd throw _1 Wait
+700012 Artificial limb ninja _ Shuriken _ Reservoir 2nd throw_2Hit
+700013 Artificial limb ninja _ Shuriken _ Reservoir 2nd throw_2Wait
+700014 Artificial limb ninja _ Shuriken _ Reservoir 2nd throw _ 3 Hit
+700050 Artificial limbs _ Shuriken_1 / 3rd pitch
+700060 Artificial limb ninja _ Shuriken_2 pitch
+700200 Artificial limb Ninja _ Shuriken LV3-A_ Reservoir 1/3 Throw _1 Hit
+700201 Artificial limb ninja _ Shuriken LV3-A_ Reservoir 1/3 throw _1 Wait
+700202 Artificial limb ninja _ Shuriken LV3-A_ Reservoir 1/3 throw _2 Hit
+700203 Artificial limb Ninja _ Shuriken LV3-A_ Reservoir 1/3 Throw _2 Wait
+700204 Artificial limb ninja _ Shuriken LV3-A_ Reservoir 1/3 throw _ 3 Hit
+700210 Artificial limb ninja _ Shuriken LV3-A_ Reservoir 2nd throw _1 Hit
+700211 Artificial limb ninja _ Shuriken LV3-A_ Reservoir 2nd throw _1 Wait
+700212 Artificial limb ninja _ Shuriken LV3-A_ Reservoir 2nd throw_2Hit
+700213 Artificial limb ninja _ Shuriken LV3-A_ Reservoir 2nd throw_2Wait
+700214 Artificial limb ninja _ Shuriken LV3-A_ Reservoir 2nd throw _ 3 Hit
+700250 Artificial limb ninja _ Shuriken LV3-A_1 / 3 throw
+700260 Artificial limbs _ Shuriken LV3-A_2 Pitcher
+700300 Artificial limb ninja _ Shuriken LV3-B_ Reservoir 1/3 throw
+700310 Artificial limb ninja _ Shuriken LV3-B_ 2nd throw
+700320 Artificial limb ninja _ Shuriken LV3-B_ Accumulation guided bullet _ Parent
+700321 Artificial limb ninja _ Shuriken LV3-B _ Accumulation guided bullet _ Child
+700350 Artificial limb ninja _ Shuriken LV3-B_1 / 3 throw
+700360 Artificial limbs _ Shuriken LV3-B_2 Pitcher
+700370 Artificial limb ninja _ Shuriken LV3-B _ Guided bullet _ Parent
+700371 Artificial limb ninja _ Shuriken LV3-B_ Guided bullet _ Child
+700400 Artificial limb ninja _ Shuriken LV3-C_ Reservoir 1/3 throw _ LV0
+700401 Artificial limb ninja _ Shuriken LV3-C_ Reservoir 1/3 throw _ LV1
+700402 Artificial limb ninja _ Shuriken LV3-C_ Reservoir 1/3 throw _ LV2
+700403 Artificial limb ninja _ Shuriken LV3-C_ Reservoir 1/3 throw _ LV3
+700410 Artificial limb ninja _ Shuriken LV3-C_ Reservoir 2nd throw _ LV0
+700411 Artificial limb ninja _ Shuriken LV3-C_ Reservoir 2nd throw _ LV1
+700412 Artificial limb ninja _ Shuriken LV3-C_ Reservoir 2nd throw _ LV2
+700413 Artificial limb ninja _ Shuriken LV3-C_ Reservoir 2nd throw _ LV3
+700450 Artificial limbs _ Shuriken LV3-C_1 / 3 Throw _LV0
+700451 Artificial limb ninja _ Shuriken LV3-C_1 / 3 Throw _LV1
+700452 Artificial limb ninja _ Shuriken LV3-C_1 / 3 Throw _LV2
+700453 Artificial limb ninja _ Shuriken LV3-C_1 / 3 Throw _LV3
+700460 Artificial limb ninja _ Shuriken LV3-C_2 Pitcher _LV0
+700461 Artificial limb ninja _ Shuriken LV3-C_2 Pitcher _LV1
+700462 Artificial limb ninja _ Shuriken LV3-C_2 Pitcher _LV2
+700463 Artificial limb ninja _ Shuriken LV3-C_2 Pitcher _LV3
+700500 Artificial limb ninja _ Shuriken LV4_ Reservoir 1/3 throw _1 Hit
+700501 Artificial limb ninja _ Shuriken LV4_ Reservoir 1/3 throw _1 Wait
+700502 Artificial limb ninja _ Shuriken LV4_ Reservoir 1/3 throw _2 Hit
+700503 Artificial limb Ninja _ Shuriken LV4_ Reservoir 1/3 Throw _2 Wait
+700504 Artificial limb ninja _ Shuriken LV4 _ Reservoir 1/3 throw _ 3 Hit
+700510 Artificial limb ninja _ Shuriken LV4 _ Reservoir 2nd throw _1 Hit
+700511 Artificial limb ninja _ Shuriken LV4_ Reservoir 2nd throw _1 Wait
+700512 Artificial limb ninja _ Shuriken LV4_ Reservoir 2nd throw_2Hit
+700513 Artificial limb ninja _ Shuriken LV4_ Reservoir 2nd throw_2Wait
+700514 Artificial limb ninja _ Shuriken LV4 _ Reservoir 2nd throw _ 3 Hit
+700550 Artificial limb ninja _ Shuriken LV4_1 / 3 throw
+700560 Artificial limb ninja _ Shuriken LV4_2 pitch
+710000 Artificial limb ninja _ firecracker _ reservoir _ parent
+710001 Artificial limb ninja _ firecracker _ child
+710002 Artificial limb ninja _ firecracker _ grandson
+710003 Artificial limb ninja _ firecracker _ great-grandson
+710010 Artificial limb ninja _ firecracker _ reservoir _ parent _ anti-special attack character
+710011 Artificial limb ninja _ firecracker _ child _ anti-special attack character
+710012 Artificial limb ninja _ firecracker _ grandson _ anti-special attack character
+710013 Artificial limb ninja _ firecracker _ great-grandson _ vs. special attack character
+710020 Artificial limb ninja _ firecracker _ aerial _ parent
+710030 Artificial limb ninja _ firecracker _ aerial _ parent _ anti-special attack character
+710050 Artificial limb ninja _ firecracker _ parent
+710060 Artificial limb ninja _ firecracker _ parent _ anti-special attack character
+710200 Artificial limb ninja _ firecracker LV3-A_ reservoir _ parent
+710201 Artificial limb ninja _ firecracker LV3-A_ child
+710202 Artificial limb ninja _ firecracker LV3-A_ grandson
+710203 Prosthetic Hand Ninja_Firecracker LV3-A_Great-grandson
+710210 Artificial limbs _ Firecracker LV3-A_ Reservoir _ Parent _ Anti-special attack character
+710211 Artificial limb ninja _ firecracker LV3-A_ child _ anti-special attack character
+710212 Artificial limb ninja _ firecracker LV3-A_ grandson _ vs. special attack character
+710213 Artificial limb ninja _ firecracker LV3-A_ great-grandson _ vs. special attack character
+710220 Artificial limb ninja _ firecracker LV3-A_ aerial _ parent
+710230 Artificial limb ninja _ firecracker LV3-A_air_parent_vs. special attack character
+710250 Artificial limb ninja _ firecracker LV3-A_ parent
+710260 Artificial limb ninja _ firecracker LV3-A_ parent _ vs. special attack character
+710300 Artificial limb ninja _ firecracker LV3-B _ reservoir _ parent
+710301 Artificial limb ninja _ firecracker LV3-B_ child
+710302 Artificial limb ninja _ firecracker LV3-B_ grandson
+710303 Prosthetic Hand Ninja_Firecracker LV3-B_Great-grandson
+710310 Artificial limb Ninja _ Firecracker LV3-B_ Reservoir _ Parent _ Anti-special attack character
+710311 Artificial limb ninja _ firecracker LV3-B_ child _ anti-special attack character
+710312 Artificial limb ninja _ firecracker LV3-B_ grandson _ vs. special attack character
+710313 Artificial limb ninja _ firecracker LV3-B_ great-grandson _ vs. special attack character
+710320 Artificial limb ninja _ firecracker LV3-B _ aerial _ parent
+710330 Artificial limb ninja _ firecracker LV3-B _ aerial _ parent _ anti-special attack character
+710350 Artificial limb ninja _ firecracker LV3-B_ parent
+710360 Artificial limb ninja _ firecracker LV3-B _ parent _ vs. special attack character
+720000 Artificial limb Ninja _ Ignition _ Accumulation shooting 1
+720001 Artificial limb Ninja _ Ignition _ Accumulation shooting 2
+720010 Artificial limb _fire_normal shooting
+720020 Artificial limb Ninja _ Ignition _ Shoot in the air
+720030 Artificial limb _fire_flame radiation_start
+720031 Artificial limb _fire_flame radiation_loop
+720040 Artificial limb _fire_derivative attack dummy for enchantment
+720300 Artificial limb Ninja _ Ignition LV4 _ Accumulation shooting 1
+720301 Artificial limb ninja _ Ignition LV4 _ Accumulation shooting 2
+720310 Artificial limb _fire LV4_normal shooting
+720320 Artificial limb _fire LV4_ air shot
+720330 Artificial limb _fire LV4_flame radiation_start
+720331 Artificial limb _fire LV4_flamethrower_loop
+720340 Artificial limb _fire LV4_ derivative attack enchantment dummy
+720350 Artificial limb _ Ignition LV4 _ Anti-spirit force _ Reach far
+730200 Artificial limb _ax LV3_depression force_parent
+730201 Artificial limb ninja _ax LV3_depression force_child
+740200 Artificial limb ninja _ transformation LV3 _ activation shock _ parent
+740201 Artificial limb ninja _ transformation LV3 _ activation shock _ child
+740210 Artificial limb _ transformation LV3 _ depression force _ parent
+740211 Artificial limb ninja _ transformation LV3 _ depression force _ child
+750300 Artificial limb ninja _ Kodachi LV3-B _ poison fog _ to the front
+750301 Artificial limb ninja _ Kodachi LV3-B_ Poison fog _ Left front
+750302 Artificial limb ninja _ Kodachi LV3-B _ poison fog _ right front
+760000 Artificial limb ninja _ iron fan _ iron fan bullet LV1
+760010 Artificial limb ninja _ iron fan _ iron fan bullet LV2
+760011 Artificial limb ninja _ iron fan _ iron fan bullet LV2_SFX only
+760020 Artificial limb ninja _ iron fan _ iron fan bullet LV3
+760021 Artificial limb ninja _ iron fan _ iron fan bullet LV3_SFX only
+760200 Artificial limb ninja _ iron fan LV3-A_ depression force _ parent
+760201 Artificial limb ninja _ iron fan LV3-A_ depression force _ child
+760300 Artificial limb ninja _ Iron fan LV3-B_ Anti-spirit force _ Jasuga / Turn receiving
+760301 Artificial limb ninja _ Iron fan LV3-B _ Anti-spirit force _ Reach far
+770000 Artificial limb Ninja _ Enemy turn (1 remaining)
+770020 Artificial limb ninja _ enemy turning _ wind collection extension (1 remaining)
+770040 Artificial limb Ninja _ Enemy turn _ Derived attack Dummy for enchantment
+770100 Artificial limb _ Ninja _ Enemy turn LV2 (1 remaining)
+770101 Artificial limb _ Ninja _ Enemy turn LV2 (2 remaining)
+770120 Artificial limb ninja _ Enemy turning LV2 _ Wind collecting extension (1 remaining)
+770121 Artificial limb ninja _ enemy turning LV2_ wind collecting extension (2 remaining)
+770200 Artificial limb ninja _ Enemy turning LV3 (1 remaining)
+770201 Artificial limb Ninja _ Enemy turning LV3 (2 remaining)
+770220 Artificial limb ninja _ enemy turning LV3_ wind collecting extension (1 remaining)
+770221 Artificial limb ninja _ enemy turning LV3_ wind collecting extension (2 remaining)
+770240 Artificial limb Ninja _ Enemy turn LV3_ Derived attack enchantment dummy
+780400 Artificial limb Ninja _ Spear LV3-B_ Depression Force _ Parent
+780401 Artificial limb Ninja _ Spear LV3-B_ Depression Force _ Child
+790000 Artificial limb ninja _ finger whistle _ no lock _ parent A (reservoir)
+790001 Artificial limb ninja _ finger whistle _ no lock _ parent B
+790002 Artificial limb ninja _ finger whistle _ no lock _ child (reservoir)
+790003 Artificial limb ninja _ finger whistle _ no lock _ grandson
+790004 Artificial limb ninja _ finger whistle _ no lock _ great-grandson
+790005 Artificial limb ninja _ finger whistle _ sound feed slash _ accumulated bullet
+790006 Artificial limb ninja _ finger whistle _ sound feed slash _ bullet
+790010 Artificial limb ninja _ finger whistle _ lock-on _ PC to A (reservoir)
+790011 Artificial limb ninja _ finger whistle _ lock-on _ B from PC (release)
+790012 Artificial limb ninja _ finger whistle _ lock-on _ B from PC (hanging)
+790014 Artificial limb ninja _ finger whistle _ lock-on _ PC to B (peeping _ left)
+790015 Artificial limb ninja _ finger whistle _ lock-on _ PC to B (peeping _ right)
+790200 Artificial limb ninja _ finger whistle LV3 _ no lock _ parent A (reservoir)
+790201 Artificial limb ninja _ finger whistle LV3 _ no lock _ parent B
+790202 Artificial limb ninja _ finger whistle LV3 _ no lock _ child (reservoir)
+790203 Prosthetic hand ninja _ finger whistle LV3 _ no lock _ grandson
+790204 Artificial limb ninja _ finger whistle LV3 _ no lock _ great-grandson
+790205 Artificial limb ninja _ finger whistle LV3 _ sound feed slash _ accumulated bullet
+790206 Artificial limb ninja _ finger whistle LV3 _ sound feed slash _ bullet
+790210 Artificial limb ninja _ finger whistle LV3 _ lock-on _ PC to A (reservoir)
+790211 Artificial limb ninja _ finger whistle LV3 _ lock on _ PC to B (release)
+790212 Artificial limb ninja _ finger whistle LV3 _ lock on _ PC to B (hanging)
+790214 Artificial limb ninja _ finger whistle LV3 _ lock on _ PC to B (peeping _ left)
+790215 Artificial limb ninja _ finger whistle LV3 _ lock-on _ PC to B (peeping _ right)
+1000000 Map placement Mario coin _ white
+1000010 Map placement Mario coin _ red
+1000020 Map placement Mario coin _ blue
+1000200 Castle_Gunpowder Box_First Bullet
+1000201 Castle_Gunpowder Box_Explosion
+1000202 Castle_Gunpowder Box_Shock Wave
+1000203 Castle _ Gunpowder Box _ Around a slight flame
+1001200 Hidden prison _ lightning strike _ sign
+1001201 Hidden prison_lightning strike_attack
+1002500 Submerged city_lightning strike_predict
+1002501 Submerged City_Lightning Strike_Attack
+2000000 Fire spread
+10001500 Dummy bullet_pseudo platoon AI sound
+10001600 Dummy bullet_dangerous attack
+10002100 Dummy bullet _ find judgment
+10002200 Dummy bullet _ kick jump back circumference judgment
+10002300 Dummy bullet _ enemy turning AI sound bullet
+10002400 Dummy bullet _ resurrection detection AI sound bullet
+10002500 [GC version provisional] Dummy bullet _ Continue to make sound from PC during battle
+10100190 c1010_Ochimusha_One-handed_Stone throwing
+10100910 c1010_Ochimusha_One-handed_AI sound at the start of battle
+10101910 c1010_Ochimusha_Eight Phases_AI sound at the start of battle
+10102910 c1010_Ochimusha_Spear_AI sound at the start of battle
+10102980 Dummy Bullet_Dangerous Attack_Push Combo 1
+10102981 Dummy Bullet_Dangerous Attack_-Push Combo 2
+10102982 Dummy bullet _ dangerous attack _ stepping on
+10102983 Dummy bullet _ dangerous attack _ check-off thrust
+10102984 Dummy Bullet_Dangerous Attack_Pump Thrust
+10102985 Dummy Bullet_Dangerous Attack_Push Retreat
+10102986 Dummy bullet _ dangerous attack _ stepping thrust (short range)
+10102987 Dummy bullet _ dangerous attack _ stepping on (long range)
+10102988 Dummy bullets_dangerous attack_bottom
+10102989 Dummy bullets_dangerous attacks_other thrusts
+10103100 c1010_Ochimusha_Matchlock_Shoot
+10103130 c1010_Ochimusha_Matchlock_Shoot_Not accurate
+10103140 c1010_Ochimusha_Matchlock_Shoot_Underwater
+10103141 c1010_Ochimusha_Matchlock_Shoot_Underwater_Advance a little underwater
+10103910 c1010_Ochimusha_Matchlock_AI sound at the start of battle
+10103920 c1010_Ochimusha_Matchlock_AI sound
+10200980 Dummy Bullet_Dangerous Attack_Lower Combo 1
+10200981 Dummy bullet _ Dangerous attack _ Lower sword-fighting combo 2
+10200982 Dummy bullet _ dangerous attack _ forward thrust
+10200983 Dummy bullet _ dangerous attack _ neck grab
+10200984 Dummy bullet _ Dangerous attack _ Right strong shot from the eight-shaped cut → thrust
+10200985 Dummy bullet _ Dangerous attack _ Strong lower stage squeeze from left strong bullet
+10201980 Dummy Bullet_Dangerous Attack 6m
+10201981 Dummy bullet_dangerous attack 12m
+10300200 c1030_centipede (small) _self-destruct
+10300210 c1030_ Centipede (Small) _
+10300220 c1030_Centipede (Small) _Burning ball sprinkling 2 consecutive -1
+10300221 c1030_Centipede (Small) _Burning ball sprinkling 2 consecutive-2
+10300230 c1030_ Centipede (Small) _ Right-handed smashing ball sprinkling 2 consecutive -1
+10300231 c1030_Centipede (Small) _Right-handed smashing ball sprinkling 2 consecutive-2
+10300240 c1030_Centipede (Small) _Burning ball_Impacting flame floor
+10400981 c1040_Centipede (Large) _Dummy Bullet_Dangerous Attack
+10500980 c1050_Spear Monk_Dummy Bullet_Dangerous Attack
+10600500 c1060_Rotating spearman_Shuriken_Common
+10600510 c1060_Rotating spearman_Shuriken_Navimesh For when not connected
+10600980 Dummy bullet _ Dangerous attack sign _ Lower slash from 4 rotations
+10600981 Dummy bullet _ Dangerous attack sign _ Pole vault lower step
+10700360 Toxic Fog_Dear
+10700361 Toxic Mist
+10700362 Toxic Mist_Sun
+10700363 Toxic Fog_Great-grandson
+10700364 Toxic fog_body_small
+10700365 Poisonous fog_body_medium
+10700366 Toxic Mist_Main Body_Large
+10700367 Toxic Mist_Main Body_Extra Large
+10700369 Poison fog _ dizziness dummy
+10700380 Flame fog_parent
+10700381 Flame fog _ child
+10700382 Flame fog _ grandson
+10700383 Flame fog _ body _ small
+10700384 Flame fog _ body _ inside
+10700385 Flame fog _ body _ large
+10700386 Flame fog _ dizziness dummy
+10700387 Yanwu_Great-grandson
+10700910 Sake bottle throwing bullet (cancellation of special standby)
+10700920 Dummy bullet _ armor generation _ black armor
+10700921 Dummy bullet _ armor generation _ red armor
+10700930 Dummy Bullet_Dummy Attack_Armor Destruction
+10700980 Dummy bullet _ Dangerous attack sign _ One-handed lower sword from poison fog
+10700981 Dummy bullet _ Dangerous attack sign _ Shikona trampling throw
+10700982 Dummy bullet _ Dangerous attack sign _ One-handed lower sword
+10800500 c1080: Seven-sided warrior_burst
+10800501 c1080: Seven-sided warrior_burst _for short range
+10800510 c1080: Seven-sided warrior_guided bullet_small reservoir
+10800511 c1080: Seven-sided warrior_guided bullets_reserving
+10800512 c1080: Seven-sided warrior_guided bullet_large reservoir
+10800520 c1080: Seven-sided warrior_giant bullet_accumulation_launch
+10800521 c1080: Seven-sided warrior_giant bullet_reserving_created
+10800522 c1080: Seven-sided warrior_giant bullet_accumulation_injection
+10800530 c1080: Seven-sided warrior_giant bullet_reservoir small_launch
+10800531 c1080: Seven-sided warrior_giant bullet_reservoir small_created
+10800532 c1080: Seven-sided warrior_giant bullet_reservoir small_injection
+10800600 c1080: Seven-sided warrior_guided bullet_launch
+10800601 c1080: Seven-sided warrior_guided bullet_scattering 1
+10800602 c1080: Seven-sided warrior_guided bullet_scatter 2
+10800603 c1080: Seven-sided warrior_guided bullet_scattering 3
+10800604 c1080: Seven-sided warrior_guided bullet_scattering 4
+10800605 c1080: Seven-sided warrior_guided bullet_scattering 5
+10800610 c1080: Seven-sided warrior_Rapid fire _Grief mass summon _Position movement
+10800611 c1080: Seven-sided warrior _ rapid fire _ mass summoning ghosts _ summoning
+10800612 c1080: Seven-sided warrior_Rapid fire _Grief mass summon _Launch
+10800620 c1080: Seven-sided warrior_guided bullets_mass summoning grudges_position movement
+10800621 c1080: Seven-sided warrior_guided bullet_mass summoning ghosts_summoning
+10800622 c1080: Seven-sided warrior_guided bullet_mass summoning ghosts_launch
+10800630 c1080: Seven-sided warrior_Large bullets_Mass summoning grudges_Position movement 1
+10800631 c1080: Seven-sided warrior _Large bullet _ Mass summon of grudges _ Position movement 2
+10800632 c1080: Seven-sided warrior_Large bullets_Mass summoning grudges_Position movement 3
+10800633 c1080: Seven-sided warrior_Large bullets_Accumulating_Launch 1
+10800634 c1080: Seven-sided warrior_Large bullets_Accumulating_Launch 2
+10800635 c1080: Seven-sided warrior_Large bullets_Accumulating_Launch 3
+10800636 c1080: Seven-sided warrior_Large bullet_Grief mass summon_Summon 1
+10800637 c1080: Seven-sided warrior_Large bullet_Grief mass summon_Summon 2
+10800638 c1080: Seven-sided warrior_Large bullet_Grief mass summon_Summon 3
+10800639 c1080: Seven-sided warrior_Large bullet_Grief mass summoning_Launch
+10800640 c1080: Seven-sided warrior_guided bullet_event summoning_position movement
+10800641 c1080: Seven-sided warrior_guided bullet_event summon_summon
+10800642 c1080: Seven-sided warrior_guided bullet_event summoning_launch
+10800650 c1080: Seven-sided warrior_special standby grudge_position movement
+10800651 c1080: Seven-sided warrior_special standby grudge_summon
+10800660 c1080: Seven-faced Warrior_ rush
+10800700 c1080: Seven-faced Warrior _ When Summoning Large Numbers _ Self-centered Terrorist Maru
+10800800 c1080: Seven-sided warrior_at death_remove ghost bullets
+10900110 c1090: Dog_Basic_Barking (AI sound bullet shooting at the PC)
+10900900 c1090: Dog_Special effects_Jump and bite
+11000010 c1100: Gecko_poison sprinkling
+11000011 c1100: Gecko_poison sprinkling_at the time of landing
+11000020 c1100: Gecko_poisoning from the ceiling
+11000021 c1100: Gecko _ Poison spitting from the ceiling _ At the time of landing
+11000030 c1100: Gull _ vomiting poison from the wall
+11000031 c1100: Gecko_poisoning from the wall_at the time of impact
+11000040 c1100: Gecko _ frontal poison _
+11000041 c1100: Gecko_front poison_landing
+11000050 c1100: Gecko_poison sprinkling
+11000051 c1100: Gecko_poison sprinkling_at the time of landing
+11000100 c1100: Gecko _ stepped on poison _
+11000101 c1100: Gecko_stepped poison_landing
+11000110 c1100: White gecko_front poison_aging
+11000111 c1100: White gecko_front poison_aging_landing
+11000300 c1100: White gecko_poison spit from the ceiling
+11000310 c1100: White gecko_poisoning from the wall
+11100010 c1110: Aunt Samurai_Call a Friend_For AI Sound
+11200120 c1120: Watchman_Basic_Gong ringing A
+11200130 c1120: Watchman_Basic_Gong ringing B
+11300900 c1130_Nanban Armor_Collision Detection Sonar
+11300901 c1130_Southern armor_Collision detection sonar_Reflection
+11300980 c1130_Nanban Armor_Dummy Bullet_Dangerous Attack
+11400980 Dummy bullet _ Dangerous attack sign _ Surprise attack A
+11400981 Dummy bullet _ Dangerous attack sign _ Surprise attack B
+11400982 Dummy bullet _ Dangerous attack sign _ Two-handed thrust from Tsuki
+11400983 Dummy bullet _ Dangerous attack sign _ One-handed thrust
+11400984 Dummy bullet _ Dangerous attack sign _ Surprise attack _ Sideways _ Left
+11400985 Dummy bullet _ Dangerous attack sign _ Surprise attack _ Sideways _ Right
+11500120 c1150: Dog_Basic_Barking (AI sound bullet shooting at the PC)
+11510110 c1151_Innsmouth dog_Thunder bullet spitting
+11510111 c1151_Innsmouth dog_spread on the ground
+11510500 c1151_Innsmouth dog_Thunder bullet spitting
+11510501 c1151_Innsmouth dog_spread on the ground 1
+11510980 Dummy bullets_dangerous attack precursors_thunder bullets
+11800910 c1180_Lower man_Mallet_Dummy bullet_Armor generation
+11800911 c1180_Lower man_Mallet_Dummy bullet_Dummy attack_Armor destruction
+11800980 c1180_Lower man_Mallet_Dummy bullet_Dangerous attack sign_Rampage 1
+11800981 c1180_Lower man_Mallet_Dummy bullet_Dangerous attack sign_Rampage 2
+11801910 c1180_Lower man_Kanabo_Dummy bullet_Armor generation
+11801911 c1180_Lower man_Kanabo_Dummy bullet_Dummy attack_Armor destruction
+11801980 c1180_Lower man_Kanabo_Dummy bullet_Dangerous attack sign_Yokosagi combo 2
+11802910 c1180_Lower man_Bell with string_Dummy bullet_Armor generation
+11802911 c1180_Lower man_Bell with string_Dummy bullet_Dummy attack_Armor destruction
+11802980 c1180_Lower man_Bell with string_Dummy bullet_Dangerous attack sign_Bell-covered throw_First stage
+11802981 c1180_Lower man_Bell with string_Dummy bullet_Dangerous attack sign_Bell-covered throw_Loop
+11804500 c1180_lower man_shield mud hanging
+11804910 c1180_Lower man_Shield_Dummy bullet_Shield generation
+11804911 c1180_Lower man_Shield_Dummy bullet_Dummy attack_Shield destruction
+11900100 c1190_Valley enemy_Stone fire arrow_Shooting
+11900101 c1190_Valley enemy_Stone fire arrow_Shooting_Not accurate
+11900980 Dummy bullet _ Dangerous attack sign _ Bayonet thrust _ Standing
+11900981 Dummy bullet _ Dangerous attack sign _ Double thrust
+11900982 Dummy bullet _ Dangerous attack sign _ Thrust from left and right weak bullets
+11901100 c1190_Valley enemy_Sniper_Stone fire arrow_Shooting
+11901101 c1190_Valley enemy_Sniper_Stone fire arrow_Rapid fire
+11901102 c1190_Valley enemy_Sniper_Stone fire arrow_Foot shooting
+11901103 c1190_Valley enemy_Sniper_Stone fire arrow_Sniper bullet
+11901980 Dummy bullet _ Dangerous attack sign _ Anchor hook
+11901981 Dummy bullet _ Dangerous attack sign _ Anchor hook from weakly hit
+11902100 c1190_Valley enemy_Shotgun_Side shooting_Parent
+11902101 c1190_Valley enemy_Shotgun_Vertical shooting_Parent
+11902102 c1190_Valley enemy_Shotgun_Side shooting_Child
+11902103 c1190_Valley enemy_Shotgun_Vertical shooting_Child
+11903100 c1190_valley enemy_cannon_curved shot_far
+11903101 c1190_Valley Enemy_Cannon_Curved Shot_Medium
+11903102 c1190_valley enemy_cannon_curved shot_close
+11903103 c1190_valley enemy_cannon_horizontal shot_far
+11903104 c1190_valley enemy_cannon_horizontal shot_close
+11903105 c1190_Valley enemy_Cannon_Shoot down_Far
+11903106 c1190_Valley enemy_Cannon_Shoot down_Medium
+11903107 c1190_Valley enemy_Cannon_Shoot down_Near
+11903108 c1190_valley enemy_cannon_curved shot_to near
+11903109 c1190_ Valley Enemy_ Cannon_ Curved Shot_ To 々 Near
+11903120 c1190_Valley enemy_Cannon_Shoot down_Close
+11903130 c1190_Valley enemy_Cannon_Shoot down_Far_Dummy
+11903131 c1190_Valley enemy_Cannon_Shoot down_Medium_Dummy
+11903132 c1190_Valley enemy_Cannon_Shoot down_Near_Dummy
+11903190 c1190_valley enemy_cannon_explosion
+11903191 c1190_valley enemy_cannon_shock wave
+11903192 c1190_Valley enemy_Cannon_Shoot down_Dummy
+11903193 c1190_Valley enemy_Cannon_Horizontal shooting_Far_Dummy
+11903194 c1190_Valley enemy_Cannon_Horizontal shooting_Near_Dummy
+11903300 c1190_valley enemy_cannon_curved shot
+11903310 c1190_valley enemy_cannon_explosion
+11903311 c1190_valley enemy_cannon_shock wave
+12000980 Dummy bullet _ dangerous attack sign _ clinging
+12000981 Dummy bullets_dangerous attack precursors_cling from attraction
+12100100 c1210: Immediate Buddha (without centipede) _Gero_Medium range_With bullet SFX
+12100101 c1210: Immediate Buddha (without centipede) _Gero_Medium range_With bullet SFX
+12100105 c1210: Immediate Buddha (without centipede) _Gero_Medium range_No bullet SFX
+12100110 c1210: Immediate Buddha (without centipede) _Gero_Short distance_Left single shot_With bullet SFX
+12100111 c1210: Immediate Buddha (without centipede) _Gero_Short distance_Right single shot_With bullet SFX
+12100120 c1210: Immediate Buddha (without centipede) _Gero_Short distance_Left single shot_With bullet SFX
+12100121 c1210: Immediate Buddha (without centipede) _Gero_Short distance_Right single shot_With bullet SFX
+12100130 c1210_Sokushinbutsu (without centipede) _Gero_Short distance_Front_Bullet SFX available
+12100131 c1210_Sokushinbutsu (without centipede) _Gero_Short distance_Side_No bullet SFX
+12100140 c1210: Immediate Buddha (without centipede) _ spitting _ small _ medium distance _ Gero body 3
+12100141 c1210_Sokushinbutsu (without centipede) _Gero landing_Parent_Grandchildren
+12100142 c1210_Sokushinbutsu (without centipede) _Gero landing_Child _Grandchildren
+12100143 c1210_Sokushinbutsu (without centipede) _Gero landing_Child_Grandchild_Remains
+12100147 c1210_Sokushinbutsu (without centipede) _Global Y-axis
+12100148 c1210_Sokushinbutsu (without centipede) _Vertical fall
+12100149 c1210_Sokushinbutsu (without centipede) _Gero floor
+12100150 c1210_Sokushinbutsu (without centipede) _Poltergeist_Khakkhara_Right_Leave the statue&#39;s hand (parent)
+12100151 c1210_Sokushinbutsu (without centipede) _Poltergeist_Khakkhara_Right_Burbul sign (child)
+12100152 c1210_Sokushinbutsu (without centipede) _Poltergeist_Khakkhara_Right_Fly toward PC (grandchild)
+12100160 c1210_Sokushinbutsu (without centipede) _Poltergeist_Khakkhara_Left_Leave the statue&#39;s hand (parent)
+12100161 c1210_Sokushinbutsu (without centipede) _Poltergeist_Khakkhara_Left_Bull Bull sign (child)
+12100162 c1210_Sokushinbutsu (without centipede) _Poltergeist_Khakkhara_Left_Fly toward PC (grandchild)
+12100170 c1210_Sokushinbutsu (without centipede) _Poltergeist_Hanging lantern_Right_Floating (parent)
+12100171 c1210_Sokushinbutsu (without centipede) _Poltergeist_Hanging lantern_Right_Bull Bull sign (child)
+12100172 c1210_Sokushinbutsu (without centipede) _Poltergeist_Hanging lantern_Right_Launch (grandchild)
+12100175 c1210_Sokushinbutsu (without centipede) _Poltergeist_Hanging lantern_Left_Floating (parent)
+12100176 c1210_Sokushinbutsu (without centipede) _Poltergeist_Hanging lantern_Left_Bull Bull (child)
+12100177 c1210_Sokushinbutsu (without centipede) _Poltergeist_Hanging lantern_Left_Launch (grandchild)
+12100180 c1210_Sokushinbutsu (without centipede) _Poltergeist_Vase_Right_Floating (parent)
+12100181 c1210_Sokushinbutsu (without centipede) _Poltergeist_Vase_Right_Bull Bull_ (child)
+12100182 c1210_Sokushinbutsu (without centipede) _Poltergeist_Vase_Right_Launch (grandchild)
+12100185 c1210_Sokushinbutsu (without centipede) _Poltergeist_Vase_Left_Floating (parent)
+12100186 c1210_Sokushinbutsu (without centipede) _Poltergeist_Vase_Left_Bull Bull (child)
+12100187 c1210_Sokushinbutsu (without centipede) _Poltergeist_Vase_Left_Launch (grandchild)
+12100190 c1210_Sokushinbutsu (without centipede) _Poltergeist_Buddha statue (right) _Floating
+12100191 c1210_Sokushinbutsu (without centipede) _Poltergeist_Buddha statue (right) _Appear in front
+12100192 c1210_Sokushinbutsu (without centipede) _Poltergeist_Buddha statue (right) _Approach
+12100193 c1210_Sokushinbutsu (without centipede) _Poltergeist_Buddha statue (right) _Bull Bull sign
+12100194 c1210_Sokushinbutsu (without centipede) _Poltergeist_Buddha statue (right) _Fall
+12100210 c1210_Sokushinbutsu (without centipede) _Poltergeist_Hanging lantern_Bottom_Floating (parent)
+12120100 c1212_Poltergeist dummy character_Poltergeist (floats a little)
+12120101 c1212_Poltergeist dummy character_Poltergeist (turns toward the PC)
+12120102 c1212_Poltergeist dummy character_Poltergeist (coming to the PC)
+12200120 c1220: Temple foundation Zako_Rin treasure throw
+12200860 c1220: Temple foundation Zako_projectile_fly straight
+12200861 c1220: Temple foundation Zako_fly on a missile
+12200862 c1220: Temple foundation Zako_ projectile slowly facing down
+12200863 c1220: Temple foundation Zako_falls under missiles
+12200864 c1220: Temple foundation Zako_projectile (stops on the ground)
+12200865 c1220: Temple foundation Zako_projectile (explosion damage)
+12200980 Dummy bullet _ Dangerous attack sign _ Double thrust _ Elbow strike
+12201980 Dummy bullet _ Dangerous attack sign _ Double thrust
+12201981 Dummy bullet _ Dangerous attack sign _ Thrust from payback back
+12201990 Lure bullet
+12500100 c1250_Yaksha Monkey genus_Sanding
+12500120 c1250_Yaksha Monkey Genus_Poisoning
+12500121 c1250_Yaksha Monkey genus_Poisoning_Child bullet
+12500300 c1250_Yaksha Monkey Family_Shooting
+12500350 c1250_Yaksha Monkey Genus_Sniper
+12500650 c1250_Yaksha Monkey genus_Throw a sword
+12500850 c1250_Yaksha Monkey genus_Throw a sword_Poison
+12503980 c1250_Yaksha Monkey&#39;s genus_Dual wield_Dummy bullet_Dangerous attack
+12504100 c1260 Chigo monkey _ shout like howling
+13000120 c1300_Japanese Innsmouth_Call Genpei Warrior
+13000200 c1300_Japanese-style Innsmouth_A character that sucks vitality, hits the map
+13000201 c1300_Japanese-style Innsmouth_Sucking vitality_When hitting a character, landing SFX is activated
+13000900 Dummy bullet _ Revives when dying
+13000980 Dummy bullets _ dangerous attack precursors _ leaning throws _ moving
+13000981 Dummy bullet _ Dangerous attack sign _ Trigger throw _ On the spot
+13100520 c1310_ Genpei Warrior Bow Common
+13100521 c1310_Genpei Warrior Bow Common_ Water surface landing bullet
+13100980 Dummy bullet _ Dangerous attack sign thrust
+13100981 Dummy bullet _ Dangerous attack precursor Lightning attack
+13101980 Dummy bullet _ Dangerous attack sign thrust
+13101981 Dummy bullet _ Dangerous attack sign Lower
+13101982 Dummy bullet _ Dangerous attack sign Flying rotation slash
+13101983 Dummy bullet _ Dangerous attack sign
+13101985 Dummy bullet _ Dangerous attack precursor Lightning attack
+13102500 c1310_ Genpei Warrior Bow Common
+13102501 c1310_Genpei Warrior Bow Common_ Water surface landing bullet
+13103100 c1310_Genpei Warrior_Kemari_Overhead Shoot
+13103101 c1310_Genpei Warrior_Kemari_Overhead Shoot (after landing)
+13103110 c1310_Genpei Warrior_Kemari_Ject Shoot 1 (Over 15m)
+13103111 c1310_Genpei Warrior_Kemari_Ject Shoot 2 (Over 15m)
+13103112 c1310_Genpei Warrior_Kemari_Ject Shoot 3
+13103120 c1310_Genpei Warrior_Kemari_Ject Shoot 1 (Under 15m)
+13103121 c1310_Genpei Warrior_Kemari_Ject Shoot 2 (Under 15m)
+13103140 c1310_Genpei Warrior_Kemari_Volley Shoot
+13103160 c1310_Genpei Warrior_Kemari_Heading ⇒ Heel Lifting ⇒ Left Foot Rotation Shoot 1 (Over15m)
+13103161 c1310_Genpei Warrior_Kemari_Heading ⇒ Heel Lifting ⇒ Left Foot Rotation Shoot 2 (Over15m)
+13103181 c1310_Genpei Warrior_Kemari_Lightning Overhead Shoot_Lightning
+13103191 c1310_Genpei Warrior_Kemari_Lightning Overhead Shoot_For Map Gimmick_Lightning
+13103195 c1310_Genpei Warrior_Kemari_Lightning Overhead Shoot_For Map Gimmick_Lightning: For Water Remaining (Parent)
+13103290 c1310_Genpei Warrior_Kemari_Thunder Overhead Shoot_Kemari and Thunder in the water
+13103291 c1310_Genpei Warrior_Kemari_Thunder Overhead Shoot_Kemari and Thunder in the water
+13103295 c1310_Genpei Warrior_Kemari_Lightning Overhead Shoot_Underwater Kemari and Lightning: For water surface residue (child)
+13103980 Dummy Bullet_Dangerous Attack Predictor Lightning Kemari
+13200900 c1320_Treasure carp_Collision detection sonar
+13200901 c1320_Treasure carp_Collision detection sonar_Reflection
+13200902 c1320_Treasure carp_Collision detection sonar_Reflection_Dummy bullet for life
+13200903 c1320_Treasure carp_Collision detection sonar_Disappearing bullet
+13400600 c1340: Underwater neckless_Slashing light wave
+13400601 c1340: No underwater neck_Slashing light wave_Reverse
+13400610 c1340: Underwater neckless_Slashing light wave For illusion
+13400640 c1340: No underwater neck_Hair bullet 1
+13400641 c1340: No underwater neck_Hair bullet 2
+13400642 c1340: No underwater neck_Hair bullet 3
+13400643 c1340: No underwater neck_Hair bullet 4
+13400644 c1340: No underwater neck_Hair bullet 5
+13400645 c1340: No underwater neck_Hair bullet 6
+13400646 c1340: No underwater neck_Hair bullet 7
+13400647 c1340: No underwater neck_Hair bullet 8
+13400648 c1340: No underwater neck_Hair bullet 9
+13400649 c1340: No underwater neck_Hair bullet 10
+13400650 c1340: Underwater neckless_hair bullet_to PC
+13400980 Dummy bullet _ Dangerous attack sign
+13500300 c1350_neckless_self-harm bullet
+13500310 c1350_neckless_miasma-erasing bullet
+13500640 c1350: Neckless_Hair Bullet 1
+13500641 c1350: Neckless_Hair Bullet 2
+13500642 c1350: Neckless_Hair Bullet 3
+13500643 c1350: Neckless_Hair Bullet 4
+13500644 c1350: Neckless_Hair Bullet 5
+13500645 c1350: Neckless_Hair Bullet 6
+13500646 c1350: Neckless_Hair Bullet 7
+13500647 c1350: Neckless_Hair Bullet 8
+13500648 c1350: Neckless_Hair Bullet 9
+13500649 c1350: Neckless_Hair Bullet 10
+13500650 c1350: Neckless_Hair Bullet_Go to PC
+13500980 Dummy bullet _ Dangerous attack sign
+13600130 c1360_Rappa_Poisonous Mucus_Front Dummy
+13600131 c1360_Rappa_Poisonous Mucus_Right Dummy
+13600132 c1360_Rappa_Poisonous Mucus_Left Dummy
+13600136 c1360_Rappa_Poisonous mucus_Impact
+13600141 c1360_Rappa_Jumping blindfold
+13600160 c1360_Rappa_Reeds skipped
+13600161 c1360_Rappa_Reeds_No poison
+13600170 c1360_Rappa_Blind
+13600171 c1360_Rappa_For blinding judgment
+13600800 c1360_Rappa_Dummy bullet_Kasa destruction
+13600910 c1360_Rappa_Dummy bullet_Kasa generation
+13600980 Dummy bullet _ Dangerous attack sign _ Jumping from behind
+13700920 c1370_Fire Bull_ 弾丸1 for conflict determination during walking
+13700921 c1370_Fire Bull_ 弾maru 2 for conflict determination during walking
+13700922 c1370_Fire cow_Angry_Collision detection bullet 1
+13700923 c1370_Fire cow_Angry_Collision detection bullet 2
+14000980 c1400_Swordsman_Pushing sign
+14500100 c1450_Nighthawks_Blast_Center
+14500102 c1450_Nighthawks_Blast_Zhou Ren
+14500150 c1450_Nightjars_Weapon Ignition Effect
+14500151 c1450_Nightjars_Weapon Ignition Effect_Child
+14500250 c1450_Nighthawks_Left-handed throwing approach_1
+14500251 c1450_Nighthawks_Left-handed throwing approach_1_2
+14500701 c1450_Nighthawks_Blast start
+14501000 c1450_Nighthawks_Lian Qi throw 1_1
+14501001 c1450_Nighthawks_Lianqi throw 1_2
+14501002 c1450_Nighthawks_Lianqi throw 1_1_2
+14501003 c1450_Nighthawks_Lianqi throw 1_2_2
+14501010 c1450_Nighthawks_Lian Qi throwing 2_1
+14501011 c1450_Nighthawks_Lian Qi throwing 2_2
+14501012 c1450_Nighthawks_Lianqi throwing 2_1_2
+14501013 c1450_Nighthawks_Lianqi throwing 2_2_2
+14501020 c1450_Nighthawks_Lian Qi throw 3_1
+14501021 c1450_Nighthawks_Lian Qi throwing 3_3
+14501022 c1450_Nighthawk Crowd_Lian Qi throws 3_1_2
+14501023 c1450_Nighthawks_Lianqi throw 3_3_2
+14501030 c1450_Nighthawks_Throw 1 at the same time
+14501031 c1450_Nighthawks_Throw 2 at the same time
+14501032 c1450_Nighthawks_Throw 1_2 at the same time
+14501033 c1450_Nighthawks_Throw 2_2 at the same time
+14501040 c1450_Nightjars_Jumping and throwing 1
+14501041 c1450_Nightjars_Jumping and throwing 2
+14501042 c1450_Nightjars_Jumping and throwing 1_2
+14501043 c1450_Nightjars_Jumping and throwing 2_2
+14501044 c1450_Nightjars_Jumping and throwing 1_3
+14501045 c1450_Nightjars_Jumping and throwing 2_3
+14501046 c1450_Nightjars_Jumping and throwing 1_4
+14501047 c1450_Nightjars_Jumping and throwing 2_4
+14501051 c1450_Nightjars_Step slash throwing_Left
+14501061 c1450_Nightjars_Step slash throwing_Right
+14501100 c1450_Nighthawks_Left Simultaneous Throw 1
+14501101 c1450_Nighthawks_Left Simultaneous Throw 2
+14501120 c1450_Nightjars_Side step throwing_Left_1
+14501121 c1450_Nightjars_Side step throwing_Left_2
+14501130 c1450_Nightjars_Side step throwing_Right_1
+14501131 c1450_Nightjars_Side step throwing_Right_2
+14501140 c1450_Nighthawk crowd_rear throw_1
+14501141 c1450_Nighthawks_rear throw_2
+14501300 c1450_Nighthawks_Lian Qi throw 1_1
+14501301 c1450_Nighthawks_Lianqi throw 1_2
+14501302 c1450_Nighthawks_Lianqi throw 1_1_2
+14501303 c1450_Nighthawks_Lianqi throw 1_2_2
+14501310 c1450_Nighthawks_Lian Qi throwing 2_1
+14501311 c1450_Nighthawks_Lian Qi throwing 2_2
+14501312 c1450_Nighthawks_Lianqi throwing 2_1_2
+14501313 c1450_Nighthawks_Lianqi throwing 2_2_2
+14501320 c1450_Nighthawks_Lian Qi throw 3_1
+14501321 c1450_Nighthawks_Lian Qi throwing 3_3
+14501322 c1450_Nighthawk Crowd_Lian Qi throws 3_1_2
+14501323 c1450_Nighthawks_Lianqi throw 3_3_2
+14501330 c1450_Nighthawks_Throw 1 at the same time
+14501331 c1450_Nighthawks_Throw 2 at the same time
+14501332 c1450_Nighthawks_Throw 1_2 at the same time
+14501333 c1450_Nighthawks_Throw 2_2 at the same time
+14501340 c1450_Nighthawks_Lian Qi throw 3_1
+14501341 c1450_Nighthawks_Lian Qi throwing 3_3
+14501342 c1450_Nighthawk Crowd_Lian Qi throws 3_1_2
+14501343 c1450_Nighthawks_Lianqi throw 3_3_2
+14501750 c1450_Nightjars_Retreat throwing from left weak throw_1
+14501751 c1450_Nightjars_Retreat throwing from left weak throw_2
+14501752 c1450_Nightjars_Retreat throwing from left weak playing_3
+14501753 c1450_Nightjars_Retreat throwing from left weak play_4
+14501754 c1450_Nightjars_Retreat throwing from left weak playing_5
+14501755 c1450_Nightjars_Left throwing backwards from weak playing_6
+14501756 c1450_Nightjars_Left throwing backwards from weak playing_7
+14501757 c1450_Nightjars_Left throwing backwards from weak playing_8
+14501758 c1450_Nightjars_Left throwing backwards from weak playing_9
+14501759 c1450_Nightjars_Left throwing backwards from weak playing_10
+14501760 c1450_Nightjars_Left throwing backwards from weak playing_11
+14501761 c1450_Nightjars_Left throwing backwards from weak playing_12
+14501762 c1450_Nightjars_Left throwing backwards from weak playing_13
+14501910 First appearance 1_1
+14501911 First appearance 2_1
+14501912 First appearance 1_2
+14501913 First appearance 2_2
+14502000 c1450_Nighthawks_Lian Qi throw 1_1
+14502001 c1450_Nighthawks_Lianqi throw 1_2
+14502002 c1450_Nighthawks_Lianqi throw 1_1_2
+14502003 c1450_Nighthawks_Lianqi throw 1_2_2
+14502010 c1450_Nighthawks_Lian Qi throwing 2_1
+14502011 c1450_Nighthawks_Lian Qi throwing 2_2
+14502012 c1450_Nighthawks_Lianqi throwing 2_1_2
+14502013 c1450_Nighthawks_Lianqi throwing 2_2_2
+14502020 c1450_Nighthawks_Lian Qi throw 3_1
+14502021 c1450_Nighthawks_Lian Qi throwing 3_3
+14502022 c1450_Nighthawk Crowd_Lian Qi throws 3_1_2
+14502023 c1450_Nighthawks_Lianqi throw 3_3_2
+14502030 c1450_Nighthawks_Throw 1 at the same time
+14502031 c1450_Nighthawks_Throw 2 at the same time
+14502032 c1450_Nighthawks_Throw 1_2 at the same time
+14502033 c1450_Nighthawks_Throw 2_2 at the same time
+14502040 c1450_Nightjars_Jumping and throwing 1
+14502041 c1450_Nightjars_Jumping and throwing 2
+14502042 c1450_Nightjars_Jumping and throwing 1_2
+14502043 c1450_Nightjars_Jumping and throwing 2_2
+14502044 c1450_Nightjars_Jumping and throwing 1_3
+14502045 c1450_Nightjars_Jumping and throwing 2_3
+14502046 c1450_Nightjars_Jumping and throwing 1_4
+14502047 c1450_Nightjars_Jumping and throwing 2_4
+14502051 c1450_Nightjars_Step slash throwing_Left
+14502061 c1450_Nightjars_Step slash throwing_Right
+14502100 c1450_Nighthawks_Left Simultaneous Throw 1
+14502101 c1450_Nighthawks_Left Simultaneous Throw 2
+14502120 c1450_Nightjars_Side step throwing_Left_1
+14502121 c1450_Nightjars_Side step throwing_Left_2
+14502130 c1450_Nightjars_Side step throwing_Right_1
+14502131 c1450_Nightjars_Side step throwing_Right_2
+14502140 c1450_Nighthawk crowd_rear throw_1
+14502141 c1450_Nighthawks_rear throw_2
+14502300 c1450_Nighthawks_Lian Qi throw 1_1
+14502301 c1450_Nighthawks_Lianqi throw 1_2
+14502302 c1450_Nighthawks_Lianqi throw 1_1_2
+14502303 c1450_Nighthawks_Lianqi throw 1_2_2
+14502310 c1450_Nighthawks_Lian Qi throwing 2_1
+14502311 c1450_Nighthawks_Lian Qi throwing 2_2
+14502312 c1450_Nighthawks_Lianqi throwing 2_1_2
+14502313 c1450_Nighthawks_Lianqi throwing 2_2_2
+14502320 c1450_Nighthawks_Lian Qi throw 3_1
+14502321 c1450_Nighthawks_Lian Qi throwing 3_3
+14502322 c1450_Nighthawk Crowd_Lian Qi throws 3_1_2
+14502323 c1450_Nighthawks_Lianqi throw 3_3_2
+14502330 c1450_Nighthawks_Throw 1 at the same time
+14502331 c1450_Nighthawks_Throw 2 at the same time
+14502332 c1450_Nighthawks_Throw 1_2 at the same time
+14502333 c1450_Nighthawks_Throw 2_2 at the same time
+14502340 c1450_Nighthawks_Lian Qi throw 3_1
+14502341 c1450_Nighthawks_Lian Qi throwing 3_3
+14502342 c1450_Nighthawk Crowd_Lian Qi throws 3_1_2
+14502343 c1450_Nighthawks_Lianqi throw 3_3_2
+14502750 c1450_Nightjars_Retreat throwing from left weak throw_1
+14502751 c1450_Nightjars_Retreat throwing from left weak throw_2
+14502752 c1450_Nightjars_Retreat throwing from left weak playing_3
+14502753 c1450_Nightjars_Retreat throwing from left weak play_4
+14502754 c1450_Nightjars_Retreat throwing from left weak playing_5
+14502755 c1450_Nightjars_Left throwing backwards from weak playing_6
+14502756 c1450_Nightjars_Left throwing backwards from weak playing_7
+14502757 c1450_Nightjars_Left throwing backwards from weak playing_8
+14502758 c1450_Nightjars_Left throwing backwards from weak playing_9
+14502759 c1450_Nightjars_Left throwing backwards from weak playing_10
+14502760 c1450_Nightjars_Left throwing backwards from weak playing_11
+14502761 c1450_Nightjars_Left throwing backwards from weak playing_12
+14502762 c1450_Nightjars_Left throwing backwards from weak playing_13
+14502900 c1450_Nightjars_Weapon landing explosion
+14700290 c1470_Lonely people_Kunai throwing
+14700500 Dog whistle
+14700980 Dummy bullet _ Dangerous attack sign Lower
+14700981 Dummy bullet _ Dangerous attack sign thrust
+15000010 c1500_Village Zombie_Bare Hands_Fertilizer Bukkake
+15000030 c1500_villager zombie_bare hand_throw a stone
+15000031 c1500_villager zombies_bare hands_throw mad dumplings_parents
+15000032 c1500_Village Zombie_Bare Hand_Throw Mad Dumpling_Child
+15000280 c1500_Village Zombie Prisoner_Lacrimal Gland Throw_Dummy Bullet for Middle Stage
+15000800 c1500_Village Zombie_Hallucination Change_Butterfly Guided Bullet A_Parent
+15000801 c1500_Village Zombie_Hallucination Change_Butterfly Guided Bullet A_Child
+15000802 c1500_Village Zombie_Hallucination Change_Butterfly Guided Bullet A_Grandson
+15000810 c1500_Village Zombie_Hallucination Change_Butterfly Guided Bullet B_Parent
+15000811 c1500_Village Zombie_Hallucination Change_Butterfly Guided Bullet B_Child
+15000812 c1500_Village Zombie_Hallucination Change_Butterfly Guided Bullet B_Grandson
+15000820 c1500_Village Zombie_Hallucination Change_Butterfly Guided Bullet C_Parent
+15000821 c1500_Village Zombie_Hallucination Change_Butterfly Guided Bullet C_Child
+15000822 c1500_Village Zombie_Hallucination Change_Butterfly Guided Bullet C_Grandson
+15000850 c1500_Village Zombie_Sand for Restraint
+15000980 Dummy bullet _ Dangerous attack sign _ Grab and pierce
+15000981 Dummy bullet _ dangerous attack sign _ thrust _ normal
+15000982 Dummy bullet _ Dangerous attack sign _ Thrust _ Above waist
+15000983 Dummy bullet _ dangerous attack sign _ thrust _ below the waist
+15500290 c1550_Bandit_Torches_Lucking allies
+15500390 c1550_Bandit_Shield_Dummy Bullet_Shield Bang Bang Ban
+15500420 c1550_Wild Thief_Shield_OBJ Generation
+15500430 c1550_Bandit_Shield_OBJ Destruction
+15500600 c1550_Wild Pirate_Bow_Fire Arrow
+15500610 c1550_Wild Thief_Bow_Poison Arrow
+15500620 c1550_wild thief_bow_usual arrow
+15500621 c1550_wild thief_bow_normal arrow (phantom)
+15500700 c1550_Bandit_Aburatsubo throw
+15500800 c1550_ Sanding from the left sword
+15500980 Dummy bullet _ Dangerous attack sign Dos thrust
+15500981 Dummy bullet _ Dangerous attack sign Sword thrust
+17000650 c1700_Tokugawa Samurai_Flame _Fire flame
+17000651 c1700_Samurai Tokugawa_Flame _Fire flame_DL1 bullet
+17000699 c1700_Tokugawa Samurai_Flame _Bullet when reloading
+17000800 c1700_Tokugawa Samurai_Incendiary Gun_Shooting
+17000801 c1700_Tokugawa Samurai_Incendiary Gun_Shooting_Impact
+17000980 Dummy bullet _ dangerous attack sign _ thrust
+20210110 c2021: Dog_Basic_Barking (AI sound bullet shooting at the PC)
+50000300 c5000_Recon Monk_Pinpoint Magic [Searching Enemies]
+50000301 c5000_Burning Monk_Pinpoint Spell [Sign]
+50000302 c5000_Burning Monk_Pinpoint Spell [Main Body]
+50000310 c5000_broken monk_広fan囲illusion_central (SFX has)
+50000311 c5000_Burning Monk_Wide Range Illusion_End (without SFX)
+50000400 c5000_Burning Monk_Naginata_Normal Position_Mushi Radiation_Parent 1
+50000401 c5000_Burning Monk_Naginata_Normal Position_Mushi Radiation_Parent 2
+50000402 c5000_Burning Monk_Naginata_Normal Position_Mushi Radiation_Parent 3
+50000408 c5000_Burning Monk_Naginata_Normal Position_Mushi Radiation_Child
+50000409 c5000_Burning Monk_Naginata_Normal Position_Mushi Radiation_Grandson
+50000980 c5000_Burning Monk_Dummy Bullet_Dangerous Attack
+50000981 c5000_Burning Monk_Dummy Bullet_Dangerous Attack_Running Bottom
+50100100 c5010_big snake_snowdrop_for grounding determination
+50100101 c5010_big snake_snowdrop_body
+50100990 c5010_Large Snake_Dummy Bullet_Dangerous Attack
+50102800 c5010_Large snake_Stuck vibration_Suspension bridge
+50103930 c5010_big snake_jianquan_poisonous mist_spout
+50103940 c5010_big snake_jianquan_poisonous mist_stay
+50200101 c5020_Akaoni_Earthquake [Searching enemy] 1
+50200102 c5020_Akaoni_Earthquake [Prediction] 1
+50200103 c5020_Red Demon_Parent_Remains
+50200104 c5020_ Red Demon [Searching enemy] 2
+50200105 c5020_ Red Demon [Sign] 2
+50200106 c5020_Akaoni_Parent_Birth a child
+50200107 c5020_Akaoni_Child_Remains
+50200108 c5020_ Red Demon [Searching enemy] 3
+50200109 c5020_ Red Demon [Sign] 3
+50200110 c5020_Akaoni_Parent_Grandchildren
+50200111 c5020_Akaoni_Child_Grandchild
+50200112 c5020_Red Demon_Grandson_Remains
+50200560 c5020_Akaoni_Earthquake [Searching enemy] 1
+50200561 c5020_Akaoni_Earthquake [Prediction] 1
+50200562 c5020_Red Demon_Parent_Remains
+50200563 c5020_ Red Demon [Searching enemy] 2
+50200564 c5020_ Red Demon [Sign] 2
+50200565 c5020_Akaoni_Parent_Birth a child
+50200566 c5020_Akaoni_Child_Remains
+50200600 c5020_ Red Demon [Searching enemy] 2
+50200601 c5020_ Red Demon [Sign] 2
+50200602 c5020_Akaoni_Parent remains
+50200980 c5020_Akaoni_Dummy bullet_Dangerous attack sign Grab both hands on the spot
+50200981 c5020_Red Demon_Dummy Bullet_Dangerous Attack Prediction Medium-range two-handed grab
+50200982 c5020_Red Demon_Dummy Bullet_Dangerous Attack Prediction Long-distance two-handed grab
+50200983 c5020_Red Demon_Dummy Bullet_Dangerous Attack Prediction Medium Range Tackle
+50200984 c5020_Red Demon_Dummy Bullet_Dangerous Attack Prediction Long Range Tackle
+50310110 c5031_Straw doll bug_Venom
+50500071 c5050_Nishikigoi_Rampaging_Underwater tornado
+50500900 c5050_Nishikigoi_Collision detection sonar
+50500901 c5050_Nishikigoi_Collision detection sonar_Reflection
+50500980 c5050_Nishikigoi_Dummy bullet_Dangerous attack sign_100m
+50500981 c5050_Nishikigoi_Dummy bullet_Dangerous attack sign_30m
+50600131 c5060: Chief of Ninja Army_Somersault Shuriken
+50600150 c5060: Chief of Ninja Army_Shuriken
+50600160 c5060: Chief of Ninja Army_Firecracker Parent A
+50600161 c5060: Chief of Ninja Army_Firecracker Parent B
+50600162 c5060: Chief of Ninja Army_Firecracker Parent C
+50600163 c5060: Chief of Ninja Army_Firecracker Parent D
+50600164 c5060: Chief of Ninja Army_Firecracker A
+50600165 c5060: Chief of Ninja Army_Firecracker B
+50600166 c5060: Chief of Ninja Army_Firecracker C
+50600167 c5060: Chief of Ninja Army_Firecracker D
+50600168 c5060: Chief of Ninja Army_Firecracker Grandson
+50600190 c5060: Chief of Ninja Army_Firecracker Parent A
+50600195 c5060: Chief of Ninja Army_Firecracker A
+50600200 c5060: Chief of Ninja Army_Firecracker Grandson_Firecracker Explosion &amp; Damage
+50600201 c5060: Chief of Ninja Army_Firecracker Son_Flame
+50600250 c5060: Chief of Ninja Army_Explosion Parent Dummy A
+50600251 c5060: Chief of Ninja Army_Explosion Parent Dummy B
+50600252 c5060: Chief of Ninja Army_Explosion Parent Dummy C
+50600253 c5060: Chief of Ninja Army_Explosion Parent Dummy D
+50600254 c5060: Chief of Ninja Army_Explosion Parent Dummy E
+50600255 c5060: Chief of Ninja Army_Explosive Child Dummy A
+50600256 c5060: Chief of Ninja Army_Bomb Flame Child Dummy B
+50600257 c5060: Chief of Ninja Army_Bomb Flame Child Dummy C
+50600258 c5060: Chief of Ninja Army_Bomb Flame Child Dummy D
+50600259 c5060: Chief of Ninja Army_Bomb Flame Child Dummy E
+50600260 c5060: Chief of Ninja Army_Explosion Grandson_Explosion of Firecracker
+50600261 c5060: Chief of Ninja Army_Explosion Grandson_Flame
+50600700 c5060: Chief of Ninja Army_Poison Ball Throwing A_Parent
+50600701 c5060: Chief of Ninja Army_Poison Ball Throwing A_Poison Floor Drop
+50600702 c5060: Chief of Ninja Army_Poison Ball Throwing A_Poison Bed Installation
+50600710 c5060: Chief of Ninja Army_Recovery Sealed Throwing_Parent
+50600711 c5060: Chief of Ninja Army_Recovery Sealed Throwing_Child
+50600720 c5060: Chief of Ninja Army_Smoke Screen
+50600721 c5060: Chief of Ninja Army_Smoke Screen_Dazzle
+50600730 c5060: Chief of Ninja Army_Poison Ball Throwing B_Parent
+50600731 c5060: Chief of Ninja Army_Poison Ball Throwing B_Poison Floor Drop
+50600732 c5060: Chief of Ninja Army_Poison Ball Throwing B_Poison Bed Installation
+50600740 c5060: Chief of Ninja Army_Poison Ball Throwing C_Parent
+50600741 c5060: Chief of Ninja Army_Poison Ball Throwing C_Poison Floor Drop
+50600742 c5060: Chief of Ninja Army_Poison Ball Throwing C_Poison Bed Installation
+50600980 Dummy bullet _ Dangerous attack sign _ Lower fall down
+50600981 c5060: Ninja Army Chief_Effect Dummy Bullet_Firecracker Powder A
+50600982 c5060: Ninja Army Chief_Effect Dummy Bullet_Firecracker Powder B
+50600983 c5060: Ninja Army Chief_Effect Dummy Bullet_Explosion Powder A
+50600984 c5060: Ninja Army Chief_Effect Dummy Bullet_Explosion Powder B
+50600985 Dummy bullet _ Dangerous attack sign _ Zigzag Lower dive slash from the left
+50600986 Dummy bullet _ Dangerous attack sign _ Left strong flow and turning from collapse Lower row
+50600987 Dummy bullet _ dangerous attack sign _ stab
+50600990 c5060_Ninja Army Chief_Warp SFX
+50601131 c5060: Chief of Ninja Army_Somersault Shuriken
+50601150 c5060: Chief of Ninja Army_Shuriken
+50601160 c5060: Chief of Ninja Army_Firecracker Parent A
+50601161 c5060: Chief of Ninja Army_Firecracker Parent B
+50601162 c5060: Chief of Ninja Army_Firecracker Parent C
+50601163 c5060: Chief of Ninja Army_Firecracker Parent D
+50601164 c5060: Chief of Ninja Army_Firecracker A
+50601165 c5060: Chief of Ninja Army_Firecracker B
+50601166 c5060: Chief of Ninja Army_Firecracker C
+50601167 c5060: Chief of Ninja Army_Firecracker D
+50601168 c5060: Chief of Ninja Army_Firecracker Grandson
+50601190 c5060: Chief of Ninja Army_Firecracker Parent A
+50601195 c5060: Chief of Ninja Army_Firecracker A
+50601200 c5060: Chief of Ninja Army_Firecracker Grandson_Firecracker Explosion &amp; Damage
+50601201 c5060: Chief of Ninja Army_Firecracker Son_Flame
+50601250 c5060: Chief of Ninja Army_Explosion Parent Dummy A
+50601251 c5060: Chief of Ninja Army_Explosion Parent Dummy B
+50601252 c5060: Chief of Ninja Army_Explosion Parent Dummy C
+50601253 c5060: Chief of Ninja Army_Explosion Parent Dummy D
+50601254 c5060: Chief of Ninja Army_Explosion Parent Dummy E
+50601255 c5060: Chief of Ninja Army_Explosive Child Dummy A
+50601256 c5060: Chief of Ninja Army_Bomb Flame Child Dummy B
+50601257 c5060: Chief of Ninja Army_Bomb Flame Child Dummy C
+50601258 c5060: Chief of Ninja Army_Bomb Flame Child Dummy D
+50601259 c5060: Chief of Ninja Army_Bomb Flame Child Dummy E
+50601260 c5060: Chief of Ninja Army_Explosion Grandson_Explosion of Firecracker
+50601261 c5060: Chief of Ninja Army_Explosion Grandson_Flame
+50601700 c5060: Chief of Ninja Army_Poison Ball Throwing A_Parent
+50601701 c5060: Chief of Ninja Army_Poison Ball Throwing A_Poison Floor Drop
+50601702 c5060: Chief of Ninja Army_Poison Ball Throwing A_Poison Bed Installation
+50601710 c5060: Chief of Ninja Army_Recovery Sealed Throwing_Parent
+50601711 c5060: Chief of Ninja Army_Recovery Sealed Throwing_Child
+50601720 c5060: Chief of Ninja Army_Smoke Screen
+50601721 c5060: Chief of Ninja Army_Smoke Screen_Dazzle
+50601730 c5060: Chief of Ninja Army_Poison Ball Throwing B_Parent
+50601731 c5060: Chief of Ninja Army_Poison Ball Throwing B_Poison Floor Drop
+50601732 c5060: Chief of Ninja Army_Poison Ball Throwing B_Poison Bed Installation
+50601740 c5060: Chief of Ninja Army_Poison Ball Throwing C_Parent
+50601741 c5060: Chief of Ninja Army_Poison Ball Throwing C_Poison Floor Drop
+50601742 c5060: Chief of Ninja Army_Poison Ball Throwing C_Poison Bed Installation
+50601980 Dummy bullet _ Dangerous attack sign _ Lower fall down
+50601981 c5060: Ninja Army Chief_Effect Dummy Bullet_Firecracker Powder A
+50601982 c5060: Ninja Army Chief_Effect Dummy Bullet_Firecracker Powder B
+50601983 c5060: Ninja Army Chief_Effect Dummy Bullet_Explosion Powder A
+50601984 c5060: Ninja Army Chief_Effect Dummy Bullet_Explosion Powder B
+50601985 Dummy bullet _ Dangerous attack sign _ Zigzag Lower dive slash from the left
+50601986 Dummy bullet _ Dangerous attack sign _ Left strong flow and turning from collapse Lower row
+50601987 Dummy bullet _ dangerous attack sign _ stab
+50601990 c5060_Ninja Army Chief_Warp SFX
+50700100 c5070_long owl_warp sign
+50700600 c5070_long owl_sign of straight attack
+50700610 c5070_long owl_left curve attack signal
+50700620 c5070_long owl_right curve attack signal
+50700630 c5070_long owl_sign of diagonal rise
+50700640 c5070_long owl_lower rush attack signal
+50700650 c5070_long owl_bullet attack signal
+50700660 c5070_long owl_lateral movement signal
+50700980 c5070_long owl_dummy bullet_dangerous attack
+50800930 c5080_Cavalry Warrior_Running Collision Detection Bullet 1
+50800931 c5080_Cavalry Warrior_Running Collision Detection Bullet 1
+50800980 c5080_Cavalry Warrior_Dummy Bullet_Dangerous Attack Prediction_Near
+50800981 c5080_Cavalry Warrior_Dummy Bullet_Dangerous Attack Prediction_Far
+50900160 c5090_butterfly_diffusion needle throwing_ground
+50900170 c5090_butterfly_backstep needle throw
+50900100 c5090_Butterfly_Double needle throwing Steel wire jumping
+50900300 c5090_Butterfly_Diffusion needle throw_On steel wire
+50900310 c5090_Butterfly_HU Time difference bullet_Parent_Short life
+50900311 c5091_Butterfly_HU Time difference bullet_Child_Short life
+50900320 c5090_Butterfly_HU Time difference bullet_Parent_Life is normal
+50900321 c5091_Butterfly_HU Time difference bullet_Child_Life Normal
+50900330 c5090_Butterfly_HU Time difference bullet_Parent_Long life
+50900331 c5091_Butterfly_HU Time difference bullet_Child_Long life
+50900920 c5090_Butterfly_Phantom activation
+50900921 c5090_butterfly_butterfly change
+50900930 c5090_Butterfly_Forced release when beam falls
+50900980 c5090_Butterfly_Dummy bullet_Dangerous attack sign
+50900981 Dummy bullet _ Dangerous attack sign _ Strong lower slash
+50900982 Dummy bullet _ Dangerous attack sign _ Needle &amp; kick continuous attack final stage
+50900983 Dummy bullet _ Dangerous attack sign _ Lower slash from kicking
+50900984 Dummy bullet _ Dangerous attack sign _ Steel wire → Fall throw start _ Start
+51000280 c5100_Yaksha Monkey_Skip the skull from your mouth
+51000290 c5100_Yasha Monkey_Dung Throw
+51000291 c5100_Yasha Monkey_Dung Throw_Go underwater
+51000310 c5100_Yasha Monkey_Flatulence_ (Tentative) Valley Enemy_Cannon_Fire
+51000311 c5100_Yasha Monkey_Flatulence_ (Tentative) _Valley Enemy_Cannon_Explosion
+51000330 c5100_Yaksha Monkey_Sprinkling feces
+51000331 c5100_Yasha Ape_Sprinkling feces_Impact_Bouncing
+51000332 c5100_Yasha Ape_Sprinkling feces_Impact_Falling
+51000333 c5100_Yasha Ape_Sprinkling feces_Remaining
+51000480 c5100_Yasha Monkey_Dummy Bullet_Dangerous Attack Prediction HU
+51000580 c5100_Yaksha Ape_Roar
+51000581 c5100_Yasha Monkey_Roar_Afterglow
+51000630 c5100_Yaksha Ape_Weak Roar
+51000900 c5100_Yasha Monkey_Bride Monkey Command Bullet
+51000980 c5100_Yasha Monkey_Dummy Bullet_Dangerous Attack Prediction After HU
+52000500 c5200_Mermaid Dragon_Lightning Strike_Appearance
+52000501 c5200_Mermaid Dragon_Lightning Strike_Move
+52000502 c5200_Mermaid Dragon_Lightning Strike_Fall
+52000503 c5200_Mermaid Dragon_Lightning Strike_Attack
+52000504 c5200_Mermaid Dragon_Lightning Strike_Effect
+52000505 c5200_Mermaid Dragon_Lightning Strike_Propagation
+52000510 c5200_Mermaid Dragon_Lightning strike (for lightning strike) _Appearance
+52000511 c5200_Mermaid Dragon_Lightning strike (for lightning strike) _Move
+52000512 c5200_Mermaid Dragon_Lightning strike (for lightning strike) _Signal loop 0
+52000513 c5200_Mermaid Dragon_Lightning strike (for lightning strike) _Signal loop 1
+52000514 c5200_Mermaid Dragon_Lightning strike (for lightning strike) _Signal loop 2
+52000515 c5200_Mermaid Dragon_Lightning strike (for lightning strike) _Signal loop 3
+52000516 c5200_Mermaid Dragon_Lightning strike (for lightning strike) _Signal loop 4
+52000517 c5200_Mermaid Dragon_Lightning strike (for lightning strike) _Signal loop 5
+52000518 c5200_Mermaid Dragon_Lightning strike (for lightning strike) _Signal loop 6
+52000519 c5200_Mermaid Dragon_Lightning strike (for lightning strike) _Signal loop 7
+52000520 c5200_Mermaid Dragon_Lightning strike (for lightning strike) _Signal loop 8
+52000521 c5200_Mermaid Dragon_Lightning strike (for lightning strike) _Signal loop 9
+52000530 c5200_Mermaid Dragon_Lightning Strike_Appearance
+52000531 c5200_Mermaid Dragon_Lightning Strike_Move
+52000532 c5200_Mermaid Dragon_Lightning Strike_Fall
+52000533 c5200_Mermaid Dragon_Lightning Strike_Attack
+52000534 c5200_Mermaid Dragon_Lightning Strike_Effect
+52000535 c5200_Mermaid Dragon_Lightning Strike_Propagation
+52000540 c5200_Mermaid Dragon_Lightning Strike_Appearance
+52000541 c5200_Mermaid Dragon_Lightning Strike_Move
+52000542 c5200_Mermaid Dragon_Lightning Strike_Fall
+52000543 c5200_Mermaid Dragon_Lightning Strike_Attack
+52000544 c5200_Mermaid Dragon_Lightning Strike_Effect
+52000545 c5200_Mermaid Dragon_Lightning Strike_Propagation
+52000550 c5200_Mermaid Dragon_Lightning Strike_PC Direct Hit_Effect
+52000555 c5200_Mermaid Dragon_Lightning Strike_PC Direct Hit_Attack
+52000600 c5200_Mermaid Dragon_Pinpoint Weak Lightning_Sign
+52000601 c5200_Mermaid Dragon_Pinpoint Weak Lightning_Attack
+52000602 c5200_Mermaid Dragon_Pinpoint Weak Lightning_Effect
+52000603 c5200_Mermaid Dragon_Pinpoint Weak Lightning_Predictive Effect
+52000610 c5200_Mermaid Dragon_Pinpoint Lightning Strike_Sign
+52000611 c5200_Mermaid Dragon_Pinpoint Lightning Strike_Attack
+52000612 c5200_Mermaid Dragon_Pinpoint Lightning Strike_Effect
+52000613 c5200_Mermaid Dragon_Pinpoint Lightning Strike_Predictive Effect
+52000620 c5200_Mermaid Dragon_Distance Attack_Sword Flash Wave_Vertical_Parent
+52000629 c5200_Mermaid Dragon_Distance Attack_Sword Flash Wave_Vertical_Child
+52000630 c5200_Mermaid Dragon_Distance Attack_Sword Flash Wave_Horizontal_Parent
+52000639 c5200_Mermaid Dragon_Distance Attack_Sword Flash Wave_Horizontal_Child
+52000640 c5200_Mermaid Dragon_Full Range Attack
+52000650 c5200_Mermaid Dragon_Lower Range Attack
+52000660 c5200_Mermaid Dragon_Storm Jump_Lightning Omen 0
+52000661 c5200_Mermaid Dragon_Storm Jump_Lightning Omen 1
+52000665 c5200_Mermaid Dragon_Storm Jump_Updraft
+52000670 c5200_Mermaid Dragon_Distance Attack_Sword Flash Wave_Kasaya_Parent
+52000679 c5200_Mermaid Dragon_Distance Attack_Sword Flash Wave_Kasaya_Child
+52000680 c5200_Mermaid Dragon_Distance Attack_Sword Flash Wave_Reverse Kasaya_Parent
+52000689 c5200_Mermaid Dragon_Distance Attack_Sword Flash Wave_Reverse Kasaya_Child
+52000700 c5200_Mermaid Dragon_Slamming effect bullet
+52000701 c5200_Mermaid Dragon_Slamming effect bullet
+52000800 c5200_Mermaid Dragon_Updraft Bullet
+52000801 c5200_Mermaid Dragon_Sign of lightning strike during updraft
+52000820 c5200_Mermaid Dragon_Lightning Return_PC Blow-off Explosion
+52000830 c5200_Mermaid Dragon_Strong Wind_Blows Off After PC
+52000850 c5200_Mermaid Dragon_Lightning strike sign deleted
+52000899 c5200_Mermaid Dragon_Dbg_Updraft Direct
+52000910 c5200_Mermaid Dragon_Dbg_Storm Wall_Before
+52000911 c5200_Mermaid Dragon_Dbg_Storm Wall_After
+52000912 c5200_Mermaid Dragon_Dbg_Storm Wall_Deleted
+52000913 c5200_Mermaid Dragon_Dbg_Storm Wall_Fall
+52000914 c5200_Mermaid Dragon_Dbg_Storm Wall_Body
+52000920 c5200_Mermaid Dragon_Dbg_Danger mark
+52000930 c5200_Mermaid Dragon_Dbg_Updraft_Necessary
+52000980 c5200_Mermaid Dragon_Dummy Bullet_Dangerous Attack Prediction
+53000140 c5300_Okina Dragon_Continuous magic bullet
+53000150 c5300_Okina Dragon_Induced magic bullet
+53000160 c5300_Okinayu_Coughing_Parent
+53000180 c5300_Okina Dragon_Big coughing_Child
+53100210 c5310_tentacle_attack sign
+53100600 c5310_Tentacle_Lightning strike_Omen bullet_SFX dummy 1
+53100610 c5310_Tentacle_Lightning strike_Omen bullet_SFX dummy 2
+53100620 c5310_Tentacle_Lightning strike_Dummy for erasing signs
+53100630 c5310_Tentacle_Lightning strike_Dummy B for erasing signs
+53100640 c5310_tentacles_updraft bullets
+53100650 c5310_tentacles_lightning strikes_body bullets
+53100661 c5310_tentacles_lightning strike_predictive bullets_appearance 1
+53100662 c5310_tentacles_lightning strike_predictive bullets_appearance 2
+53100663 c5310_tentacles_lightning strike_predictive bullets_appearance 3
+53100664 c5310_Tentacle_Lightning strike_Omen bullet_Appearance 4
+53100665 c5310_tentacles_lightning strike_predictive bullets_appearance 5
+53100666 c5310_tentacles_lightning strike_predictive bullets_appearance 6
+53100667 c5310_tentacles_lightning strike_predictive bullets_appearance 7
+53100668 c5310_tentacles_lightning strike_predictive bullets_appearance 8
+53100669 c5310_tentacles_lightning strike_predictive bullets_appearance 9
+53100671 c5310_tentacles_lightning strike_predictive bullets_launch 1
+53100672 c5310_tentacles_lightning strike_predictive bullets_launch 2
+53100673 c5310_tentacles_lightning strike_predictive bullets_launch 3
+53100674 c5310_tentacles_lightning strike_predictive bullets_launch 4
+53100675 c5310_tentacles_lightning strike_predictive bullets_launch 5
+53100676 c5310_tentacles_lightning strike_predictive bullets_launch 6
+53100677 c5310_tentacles_lightning strike_predictive bullets_launch 7
+53100678 c5310_tentacles_lightning strike_predictive bullets_launch 8
+53100679 c5310_tentacles_lightning strike_predictive bullets_launch 9
+53100681 c5310_tentacles_lightning strike_predictive bullets_place 1
+53100682 c5310_tentacles_lightning strike_predictive bullets_place 2
+53100683 c5310_tentacles_lightning strike_predictive bullets_place 3
+53100684 c5310_tentacles_lightning strike_predictive bullets_place 4
+53100685 c5310_tentacles_lightning strike_predictive bullets_place 5
+53100686 c5310_tentacles_lightning strike_predictive bullets_place 6
+53100687 c5310_tentacles_lightning strike_predictive bullets_place 7
+53100688 c5310_tentacles_lightning strike_predictive bullets_place 8
+53100689 c5310_tentacles_lightning strike_predictive bullets_place 9
+53200030 c5300_Okinayu_Coughing_Parent
+53200031 c5300_Okinayu_Coughing_Dummy_Parent
+53200032 c5300_Okina Dragon_Coughing_Dummy_Child
+53200033 c5300_Okinayu_Coughing_Dummy_Grandchild
+53200035 c5300_Okina Dragon_Coughing_Main body
+54000250 c5400_Revived Kensei_Strong Iai_Horizontal (search bullet)
+54000251 c5400_Revived Kensei_Strong Iai_Horizontal (preparatory bullet)
+54000252 c5400_Revived Kensei_Strong Iai_Horizontal (main body)
+54000253 c5400_Revived Kensei_Strong Iai_Horizontal (SFX)
+54000270 c5400_Revived Kensei_Strong Iai_Vertical (dummy live ammunition)
+54000271 c5400_Revived Kensei_Strong Iai_Vertical (live bullet)
+54000272 c5400_Revived Kensei_Strong Iai_Vertical (child)
+54000273 c5400_Revived Kensei_Strong Iai_Vertical (grandchild)
+54000274 c5400_Revived Kensei_Strong Iai_Vertical (live bullet)
+54000275 c5400_Revived Kensei_Strong Iai_Vertical (Parent)
+54000310 c5400_Revived Kensei_Desperate Vertical Cut_Bullet 1_Additional Damage
+54000311 c5400_Revived Kensei_Desperate Vertical Cut_Bullet 2_Blow-off Damage
+54000350 c5400_Revived Kensei_Stomping on the ground_Blow-off damage
+54000355 c5400_Revived Kensei_Stomping on the ground_Staying on the spot and burning
+54000360 c5400_Revived Kensei_Flame Slash Test_Spreading Flame_Search Bullet
+54000361 c5400_Revived Kensei_Flame Slash Test_Spreading Flame_Falls to the Ground
+54000362 c5400_Revived Kensei_Flame Slash Test_Spreading Flame_Damage Bullet
+54000370 c5400_Revived Kensei_Flame Slasher_Fan-shaped Appearance
+54000371 c5400_Revived Kensei_Flame Slasher_Fan Atari
+54000372 c5400_Revived Kensei_Flame Slasher_Flame Damage
+54000380 c5400_Revived Kensei_Two consecutive Iai_Launch from player Damipoli_Spread
+54000381 c5400_Revived Kensei_Two consecutive Iai_Fall
+54000382 c5400_Revived Kensei_Two consecutive Iai_Stay on the ground
+54000383 c5400_Revived Kensei_Two consecutive Iai_Launch damage
+54000385 c5400_Revived Kensei_Two consecutive Iai_Launched from player Damipoli_Near
+54000391 c5400_Revived Kensei_Stomping on the ground_Blow-off damage
+54000392 c5400_Revived Kensei_Delayed Bullet 2_Stay on the Ground
+54000393 c5400_Revived Kensei_Delayed Bullet 3_Burning
+54000630 c5400_Revived Kensei_Weakness Slash (Power Wave Body)
+54000631 c5400_Revived Kensei_Weakness Slash (Search Bullet 1)
+54000632 c5400_Revived Kensei_Weakness Slash (Search bullet 2_Birth 149 after landing)
+54000635 c5400_Revived Kensei_Weakness Slash (SFX)
+54000639 c5400_Revived Kensei_Weakness Slash (predictive bullet)
+54000691 c5400_Revived Kensei_Kounami First Stage_Appearance
+54000692 c5400_Revived Kensei_Kounami First Stage_Hit
+54000693 c5400_Revived Kensei_Kounami 2nd Stage_Appearance
+54000694 c5400_Revived Kensei_Kounami 2nd Stage_Hit
+54000800 c5400_Revived Kensei_After HU_Pistol
+54000801 c5400_Revived Kensei_After HU_Pistol_Power decay
+54000810 c5400_Revived Kensei_After HU_Pistol_Rapid Fire_Left
+54000811 c5400_Revived Kensei_After HU_Pistol_Rapid Fire_Right
+54000812 c5400_Revived Kensei_After HU_Pistol_Rapid Fire_Left_Weak
+54000813 c5400_Revived Kensei_After HU_Pistol_Rapid Fire_Right_Weak
+54000980 Dummy bullet _ Dangerous attack sign thrust
+54000981 Dummy bullet _ Dangerous attack sign Lower
+54000982 Dummy Bullet_Dangerous Attack Prediction Lower Level from Lifting
+54000983 Dummy bullet _ Dangerous attack sign Yokoi Ai
+54000984 Dummy bullet _ Dangerous attack sign Vertical Iai
+54000985 Dummy Bullet_Dangerous Attack Prediction Deadly Vertical Slash
+54000986 Dummy bullet _ Dangerous attack sign Thrust with a spear
+54000987 Dummy bullet _ Dangerous attack sign Lower with spear
+54000988 Dummy Bullet_Dangerous Attack Prediction Aikido Throw
+70000980 Dummy bullet _ Dangerous attack sign _ Mai continuous attack 3 _ Lower tightening
+70000981 Dummy bullet _ Dangerous attack sign _ Slash around _ Left _ Lower
+70000982 Dummy bullet _ Dangerous attack sign _ Slash around _ Left _ Lower
+70100000 c7010_Busshi (NPC) _Buddha image throwing
+70200122 c7020_Busshi Demon_FW_Dummy_Parent
+70200123 c7020_Busshi demon_FW_dummy_child
+70200124 c7020_Busshi Demon_FW_Grandson
+70200125 c7020_Busshi demon_FW_main body
+70200126 c7020_Busshi Demon_Long Jump Right Hand Slap_Shock Wave_
+70200222 c7020_Busshi Demon_Flame Ranbu_Dummy_Diffusion
+70200223 c7020_Busshi Demon_Flame Ranbu_Demon Buddha_Rise
+70200224 c7020_Busshi Demon_Flame Ranbu_Demon Buddha_Stay in the air
+70200225 c7020_Busshi Oni_Flame Ranbu_Onibutsu_Main body
+70200231 c7020_Busshi Demon_Landing Shockwave_Dummy
+70200232 c7020_Busshi demon_landing shock wave
+70200233 c7020_Busshi demon_Wide range shock wave_First stage_DL3
+70200234 c7020_Busshi demon_Wide range shock wave_Second stage_DL10
+70200270 c7020_Busshi Demon_Breath_Dummy_Parent
+70200271 c7020_Busshi Demon_Breath_Dummy_Child
+70200272 c7020_Busshi Demon_Breath_Dummy_Grandson
+70200273 c7020_Busshi Demon_Breath_Center
+70200274 c7020_Busshi Demon_Breath_Around
+70200280 c7020_Busshi Demon_Damage Floor_Flame_Main Body
+70200281 c7020_Busshi Demon_Damage Floor_Flame_Short Life
+70200282 c7020_Busshi Demon_Damage Floor_Flame_Short Life
+70200290 c7020_Busshi Demon_Damage Floor_Flame_Diffusion dmp51_00
+70200300 c7020_Busshi demon_extending flame
+70200301 c7020_Busshi Demon_Extending Flame_Floor Flame Dummy
+70200310 c7020_Busshi Demon_Range Explosion_Dummy_Parent
+70200311 c7020_Busshi Demon_Range Explosion_Dummy_Child
+70200312 c7020_Busshi Demon_Range Explosion_Dummy_Grandson
+70200313 c7020_Busshi Demon_Range Explosion_Dummy_Great Grandson
+70200315 c7020_Busshi Demon_Range Explosion__Main Body_Parent
+70200316 c7020_Busshi Demon_Range Explosion__Main Body_Child
+70200320 c7020_Busshi demon_FB_First stage_Before division
+70200321 c7020_Busshi demon_FB_second stage
+70200322 c7020_Busshi Demon_FB_Explosion
+70200323 c7020_Busshi demon_FB_First stage_After division
+70200350 c7020_Busshi Demon_Damage Floor_Flame_dmp50_01_Horizontal Dummy
+70200351 c7020_Busshi Demon_Damage Floor_Flame_dmp50_02_Horizontal Dummy
+70200352 c7020_Busshi Demon_Damage Floor_Flame_dmp50_03_Horizontal Dummy
+70200353 c7020_Busshi Demon_Damage Floor_Flame_dmp50_04_Horizontal Dummy
+70200354 c7020_Busshi Demon_Damage Floor_Flame_dmp50_05_Horizontal Dummy
+70200355 c7020_Busshi Demon_Damage Floor_Flame_dmp50_06_Horizontal Dummy
+70200356 c7020_Busshi Demon_Damage Floor_Flame_dmp50_07_Horizontal Dummy
+70200357 c7020_Busshi Demon_Damage Floor_Flame_dmp51_01_Horizontal Dummy
+70200358 c7020_Busshi Demon_Damage Floor_Flame_dmp51_02_Horizontal Dummy
+70200359 c7020_Busshi Demon_Damage Floor_Flame_dmp51_03_Horizontal Dummy
+70200360 c7020_Busshi Demon_Damage Floor_Flame_dmp51_04_Horizontal Dummy
+70200361 c7020_Busshi Demon_Damage Floor_Flame_dmp51_05_Horizontal Dummy
+70200362 c7020_Busshi Demon_Damage Floor_Flame_dmp51_06_Horizontal Dummy
+70200363 c7020_Busshi Demon_Damage Floor_Flame_dmp51_07_Horizontal Dummy
+70200364 c7020_Busshi Demon_Damage Floor_Flame_dmp52_01_Horizontal Dummy
+70200365 c7020_Busshi Demon_Damage Floor_Flame_dmp52_02_Horizontal Dummy
+70200366 c7020_Busshi Demon_Damage Floor_Flame_dmp52_03_Horizontal Dummy
+70200367 c7020_Busshi Demon_Damage Floor_Flame_dmp52_04_Horizontal Dummy
+70200368 c7020_Busshi Demon_Damage Floor_Flame_dmp52_05_Horizontal Dummy
+70200369 c7020_Busshi Demon_Damage Floor_Flame_dmp52_06_Horizontal Dummy
+70200370 c7020_Busshi Demon__Damage Floor_Flame_dmp52_07_Horizontal Dummy
+70200380 c7020_Busshi Demon_Damage Floor_Flame_Diffusion dmp51_00
+70200390 c7020_Busshi Demon_Damage Floor_Flame_dmp50_01_Horizontal Dummy
+70200440 c7020_Busshi Demon_Flame Wall_Dummy
+70200441 c7020_Busshi Demon_Flame Wall
+70200450 c7020_Busshi Demon_Self-centered Explosion_HU2
+70200451 c7020_Busshi demon_Wide range shock wave HU2_First stage_DL3
+70200452 c7020_Busshi demon_Wide range shock wave HU2_Second stage_DL10
+70200460 c7020_Busshi Demon_Meteor_Diffusion
+70200461 c7020_Busshi Demon_Meteor_Rise
+70200462 c7020_Busshi Demon_Meteor_Staying
+70200463 c7020_Busshi demon_Meteor_body
+70200500 c7020_Busshi Demon_Damage Floor_Flame_dmp50_01
+70200501 c7020_Busshi Demon_Damage Floor_Flame_dmp50_02
+70200502 c7020_Busshi Demon_Damage Floor_Flame_dmp50_03
+70200503 c7020_Busshi Demon_Damage Floor_Flame_dmp50_04
+70200504 c7020_Busshi Demon_Damage Floor_Flame_dmp50_05
+70200505 c7020_Busshi Demon_Damage Floor_Flame_dmp50_06
+70200506 c7020_Busshi Demon_Damage Floor_Flame_dmp50_07
+70200507 c7020_Busshi Demon_Damage Floor_Flame_dmp51_01
+70200508 c7020_Busshi Demon_Damage Floor_Flame_dmp51_02
+70200509 c7020_Busshi Demon_Damage Floor_Flame_dmp51_03
+70200510 c7020_Busshi Demon_Damage Floor_Flame_dmp51_04
+70200511 c7020_Busshi Demon_Damage Floor_Flame_dmp51_05
+70200512 c7020_Busshi Demon_Damage Floor_Flame_dmp51_06
+70200513 c7020_Busshi Demon_Damage Floor_Flame_dmp51_07
+70200514 c7020_Busshi Demon_Damage Floor_Flame_dmp52_01
+70200515 c7020_Busshi Demon_Damage Floor_Flame_dmp52_02
+70200516 c7020_Busshi Demon_Damage Floor_Flame_dmp52_03
+70200517 c7020_Busshi Demon_Damage Floor_Flame_dmp52_04
+70200518 c7020_Busshi Demon_Damage Floor_Flame_dmp52_05
+70200519 c7020_Busshi Demon_Damage Floor_Flame_dmp52_06
+70200520 c7020_Busshi Demon_Damage Floor_Flame_dmp52_07
+70200530 c7020_Busshi Demon_Damage Floor_Flame_dmp50_01
+70200950 Special effect bullet for foot judgment
+70200960 Bullet for erasing demon Buddha bullets
+70200980 Dummy bullets _ Dangerous attack sign _ Slashing through _ Lower row
+70200981 Dummy bullet _ Dangerous attack sign _ Flame surrounding attack _ Lower
+70200982 Dummy bullet _ Dangerous attack sign _ Fire wave _ Lower
+70210100 c7021_demon Buddha_temporary bullet
+71000500 c7100_Rival bow_Short distance 0
+71000501 c7100_rival bow_long distance 0
+71000502 c7100_Rival Bow_Short Distance 1
+71000503 c7100_Rival Bow_Long Distance 1
+71000510 c7100_Rival Reservoir Bow
+71000520 c7100_ rival thunder bow
+71000530 c7100_Rival bow four-shot 1
+71000531 c7100_ Rival bow four-shot 2
+71000532 c7100_Rival bow four-shot 3
+71000533 c7100_Rival bow four-shot 4
+71000980 Dummy bullet _ Dangerous attack sign Lower breakthrough
+71000981 Dummy Bullet_Dangerous Attack Prediction Throw Transition
+71000982 Dummy bullet _ Dangerous attack sign
+71000983 Dummy bullet _ Dangerous attack sign Backstep thrust
+71000984 Dummy Bullet_Dangerous Attack Prediction Finish Lower Slash
+71000985 Dummy Bullet_Dangerous Attack Prediction Down Revenge
+71100500 c7110_Rival Naked Bow_Short Distance 0
+71100501 c7110_Rival Naked Bow_Long Distance 0
+71100502 c7110_Rival Naked Bow_Short Distance 1
+71100503 c7110_Rival Naked Bow_Long Distance 1
+71100510 c7110_ Rival Naked Reservoir Bow
+71100520 c7110_ rival naked thunder bow
+71100521 c7110_Rival naked thunder bow_thunder part
+71100530 c7110_ Rival Naked Bow Four Fires 1
+71100531 c7110_ Rival Naked Bow Four Fires 2
+71100532 c7110_ Rival Naked Bow Four Fires 3
+71100533 c7110_ Rival Naked Bow Four Fires 4
+71100980 Dummy bullet _ Dangerous attack sign Lower breakthrough
+71100981 Dummy bullet _ Dangerous attack sign Lariat neck grab and pull
+71100982 Dummy bullet _ Dangerous attack sign
+71100983 Dummy bullet _ Dangerous attack sign Backstep thrust
+71100984 Dummy Bullet_Dangerous Attack Prediction Finish Lower Slash
+71100985 Dummy Bullet_Dangerous Attack Prediction Thrust from Repartition
+71100986 Dummy bullet _ Dangerous attack sign Jump slash before thunder
+71100987 Dummy bullet _ Dangerous attack sign Lei Heng jump slash
+71100988 Dummy Bullet_Dangerous Attack Predictor Thunder Bow
+71100989 Dummy bullet _ Dangerous attack sign Dash Eight stabs
+74000980 c7100_Daughter of Medical Holy_Dummy Bullet_Dangerous Attack Prediction
+74000981 Dummy bullet _ Dangerous attack sign _ Thrust from slashing
+74000982 Dummy bullet _ Dangerous attack sign _ Lower payment from slashing
+74000983 Dummy bullet _ Dangerous attack sign _ Swallow
+74000984 Dummy bullet _ dangerous attack sign _ jumping technique
+74000985 Dummy bullet _ Dangerous attack sign _ Iai connected from repartitioning
+74000986 Dummy bullet _ Dangerous attack sign _ Swallowing from right hit
+74000987 Dummy bullet _ Dangerous attack sign _ Lower sword from left hit

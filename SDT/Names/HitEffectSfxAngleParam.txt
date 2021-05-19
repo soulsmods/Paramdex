@@ -1,0 +1,9 @@
+0 None (do not edit)
+200 Blood (living)
+210 Blood (Dead)
+290 Meat under armor
+300 Poisonous meat
+310 White meat
+550 Phantom (effective attack)
+570 Jasuga shock wave (directivity)
+610 Guard shock wave (directivity)

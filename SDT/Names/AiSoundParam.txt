@@ -1,0 +1,90 @@
+0 Default (do not edit)
+1 Walking
+2 Running
+3 dash
+4 rolling
+5 Landing
+6 Covert walking
+7 Covert running
+8 Object destruction
+1000 While walking
+1001 Walking _ crouching
+1002 Walking _ with wall
+1003 Walking _ hanging
+1004 Walking _ on the water
+1005 Walking_underwater
+1010 Running
+1011 Running_ crouching
+1012 Running_with wall
+1013 Driving _ hanging
+1014 Running _ on the water
+1015 Running_underwater
+1020 During the dash
+1024 During the dash _ on the water
+1025 Dashing_underwater
+1100 Step
+1200 Wire injection
+1300 Jump
+1304 Jump_water
+1310 Landing
+1314 Water landing
+1320 Wall jump
+1330 Wall jump landing (preliminary movement)
+2000 Attack sound_small
+2010 Attack sound_medium
+2020 Attack sound_loud
+2030 Attack sound_extra large
+2100 Attack hit sound_small
+2110 Attack hit sound_medium
+2120 Attack hit sound_loud
+2130 Attack hit sound_extra large
+2140 Attack hit sound_Stealth shinobi
+2150 Attack hit sound_Swashbuckler Shinobi
+2900 Map admission sound
+3500 Item_Ceramic piece_Sound when hit
+3501 Item_Ceramic piece_Sound heard by the hit target
+4000 Get up sound
+4020 Companion Ring: Small
+4030 Companion Ringing: Handmaiden Aunt Test
+4050 Fellow ringing tone: Aunt Samurai (at the time of death)
+4060 Companion ringing tone: dog _ barking first time
+4070 Companion ringing tone: dog _ barking second time
+4090 Companion ringing tone: Centipede small _ roasted ball
+4100 Fellow ringing tone: Chigo monkey _ Saying monkey
+5000 NTC_ played
+5100 NTC_damage
+5200 NTC_Death
+5210 NTC_Death_Shinobi
+5300 NTC_ attack
+5400 [GC version provisional] NTC_Keep out from PC during battle
+6000 Fellow Call: Dead Soldier Lantern
+7100 Artificial limbs _ firecrackers
+7400 Artificial limb ninja _ transformation _ decoy
+7700 Artificial limb ninja _ enemy turning _ sound that only you can hear
+7900 Artificial limb ninja _ finger whistle _ no lock
+7910 Artificial limb ninja _ finger whistle _ lock-on
+9002 Companion call test: Blue
+9003 Unused
+9004 Bullet hit
+9005 Per wall
+9006 Soul coin
+9007 Hallucination
+9008 alarm
+9010 NTC_normal sound_test
+9011 NTC_Important Sound_Test
+2000000 Enemy general purpose_pseudo platoon AI sound
+2000010 Enemy general purpose_shooting hit
+2000020 Enemy general purpose_attack hit
+2000025 Enemy general purpose_attack occurrence
+2000100 Enemy general purpose_surrounding reaction
+2000200 Enemy general purpose_revival detection
+2103000 Centipede small _ roasted ball
+2111000 Handmaiden Aunt_Scream
+2112000 Lookout _ gong
+2122000 Temple foundation Zako_ allies lure
+2155000 Bandit_Torches_Lucking allies
+5000000 Object destruction sound minimal
+5000010 Object destruction sound small
+5000020 Object destruction sound
+5000030 Object destruction sound
+5000040 Object destruction sound maximum

@@ -1,0 +1,16 @@
+0 Don&#39;t erase
+1 Main menu: Equipment_Items used
+2 Main menu: Equipment_Prosthesis Ninja
+3 Main Menu: Equipment_Ninjutsu Ninjutsu
+4 Main Menu: Equipment_School Techniques
+5 Main menu: What to bring
+6 Main menu: Skills
+7 Dialogue menu: First time
+8 Interactive menu: Transfer
+9 Dialogue menu: Attack power up
+10 Dialogue menu: Gem
+11 Dialogue menu: Dragon cough healing
+12 Dialogue menu: Skill ban menu
+13 Artificial limbs ban lift menu
+14 Artificial limb ninja enhancement menu
+15 Skill ban menu

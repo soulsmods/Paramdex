@@ -1,0 +1,51 @@
+0 dummy
+1 Cobblestone
+2 Unused
+3 soil
+4 wood
+5 Grassland
+6 gravel
+7 bamboo
+8 Trees
+9 Gao (soft)
+10 Gao (hard)
+11 iron
+12 flesh
+13 sand
+14 bone
+15 gray
+16 watt
+17 cloth
+18 Dead leaves
+19 bell
+20 Water: Flat surface (about a puddle)
+21 Water: Plane (walkable)
+22 Water: Plane (dive)
+23 Poison Swamp (no movement restrictions)
+24 Poison swamp (with movement restrictions)
+25 Unused
+26 Unused
+27 mud
+28 tatami
+29 None
+30 snow
+31 Bushes
+32 Wood_Inside the house
+33 Autumn leaves
+34 ice
+35 Water: Slope (walkable)
+36 Water: Slope (swimming)
+37 Water x grass (walkable)
+38 Water x grass (swimming)
+39 Unused
+40 cloud
+41 Unused
+42 Unused
+43 Unused
+44 Unused
+45 Water and soil
+46 Stone in water
+47 Water wood
+48 Unused
+49 Unused
+80 Miasma

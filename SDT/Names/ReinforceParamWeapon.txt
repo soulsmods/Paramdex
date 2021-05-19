@@ -1,0 +1,32 @@
+0 dummy
+100 Normal
+101 Normal +1
+102 Normal +2
+103 Normal +3
+104 Normal +4
+105 Normal +5
+106 Normal +6
+107 Normal +7
+108 Normal +8
+109 Normal +9
+110 Normal +10
+111 Normal +11
+112 Normal +12
+1000 Deadly Sword_Rotating Sword
+1010 Deadly Sword_Dive Sword
+1011 Special Sword_Dive Sword + 1_Slash Retreat Added
+1020 Deadly Sword_Face
+1021 Special Sword_Face +102 4th step added
+1030 Deadly Sword_Iai
+1031 Special Sword_Iai + 1_Power UP
+1040 Deadly Sword_Sword Holy Iai
+1050 Deadly Sword_Eight Jump Rush
+1051 Special Sword_Eight Jump Rush + 1_ Increased Number of Stages
+1060 Deadly Sword_Immortal Sword
+1061 Special Sword_Immortal Sword + 1_ Addition of Reservoir
+1070 Deadly Sword_Kick Rush
+1071 Special Sword_Kick Rush + 1_Increase in the number of steps
+1080 Deadly Sword_Body Art Consecutive Attack
+1081 Special Sword_Body Art Consecutive Attack + 1_ Yasushi Tetsuyama Added
+1090 Deadly Sword_Ninja Fang
+1091 Special Sword_Ninja Fang + 1_Descent Rotation Slash added

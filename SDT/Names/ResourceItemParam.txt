@@ -1,0 +1,6 @@
+0 Off
+1 White charge
+2 Red bill
+3 Blue shape
+4 Resurrection right
+5 Fragment of resurrection right

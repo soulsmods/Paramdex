@@ -1,0 +1,134 @@
+0 Normal
+1 Usually _ Sasho
+2 Normal_Indoor wide
+10 Normal_infinite wall jump
+20 Usually _ Mikami
+22 Usually
+100 Crouching
+101 Crouching_narrow space
+102 Crouching_Indoor spread
+110 Crouching_infinite wall jump
+120 Crouching _ Shinboku
+200 With wall
+201 With wall _ narrow space
+202 Wall-mounted _ indoor wide
+221 With wall _ in front of Shinboku
+300 Peeping _ left and right
+301 Peeping _ left and right _ narrow space
+302 Peeping _ left and right _ indoor wide
+500 Hanging
+501 Hanging_narrow space
+502 Hanging _ indoor wide
+521 Hanging_Hidden Prison Bridge_Eavesdropping
+700 Resurrection standby
+701 Resurrection Standby_Sasho
+702 Resurrection waiting _ indoor spread
+2000 On the water
+2600 Water_wire injection
+2700 Water_Resurrection Standby
+3000 In the water
+3020 In the water_koi
+3200 Underwater_rise
+3220 Underwater_rise_nishikigoi
+3400 Underwater_Drop
+3420 Water_drop_koi
+3700 Underwater_Resurrection Standby
+3720 Underwater_Resurrection Standby_Koi
+4300 Water → water
+4400 Water → water
+5050 Koi
+5055 Nishikigoi_Bridge event
+5060 Ninja Army Chief
+5100 Yasha Ape _ pull a little
+5101 Yasha Ape_pull strongly
+5102 Yasha Ape_for close quarters battle
+5110 Yasha Monkey (Map)
+5200 Mermaid dragon (princess)
+5201 Mermaid Dragon (Princess) _ Camera at the time of attack
+5202 Mermaid Dragon (Princess) _ During Storm Jump
+5203 Mermaid Dragon (Princess) _ When strongly charged
+7000 Female player
+7020 Buddhist priest (demon) _normal
+7021 Buddhist priest (demon) _proximity
+7022 Buddhist priest (demon) _ when moving vertically
+59200 Temple look up allowed_default
+59201 Allowed to look up at the temple_hanging
+59210 Allowed overlooking the temple_default
+5000000 Buddhist monk_usually
+5000001 Haunting Monk_Normal_Crouching
+5000007 Brokers_Usually_Resurrection Standby
+5000100 Haunting Monk_On the Tree
+5000101 Haunting Monk_On the Tree_Crouching
+5000107 Haunting Monk_On the Tree_Waiting for Resurrection
+5050000 Koi
+5050100 Nishikigoi_Bridge event
+5050101 Nishikigoi_Bridge Event_Crouching
+5060000 Ninja Chief (Old) _Normal
+5060001 Ninja Chief (Old) _Normal_ Crouching
+5060007 Ninja Army Chief (Old) _Normal_Resurrection Waiting
+5061000 Ninja Chief (True) _Normal
+5061001 Ninja Chief (True) _Normal_Crouching
+5061007 Ninja Army Chief (True) _Normal_Resurrection Waiting
+5080000 Cavalry Warrior_Normal
+5080001 Cavalry Warrior_Normal_Crouching
+5080007 Cavalry Warrior_Normal_Resurrection Waiting
+5080100 Cavalry Warrior_Look Up
+5080101 Cavalry Warrior_Looking Up_Crouching
+5080107 Cavalry Warrior_Look Up_Resurrection Waiting
+5080200 Horse-riding warrior_close
+5080201 Cavalry warrior _ leaning _ crouching
+5080207 Cavalry Warrior_Close-up_Resurrection Waiting
+5090000 Butterfly_normal
+5090001 Butterfly _ crouching
+5090007 Butterfly_waiting for resurrection
+5100000 Yasha _ usually
+5100001 Yasha Ape_Crouching
+5100007 Yasha Monkey_Resurrection Standby
+5100010 Yasha Ape_Neckless_Slamming_Normal
+5100011 Yasha Ape _ Neckless _ Slamming _ Crouching
+5100017 Yasha Ape _ Neckless _ Slamming _ Waiting for resurrection
+5100100 Yasha Ape_Rematch_Normal
+5100101 Yasha Ape_Rematch_Crouching
+5100107 Yasha Ape_Rematch_Waiting for resurrection
+5200000 Mermaid Dragon_Normal
+5200001 Mermaid Dragon_Normal_Crouching
+5200007 Mermaid Long_Usually_Resurrection Standby
+5200100 Mermaid Dragon_Storm Jump Near the top
+5200200 Mermaid Dragon_After Storm Jump
+5300000 Okiryu_normal
+5300001 Old Dragon_Normal_Crouching
+5300010 Okiryu_Tentacles are appearing
+5400000 Kensei_Honjo_Normal
+5400001 Kensei_Honjo_Normal_Crouching
+5400007 Kensei_Honjo_Normal_Resurrection Waiting
+5400500 Kensei_Hidden Prison_Normal
+5400501 Kensei_Hidden Prison_Normal_Crouching
+5400507 Kensei_Hidden Prison_Normal_Resurrection Waiting
+7000000 Female player_normal
+7000001 Female player_normal_ crouching
+7000007 Female musician_usual_resurrection standby
+7020000 Buddhist demon _ normal
+7020001 Buddhist demon _normal_ crouching
+7020007 Buddhist demon _ normal _ waiting for resurrection
+7020100 Buddhist demon _normal_in close proximity
+7020200 Buddhist demon _ during a big jump _ normal
+7020201 Buddhist demon _ during a big jump _ crouching
+7020207 Buddhist demon _ during a big jump _ waiting for resurrection
+7020300 Buddhist demon _ jump lower attack
+7020301 Buddhist demon _ jumping lower attack _ crouching
+7020307 Buddhist demon _ jump lower attack _ waiting for resurrection
+7100000 Rival_Honjo_Normal
+7100001 Rival_Honjo_Normal_Crouching
+7100007 Rival_Honjo_Normal_Resurrection waiting
+7100100 Rival_Honjo_Bow 4 consecutive shots
+7100101 Rival _ Honjo _ Bow 4 barrage _ Crouching
+7100107 Rival_Honjo_Bow 4 barrage_Resurrection waiting
+7100500 Rival_Hidden Prison_Normal
+7100501 Rival_Hidden Prison_Normal_Crouching
+7100507 Rival_Hidden Prison_Normal_Resurrection Waiting
+7100600 Rival _ Hidden Prison _ Bow 4 Fire
+7100601 Rival _ Hidden Prison _ Bow 4 Fire _ Crouching
+7100607 Rival _ Hidden Prison _ Bow 4 Fire _ Resurrection Waiting
+7400000 Medical Holy Daughter_Normal
+7400001 Medical Holy Daughter_Normal_Crouching
+7400007 Medical Holy Daughter_Normal_Resurrection Waiting

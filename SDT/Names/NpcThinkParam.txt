@@ -1,0 +1,737 @@
+0 for test
+1 For doing nothing
+2 Non-touch data (recommended by copy / paste)
+3 For conversations that do nothing
+10 Anime check logic: Near
+11 Anime check logic: Far
+50 Ishizaki test
+100 For automatic patrol (default)
+540 For automatic patrol (running)
+541 For automatic patrol (walking)
+542 For automatic patrol (super dash)
+10001 For funnels
+10000000 Group patrol dummy leader
+10001000 Form _ bullet owner
+10002080 General-purpose dummy character for conversation
+10003000 Dummy character for display that seems to find a big snake
+10003001 Dummy character for display that seems to find a big snake _ Wide view around
+10003002 Dummy character for display that seems to find a large snake _ Wide view of enemy search
+10004000 Okiryu Dummy Leader
+10010000 Dummy character for demon Buddha
+10010010 Dummy character for camera inside / outside judgment
+10090000 Careless
+10090001 Normal
+10090002 Big game
+10090003 Guardian
+10090004 ambush
+10100000 Ochimusha Protomap One-handed sword
+10100001 Ochimusha Protomap One-handed Sword Exclusive
+10100002 Ochimusha Protomap One-handed sword open space Samurai general&#39;s companion
+10100003 Ochimusha Protomap One-handed sword for first battle
+10100004 Ochimusha Protomap One-handed sword Do not go in the direction of sound
+10100005 Ochimusha Protomap One-handed Sword Stopper
+10100006 Ochimusha Protomap One-handed sword stopper Short field of view
+10100007 Ochimusha Protomap One-handed sword Stopper Position fixed
+10100008 Ochimusha Protomap One-handed sword Suspension bridge collapse aim only
+10100009 Ochimusha Protomap One-handed sword Narrow / short field of view: For Proto2
+10100010 Ochimusha Protomap One-handed sword for steep slopes
+10100011 Ochimusha Protomap One-handed sword Samurai General Area_Monitor in front of stairs
+10100012 Ochimusha Protomap One-handed sword Near the start of the stone wall Surveillance
+10100020 Ochimusha E3 One-handed sword
+10100021 Ochimusha E3 One-handed sword E3 Early return home
+10100080 Ochimusha One-handed sword The voice of the end of the bridge [Conversation]
+10100100 Ochimusha Protomap Eight Phases
+10100101 Ochimusha Protomap Eight Phases Long Visual
+10100102 Ochimusha Protomap Eight Phase Stopper
+10100103 Ochimusha Protomap Eight-Phase Stopper Short Field of View
+10100104 Ochimusha Protomap Eight Phases Short visibility
+10100105 Ochimusha Protomap Eight Phases Narrow / Short: For Proto2
+10100106 Ochimusha Protomap Eight Phases For steep slopes
+10100107 Ochimusha Protomap Yaso Hiroba Samurai General&#39;s companion
+10100108 Ochimusha Protomap Yaso Samurai General Area_Monitor in front of stairs
+10100121 Ochimusha Protomap Eighth Phase E3 Early Return to Home
+10100200 Ochimusha Protomap Spear
+10100201 Ochimusha Protomap Spear Narrow visual sense
+10100202 Ochimusha Protomap Spear Exclusive
+10100203 Ochimusha Protomap Spear Short visibility
+10100204 Ochimusha Protomap Spear on the stone wall
+10100205 Ochimusha Protomap Spear For steep slopes
+10100206 Ochimusha Protomap Spear Exclusive For steep slopes
+10100207 Ochimusha Protomap Spear Start Ishigakigami
+10100220 Warrior E3 gun
+10100300 Ochimusha Protomap Matchlock
+10100301 Ochimusha Protomap Matchlock Breakthrough Situation Steep Slope
+10100302 Ochimusha Protomap Matchlock Matchlock Ishigakigami
+10100303 Ochimusha Protomap Matchlock Gun in front of Yaguramon
+10100304 Ochimusha Protomap Matchlock Fixed Battery
+10100305 Ochimusha Protomap Matchlock Fixed Battery
+10100306 Ochimusha Protomap Matchlock Yaguramon Surveillance Indoors
+10100307 Ochimusha Protomap Matchlock Matchlock Strong Gate
+10100308 Ochimusha Gray Box Map Matchlock Indoor
+10100309 Ochimusha Gray Box Map Matchlock Outdoor _ Combat + Stealth Area
+10100310 Martial Artist E3 Fire Bronze Fixed Fort Tiger Mouth
+10100312 Ochimusha Tokugawa invades Matchlock gun Hashigami
+10100320 Martial Artist E3 Fixed Fire Turret
+10100330 Fire in the underground prison of the fallen warrior
+10100390 Ochimusha Canyon Test Map Matchlock
+10101300 Ochimusha Honjo Matchlock Grand Staircase
+10101310 Ochimusha Honjo Matchlock Outer
+10102000 Ochimusha Honjo_When Tokugawa attacks_Great stairs One-handed sword
+10102100 Ochimusha Honjo_When Tokugawa attacks_Great stairs Eight phases
+10102200 Ochimusha Honjo_When Tokugawa attacks_Great stairs Spear
+10103000 Ochimusha Hidden Prison_Normal One-handed Sword
+10103100 Ochimusha Hidden Prison_Normal Eight Phases
+10103200 Ochimusha Hidden Prison_Normal Spear
+10103300 Ochimusha Hidden Prison_Normal Matchlock
+10103500 Ochimusha Hidden Prison _ During Tutorial Matchlock _ In front of the station
+10103510 Ochimusha Hidden Prison _ During Tutorial Matchlock _ On the Stairs
+10103520 Ochimusha Hidden Prison _ During Tutorial Matchlock _ In front of Tsukimi Tower
+10109000 Ochimusha sample one-handed sword
+10109010 Ochimusha sample One-handed sword corpse discovery test
+10109011 Ochimusha sample One-handed sword corpse discovery test_for sign target discovery
+10109100 Ochimusha sample eight phases
+10109200 Ochimusha sample spear
+10109300 Ochimusha sample matchlock
+10110000 Ochimusha Hidden Prison One-handed Sword
+10110001 Ochimusha Hidden Prison One-handed sword First approach and move sideways
+10110002 Ochimusha Hidden Prison One-handed sword First jump slash → Move a little sideways
+10110003 Ochimusha Hidden Prison One-handed sword for eavesdropping
+10110100 Ochimusha Hidden Prison Eight Phases
+10110101 Ochimusha Hidden Prison Eight Phases For Jasuga Tutorial
+10110102 Ochimusha Hidden Prison Eighth Phase Early _ Gate Guard
+10110103 Ochimusha Hidden Prison Eight Phases For Eavesdropping
+10110500 Ochimusha Hidden Prison One-handed Sword Gate Guard
+10110501 Ochimusha Hidden Prison Behind the One-Handed Sword Gate
+10110600 Ochimusha Hidden Prison Eight-Phase Playing Tutorial
+10110601 Ochimusha Hidden Prison Yasomon-mae Security First Run and Attack
+10110602 Ochimusha Hidden Prison Behind the Hachisomon
+10110603 Ochimusha Hidden Prison Yasomon-mae Security First Walk
+10119000 Ochimusha Tutorial Sample One-handed Sword
+10119100 Ochimusha Tutorial Sample Eight Phases
+10120000 Ochimusha Combat Tutorial One-handed Sword
+10120080 Ochimusha Combat Tutorial One-handed Sword [Conversation]
+10120200 Ochimusha Combat Tutorial Spear
+10120300 Ochimusha Combat Tutorial Matchlock
+10200000 Samurai General Protomap
+10200001 Samurai General Protomap For Samurai General Square
+10200010 Samurai General Protomap Strong
+10200011 Samantha E3 strong
+10200020 Samurai General Castle Lower Lower Tutorial
+10201000 Samurai General Hidden Prison Tutorial_Initial Placement
+10201010 Samurai General Hidden Prison Tutorial_After Moving_Before Battle
+10201011 Samurai General Hidden Prison Tutorial_After Moving_After Combat Begins
+10201080 Fascinated Samurai Hidden Prison [Conversation]
+10202080 Fascinated Samurai Sick Village_Entrance [Conversation]
+10202081 Fascinated Samurai Sick Village_In front of the square [Conversation]
+10202082 Fascinated Samurai Dungeon [Conversation]
+10203000 Samurai General Honjo Tsuyoshi
+10203100 Samurai General Honjo For the Great Stairs
+10203200 Samurai General Honjo Wider view
+10203300 Samurai General Hidden Prison Wider field of view
+10204000 Samurai General Ashina Four Tenno
+10204001 Samurai General Ashina Shitenno For Hidden Prison
+10209010 Samurai General Sample Tutorial
+10209020 Samurai General Sample Large Spear
+10209990 Samurai General for underwater test
+10300000 Centipede small prototype map
+10300001 Centipede small prototype map Long-distance type upper row
+10300002 Centipede small prototype map Long-distance type middle stage
+10300003 Centipede small prototype map Short-distance type
+10301000 Centipede Kodera_Gomadou
+10301001 Centipede Kodera_Gomado Long-distance type upper tier
+10309000 Centipede small sample
+10400000 Centipede Large Protomap
+10409000 Centipede large sample
+10500000 Gun Monk Soldier
+10500010 Spear Monk _ Samurai Residence
+10502000 Gun Monk Soldier_E3
+10509000 Spear monk sample
+10600000 Rotating Spearman Precincts ①
+10600001 Rotating Spearman Precincts ① Reinforcement
+10601000 Rotating Spearman Temple_Main Hall
+10609000 Rotating Spearman Sample
+10700000 Shura Servant
+10701000 Shura Samurai E3 Castle
+10702000 Shura Samurai Sick Village
+10709000 Shura Samurai Sample
+10800000 Seven-sided warrior
+10800001 Seven-sided warrior valley lower layer
+10809000 Seven-sided warrior sample
+11000000 Gecko
+11000001 Gecko Protomap Enhanced visual distance
+11000002 Gecko Valley 360 degree view
+11000003 Gecko Honjo for ceiling attachment
+11000090 Gecko treasure carp test
+11002000 Gecko Temple
+11009000 Gecko sample
+11100000 Handmaiden Aunt Protomap
+11100001 Handmaiden Aunt Protomap 1st Playable Shop Clerk
+11100010 Handmaiden Aunt E3 Map
+11100020 Handmaiden Aunt Valley Don&#39;t come by the sound
+11100080 Handmaiden Aunt Suzu Baba Castle [Conversation]
+11100084 Handmaiden Aunt Shop Clerk Castle [Conversation]
+11101080 Handmaiden Aunt Suzu Baba Samurai Residence [Conversation]
+11105180 Handmaiden Aunt Yayobioka Nun Honjo [Conversation]
+11109000 Handmaiden aunt sample
+11200000 Lookout prototype map
+11200001 Lookout Castle Castle Visual Downward Enhanced Version
+11200002 Lookout Protomap Visual Stenosis Version
+11200010 Lookout Protomap Enhanced visual distance
+11200020 Lookout E3 Castle Visual distance enhancement
+11209000 Lookout sample
+11300000 Nanban armor
+11309000 Nanban armor sample
+11400000 Earthen wall soldier burrow
+11409000 Earthen wall soldier sample
+11500000 Dog prototype map
+11500001 Dog Protomap Strengthen visibility &amp; strengthen battle start
+11500002 Dog prototype map Wide olfactory range
+11501000 Dog samurai residence Visual enhancement
+11501010 Dog samurai residence sensitive
+11501020 Dog Samurai residence Watch dog of this family
+11501030 Dog samurai residence
+11502000 Inu Honjo
+11502100 Dog Honjo for surprise attack
+11503000 Dog submerged city_Sakuraba
+11503100 Dog submerged city_next to the seven-sided warrior
+11504000 Dog sick village hidden
+11509000 Dog sample
+11700000 Crow
+11800000 Lower man _ mallet
+11800001 Lower man _ mallet _ narrow field of view
+11800002 Lower man _ mallet Honjo zigzag fold
+11800010 Lower man _ mallet _ crying start
+11800100 Down male_golden rod
+11800110 Lower man _ gold crushing stick _ crying start
+11800200 Lower man _ bell with a string
+11800210 Lower man _ bell with string Narrowing the field of view
+11800400 Lower male_shield
+11801280 Lower man _ Bell with a string Scraped lower man temple [Conversation]
+11802280 Lower man _ bell with a string kidnapped lower man castle
+11802281 Lower man _ Bell with ties After the kidnapped lower man castle Tokugawa attack [Conversation]
+11809000 Lower man _ mallet sample
+11809100 Lower man_Kanabo sample
+11809200 Lower man_bell with string sample
+11809400 Lower man_shield sample
+11900000 Valley enemy_Zako
+11900001 Valley enemy_Zako Downward visibility is narrow
+11900002 Valley Enemy_ Fort Zako
+11900003 Valley Enemy_ Fort Zako Come to Naruko
+11900004 Valley Enemy_Zako Narrow valley Downward visibility Narrow + short visibility
+11900005 Valley Enemy_Zako Narrow Valley Normal + Short visibility
+11900006 Valley Enemy_Zako Narrow valley Upward field of view wide + short field of view
+11900007 Valley Enemy_Zako Narrow Valley Normal + Visibility is quite short
+11900008 Valley enemy_Zako Wide view up, down, left and right
+11900009 Valley enemy_Zako Wide valley layer Short visibility
+11900010 Valley enemy _ Zako Wide valley lower layer Long-sighted
+11900100 Valley enemy_strong enemy (female sniper) upper layer
+11900101 Valley enemy_strong enemy (female sniper) Lower layer
+11900200 Valley Enemy_Shotgun Turn when Naruko becomes
+11900201 Valley Enemy_Shotgun When Naruko becomes, come closer and jump down the cliff
+11900210 Valley Enemy_Shotgun Wide Valley Entrance
+11900300 Valley Enemy_Cannon
+11900301 Valley enemy_cannon_castle
+11900310 Valley Enemy_Cannon Honjo
+11901300 Valley Enemy_Cannon Valley Wide Valley_Lower
+11905000 Valley Enemy_Zako Revenge Spirit
+11905001 Valley Enemy_Zako Revenge Spirit
+11905100 Valley enemy_strong enemy (female sniper)
+11905101 Valley enemy_strong enemy (female sniper)
+11909000 Valley Enemy_Zako Sample
+11909100 Valley enemy_sniper sample
+11909200 Valley Enemy_Shotgun Sample
+11909300 Valley enemy_cannon sample
+12000000 Sokushinbutsu _ with centipede
+12009000 Sokushinbutsu_Centipede sample
+12100000 Sokushinbutsu_no centipede
+12100001 Immediate Buddha_No Centipede_Phantom Monk
+12100005 Sokushinbutsu_No centipede Main hall
+12100010 Sokushinbutsu_Poltergeist
+12102080 Sokushinbutsu_No centipede [Conversation]
+12109000 Sokushinbutsu_No centipede sample
+12109010 Sokushinbutsu_Poltergeist sample
+12110000 Cricket Temple
+12110001 Cricket_for defensive type
+12111000 Cricket dungeon
+12111001 Cricket_Defense type dungeon
+12118000 Hallucinatory character _ cricket
+12119000 Cricket sample
+12120000 Dummy character for poltergeist
+12200000 Temple foundation Zako_fist
+12200001 Temple Foundation Zako_Fist Temple_Precincts 2
+12200002 Temple Foundation Zako_Fist Temple_Mountain Road 1, 2
+12200003 Temple Foundation Zako_Fist Corridor 1
+12200080 Temple Foundation Zako_Fist Infinite Corridor Tips NPC [Conversation]
+12200100 Temple foundation Zako_ stick art
+12200200 Temple Foundation Zako_Surgeon
+12200201 Temple Foundation Zako_Surgeon Temple_Precincts 2
+12200202 Temple Foundation Zako_Surgeon Temple_Mountain Road 4
+12200203 Temple Foundation ザコ_Warlock Corridor 1
+12201280 Temple Foundation Zako Surgeon Immortality Experiment Doctor Dungeon [Conversation]
+12202080 Temple Foundation Zako Fist Sick Village Kannushi Sick Village [Conversation]
+12202081 Temple Foundation Zako Fist Kiri no Mori Chief Abbot Sick Village [Conversation]
+12209000 Temple foundation Zako_fist sample
+12209100 Temple foundation Zako_ stick art sample
+12209200 Temple Foundation Zako_Surgeon Sample
+12400000 Shamo chicken
+12400001 Shamo Chicken Tutorial Team Attack Impact 100
+12409000 Shamo chicken sample
+12500000 Monkey bare hands
+12500001 Monkey bare hands short field of view
+12500002 Monkey bare hands Immediate discovery distance longer
+12500010 Monkey bare hand cliff jumping possible
+12500030 Monkey bare hand poisoning
+12500099 Monkey bare hand demon monkey
+12500100 Monkey gun jumping
+12500120 Monkey gun sniper
+12500130 Monkey gun sniper rifle upward recognition range expansion test
+12500150 Monkey gun sniper rifle surrounding
+12500200 Monkey sword
+12500201 Monkey sword short visibility
+12500300 Two monkey swords
+12500301 Monkey dual wield_no audiovisual
+12500302 Monkey dual wield wide field of view
+12501000 Monkey bare hand temple Downward view wide
+12502120 Monkey gun sniper rifle revenge spirit _ temple
+12509000 Monkey bare hand sample
+12509080 Monkey bare hand jump control test
+12509081 Monkey bare hand jump control test_no audiovisual
+12509100 Monkey gun sample
+12509200 Monkey sword sample
+12509300 Monkey dual wield sample
+12600000 Monkey Bare-handed Chigo Monkey_Seeing Monkey
+12600001 Monkey Bare hand Chigo monkey _ Seeing monkey _ Visual impairment
+12600010 Monkey bare hand chigo monkey _ listening monkey
+12600011 Monkey Bare-handed Chigo Monkey_Hearing loss &amp; narrow upper vision
+12600020 Monkey Bare hand Chigo monkey _ Say monkey
+12600030 Monkey Bare-handed Chigo Monkey_Visible Monkey
+12600050 Monkey Bare Hands Chigo Monkey _ Escape Omnidirectional View Book Map
+12600051 Monkey Bare hand Chigo Monkey _ Escape omnidirectional view _ Listening monkey hearing good
+12600052 Monkey Bare hand Chigo monkey _ Strengthen the sense of smell
+12600090 Monkey bare hand sample Chigo monkey _ omnidirectional view for escape
+12600091 Monkey Bare Hand Sample Chigo Monkey _ Escape omnidirectional view _ Listening Monkey Hearing Good
+12600092 Monkey bare hand sample Chigo monkey For appearance check
+12600094 Monkey bare hand sample Chigo monkey _ strengthening the sense of smell
+13000000 Japanese style Innsmouth weak
+13000001 Japanese style Innsmouth for sick village _ does not react
+13000010 Japanese style Innsmouth strong
+13000011 和风インスマス强_For plane
+13000012 Japanese style Innsmouth strong_for Sakuraba
+13000013 Japanese style Innsmouth strong _ for patrol
+13000014 Japanese-style Innsmouth Strong_First Enemies
+13000015 Japanese style Innsmouth strong _ on a flat surface bridge
+13001080 Japanese-style Innsmouth Sick Village A decent villager_ After Innsmouth [Conversation]
+13009000 Japanese style Innsmouth sample weak
+13009010 Japanese style Innsmouth sample strong
+13100000 Genpei Warrior Sword
+13100001 Genpei Warrior Sword_No Audiovisual
+13100010 Genpei Warrior Sword_Thunder_On Stage
+13100100 Genpei Warrior Naginata
+13100101 Genpei Warrior Naginata_for plane exit
+13100200 Genpei Warrior Bow
+13100201 Genpei Warrior Bow for Suzakumon
+13100210 Genpei Warrior Bow Sword Sub
+13100211 Genpei Warrior Bow Sword Sub for Suzakumon
+13100300 Genpei Warrior Kemari
+13100301 Genpei Warrior Kemari Very wide field of view
+13100302 Genpei Warrior Kemari_No Audiovisual
+13100305 Genpei Warrior Kemari_Three-dimensional A
+13100306 Genpei Warrior Kemari_Three-dimensional B
+13100307 Genpei Warrior Kemari_Three-dimensional C
+13109000 Genpei Warrior Sword Sample
+13109100 Genpei Warrior Naginata Sample
+13109200 Genpei Warrior Bow Sample
+13109300 Genpei Warrior Kemari Sample
+13200000 Bao carp in the water
+13200010 Piranha treasure carp
+13200100 Baoli Water
+13200110 Piranha treasure carp water
+13201000 Treasure carp underwater dummy leader
+13201100 Treasure carp water dummy leader
+13209090 Treasure carp sample
+13209190 Treasure carp water sample
+13400000 Underwater neckless Honjo
+13401000 Underwater neckless deep sea
+13401001 Underwater neckless deep sea illusion
+13409000 Underwater neckless sample
+13500000 Neckless
+13500010 Neckless non-combat
+13500020 No neck, no sense of smell
+13500090 Neckless sample
+13600000 Rappa
+13600001 Rappa_ No audiovisual
+13600002 Rappa_Shugendo_Wide view
+13600003 Rappa_Shugendo_Long-distance jump only (do not jump)
+13600004 Rappa_Shugendo_Do not jump long distances
+13600010 Rappa_Kikasa
+13600020 Rappa_Honjo
+13600100 Rappa_Honjo_Tokugawa Invasion Reeds
+13600101 Rappa_Honjo_Ninja Army Invasion Reeds
+13603080 Rappa White Rappa_Honjo [Conversation]
+13603180 Rappa White Rappa_Castle [Conversation]
+13603280 Rappa White Rappa_Dungeon [Conversation]
+13609000 Rappa sample
+13700000 Fire Bull City
+13709000 Fire cow sample
+13800000 Fire Cow Innsmouth Submerged City
+14000000 Swordsman protection type
+14000010 Swordsman protection type for Tokugawa grand staircase
+14000020 Swordsman protection type narrow left and right field of view
+14000080 Swordsman Suzuba&#39;s son Castle [Conversation]
+14000090 Swordsman Defensive Type Samurai Residence Co-op NPC
+14000100 Swordsman offensive type
+14000110 Swordsman offensive type for Tokugawa Grand Staircase
+14000120 Swordsman offensive type narrow left and right field of view
+14000200 Swordsman Iai
+14000210 Swordsman Iai Honjo_Attic
+14001080 Swordsman Suzuba&#39;s son Samurai residence [Conversation]
+14001180 Sick village priest [conversation]
+14009000 Swordsman defensive type sample
+14009100 Swordsman offensive type sample
+14009200 Swordsman Iai sample
+14500000 Nightjars Proximity Honjo
+14500010 Nightjars Proximity Fall from Honjo kite
+14500011 Nightjars Proximity Falling from Honjo kite Second body
+14500020 Nightjars Proximity Honjo Castle Tower Lower Roof
+14500030 Nightjars Proximity Honjo Lookout
+14500100 Nightjars Shuriken Honjo
+14500110 Nightjars Shuriken Honjo first appearance
+14503000 Nightjars Proximity Canyon
+14503100 Nightjars Shuriken Canyon
+14505100 Nightjars Shuriken Revenge Spirit
+14505101 Nightjars Shuriken Revenge Spirit Vertical field of view
+14505102 Nightjars Shuriken Revenge Spirit
+14505500 Nightjars Proximity Canyon Revenge Spirit
+14509000 Nightjars proximity sample
+14509005 Nightjars Proximity sample jump control test
+14509006 Nightjars Proximity Sample Jump Control Test_No Audiovisual
+14509008 Nightjars Proximity sample First acceleration slamming test A
+14509009 Nightjars Proximity sample First acceleration slamming test B
+14509100 Nightjars Shuriken sample
+14509101 Nightjars Shuriken Sample Honjo Test A
+14509102 Nightjars Shuriken Sample Honjo Test B
+14609000 Nightjar kite sample
+14700000 Lonely people samurai residence
+14700001 Kokageshu Samurai Residence Burning Entrance_Doesn&#39;t play a role
+14700002 The boss in the samurai residence of the lonely people
+14700003 Kokageshu Samurai Residence Chasing after a long distance
+14701000 Kokageshu Honjo
+14701001 Kokageshu Honjo Wider view
+14701002 The boss in the main castle
+14702000 Sickness Village Narrowing the field of vision
+14702001 Sickness of the lonely people Muranaka boss Narrowing the field of view
+14703000 Lonely crowd hidden prison boss widening the field of view
+14709000 Lonely crowd strong sample
+14709005 Lonely crowd strong sample_no audiovisual
+14709100 Lonely crowd weak sample
+15000000 Villager Zombie _ Bare Hand
+15000001 Villager Zombie _ Bare Hand _ For the House of the Disliked
+15000010 Villager Zombie _ Bare Hand _ Run up
+15000011 Villager Zombie _ Bare Hand _ Run Up _ Platoon Speed High
+15000012 Villager Zombie _ Bare Hand _ Run Up _ For the House of the Disliked
+15000020 Villager Zombie _ Bare Hand _ Strong in sight
+15000100 Villager Zombie_Rake
+15000101 Villager Zombie_Rake_For the House of the Disliked
+15000110 Villager Zombie _ Rake _ Run up
+15000111 Villager Zombie_Rake_Running_Platoon Speed High
+15000200 Villager Zombie_Knife
+15000300 Villager Zombie_Hoe
+15000301 Villager Zombie_Hoe_For the House of the Disliked
+15000310 Villager Zombie _ Hoe _ Run up
+15000311 Villager Zombie_Hoe_Running_Platoon Speed High
+15000400 Villager Zombie_Bamboo Spear
+15000401 Villager Zombie_Bamboo Spear_For the House of the Disliked
+15000410 Villager Zombie_Bamboo Spear_Running
+15000411 Villager Zombie_Bamboo Spear_Running_Platoon Speed High
+15000500 Villager Zombie_Weaving Machine
+15000501 Villager Zombie_Weaving Machine_For the House of the Disliked
+15000600 Villager Zombie_Prisoner
+15000700 Villager Zombie_Underground Grab
+15001000 Villager Zombie_Bare Hand Revenge Spirit_Temple
+15001100 Villager Zombie_Rake Revenge Spirit_Temple
+15001200 Villager Zombie_Knife Revenge Spirit_Temple
+15001300 Villager Zombie_Hoe Revenge Spirit_Temple
+15001400 Villager Zombie_Bamboo Spear Revenge Spirit_Temple
+15001500 Villager Zombie_Weaving Machine Revenge Spirit_Temple
+15002380 Villager Zombie_Hoe Stable Resident B Castle [Conversation]
+15002480 Villager Zombie_Bamboo Spear Stable Resident C Castle [Conversation]
+15002580 Villager Zombie_Weaving Machine Stable Resident A Castle [Conversation]
+15003080 Villager Zombie_Bare Hands Decent Resident Sick Village [Conversation]
+15004000 Villager Zombie _ Bare Hand Revenge Spirit _ Canyon
+15004100 Villager Zombie_Rake Revenge Spirit_Valley
+15004200 Villager Zombie_Knife Revenge Spirit_Valley
+15004300 Villager Zombie_Hoe Revenge Spirit_Valley
+15004400 Villager Zombie_Bamboo Spear Revenge Spirit_Valley
+15004500 Villager Zombie_Weaving Machine Revenge Spirit_Valley
+15004700 Villager Zombie_Underground Grab Revenge Spirit_Valley
+15009000 Villager Zombie_Bare Hand Sample
+15009100 Villager Zombie_Rake Sample
+15009200 Villager Zombie_Knife Sample
+15009300 Villager Zombie_Hoe Sample
+15009400 Villager Zombie_Bamboo Spear Sample
+15009500 Villager Zombie_Weaving Machine Sample
+15009600 Villager Zombie_Prisoner Sample
+15100000 Hallucinatory character Villager Zombie_bare hands
+15100100 Hallucinatory character villager zombie _ rake
+15100200 Hallucinatory character Villager Zombie_Knife
+15100300 Hallucinatory character villager zombie _ hoe
+15100400 Hallucinatory Character Villager Zombie_Bamboo Spear
+15100500 Hallucinatory character Villager Zombie_Weaving machine
+15109000 Hallucinatory character villager zombie _ bare hand sample
+15109100 Hallucinatory character villager zombie _ rake sample
+15109200 Hallucinatory character villager zombie _ kitchen knife sample
+15109300 Hallucinatory character villager zombie _ hoe sample
+15109400 Hallucinatory character villager zombie _ bamboo spear sample
+15109500 Hallucinatory Character Villager Zombie_Weaving Machine Sample
+15500000 Wild Pirate_Knife
+15500001 Bandit_Sword_Yashiki-dori
+15500002 Wild thief_knife_inside the house
+15500010 Bandit_Sword_Sick Village_In the Fog
+15500080 Bandit_Sword Selling Bandit Castle_Shop [Conversation]
+15500081 Bandit_Sword Selling Bandit Castle_Survival after the Tokugawa invasion [Conversation]
+15500100 Bandit_ax
+15500110 Bandit_Ax_Sick Village_In the Fog
+15500200 Wild Pirate_Dao Songming
+15500201 Bandit_Katana Torch_Shurikenzaka
+15500202 Bandit_Katana Torch_Yashiki-dori
+15500203 Wild Pirate_Knife Songming_This Family
+15500205 Bandit_Akira Torch_ Do not act around
+15500300 Wild Thief_Knife and Shield
+15500301 Wild Thief_Knife and Shield
+15500305 Bandit_Sword Shield_Do not act around
+15500400 Bandit_bow (sub sword)
+15500401 Bandit_Bow (sub-sword) _Yashiki-dori
+15500402 Bandit_bow (sub-sword) _fixed battery
+15500403 Bandit_Bow (sub-sword) _Fixed turret_Visual a little short
+15500404 Bandit_bow (sub-sword) _home
+15500405 Bandit_bow (sub-sword) _indoor
+15500406 Wild Pirates_Bow (サブ刀)_Fixed turret_E3 Tiger Mouth
+15500407 Bandit_bow (sub-sword) _in front of the main house entrance
+15500500 Bandit_Drunk_Sword
+15500600 Bandit_Drunk_Ax
+15501080 Bandit_Sword Selling Bandit Samurai Residence [Conversation]
+15502000 Bandit_Sword Temple
+15502100 Bandit_Ax Temple
+15502200 Bandit_Katana Torch Temple
+15502300 Bandit_Sword Shield Temple
+15502400 Bandit_bow (sub-sword) temple
+15502510 Bandit_Drunk_Ax Temple
+15509000 Bandit_sword sample
+15509100 Bandit_ax sample
+15509200 Bandit_Sword Torch Sample
+15509300 Bandit_Sword Shield Sample
+15509400 Bandit_bow (sub sword) sample
+15509500 Bandit_Drunk_Sword Sample
+15509510 Bandit_Drunk_Ax Sample
+17000000 Tokugawa Samurai sword
+17000001 Tokugawa Samurai_Sword_Busshi Demon
+17000010 Tokugawa Samurai _ sword for large stairs
+17000100 Tokugawa Samurai_Kodachi
+17000110 Tokugawa Samurai_Kodachi for large stairs
+17000200 Tokugawa Samurai_Flamthrower
+17000201 Samurai Tokugawa_Flamethrower_Busshi Demon
+17000210 Tokugawa Samurai_Flamthrower for large stairs
+17000300 Tokugawa Samurai_Incendiary Gun
+17000301 Tokugawa Samurai_Incendiary Gun_Battery 1
+17000302 Tokugawa Samurai_Incendiary Gun_Battery 2
+17000303 Tokugawa Samurai_Incendiary Gun_Battery 1
+17000304 Tokugawa Samurai_Incendiary Gun_Tokugawa Invasion Hashigami
+17000310 Tokugawa Samurai_Incendiary Gun for large stairs
+17000350 Tokugawa Samurai sword (light)
+17000351 Tokugawa Samurai sword (light)
+17009000 Tokugawa Samurai sword sample
+17009100 Tokugawa Samurai_Kodachi sample
+17009200 Tokugawa Samurai_flamethrower sample
+17009300 Tokugawa Samurai_Incendiary Gun Sample
+50000000 Haunting Monk Protomap
+50000001 Haunting Monk Protomap Behind the scenes
+50050000 Phantom Protomap of the Haunting Monk
+50100000 Canyon Great Snake Protomap
+50101000 Great Snake Castle
+50101050 Oja Castle Castle Dummy character for display that seems to be found 0
+50101051 Oja Castle Dummy character for display that seems to be found 1
+50101052 Oja Castle Castle Dummy character 2 for display that seems to be found
+50101053 Large Snake Castle Dummy character for display that seems to be found 3
+50101054 Large Snake Castle Dummy character for display that seems to be found 4
+50102000 Big Snake Valley A
+50102010 Big Snake Valley B
+50103000 Large Snake Burrow A
+50103010 Large Snake Burrow B
+50103050 Large snake burrow Dummy character for display that seems to be found 0
+50103051 Large snake burrow Dummy character for display that seems to be found 1
+50103052 Large snake burrow Dummy character for display that seems to be found 2
+50103053 Large snake burrow Dummy character for display that seems to be found 3
+50200000 Akaoni Castle
+50200080 Akaoni Castle [Conversation]
+50200180 Red Demon (Innsmouth) _ Submerged City [Conversation]
+50204080 Red Demon _ Dungeon _ Immortal Experiment Doctor _ Deformed State [Conversation]
+50209000 Red demon sample
+50210080 White Innsmouth_Submerged City [Conversation]
+50300000 Straw doll test map
+50310000 Straw doll bug prototype map
+50310001 Straw Doll Bug Protomap Pretending to be Dead
+50400000 Straw doll (new model) Protomap
+50500000 Nishikigoi Submerged City
+50500080 Nishikigoi Submerged City Feeding [Conversation]
+50509000 Nishikigoi sample
+50600000 Shin Ninja Army Chief Samurai Residence
+50600080 Ninja Army Chief Honjo [Conversation]
+50601000 The Great Honjo of the Old and Ninja Army
+50601080 Ninja Army Chief Samurai Residence [Conversation]
+50609000 Ninja Chief Sample
+50709000 Long owl sample
+50800000 Horse-riding warrior
+50809000 Cavalry warrior sample
+50900000 Butterflies
+50909000 Butterfly sample
+51000000 Yasha Ape
+51000010 Yasha Ape_Bride
+51000011 Yasha Monkey_Bride_Collaboration Test
+51000100 Yasha Ape_Neckless
+51009000 Yasha Ape (in front of HU) sample
+51009100 Yasha Ape (after HU) sample
+52000000 Mermaid dragon sample
+52009000 Mermaid dragon sample
+53000000 Dummy for the main body of the old dragon
+53000010 Okiryu Combatant
+53009000 Old dragon sample
+53100000 Tentacles
+53100010 Tentacle_Mermaid Dragon for scaffolding
+53109000 Tentacle sample
+53200000 Okiryu_Large
+54000000 Revived Kensei
+54000080 Sword of the sickbed Holy Honjo [Conversation]
+54000100 Revived Kensei (after HU)
+54300000 Revived Kensei (bed)
+54300080 Revived Kensei (bed) _ Conversation [Honjo]
+54301080 Skill old man (Kensei sickbed) Castle [Conversation]
+54302080 Skill old man (Kensei sickbed) Honjo [Conversation]
+70000000 Female player
+70000900 Female player conversation test
+70009000 Female player sample
+70100000 Buddhist priest
+70100080 Buddhist teacher [conversation]
+70200000 Buddhist priest (demon) (in front of HU)
+70200100 Buddhist priest (demon) (after HU)
+70209000 Buddhist priest (demon) (in front of HU) sample
+70209100 Buddhist priest (demon) (after HU) sample
+70210000 Demon Buddha
+70219000 Demon Buddha sample
+71000000 rival
+71100000 Rival (naked)
+72000000 Prince
+72000080 Prince_Hidden Prison Tsukimi Tower [Conversation]
+72000081 Prince_hidden prison loophole [conversation]
+72000082 Prince_Hidden Prison Susukino [Conversation]
+72001080 Prince_Honjo_Meditation Room [Conversation]
+72001081 Prince_Honjo_Tenjokaku [Conversation]
+73000080 Chigo_Temple [Conversation]
+73001080 Chigo_Infinite Corridor [Conversation]
+74000000 Daughter of Isei
+74000080 Daughter of Isei Honjo_Meditation Room [Conversation]
+74000081 Isei no Musume Honjo [Conversation]
+74000082 Daughter of Isei Honjo_When Tokugawa invades [Conversation]
+74000083 Daughter of Isei Honjo_Separation of Kensei [Conversation]
+74001080 Isei no Musume Araji Temple [Conversation]
+74100080 Fascinated Samurai Hidden Prison [Conversation]
+74101080 Fascinated Samurai Dungeon [Conversation]
+74101081 Fascinated Samurai Dungeon_Experimental Body [Conversation]
+74102080 Fascinated Samurai Sick Village_Entrance [Conversation]
+74102081 Fascinated Samurai Sick Village_In front of the square [Conversation]
+74200080 Selling bandits Castle [Conversation]
+74200081 Selling bandits Castle _ Survival when Tokugawa invades [Conversation]
+74201080 Soldier Bandit Samurai Residence_Past [Conversation]
+74300080 Shop clerk Castle A [Conversation]
+74300081 Shop clerk Castle B [Conversation]
+74300082 Araji Shop Clerk Castle B [Conversation]
+74301080 Shop clerk canyon [conversation]
+74302080 Shop clerk Temple [Conversation]
+74303080 Shop clerk Dungeon [Conversation]
+74304080 Shop clerk Hidden prison [conversation]
+74305080 Shop clerk Honjo [Conversation]
+74305081 Araji shop clerk Honjo [conversation]
+74306080 Shop clerk Sick village [conversation]
+74400080 Yayobioka Nun Honjo [Conversation]
+74401080 Yayobioka Nun Valley_Upper [Conversation]
+74401081 Yayobioka Nun Valley_Lower Level [Conversation]
+74402080 Yayobioka Nanji Temple_Middle [Conversation]
+74402081 Yayobioka Nanji Temple_Main Hall [Conversation]
+74403080 Yaohioka Nun Dungeon_In front of the execution table [Conversation]
+74500080 Suzu Auntie Castle [Conversation]
+74501080 Suzu Auntie Samurai Residence [Conversation]
+74600080 Suzuba&#39;s son Castle [Conversation]
+74601080 Suzuba&#39;s son Samurai residence [Conversation]
+74700080 The kidnapped Shimootoji Temple [Conversation]
+74700081 The kidnapped lower man temple_infinite corridor [conversation]
+74701080 The kidnapped young man joins the castle sales bandit [conversation]
+74701081 The kidnapped young man when the castle Tokugawa invades [conversation]
+74702080 The kidnapped younger man Dungeon Crucifixion [Conversation]
+74702081 The kidnapped young man dungeon experimental body [conversation]
+74800080 Sick village priest _ Before becoming Innsmouth [Conversation]
+74800081 Sick Village Kannushi_After Innsmouth [Conversation]
+74900080 Immortal Experiment Doctor Dungeon [Conversation]
+74900081 Immortal Experiment Doctor Dungeon Monsterization [Conversation]
+75000080 A decent resident sick village [conversation]
+75100080 White Rappa_Castle [Conversation]
+75101080 White Rappa_Dungeon [Conversation]
+75101081 White Rappa_Dungeon_Experimental Body [Conversation]
+75102080 White Rappa_Temple_Before flying a kite [Conversation]
+75102081 White Rappa_Temple_Training Ground [Conversation]
+75103080 White Rappa_Honjo_Shop [Conversation]
+75103081 White Rappa_Honjo_Tokugawa Invasion [Conversation]
+90001003 NTC NPC Ochimusha_Physical Techniques_Gotenmae-Goten
+90002000 NTC NPC Ochimusha_Balance
+90002001 NTC NPC Ochimusha_Balance_Toraguchi &amp; Goten
+90009000 NTC NPC Ochimusha_for behavior check
+91000000 NTC dog
+91000003 NTC Dog_Slope Breakthrough 3
+95001000 NTC Ochimusha_Sword_One-handed
+95001001 NTC Ochimusha_Sword_One-handed_Exclusive
+95001002 NTC Ochimusha_Sword_One-handed_Plaza_Samurai General&#39;s companion
+95001003 NTC Ochimusha_Sword_One-handed_For first battle
+95001004 NTC Ochimusha_Sword_One-handed_Do not go in the direction of sound
+95001010 NTC Ochimusha_Sword_One-handed_Stopper
+95001011 NTC Ochimusha_Sword_One-handed_Stopper Short field of view
+95001012 NTC Ochimusha_Sword_One-handed_Stopper_Fixed position
+95001090 NTC Ochimusha_Sword_One-handed_Suspension bridge collapse aim only
+95002000 NTC Warrior_Sword_Eight Phases
+95002004 NTC Ochimusha_Sword_Eight Phases_Large visual height
+95002010 NTC Ochimusha_Sword_Eight Phase_Stopper
+95002011 NTC Ochimusha_Sword_Eight Phase_Stopper Short field of view
+95003000 NTC Warrior_Gun
+95003001 NTC Ochimusha_Spear_Narrow visual sense
+95003010 NTC Ochimusha_Spear_Stopper
+95004000 NTC Ochimusha_Matchlock
+95004001 NTC Ochimusha_Matchlock_Breakthrough Situation_Steep Slope
+95004006 NTC Ochimusha_Matchlock_Ishigakigami
+95004007 NTC Fallen Warrior_Fire 縄铳_橹门前
+95004008 NTC Fallen Warrior_Fire 縄铳 fixed fort
+95004009 NTC Ochimusha_Matchlock Yaguramon Surveillance Outdoor
+95004010 NTC Ochimusha_Matchlock Yaguramon Surveillance Indoors
+95201001 NTC Samurai General _ Horizon Enhanced Edition
+95201050 NTC Samurai General_Visual short
+95211000 NTC Samurai General_Komiyama Test
+95221000 NTC Samurai General Tominaga Test
+95231000 NTC Samurai General Sasaki Test
+95301000 NTC Centipede (Melee Combat Type)
+95301010 NTC Centipede (Horaku ball type): Long-distance type upper stage
+95301011 NTC Centipede (Horaku ball type): Long-distance type middle stage
+95301020 NTC Centipede (Horaku ball type): Short-distance type
+95400000 NTC Crow
+95601000 NTC Centipede (Melee Combat Type)
+96001000 NTC Broker
+96001001 NTC Brokers_Behind the Guard
+96001002 NTC Brokers_Gap
+96001005 NTC Brokers_Phantom
+96001010 NTC Buddhist Monk_Wide Range Illusion Dummy_Foreground
+96001011 NTC Buddhist Monk_Wide Range Illusion Dummy_Oku
+96100000 NTC Canyon Snake
+96500000 NTC Handmaiden Aunt
+96600000 NTC lookout
+96600001 NTC Lookout _ Visual Distance Enhancement
+98000000 NTC Shinobi Confirmation_General Purpose
+98100000 NTC Shinobi Killing Confirmation_For characters without warning animation
+98200000 NTC Ninja Kill Confirmation_Large
+98300000 NTC Ninja Kill Confirmation_4 Foot Walk
+98400000 For checking NTC swashbuckler animation
+98500000 Experiment_Ochimusha_Blind

@@ -1,0 +1,183 @@
+9000 9000: Default_blood smoke
+9001 9001: Default_puppet
+9002 9002: Default_Encha
+9010 9010: Default_All actions unbanned
+9497 ☆************************************************☆
+9498 ↓ For in-house debugging
+9499 ☆************************************************☆
+9600 9600: Default equipment_Blood smoke / Puppet
+9602 9602: No killing _ for ninja killing check (core attack power MAX &amp; Jasuga confirmed playing ninja killing)
+9603 9603: Deadly _ For checking Shinobi (Core attack power MAX &amp; Jasuga confirmed playing Shinobi)
+9605 9605: Always dying
+9606 9606: Always Jasuga
+9609 9609: Sub-weapon automatic equipment check
+9610 9610: Underwater cross confirmation equipment
+9620 9620: Default equipment _MPMAX_ For confirmation of resurrection technique
+9640 9640: AI sound confirmation
+9650 9650: Enchantment system confirmation A
+9651 9651: Enchantment system confirmation B
+9660 9660: Always bare hands
+9997 ☆************************************************☆
+9998 ↓ For checking the progress of the game
+9999 ☆************************************************☆
+10000 10000: New game
+10010 10010: Castle
+10020 10020: Samurai residence
+10025 10025: After the samurai residence head family-first half of the main castle
+10030 10030: Honjo
+10040 10040: Hidden prison
+10050 10050: Underground prison
+10060 10060: Temple
+10070 10070: Canyon
+10080 10080: Lower canyon
+10090 10090: Sick village
+10100 10100: Honjo_Ninja army invasion
+10110 10110: Samurai residence truth edition
+10120 10120: Submerged city_no hidden sacred treasure
+10121 10121: Submerged city_with hidden sacred treasure
+10130 10130: When Honjo_Tokugawa invades
+10140 10140: Hidden prison_when the Tokugawa invades
+10141 10141: Hidden prison_When Tokugawa attacks_Mermaid dragon tears (God)
+10150 10150: Castle_When the Tokugawa invades
+10160 10160: Game clear
+10170 10170: Midfield_Morning
+10171 10171: Mid-day_noon
+10172 10172: Midfield_Evening
+11000 11000: Enemy Check_New Game
+11010 11010: Enemy check_Castle
+11020 11020: Enemy check_Samurai residence
+11025 11025: Enemy check_Samurai residence Honke and later-first half of Honjo
+11030 11030: Enemy check_Honjo
+11040 11040: Enemy Check_Hidden Prison
+11050 11050: Enemy Check_Dungeon
+11060 11060: Enemy check_temple
+11070 11070: Enemy Check_Canyon
+11080 11080: Enemy check_Lower canyon
+11090 11090: Enemy Check_Sick Village
+11100 11100: Enemy check_Honjo_Ninja army invasion
+11110 11110: Enemy check_Samurai residence truth edition
+11120 11120: Enemy check_Submerged city_No hidden sacred treasure
+11121 11121: Enemy check_Submerged city_Hidden sacred treasure
+11130 11130: Enemy check_Honjo_Tokugawa invasion
+11140 11140: Enemy check_Hidden prison_When Tokugawa invades
+11141 11141: Enemy check_Hidden prison_When Tokugawa attacks_Mermaid dragon tears (God)
+11150 11150: Enemy check_Castle_Tokugawa invasion
+11160 11160: Enemy check_Game clear
+11161 11161: Enemy check-Early lap _2 (Castle)
+11162 11162: Enemy check-Middle of the second lap (valley)
+11163 11163: Enemy check-End of the second lap (hidden prison_Tokugawa invasion)
+11164 11164: Enemy check _ 3rd lap early (castle)
+11165 11165: Enemy check_Middle of the 3rd lap (valley)
+11166 11166: Enemy check_late 3rd lap (hidden prison_Tokugawa invasion)
+11167 11167: Enemy check_early 4th lap (castle)
+11168 11168: Enemy check_Middle of the 4th lap (valley)
+11169 11169: Enemy check_late 4th lap (hidden prison_Tokugawa invasion)
+11170 11170: Enemy check_early 5th lap (castle)
+11171 11171: Enemy check_Middle of lap 5 (valley)
+11172 11172: Enemy check_late 5th lap (hidden prison_Tokugawa invasion)
+11173 11173: Enemy check_early on lap 6 (castle)
+11174 11174: Enemy check_Mid 6th lap (valley)
+11175 11175: Enemy check_6th lap counter stop
+14997 ☆************************************************☆
+14998 ↓ For cutscene / PV shooting
+14999 ☆************************************************☆
+15000 15000: Left hand defect
+15010 15010: The hero who became a Buddhist priest
+15020 15020: barefoot
+15030 15030: Headless hero
+15040 15040: Left hand prosthesis_high resolution
+16997 ☆************************************************☆
+16998 ↓ For checking artificial limbs (left-handed weapons)
+16999 ☆************************************************☆
+17000 17000: Shuriken LV1 / 2 / 3-A
+17001 17001: Shuriken LV3-B / 3-C / 4
+17002 17002: Shuriken LV3-C_ Money Throw LV0
+17003 17003: Shuriken LV3-C_ Money Throw LV1
+17004 17004: Shuriken LV3-C_ Money Throw LV2
+17005 17005: Shuriken LV3-C_ Money Throw LV3
+17100 17100: Firecracker LV1/2/3-A
+17101 17101: Firecracker LV3-B
+17200 17200: Ignition LV1 / 2/3
+17201 17201: Ignition LV4
+17300 17300: Axe LV1/2/3
+17301 17301: Axe LV4
+17400 17400: Kodachi LV1 / 2 / 3-A
+17401 17401: Kodachi LV3-B
+17500 17500: Gun LV1/2-A/3-A
+17501 17501: Gun LV2-B/3-B
+17600 17600: Transformation LV1 / 2/3
+17700 17700: Iron fan LV1/2/3-A
+17701 17701: Iron fan LV3-B
+17800 17800: Enemy turning LV1 / 2/3
+17900 17900: Finger flute LV1/2/3
+18000 18000: Shuriken / Firecracker / Ignition
+18100 18100: Ax / Kodachi / Ignition
+18200 18200: Spear / Transformation / Ignition
+18300 18300: Iron fan / enemy turning / firing
+18400 18400: Finger whistle / ignition / spear
+18500 18500: Additive Weapon Anime Test: Prepared Ax / Prepared Spear
+18600 18600: No derivative attack_Shuriken / Firecracker / Ignition
+18601 18601: No derivative attack_ax / kodachi / transformation
+18602 18602: No derivative attack_Iron fan / Enemy turn / Finger whistle
+18603 18603: No derivative attack_Spear A / Spear B
+19997 ☆************************************************☆
+19998 ↓ For skill check
+19999 ☆************************************************☆
+20000 20000: Skill unbanned: No skill points
+20001 20001: Skill unbanned: 5 skill points
+20002 20002: Skills unbanned: Skill points MAX
+29997 ☆************************************************☆
+29998 ↓ For item check
+29999 ☆************************************************☆
+30000 30000: HP system A (est / regen / elixir)
+30001 30001: HP system B (Ohagi / Persimmon / Lower man&#39;s persimmon)
+30003 30003: HP C (Chigo rice / Chigo rice with light snow) + Five-color rice
+30010 30010: Abnormal Status System (Removal of Virus/Removing from Inflammation/Removing from Frenzy/Relief of Sensation/Self-virus)
+30020 30020: Abnormal condition system (poisoning prevention / flaming prevention / madness prevention / suicide / infinite suicide)
+30030 30030: Strengthening system A (attack / attack with demerit / defense / core / stealth / anti-spirit)
+30031 30031: Strengthening Series B (Unlimited use of form generation consumption Ver. + Change of water thrombosis)
+30040 30040: Attack system (stone / sand / oil / illusion release)
+30050 30050: Amulet system (money acquisition amount UP / resurrection right acquisition amount UP / item drop rate UP / form fee drop rate UP / white paper balloons)
+30060 30060: Resource acquisition system (small gold nugget / medium gold nugget / large gold nugget / resurrection right bullion / female player resurrection right bullion)
+30070 30070: Form conversion system (form conversion white / form conversion red)
+30080 30080: Others (Endoscope / Redo bell / Buddha image of return / Release of flame (Tokugawa))
+30090 30090: Other (bell demon / dragon cough treatment)
+30100 30100: VP appearance item 1
+30101 30101: VP appearance item 2
+39997 ☆************************************************☆
+39998 ↓ For checking the deadly sword
+39999 ☆************************************************☆
+40000 40000: School technique: None
+40001 40001: School technique: Rotating slash
+40002 40002: School technique: Jumping and slashing
+40003 40003: School technique: Jump slash + 1_ slash retreat added
+40004 40004: School technique: Face-to-face
+40005 40005: School technique: Face-up + 102 4th step added
+40006 40006: School technique: Kensei Iai
+40007 40007: School technique: Iai
+40009 40009: School technique: Invisible Iai continuous attack
+40010 40010: School technique: Eight-flying rush
+40011 40011: School technique: Eight-flying rush + 1_ increase in the number of stages
+40012 40012: School technique: Immortal slash
+40013 40013: School technique: Immortal slash + 1_ Reservoir added
+40014 40014: School technique: Kick rush
+40015 40015: School technique: Kick rush + 1_ increase in number of steps
+40016 40016: Genre Skill: Fist Fight
+40017 40017: Genre Skills: Fist Fight +1_ Iron Mountain Kao added
+40018 40018: School technique: Shinobi stab
+40019 40019: School technique: Shinobi stab + 1_Descent rotation slash added
+89997 ☆************************************************☆
+89998 ↓ For other checks
+89999 ☆************************************************☆
+90000 90000: Anime test: Damage_levels 1-7
+90001 90001: Anime test: Damage_levels 8-11 + Break
+90002 90002: Anime test: Damage_Burning
+90010 90010: Item / Resource Item Acquisition Test
+199997 ☆ **********************************************☆
+199998 ↓E3
+199999 ☆ **********************************************☆
+200000 200000: E3_Presentation_Shuriken / Ignition / Ax
+200001 200001: E3_Firecracker / Kodachi / Iron fan
+200002 200002: E3_ Transformation / Enemy Turn / Spear
+200003 200003: E3_Finger flute
+200010 200010: E3_Trial_Shuriken / Fire / Ax + Immortal Slash

@@ -1,0 +1,2862 @@
+0 for test
+1 Pledge effect test
+2 test_enchantweapon
+3 test_cure
+4 [System] SOS sign
+5 test_cureitem
+6 [System] kick out
+7 [System] leave Session
+8 [System] Parameter change during ghost
+9 [System] Parameter change when black
+10 [System] Black_Soulsign
+11 [System] Black_ForceJoinSoulsign
+12 [System] bloodSign
+13 [System] Soul Steel [Multi]
+14 [System] Blue sign visualization
+15 [System] Invasion of NPCs
+16 [System] Nito intrusion sign scattered
+17 [System] l Exit the arena
+20 [System] Evaluation effect
+21 [System] Equipped with a point light source
+22 test_change_wep0
+23 test_change_wep1
+24 [System] Relief request
+25 [System] Effect for revival production
+26 [System] Invades the bounty neck
+27 [System] Scatter the scales of the dragon
+28 [System] Set the multi-intrusion time limit to level 0
+30 Parry collapsed state (throwing condition)
+31 Counter damage [piercing]
+32 Player is falling (throwing condition)
+33 Petrochemical
+34 Crystallization
+35 Throw disabled state
+36 Ring equipment throw (throw condition)
+37 Soul drain throwing state (throwing conditions)
+38 Enhanced throw damage up effect
+39 [DLC] Throw invalid state_for prevention of squirrel
+40 No resonance
+41 Resonance Lv1
+42 Resonance Lv2
+43 Resonance Lv3
+44 Resonance Lv4
+45 Eclipse death
+50 Magical nature (slot + 3 version)
+52 PG test: detection
+53 PG test: waiting for cooperation
+54 PG test: cooperation
+55 PG test: cooperative transmission
+57 PG test: Gravity disabled
+59 Cooperation Lv1
+60 Cooperation Lv2
+61 Cooperation Lv3
+62 Cancellation of waiting for cooperation
+71 Curse effect_LV1
+72 Curse effect_LV2
+73 Curse effect_LV3
+74 Curse effect_LV4
+80 Curse effect [strengthening spirits]
+90 Down
+91 Not guardable: Scheduled to be deleted
+92 Can be guarded
+93 Ritual target
+94 SA addition invalid
+95 Movement magnification can be changed
+96 Visibility cut
+97 I&#39;m out of shape
+100 Demon Buddha recovery effect 1
+101 Demon Buddha recovery effect 2
+102 Demon Buddha recovery effect 3
+103 Demon Buddha recovery effect 4
+104 Demon Buddha recovery effect 5
+105 Demon Buddha recovery effect 6
+106 Demon Buddha recovery effect 7
+107 Demon Buddha recovery effect 8
+108 Demon Buddha recovery effect 9
+109 Demon Buddha recovery effect 10
+110 Respond recovery effect 1
+111 Respond recovery effect 2
+112 Respond recovery effect 3
+113 Respond recovery effect 4
+114 Respond recovery effect 5
+115 Respond recovery effect 6
+116 Respond recovery effect 7
+117 Respond recovery effect 8
+118 Respond recovery effect 9
+119 Respond recovery effect 10
+120 Effect when returning from falling 1
+121 Effect when returning from falling 2
+122 Effect when returning from falling 3
+123 Effect when returning from falling 4
+124 Effect when returning from falling 5
+125 Effect when returning from falling 6
+126 Effect when returning from falling 7
+127 Effect when returning from falling 8
+128 Effect when returning from falling 9
+129 Effect when returning from falling 10
+130 Demon Buddha_PC Recovery effect when growing
+131 Demon Buddha_At rest, decal reset A sign before blindfold activation
+132 Demon Buddha _ Resting, decal reset blindfold body
+201 [QWC] Area_NPC_ + 1
+202 [QWC] Area_NPC_ + 2
+203 [QWC] Area_NPC_ + 3
+206 [QWC] Area_NPC_1
+207 [QWC] Area_NPC_-2
+208 [QWC] Area_NPC_-3
+211 [QWC] Area_Black_+1
+212 [QWC] Area_Black_+2
+221 [QWC] Area_White_ + 1
+222 [QWC] Area_White_ + 2
+231 [QWC] Area_Gray_ + 1
+232 [QWC] Area_Gray_ + 2
+236 [QWC] Area_Gray_1
+237 [QWC] Area_Gray_-2
+311 [QWC] Player_Black_ + 1
+312 [QWC] Player_Black_ + 2
+321 [QWC] Player_White_ + 1
+322 [QWC] Player_White_ + 2
+331 [QWC] Player_Gray_ + 1
+332 [QWC] Player_Gray_ + 2
+336 [QWC] Player_Gray_1
+337 [QWC] Player_Gray_-2
+400 Broken state
+420 [SP] Covered with oil
+421 [SP] Fire Daruma
+425 [SP] Fire spread damage
+430 [FDP] Damage in a fire doll
+490 [FDP] Firewood King Addition Effect
+491 [FDP] King of Firewood Additional SFX when attacking
+500 Gravity
+510 Gravity (for users)
+520 Hallucination
+530 Hidden
+531 Hidden-for sound source dead
+540 silence
+550 Tips blood letters
+560 Resurrected when dead
+570 Regenerate
+571 Regenerate Double Chant (Person)
+580 Return [Waiting for activation]
+581 Return [Activation]
+600 Anti-magic
+610 Anti-magic (for users) [Effect]
+611 Anti-magic (for users) [Effect]
+620 Light
+630 Fascination
+640 Falling control
+1000 Weapon magic enhancement 1
+1010 Weapon magic enhancement 2
+1020 Weapon magic enhancement 3
+1040 Shield enhancement 1
+1050 Shield Strength 2
+1060 Invisible Weapon
+1070 Sun sword
+1080 Moon sword
+1081 Moon Sword_LV1
+1082 Moon Sword_LV2
+1083 Moon Sword_LV3
+1120 Water veil
+1130 Iron body [Repelling damage reduction effect]
+1140 Iron body [movement slow foot effect]
+1150 Iron body [Damage animation change effect]
+1160 Magic Protection 1
+1170 Magic Protection 2
+1090 The power of madness
+1100 Flame weapon enhancement 1
+1200 Poison for poison cloud
+1210 Very poisonous for Death Cloud
+1220 Corrosion for cloud corrosion
+1230 Deadly poison for the dark fog
+1300 Universal treatment [recovery of condition]
+1301 Universal treatment [Recovery of bleeding resistance]
+1302 Universal treatment [Recovery of poison resistance]
+1303 All-purpose treatment [Recovery of virulent resistance]
+1320 Poison treatment [state recovery]
+1321 Poison treatment [Recovery of resistance]
+1330 Weapon and armor repair
+1340 Xie Gu
+1350 Uji recovery
+1400 HP recovery 1
+1401 HP Recovery 1 Double Chant
+1410 HP recovery 2
+1411 HP recovery 2_resonance LV1
+1412 HP recovery 2_resonance LV2
+1413 HP recovery 2_resonance LV3
+1414 HP Recovery 2_Resonance LV4
+1420 HP recovery 3
+1421 HP recovery 3_resonance LV1
+1422 HP recovery 3_resonance LV2
+1423 HP recovery 3_resonance LV3
+1424 HP recovery 3_resonance LV4
+1430 HP recovery 4
+1431 HP recovery 4_resonance LV1
+1432 HP recovery 4_resonance LV2
+1433 HP recovery 4_resonance LV3
+1434 HP recovery 4_resonance LV4
+1500 Mimicry
+1510 Mimicry [Movement slow foot effect]
+1520 Dragon change 1
+1530 Dragon change 2
+1600 Soul Drain 1 [AI]
+1610 Soul Drain 1 [PC]
+1620 Soul Drain 2 [AI]
+1630 Soul Drain 2 [PC]
+1700 White Rescue Discovery Magic
+1710 Black rescue detection magic
+1720 Item detection magic
+1900 [FDP] Stepping SA
+1901 [FDP] ID overwrite test
+1902 [FDP] Maggot-covered test
+1903 [FDP] Stepping guard
+1904 [FDP] Rotational movement gap
+1905 [FDP] Guard correction for stance continuous attack
+1906 【FDP】Duet Chanting
+1907 [FDP] SA chant
+2000 Equipment weight increase
+2010 Pinch attack power up
+2013 Increased stamina recovery
+2020 Inflammation tolerance
+2021 Increased lightning resistance
+2022 Increased magic resistance
+2023 Physical tolerance
+2024 All resistance up 1
+2030 Bleeding tolerance
+2031 Toxic tolerance
+2034 Increased spell resistance
+2040 Magic slot up
+2050 Increased magic power
+2060 MP bias
+2080 Bow master
+2090 SA up
+2100 Item drop up
+2101 Get soul up
+2110 Sound elimination
+2111 Stone roller hat
+2120 Just feet
+2121 Light work
+2130 Revival
+2131 Resurrection from the curse
+2140 resonance
+2190 Words of chaos
+2200 Walking in the dark
+2210 Lava walk
+2230 Grant magic extended
+2240 HP drain
+2241 HP drain
+2250 The curse of the strong man
+2260 Counter strengthening
+2270 Take good care of your weapons
+2290 Pinch defense up
+2300 Miracle power up
+2310 Magic slot up B
+2320 Dark Moon God&#39;s Ring
+2330 Bandit Ring
+2340 HP slight increase
+2350 Black dragon ring
+3000 Est_Activate + &quot;Cure&quot; (Medium) + Effect: HP recovery
+3020 Regeneration_Activation + &quot;Continued (Small)&quot;
+3021 Regen_Effect: HP Regen (Small)
+3040 Elixir_Activation + &quot;Cure (Large)&quot; + Effect: HP / Core Recovery
+3041 Elixir_Effect: Abnormal condition recovery
+3042 Elixir Effect: Restoration of virus resistance
+3043 Elixir _Effect: Eliminates poison slip damage
+3044 Elixir _ Effect: Restoration of resistance to fire
+3045 Elixir _Effect: Restores madness resistance
+3046 Elixir_ &quot;Healing (Large)&quot;
+3050 Weird young water thrombus _ activation + &quot;red eye&quot;
+3051 Weird water thrombus_Effect: SA grant
+3060 Ohagi_Activated + &quot;Continued&quot; (Large)
+3061 Ohagi_Effect: HP Regeneration (Large)
+3062 Ohagi_Effect: Trunk Regeneration (Large)
+3063 Ohagi_ &quot;Sequel&quot; (Large)
+3070 Persimmon _ activation + &quot;sequel&quot; (middle)
+3071 Persimmon_Effect: Trunk regeneration (large)
+3075 Persimmon (lower son) _ activation + &quot;sequel&quot; (large)
+3076 Persimmon (younger man) _Effect: Trunk regeneration (large)
+3080 Chigo rice _ activation + &quot;sequel (middle)&quot;
+3081 Chigo Rice_Effect: HP Regeneration (Medium)
+3085 Chigo Rice_Sasameyuki_Activated + &quot;Continued (Middle)&quot;
+3086 Chigo Rice_Sasameyuki_Effect: HP Regeneration (Medium +)
+3200 Disease recovery_Activation + &quot;Healing&quot; + Effect: State recovery
+3201 Disease recovery_Effect_Resistance recovery
+3202 Disease recovery_Effect_Slip damage elimination
+3203 Disease recovery_effect_resistance UP
+3204 Virus Recovery_ &quot;Virus Resistant&quot;
+3210 Flame recovery_Activation + &quot;Healing&quot; + Effect: State recovery
+3211 Flame Recovery_Effect: Resistance Recovery
+3212 Flame recovery_Effect: Increased resistance
+3213 Flaming recovery_ &quot;flaming resistance&quot;
+3214 Flame recovery_Effect: Resistance UP_Tokugawa
+3220 Mad Recovery_Activation + &quot;Healing&quot; + Effect: State Recovery
+3221 Madness Recovery_Effect: Resistance Recovery
+3222 Mad Recovery_Effect: Increased resistance
+3223 Mad recovery_ &quot;fear resistance&quot;
+3230 Lightning damage reduction_Activation + &quot;Lightning resistance&quot;
+3231 Lightning damage reduction_Resistance UP
+3240 Aging recovery_Activation + &quot;Rejuvenation&quot; + State recovery
+3241 Aging recovery_tolerance recovery
+3242 Aging recovery_tolerance UP
+3290 suicide
+3295 Suicide_infinite
+3300 Disease prevention_invocation + &quot;poison resistance&quot;
+3301 Disease prevention_Effect: Tolerance recovery
+3302 Disease prevention_Effect: Increased resistance
+3310 Flame prevention_Activation + &quot;Flame resistance&quot;
+3311 Flame Prevention_Effect: Tolerance Recovery
+3312 Flame prevention_Effect: Increased resistance
+3320 Madness Prevention_Activation + &quot;Fear-Resistant&quot;
+3321 Madness Prevention_Effect: Tolerance Recovery
+3322 Madness Prevention_Effect: Increased resistance
+3350 Attack enhancement (infinite / consumption of form) _ &quot;Attack&quot;
+3351 Attack enhancement (infinite / form cost consumption) _ effect
+3360 Attack enhancement _ With disadvantages (infinite / consumption of form) _ &quot;Yaksha&quot;
+3361 Attack enhancement_with disadvantages (infinite / consumption of form) _effect
+3370 Defense enhancement (unlimited/form generation consumption)_「吽护」
+3371 Strengthening defense (infinite / consumption of form) _ effect
+3380 Body strengthening (unlimited/form generation consumption)_「Rigid」
+3381 Core strengthening (infinite / shape cost consumption) _ effect
+3390 Stealth enhancement (infinite / consumption of form) _ &quot;Tsukigaku&quot;
+3391 Stealth enhancement (infinite / shape cost consumption) _ effect
+3400 Attack enhancement_ &quot;Attack&quot;
+3401 Attack enhancement_effect
+3410 Attack enhancement_with disadvantages_ &quot;Yaksha&quot;
+3411 Attack enhancement_with disadvantages_effect
+3420 Defense enhancement_「吽护」
+3421 Defense enhancement_effect
+3430 Body strengthening _ ``rigid&#39;&#39;
+3431 Core strengthening_effect
+3440 Stealth enhancement_ &quot;Tsukigaku&quot;
+3441 Stealth enhancement_effect
+3450 Anti-spirit strengthening_ &quot;payment&quot;
+3451 Anti-spirit strengthening_effect: spirit enchantment + spirit damage reduction
+3452 Anti-Spirit Strengthening_Effect: Anti-Spirit Guard Strengthening
+3453 Anti-Spirit Strengthening_Effect: Anti-Spirit Jasuga Strengthening
+3500 Pottery piece _ AI sound bullet firing that only you can hear
+3501 Pottery piece _ AI sound bullet firing that only you can hear (hanging)
+3502 Ceramic piece _ AI sound bullet firing that only you can hear (peeping _ left)
+3503 Pottery piece _ AI sound bullet firing that only you can hear (peeping _ right)
+3520 Aburatsubo (flaming resistance DOWN)
+3530 Invoking illusion
+3531 Illusion Dispelled
+3600 Money acquisition UP_VFX
+3601 Money acquisition UP_effect
+3610 Resurrection right acquisition amount UP_VFX
+3611 Resurrection right acquisition amount UP_ effect
+3620 Item drop rate UP_VFX
+3621 Item drop rate UP_effect
+3630 Form cost drop rate UP_VFX
+3631 Form cost drop rate UP_effect
+3640 White Rappa Water Balloon_Various UP_VFX
+3641 White Rappa Water Balloon_Money Acquisition _Effect
+3643 White Rappa Water Balloon_Resurrection Right Acquisition Amount UP_Effect
+3645 White Rappa Water Balloon_Item Drop Rate UP_Effect
+3647 White Rappa Water Balloon_Shape Drop Rate UP_Effect
+3700 Gold Nugget_Small
+3704 Gold Nugget_Medium
+3708 Gold Nugget_Large
+3730 [Consumption] Bell Demon_Day
+3731 【Consumption】Zhong Gui_夕
+3732 【Consumption】Zhong Gui_Night
+3733 [Consumption] Bell Ghost_钟宵
+3800 Form conversion (white)
+3980 Buddha statue of return
+3990 Redo bell _ fade out
+3991 Redo bell_fade in
+3999 Redo bell _ use prohibited
+4000 Suspension ダメージ bed【Poison_Interval adjustment_渓谷谷底(Deep)】
+4001 Sustained damage floor [Poison_Effect body_Canyon bottom (deep)]
+4002 Sustained damage floor [Poison_Interval adjustment_Canyon bottom (shallow)]
+4003 Sustained damage floor [Poison_Effect body_Canyon bottom (shallow)]
+4010 Sustained Damage Floor [Weak Flame + Damage_Interval Adjustment_Castle]
+4011 Sustained Damage Floor [Weak Flame + Damage_Effect Body (Damage) _Castle]
+4012 Sustained damage floor [Weak flame + damage _ effect body (flaming) _ castle]
+4014 Sustained Damage Floor [Flame_Smoke Signal_Castle]
+4015 Increased enemy damage for gunpowder box dummy characters
+4020 Sustained damage floor [Strong flame + damage_interval adjustment_samurai residence]
+4021 Sustained damage floor [Strong flame + damage _ effect body (damage) _ samurai residence]
+4022 Sustained damage floor [strong flame + damage _ effect body (flaming) _ samurai residence]
+4050 Fall damage invalid
+4051 Fall prevention assist disabled (movement to the ground &amp; ground action wall)
+4052 Fall prevention assist disabled (ground action wall only)
+4053 Fall damage invalid_When the suspension bridge in the valley falls
+4100 Hit material judgment _ Riding object
+4200 Stealth effect_bushes
+4201 Stealth effect_water, underwater bushes
+4400 Hidden prison_during tutorial_player is damaged
+4500 [Conversation] Within the eavesdropping area
+4510 [Conversation] Declaration that special conversation is possible
+4511 [Conversation] Waiting for conversation to occur
+4600 [Conversation] No eavesdropping
+4700 Warp prohibited
+4701 Item use request not possible
+4702 Full operation prohibited
+4800 Medium Boss_No Money &amp; Experience
+4900 Enemy visual correction _90% reduction
+4910 Event: React as soon as you hear the sound
+5000 Non-combat behavior running
+5001 Non-combat behavior Smoothly ignored
+5002 Non-combat behavior Group patrol invalid
+5010 For logic judgment For initial action
+5020 General-purpose effect for logic judgment 1
+5021 General-purpose effect for logic judgment 2
+5022 General-purpose effect for logic judgment 3
+5023 General-purpose effect for logic judgment 4
+5024 General-purpose effect for logic judgment 5
+5025 General-purpose effect for logic judgment 6
+5026 General-purpose effect for logic judgment 7
+5027 General-purpose effect for logic judgment 8
+5028 General-purpose effect for logic judgment 9
+5029 General-purpose effect for logic judgment 10
+5030 General-purpose effect for logic judgment 11
+5031 General-purpose effect for logic judgment 12
+5032 General-purpose effect for logic judgment 13
+5033 General-purpose effect for logic judgment 14
+5034 General-purpose effect for logic judgment 15
+5035 General-purpose effect for logic judgment 16
+5036 General-purpose effect for logic judgment 17
+5037 General-purpose effect for logic judgment 18
+5038 General-purpose effect for logic judgment 19
+5039 General-purpose effect for logic judgment 20
+5040 MP reduced by -1
+5041 MP reduction -2
+5042 MP reduction -3
+5043 MP reduction -4
+5044 MP reduction -5
+5045 MP recovery +1
+5046 MP recovery +2
+5047 MP recovery +3
+5048 MP recovery +4
+5049 MP recovery +5
+5060 Apply corpse reaction
+5061 Corpse reaction pattern 0
+5062 Corpse reaction pattern 1
+5063 Corpse reaction pattern 2
+5100 EvE enemy weakening doping_attack 75% defense 125%
+5101 EvE enemy weakening doping_attack 50% defense 125%
+5102 EvE enemy weakening doping_attack 25% defense 125%
+5110 EvE Samurai Residence Swordsman Doping_Attack 50% Defense 150%
+5200 Combat Balance Adjustment Test_SA
+5201 Combat balance adjustment test_HP 75% -50% core performance DOWN
+5202 Combat balance adjustment test_HP 50% -25% core performance DOWN
+5203 Combat balance adjustment test_HP 25% to 0%, core performance DOWN
+5210 Combat balance adjustment test_boss_immortality release
+5211 Combat balance adjustment test_Boss_HP complete recovery
+5220 Combat balance adjustment test_PC_ Trunk automatic recovery speed basic value
+5221 Combat balance adjustment test_PC_HP 75% -50% core performance DOWN
+5222 Combat balance adjustment test_PC_HP 50% -25% core performance DOWN
+5223 Combat balance adjustment test_PC_HP 25% to 0% core performance DOWN
+5230 Combat balance adjustment test_enemy_after being hit hard_increase core damage_direct hit
+5231 Combat Balance Adjustment Test_Enemy_After being hit hard_Increased core damage_Guard
+5232 Combat balance adjustment test_enemy_after being hit hard_damage level replacement
+5300 Resident damage animation change [general purpose / all invalid (additional animation does not appear)]
+5301 Resident damage animation change [general purpose / all invalid (additional animation playback)]
+5302 Resident damage animation change [general purpose / large / blow-off only]
+5303 Resident damage animation change [general purpose / medium / blow-off (small) only]
+5304 Resident damage animation change [general purpose / large only]
+5305 Resident damage animation change [general purpose / medium only]
+5306 Resident damage animation change [general purpose / small only]
+5310 Resident damage animation change [dog]
+5311 Resident damage animation change [Chief of Ninja Army]
+5312 Resident damage animation change [Kensei]
+5313 Resident damage animation change [Village zombie]
+5314 Resident damage animation change [butterfly]
+5315 Resident damage animation change [Japanese style Innsmouth]
+5316 Resident damage animation change [Valley enemy sniper]
+5317 Resident damage animation change [Okina Dragon]
+5318 Resident damage animation change [Samurai Tokugawa]
+5319 Resident damage animation change [Chigo monkey]
+5320 Resident damage animation change [NTC standard]
+5321 Resident damage animation change [Centipede large]
+5322 Damage animation change [Butterfly_attack sign] (moment)
+5323 Damage animation change [Butterfly_Lower attack] (moment)
+5324 Damage animation change [Butterfly_Aerial] (moment)
+5340 Damage animation change [Lower man shield] [All invalid] (moment)
+5341 Damage animation change [Lonely people] [Small damage invalid] (moment)
+5342 Damage animation change [Swordsman / Seiza] (moment)
+5343 Damage animation change [True _ Ninja army chief, waiting for sword delivery] (moment)
+5344 Damage animation change [earth wall soldier, moment SA] (moment)
+5350 Damage animation change [All invalid] (moment)
+5351 Damage animation change [minimal, small, medium, large, hit, launch, push invalid] (moment)
+5352 Damage animation change [minimal / small / medium / large / push invalid] (moment)
+5353 Damage animation change [minimal / small / medium / push invalid] (moment)
+5354 Damage animation change [minimal / small / push invalid] (moment)
+5355 Damage animation change [Medium or higher] (moment)
+5356 Damage animation change [Invalid below medium] (moment)
+5358 Damage animation change [Large / Blow-off only] (moment)
+5359 Damage animation change [when the trunk collapses] (moment)
+5360 Damage animation change at SA [No animation (additional animation playback)]
+5361 Damage animation change at SA [Small only]
+5362 Damage animation change at SA [Medium only]
+5363 Damage animation change at SA [Small and Medium]
+5364 Damage animation change at SA [Small only / Large invalid]
+5365 Damage animation change at SA [Invalid below medium]
+5366 Damage animation change at SA [Lower man]
+5367 Damage animation change at SA [Lower man _ Frightened _ Medium damage or more through] (moment)
+5370 Damage animation change at SA [All invalid] (moment)
+5371 Damage animation change at SA [Small only] (moment)
+5372 Damage animation change at SA [Medium only] (moment)
+5373 Damage animation change during SA [small and medium] (moment)
+5374 Damage animation change at SA [Small only / Large invalid] (moment)
+5375 Damage animation change at SA [Kick only effective]
+5379 Damage animation change at SA [No animation (no additional animation)] (moment)
+5380 Damage animation change at SA [Invalid below medium] (moment)
+5381 Damage animation change at SA [Middle or lower invalid / push valid] (moment)
+5382 Resident damage animation change [Large / blown away, small damage → medium] (moment)
+5383 Damage animation change at SA [Large or less invalid]
+5384 Damage animation change at SA [Blow-off only]
+5385 Damage animation change at SA [Invalid below medium, do not blow off]
+5386 Damage animation change at SA [Do not blow away]
+5400 Weapon change Anime ID offset 0
+5401 Weapon change Anime ID offset 10000
+5402 Weapon change Anime ID offset 20000
+5403 Weapon change Anime ID offset 30000
+5404 Anime ID offset 1000000
+5405 Anime ID offset 2000000
+5406 Anime ID offset 3000000
+5407 Anime ID offset 4000000
+5408 Anime ID offset 5000000
+5410 Anime ID offset 100000
+5411 Anime ID offset 200000
+5412 Anime ID offset 300000
+5413 Anime ID offset 400000
+5414 Anime ID offset 500000
+5450 Enemy special standby: For event processing
+5460 Enemy character Est [HP]
+5461 Enemy character Est [HP]
+5500 * Old specification [NTC] Critical expression VFX_ general purpose
+5501 * Old specification [NTC] Critical expression VFX_ Shuriken
+5502 * Old specification [NTC] Critical expression VFX_prepared ax
+5503 * Old specification [NTC] Critical expression VFX_prepared spear
+5510 Demon Priest Special effects for magic SFX (small)
+5511 Special effects for Demon Priest Spell SFX (Medium)
+5512 Demon Priest Special effects for SFX (Large)
+5513 Demon Priest Special effects for magic SFX (none)
+5514 Demon Priest Spell SFX Accumulation Speed Double
+5515 Demon Priest for Flame Enchantment
+5520 Jailer slow foot effect
+5530 Sullivan Shinigami (Sword)
+5531 Sullivan Grim Reaper (sickle)
+5532 Shinigami (resident SFX)
+5540 Maggot Flame State (for Punish Flag)
+5541 Zombie Crow Madness Flag
+5560 Covered with wax
+5570 Blue: Avatar (provisional) Adds blunt legs
+5571 Blue: Avatar (provisional) Surrounding recovery
+5572 Blue: Avatar (provisional) Self-reinforcement
+5573 Blue: Avatar (provisional) Strengthen allies
+5580 Firewood Demon_ (Resident SFX)
+5581 Firewood demon HU_ (resident SFX)
+5583 Ash Demon_ (Resident SFX) Reservation
+5590 New skeleton torch (resident SFX)
+5600 Sullivan Enchantment
+5610 In front of SFX Hu, the old king of erosion
+5611 After the old king of erosion resident SFX Hu
+5700 [NTC] Special damage judgment _c1500 Villager zombie
+5750 1st playable version provisional support_SFX display in semi-stealth state
+5800 [Behavior] Do not cut the movement amount of damage animation
+5810 Greatly increased damage while the sand worm is down
+5830 Immortal
+5831 For enemies who want to avoid immortality_death judgment
+5840 [Behavior] Pretending to be dead
+5841 【Behavior】 Blast
+5842 [Behavior] Pretend to be dead_Zombie
+5845 [Behavior] Waiting for resurrection_Play prone animation
+5846 [Behavior] Waiting for resurrection_Play the animation on your back
+5850 【Behavior】Water
+5851 【Behavior】Underwater
+5852 【Behavior】Underwater
+5860 [Behavior] Treat enemy special state animation in the same way as normal throwing
+5861 [Behavior] Treat enemy special state animation as if it were a normal throwing death
+5900 [Behavior] Play aerial damage / collapse / death animation
+5905 [Behavior] Connect directly to various falling loops at the end of the aerial damage animation
+5910 [Behavior] No landing motion
+5920 [Behavior] Disable fall prevention assist
+5921 [Behavior] Disable fall prevention assist_Infinite life
+5922 [Behavior] Disable fall prevention assist_4s
+6000 [Behavior] Can be pressed in steps
+6001 [Behavior] Step extrusion prohibited
+6010 [Behavior] Burning reaction does not play _ moment
+6011 [Behavior] Burning reaction does not play _ permanent
+6020 [Behavior] Play the flame reaction animation
+6021 [Behavior] Play lightning damage animation
+6022 [Behavior] Play spirited away reaction animation
+6023 [Behavior] Play the illusion release reaction animation
+6030 [Behavior] Lightning damage effective _8 seconds
+6031 [Behavior] Lightning damage effective_2.5 seconds_for rivals
+6032 [Behavior] Lightning damage effective _1 seconds
+6039 [Behavior] Lightning damage effective _10 seconds
+6040 [Behavior] Death_Transition to special animation_Moment
+6041 [Behavior] Death_Transition to special animation_Permanent
+6050 [Behavior] Death_Special_Transition to standby animation_Moment
+6051 [Behavior] Death_Special_Transition to standby animation_Permanent
+6060 [Behavior] Judgment before jump
+6070 [Behavior] _ Moment that does not transition to firecracker reaction
+6071 [Behavior] Do not transition to firecracker reaction_permanent
+6080 [Behavior] It does not collapse during the reaction guarantee time
+6199 [Behavior] Lip sync is effective during conversation
+6200 Stamina Recovery Down_Head_Level 1
+6201 Stamina Recovery Down_Head_Level 2
+6202 Stamina Recovery Down_Head_Level 3
+6203 Stamina Recovery Down_Head_Level 4
+6210 Stamina Recovery Down_Body_Level 1
+6211 Stamina Recovery Down_Body_Level 2
+6212 Stamina Recovery Down_Body_Level 3
+6213 Stamina Recovery Down_Body_Level 4
+6220 Stamina Recovery Down_Arm_Level 1
+6221 Stamina Recovery Down_Arm_Level 2
+6222 Stamina Recovery Down_Arm_Level 3
+6223 Stamina Recovery Down_Arm_Level 4
+6230 Stamina Recovery Down_Legs_Level 1
+6231 Stamina Recovery Down_Legs_Level 2
+6232 Stamina Recovery Down_Legs_Level 3
+6233 Stamina Recovery Down_Legs_Level 4
+6300 Super armor
+6335 Missing chain: Damage reduction
+6340 Toughness: Damage reduction: Medium
+6350 Toughness: very small (below 30)
+6351 Toughness: small (below 50)
+6352 Toughness: Medium (below 70)
+6353 Toughness: large (below 100)
+6354 Toughness: Oversized (greater than 100)
+6400 Bleeding_1
+6401 Bleeding_2
+6402 Bleeding_3
+6403 Bleeding_4
+6404 Bleeding_5
+6405 Bleeding_6
+6500 Poison_1
+6501 Poison_2
+6502 Poison_3
+6503 Poison_4
+6504 Poison_5
+6505 Poison_6
+6510 Poison_1 (short lasting)
+6511 Poison_2 (short lasting)
+6512 Poison_3 (short lasting)
+6513 Poison_4 (short lasting)
+6514 Poison_5 (short lasting)
+6515 Poison_6 (short lasting)
+6600 Very poisonous_1
+6601 Deadly poison_2
+6602 Very poisonous _3
+6603 Very poisonous _4
+6604 Very poisonous _5
+6605 Very poisonous _6
+6980 Event: City Map Snipe Stop
+6990 Attracting
+7000 Growth Doping: Hidden Prison (Tutorial) _Default
+7010 Growth Doping: Castle_Morning
+7011 Growth Doping: Castle_Day
+7012 Growth Doping: Castle_Evening
+7013 Growth Doping: Castle_Night
+7014 Growth Doping: Castle_Bell Evening
+7020 Growth Doping: First Half of Samurai Residence_Default
+7024 Growth Doping: First Half of Samurai Residence_Kaneyoi
+7030 Growth Doping: Second Half of Samurai Residence_Morning
+7031 Growth Doping: Second Half of Samurai Residence_Lunch
+7032 Growth Doping: Second Half of Samurai Residence_Evening
+7033 Growth Doping: Second Half of Samurai Residence_Night
+7034 Growth Doping: Second Half of Samurai Residence_Kaneyoi
+7040 Growth Doping: Honjo_Morning
+7041 Growth Doping: Honjo_Day
+7042 Growth Doping: Honjo_Evening
+7043 Growth Doping: Honjo_Night
+7044 Growth Doping: Honjo_Kaneyoi
+7050 Growth Doping: Hidden Prison_Morning
+7051 Growth Doping: Hidden Prison_Day
+7052 Growth Doping: Hidden Prison_Evening
+7053 Growth Doping: Hidden Prison_Night
+7054 Growth Doping: Hidden Prison_Bell Evening
+7060 Growth Doping: Dungeon_Morning
+7061 Growth Doping: Dungeon_Day
+7062 Growth Doping: Dungeon_Evening
+7063 Growth Doping: Dungeon_Night
+7064 Growth Doping: Dungeon_Bell Evening
+7070 Growth Doping: Temple_Morning
+7071 Growth Doping: Temple_Day
+7072 Growth Doping: Temple_Evening
+7073 Growth Doping: Temple_Night
+7074 Growth Doping: Temple_Bell Evening
+7080 Growth Doping: Canyon_Morning
+7081 Growth Doping: Canyon_Day
+7082 Growth Doping: Canyon_Evening
+7083 Growth Doping: Canyon_Night
+7084 Growth Doping: Canyon_Bell Evening
+7090 Growth Doping: Lower Valley_Morning
+7091 Growth Doping: Lower Valley_Day
+7092 Growth Doping: Lower Valley_Evening
+7093 Growth Doping: Lower Canyon_Night
+7094 Growth Doping: Lower Valley_Bell Evening
+7100 Growth Doping: Sick Village_Morning
+7101 Growth Doping: Sick Village_Day
+7102 Growth Doping: Sick Village_Evening
+7103 Growth Doping: Sick Village_Night
+7104 Growth Doping: Sick Village_Bell Evening
+7110 Growth Doping: Honjo (Ninja Army Invasion) _ Default
+7114 Growth Doping: Honjo (Ninja Army Invasion) _ Bell Evening
+7120 Growth Doping: Samurai Residence (Truth Edition) _Default
+7124 Growth Doping: Samurai Residence (Truth Edition) _ Kaneyoi
+7130 Growth Doping: Submerged City_Default
+7134 Growth Doping: Submerged City_Kaneyoi
+7140 Growth Doping: Honjo (Tokugawa Invasion) _ Default
+7144 Growth Doping: Honjo (Tokugawa Invasion) _ Kaneyoi
+7150 Growth Doping: Hidden Prison (Tokugawa Invasion) _ Default
+7154 Growth Doping: Hidden Prison (Tokugawa Invasion) _ Bell Evening
+7160 Growth Doping: Castle (Tokugawa Invasion) _ Default
+7164 Growth Doping: Castle (Tokugawa Invasion) _ Bell Evening
+7170 Growth Doping: End of Game_Default
+7174 Growth Doping: Game End_Bell Evening
+7500 Orbital Doping 00: Hidden Prison (Tutorial) _Default
+7510 Orbital Doping 00: Castle_Morning
+7511 Orbital Doping 00: Castle_Day
+7512 Orbital Doping 00: Castle_Evening
+7513 Orbital Doping 00: Castle_Night
+7514 Orbital Doping 00: Castle_Bell Evening
+7520 Orbital Doping 00: First Half of Samurai Residence_Default
+7524 Orbital Doping 00: First Half of Samurai Residence_Kaneyoi
+7530 Orbital Doping 00: Second Half of Samurai Residence_Morning
+7531 Orbital doping 00: Samurai residence second half _ noon
+7532 Orbital Doping 00: Second Half of Samurai Residence_Evening
+7533 Orbital Doping 00: Second Half of Samurai Residence_Night
+7534 Orbital Doping 00: Second Half of Samurai Residence_Kaneyoi
+7540 Orbital Doping 00: Honjo_Morning
+7541 Orbital doping 00: Honjo_noon
+7542 Orbital Doping 00: Honjo_Evening
+7543 Orbital Doping 00: Honjo_Night
+7544 Orbital Doping 00: Honjo_Kaneyoi
+7550 Orbital Doping 00: Hidden Prison_Morning
+7551 Orbital Doping 00: Hidden Prison_Day
+7552 Orbital Doping 00: Hidden Prison_Evening
+7553 Orbital Doping 00: Hidden Prison_Night
+7554 Orbital Doping 00: Hidden Prison_Bell Evening
+7560 Orbital Doping 00: Dungeon_Morning
+7561 Orbital Doping 00: Dungeon_Day
+7562 Orbital Doping 00: Dungeon_Evening
+7563 Orbital Doping 00: Dungeon_Night
+7564 Orbital Doping 00: Dungeon_Bell Evening
+7570 Orbital Doping 00: Temple_Morning
+7571 Orbital Doping 00: Temple_Day
+7572 Orbital Doping 00: Temple_Evening
+7573 Orbital Doping 00: Temple_Night
+7574 Orbital Doping 00: Temple_Bell Evening
+7580 Orbital Doping 00: Canyon_Morning
+7581 Orbital Doping 00: Canyon_Day
+7582 Orbital Doping 00: Canyon_Evening
+7583 Orbital Doping 00: Canyon_Night
+7584 Orbital Doping 00: Canyon_Bell Evening
+7590 Orbital Doping 00: Lower Valley_Morning
+7591 Orbital Doping 00: Lower Valley_Day
+7592 Orbital Doping 00: Lower Valley_Evening
+7593 Orbital Doping 00: Lower Valley_Night
+7594 Orbital Doping 00: Lower Valley _ Bell Evening
+7600 Orbital Doping 00: Sick Village_Morning
+7601 Orbital Doping 00: Sick Village_Day
+7602 Orbital Doping 00: Sick Village_Evening
+7603 Orbital Doping 00: Sick Village_Night
+7604 Orbital Doping 00: Sick Village_Bell Evening
+7610 Orbital Doping 00: Honjo (Ninja Army Invasion) _ Default
+7614 Orbital Doping 00: Honjo (Ninja Army Invasion) _ Bell Evening
+7620 Orbital Doping 00: Samurai Residence_Truth Edition_Default
+7624 Orbital Doping 00: Samurai Residence_Truth Edition_Bell Evening
+7630 Orbital Doping 00: Submerged City_Default
+7634 Orbital Doping 00: Submerged City_Kaneyoi
+7640 Orbital Doping 00: Honjo (Tokugawa Invasion) _ Default
+7644 Orbital Doping 00: Honjo (Tokugawa Invasion) _ Bell Evening
+7650 Orbital Doping 00: Hidden Prison (Tokugawa Invasion) _ Default
+7654 Orbital Doping 00: Hidden Prison (Tokugawa Invasion) _ Bell Evening
+7660 Orbital Doping 00: Castle (Tokugawa Invasion) _ Default
+7664 Orbital Doping 00: Castle (Tokugawa Invasion) _ Bell Evening
+7670 Orbital Doping 00: Game End_Default
+7674 Orbital Doping 00: Game End_Bell Evening
+7900 Hard Mode Doping_Miscellaneous Fish
+7901 Hard Mode Doping_Heavy Fish
+7902 Hard Mode Doping_Medium Boss
+7903 Hard Mode Doping_Boss
+8000 Refresh_HP complete recovery
+8001 Refreshing _ full core
+8002 Refresh_Abnormal state recovery All
+8003 Refresh_Abnormal state resistance recovery_Poison
+8004 Refresh_Recovery of abnormal condition resistance_Flame
+8005 Refresh_Abnormal state resistance recovery_Madness
+8006 Refresh_Abnormal condition recovery_Poison (slip damage elimination)
+8007 Refresh_Abnormal condition recovery_Recovery sealed
+8008 Refresh_Recovery of abnormal condition resistance_Electricity
+8009 Refresh_Recovery of abnormal condition resistance_Aging
+8010 Refresh_Full recovery
+8100 Resurrection Recast Recovery_MAXpoint
+8105 Resurrection Recast Recovery_005point
+8110 Resurrection Recast Recovery_010point
+8115 Resurrection Recast Recovery_015point
+8120 Resurrection Recast Recovery_020point
+8125 Resurrection Recast Recovery_025point
+8130 Resurrection Recast Recovery_030point
+8135 Resurrection Recast Recovery_035point
+8140 Resurrection Recast Recovery_040point
+8145 Resurrection Recast Recovery_045point
+8150 Resurrection Recast Recovery_050point
+8200 Waiting for resurrection Death notice continued_Permanent
+8300 During dizziness reaction
+8500 Remaining machine protection (demon Buddha)
+8600 Progressive doping addition
+8610 Hard mode
+9000 Virus resistance cut り 00【PC_From the virus】
+9001 Disease resistance scraping 01 [PC_Blood smoke shinobi_Poison smoke]
+9002 Disease resistance scraping 02 [PC_Granting Shinobi_Poison Encha]
+9003 Virus resistance cut 03【PC_Poison Firecracker】
+9005 Disease resistance shaving 05 [PC_Kodachi 1_Shaving 12.5]
+9006 Disease resistance shaving 06 [PC_Kodachi 2_Shaving 25]
+9007 Disease resistance shaving 07 [PC_Kodachi 3_Shaving 50]
+9010 Disease resistance scraping 10 [enemy_sample]
+9011 Disease resistance scraping 11 [Gecko_poison fog]
+9012 Virus resistance cut 12【Sura Shi_Poisonous mist】
+9013 Disease resistance shaving 13 [Shura Samurai_Poison Enchantment]
+9014 Disease resistance scraping 14 [Rappa_poison bed]
+9015 Poison resistance shaving 15 [Rappa_poison blowgun]
+9016 Disease resistance scraping 16 [Bandit_poison arrow]
+9017 Disease resistance shaving 17 [Okina Dragon_coughing]
+9018 Virus resistance cut ri 18 [Gu Yingzhong_Poisonous Hand]
+9019 Disease resistance scraping 19 [Ninja army chief_poison bed]
+9020 Disease Poison Damage_Anti-Woman 00 [PC_Kodachi Poison]
+9040 Virus ダメージ 00【PC_From Virus】
+9041 Virus ダメージ01【PC_Ninjutsu Poison】
+9043 Virus ダメージ05【PC_Firecracker poison】
+9045 Disease Poison Damage 05 [PC_Kodachi Poison]
+9049 Poison damage 09 [Map_Poison bed]
+9050 Disease Poison Damage 10 [Enemy_General Poison]
+9080 Female poison additional damage permission
+9100 Burning damage 00 [PC_Shaving 25]
+9101 Burning damage 01 [PC_Shaving 33]
+9102 Burning damage 02 [PC_Shaving 50]
+9103 Burning damage 03 [PC_Shaving 67]
+9104 Burning damage 04 [PC_Shaving 75]
+9105 Burning damage 05 [PC_Shaving 100]
+9106 Burning damage 06 [PC_Shaving 125]
+9107 Burning damage 07 [PC_Shaving 150]
+9108 Burning damage 08 [PC_Shaving 175]
+9109 Burning damage 09 [PC_Shaving 200]
+9110 Burn damage 10 [Enemy_Sample]
+9111 Burning damage 11 [Centipede_flaming floor]
+9112 Burning damage 12 [Bandit_Fire arrow]
+9113 Burning Damage 13 [Demon Buddhist Master_Flame Floor]
+9114 Burning damage 14 [Fire cow_rush]
+9115 Burning damage 15 [Bandit_Torches]
+9116 Burning damage 16 [Demon Buddhist _ Flame arm]
+9117 Flame damage 17 [Tokugawa Samurai_Flame radiation]
+9118 Burning damage 18 [Tokugawa Samurai_Incendiary Gun]
+9119 Burning Damage 19 [Shura Samurai_Ignition Encha Slash]
+9120 Burning damage 20 [Shura Samurai_Fire Breathing]
+9121 Burning damage 21 [Fire cow_burning]
+9122 Burning damage 22 [Fire cow_flaming slip damage]
+9123 Burn damage 23 [Sword sword holy _ weak flame]
+9124 Burn damage 24 [Sword sword holy _ strong flame]
+9125 Flame Damage 25 [Nightjars_Flame Encha Attack]
+9200 Scary damage 00
+9201 Scary damage 01
+9202 Scary damage 02
+9203 Scary damage 03
+9204 Scary damage 04
+9205 Scary damage 05
+9206 Scary damage 06
+9207 Scary damage 07
+9208 Scary damage 08
+9209 Scary damage 09
+9210 Scary damage 10 [enemy_sample]
+9211 Scary damage 11 [Seven-sided warrior_Grief bullet (weak)]
+9212 Scary Damage 12 [Seven-sided Warrior_Grief Bullet (Strong)]
+9213 Scary damage 13 [Neckless_Attack (weak)]
+9214 Scary damage 13 [Neckless_Attack (Middle)]
+9215 Scary damage 14 [Neckless_Attack (strong)]
+9216 Scary damage 16 [Yasha Ape_Roar]
+9218 Scary damage 17 [Demon monkey test_all attacks]
+9219 Scary Damage 19 [Seven-sided Warrior_Grief Field]
+9220 Scary damage 20 [Yasha Ape&#39;s mad roar]
+9221 Scary Damage 21 [Underwater Neckless Hair Bullet]
+9222 Scary damage 22 [Village zombies_mad dumplings_parents]
+9223 Scary damage 23 [Village zombie _ Mad dumpling _ Child]
+9280 Fear_Resistance Shaving Permit
+9281 Fear_Resistance Shaving Hold
+9400 Kanden_Hit effect 00 [PC_Lightning return]
+9405 Kanden_Hit effect 05 [PC_Lightning return]
+9410 Kanden_Hit effect 10 [Enemy_Lightning_Strength 1]
+9411 Kanden_Hit effect 11 [Enemy_Lightning_Strength 2]
+9412 Kanden_Hit effect 12 [Enemy_Lightning_Strength 3]
+9413 Kanden_Hit effect 13 [Enemy_Lightning_Strength 4]
+9414 Kanden_Hit effect 14 [Enemy_Lightning_Strength 5]
+9415 Electric shock_hit effect 19 [enemy_strong thunder_mermaid dragon]
+9420 Electric shock_resistant scraping 00 [PC_lightning return]
+9425 Electric shock_resistant scraping 05 [PC_strong lightning return]
+9430 Electric shock_resistant scraping 10 [enemy_lightning_strength 1]
+9431 Electric shock_resistant scraping 11 [enemy_lightning_strength 2]
+9432 Electric shock_resistant scraping 12 [enemy_lightning_strength 3]
+9433 Electric shock_resistant scraping 13 [enemy_lightning_strength 4]
+9434 Electric shock_resistant scraping 14 [enemy_lightning_strength 5]
+9435 Electric shock_resistant scraping 15 [enemy_strong thunder_mermaid dragon]
+9440 Electric shock_Resistance scraping_Recovery [Common]
+9450 Electric shock_damage Behavior notification 00 [common to lightning]
+9451 Electric shock_damage Behavior notification 01 [common to strong lightning]
+9460 Electric shock damage magnification change _0.00 times
+9461 Electric shock damage magnification change _0.25 times
+9462 Electric shock damage magnification change _0.50 times
+9463 Electric shock damage magnification change_0.75 times
+9464 Electric shock damage magnification change_
+9465 Electric shock damage magnification change_
+9466 Electric shock damage magnification change_
+9467 Electric shock damage magnification change_
+9468 Electric shock damage magnification change_
+9469 Electric shock damage magnification change_
+9480 Electric shock_resistant scraping permission
+9481 Electric shock_resistant scraping hold
+9490 Electric shock_charged enchantment [weak lightning_strength 1]
+9491 Electric shock_charged enchantment [weak lightning_strength 2]
+9492 Electric shock_charged enchantment [weak lightning_strength 3]
+9493 Electric shock_charged enchantment [weak lightning_strength 4]
+9494 Electric shock_charged enchantment [weak lightning_strength 5]
+9495 Electric shock_charged enchantment [strong thunder_mermaid dragon]
+9498 Electric shock_charged enchantment [for checking lightning]
+9499 Electric shock_charged enchantment [for checking strong lightning]
+9500 Electric shock_lightning enchantment erase
+9505 Electric shock_Discharge_Parent [Weak lightning]
+9506 Electric shock_discharge_parent [strong lightning]
+9507 Electric shock_discharge_child [lightning / strong lightning]
+9508 Electric shock_discharge_child [lightning / strong lightning]
+9600 Aging_resistant scraping
+9601 Aging_tolerance return
+9620 Aging_invoking
+9640 Aging_Relief_上书き版
+9641 Aging_Release_Time Elapsed Version
+9800 Firecracker debuff
+10400 [NTC] Broken Ring Monk_Transparency of Magic Magic
+10500 [NTC] Dog_Dripping Resident SFX
+10550 Ninjutsu Ninjutsu_Puppet Technique_Symbol SFX_Eyes
+10600 [NTC] Tominaga Servant General_Hand_Resident SFX
+10601 [NTC] Tominaga Servant General_Chest_Resident SFX
+10602 [NTC] Samurai Tominaga _ flank _ resident SFX
+10603 [NTC] Samurai Tominaga _Foot_Resident SFX
+10604 [NTC] General Tominaga _ Deadly stance _ Resident SFX
+10605 [NTC] Shinobi kills 720 health
+10606 [NTC] The maximum value of stamina is reduced by playing animation
+10607 [NTC] Increase stamina maximum value by shinobi + decrease stamina recovery speed by 100
+10700 [NTC] Straw doll bug revival judgment
+10701 [NTC] HP recovery when the straw doll bug revives
+30000 [Conversation] 00 for animation status judgment
+30001 [Conversation] 01 for animation status judgment
+30002 [Conversation] For animation status judgment 02
+30003 [Conversation] For animation status judgment 03
+30004 [Conversation] For animation status judgment 04
+30005 [Conversation] For animation status judgment 05
+30006 [Conversation] For animation status judgment 06
+30007 [Conversation] For animation status judgment 07
+30008 [Conversation] For animation status judgment 08
+30009 [Conversation] For animation status judgment 09
+30100 [Conversation] For judgment to treat as dead in EzState
+30200 [Conversation] Throw invalid / Trunk damage multiplier 0 (permanent)
+30201 [Conversation] Damage is completely invalid
+30300 [Conversation] Non-resisting NPC attack response_death production
+30500 [Conversation] Judgment using artificial limbs
+30600 [Conversation] Quick turn at the start of conversation
+30601 [Conversation] Do not turn to the nest
+30700 [Conversation] Judgment during conversation
+31100 [Conversation] [Prince] Completely hidden
+31101 [Conversation] [Prince (censer)] For instant judgment when the material is added to the incense
+31102 [Conversation] [Prince (censer)] Suppressing the start of cutscenes that burn incense
+31110 [Conversation] [Prince] Completely hidden
+31111 [Conversation] [Prince] Completely hidden _ for initial use
+31120 [Conversation] [Prince] Phantom conversation sign SFX (for Prince)
+31121 [Conversation] [Prince] Phantom conversation sign SFX (for Emma)
+31122 [Conversation] [Prince] No quick turn for phantom conversation
+31200 [Conversation] [Chief of the Ninja Army (Truth Edition)] For determining whether the sword animation has ended
+32900 [Conversation] [Mermaid Yaohi]
+32901 [Conversation] [Yahyobioka Nun] I used a motion item that the PC prays for.
+71100 All invalid
+71110 Immortal invalid
+71111 All valid
+81111 All valid
+80111 Residual invalid
+81011 Ineffective sucking soul
+81101 Fascination invalid
+80011 Remnants &amp; soul sucking invalid
+80101 Remnants &amp; fascination invalid
+81001 Sucking soul &amp; fascination invalid
+80000 All invalid
+90111 Poison invalid
+91011 Ineffective on fire (flaming = bleeding)
+90011 Poison &amp; flaming invalid (flaming bleeding)
+90000 All invalid * Unused
+99000 Shallow snow
+99001 Deep snow
+99002 Dead torch state
+99003 Blood glue blown from the sword
+99004 Display off
+99005 Post-ritual test
+99006 Playable version Enemy unnoticed
+99007 Playable version The power of evil spirits
+99008 Counter test
+99013 Concept version Suspension bridge For the dead Always throwing invalid
+99014 Suspension bridge for determining the waiting status of the dead
+99020 Special effects for slime
+99050 Corrosion test
+99100 [FDP] Test_No damage to fire
+99101 [FDP] Test_Damage when throwing a wolf
+99102 [FDP] Test_Firefly item use event acquisition
+99200 [FDP] Proto_Giant slime frozen
+99201 [FDP] Proto_Giant slime frozen SFX
+99300 Dragon Bleeding
+99310 Dragon bleeding 1
+99311 Dragon bleeding 2
+99312 Dragon bleeding 3
+99313 Dragon bleeding 4
+99314 Dragon bleeding 5
+99400 [Test] Curse of the King of the Dead
+99401 c1210 Blue Estrus Permit Test
+99402 c1210 Blue in estrus Anime ID offset 3000000
+99410 c1240 Poor dead rolling test
+99420 c2180 Maggot A test for changing the damage animation with flames
+99430 12 End version avatar for pseudo-death state
+99440 Great ash demon hot air damage
+99441 Ash demon hot air damage small
+99450 Resident damage animation change [for temporary black knight]
+99451 Resident damage animation change [for temporary crucifixion A]
+99500 Basilica Golem Test
+99600 Test for measuring the time to revival of pseudo-death
+99700 Team type change test
+99800 TAE-EventMaker cooperation test
+100000 On the move (walking)
+100001 On the move (running)
+100002 Moving (dash)
+100005 Stop moving (walking)
+100006 Stop moving (running)
+100007 Stop moving (dash)
+100010 Quick turn judgment
+100020 For judging player stamina out
+100030 For upper body animation end transition judgment
+100040 Lower body animation end transition judgment
+100050 Rotation attack For specifying the transitionable period
+100060 For backstep prohibition judgment during blow-off motion
+100070 For jump animation fall transition judgment
+100080 For determining wall collision processing when throwing
+100090 For determining when the charge attack can be interrupted
+100100 For determining death timing for wall collision when throwing
+100110 For determining the timing of issuing a bonfire event
+100120 For guard reversal possible timing judgment
+100130 For rightward movement judgment
+100140 For right diagonal movement judgment
+100150 For leftward movement judgment
+100160 For left diagonal movement judgment
+100170 For 180 degree turn judgment during dash
+100180 For dash impossible judgment
+100190 For judging that running / dashing is not possible
+100200 For non-movable judgment
+100210 Judgment that you are in the forced crouching area
+100211 Bounce infinite wall Judgment that you are in the jumpable area
+100240 PC: Transition possible with interpolation between states
+100241 PC: Transition enabled with interpolation between states
+100242 PC: Hold down and transfer the deadly sword
+100243 PC: Can only be canceled at the 3rd stage of the kick rush
+100244 PC: Can only be canceled with a trained ax derivative attack
+100245 PC: Can only be canceled with an iron fan derivative attack
+100246 PC: Resurrection possible
+100250 PC: Dash transition possible
+100251 PC: Special sword input can be canceled
+100252 PC: Special sword combo possible
+100253 PC: Right finger is adding
+100254 PC: Accepting dash transition input
+100255 PC: Deadly Sword: Iai: Issue 1st stage variation
+100256 PC: Special Sword: Eight Jump Rush: Finish at the 2nd stage
+100257 PC: Special Sword: Eight Jump Rush: Finish at the 3rd stage
+100258 PC: Attack transition is possible after step
+100259 PC: Dash-derived action transition possible
+100260 PC: Artificial limb hold transition possible
+100261 PC: Artificial limb variation effective
+100262 PC: Artificial limb guard action possible
+100263 PC: Dash → Driving connection: Initial operation end
+100264 PC: Dash → Driving connection: Satellite end
+100265 PC: Normal attack 2nd stage reverse foot transition possible
+100266 PC: Jumpable after hitting a deadly sword
+100267 PC: Jump derivative action is possible after hitting the deadly sword
+100268 PC: In non-combat state
+100269 PC: Hold down step transition is possible
+100270 PC: Addition input_Wall jump
+100271 PC: No kicking in the air
+100272 PC: Treat as standby state
+100273 PC: Special effect applied to lock target_finger whistle
+100274 PC: Reverse foot guard can be started
+100275 PC: Redo bell during darkening
+100276 PC: Redo bell darkening release
+100277 PC: Artificial limb hold can be used_Ignition
+100278 PC: Check whether artificial limbs can be used
+100279 PC: Throw while down direction specified _ prone
+100280 PC: Hold down step prohibited
+100281 PC: Right finger addition is prohibited
+100282 PC: Addition input_Special sword
+100283 PC: Addition Cancel_Special Sword
+100284 PC: The rise and fall in the water may start to migrate
+100285 PC: Addition Jasuga is possible
+100286 PC: Special Sword Lifting _Iai_Variation
+100287 PC: Positioning jump landing possible
+100288 PC: Treated as a wait state during an event
+100289 PC: Damage animation transition prohibited
+100290 PC: Can only be canceled by flamethrower
+100291 PC: Can only be canceled at the 3rd stage of fist attack
+100292 PC: Can only be canceled with Kodachi derivative attacks
+100293 PC: Special sword hold can be released
+100294 PC: Move loop transition possible
+100295 PC: Non-combat area movement transition possible
+100296 PC: Normal attack 1st stage reverse foot transition possible
+100297 PC: Cancellation is possible only in the second stage of face-to-face
+100298 PC: Always bare hands
+100300 Can be canceled only for transformation
+100301 Attack hit derivative action possible
+100302 Dedicated landing transition possible
+100303 Dash-derived action transition possible_after dash
+100304 Dash-derived action transition possible_Dashing
+100305 QT transition is possible while dash is stopped
+100306 Death transition possible during down
+100307 Atemi changeable transition possible
+100308 Listening can be finished
+100309 Can be issued while down
+100310 Can be activated during additional damage
+100311 Reaction when guarding Overwriting: Minimal damage
+100312 During a standing quick turn
+100313 Standing quick turn possible
+100314 Ax horizontal derivative attack possible
+100315 Items can be used continuously
+100316 Prohibition of re-sticking _ After wall sticking
+100317 Prohibition of re-walling_Walling
+100319 PC: Set guard start animation to 2 (reverse foot)
+100320 Can attack while guarding
+100321 PC: Lock-on angle fixed release during quick turn
+100322 PC: Dash stop prohibited
+100323 PC: Can be hung while grabbing
+100324 PC: Fall prevention assist disabled
+100325 PC: Items can be used and moved
+100326 PC: Speed change transition possible
+100327 PC: Hanging and grabbing can be completed
+100328 PC: Storm jump transition possible
+100329 PC: Positioning jump landing movement can be started
+100330 PC: Landing animation disabled
+100331 PC: Wall jump is possible
+100332 PC: Can be hung in the air and grabbed
+100333 PC: Hanging and grabbing finished
+100334 PC: Kicking enemy jump transition possible
+100336 PC: Quick turn is possible while guarding
+100337 PC: Guard can be terminated
+100338 PC: Normal attack input can be canceled
+100339 PC: Normal attack animation disabled
+100340 PC: Throw kill transition effective
+100341 PC: Sub-weapon combo possible
+100342 PC: Sub-weapon derivative attack possible
+100343 PC: Sub-weapon input can be canceled
+100344 PC: Damage can be canceled and rumbling is possible
+100345 PC: Damage can be canceled and played
+100346 PC: Down cancellation and rumbling are possible
+100347 PC: Addition input reissue
+100348 PC: Water swimming is accelerating
+100349 PC: Water landing movement can be started
+100350 PC: Can surface
+100351 PC: Underwater descent loop transition possible
+100352 PC: Dolphin jump possible
+100353 PC: Braking is possible while accelerating swimming
+100354 PC: Ascending underwater
+100355 PC: Descent in the water
+100356 PC: Normal attack 1st stage transition possible
+100357 PC: Normal attack 2nd stage transition possible
+100358 PC: Normal attack 3rd stage transition possible
+100359 PC: No switching of artificial limbs
+100360 PC: Normal attack 4th stage transition possible
+100361 PC: Normal attack 5th stage transition possible
+100362 PC: Docking movement stop prohibited
+100363 PC: Set the guard start animation to 3 * Not required depending on the performance
+100364 PC: Sub-weapon addition ska effective
+100365 PC: Fall prevention assist disabled (movement to the ground &amp; ground action wall)
+100366 PC: Fall prevention assist disabled (wall only for ground action)
+100367 PC: Cancel with guard (hold down)
+100368 PC: Cancel with artificial limb ninja (hold down)
+100369 PC: Addition input_jump
+100370 PC: Addition Cancel_Jump
+100371 PC: Addition input_item
+100372 PC: Addition Cancel_Item
+100373 PC: Artificial limb switching 2nd stage transition possible
+100374 PC: Artificial limb switching 3rd stage transition possible
+100375 PC: Sub-weapon forced input cancellation
+100376 PC: Kodachi back combo prohibited
+100377 PC: Additive input_Crouching
+100378 PC: Addition Cancel_Crouching
+100379 PC: Tele-glasses in use
+100380 PC: Additive input_Normal attack
+100381 PC: Addition Cancel_Normal Attack
+100382 PC: Addition input_guard
+100383 PC: Addition Cancel_Guard
+100384 PC: Addition input_Artificial limb attack
+100385 PC: Addition Cancel_Prosthetic Hand Ninja Attack
+100386 PC: Addition input_wire
+100387 PC: Addition Cancel_Wire
+100388 PC: Addition input_Walled / hanging
+100389 PC: Addition cancellation_Walled / hanging
+100390 PC: Addition input_Kick
+100391 PC: Addition Cancel_Kick
+100392 PC: Iron fan damage level for overwriting _ provisional
+100393 PC: Artificial limb guard release connection possible
+100394 PC: Addition input_Prosthetic hand ninja tool switching
+100395 PC: Addition cancellation _ Artificial limb ninja equipment switching
+100396 PC: It&#39;s possible to move the 1st segment in your hand
+100397 PC: It is possible to move the 2nd stage in the hand
+100398 PC: The possibility of migration of the 3rd segment in the hand
+100399 PC: Jumpable without preparatory movement
+100400 PC damage animation change [Small / Medium / Push → Minimal]
+100401 PC damage animation change [All → Minimal]
+100402 PC damage animation change [minimal → small]
+101000 Moving on the water (walking)
+101001 Moving on the water (running)
+101002 Moving on the water (dash)
+101005 Stop moving on the water (walking)
+101006 Stop moving on the water (running)
+101007 Stop moving on the water (dash)
+104000 Critical symbol SFX_for enemy attack_piercing
+104001 Critical symbol SFX_for enemy attack_ground
+104002 Critical symbol SFX_for enemy attack_light fire / anti-aircraft
+104005 Critical symbol SFX_for enemy attack_flame
+104010 Critical symbol SFX_piercing
+104011 Critical symbol SFX_ground
+104012 Critical symbol SFX_light / anti-aircraft
+104013 Critical symbol SFX_light fire / anti-aircraft_always Ver.
+104015 Critical symbol SFX_flame
+104016 Critical symbol SFX_anti-spirit
+104020 Critical symbol SFX_reaction system_firecracker
+104021 Critical symbol SFX_reaction system_ax
+104022 Critical symbol SFX_reaction system_female poison
+104023 Critical symbol SFX_reaction system_spear
+104024 Critical symbol SFX_reaction system_enemy turning
+104025 Critical symbol SFX_reaction system_seed ringing
+104026 Critical symbol SFX_reaction system_finger whistle
+104030 Critical symbol SFX_Reaction system playback permission_Firecracker
+104031 Critical symbol SFX_Reaction system playback permission_Ax
+105010 Just guard judgment
+105020 Just guard performance change _1st
+105021 Just guard performance change_2nd time
+105022 Just guard performance change_3rd
+105023 Just guard performance change_4th and later
+105025 Just Guard Success SFX Change_Aim and Success
+105026 Just guard success SFX change_success with repeated hits
+105040 Successful closeout production + core recovery
+105050 Core recovery at the time of shinobi _ effect
+105051 Restoration of the trunk at the time of shinobi _Effect_Recovery prohibited by stopping through
+105052 Restoration of the trunk at the time of shinobi _Effect_Removal of recovery prohibition by stopping through
+105100 Wire attack hit
+106000 No enchantment
+106020 Flame enchantment
+106021 Flame Enchantment_Call effect on hit
+106030 Spirit enchantment
+106031 Spirit Enchantment_Strengthen Anti-Spirit Guard
+106032 Spirit Enchantment_Anti-Spirit Jasuga Enhancement
+106040 Red blood enchantment
+106050 Poisonous blood enchantment
+106060 Leukemia enchantment
+106065 Leukemia_HP recovery_Encha attack hit
+106066 Leukemia_HP recovery_Blood smoke hit
+106070 Orange wind enchantment
+106080 Gold wind enchantment
+106085 Orange Wind Enchantment Erase_Parent
+106086 Gold Wind Enchantment Erase_Parent
+106087 Orange Wind Enchantment Erase_Child
+106088 Gold Wind Enchantment Erase_Child
+106089 Orange Wind / Gold Wind Enchantment Erase_Grandson
+106100 Storm jump 1st stage_possible
+106101 Storm jump 2nd stage_possible
+106110 In the first stage of Storm Jump
+106111 In the second stage of Storm Jump
+106112 After the storm jump
+107300 Artificial limb ninja _ training ax _ attack hit
+107400 Artificial limb ninja _ transformation _ atemi core damage reduction
+107600 Artificial limb ninja _ iron fan _ charge LV0 monitoring / holding
+107601 Artificial limb ninja _ iron fan _ charge LV1 monitoring / holding
+107602 Artificial limb ninja _ iron fan _ charge LV2 monitoring / holding
+107603 Artificial limb ninja _ iron fan _ charge LV3 monitoring / holding
+107610 Artificial limb ninja _ iron fan _ charge LV1 is active
+107611 Artificial limb ninja _ iron fan _ charge LV2 is active
+107612 Artificial limb ninja _ iron fan _ charge LV3 is active
+107615 Artificial limb ninja _ iron fan _ charge reset
+107621 Artificial limb Ninja _ Iron fan _ Charge _1 Accumulate in 1 time
+107622 Artificial limb ninja _ iron fan _ charge-accumulate in 2 times
+107623 Artificial limb ninja _ iron fan _ charge _ collect in 3 times
+107624 Artificial limb ninja _ iron fan _ charge _ collect in 4 times
+107625 Artificial limb ninja _ iron fan _ charge _ collect in 5 times
+107626 Artificial limb ninja _ iron fan _ charge _ collect in 6 times
+107627 Artificial limb ninja _ iron fan _ charge _ collect in 7 times
+107628 Artificial limb ninja _ iron fan _ charge _ collect in 8 times
+107629 Artificial limb ninja _ iron fan _ charge _ collect in 9 times
+107630 Artificial limb ninja _ iron fan _ charge _ collect in 10 times
+107640 Artificial limb ninja _ iron fan _ charge monitoring / holding possible
+107641 Artificial limb ninja _ iron fan _ charge can be added
+107650 Artificial limb ninja _ iron fan _ light fire reduction _ guard
+107651 Artificial limb ninja _ iron fan _ light fire reduction _ just guard
+107700 Artificial limb ninja _ enemy turning LV1 / 2_ wind collecting (1 remaining)
+107701 Artificial limb ninja _ enemy turning LV1 / 2_ wind release (1 → 0 remaining)
+107702 Artificial limb ninja _ Enemy turning LV2_ Wind collecting (2 remaining)
+107703 Artificial limb ninja _ enemy turning LV2_ wind release (remaining 2 → 1)
+107704 Artificial limb ninja _ Enemy turning LV3_ Wind collecting (2 remaining)
+107705 Artificial limb ninja _ enemy turning LV3_ wind release (remaining 2 → 1)
+107706 Artificial limb ninja _ Enemy turning LV3_ Wind collecting (1 remaining)
+107707 Artificial limb ninja _ enemy turning LV3_ wind release (1 → 0 remaining)
+107709 Artificial limb ninja _ enemy turning LV2 / 3_ windbreak (remaining 2 → 0)
+107710 Artificial limb ninja _ enemy turning _ enemy turning reaction
+107711 Artificial limb ninja _ Enemy turn _ Enemy turn reaction _ Transparency
+107712 Artificial limb ninja _ Enemy turn _ Enemy turn reaction _ Short-term blindness
+107715 Artificial limb ninja _ Enemy turning LV1 / 2_ Wind collecting (1 extension remaining)
+107716 Artificial limb ninja _ Enemy turning LV2_ Wind collecting (2 extensions remaining)
+107717 Artificial limb ninja _ Enemy turning LV3_ Wind collecting (1 extension remaining)
+107718 Artificial limb ninja _ Enemy turning LV3_ Wind collecting (2 extensions remaining)
+107720 Artificial limb ninja _ enemy turning _ wind collection can be held
+107900 Artificial limb ninja _ finger whistle _ provocation effect
+107910 Artificial limb ninja _ finger whistle _ AI sound bullet firing A (reservoir) that only you can hear
+107911 Artificial limb ninja _ finger whistle _ AI sound bullet firing that only you can hear B
+107912 Artificial limb ninja _ finger whistle _ AI sound bullet firing B (hanging) that only you can hear
+107914 Artificial limb ninja _ finger whistle _ AI sound bullet firing B that only you can hear (peeping _ left)
+107915 Artificial limb ninja _ finger whistle _ AI sound bullet firing B that only you can hear (peeping _ right)
+107916 Artificial limb ninja _ finger whistle _ lock-on Special effect that applies special effect to the target (reservoir)
+107917 Artificial limb ninja _ finger whistle _ lock-on Special effect to apply special effect to target (release)
+107918 Artificial limb ninja _ finger whistle _ effect on lock-on target
+107919 Artificial limb Ninja_Finger whistle_Lock-on Effect that removes the effect on the target
+107920 Artificial limb ninja _ finger whistle LV3_ AI sound bullet firing A (reservoir) that only you can hear
+107921 Artificial limb ninja _ finger whistle LV3_ AI sound bullet firing that only you can hear B
+107922 Artificial limb ninja _ finger whistle LV3_ AI sound bullet firing B (hanging) that only you can hear
+107924 Artificial limb ninja _ finger whistle LV3 _ AI sound bullet firing B that only you can hear (peeping _ left)
+107925 Artificial limb ninja _ finger whistle LV3 _ AI sound bullet firing B that only you can hear (peeping _ right)
+108000 Slow foot effect (swamp)
+108001 Dull foot effect (miasma)
+108010 Judgment that you are on a steep slope roof
+108020 Judgment that you are in the deep water
+108030 Detained from villager zombies
+108800 In eavesdropping mode
+108801 Eavesdropping mode exit
+108900 In the conversational attack prohibited area
+109000 Crushed pinch (for PC)
+109001 Crushed pinch (for NPCs)
+109002 Wall jump Shinobi for success judgment
+109003 Fall down to kill and start to judge
+109004 Behind the conditions for nihilo is established
+109005 Critical hit
+109006 Falling ninja killing conditions established
+109007 The conditions for falling down to kill are not established
+109010 HP automatic recovery
+109011 HP automatic recovery cancellation
+109012 Crouching
+109013 In the cover
+109014 Cover peeping (left) area
+109015 Cover peeping (right) area
+109016 Looking into the cover
+109017 Air throwing bullet can be fired (falling shinobi)
+109018 Air-throwing bullet can be fired (wall jump shinobi)
+109023 Ready to play
+109029 Slightly recovers HP by shinobi
+109031 Player Down / Revenge Reception
+109035 Prototype limited _ Only during rush hour of centipede (large) _ Make it easier to just guard
+109039 Temporarily disable movement fall prevention assist
+109200 Crouching stealth
+109201 Crouching shadow covert
+109202 Forced stealth_3 seconds
+109203 Crouching bush covert
+109210 Covert with wall
+109220 Hanging covert
+109221 Hanging covert / hanging start only
+109230 Blood smoke technique covert
+109250 Wire stealth
+109300 Crouching behind shinobi can be activated
+109304 Wall pull-in shinobi (left) can be activated
+109305 Wall pull-in shinobi (right) can be activated
+109306 Withdrawal Shinobi killing can be activated
+109307 The special possibility of enduring the killing of the monk
+109308 Large snake special ninja killing can be activated
+109400 Increased damage taken while being destroyed
+109450 Stopping core recovery after being hit_parent
+109451 Stopping core recovery after being hit _ child
+109900 Dashing_Refer to Enemy AI
+109910 Reduced stamina recovery after attack
+109920 Special SFX control bullet / mud dirt decal permission when moving
+109940 Litter hiding
+109941 Judgment that jumped out of the litter and killed
+109950 Prototype Limited: Successful closeout production
+109960 Enemy AI reference_wire attack
+109961 Enemy AI reference_jump attack
+109962 Enemy AI reference_hanging attack
+109963 Enemy AI reference_aging attack
+109970 Enemy AI reference_Push
+109971 Enemy AI reference _ 袈裟 slash
+109972 Enemy AI reference_Reverse slash
+109973 Enemy AI reference_vertical slash
+109974 Enemy AI reference_horizontal slash
+109980 Enemy AI reference_Guard / Jasuga non-attack
+109990 Enemy AI reference_continuous attack
+110010 Resurrection Technique_Pretending to be Dead Effect
+110015 Resurrection Technique_HP Half Recovery
+110016 Resurrection Technique_A strong enemy notices when you get up
+110020 Cling judgment
+110030 Enemy AI Reference_Ninja Killing
+110031 Enemy AI reference_after resurrection 1
+110032 Enemy AI Reference_After Resurrection 2
+110033 Enemy AI Reference_After Resurrection 3
+110040 Water judgment
+110041 Water judgment
+110050 SA when stepping on
+110060 Death verdict
+110070 Resurrection Technique_When using SFX &quot;Regeneration&quot; + Directed VFX
+110080 Blood Smoke Ninja Kill_SFX &quot;Smoke&quot; when used
+110081 Puppet Ninja _ SFX &quot;Puppet&quot; when used
+110082 Granted Shinobi _ When using SFX &quot;Matoi&quot;
+110090 Resurrection Technique_Key FE
+110091 Resurrection Technique_Heart Sound SE_Parent
+110092 Resurrection Technique_Heart Sound SE_Child
+110093 Resurrection Technique_Heart Sound SE_Parent Erase
+110094 Resurrection Technique_Heart Sound SE_Child Restriction
+110111 PC jump start_positioning_before
+110112 After PC jump start_positioning_
+110113 PC jump start_positioning_left
+110114 PC jump start_positioning_right
+110115 PC jump start_positioning_left front
+110116 PC jump start_positioning_right front
+110117 PC jump start_positioning_left rear
+110118 PC jump start_positioning_right back
+110120 PC jump start_vertical
+110121 PC jump start_before
+110125 Judgment during PC collapse
+110126 Regaining _ Trunk damage cut
+110127 Full recovery of the trunk at the time of shinobi
+110130 Yame_ activation
+110131 Night eye _ erase
+110135 Eavesdropping_for discrimination
+110136 Checkpoint_for discrimination
+110140 Enchantment erasure by sword
+110145 PC down _ Remove enchantment when immersed in water
+110146 Soak in water and remove enchantment
+110147 Material to remove enchantment when PC is down
+110200 Enemy AI reference_Shuriken chasing slash
+110210 Enemy AI reference _火竹溜め散
+110211 Enemy AI Reference_Firecracker Spread
+110212 Enemy AI reference_Firecracker chasing slash
+110220 Enemy AI reference_Pump fire
+110221 Enemy AI reference_fire
+110222 Enemy AI reference_flamethrower
+110223 Enemy AI reference_Ignition and slashing
+110230 Enemy AI reference_Ax sweep
+110231 Enemy AI reference_Ax slamming
+110232 Enemy AI reference_Ax series slash
+110240 Enemy AI reference_Transformation Sky Ren Slash
+110241 Enemy AI reference _ Transforming ground slashing
+110250 Enemy AI reference_Kodachi Table 1
+110251 Enemy AI reference_Kodachi Table 2
+110252 Enemy AI reference_Kodachi Table 3
+110253 Enemy AI reference_Kodachi Table 4
+110254 Enemy AI reference_Kodachi Table 5
+110255 Enemy AI reference_Kodachi Table 6
+110256 Enemy AI reference_Kodachi back 1
+110257 Enemy AI reference_Kodachi back 2
+110258 Enemy AI reference_Kodachi back 3
+110259 Enemy AI reference_Kodachi back 4
+110260 Enemy AI reference_Kodachi back 5
+110261 Enemy AI reference_Kodachi back 6
+110262 Enemy AI reference_Aerial Kodachi
+110263 Enemy AI reference_Kodachi derivative attack
+110270 Enemy AI reference_Iron fan guard
+110271 Enemy AI reference_Iron fan slashing
+110280 Enemy AI reference_Enemy turning
+110281 Enemy AI reference_Enemy turning Shimatoi slashing
+110290 Enemy AI reference_Spear assault
+110291 Enemy AI reference_Spear thrust
+110292 Enemy AI reference_Spear attraction
+110293 Enemy AI reference_Spear Nagisa
+110294 Enemy AI reference_Spear chasing slash
+110295 Enemy AI reference_Spear chain slash
+110300 Enemy AI reference_Finger whistle slash
+110400 Enemy AI reference_Rotating slash
+110410 Enemy AI reference_Dive slash
+110411 Enemy AI reference_jumping slash
+110420 Enemy AI reference_face
+110421 Enemy AI reference_follow-up
+110430 See enemy AI_Sword Holy Iai
+110440 Enemy AI reference_Iai
+110450 Enemy AI reference_Invisible Iai continuous attack 1
+110451 Enemy AI reference_Invisible Iai continuous attack 2
+110460 Enemy AI Reference_Hachiman Flying Rush 1
+110461 Enemy AI Reference_Hachiman Flying Rush 2
+110462 Enemy AI Reference_Hachiman Flying Rush 3
+110463 Enemy AI Reference_Hachiman Flying Rush 4
+110464 Enemy AI Reference_Hachiman Flying Rush F
+110470 Enemy AI Reference_Immortal Slash 1
+110471 Enemy AI Reference_Immortal Slash 2
+110480 Enemy AI Reference_Kick Rush 1
+110481 Enemy AI Reference_Kick Rush 2
+110482 Enemy AI Reference_Kick Rush 3
+110483 Enemy AI Reference_Kick Rush 4
+110490 Enemy AI reference_Fist attack 1
+110491 Enemy AI reference_Fist attack 2
+110492 Enemy AI reference_Fist attack 3 &amp; Reservoir Tetsuyama Yasushi
+110500 Enemy AI reference_Pump sneak stab
+110501 Enemy AI reference_Sneak stab
+110502 Enemy AI reference_Sneak stab derivative rotation slash
+110600 Enemy AI reference _ Dedicated coping order after receiving Hachiman Flying Rush F
+110610 Enemy AI reference_Special coping command after receiving kick rush F
+111000 Environment-dependent_white breath
+111001 Environment-dependent_white breath / prohibited
+112000 Ninjutsu Ninjutsu_Blood Smoke
+112001 Ninjutsu Ninjutsu_Puppet Technique
+112002 Ninjutsu Ninjutsu_Encha Technique
+113000 Hand Sweep_Recovery speed of body stem decreased
+113020 Recovery slot increase + 1_A
+113021 Recovery slot increase + 1_B
+113022 Recovery slot increase + 1_C
+113030 For parachute judgment
+118000 Blood smoke shinobi type designation_normal_ red blood
+118060 Blood smoke shinobi type designation_radiation_red blood
+118070 Blood smoke shinobi type designation_radiation_poisonous blood
+118080 Blood smoke shinobi type designation_radiation_white blood
+118100 Blood Smoke Shinobi Type Change_Normal_Red Blood
+118160 Blood Smoke Shinobi Type Change_Radiation_Red Blood
+118170 Blood Smoke Shinobi Type Change_Radiation_Poisonous Blood
+118180 Blood smoke shinobi type change_radiation_white blood
+118200 Puppet ninja killing type designation_normal
+118210 Puppet ninja killing type specification_normal_infinite duration
+118300 Puppet Ninja Type Change_Normal
+118310 Puppet Ninja Type Change_Normal_Infinite Duration
+118400 Granted Ninja Type Designation_Normal_Red Blood
+118410 Granted Ninja Type Designation_Normal_Poisonous Blood
+118420 Granted shinobi type designation_normal_white blood
+118500 Granted Ninja Type Change_Normal_Red Blood
+118510 Granted Ninja Type Change_Normal_Poisonous Blood
+118520 Granted shinobi type change_normal_white blood
+127000 Shuriken LV1
+127010 Shuriken LV2 (can be stored)
+127020 Shuriken LV3-A (can be stored + penetrated)
+127021 Shuriken LV3-B (can be stored + butterfly phantom bullet)
+127022 Shuriken LV3-C (can be stored + throwing money)
+127030 Shuriken LV4 (can be stored + penetration + power up)
+127060 Money throwing _ possession LV0
+127061 Money throwing _ possession LV1
+127062 Money throwing _ possession LV2
+127063 Money throwing _ possession LV3
+127070 Money throwing _ consumption LV0 accumulation
+127071 Money throwing _ consumption LV0
+127072 Money throwing _ consumption LV1 accumulation
+127073 Money throwing _ consumption LV1
+127074 Money throwing _ consumption LV2 accumulation
+127075 Money throwing _ consumption LV2
+127076 Money throwing _ consumption LV3 accumulation
+127077 Money throwing _ consumption LV3
+127100 Firecracker LV1
+127110 Firecracker LV2 (It’s possible to slip away)
+127120 Firecrackers LV3-A (you may slip + explosion time prolonged)
+127121 Firecrackers LV3-B (slipping possible + hazardous substances)
+127200 Ignition LV1
+127210 Ignition LV2 (can be stored)
+127220 Ignition LV3 (can be stored + flame can be emitted)
+127230 Ignition LV4 (can be stored + flame can be emitted + anti-spirit)
+127300 Axe LV1
+127310 Ax LV2 (can be stored)
+127320 Axe LV3 (slide め possibility + burst)
+127330 Ax LV4 (can be stored + explodes + illusion eraser)
+127400 Transformation LV1
+127410 Transformation LV2 (can be activated after damage)
+127420 Transformation LV3 (Can be activated after damage + Shock wave when activated)
+127500 Kodachi LV1
+127510 Kodachi LV2 (derivative attack possible)
+127520 Kodachi LV3-A (derivative attack possible + guard penetration)
+127521 Kodachi LV3-B (derivative attack possible + poison fog spray)
+127600 Iron fan LV1
+127610 Iron fan LV2 (can be turned)
+127620 Iron fan LV3-A (can be turned + anti-flame)
+127621 Iron fan LV3-B (can be turned + anti-spirit)
+127700 Enemy turning LV1
+127710 Enemy turning LV2 (can be activated continuously)
+127720 Enemy turning LV3 (continuous activation possible + stealing)
+127800 Gun LV1
+127810 Spear LV2-A (Available for charge)
+127811 Spear LV2-B
+127820 Spear LV3-A (chargeable assault + corkscrew)
+127821 Spear LV3-B (Can be wiped off + flame)
+127900 Finger flute LV1
+127910 Finger flute LV2 (you can slip away)
+127920 Whistling LV3 (can be stored + minor)
+130000 Wetting control: Wetting
+130010 Wetting control: Poisonous wetting
+130020 Wetting control: Mud wet
+130030 Wetting control: Frostbite wet
+140000 Deadly Sword_Rotating Sword
+140100 Deadly Sword_Dive Sword
+140101 Special Sword_Dive Sword + 1_Slash Retreat Added
+140200 Deadly Sword_Face
+140201 Special Sword_Face + 1_2nd stage added
+140210 Deadly Sword_Face _Core Recovery_Effect
+140300 Deadly Sword_Sword Holy Iai
+140310 Special sword _ sword sacred iaido _ with form
+140400 Deadly Sword_Iai
+140410 Deadly Sword_Flame Iaido_There is a form fee
+140500 Deadly Sword_Eight Jump Rush
+140501 Special Sword_Eight Jump Rush + 1_ Increase in Number of Stages
+140510 Special Sword _ Eight Jump Rush + 1 _ There is a form fee
+140600 Deadly Sword_Immortal Sword
+140601 Special Sword_Immortal Sword + 1_ Addition of Reservoir
+140610 Deadly Sword_Immortal Sword + 1_ There is a form fee
+140700 Deadly Sword_Kick Rush
+140701 Special Sword_Kick Rush + 1_Increase in number of steps
+140800 Deadly Sword_Body Art Consecutive Attack
+140801 Special Sword_Body Art Consecutive Attack + 1_ Yasushi Tetsuyama Added
+140900 Deadly Sword_Sneak Stab
+140901 Special Sword_Sneak Stab + 1_Descent Rotation Slash Added
+140910 Special sword _ sneak stab _ with shape fee
+150000 Covert A (make the sign smaller)
+150010 Covert B (makes the sound quieter)
+150100 Good luck LV1 effect
+150101 Good luck LV2 effect
+150200 Knowledge of medicine LV1 effect
+150201 Knowledge of medicine LV2 effect
+150202 Knowledge of medicine LV3 effect
+150203 Knowledge of medicine LV4 effect
+150204 Knowledge of medicine LV5 effect
+150210 For improving the knowledge effect of medicine
+150300 HP recovery at the time of shinobi (A) _ permission
+150301 HP recovery at the time of shinobi (A) _ effect
+150302 HP recovery at the time of shinobi (A) _ effect _ recovery prohibited by stopping through
+150303 HP recovery at the time of shinobi (A) _Effect_Releasing the recovery prohibition by stopping through
+150310 HP recovery at the time of shinobi (B) _ permission
+150311 HP recovery at the time of shinobi (B) _ effect
+150312 HP recovery at the time of shinobi (B) _ effect _ recovery prohibited by stopping through
+150313 HP recovery at the time of shinobi (B) _ effect _ cancellation of recovery prohibition by stop through
+150320 Body dry recovery during endurance (A)_Permission
+150321 Core recovery at the time of shinobi (A) _Effect
+150322 Core recovery at the time of shinobi (A) _Effect_Recovery prohibited by stopping through
+150323 Restoration of trunk at the time of shinobi (A) _Effect_Removal of recovery prohibition by stopping through
+150330 Body dry recovery during endurance killing (B)_Permission
+150331 Core recovery at the time of shinobi (B) _ effect
+150332 Core recovery at the time of shinobi (B) _Effect_Recovery prohibited by stopping through
+150333 Restoration of the trunk at the time of shinobi (B) _Effect_Removal of recovery prohibition by stopping through
+150400 Parting off trunk shaving UP
+150410 Jasuga&#39;s trunk shaving UP
+150420 The guard&#39;s trunk is shaved and cut
+150421 Jasuga&#39;s trunk is shaved and cut
+150500 Jasuga rear sword attack trunk shaving UP_permission
+150501 Jasuga rear sword attack trunk shaving UP_ effect
+150600 Buff duration UP
+160000 Player Growth_Core Level 0
+160001 Player Growth_Core Level 1
+160002 Player Growth_Core Level 2
+160003 Player Growth_Core Level 3
+160004 Player Growth_Core Level 4
+160005 Player Growth_Core Level 5
+160006 Player Growth_Core Level 6
+160007 Player Growth_Core Level 7
+160008 Player Growth_Core Level 8
+160009 Player Growth_Core Level 9
+160010 Player Growth_Core Level 10
+160011 Player Growth_Core Level 11
+160012 Player Growth_Core Level 12
+160013 Player Growth_Core Level 13
+160014 Player Growth_Core Level 14
+160015 Player Growth_Core Level 15
+160016 Player Growth_Core Level 16
+160017 Player Growth_Core Level 17
+160018 Player Growth_Core Level 18
+160019 Player Growth_Core Level 19
+160020 Player Growth_Core Level 20
+160021 Player Growth_Core Level 21
+160022 Player Growth_Core Level 22
+160023 Player Growth_Core Level 23
+160024 Player Growth_Core Level 24
+160025 Player Growth_Core Level 25
+160026 Player Growth_Core Level 26
+160027 Player Growth_Core Level 27
+160028 Player Growth_Core Level 28
+160029 Player Growth_Core Level 29
+160030 Player Growth_Core Level 30
+160031 Player Growth_Core Level 31
+160032 Player Growth_Core Level 32
+160033 Player Growth_Core Level 33
+160034 Player Growth_Core Level 34
+160035 Player Growth_Core Level 35
+160036 Player Growth_Core Level 36
+160037 Player Growth_Core Level 37
+160038 Player Growth_Core Level 38
+160039 Player Growth_Core Level 39
+160040 Player Growth_Core Level 40
+160041 Player Growth_Core Level 41
+160042 Player Growth_Core Level 42
+160043 Player Growth_Core Level 43
+160044 Player Growth_Core Level 44
+160045 Player Growth_Core Level 45
+160046 Player Growth_Core Level 46
+160047 Player Growth_Core Level 47
+160048 Player Growth_Core Level 48
+160049 Player Growth_Core Level 49
+160050 Player Growth_Core Level 50
+160051 Player Growth_Core Level 51
+160052 Player Growth_Core Level 52
+160053 Player Growth_Core Level 53
+160054 Player Growth_Core Level 54
+160055 Player Growth_Core Level 55
+160056 Player Growth_Core Level 56
+160057 Player Growth_Core Level 57
+160058 Player Growth_Core Level 58
+160059 Player Growth_Core Level 59
+160060 Player Growth_Core Level 60
+160061 Player Growth_Core Level 61
+160062 Player Growth_Core Level 62
+160063 Player Growth_Core Level 63
+160064 Player Growth_Core Level 64
+160065 Player Growth_Core Level 65
+160066 Player Growth_Core Level 66
+160067 Player Growth_Core Level 67
+160068 Player Growth_Core Level 68
+160069 Player Growth_Core Level 69
+160070 Player Growth_Core Level 70
+160071 Player Growth_Core Level 71
+160072 Player Growth_Core Level 72
+160073 Player Growth_Core Level 73
+160074 Player Growth_Core Level 74
+160075 Player Growth_Core Level 75
+160076 Player Growth_Core Level 76
+160077 Player Growth_Core Level 77
+160078 Player Growth_Core Level 78
+160079 Player Growth_Core Level 79
+160080 Player Growth_Core Level 80
+160081 Player Growth_Core Level 81
+160082 Player Growth_Core Level 82
+160083 Player Growth_Core Level 83
+160084 Player Growth_Core Level 84
+160085 Player Growth_Core Level 85
+160086 Player Growth_Core Level 86
+160087 Player Growth_Core Level 87
+160088 Player Growth_Core Level 88
+160089 Player Growth_Core Level 89
+160090 Player Growth_Core Level 90
+160091 Player Growth_Core Level 91
+160092 Player Growth_Core Level 92
+160093 Player Growth_Core Level 93
+160094 Player Growth_Core Level 94
+160095 Player Growth_Core Level 95
+160096 Player Growth_Core Level 96
+160097 Player Growth_Core Level 97
+160098 Player Growth_Core Level 98
+160099 Player Growth_Core Level 99
+200000 AI state_normal
+200001 AI state_non-combat vigilance
+200002 AI status_combat alert
+200004 AI State_Discovery / Combat
+200005 [GC version provisional] AI sound that occurs regularly during battle
+200010 Anime ID offset 00 [0] _000000
+200011 Anime ID offset 00 [1] _000000
+200012 Anime ID offset 00 [2] _000000
+200013 Anime ID offset 00 [3] _000000
+200030 Anime ID offset [0] 00_000000
+200031 Anime ID offset [1] 00_000000
+200032 Anime ID offset [2] 00_000000
+200033 Anime ID offset [3] 00_000000
+200034 Anime ID offset [4] 00_000000
+200050 Behavior pattern change 0
+200051 Behavior pattern change 1
+200052 Behavior pattern change 2
+200053 Behavior pattern change 3
+200054 Behavior pattern change 4
+200060 Behavior pattern change / weapon on
+200061 Behavior pattern change / weapon off
+200070 Enemy state: Before heat up
+200071 Enemy state: After heat up
+200080 Body fluid type at the time of shinobi _ normal
+200081 Body fluid type at the time of shinobi _ illusion
+200082 Body fluid type at the time of shinobi _ poison
+200083 Body fluid type at the time of shinobi _ spirit
+200100 Crouching_Capsule size change
+200110 Hearing search enemy cut
+200120 Sight width change _15 degrees
+200130 Blindness due to smoke balls
+200140 Hearing 0 times
+200141 Restore from 0x hearing
+200150 Hearing 0 times _ after the battle
+200160 Visual enlargement
+200200 AI interrupt judgment_played to the right_strong
+200201 AI interrupt judgment_played to the left_strong
+200205 AI interrupt judgment_played to the right_weak
+200206 AI interrupt judgment_played to the left_weak
+200210 AI interrupt judgment_played to the right_strong
+200211 AI interrupt judgment_played to the left_strong
+200215 AI interrupt judgment_played to the right_weak
+200216 AI interrupt judgment_played to the left_weak
+200220 Enemy Just Guard_Playing Defense Strengthening
+200225 AI interrupt judgment_played to the right_weak_special
+200226 AI interrupt judgment_played to the left_weak_special
+200227 AI interrupt judgment_played to the right_strong_special
+200228 AI interrupt judgment_played to the left_strong_special
+200229 AI interrupt judgment_played Kodachi
+200230 Special playing animation playback
+200231 Special playing animation 2 playback
+200250 AI interrupt judgment_weak play count
+200300 AI interrupt judgment_played to the right_special_strong
+200301 AI interrupt judgment_played to the left_special_strong
+200305 AI interrupt judgment_played to the right_special_weak
+200306 AI interrupt judgment_played to the left_special_weak
+200400 AI interrupt judgment_played to the right_special 2_strong
+200401 AI interrupt judgment_played to the left_special 2_strong
+200405 AI interrupt judgment_played to the right_special 2_weak
+200406 AI interrupt judgment_played to the left_special 2_weak
+200500 Map visibility type [always good]
+200510 Map visibility type [0 that works in the dark]
+200511 Map visibility type [Eyes work in the dark 1]
+200520 Map visibility type [I can&#39;t see the darkness]
+200530 Map visibility type [0 where bright areas cannot be seen]
+200531 Map visibility type [I can&#39;t see bright places 1]
+200532 Map visibility type [I can&#39;t see bright places 2]
+200600 Cannot be locked_permanent
+200601 Cannot be locked_moment
+200602 Cannot be locked_Specify the number of seconds_Chief of the Ninja Army
+200603 Cannot be locked_Specify the number of seconds_Rappa
+200700 Hide all UI_persistent
+200701 Full UI non-display_moment
+200702 Hide all UI_Specify the number of seconds_Rappa
+201000 Event control_Boss BGM stop
+205025 General-purpose effect for logic judgment 6 cycles activated
+205026 General-purpose effect for logic judgment 7 cycles activated
+205027 General-purpose effect for logic judgment 8 cycles activated
+205028 General-purpose effect for logic judgment 9 cycles activated
+205029 General-purpose effect for logic judgment 10 cycles activated
+205030 General-purpose effect for logic judgment 11 Cycle activation
+205031 General-purpose effect for logic judgment 12 cycles activated
+205032 General-purpose effect for logic judgment 13 cycles activated
+205033 General-purpose effect for logic judgment 14 cycle activation
+205034 General-purpose effect for logic judgment 15 cycles activated
+205035 General-purpose effect for logic judgment 16 cycles activated
+205036 General-purpose effect for logic judgment 17 cycle activation
+205037 General-purpose effect for logic judgment 18 cycles activated
+205038 General-purpose effect for logic judgment 19 cycles activated
+205039 General-purpose effect for logic judgment 20 cycles activated
+205050 Do nothing with _common_logic for logic judgment_persistent
+205051 Do nothing with _common_logic for logic judgment_moment
+205060 For logic judgment_Do not react to sound_Permanent
+205061 For logic judgment_No reaction to sound_Moment
+205070 For logic judgment_Do not return _ Permanent
+205071 For logic judgment _ Do not return home _ Moment
+205080 For logic judgment_No state transition_Permanent
+205081 For logic judgment_state transition does not occur_moment
+205090 For logic judgment _ Don&#39;t forget in asphyxia _ Permanent
+205091 For logic judgment _ Don&#39;t forget in asphyxia _ Moment
+205100 For logic judgment_Normal general-purpose posture_Permanent
+205101 For logic judgment _ Normal general-purpose posture _ Moment
+209000 For conversation start animation judgment
+210000 First wounded
+210002 Waist injury
+211000 Dangerous attack of the enemy_VFX
+211001 Dangerous enemy attack_VFX_ for huge enemies
+220000 Enemy reaction playback_long
+220001 Enemy reaction playback_short
+220010 Enemy reaction playback _ blinding (blood smoke)
+220011 Enemy reaction playback _ blinding (firecracker)
+220012 Enemy Reaction Play_Dazzle (Blood Smoke) _ Moment Blind for Target Erasing
+220013 Enemy reaction playback_Dazzle_Blind for target erasure_Longer life
+220014 Blood Smoke Ninja Kill_Blind
+220016 Enemy reaction regeneration_Semicircular canal destruction (firecracker)
+220018 Enemy reaction playback _ blinding (ash bag)
+220020 Puppet Shinobi _ For judgment during effect
+220021 Puppet Shinobi _ 360 degree vision
+220022 Puppet ninja _ died over time
+220030 Puppet Ninja Kill_Undead_45 Seconds
+220031 Puppet Ninja Kill_Not Dead_90 Seconds
+220032 Puppet Ninja _ immortality_ infinite
+220040 Puppet ninja _ team type change _ fascination
+220041 Puppet ninja _ team type change _ indiscriminate
+220050 Enemy Reaction Play_Crisis
+220060 Shield destruction reaction playable
+220061 Armor destruction reaction playable
+220062 Armor guard possible
+220063 Shield guard possible
+220070 Damage judgment not found
+220080 Ash bag invalid (momentary)
+220081 Ash bag invalid (permanent)
+220100 Shinobi killing reception icon display (VFX only)
+220110 Find judgment (VFX only)
+220200 Suspected squad AI voice
+220300 Weird Wakamizu_Red Eye VFX
+220310 Weird Wakamizu_Red Eye VFX (Koi)
+220400 Discover UI Hide
+220410 Discover UI Hide (Permanent)
+220420 Trunk FE display change_Collapse
+220500 Various reactions prohibited (moment)
+220501 Various reactions prohibited (permanent)
+220600 General purpose_Visual 0 Hearing 0 (Permanent)
+220601 General purpose_Visual 0 Hearing 0 (momentary)
+220610 General-purpose _ phantom enemy _ state change type setting
+220611 General_Phantom Enemy_Dead body becomes transparent upon death
+220620 General-purpose _ revenge spirit _ state change type setting
+220621 General_Vengeance_Dead body transparency when dying
+220631 General_Water Enemy_Dead body becomes transparent when it dies
+220690 For events_completely hidden
+220695 For events_white eyes
+220700 BGM kick prohibited
+220800 [Experiment] Hit the fall prevention assist in the cliff area
+220900 Event Judgment_Enemy battle ongoing
+221000 Parry interrupt rank A
+221001 Parry interrupt rank B
+221002 Parry interrupt rank C
+222000 Use event animation as death start animation (ID20000)
+222001 Use event animation as death start animation (ID20001)
+222002 Use event animation as death start animation (ID20002)
+222003 Use event animation as death start animation (ID20003)
+222004 Use event animation as death start animation (ID20004)
+222005 Use event animation as death start animation (ID20005)
+222006 Use event animation as death start animation (ID20006)
+222007 Use event animation as death start animation (ID20007)
+222008 Use event animation as death start animation (ID20008)
+222009 Use event animation as death start animation (ID20009)
+222010 Use event animation as death start animation (ID20010)
+222011 Use event animation as death start animation (ID20011)
+222012 Use event animation as death start animation (ID20012)
+222013 Use event animation as death start animation (ID20013)
+222014 Use event animation as death start animation (ID20014)
+222015 Use event animation as death start animation (ID20015)
+222016 Use event animation as death start animation (ID20016)
+222017 Use event animation as death start animation (ID20017)
+222018 Use event animation as death start animation (ID20018)
+222019 Use event animation as death start animation (ID20019)
+222020 Use event animation as death start animation (ID20020)
+230100 Firecracker_special attack character definition
+230110 Firecracker _ vs. non-special attack character attack
+230111 Firecracker _ vs. special attack character attack
+230300 Prepared ax_HP when guarding after destroying shield, trunk damage multiplier correction
+230301 Ax _ HP after destroying shield, trunk damage multiplier correction
+230310 After destroying the ax_shield one step
+230400 Prepared spear _ HP damage multiplier correction when guarding after destroying armor
+230401 Prepared spear _ HP damage multiplier correction at Jasuga after destroying armor
+230410 Spear _ After destroying one stage of armor
+230500 Finger whistle_enemy madness_effect can be activated
+230510 Finger whistle _ Enemy madness _ Activated _ Parent
+230511 Finger whistle _ Enemy madness _ Activated _ Parent _ Minor Ver.
+230515 Finger whistle_enemy madness_invoking
+230516 Finger whistle _ Enemy madness _ Activated _ Minor Ver.
+230518 Finger whistle_enemy AI activation
+230519 Finger whistle_enemy AI activation_minor Ver.
+230520 Finger whistle LV3_minor_effect can be activated
+230530 Finger whistle LV3_minor_invocation
+230540 Whistling LV3_minor_invalid
+230541 Finger whistle LV3_minor_cancellation timing
+230600 Enemy turning _ Spirited away corpse transparency
+230610 Enemy turn _ Enemy turn VFX_Orange_Small
+230611 Enemy turn _ Enemy turn VFX_Orange_Medium
+230612 Enemy turn _ Enemy turn VFX_Orange_Large
+230615 Enemy Turn_Enemy Turn VFX_Gold_Small
+230616 Enemy Turn_Enemy Turn VFX_Gold_Medium
+230617 Enemy turn _ Enemy turn VFX_ Fri _ Large
+230620 Enemy turn _ Enemy turn VFX_Orange_Playable
+230625 Enemy Turn_Enemy Turn VFX_Gold_Playable
+230630 Enemy turn_invalid (resident)
+230631 Enemy turning_invalid (specific timing)
+230640 Anti-spirit _ grudge barrier _ neckless
+230641 Anti-spirit _ grudge barrier _ seven-sided warrior
+230642 Anti-spirit _ grudge barrier _ female player
+230645 Anti-spirit _ grudge barrier eraser
+230646 Anti-spirit _ ghost barrier erase _ shinobi start
+240000 [Common AI branch] Detect the technique of PC revival
+240100 [Common AI branch] Don&#39;t lose sight of your PC by turning enemies
+240200 [Common AI branch] Reacts to the PC during the sword animation
+241000 [Common AI branch] Small fish_sound reaction / There is an animation to search
+241010 [Common AI branch] Small fish_sound reaction / No animation to search
+241100 [Common AI branch] Middle boss_sound reaction / There is an animation to search
+241110 [Common AI branch] Middle boss_sound reaction / No animation to search
+241200 [Common AI branch] Boss
+241900 [Common AI branch] No basic animation
+261400 [Character identification] c1400_ Swordsman
+261470 [Character identification] c1470_Kageshu
+271470 [NTC] HP / Total amount of trunk change_Lonely people_Middle boss
+275000 [NTC] HP and body dry volume change_broken monk_second フェーズ (use of magic spells)
+275001 [NTC] HP and body dry weight change_breaking monk_third フェーズ (worm)
+275060 [NTC] HP / Total amount of trunk change_True_Ninja army chief_After HU
+275061 [NTC] HP / Total amount of trunk change_Old_Ninja army chief_After HU
+275080 [NTC] HP / Total amount of trunk change_Cavalry warrior
+275100 [NTC] HP / Total amount of trunk change_Yasha monkey_First match
+275101 [NTC] HP / Total amount of trunk change_Yasha Ape_Second race
+275400 [NTC] HP / Total amount of trunk change_Revived Kensei
+275401 [NTC] HP / Total amount of trunk change_Revived Kensei
+275430 [NTC] HP / Total amount of trunk change_Revived Kensei_Swordsman in bed
+277020 [NTC] HP / Total amount of trunk change_Busshi demon_HU1
+277021 [NTC] SA maximum value change_Busshi demon_HU1
+277022 [NTC] HP / Total amount of trunk change_Busshi demon_HU2
+277023 [NTC] SA maximum value change_Busshi demon_HU2
+277100 [NTC] HP / total trunk volume change_rivals
+281400 [NTC] Swordsman_Red Eye Reaction Cool Time_Reacting
+281401 [NTC] Swordsman_Red Eye Reaction Cool Time_After Reaction
+281450 [NTC] Nightjars _ Red-eye Homura Reaction Cool Time _ Reactioning
+281451 [NTC] Nightjars_Red Eye Reaction Cool Time_After Reaction
+285020 [NTC] Akaoni_Red Eye Flame Reaction Cool Time_Reacting
+285021 [NTC] Red Demon _ Red Eye Homura Reaction Cool Time _ After Reaction
+287410 [NTC] Fascinated Samurai_Red-Eye Flame Reaction Cool Time_Reacting
+287411 [NTC] Fascinated Samurai_Red Eye Reaction Cool Time_After Reaction
+287470 [NTC] kidnapped younger man_red-eye flame reaction cool time_reacting
+287471 [NTC] kidnapped younger man_red eye flame reaction cool time_after reaction
+291400 [NTC] Swordsman_Red Eye Doping
+291450 [NTC] Nightjars_Red Eye Doping
+297410 [NTC] Fascinated Samurai_Red Eye Doping
+297470 [NTC] kidnapped younger man_red-eye doping
+300010 Core damage _10 due to being hit hard
+300020 Core damage _20 due to being hit hard
+300030 Trunk damage _30 due to being hit hard
+300040 Trunk damage _40 due to being hit hard
+300050 Trunk damage _50 due to being hit hard
+300060 Heavy hits cause core damage_60
+300070 Heavy hits cause core damage_70
+300080 Trunk damage _80 due to being hit hard
+300090 Heavy hits cause core damage_90
+300100 Heavy hits cause core damage_100
+300110 Heavy hits cause core damage_110
+300120 Heavy hits cause core damage_120
+300200 Core recovery_30%
+300210 Core recovery_10 / sec
+300220 Core recovery_20 / sec
+300230 Core recovery_30 / sec
+300240 Core recovery_40 / sec
+300250 Core recovery_50 / sec
+300260 Core recovery_60 / sec
+300270 Core recovery_70 / sec
+300280 Core recovery_80 / sec
+300290 Core recovery_90 / sec
+300300 Core recovery_100 / sec
+300301 Core recovery_100 / sec
+300302 Core recovery_100 / sec
+300305 Body dry reduction_-100/sec
+300306 Body dry reduction_-100/sec
+300307 Body dry reduction_-100/sec
+300310 Trunk 0 (permanent)
+300311 Trunk 0 (moment)
+300320 Trunk damage multiplier 0 (permanent)
+300321 Trunk damage multiplier 0 (instantaneous)
+300330 HP damage multiplier 0 (permanent)
+300331 HP damage multiplier 0 (instantaneous)
+300340 SA damage multiplier 0 (permanent)
+300341 SA damage multiplier 0 (instantaneous)
+300350 Flame resistance multiplier 0 (permanent)
+300351 Flame resistance magnification 0 (instantaneous)
+300360 Abnormal state invalid (permanent)
+300361 Abnormal condition invalid (momentary)
+300400 Enemy Just Guard Success Production
+300410 Make the enemy guard and produce success
+300500 Kick jump around the back_for hitting the enemy
+300501 Kick jump around the back_for PC
+300590 Core performance DOWN at HP 64% or less
+300591 Core performance DOWN at HP 48% or less
+300592 Core performance DOWN when HP is 32% or less
+300600 Core performance DOWN when HP is 80% or less
+300601 Core performance DOWN when HP is 60% or less
+300602 Core performance DOWN when HP is 40% or less
+300605 Core performance DOWN at HP 80% or less (for core elite)
+300606 Core performance DOWN at HP 60% or less (for core elite)
+300607 Core performance DOWN at HP 40% or less (for core elite)
+300610 HP reset
+310000 [NTC] Combat Tutorial_Ochimusha Sideways Movement
+310001 [NTC] Combat Tutorial_Ochimusha Attack and Lateral Movement
+310002 [NTC] Combat Tutorial_Ochimusha Destroying Ninja Judgment
+310003 [NTC] Combat Tutorial_Ochimusha Playing Ninja Judgment
+310004 [NTC] Combat Tutorial_Ochimusha Destroying Falling Ninja Judgment
+310005 [NTC] Combat Tutorial _ For Ochimusha Closeout Shinobi Judgment Judgment
+310006 [NTC] Battle Tutorial_Ochimusha Ninjutsu Ninjutsu Judgment
+310007 [NTC] Combat Tutorial_Ochimusha For Judgment of Behind Shinobi
+310009 [NTC] Combat Tutorial_Ochimusha For all Shinobi killing judgments
+310010 [NTC] Combat Tutorial_Ochimusha Swashbuckler and Trunk_Guard Sideways movement, attack after playing
+310011 [NTC] Combat Tutorial_Ochimusha Swashbuckler and Trunk_Continuous Slash
+310020 [NTC] Combat Tutorial_Avoiding Ochimusha
+310021 [NTC] Combat Tutorial_Avoiding Ochimusha
+310030 [NTC] Combat Tutorial_Ochimusha Dangerous Attack_Push and Sideways Movement
+310031 [NTC] Combat Tutorial_Ochimusha Dangerous Attack_Lower
+310040 [NTC] Combat Tutorial_Ochimusha Practice using what you have learned
+310041 [NTC] Combat Tutorial_Ochimusha Practice using what you have learned_Tackle only
+310042 [NTC] Combat Tutorial_Ochimusha Practice using what you have learned_Dangerous Attack
+310050 [NTC] Combat Tutorial_Ochimusha HP and Core: Tackle and Jump Slash
+310051 [NTC] Combat Tutorial_Ochimusha HP and Core: Attack normally
+310060 [NTC] Combat Tutorial _ Ochimusha Crushing Behind the Scenes and Ninjutsu Ninjutsu _ Sideways Movement
+310061 [NTC] Combat Tutorial_Ochimusha Destruction Behind the Scenes and Ninjutsu Ninjutsu_Attack
+310070 [NTC] Combat Tutorial_Ochimusha Practical Battle Practice (Advanced)
+310080 [NTC] Combat Tutorial_Ochimusha Dangerous Attack_Push and Sideways Movement
+310100 [NTC] Combat Tutorial_Ochimusha Playing Shinobi _Attack and Lateral Movement
+310101 [NTC] Combat Tutorial_Ochimusha Playing Shinobi _Continuous Slash
+310489 [NTC] Combat Tutorial_Ochimusha For fighting in the first battle
+310490 [NTC] Combat Tutorial_Ochimusha Removed special effects for logic judgment
+310500 [NTC] Combat Tutorial_Direct Hit_Core Damage Magnification 0x
+310501 [NTC] Combat Tutorial_Direct Hit_Core Damage Magnification 0.7x
+310502 [NTC] Combat Tutorial_Direct Hit_Core Damage Magnification 0.55x
+310503 [NTC] Combat Tutorial_Direct Hit_Core Damage Magnification 0.29x
+310504 [NTC] Combat Tutorial_Direct Hit_Core Damage Magnification 0.22x
+310505 [NTC] Combat Tutorial_Direct Hit_Core Damage Magnification 0.11x
+310510 [NTC] Combat Tutorial_When Guarding_Core Damage Multiplier 0x
+310511 [NTC] Combat Tutorial_When Guarding_Core Damage Magnification 0.7x
+310512 [NTC] Combat Tutorial_When Guarding_Core Damage Magnification 0.5x
+310513 [NTC] Combat Tutorial_When Guarding_Core Damage Magnification 0.35x
+310514 [NTC] Combat Tutorial_When Guarding_Core Damage Magnification 0.22x
+310515 [NTC] Combat Tutorial_When Guarding_Core Damage Magnification 0.11x
+310520 [NTC] Combat Tutorial_Jasuga_Core Damage Magnification 0x
+310521 [NTC] Combat Tutorial_Jasuga_Core Damage Magnification 0.7x
+310522 [NTC] Combat Tutorial_Jasuga_Core Damage Magnification 0.5x
+310523 [NTC] Combat Tutorial_Jasuga_Core Damage Magnification 0.35x
+310524 [NTC] Combat Tutorial_Jasuga_Core Damage Magnification 0.22x
+310525 [NTC] Combat Tutorial_Jasuga_Core Damage Magnification 0.11x
+310550 [NTC] Combat Tutorial _ Direct Hit _ Core Damage Magnification 0x _ For Intermission
+310560 [NTC] Combat Tutorial_When Guarding_Core Damage Magnification 0x_For Intermission
+310570 [NTC] Combat Tutorial _ At Jasuga _ Trunk Damage Magnification 0x _ For Intermission
+310599 [NTC] Combat Tutorial_Ochimusha_Enable special effects for intermission
+310600 [NTC] Combat Tutorial_Ochimusha SEQ4 Dangerous Attack
+310601 [NTC] Combat Tutorial_Ochimusha SEQ4 Dangerous Attack Lower Middle
+310610 [NTC] Combat Tutorial_Ochimusha Damage Animation Change_No Push Damage
+310611 [NTC] Combat Tutorial _ Ochimusha Damage Animation Change _ No Push Damage _ Trunk Normal Reduction
+310620 [NTC] Combat Tutorial_Ochimusha Damage Animation Change_Press Only Valid
+310630 [NTC] Combat Tutorial_Ochimusha Quadruple your core
+310631 [NTC] Combat Tutorial_Double Ochimusha HP
+310632 [NTC] Combat Tutorial_Ochimusha Increase your core by 1.1 times
+310640 [NTC] Combat Tutorial_Core Recovery_30 / sec
+310645 [NTC] Combat Tutorial_Core Recovery_0 / sec
+310650 [NTC] Combat Tutorial_Direct Hit_Core Damage Magnification 10x
+310660 [NTC] Combat Tutorial_Ochimusha HP is quadrupled
+310699 [NTC] Combat Tutorial_Ochimusha_Damage Enable special effects related to animation
+310900 [NTC] Combat Tutorial_Ochimusha Enables tutorial-related special effects
+310950 [NTC] Combat Tutorial_HP bar is invalid when Ochimusha is involved
+310998 [NTC] Combat Tutorial_Ochimusha Trunk Regeneration_Permanent
+310999 [NTC] Combat Tutorial_Ochimusha HP Regeneration_Permanent
+311000 [NTC] Combat Tutorial_Shamo Chicken Watch
+311001 [NTC] Combat Tutorial_Shamo Chicken Approach and Attack
+315000 [NTC] Combat Tutorial_PC_ You can play and kill enemies with a single shot at Jasuga.
+315001 [NTC] Combat Tutorial_PC_ The enemy&#39;s core does not decrease when Jasuga
+315002 [NTC] Combat Tutorial_PC_Reduce the enemy&#39;s core by 30 when Jasuga
+315003 [NTC] Combat Tutorial_PC_Reduce the enemy&#39;s core by 20 when Jasuga
+315499 [NTC] Combat Tutorial_PC_Tutorial-related special effects enabled
+315500 [NTC] Combat Tutorial_50% Trunk Recovery For event issuance
+315501 [NTC] Combat Tutorial_50% recovery of core
+315510 [NTC] Combat Tutorial_Core Max For event issuance
+315511 [NTC] Battle Tutorial_Core Max
+315900 [NTC] Battle Tutorial_Text Change
+315990 [NTC] Combat Tutorial_Special effects that should not be talked to
+380000 Tutorial Achievement Detection_Attack
+380010 Tutorial Achievement Detection_Just Guard
+380020 Tutorial achievement detection_use of artificial limbs
+380030 Tutorial achievement detection_switching of artificial limbs
+380100 Tutorial achievement detection_demon Buddha access
+385000 Tutorial Occurrence Detection_Todome Shinobi Killing
+400000 Throw disabled state (lifetime infinite)
+400100 Invalid turning from behavior when damaged (life is infinite)
+400110 Make sure to turn from the behavior when damaged (life is infinite)
+400200 Jump kick is effective when critical _ posture is low
+400201 Critical _ Jump kick is effective when posture is low _ Centipede large
+400204 Critical _ Jump kick is effective when posture is low _ PC
+400205 Critical _ Jump kick is effective when posture is low _ Always version (VFX only)
+400210 Puncture is effective when critical_guarding
+400214 Critical _ piercing is effective when guarding _ PC
+400220 Critical_Overall effective when in agony
+400230 Critical_Shield Effective only for heavy hits when guarding
+400240 Critical_Light fire / anti-aircraft is effective when jumping
+400244 Critical _ Light fire / anti-aircraft is effective when jumping _ PC
+400245 Critical _ Light fire is effective when jumping _ Always version (VFX only)
+400250 Critical _ Armor damage halved when guarded
+400260 Critical_Attracted self-harm damage_Lower man (armor)
+400261 Critical _ attracted and self-harm damage _ Tokugawa Shura Samurai (armor)
+400262 Critical_Attracted self-harm damage_Yasha Monkey (HU)
+400300 Prohibition of quick turn at the start of movement
+400310 Relaxed quick turn conditions at the start of movement
+400400 Team attack influence 0
+400410 Team attack influence 0 (permanent)
+400500 Throw from the system Judgment invalid (permanent)
+400501 Throw from the system invalid judgment (moment)
+401000 Enemy HP full recovery
+500000 [NTC] Enemy general purpose_wire possible (instantaneous)
+500001 [NTC] Enemy general purpose_wire possible (permanent)
+510000 [NTC] Wire hits
+510010 [NTC] Wire transitions to hit _8910
+510011 [NTC] Wire transitions to hit _8911
+510012 [NTC] Wire transitions to hit _8912
+510013 [NTC] Wire transitions to hit _8913
+510014 [NTC] Wire transitions to hit _8914
+510090 [NTC] Wire hits_only while throwing
+800000 Now accepting shinobi input
+800010 Ninjutsu Ninjutsu input accepted
+800020 Large snake event Shinobi killing (hidden litter) input is being accepted
+900000 Dying damage screen effect
+900001 Just guard is always possible (playing defense + stamina cut rate UP)
+900002 Always break
+900100 Effective pretending to be dead
+900101 Effective pretending to be dead (for determining cord shape)
+900200 In the clouds
+900300 Don&#39;t lose soul even if you die
+900400 HP 100% keep_test
+900501 Iron fan Genkitama test Lv1 charging
+900502 Iron fan Genkitama test Lv2 charging
+900503 Iron fan Genkitama test Lv3 charging
+900510 Iron fan Genkitama test Lv0 Gauge management / monitoring
+900511 Iron fan Genkitama test Lv1 gauge management / monitoring
+900512 Iron fan Genkitama test Lv2 gauge management / monitoring
+900513 Iron fan Genkitama test Lv3 gauge management / monitoring
+900520 Iron fan Genkitama test gauge +1
+900529 Iron fan Genkitama test gauge clear
+950000 Variable FPS test_Interval activation varies depending on FPS
+950001 Variable FPS test_The number of executions in TAE fluctuates
+3100000 [NTC] Group patrol dummy Can walk left and right rear during normal times
+3100010 [NTC] Demon Buddha dummy Unkai character judgment
+3100011 [NTC] Demon Buddha Dummy For Demon Buddha Judgment
+3101000 [NTC] Ochimusha_One-handed sword_For AI sound emission
+3101001 [NTC] Ochimusha_Eight Phases_AI For sound emission
+3101002 [NTC] Ochimusha_Spear_AI For sound emission
+3101003 [NTC] Ochimusha_Matchlock_AI sound firing
+3101010 [NTC] Ochimusha_Fire Crisis Reaction Prohibition_Moment
+3101011 [NTC] Ochimusha_Fire Depression Reaction prohibited_Lifespan
+3101020 [NTC] Martial Artist_Fire 縄铳_E3 Use_Action Immobilization
+3101030 [NTC] Ochimusha_Eight Phases_Eight Phases to Guard
+3101500 [NTC] Ochimusha_for placement_I love stone throwing
+3101510 [NTC] Ochimusha_For placement_For E3_Akaoni becomes quiet after activation.
+3101511 [NTC] Ochimusha_For placement_For E3_Active after the death of the red demon
+3101520 [NTC] Ochimusha_For placement_Akaoni no longer throws
+3101530 [NTC] Ochimusha_For placement_Fire tutorial
+3101540 [NTC] Ochimusha_Suzu Auntie only waits when the PC is in the area while alive
+3101550 [NTC] Ochimusha_For dying production_HP magnification 5% start
+3101100 [NTC] Tutorial Ochimusha R1 attack sharpens the core
+3101110 [NTC] Tutorial Ochimusha Tutorial Ochimusha Judgment
+3101120 [NTC] Tutorial Ochimusha collapsed judgment
+3101121 [NTC] Tutorial Ochimusha Bounced Judgment
+3101190 [NTC] Tutorial for identifying Ochimusha characters
+3101800 [NTC] Re-Tutorial Ochimusha Only move sideways
+3101801 [NTC] Re-Tutorial Ochimusha attacks only, PC attacks do not reduce the core
+3101802 [NTC] Re-Tutorial For Ochimusha Destruction Shinobi Judgment
+3101803 [NTC] Re-tutorial for Ochimusha playing Shinobi killing judgment
+3101804 [NTC] Re-Tutorial Ochimusha Prevent PC attacks from reducing your core
+3101805 [NTC] Re-Tutorial Ochimusha For Tutorial 6
+3101806 [NTC] Re-Tutorial Ochimusha For Tutorial 7
+3101807 [NTC] Re-Tutorial Ochimusha For Tutorial 8
+3101808 [NTC] Re-Tutorial Ochimusha For Tutorial 9
+3101809 [NTC] Re-Tutorial Ochimusha For Tutorial 10
+3101810 [NTC] Re-Tutorial for Ochimusha Tutorial 11
+3101811 [NTC] Re-Tutorial Ochimusha For Tutorial 12
+3101812 [NTC] Re-Tutorial Ochimusha For Tutorial 13
+3101813 [NTC] Re-Tutorial Ochimusha For tutorial 14
+3101814 [NTC] Re-Tutorial Ochimusha For tutorial 15
+3101815 [NTC] Re-Tutorial Ochimusha For Tutorial 16
+3101816 [NTC] Re-Tutorial Ochimusha For Tutorial 17
+3101817 [NTC] Re-Tutorial Ochimusha For Tutorial 18
+3101818 [NTC] Re-Tutorial Ochimusha For Tutorial 19
+3101819 [NTC] Re-Tutorial Ochimusha For Tutorial 20
+3101820 [NTC] Re-Tutorial Ochimusha For Tutorial 21
+3101999 [NTC] Re-Tutorial Ochimusha Always regenerate
+3101200 [NTC] Re-Tutorial Ochimusha Put out bugs
+3102000 [NTC] General Samurai_Step restrictions immediately after backstepping
+3102010 [NTC] General Samurai_Double visual distance
+3102020 [NTC] [Behavior] For pretending to be dead
+3102021 [NTC] [Behavior] For pretending to be dead
+3102030 [NTC] General Samurai_Fire Depression Reaction Prohibition_Moment
+3102031 [NTC] Samurai General _ Flame Crisis Reaction Prohibition _ Lifetime
+3102040 [NTC] General Samurai_Recovering the trunk_Shuriken special attack
+3102050 [NTC] Samurai General_PC item use reaction lifted
+3010300 [NTC] Centipede_Interruption during damage (provisional)
+3107000 [NTC] Shura Samurai_for interrupt attack (for hanging on Shura Samurai)
+3107001 [NTC] Shura Samurai_for interrupt attack (for hanging on a PC)
+3107010 [NTC] Shura Samurai_Poison Enchantment
+3107011 [NTC] Shura Samurai_Flame Enchantment
+3107020 [NTC] Shura Samurai_Poison Drool
+3107021 [NTC] Shura Samurai_Poison Drool Deleted
+3107022 [NTC] Shura Samurai_Flame Drool
+3107030 [NTC] Shura Samurai_HP damage multiplier other than Shinobi killing 0 (permanent)
+3107040 [NTC] Shura Servant_Poison
+3107041 [NTC] Shura Servant _ Yan
+3107050 [NTC] Shura Samurai_Wire available 0
+3107051 [NTC] Shura Samurai_Wire available 1
+3107052 [NTC] Shura Samurai_Wire available 2
+3108000 [NTC] Seven-sided warrior_wire possible 0
+3108001 [NTC] Seven-sided warrior_wire possible 1
+3108002 [NTC] Seven-sided warrior_wire possible 2
+3108010 【NTC】Seven-faced Warrior_License for Ninja Killing
+3108020 [NTC] Seven-faced Warrior_ワープ中 Transparency
+3108030 [NTC] Seven-sided warrior_spirit body SFX
+3108040 [NTC] Seven-sided warrior_guard transition animation is playing
+3109000 [NTC] Dog_Dripping Resident SFX
+3109001 [NTC] Dog_AI sound_jumping and biting
+3110000 [NTC] Gecko_with ceiling
+3110001 [NTC] Gecko _ with wall covering
+3110002 [NTC] Gecko _ with wall sticking _ reverse
+3110003 [NTC] Gecko _ release sticking
+3112000 [NTC] Handmaiden Aunt_Light AFX (resident)
+3112010 [NTC] Handmaiden Aunt Pseudo Platoon AI Sound (Dedicated)
+3112500 [NTC] Lookout number_logic judgment
+3113000 [NTC] Nanban armor _ for dash slashing judgment
+3113010 [NTC] Nanban armor _ for anger judgment
+3113020 [NTC] Nanban armor _ collides with the wall
+3113030 [NTC] Nanban Armor _ If you fall, lie down
+3113031 [NTC] Nanban Armor_Lie on your back if you fall
+3113040 [NTC] Nanban Armor_Damage Judgment
+3113050 [NTC] Nanban armor _ staggering
+3113060 [NTC] Nanban Armor_Preparation for Fall_Lie on Your Back
+3113061 [NTC] Nanban Armor_Preparation for Fall_Prone
+3113070 [NTC] Nanban armor _ for wall judgment
+3113080 [NTC] Nanban Armor_Failed Judgment
+3113900 [NTC] Nanban armor_wire possible
+3113901 [NTC] Nanban Armor _ Wireable _ Moment
+3114000 [NTC] Earthen wall soldier _ Immediately after the earthen wall escape _ Waiting time
+3114001 [NTC] Earthen wall soldier _ in the wall
+3114002 [NTC] Earthen wall soldier _ Todome reception status
+3114010 [NTC] Earthen wall soldier _ can be stopped and killed
+3115000 [NTC] Dog_Instant Death Special Effect
+3115010 [NTC] Dog_Firecracker
+3115020 [NTC] Dog_Logic Judgment_Ninja Dog
+3115021 [NTC] Dog _ For logic judgment _ Phantom dog
+3115025 [NTC] Dog _ For logic judgment _ Initial action _ Biting
+3115030 [NTC] Dog_dog whistle can be ordered
+3115040 [NTC] Dog_Ninja dog_Attack power up
+3118000 [NTC] Lower man _ Special effect of narrowing the field of vision during a rampage attack
+3118010 [NTC] Lower man _ Damage animation change during rampage [All invalid]
+3118020 [NTC] Younger man _ crying hearing cut
+3118030 [NTC] Lower man _ Do not move sideways during patrol (VP provisional support)
+3118041 [NTC] Younger son Zombie_Bell_Flame Depression Reaction
+3118045 [NTC] Younger Zombie _ Flame Crisis Reaction Prohibition _ Moment
+3118046 [NTC] Younger Zombie _ Flame Crisis Reaction Prohibition _ Lifetime
+3118050 [NTC] Younger man_wire possible
+3118060 [NTC] Lower man _ Posture judgment _ Weapon swing up
+3118061 [NTC] Lower man _ Posture judgment _ Just before throwing a bell
+3118100 [NTC] Lower man_shield_shield destruction For reaction judgment
+3118110 [NTC] For younger man_shield_jasuga / guard count
+3118120 [NTC] Lower man_shield_for pursuit judgment
+3118130 [NTC] Lower man _ Trunk ratio damage during a rampage attack
+3118140 [NTC] Lower man _ Trunk ratio damage during home run attack
+3118150 [NTC] Lower man _ Trunk ratio damage when armor is destroyed
+3119000 [NTC] Valley enemy_Miscellaneous fish_Waiting for judgment
+3120000 [NTC] Sokushinbutsu_HP Special effect to put out a lag before fully recovering
+3120010 [NTC] Immediate Buddha_Pretending to be dead Damage multiplier 0x
+3120020 [NTC] [Behavior] For pretending to be dead
+3120030 [NTC] For judging while pretending to be dead
+3120040 [NTC] Sokushinbutsu _ For centipede weakness judgment
+3120050 [NTC] Sokushinbutsu _ Winding drain [HP]
+3120100 [NTC] Instantly _A
+3120101 [NTC] Instantly _B
+3120102 [NTC] Instantly _C
+3121000 [NTC] Sokushinbutsu_Gero Damage_Parent
+3121001 [NTC] Sokushinbutsu_Gero Damage_Child
+3121100 [NTC] Cricket _ activation
+3121101 [NTC] Cricket _ attack
+3122000 [NTC] Temple foundation Zako_for interrupt attack (like hanging on the temple foundation Zako)
+3122010 [NTC] Temple foundation Zako_for interrupt attack (like hanging on a PC)
+3122020 [NTC] Temple foundation Zako_for interrupt attack (like hanging on the temple foundation Zako)
+3122030 [NTC] Temple foundation Zako_for interrupt attack (like hanging on a PC)
+3122040 [NTC] Temple Foundation Zako_Fist_Attack Strengthening_
+3122050 [NTC] Temple Basic Zako_Stick Technique_Defense Strengthening_
+3122100 [NTC] Temple foundation Zako_Stick technique_For interrupt attack (like hanging on the temple foundation Zako)
+3122101 [NTC] Temple foundation Zako_stick technique_for interrupt attack (like hanging on a PC)
+3122110 [NTC] Temple foundation Zako_stick art_tin cane alert
+3122200 [NTC] Temple Basic Zako_For Judgment of Skills
+3122500 [NTC] Temple foundation Zako_reading sutras playing
+3122510 [NTC] Temple Foundation Zako_Khakkhara Alert Judgment
+3122520 [NTC] Temple foundation Zako_The field of vision becomes narrower during sutra chanting
+3122530 [NTC] Temple Foundation Zako Visual 0 [Moment]
+3122540 [NTC] Temple Foundation Zako Auditory Phenomenon [Permanent]
+3124000 [NTC] Shamo chicken_change the attack multiplier between enemies
+3124010 [NTC] Shamo chicken_for interrupt attack (like hanging on a game chicken)
+3124020 [NTC] Shamo chicken_for interrupt attack (like hanging on a PC)
+3124030 [NTC] Shamo chicken _ for interrupt attack 2 (like hanging on a game chicken)
+3124040 [NTC] Shamo chicken_interrupt attack 2 (like hanging on a PC)
+3124050 [NTC] Damage animation change _ Pushing damage while flying Invalid
+3125000 [NTC] Yasha Ape&#39;s genus_for derivative attack judgment
+3125040 [NTC] Yasha Ape&#39;s genus _ sanding
+3125041 [NTC] Yasha Ape&#39;s genus _ poisoning
+3125090 [NTC] Yasha Ape&#39;s genus Snake&#39;s burrow puppet test
+3125091 [NTC] Yasha Ape&#39;s genus search enemy visibility cut test
+3125092 [NTC] Yasha Ape&#39;s genus Visual hearing 0
+3125099 [NTC] Yasha Ape&#39;s genus transparent processing disabled
+3126000 [NTC] Chigo Monkey Visual Hearing 0 [3 seconds]
+3126001 [NTC] Chigo Monkey Visual Hearing 0 [Moment]
+3126002 [NTC] Chigo Monkey Vision 0 [Permanent]
+3126003 [NTC] Chigo monkey with narrow downward visibility [Permanent]
+3126005 [NTC] Chigo Monkey Hearing 0 [Permanent]
+3126006 [NTC] Chigo Monkey Hearing 0 [Instantaneous] * Erase later if unnecessary, no use for now
+3126010 [NTC] Chigo Monkey_Boss HP gauge management
+3126020 [NTC] Chigo Monkey_Phantom Appearance_Seeing Monkey
+3126021 [NTC] Chigo Monkey_Phantom Appearance_Hearing Monkey
+3126022 [NTC] Chigo monkey _ phantom appearance _ saying monkey
+3126023 [NTC] Chigo Monkey_Phantom Appearance_Visible Monkey
+3126024 [NTC] Chigo Monkey_Phantom Appearance_Visible Monkey_Release
+3126025 [NTC] Chigo monkey _ phantom appearance _ temple miscellaneous fish
+3126030 [NTC] Chigo Monkey_Foot Decal Enabled (Apply to other than visible monkeys)
+3126040 [NTC] Chigo Monkey _ Hidden Monkey _ Foot SFX None
+3126041 [NTC] Chigo monkey _ Hidden monkey _ Foot SFX available
+3126050 [NTC] Activated at night when entering the light source room
+3126051 [NTC] Full view of darkness for disabling night eyes in the light source room
+3126060 [NTC] For determining warp prohibition during jumping
+3126070 [NTC] Chigo Monkey_Visible Monkey Do not approach the PC
+3126071 [NTC] Chigo Monkey_Visible Monkey Do not warp to PC
+3130000 [NTC] Japanese-style Innsmouth_Rejuvenation
+3130010 [NTC] Japanese style Innsmouth_Fuefuki 1_VFX
+3130011 [NTC] Japanese style Innsmouth_Fuefuki 2_VFX
+3130020 [NTC] Japanese-style Innsmouth_animation sucking SE
+3130030 [NTC] Japanese-style Innsmouth _ Judgment during animation
+3130040 [NTC] Japanese-style Innsmouth_Fuebuki 1 playable
+3130041 [NTC] Japanese-style Innsmouth_Fuebuki 2 playable
+3130050 [NTC] Japanese-style Innsmouth_Suction VFX
+3130060 [NTC] Japanese-style Innsmouth_Judgment that you are breathing life
+3130100 [NTC] Japanese-style Innsmouth_scale shop clerk_pot mist
+3130500 [NTC] Japanese-style Innsmouth_Suction Bullet SFX
+3131000 [NTC] Genpei Warrior_Thunder type on stage
+3131010 [NTC] Genpei Warrior_Sword Bow_Navimesh Switch to bow only when not passing
+3131020 [NTC] Genpei Warrior_Sword Bow_I love bows_Switch to a sword when approached
+3131030 [NTC] Genpei Warrior_Call when entering the area (priority is given to bow → sword)
+3131031 [NTC] Genpei Warrior_Call when you get out of the area (priority is given to sword → bow)
+3131040 [NTC] Genpei Warrior_When you are in a small area, do not choose a jump type attack
+3132010 [NTC] Treasure carp _ Collision with the wall
+3132011 [NTC] Treasure carp _ Continues to collide with the wall
+3134000 [NTC] No underwater neck_PC warp at the event
+3135000 [NTC] Neckless_swamp generation
+3135010 [NTC] Neckless_Transparency
+3135500 [NTC] Neckless_Grief Enchantment
+3136000 [NTC] Rappa_for interrupt attack (like hanging on Rappa)
+3136001 [NTC] Rappa_for interrupt attack (like hanging on a PC)
+3136010 [NTC] Rappa_HP for testing to turn off the display
+3136020 [NTC] Grass unevenness judgment test
+3136030 [NTC] Rappa_for shield judgment
+3136031 [NTC] Rappa_shield for judgment of broken
+3136040 [NTC] Rappa_Reeds_Poison
+3136041 [NTC] Rappa_Reeds_Normal bullets
+3136100 [NTC] Rappa_for poison bed generation
+3136110 [NTC] Rappa_poison bed cycle generation test
+3136120 [NTC] Rappa_ cannot be locked Special effect
+3136200 [NTC] Rappa_Kite For event judgment
+3136201 [NTC] Rappa_Kite Event_Permanent Puppet Special Effects
+3136900 [NTC] Rappa character identification _ reed skipping main
+3136901 [NTC] Rappa character discrimination _ Shugendo jumping judgment
+3136902 [NTC] Rappa for character identification_Kikasa Rappa
+3136910 [NTC] Rappa For character identification_Hidden prison attack Squeezed Rappa
+3137000 [NTC] Fire Bull_Judged on the go
+3137001 [NTC] Fire cow _ angry judgment
+3137002 [NTC] Fire Bull_Walking_Conflict Judgment
+3137003 [NTC] Fire Bull_ Angry り中_ Used for conflict determination
+3137004 [NTC] Fire Bull_Proximity Determination
+3137005 [NTC] Fire cow_SFX_Resident: Log fire
+3137010 [NTC] Fire Bull_Head ダメ for judging
+3137015 [NTC] Fire Bull_Undead ON
+3137016 [NTC] Fire Bull_Undead OFF
+3137020 [NTC] Fire cow_flame log test
+3137030 [NTC] Fire cow_wire point at the left end of the log
+3137031 [NTC] Fire cow_wire point at the right end of the log
+3137040 [NTC] Fire Bull_For Judgment of Yanshang Attack
+3138000 [NTC] Innsmouth Fire Cow_SFX_Resident: Log Fire
+3138040 [NTC] Innsmouth Fire Cow_For spirit attribute attack judgment
+3140000 [NTC] For swordsman_face continuous hit start
+3140010 [NTC] Swordsman_face repeated hits and judgment
+3140020 [NTC] Swordsman_for continuous face-to-face hit
+3140100 [NTC] Swordsman_Samurai Residence Event_Activated
+3140101 [NTC] Swordsman_Samurai Residence Event_Release
+3140200 [NTC] Swordsman_Flame Depression No reaction
+3140201 [NTC] Swordsman_Flame Depression No reaction for a few seconds
+3140300 [NTC] Swordsman_Crushing Shinobi (Near) Effective
+3140301 [NTC] Swordsman_Crushing Shinobi (normal) effective
+3145000 [NTC] Nightjars_Weapon Ignition Encha
+3145001 [NTC] Nighthawks_Weapons on fire エンチャ_Right Hand VFX
+3145002 [NTC] Nightjars_Weapon Ignition Encha_Left Hand VFX
+3145010 [NTC] Nighthawks_凧 on standby
+3145020 [NTC] Nighthawks_Blew up
+3145030 [NTC] Nighthawks _ self-destruct
+3145040 [NTC] Nightjars_Action Judgment ID Offset
+3145050 [NTC] Nightjars_Fire Depression Reaction Prohibition_Moment
+3145051 [NTC] Nightjars_Fire Depression Reaction prohibited_Lifespan
+3147000 [NTC] Kokageshu_Dog Whistle
+3147010 [NTC] Lonely people __ I kicked from the roof
+3147100 [NTC] Kokageshu_Samurai Residence_Jump off the roof
+3147101 [NTC] Kokageshu_Samurai Residence_Jump off the roof_End
+3147102 [NTC] Kokageshu_Samurai Residence_Mie Tower Special Waiting
+3147110 [NTC] Kokageshu_Samurai Residence_Generate_Start
+3147111 [NTC] Kokageshu_Samurai Residence_Generate_End
+3147112 [NTC] Kokageshu_Samurai Residence_Generate_Can&#39;t generate anymore
+3147120 [NTC] Lonely people_Attack enhancement_Disadvantages VFX only
+3147121 [NTC] Lonely people_Attack enhancement_Disadvantages_Inflicts HP and core damage
+3147500 [NTC] Kokageshu_Samurai Residence_First action is a finger whistle
+3147510 [NTC] Kokageshu_Samurai Residence_Judgment that a finger whistle can be blown
+3147520 [NTC] Kokageshu_Samurai Residence_First action uses candy
+3150000 [NTC] Villager Zombie_Behavior Control_General Purpose: Run
+3150010 [NTC] Villager Zombie_Behavior Control_Bare Hand: I love hitting stones
+3150011 [NTC] Villager Zombie_Behavior Control_Bare Hand: I love stone throwing
+3150012 [NTC] Villager Zombie_Behavior Control_Bare Hand: I love bucket toilets
+3150013 [NTC] Villager Zombie_Behavior Control_Bare Hand: Bare Hand Type Judgment
+3150014 [NTC] Villager Zombie_Behavior Control_Bare Hand: I love throwing crazy dumplings
+3150015 [NTC] Villager Zombie_Behavior Control_Bare Hands: Surrounding Actions &amp; Throwing Mad
+3150050 [NTC] Villager Zombie_SFX_Resident: Firefly Basket
+3150051 [NTC] Villager Zombie_SFX_Resident: For overwriting firefly basket
+3150060 [NTC] Villager Zombie_Stone possession status
+3150061 [NTC] Villager Zombie_Stone not possessed
+3150100 [NTC] Villager Zombie_Determining a restraint from the ground
+3150101 [NTC] Villager zombie restraint can be interrupted (other than throwing through)
+3150110 [NTC] Villager Zombie_Lacrimal gland throwing
+3150111 [NTC] Villager Zombie_Lacrimal gland throwing finished
+3150112 [NTC] Villager Zombie _ Lacrimal Gland Throw _ Successful Throw
+3150120 [NTC] Villager Zombie _ Lacrimal Gland Throw _ Successful Throw Expand your horizons
+3150200 [NTC] Villager Zombie _ Judgment of restraint from the ground _ Normal
+3150201 [NTC] Villager Zombie _ Judgment of Detainees from the Ground_ Review Spirit
+3150500 [NTC] Villager Zombie_Prisoner Recipient When the spirit balls are full, hang 3150502.
+3150501 [NTC] Villager Zombie_Prisoner Count the number of deaths.
+3150502 [NTC] Villager Zombie_Prisoner The number of deaths has reached the upper limit, and the special effect of immortality has been removed.
+3150509 [NTC] Villager Zombie_Prisoner Count the number of deaths. Accumulate up to Max at once
+3150510 [NTC] [Behavior] For pretending to be dead
+3150511 [NTC] [Behavior] For pretending to be dead
+3150600 [NTC] Villager Zombie_Flame Depression No reaction
+3150601 [NTC] Villager Zombie_Flame Depression No reaction for a few seconds
+3150610 [NTC] Villager Zombie_Underground
+3151000 [NTC] Villager Zombie (Butterfly Summon Version) _ Hallucination Transparency
+3151010 [NTC] Villager Zombie (Butterfly Summon Version) _ Waiting judgment after generation
+3151030 [NTC] Villager Zombie (Butterfly Summon Version) _ Appearance Anime Switching Test
+3151031 [NTC] Villager Zombie (Butterfly Summon Version) _Transition to Appearance Animation Switch_A
+3151032 [NTC] Villager Zombie (Butterfly Summon Version) _Transition to Appearance Animation Switch_B
+3151033 [NTC] Villager Zombie (Butterfly Summon Version) _Transition to Appearance Animation Switch_C
+3151034 [NTC] Villager Zombie (Butterfly Summon Version) _Transition to Appearance Animation Switch_D
+3151100 [NTC] Villager Zombie (Butterfly Summon Version) _ Attack Power / Stamina Attack Power Adjustment
+3155000 [NTC] Bandit_SFX_Resident: Torch
+3155010 [NTC] Bandit_for interrupt attack (like a bandit)
+3155020 [NTC] Bandit_for interrupt attack (like hanging on a PC)
+3155030 [NTC] Bandit_Does not transition to normal stance even if damaged
+3155040 [NTC] Bandit_for interrupt attack (like a bandit)
+3155050 [NTC] Bandit_for interrupt attack (like hanging on a PC)
+3155060 [NTC] Bandit_Shield Type Guard
+3155070 【NTC】Wild Thief_Poison Arrow
+3155071 [NTC] Bandit_Normal arrow user
+3155080 [NTC] Bandit_Drunk_Visual 0.2x, Hearing 0x
+3155081 [NTC] Bandit_Drunk_Returns sight and hearing
+3155090 [NTC] Bandit_bow type_do not switch to a sword
+3155100 [NTC] Bandit_High-end type
+3155110 [NTC] Bandit_E3_PC retreats when guarded
+3155111 [NTC] Bandit_E3_PC charges shield when guarded
+3155120 [NTC] Bandit_Shield Type_Shield Bang Bang Prohibition
+3155130 [NTC] Bandit_Bow type_Adjustable bandit
+3155140 [NTC] Bandit _ Burning down due to oil jar
+3155500 [NTC] Bandit_For placement_Bow type_Escape to a specific point after shooting one bow
+3155510 [NTC] Bandit_For placement_Shield type_Hold the shield even during non-combat
+3155520 [NTC] Bandit_Shield type_No shield bang bang in the first action
+3155530 [NTC] Bandit_Phantom_Hearing 0x, Visibility 0x
+3155540 [NTC] Bandit_Phantom_Hidden
+3155541 [NTC] Bandit_Phantom_Seal the hidden figure
+3155550 [NTC] Bandit _ Shura Samurai Area _ Take a wait-and-see action
+3155560 [NTC] Bandit_Bow type_Aburatsubo throw
+3155570 [NTC] Bandit_bow type_do not use a reservoir bow
+3155900 [NTC] Bandit_bow type_normal arrow
+3155901 [NTC] Bandit_Bow Type_Normal Arrow (Phantom)
+3150990 [NTC] [Behavior] For pretending to be dead
+3170100 [NTC] SE delivery _ heavy equipment type
+3170101 [NTC] SE delivery _ light clothing type
+3170200 [NTC] Samurai Tokugawa _ Flamethrower _ Flamethrower all the time
+3170210 [NTC] Samurai Tokugawa_Die with a single blow in any attack
+3170211 [NTC] Samurai Tokugawa_Continuous damage for flaming escape
+3170900 [NTC] Samurai Tokugawa_For determining the role of a Buddhist demon
+3500000 [NTC] Broken Ring Monk_Transparency of Magic Magic
+3500010 [NTC] Haunting Monk_Shinobi event animation transition not possible
+3500020 [NTC] Broken Ring Monk_Physical Recovery_1point
+3500021 [NTC] Broken Ring Monk_Recovery of Physical Strength_719point
+3500030 [NTC] Haunting Monk_Damage Magnification 0
+3500040 [NTC] Haunting Monk_Damage Anime Replacement_Lower Middle Jump Kick Effective
+3500050 [NTC] Buddhist monk_Phantom release_Self-harm damage
+3500051 [NTC] Haunting Monk_Phantom Release_Interrupt Attack Timing
+3500500 [NTC] The illusion of a priest _ transparent during non-combat
+3500599 [NTC] AI Judged_E3 Phantom
+3501000 [NTC] Sigh of a large snake
+3501001 [NTC] Large snake litter hiding _ Shinobi killing reception marker display
+3501002 [NTC] Large Snake Falling Shinobi _ Shinobi Killing Reception Marker Display
+3501003 [NTC] Large Snake Falling Ninja Pursuit_Ninja Reception Marker Display
+3501004 [NTC] Large Snake_Hidden at the time of initial generation
+3501010 [NTC] Big Snake_Early Valley Warning Center
+3501011 [NTC] Big Snake_In front of Mikami
+3501012 [NTC] Large Snake_Hidden Shinobi Waiting
+3501013 [NTC] Large snake _PC waiting for escape
+3501014 [NTC] Large Snake_Awaiting Fall Shinobi
+3501015 [NTC] Large Snake_Falling Shinobi Killing 1
+3501016 [NTC] Large snake _ Watching the canyon _ Going to see the Shinboku side
+3501017 [NTC] Large Snake_Hidden Shinobi Killing Transition
+3501020 [NTC] Large Snake_QTE Test
+3501021 [NTC] Large Snake_Event Shinobi (Hiding) Condition Judgment_Protomap
+3501022 [NTC] Large Snake_Event Shinobi (Litter Hiding) Condition Judgment_Castle
+3501030 [NTC] Large snake _ Litter shinobi killed
+3501031 [NTC] Large Snake_Leaving after the killing of Litter Shinobi
+3501032 [NTC] Sigh of the snake_for sleep
+3501033 [NTC] Large snake _ Mikamiki side has been migrated
+3501040 [NTC] Large snake _ visibility cut
+3501050 [NTC] Big Snake_Horizon License
+3501060 [NTC] Large Snake_Visibility Change A
+3501061 [NTC] Large Snake_Visibility Change B
+3501062 [NTC] Large Snake_Visibility Change C
+3501063 [NTC] Large Snake_Visibility Change D
+3501070 [NTC] Transition to event animation after the end of the large snake _ portable shrine shinobi
+3501080 [NTC] Large Snake_Shinobi Scratch Scroll Display
+3501090 [NTC] Large snake_BGM flag ON (for canyon)
+3501100 [NTC] Large snake_Invalid per initial posture (for canyon)
+3502000 [NTC] Akaoni_for interrupt attack (like hanging on Akaoni)
+3502010 [NTC] Akaoni_for interrupt attack (like hanging on a PC)
+3502020 [NTC] Akaoni _ Wire is possible on the choker _ Grab
+3502021 [NTC] Akaoni _ Wire is possible on the choker _ Tackle
+3502022 [NTC] Akaoni_Wire is possible on the choker_Collapse
+3502030 [NTC] Akaoni_Flame Depression No reaction
+3502031 [NTC] Akaoni_Flame Depression No reaction for a few seconds
+3502040 [NTC] Akaoni_for damage judgment
+3502500 [NTC] Akaoni_E3 Judgment_Battle transition animation after chain destruction
+3502510 [NTC] Red Demon_E3 Judgment_Play a rampaging loop
+3502511 [NTC] Red Demon_E3 Judgment_Random Rampage Play
+3502512 [NTC] Akaoni_E3 Judgment_Handmaiden Be quiet in the aunt area
+3502520 [NTC] Akaoni_for placement_99 times more attack power against Ochimusha
+3502530 [NTC] Red Demon _ For Placement _ Red Demon with Chain
+3502900 [NTC] Akaoni_Can be wired to the choker Resident test
+3503000 [NTC] Gull _ for poison vomiting when stepped on (poison vomiting when caught on gecko)
+3504000 【NTC】Humanoid_Water Surface Judgment
+3504001 [NTC] Straw doll_right calf judgment
+3504002 [NTC] Straw doll_left calf judgment
+3504003 [NTC] Straw doll_right thigh judgment
+3504004 [NTC] Straw doll_left thigh judgment
+3504005 【NTC】Human Form_Left Hand Judgment
+3504006 [NTC] Straw doll_body judgment
+3504007 [NTC] Straw doll _ Judging the life or death of nape bugs
+3504008 [NTC] Straw doll _ Judge the life or death of the bug on the neck
+3505000 [NTC] Koi_ Permanent Bubble SFX
+3505010 [NTC] Nishikigoi _ Collision against the wall
+3505020 [NTC] Nishikigoi_secret
+3505030 [NTC] Nishikigoi_ Patrol OK
+3505040 [NTC] Nishikigoi_Looking for enemy Cool time
+3505050 [NTC] Nishikigoi_In the first stealth area
+3505060 [NTC] Nishikigoi_Prepare target lost
+3505070 [NTC] Nishikigoi Visual Hearing 0
+3506000 [NTC] Ninja Army Chief_Kick_Interrupt Attack (hang on PC)
+3506001 [NTC] Ninja Army Chief_Damage Animation Replacement_Lower Middle Jump Kick Effective
+3506002 [NTC] Ninja Army Chief_Damage Animation Replacement_Recovering Core
+3506003 [NTC] Ninja Army Chief _ Core Damage Magnification Change_ Trunk Recovery
+3506004 [NTC] Chief of Ninja Army_Shinobi _For interrupt attack (hang on PC)
+3506010 [NTC] Ninja Army Chief_Owl Summon
+3506020 [NTC] Chief of Ninja Army_Warp withdrawal after being damaged
+3506021 [NTC] Ninja Army Chief_Attacking Warp
+3506022 [NTC] Ninja Army Chief_Attacking Warp (Special)
+3506030 [NTC] Ninja Army Chief_Warp Medium Transparency
+3506031 [NTC] Chief of Ninja Army_SFX during warp
+3506040 [NTC] Ninja Army Chief_For Logic Judgment_Immediately after Warp
+3506050 [NTC] Chief of Ninja Army_Immortality Release
+3506060 [NTC] Chief of the Ninja Army_Shinobi killed
+3506070 [NTC] Ninja Army Chief_For Logic Judgment_Special Weak Play
+3506080 [NTC] Chief of Ninja Army_Action Judgment_HU Animation
+3506081 [NTC] Chief of Ninja Army_Action Judgment_Poison Throwing
+3506082 [NTC] Ninja Army Chief_Action Judgment_HU Animation (Loop)
+3506090 [NTC] Ninja Army Chief_Recovery Seal_Effect
+3506091 [NTC] Ninja Army Chief_Recovery Seal_For issuing effect characters
+3506100 [NTC] Ninja Army Chief_Wire Possible 0
+3506101 [NTC] Ninja Army Chief_Wire Possible 1
+3506102 [NTC] Ninja Army Chief_Wire Possible 2
+3506200 [NTC] Ninja Army Chief_Identification_Samurai Residence
+3506210 [NTC] Ninja Army Chief_Identification_Honjo
+3507000 [NTC] Chief Owl_Position Swap Ninjutsu_Aerial
+3507001 [NTC] Chief Owl_Position Swap Ninjutsu_Ground
+3507002 [NTC] Chief Owl_Position Swap Ninjutsu_Definite Activation
+3507010 [NTC] Called by the chief owl
+3507020 [NTC] Chief Owl_Spiritual Expression Resident SFX
+3508000 [NTC] Horseback Warrior_Judged in the Walking System
+3508001 [NTC] Cavalry Warrior_Running Judgment
+3508010 [NTC] Cavalry Warrior_Camera Switching_Jumping Attack
+3508011 [NTC] Horse-riding warrior_Camera switching_First appearance production
+3508020 [NTC] Cavalry warrior_helmet can be wired 1
+3508021 [NTC] Cavalry warrior_helmet can be wired 2
+3508022 [NTC] Cavalry warrior_helmet can be wired 3
+3508030 [NTC] Cavalry Warrior_SA Damage multiplier 0
+3508040 [NTC] Cavalry Warrior_Futtobashi attack hit
+3508050 [NTC] Cavalry Warrior_Uncle has been damaged
+3508060 [NTC] Cavalry Warrior_Drifting: 3032
+3508061 [NTC] Cavalry Warrior_Drifting: 3033
+3508070 [NTC] Cavalry Warrior_Stop at the drifting wire OK Special effect: 3032
+3508071 [NTC] Cavalry Warrior_Stop at the drifting wire OK Special effect: 3033
+3508080 [NTC] Cavalry warrior_wire, stopped by firecrackers
+3508090 [NTC] Cavalry warrior_Pinch state (played a big skill, eaten a firecracker, etc.)
+3508100 [NTC] Cavalry Warrior_Running Start
+3508110 [NTC] Cavalry Warrior_Firecracker You can&#39;t cut your core with firecrackers during the animation
+3508120 [NTC] Cavalry Warrior_SA Increases damage When small damage occurs
+3508500 [NTC] Cavalry warrior _Behaivior_ Do not put out a turning animation when escaping after
+3508510 [NTC] Cavalry warrior _ passed the PC
+3508520 [NTC] Cavalry Warrior_Running_For collision detection
+3509000 [NTC] Butterfly _ Shinobi killing
+3509010 [NTC] Butterfly _ Immortality release
+3509020 [NTC] Butterfly_command to hallucinations
+3509030 [NTC] Butterflies _ Release orders for hallucinations
+3509040 [NTC] Butterfly_For phantom summon judgment
+3509041 [NTC] Butterfly_Phantom bullet conversion judgment
+3509050 [NTC] Butterfly _ damage animation change
+3509060 [NTC] Butterfly_Phantom Fog_ON
+3509070 [NTC] Butterfly_Butterfly change
+3509080 [NTC] Butterfly_Camera switching_Rushing
+3509100 [NTC] Butterflies _ HU After Todome Shinobi
+3509110 [NTC] At the time of reception of Todome Shinobi after Butterfly_HU
+3509200 [NTC] Butterfly_HU for bullet activation
+3509210 [NTC] Butterfly_HU After the Great Buddha transparent
+3510000 [NTC] Yasha Ape_Undead Released
+3510010 [NTC] Yasha Ape_Shinobi killed
+3510020 [NTC] Yasha Ape_Battle start can be canceled
+3510030 [NTC] Yasha Ape_Damage part camouflage
+3510040 [NTC] Yasha Ape_Trained spear pulling out damage invalid
+3510050 [NTC] Yasha Ape_Sword can be wired
+3510060 [NTC] Yasha Ape_AI Judgment_Lost
+3510070 [NTC] Yasha Ape_SA Damage increased Medium damage
+3510071 [NTC] Yasha Ape_SA Increases damage When small damage occurs
+3510100 [NTC] Yasha Ape_For determining monkeys in the canyon
+3510110 [NTC] Change the damage multiplier when Yasha Ape_HU
+3510200 [NTC] Yasha Ape and Bug, team type change
+3510500 [NTC] Yasha Ape_SFX_Resident: Blood drips from the neck
+3510510 [NTC] Yasha Ape_SFX_Instant
+3510520 [NTC] Yasha Ape_SFX_Resident: Make it transparent
+3510530 [NTC] Yasha Ape_SFX_Particles
+3510540 [NTC] Yasha Ape_SFX_Death Explosion
+3510600 [NTC] Yasha Ape_The neck was cut
+3510900 [NTC] Yasha ape_ order to marry ape
+3510901 [NTC] Yasha ape_ order to marry ape
+3510902 [NTC] Yasha ape_ order to marry ape
+3510903 [NTC] Yasha ape_ order to marry ape
+3510904 [NTC] Yasha ape_ order to marry ape
+3510905 [NTC] Yasha ape_ order to marry ape
+3510990 [NTC] Parameter change at Yasha Ape_HU
+3510991 [NTC] SA change at Yasha Ape_HU
+3520000 [NTC] Mermaid Dragon_Storm Enchantment SFX
+3520001 [NTC] Mermaid Dragon_Storm Enchantment SFX Deleted
+3520010 [NTC] Mermaid Dragon_Continuous attack interruption
+3520011 [NTC] Mermaid Dragon_Collapse Judgment
+3520012 [NTC] Mermaid Dragon_Storm Enchantment
+3520013 [NTC] Mermaid Dragon_PC Blow-off interrupt timing
+3520014 [NTC] Mermaid Dragon_Wide Range Attack Timing
+3520020 [NTC] Mermaid Dragon_Thunder Return Timing Display
+3520030 [NTC] Mermaid Dragon_Camera Change_Before Shinobi
+3520031 [NTC] Mermaid Dragon_Camera Change_Storm Jump Near the top
+3520040 [NTC] Mermaid Dragon_Storm SFX around the base
+3520050 [NTC] Mermaid Dragon _ Wire in your hand _ Ride _ Palm
+3520051 [NTC] Mermaid Dragon_Wireable in hand_Riding_Back of hand
+3520055 [NTC] Mermaid Dragon_Wire in hand_Cannot ride_Palm
+3520056 [NTC] Mermaid Dragon_Wire is possible in hand_Cannot ride_Back of hand
+3520060 [NTC] Mermaid Dragon_Tentacles wither
+3520061 [NTC] Mermaid Dragon_Tentacles generate updraft
+3520062 [NTC] Mermaid Dragon_Tentacles wither (permanent)
+3520070 [NTC] Mermaid Dragon_Sakura Flowering_Withered
+3520071 [NTC] Mermaid Dragon_Sakura Flowering_Full Bloom
+3520080 [NTC] Mermaid Dragon_Damage_Right Hand / Body
+3520081 [NTC] Mermaid Dragon_Damage_Head
+3520085 [NTC] Mermaid Dragon_Thunderstorm hit
+3530000 [NTC] Weng Long_Praying
+3530001 [NTC] Weng Long_大技 A
+3530002 [NTC] Weng Long_大技B
+3530010 [NTC] Okiryu_Resident Damage Animation Change
+3530020 [NTC] Okiryu_Damage for the main body
+3530030 [NTC] Old man _ Black old man judgment
+3530040 [NTC] Okiryu_Falling Shinobi Killing HP Trunk Gauge Erase
+3530041 [NTC] Okiryu_Falling Shinobi Killing Bumping Gauge Revival
+3530100 [NTC] Okiryu_withering effect
+3530500 [NTC] Weng Long_Body dry half minute
+3530501 [NTC] Okiryu_HP half
+3530510 [NTC] Okiryu_Increase team attack power
+3531000 [NTC] Tentacle_Attack Judgment A
+3531001 [NTC] Tentacle_Attack Judgment B
+3531002 [NTC] Tentacle_Attack Judgment C
+3531010 [NTC] Tentacle_Attack Judgment D
+3531011 [NTC] Tentacle_Attack Judgment E
+3531012 [NTC] Tentacle_Attack Judgment F
+3531060 [NTC] Tentacles_Mermaid Dragon Battle_Lightning Strike Signs
+3531061 [NTC] Tentacles_Mermaid Dragon Battle_PC hits a lightning strike sign 1
+3531062 [NTC] Tentacles_Mermaid Dragon Battle_PC hits the sign of a lightning strike 2
+3531063 [NTC] Tentacles_Mermaid Dragon Battle_PC hits the sign of a lightning strike 3
+3531064 [NTC] Tentacles_Mermaid Dragon Battle_PC hits the sign of a lightning strike 4
+3531065 [NTC] Tentacles_Mermaid Dragon Battle_PC hits the sign of a lightning strike 5
+3531066 [NTC] Tentacles_Mermaid Dragon Battle_PC hits the sign of a lightning strike 6
+3531067 [NTC] Tentacles_Mermaid Dragon Battle_PC hits a lightning strike sign 7
+3531068 [NTC] Tentacles_Mermaid Dragon Battle_PC hits the sign of a lightning strike 8
+3531069 [NTC] Tentacles_Mermaid Dragon Battle_PC hits the sign of a lightning strike 8
+3531070 [NTC] Tentacles_Mermaid Dragon Battle_PC hits a lightning strike sign_General purpose
+3531100 [NTC] Tentacle_withering effect
+3531500 [NTC] Tentacles_wire possible
+3532000 [NTC] Okiryu (Large) _ Resident Damage Animation Change
+3532010 [NTC] Okiryu (Large) _ Can be wired to a cane
+3532011 [NTC] Okiryu (Large) _ Can be wired to the right corner
+3532012 [NTC] Okiryu (Large) _ Wire is possible in the left corner
+3540000 [NTC] Revived Kensei _ Delayed damage of swallowing (hangs on PC)
+3540001 [NTC] Revived Kensei _ Delayed damage of swallowing (hangs on Kensei)
+3540005 [NTC] Revived Kensei _ Delayed damage of swallowing (applying to PC)
+3540006 [NTC] Revived Kensei _ Delayed damage of swallowing (hangs on Kensei)
+3540010 [NTC] Revived Kensei_Yurari Special effects while moving
+3540020 [NTC] Revived Kensei_Special effects while walking
+3540030 [NTC] Revived Kensei_Timing to avoid a single sheet of paper
+3540040 [NTC] Revived Kensei _AI interrupt judgment_additional play
+3540041 [NTC] Revived Kensei _AI Interruption Judgment_Connect to direct attack from being swept away 1
+3540050 [NTC] Revived Kensei _ After HU_ For slamming posture judgment
+3540060 [NTC] Revived Kensei _ After HU_ Interruption for distance judgment
+3540070 [NTC] Revived Kensei _HU After _SA invalid
+3540080 [NTC] Resurrected Kensei _ After HU_ Judgment whether the attraction was hit
+3540081 [NTC] Resurrected Kensei _ After HU_ Judgment whether the attraction was hit
+3540090 [NTC] Revived Kensei_Trunk damage multiplier suppression
+3540100 [NTC] Revived Kensei_Super Reaction Guard System Prohibition
+3540110 [NTC] Revived Kensei_SA Endurance up
+3540120 [NTC] The resurrected Kensei_Spear disappears
+3540130 [NTC] Revived Kensei_SFX Judgment
+3540140 [NTC] Revived Kensei_Swords of the sickbed_SFX judgment
+3540150 [NTC] Revived Kensei_HU Front HP / Trunk Magnification
+3540151 [NTC] Revived Kensei_HU First Stage HP / Trunk Magnification
+3540152 [NTC] Revived Kensei_HU Second Stage HP / Trunk Magnification
+3540153 [NTC] Revived Kensei _ Kensei on the bed _ HP after HU / Trunk magnification
+3540500 [NTC] Revived Kensei _ Kensei on the sickbed
+3540510 [NTC] Revived Kensei_Sickbed: For firing a flame bullet firing event
+3540990 [NTC] Revived Kensei _ For debugging Inflicts 66% damage
+3700000 [NTC] Female player_Counterattack posture
+3700001 [NTC] Female Musician_Gap
+3700010 [NTC] Female player _ Weak playing _ Increased amount of core scraping when losing
+3700020 [NTC] Female player_Special effect for AI judgment_Slash around 180 degrees
+3700030 [NTC] Female player_Performance SE playback
+3700040 [NTC] Female Musician_Transparency
+3700041 [NTC] Female musicians_transparency_100%
+3700050 [NTC] Female player_damage animation changing Medium → Large
+3700500 [NTC] Female player_SFX_Resident: Translucent, spiritual effect
+3700510 [NTC] Female player_SFX_Resident: Spirit effect
+3700511 [NTC] Female player_SFX_Resident: Translucent
+3700600 [NTC] Female player _ disguised part when guarding
+3702000 [NTC] Buddhist demon for normal condition
+3702001 [NTC] Buddhist demon HU1 for state
+3702002 [NTC] Buddhist demon HU2 for state
+3702003 [NTC] Buddhist demon close-up attack possible timing
+3702004 [NTC] Buddhist demon close-up attack pursuit monitoring
+3702005 [NTC] For judgment after the second killing of the Buddhist demon Shinobi
+3702006 [NTC] Limited visibility for the start of the Buddhist demon
+3702010 [NTC] Buddhist demon arm SFX_normal
+3702011 [NTC] Buddhist demon arm SFX_strong
+3702020 [NTC] Buddhist demon HU pre-flame judgment
+3702021 [NTC] Buddhist demon HU After flame judgment
+3702030 [NTC] Buddhist demon right shoulder wire _ for self-centered explosion
+3702031 [NTC] Buddhist demon right shoulder wire _ for breath
+3702040 [NTC] For attack judgment from Buddhist demon reaction
+3702041 [NTC] Increased SA damage multiplier during Buddhist demon damage reaction
+3702050 [NTC] State after Buddhist demon HU
+3702060 [NTC] Buddhist demon self-light source
+3702070 [NTC] For judgment during the Buddhist demon big jump
+3702071 [NTC] For judgment during the lower attack of the Buddhist demon jump
+3702080 [NTC] Buddhist demon _ For judgment near the feet _ Right foot
+3702081 [NTC] Buddhist demon _ For judgment near the feet _ Left foot
+3702085 [NTC] Buddhist demon _For judgment near the feet _ PC side
+3702100 [NTC] Dummy with demon Buddha ghost bullets
+3702101 [NTC] Dummy OFF with demon Buddha ghost bullets
+3702110 [NTC] Demon Buddha_Wire Jump Test_ON
+3702111 [NTC] Demon Buddha for individual identification_01
+3702112 [NTC] Demon Buddha for individual identification_02
+3702113 [NTC] Demon Buddha for individual identification_03
+3702114 [NTC] Demon Buddha for individual identification _04
+3702115 [NTC] Demon Buddha for individual identification_05
+3702116 [NTC] Demon Buddha for individual identification_06
+3702117 [NTC] Demon Buddha for individual identification_07
+3702118 [NTC] Demon Buddha for individual identification_08
+3702119 [NTC] Demon Buddha for individual identification_09
+3702120 [NTC] Demon Buddha for individual identification_10
+3710000 [NTC] Rival_For lateral movement logic judgment after throwing
+3710010 [NTC] Judgment that rival _ attack was not guarded (reduce swashbuckler count)
+3710020 [NTC] Rival_Shinobi Judgment (Set the swashbuckler count to 0)
+3710030 AI interrupt judgment_addition played
+3710031 AI interrupt judgment _ played by Migi _ strong _ connect to direct attack 1
+3710032 AI interrupt judgment _ flipped by folds _ strong _ connect to direct attack 1
+3710033 AI interrupt judgment _ played by Migi _ strong _ connect to direct attack 2
+3710034 AI interrupt judgment _ flipped by folds _ strong _ connect to direct attack 2
+3710040 [NTC] Rival_Gap
+3710050 [NTC] Rival _ A roundhouse kick hit
+3711000 [NTC] Rival (naked) _ Dash Eight stabs hit
+3711010 [NTC] Rival (naked) _ Immortal slash hit
+3711500 [NTC] Rival (naked) _ 3rd round _ Susuki field
+3711900 [NTC] Rival (naked) _ Super reaction for a few seconds City test _ 3 seconds
+3711910 [NTC] Rival (naked) _ Super reaction for a few seconds City test _ 6 seconds
+3720000 【NTC】Prince_Judged in the line of travel
+3720010 [NTC] Prince_Running system end judgment
+3720020 [NTC] Prince_down judgment
+3720100 [NTC] Prince_hate test
+3720110 [NTC] Prince_pretend to be dead
+3720800 【NTC】Prince_Induced Phantom
+3721000 [NTC] Prince_Judgment that warped to a loophole
+3721010 [NTC] Prince_Susuki When lying down in the field SFX
+3730000 [NTC] Chigo_Rice is being given
+3740000 [NTC] Isei&#39;s daughter_for pushing and playing judgment
+3740010 [NTC] Daughter of Isei_for phantom conversation
+3747000 [NTC] kidnapped young man _ spirited away effective special effect
+3952000 [NTC] Samurai Sasaki _ for interrupt attack (like hanging on Samurai Sasaki)
+3952010 [NTC] Samurai Sasaki _ for interrupt attack (like hanging on a PC)
+3952020 [NTC] General Sasaki _ stance on the ground (like hanging on General Sasaki)
+3952030 [NTC] General Sasaki _ Anti-aircraft stance (like hanging on General Sasaki)
+3952040 [NTC] General Sasaki _ A stance of crushing the situation (like hanging on General Sasaki)
+3952050 [NTC] Samurai Sasaki _ Offensive and defensive stance (like hanging on Samurai Sasaki)

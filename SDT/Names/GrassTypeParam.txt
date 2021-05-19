@@ -1,0 +1,166 @@
+1 Nezasa (quite a lot of bushes) / (with collision) test
+2 Fern
+3 Miscanthus
+4 Tall pampas grass
+5 Carex lenta
+6 Solidago virgaurea
+7 Needlesa
+8 Imperata cylindrica
+9 Yabutachibana
+10 Ardisia japonica
+11 Kobanogamazumi
+12 ネザサ(7 rooms)
+13 ネザサ (1 room)
+14 General-purpose grass (are you using it?)
+15 Reed (for 1 bedroom ゲーム grass configuration)
+16 Reed (for 7-bedroom ゲーム grass configuration)
+17 Tall reeds (for 1 bunch game grass placement)
+18 Tall reeds (for 7 bunch game grass placement)
+19 Tall reeds (for 7 bunch game grass placement)
+21 Nezasa (single unit abolished)
+22 Fern
+23 Miscanthus
+24 Tall pampas grass
+25 Carex lenta
+26 Solidago virgaurea
+27 Needlesa
+28 Imperata cylindrica
+29 Yabutachibana
+30 Ardisia japonica
+31 Kobanogamazumi
+32 Nezasa (more bushes) (with collisions)
+33 Nezasa (less bushes) (with collisions)
+34 General purpose grass A
+35 Withered grass_large
+36 Hay_small
+37 Miscanthus (specify angle)
+38 General purpose grass B
+39 Narcissus
+40 Fuchisou (angle designation)
+41 Carex lenta (snow)
+50 Waterthyme
+51 Aquatic plants + a little waterthyme
+52 Hanashobu (purple)
+53 Hanashobu (white)
+54 lotus
+55 Withering lotus
+56 moss
+57 Chromo (riffle) 45 °
+58 reed
+59 Ramie
+60 Set of Nezasa, Dwarf lilyturf and fallen leaves
+61 Selaginella moell
+62 Monotropastrum humilis
+65 General purpose grass C
+66 General purpose grass D
+67 Hydrangea 01
+68 Hydrangea 02
+69 Miscanthus
+70 Akami moss
+71 Chromo (riffle) 170 °
+72 Syneilesis
+73 Ostrich Fern
+74 Cattail
+75 Withered lotus
+79 Cliff grass_green
+80 Stalactite_small
+81 Stalactite_middle
+82 Stalactite_middle
+83 Stalagmite_Small
+84 Stalagmite_In
+85 Stalagmite_Large
+86 Hanashobu (white, more)
+87 Algae
+88 Underwater lotus
+90 Burnt Nezasa
+98 1m for bush test (with collision)
+99 2m for bush test (with collision)
+122 Fern
+123 Miscanthus
+124 Tall pampas grass
+125 Carex lenta
+126 Solidago virgaurea
+127 Needlesa (snow)
+128 Imperata cylindrica
+129 Yabutachibana
+130 Ardisia japonica
+131 Kobanogamazumi
+132 Nezasa (more bushes) (with collisions)
+133 Nezasa (less bushes) (with collisions)
+134 General purpose grass A
+135 Withered grass_big (snow)
+136 Withered grass _ small (snow)
+138 Universal Grass B (Snow)
+140 Fuchisou (angle designation) / (snow)
+159 Ramie
+175 Withered lotus
+216 Reed (for 7-bedroom ゲーム grass configuration)
+217 Tall reeds (for 1 bunch game grass placement)
+218 Tall reeds (for 7 bunch game grass placement)
+219 Tall reeds (for 7 bunch game grass placement)
+222 Fern
+223 Miscanthus
+225 Carex lenta
+226 Solidago virgaurea
+227 Needlesa
+229 Yabutachibana
+230 Ardisia japonica
+231 Kobanogamazumi
+232 Nezasa (more bushes) (with collisions)
+233 Nezasa (less bushes) (with collisions)
+234 General purpose grass A
+235 Withered grass_large
+236 Hay_small
+237 Miscanthus (specify angle)
+238 General purpose grass B
+239 Narcissus
+240 Fuchisou (angle designation)
+250 Waterthyme
+251 Aquatic plants + a little waterthyme
+252 Hanashobu (purple)
+253 Hanashobu (white)
+254 lotus
+255 Withering lotus
+256 moss
+257 Chromo (riffle) 45 °
+258 reed
+259 Ramie
+260 Set of Nezasa, Dwarf lilyturf and fallen leaves
+261 Selaginella moell
+262 Monotropastrum humilis
+265 General purpose grass C
+266 General purpose grass D
+267 Hydrangea 01
+268 Hydrangea 02
+269 Miscanthus
+270 Akami moss
+271 Chromo (riffle) 120 °
+272 Syneilesis
+273 Ostrich Fern
+274 Cattail
+275 Withered lotus
+276 Cliff grass
+277 Cliff grass
+278 Dead grass _ large _ flat
+279 Cliff grass_green
+286 Hanashobu (white, more)
+287 Algae
+288 Underwater lotus
+290 Swertia japonica
+322 Fern
+323 Miscanthus
+325 Carex lenta
+326 Solidago virgaurea
+327 Needlesa (snow)
+328 Imperata cylindrica
+329 Yabutachibana
+330 Ardisia japonica
+331 Kobanogamazumi
+332 Nezasa (more bushes) (with collisions)
+334 General purpose grass A
+335 Withered grass_big (snow)
+336 Withered grass _ small (snow)
+338 Universal Grass B (Snow)
+359 Ramie
+360 Set of Nezasa, Dwarf lilyturf and fallen leaves
+375 Withered lotus

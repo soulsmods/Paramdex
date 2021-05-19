@@ -1,0 +1,100 @@
+0 [PC] Start behind
+100 [PC] Behind
+201 [PC] Behind the Ninjutsu (Blood Smoke)
+202 [PC] Behind the Ninjutsu (Puppet)
+203 [PC] Behind Ninjutsu (Encha)
+10000 [PC] Start behind crouching
+10100 [PC] Behind crouching
+20000 [PC] Play 0
+20100 [PC] Play 1_ Attack
+20110 [PC] Playing 1_ Behind the scenes
+20900 [PC] Playing Todome
+30000 [PC] Parting out 0
+30100 [PC] Parting out 1_ attack
+30110 [PC] Parting out 1_ Behind the scenes
+40000 [PC] Breaking start
+40100 [PC] Breaking down
+40900 [PC] Breaking down
+41000 [PC] Breaking behind and starting
+41100 [PC] Behind the collapse
+41201 [PC] Ninjutsu behind the collapse (blood smoke)
+41202 [PC] Behind the Ninjutsu (Puppet)
+41203 [PC] Ninjutsu behind the collapse (Encha)
+41900 [PC] Todome behind the collapse
+50000 [PC] Enemy special state 0
+50100 [PC] Enemy special state 1
+60000 [PC] Unlimited fall 0
+60100 [PC] Unrestricted fall 1
+70000 [PC] Falling down 0
+70100 [PC] Falling down 1
+70900 [PC] Falling Todome
+80000 [PC] Anti-aircraft 0
+80100 [PC] Anti-aircraft 1
+90000 [PC] Start with left wall sticking
+90010 [PC] With left wall
+100000 [PC] Start with right wall
+100010 [PC] With right wall
+110000 [PC] Hanging start
+110010 [PC] Hanging
+120000 [PC] Event_Large Litter
+130000 [PC] Breaking down 0
+130100 [PC] Breaking down 1
+130200 [PC] Breaking down 2
+160000 [PC] Kicking down 0
+160100 [PC] Kicking down 1
+170000 [PC] Closeout
+180000 [PC] Breaking wire 0
+180100 [PC] Breaking wire 1
+180900 [PC] Breaking wire
+190000 [PC] Todome start
+190100 [PC] Todome
+200000 [PC] Breaking back and starting
+200010 [PC] Breaking back
+210000 [PC] Start behind aging
+210010 [PC] Behind the aging
+220000 [PC] Aging collapse start
+220010 [PC] Aging collapse
+230000 [PC] Aging breaks down and starts behind
+230010 [PC] Behind the aging collapse
+240000 [PC] Useless push-down and start around
+240010 [PC] Useless push-down backside
+250000 [PC] [Immortal slash] Enemy special state 0
+250100 [PC] [Immortal slash] Enemy special state 1
+260000 [PC] Underwater collapse start
+260010 [PC] Underwater collapse
+270000 [PC] Breaking short distance start
+270100 [PC] Breaking short distance
+270900 [PC] Breaking short distance
+500000 [PC] [On the roof] Start behind
+500100 [PC] [on the roof] behind
+500201 [PC] [Top of the house] Ninjutsu from behind (Blood Smoke)
+500202 [PC] [On the root of the house] Behind the ninjutsu (puppet)
+500203 [PC] [Roof] Behind Ninjutsu (Encha)
+540000 [PC] [On the roof] Start breaking
+540100 [PC] [on the roof] collapse
+540900 [PC] [On the roof]
+541000 [PC] [On the roof] Break down and start behind
+541100 [PC] [On the roof] Behind the collapse
+541201 [PC] [On the roof] Ninjutsu behind the collapse (blood smoke)
+541202 [PC] [On the root of the house] Behind the ninjutsu (puppet)
+541203 [PC] [On the roof] Ninjutsu behind the collapse (Encha)
+541900 [PC] [On the roof] Crushing behind
+570000 [PC] [on the roof] Fall 0
+570100 [PC] [on the roof] Fall 1
+570900 [PC] [On the roof] Falling Todome
+630000 [PC] [On the roof] Crush and fall 0
+630100 [PC] [On the roof] Crush and fall 1
+630200 [PC] [On the roof] Crush and fall 2
+660000 [PC] [On the roof] Kicking down 0
+660100 [PC] [On the roof] Kicking down 1
+1000000 [Enemy] Throw 0
+1000010 [Enemy] Throw 1
+1000020 [Enemy] Throw 2
+1000030 [Enemy] Throw 3
+1000040 [Enemy] Throw 4
+1000100 [Enemy] Throw 0_Underwater
+1000110 [Enemy] Throw 1_Underwater
+1000120 [Enemy] Throw 2_Underwater
+1000130 [Enemy] Throw 3_Underwater
+1000140 [Enemy] Throw 4_Underwater
+100000000 -

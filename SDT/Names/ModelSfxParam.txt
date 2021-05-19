@@ -1,0 +1,198 @@
+0 for test
+80000 Message tombstone (before lighting)
+80010 Message tombstone (after lighting)
+1510000 Lantern (old)
+1240000 Candle ver00
+1240001 Candle ver01
+1240002 Candle ver02
+1240010 Blue Flame Varie 1
+1240011 Blue Flame Varie 2
+1230000 Wangcheng candlestick (low)
+2120000 Stone statue candle lighting
+4660000 General-purpose wall lighting (torch)
+4661000 General-purpose ceiling lighting (torch)
+6000000 Shop incense burner
+6500000 Shop incense burner (with snow)
+1400000 Bai Fei _ small
+1401000 Bai Fei_中
+1402000 Bai Fei_Big
+106000000 High light stand
+106010000 High glass lampstand
+106050000 bonfire
+106060000 Torch plate
+106070000 Candlestick
+106100000 Stone lamp 1
+106110000 Stone lamp 2
+106150000 Bonfire
+107010000 Shachi wire point
+114910000 Censer of sacred treasure
+114940000 Three-legged
+115410000 Takebashi (short)
+115420000 Takebashi (middle)
+115430000 Takebashi (Chief)
+115800000 Burning straw bundle (large)
+115810000 Burning straw bundle (middle)
+115820000 Burning straw bundle (small)
+115840000 Burning wood (burnt corpse)
+115840001 Burning wood (holes in the roof)
+115840002 Burning wood (window)
+115840003 Point light source only (with LOD)
+115840004 Point light source only (no LOD)
+115890000 Burning corpse
+115980000 Roof guidance OBJ (hanging)
+115981000 Roof guidance OBJ (direct placement)
+115990000 Poster
+116000000 bonfire
+116010000 Hanging bonfire
+116060000 Wolf smoke
+116070000 Smoke signal (Damipoli only)
+116100000 Torch plate (with stand)
+116100001 Torch plate (with stand) (light source range narrow)
+116100002 Torch plate (with stand) (wide light source range)
+116101000 Torch plate (with stand) (for prince only)
+116110000 Candlestick
+116110001 Candlestick (narrow light source range)
+116110002 Candlestick (wide light source range)
+116120000 Torch plate (single item)
+116120001 Torch plate (wide light source range)
+116120002 Torch plate (light and moth)
+116130000 Torch plate (dark)
+116130001 Torch plate (no point light source)
+116140000 High light stand
+116140001 High lighthouse (wide light source range)
+116140002 High lighthouse (lights and moths)
+116140003 High lighthouse (wide light source range) (lights and moths)
+116210000 temple
+116710000 Shrine (without snow)
+116600000 Fishing lantern
+116600001 Fishing lantern (narrow light source range)
+116600002 Fishing lantern (for indoor use)
+116601000 Fishing lantern (for indoor use) (with cloth)
+116602000 Fishing lantern (for indoor use) (with cross _ short)
+118210000 PC grave
+126000000 bonfire
+126010000 Hanging bonfire
+126100000 Torch plate
+126110000 Candlestick
+126300000 Fishing lantern
+126900000 Burning skeleton dummy
+136000000 bonfire
+136010000 Suspended bonfire (dynamic shadow ON)
+136100000 Torch plate
+136200000 Stone lamp 1
+136250000 Stone lamp (shrine)
+136455000 Incense stick (thin)
+136465000 Incense stick (thick)
+154120000 Censer of Araji Temple
+155030000 Upside-down hanging corpse of a monk
+156100000 Torch plate [without light source]
+156110000 Torch plate stand
+156111000 Torch plate stand
+156150000 Candlestick
+156160000 Candlestick
+156170000 Fishing lantern
+156200000 Torch
+156300000 Lantern [without light source]
+156310000 General-purpose light source
+156320000 General-purpose light source
+156350000 Shrine_with red cloth
+156400000 Gomadan
+156500000 Cricket cage
+176000000 bonfire
+176010000 Hanging bonfire
+176050000 Bonfire with pot
+176100000 Candlestick
+176120000 Torch plate (single item)
+176125000 Torch plate (summary for rock cave)
+176210000 temple
+177800000 Sacred Lotus
+177900000 Artifact liver
+204110000 incense burner
+204120000 Gomadou incense burner (middle)
+205550000 Temple map: Fishing lantern (short)
+206000000 Stone lantern
+206010000 High cup lighthouse
+206020000 High lighthouse
+206030000 Torch plate
+206040000 Candlestick [without light source]
+206050000 Desktop candlestick
+206051000 Desktop candlestick (small)
+206052000 Desktop candlestick (small) _ for children only
+206060000 Candlestick for the main hall
+206070000 Hidden main hall_candlestick (large)
+206071000 Hidden main hall_candlestick set [without light source]
+206080000 bonfire
+206100000 Temple map: Fishing lantern
+206110000 Temple map: Fishing lantern
+206150000 Hand-held candlestick
+206160000 Hidden main hall_handheld candlestick
+206300000 Mark object [without light source]
+256000000 Stone lamp 1
+256010000 Stone lamp 2
+256100000 High lighthouse
+256100001 High lighthouse (water surface effect)
+256110000 High cup lighthouse
+256110001 High Cup Lighthouse (Water Surface Effect)
+256120000 Torch plate
+256020000 Hanging lantern
+256020001 Hanging lantern
+256030000 Hanging incense burner
+302525000 Hanging lantern 1
+302526000 Firewood flame
+302564000 Burnt corpse
+302565000 Statue candle holder
+302518000 Royal castle candle
+304857000 Wangcheng Candlestick (High)
+304863000 Royal Castle 2 Torch
+315100000 Bonfire tree
+316500000 Hanging lantern 1
+316500001 Hanging lantern 1
+319010000 lanthanum
+319012000 Hanging torch
+319006000 Candle (with plate)
+9004010 Concept version sun
+324014000 Incense burner m32
+330010000 Forest lantern
+330009000 Forest skeleton candle
+331390000 Forest Boss Room Skeleton Candle 01
+331391000 Forest Boss Room Skeleton Candle 02
+331392000 Forest Boss Room Skeleton Candle 03
+344857000 Wangcheng 2,3 candlestick (high)
+344859000 Wangcheng 2,3 candlestick (low)
+344863000 Royal Castle 2,3 Torch
+350000000 Basilica church chandelier
+350013000 Templar church candlestick Bver00
+350013001 Templar church candlestick Bver01
+350015000 Basilica Church Boss Room Candle
+350010000 Basilica Church Candlestick A
+352000000 Basilica Church_Indoor torch
+364517000 God Grave Lantern 1
+364512000 God Grave Lantern 2
+372010000 Anor Lantern A
+381004000 Candle ver00
+381009000 Hanging lantern
+381008000 Wall lamp
+391000000 Candle 1
+391100000 Incense burner 1
+392300000 Shaking incense burner 1
+392310000 Shaking incense burner 2
+398000000 Corpse Mountain 1
+399100000 Wall-mounted torch 1
+399100001 Wall-mounted torch 1
+399999000 Candle test
+962140000 Hanging lighting
+966100000 Torch plate (with stand)
+966100001 Torch plate (with stand) (light source range narrow)
+966110000 Candlestick
+966110001 Candlestick (narrow light source range)
+966120000 Torch plate (single item)
+966130000 Torch plate (dark)
+966210000 temple
+969007000 Torch 1
+966000000 bonfire
+966060000 Signal
+934630000 Bonfire candlestick normal fire
+1030000 [Ritual] Princess substitute OBJ
+962120000 Stone statue candle lighting (6 digit version)
+969004010 Concept version sun (6 digit version)
+950100000 Resident SFX test

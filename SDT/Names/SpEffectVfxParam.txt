@@ -1,0 +1,618 @@
+0 for test
+2 poison
+3 Hill
+4 corrosion
+5 Plague
+6 Bleeding
+8 Hidden
+9 Gravity user
+10 Abnormal condition recovery [poison]
+11 Abnormal condition recovery [Plague]
+12 Abnormal condition recovery [bleeding]
+13 Abnormal condition recovery [universal]
+14 Soul steal
+15 zoom
+16 warp
+17 Demon&#39;s Soul
+18 Black ghost escape
+19 Strong ghost
+20 White hope
+21 Black hope
+22 Black ghosting
+23 resuscitation
+24 The use of magic is prohibited
+25 Miracle motion extension
+26 Whetstone
+27 Asphyxia resuscitation
+28 Weapon enhancement
+29 Defensive shield
+30 Covered with thread
+31 [System] Ghost Param Change
+32 Sleep paralysis
+33 Fly
+34 [FDP Proto] Freezing slime
+35 Flame Phantom_Second Stage
+36 Flame Phantom_Third Stage
+37 Flame Phantom_Phase 4
+38 Hallucination
+39 Soul coin
+40 Strong defense shield
+41 Fire resistant shield
+42 HP recovery status
+43 Forced ghosting 1st stage
+44 Forced ghosting stage 2
+45 Forced ghosting stage 3
+46 Pheromones
+47 Cat landing
+48 Pinch attack power up
+49 Pinch defense up
+50 Regenerate
+51 Torch
+52 Weakly regenerate
+53 Weak ghost camouflage
+54 Hidden weak
+55 Tips blood letters
+56 Leech legs
+57 Yellow clothes
+58 Point light source
+59 Blood character evaluation
+60 Weapon enhancement【中】
+61 Weapon enhancement【large】
+62 Inflammation enhancement
+63 Inflammation Strength 【Large】
+64 Magic enhancement
+65 Chimera enhancement
+66 Item drop correction
+67 MP Regenerate
+68 Weak MP Regenerate
+69 Resurrected when dead
+70 Toxic resistance UP
+71 Magic power up
+72 Magic Defense UP
+73 Bleeding tolerance UP
+74 Disease tolerance UP
+75 Stamina recovery UP
+76 Soul acquisition UP
+77 Inflammation tolerance UP
+78 King&#39;s Shield 1st Stage Left Foot
+79 King&#39;s Shield 2nd Stage Left Foot
+80 King&#39;s Shield 3 Stage Left Foot
+91 King&#39;s Shield 1st Stage Right Foot
+92 King&#39;s Shield 2nd Stage Right Foot
+93 King&#39;s Shield 3 Stage Right Foot
+94 Judge&#39;s Abdominal Bleeding
+95 Mimicry
+96 [SP] Makeover
+97 Gasman
+98 Detection
+99 Waiting for cooperation
+100 Cooperation
+101 Cooperative transmission
+102 Gravity
+103 Evil eye
+104 State cancellation [waiting for cooperation]
+105 Effect Lv1
+106 Effect Lv2
+107 Effect Lv3
+108 Evil Eye Lv1
+109 Evil Eye Lv2
+110 counter
+111 Egg planting standby
+112 Egg planting
+113 Egg head standby
+114 Egg head
+115 Ultra lightweight movement
+116 curse
+117 Petrochemical
+118 Curse release
+119 Human nature damage
+120 Damage animation change_SA time only
+121 Damage animation change_added
+122 Underwater behavior
+123 Weapon head
+124 Weapon barrel
+125 Weapon hand
+126 Arms feet
+127 sleep
+128 Mimic_mimicry
+129 Mimic_mimicry sleep
+130 Mimic_normal
+131 Mimic_normal sleep
+132 Fascination
+133 Blood Text Obtained
+134 Repellent change
+135 Mimic_Normally start sleeping
+136 Crystallization
+137 Resonance Lv0
+138 Resonance Lv1
+139 Resonance Lv2
+140 Resonance Lv3
+141 Resonance Lv4
+142 Action ID designation
+143 Enemy_immortality
+144 Enemy_Asphyxia
+145 Holy attributes
+146 Whole body whetstone
+147 Light magic
+148 Rescue please
+149 White rescue
+150 Black Rescue
+151 Thunder Strengthen
+152 Poison enhancement
+153 Disease intensification
+154 Est not available
+155 SA reinforcement
+156 Durability reduction is ineffective
+157 Anti-spirit strengthening
+158 Guard strengthening
+159 Ring revival when usually dead
+160 Ring resurrection when dying from a curse
+161 Warp B
+162 Warp C
+163 Warp D
+164 Warp E
+165 Warp A
+166 Breaking the pledge
+167 [SP] Whole body transformation
+168 Precision strengthening
+169 Resonance strengthening
+170 Causal retribution
+171 Causal retribution explosion
+172 Sheath invincible 1
+173 Sheath invincible 2
+174 Sheath invincible 3
+175 Resurrection of humanity
+176 Soul coin (immortal)
+177 Soul coin (beast system)
+178 Ally strengthening magic
+179 Curse effect Lv1
+180 Curse effect Lv2
+181 Curse effect Lv3
+182 Curse effect Lv4
+183 SOS visible
+184 Invisible Weapon
+185 Nito effect
+186 Flame kick
+187 Death
+188 Forest Thieves Summon Hope
+189 In the Forest Thieves Territri
+190 Queen Mother Calls for Hope
+191 In the royal mother and younger brother Territori
+192 Egg head_second stage
+193 Life extension
+194 Increase the number of times magic is used
+195 Dragon Newt Sign
+196 Prize money sign
+197 Counter up
+198 Eggs
+199 HP drain
+200 The power of madness
+201 For magic prohibition effects
+202 Dragon roar
+203 Magic usage down
+204 Guard strengthening [Large]
+205 [DLC] Darkness enhancement
+206 Arena 1: 1 [Small] Inside the territory
+207 Arena 2 to 2 [Small] Inside the territory
+208 Arena Battle Royale [Small] Inside the territory
+209 Arena 1: 1 [Small] Summon Hope A
+210 Arena 1: 1 [Small] Summon Hope B
+211 Arena 2 to 2 [Small] Summon Hope A1
+212 Arena 2 to 2 [Small] Summon Hope A2
+213 Arena 2 to 2 [Small] Summon Hope B1
+214 Arena 2 to 2 [Small] Summon Hope B2
+215 Arena Battle Royale [Small] Summon Hope A
+216 Arena Battle Royale [Small] Summon Hope B
+217 Arena Battle Royale [Small] Summon Hope C
+218 Arena Battle Royale [Small] Summon Hope D
+219 Arena 1 to 1 [Large] Inside the territory
+220 Arena 2 to 2 [Large] Inside the territory
+221 Arena Battle Royale [Large] Inside the territory
+222 Arena 1 to 1 [Large] Summon Hope A
+223 Arena 1 to 1 [Large] Summon Hope B
+224 Arena 2 to 2 [Large] Summon Hope A1
+225 Arena 2 to 2 [Large] Summon Hope A2
+226 Arena 2 to 2 [Large] Summon Hope B1
+227 Arena 2 to 2 [Large] Summon Hope B2
+228 Arena Battle Royale [Large] Summon Hope A
+229 Arena Battle Royale [Large] Summon Hope B
+230 Arena Battle Royale [Large] Summon Hope C
+231 Arena Battle Royale [Large] Summon Hope D
+232 Prohibition of use of the arena
+233 Death at the Technological Field
+234 Temporary 1st place in the technical field
+235 Arena No Dead
+236 1st place in the arena
+237 Black dragon ring
+238 10 or more wins in the arena
+239 Over 30 wins in the arena
+240 More than 50 wins in the arena
+241 Over 100 wins in the arena
+242 Overwrite blood material
+243 Blood material_blood
+244 Blood Material_Inflammation
+245 Blood material_less blood
+246 Layered magic A_LV1
+247 Layered magic A_LV2
+248 Layered magic A_LV3
+249 Layered magic B_LV1
+250 Layered magic B_LV2
+251 Layered magic B_LV3
+252 Covered with oil
+253 Fire daruma
+254 Being obsessed
+255 Dark magic
+256 Burnt corpse burning level 1
+257 Burnt corpse burning level 2
+258 Change sound magnification
+259 Target down
+260 eclipse
+261 maggot
+262 Abnormal condition recovery [maggot]
+263 Bleeding state
+264 Ritual may
+265 Quick match request
+266 Invalid death during fall
+267 Change visual range
+268 Eclipse death
+269 Double chanting
+270 General purpose avatar buff 1
+271 General purpose avatar buff 2
+272 General purpose avatar buff 3
+273 General purpose avatar buff 4
+274 General purpose avatar buff 5
+3000 Est_ activation
+3020 Regeneration_invocation
+3021 Regeneration_in effect
+3040 Elixir_Activated
+3050 Weird young water thrombus_ activation
+3051 Weird water thrombus_in effect_aura
+3052 Weird water thrombus_in effect_red eye
+3060 Ohagi_ activation
+3061 Ohagi_in effect_HP regen
+3062 Ohagi_in effect_core strengthening
+3070 Persimmon_ activation
+3071 Persimmon_in effect
+3075 Persimmon (lower son) _ activated
+3076 Persimmon (lower man) _ in effect
+3080 Chigo rice _ activation
+3081 Chigo rice_in effect
+3085 Chigo rice (Sasameyuki) _ activated
+3086 Chigo rice (Sasameyuki) _ effective
+3200 Disease recovery_invocation
+3201 Disease recovery_in effect
+3210 Fire recovery_Activation
+3211 Flaming recovery_in effect
+3220 Mad recovery_invocation
+3221 Mad recovery_in effect
+3230 Electric shock resistance UP_ activation
+3231 Electric shock resistance UP_in effect
+3240 Aging recovery_invocation
+3300 Disease prevention
+3301 Disease prevention_in effect
+3310 Flame prevention
+3311 Flame prevention_in effect
+3320 Madness prevention
+3321 Madness prevention_in effect
+3350 Attack enhancement (infinite / consumption of form)
+3360 Attack enhancement_with disadvantages (infinite / consumption of form)
+3370 Defense enhancement (unlimited/form generation consumption)
+3380 Body strengthening (infinite/form-generation consumption)
+3390 Stealth enhancement (infinite / shape cost consumption)
+3400 Attack enhancement
+3410 Attack enhancement_with disadvantages
+3420 Defense enhancement
+3430 Body strengthening
+3440 Stealth enhancement
+3450 Anti-spirit strengthening
+3600 Increased amount of money obtained
+3610 Resurrection right acquisition amount UP
+3620 Item drop rate UP
+3630 Form cost drop rate UP
+3640 White Rappa Water Balloon_Activated
+3800 Form conversion (white)
+3810 Form conversion (red)
+4000 Environmental production: White breath
+4010 Environmental production: Underwater mouth foam
+4011 Environmental production: Underwater body foam
+4100 Night eyes
+4200 Eavesdropping_tinnitus SE
+4500 Trunk damage symbol SFX_ striking system
+4501 Trunk damage symbol SFX_Blow system_Parting only
+4510 Trunk damage symbol SFX_ slashing / piercing system
+4520 Trunk damage symbol SFX_ drowning system
+5000 Resurrection Technique_Input Reception FE
+5010 Resurrection Technique _ Heart Sound SE
+5020 Resurrection Technique_Resurrection Production (Blur)
+5100 Shinobi _ input reception FE
+5110 Ninjutsu Ninjutsu_Input reception FE
+6000 Lightning Enchantment_Charged_Weak
+6001 Lightning Enchantment_Charged_Strong
+6020 Flame enchantment
+6030 Spirit enchantment_anti-spirit firing
+6031 Spirit Enchantment_Anti-Spirit Enhancement
+6040 Red blood enchantment
+6050 Poisonous blood enchantment
+6060 Leukemia enchantment
+6065 Leukemia recovery
+6070 Orange wind enchantment
+6080 Gold wind enchantment
+6090 Hidden enchantment SFX
+7600 Artificial limb ninja _ iron fan _ charge LV1 is active
+7601 Artificial limb ninja _ iron fan _ charge LV2 is active
+7602 Artificial limb ninja _ iron fan _ charge LV3 is active
+7700 Artificial limb ninja _ enemy turning _ in the wind
+7702 Artificial limb ninja _ enemy turning LV3 _ in the wind
+7711 Artificial limb ninja _ Enemy turn _ Enemy turn reaction _ Transparency
+7900 Artificial limb ninja _ finger whistle _ animal madness effect
+7901 Artificial limb ninja _ finger whistle _ animal madness effect _ minor)
+9000 Corrosion_attract
+9001 Eating _ run away
+9002 Abnormal condition recovery [corrosion]
+9100 [NTC] Injured Blood Droplets SFX_First
+9102 [NTC] Injured blood droplets SFX_waist
+9200 NTC_ Enemy Just Guard Success
+9400 [NTC] Puppet Ninja Kill_Mark
+9500 [NTC] Red-eye _ symbol
+9510 [NTC] Red-eye symbol (carp)
+9600 [NTC] Blue Eyes
+9800 [NTC] Decreased body recovery rate, performance 1
+9801 [NTC] Decreased body recovery rate, performance 2
+9802 [NTC] Decreased body recovery speed, performance 3
+9900 Crushed and pinched
+9910 Find judgment
+10000 Wetting control: Wetting
+10010 Wetting control: Poisonous wetting
+10020 Wetting control: Mud wet
+10030 Wetting control: Frostbite wet
+30000 [NTC] Completely hidden for conversation
+30001 [NTC] Completely hidden for conversation_Initial
+30010 [NTC] Conversation _Phantom Prince_ means performance
+30020 [NTC] For conversation_Phantom doctor Holy daughter_Display production
+30030 [NTC] Conversation use_non-resistance NPC transparent performance
+30031 [NTC] Conversation _ Non-Resistance NPC Death Production Damipoli 1
+30032 [NTC] Conversation _ Non-Resistance NPC Death Production Damipoli 2
+30033 [NTC] Conversation _ Non-Resistance NPC Death Production Damipoli 3
+30034 [NTC] Conversation _ Non-Resistance NPC Death Production Damipoli 4
+30035 [NTC] Conversation _ Non-Resistance NPC Death Production Damipoli 90
+30036 [NTC] Conversation _ Non-Resistance NPC Death Production Damipoli 510
+40000 virus
+40010 On fire
+40020 craziness
+40040 Electric shock
+40060 Ageing
+40061 De-aging
+40080 Hazardous substance firecracker debuff
+40100 Recovery seal
+48000 Chinese characters_ &quot;virus&quot;
+48010 Chinese Characters_「炎上」
+48020 Chinese Characters _ &quot;Fu Ji&quot;
+48040 Chinese characters_「打雷」
+48060 Chinese Characters_「Years」
+48100 Chinese Characters _ &quot;危&quot;
+48200 Chinese Characters_「Return to Life」
+48210 Chinese character _ &quot;smoke&quot;
+48220 Chinese Characters_「Puppet」
+48230 Chinese Characters _ &quot;Tang&quot;
+48300 Chinese Characters_「治（小）」
+48301 Chinese Characters_「治（中）」
+48302 Chinese Characters_「治（大）」
+48303 Chinese Characters_「続治（小）」
+48304 Chinese Characters_「続治（中）」
+48305 Chinese Characters_「続治（大）」
+48306 Chinese Characters_「続乾 (中)」
+48307 Chinese characters_ &quot;続乾 (大)&quot;
+48310 Chinese Characters_ &quot;Yu&quot; (Virus Reply)
+48311 Kanji_ &quot;healing&quot; (recovery from flames)
+48312 Kanji_ &quot;healing&quot; (recovery from madness)
+48314 Kanji_ &quot;healing&quot; (recovery from all abnormal conditions)
+48315 Chinese characters _ &quot;Virus-resistant&quot; (virus protection)
+48316 Kanji_ &quot;flaming resistance&quot; (flaming prevention)
+48317 Kanji_ &quot;Scary resistance&quot; (prevention of madness)
+48318 Kanji_ &quot;Lightning resistance&quot; (Kanden delay)
+48320 Kanji _ &quot;A attack&quot; (strengthen attack _ infinity)
+48321 Kanji _ &quot;Yaksha 戮&quot; (with attack enhancement demerit _ infinity)
+48322 Chinese characters _ &quot;吽护&quot; (defense strengthening_ infinite)
+48323 Chinese Characters_ &quot;Ganggan&quot; (Body Stem Strengthening_ Infinite)
+48324 Kanji_ &quot;Tsukigaku&quot; (Stealth enhancement_Infinite)
+48325 Kanji_ &quot;Asamu&quot; (strengthening attack)
+48326 Kanji_ &quot;Yaksha&quot; (with demerit of strengthening attack)
+48327 Chinese Characters_ &quot;吽护&quot; (Enhanced Defense)
+48328 Chinese Characters _ &quot;Ganggan&quot; (Strengthening the body stem)
+48329 Kanji_ &quot;Tsukigaku&quot; (strengthening stealth)
+48330 Kanji_ &quot;Payment&quot; (strengthening spirits)
+48331 Kanji_ &quot;Red Eye&quot; (Weird Young Water Thrombus)
+48340 Kanji_ &quot;accompaniment&quot;
+48341 Chinese Characters _「禁薬」
+48350 Kanji_ &quot;Profit (increased amount of money)&quot;
+48351 Kanji_ &quot;Benefits (increased amount of resurrection rights)&quot;
+48352 Kanji_ &quot;Profit (Item drop rate UP)&quot;
+48353 Kanji_ &quot;Benefits (up the form cost drop rate)&quot;
+48355 Kanji_ &quot;Benefits (White Rappa Water Balloons_Various UP)&quot;
+48370 Chinese Characters_ &quot;If Return&quot; (Relief of aging)
+50400 [NTC] Broken Ring Monk_Transparency of Magic Magic
+50500 [NTC] Dog _ drool
+50600 [NTC] Tominaga Servant General_Hand_Resident SFX
+50601 [NTC] Tominaga Servant General_Chest_Resident SFX
+50602 [NTC] Samurai Tominaga _ flank _ resident SFX
+50603 [NTC] Samurai Tominaga _Foot_Resident SFX
+50604 [NTC] Samurai Tominaga _Foot_Resident SFX
+50001 Demon Priest_Jujutsu Kaisen
+50002 Demon Priest_Jujutsu Kaisen
+50003 Demon Priest_Flame Enchantment
+50004 Demon Priest _
+50010 Crystal Elder_Friend
+50020 Wax Dead_Wax Covered
+50021 Wax Dead_Head Flame
+50030 Firewood Demon_Head (Resident SFX)
+50031 Firewood Demon_Chest (Resident SFX)
+50032 Firewood Demon_Back (Resident SFX)
+50033 Firewood Demon_Weapon (Resident SFX)
+50034 Firewood demon HU_head (resident SFX)
+50035 Firewood Demon HU_Chest (Resident SFX)
+50036 Firewood demon HU_back (resident SFX)
+50037 Firewood Demon HU_Weapon (Resident SFX)
+50040 New skeleton torch (resident SFX)
+50050 Sullivan Grim Reaper_Sword Enchantment
+50051 Sullivan Grim Reaper_Sickle Enchantment
+50052 Sullivan Reaper (Resident SFX)
+50053 Sullivan Reaper_ (Resident SFX)
+50055 Tindalos_eye light
+50058 Gargoyle torch
+50060 King of the Dead, Miasma Chest Resident SFX
+50061 King of the Dead
+50070 Old King of Corrosion Corrosion Aura Resident SFX
+50071 Old King of Corrosion Corrosion Aura Hu Resident SFX
+50072 Old King of Corrosion Corrosion Feather Resident SFX
+50073 Old King of Corrosion Corrosion Feather Resident SFX
+50074 Old King of Erosion Style Resident SFX
+50080 Eating butterfly scales resident
+50090 Ash Demon_Weapon Smoke (Resident SFX)
+50091 Ash Demon_Whole Body Smoke (Resident SFX)
+50092 Ash Demon_Joint 1 (Resident SFX)
+50093 Ash Demon_Joint 2 (Resident SFX)
+50094 Ash Demon_Joint 3 (Resident SFX)
+50095 Ash Demon_Joint 4 (Resident SFX)
+50096 Ash Demon_Distortion 1 (Resident SFX)
+50097 Ash Demon_Distortion 2 (Resident SFX)
+50098 Ash Demon_Distortion 3 (Resident SFX)
+50110 Dead Soldier Handheld Lantern Resident SFX
+50120 Dead Soldier: Gunda State Resident SFX
+50121 Dead Soldier: Gunda State Resident SFX
+50122 Dead Soldier: Gunda State Resident SFX
+50123 Dead Soldier: Gunda State Resident SFX
+50124 Dead Soldier: Gunda State Resident SFX
+50125 Dead Soldier: Gunda State Both Eyes (Resident SFX)
+50130 Dead soldier waist lantern resident SFX
+50150 New King Castle Knight: Red Eye (Resident SFX)
+50200 Dark Knight Beast_Head (Resident SFX)
+50201 Dark Knight Beast_Body (Resident SFX)
+50202 Dark Knight Beast_Left Arm (Resident SFX)
+50203 Dark Knight Beast_Right Arm (Resident SFX)
+50204 Dark Knight Beast_Right Foot (Resident SFX)
+50205 Dark Knight Beast_Left Foot (Resident SFX)
+50206 Dark Knight Beast_Weapon (Resident SFX)
+50207 Dark Knight Beast_Eyes (Resident SFX)
+50210 Tracker_Cold body (resident SFX)
+50211 Tracker_Flame Sword (Resident SFX)
+50212 Tracker_Erosion (cold air) sword (resident SFX)
+50220 Cardinals_Curse (Resident SFX)
+50221 Cardinals_Range Regeneration (Effect SFX)
+50222 Cardinals_Range Scult (Effect SFX)
+50230 Moonlight Witch (Resident SFX)
+50240 New Jailer (Resident SFX)
+50250 Full armor beast_whole body cold (in front of HU)
+50251 Full Armor Beast_Weapon Cold Air (in front of HU)
+50252 Full armor beast_whole body cold (after HU)
+50253 Full Armor Beast_Weapon Cold Air (after HU)
+50254 Full Armor Beast_Eye Light (after HU)
+50260 Sullivan (Nito Sword Enchantment)
+50300 Chigo monkey_Phantom appearance_Seeing monkey
+50301 Chigo monkey_Phantom appearance_Hearing monkey
+50302 Chigo monkey_Phantom appearance_Saying monkey
+50303 Juvenile ape_transparency
+50304 Juvenile ape_transparency lifted
+50305 Chigo Monkey_Temple Small Fish Phantom Appearance
+50310 Chigo monkey_Phantom appearance_Seeing monkey
+50311 Chigo monkey_Phantom appearance_Seeing monkey
+50312 Chigo monkey_Phantom appearance_Hearing monkey
+50313 Chigo monkey_Phantom appearance_Hearing monkey
+50314 Chigo monkey_Phantom appearance_Saying monkey
+50315 Chigo monkey_Phantom appearance_Saying monkey
+50340 Chigo Monkey_Hidden Monkey
+57500 [NTC] Semi-stealth SFX
+58000 [NTC] Critical expression_Blur
+100000 [NTC] Demon Buddha_Decal Reset PC Blindfold Transparency
+220611 [NTC] Phantom Enemy_Dead body becomes transparent when it dies
+220621 [NTC] Vengeance_Dead body becomes transparent at the time of death
+220631 [NTC] Enemies in the water _ Dead bodies become transparent when they die
+230600 [NTC] Enemy turning _ Spirited away corpse transparency
+230610 [NTC] Enemy turn _ Enemy turn VFX_Orange_Small
+230611 [NTC] Enemy turn _ Enemy turn VFX_Orange_Medium
+230612 [NTC] Enemy turn _ Enemy turn VFX_Orange_Large
+230615 [NTC] Enemy turn_Enemy turn VFX_Gold_Small
+230616 [NTC] Enemy turn _ Enemy turn VFX_Gold_Medium
+230617 [NTC] Enemy turn _ Enemy turn VFX_Kanazawa_Large
+3107010 [NTC] Shura Samurai_Poison Enchantment
+3107011 [NTC] Shura Samurai_Flame Enchantment
+3107020 [NTC] Shura Samurai_Poison Drool
+3107022 [NTC] Shura Samurai_Flame Drool
+3108020 [NTC] Seven-faced Warrior_ワープ中 Transparency
+3108030 [NTC] Seven-sided warrior_spirit body SFX
+3109000 [NTC] Dog _ drool
+3112000 [NTC] Handmaiden Aunt_Light Resident SFX
+3122040 [NTC] Temple Zako_Attack Strengthening
+3122050 [NTC] Temple Zako_Defense Strengthening
+3130000 [NTC] Japanese-style Innsmouth_Rejuvenation
+3130010 【NTC】和风インスマス_flute_normally played
+3130011 【NTC】和风インスマス_flute_normally played
+3130020 [NTC] Japanese style Innsmouth_whistle_animation suction
+3130050 [NTC] Japanese-style Innsmouth_Suction
+3130100 [NTC] Japanese-style Innsmouth_scale shop clerk_pot mist
+3134000 [NTC] Neckless_Blindfold SFX for Warp
+3135000 [NTC] Neckless_Miasma
+3135001 [NTC] Neckless_Grief Enchantment
+3135010 [NTC] Neckless_Fade out
+3135011 [NTC] Neckless_Transparency
+3135040 [NTC] Neckless_Material overwrite (miasma)
+3137000 [NTC] Fire cow_log right_resident SFX
+3137001 [NTC] Fire cow_log left_resident SFX
+3138000 [NTC] Innsmouth Fire Cow_Log Right_Resident SFX
+3138001 [NTC] Innsmouth Fire Cow_Log Left_Resident SFX
+3145000 [NTC] Nightjars_Weapon Ignition Encha_Right Hand
+3145001 [NTC] Nightjars_Weapon Ignition Encha_Left Hand
+3147120 [NTC] Kokageshu_Attack Strengthening
+3150000 [NTC] Villager Zombie_Firefly Basket Resident SFX
+3151000 [NTC] Villager Zombie (Butterfly Summon Version) _Transparency when guided bullets change
+3155000 [NTC] Bandit_Torches resident SFX
+3155010 [NTC] Bandit_Hidden state
+3500000 [NTC] Broken Ring Monk_Transparency of Magic Magic
+3500500 [NTC] The illusion of a priest _ transparent during non-combat
+3501000 [NTC] Large Snake_Sigh Resident SFX
+3501001 [NTC] Large snake litter hiding _ Shinobi killing reception marker display
+3501002 [NTC] Large Snake Falling Shinobi _ Shinobi Killing Reception Marker Display
+3501003 [NTC] Large Snake Falling Ninja Pursuit_Ninja Reception Marker Display
+3501004 [NTC] Hidden when the large snake is first generated
+3501020 [NTC] Large Snake_QTE Test
+3501080 [NTC] Large Snake_Shinobi Scratch Scroll Display
+3505000 [NTC] Koi_ Permanent Bubble SFX
+3506000 [NTC] Ninja Army Chief_Warp Medium Transparency
+3506010 [NTC] Chief of Ninja Army_SFX at the time of transparency
+3507000 [NTC] Chief Owl_Spiritual Expression Resident SFX
+3510500 [NTC] Yasha Ape _ Resident _ Blood drips from the neck
+3510510 [NTC] Yasha Ape _ Moment _ Mad Roar hits
+3510520 [NTC] Yasha Ape_Resident_Transparency
+3510530 [NTC] Yasha Ape_Particle_Right hand
+3510531 [NTC] Yasha Ape_Particle_Left Hand
+3510532 [NTC] Yasha Ape_Particle_Chest
+3510533 [NTC] Yasha Ape_Particle_Right foot
+3510534 [NTC] Yasha Ape_Particle_Left foot
+3510540 [NTC] Yasha Ape_Death Explosion
+3520000 [NTC] Mermaid Dragon_Storm Enchantment
+3520020 [NTC] Mermaid Dragon_Thunder Return Timing FE (Tentative)
+3520040 [NTC] Mermaid Dragon_Storm SFX around the base
+3520070 [NTC] Mermaid Dragon_Sakura Flowering_Withered
+3520071 [NTC] Mermaid Dragon_Sakura Flowering_Full Bloom
+3530000 [NTC] Okiryu_withered expression
+3531100 [NTC] Tentacle_withered expression
+3540000 [NTC] Revived Kensei_Spear disappears
+3700030 [NTC] Female player_Performance SE playback
+3700040 [NTC] Female Musician_Transparency
+3700041 [NTC] Female musicians_transparency_100%
+3700500 [NTC] Female Musician_Translucent
+3700501 [NTC] Female player_spirit effect
+3702000 [NTC] Buddhist priest (demon) _arm SFX_normal_820
+3702001 [NTC] Buddhist priest (demon) _arm SFX_normal_821
+3702002 [NTC] Buddhist priest (demon) _arm SFX_normal_20
+3702003 [NTC] Buddhist priest (demon) _arm SFX_strong_820
+3702004 [NTC] Buddhist priest (demon) _arm SFX_strong_821
+3702005 [NTC] Buddhist priest (demon) _arm SFX_strong_20
+3702010 [NTC] Buddhist priest (demon) _HU2_ arm
+3702011 [NTC] Buddhist priest (demon) _HU2_ body hair
+3702100 [NTC] Demon Buddha
+3702101 [NTC] Demon Buddha_Backlight
+3702060 [NTC] Buddhist priest (demon) _ self-light source
+3720000 【NTC】Prince_Inducing Phantom
+3720010 [NTC] Completely hidden
+3720020 [NTC] White eyes for events
+3720030 [NTC] Prince_Self SFX

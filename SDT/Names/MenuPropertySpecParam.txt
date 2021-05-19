@@ -1,0 +1,190 @@
+0 ----
+100 [Common to items] Name
+101 [Common to items] Description
+102 [Common to all items]
+103 [Common to items] Weight
+110 [Common to items] Number of possessions
+111 [Common to items] Number of possessions_maximum value
+112 [Common to items] Number of warehouses
+113 [Common to items] Number of warehouse possessions_maximum value
+120 [Common to all items] Required soul
+121 [Common to all items] Obtained soul
+200 [Tool] Consumption type when using
+201 [Tool] Ability correction Muscle strength
+202 [Tool] Ability correction skill
+203 [Tool] Ability correction physics
+204 [Tool] Ability correction Faith
+300 [Weapon] Weapon type
+301 [Weapon] Attack attribute
+302 [Weapon] Maneuver name
+310 [Weapon] Attack power: Physical
+311 [Weapon] Attack power: Magic
+312 [Weapon] Attack power: Flame
+313 [Weapon] Attack power: Lightning
+314 [Weapon] Attack power: Darkness
+315 [Weapon] Additional attack power: Physical
+316 [Weapon] Additional attack power: Magic
+317 [Weapon] Additional attack power: Flame
+318 [Weapon] Additional attack power: Lightning
+319 [Weapon] Additional attack power: Darkness
+320 【Weapon】Range distance
+321 【Weapon】Magic power correction
+322 [Weapon] Deadly
+330 [Weapon] Special effect: Poison
+331 [Weapon] Special effect: bleeding
+332 [Weapon] Special effect: Holy
+333 [Weapon] Special effect: Cult
+334 [Weapon] Special effect: Cold air
+340 [Weapon] Damage cut rate: Physical
+341 [Weapon] Damage cut rate: Magic
+342 [Weapon] Damage cut rate: Flame
+343 [Weapon] Damage cut rate: Lightning
+344 [Weapon] Damage cut rate: Darkness
+345 [Weapon] Additional damage cut rate: Physical
+346 [Weapon] Additional damage cut rate: Magic
+347 [Weapon] Additional damage cut rate: Flame
+348 [Weapon] Additional damage cut rate: Lightning
+349 [Weapon] Additional damage cut rate: Darkness
+350 [Weapon] Receiving ability
+351 [Weapon] Additional receiving ability
+360 [Weapon] Required ability value: Muscle strength
+361 [Weapon] Required ability value: Skill
+362 [Weapon] Required ability value: Reason
+363 [Weapon] Required ability value: Faith
+365 [Weapon] Ability release status value: Strength
+366 [Weapon] Ability release status value: Skill
+367 [Weapon] Ability release status value: Power
+368 [Weapon] Ability release status value: Faith
+370 [Weapon] Ability correction: Muscle strength
+371 [Weapon] Ability correction: Skill
+372 [Weapon] Ability correction: Li Li
+373 [Weapon] Ability correction: Faith
+380 [Weapon] Durability current value
+381 [Weapon] Maximum durability
+390 [Weapon] Consumed Arts Points: L1
+391 [Weapons] Consumption MP: L2
+392 [Weapons] Consumption MP: R1
+393 [Weapon] Consumption MP: R2
+400 [Armor] Defense: Physical
+401 [Armor] Defense: Physical vs. Strike
+402 [Armor] Defense: Physical vs. Slash
+403 [Armor] Defensive power: Physical anti-piercing
+404 [Armor] Defense: Magic
+405 [Armor] Defense: Flame
+406 [Armor] Defense: Thunder
+410 [Armor] Toughness
+411 [Armor] Resistance: Poison
+412 [Armor] Resistance: bleeding
+413 [Armor] Resistance: Curse
+414 [Armor] Resistance: Cold air
+415 【Armor】New toughness
+420 [Armor] Current durability
+421 [Armor] Maximum durability
+430 [Armor] Damage cut: Physical
+431 [Armor] Damage cut: Physical vs. blow
+432 [Armor] Damage cut: Physical anti-slash
+433 [Armor] Damage cut: Physical anti-piercing
+434 [Armor] Damage cut: Magic
+435 [Armor] Damage cut: Flame
+436 [Armor] Damage cut: Lightning
+437 [Armor] Damage cut: Darkness
+500 [Spell] Spell type
+501 [Spell] Attack attribute
+502 [Spell] Number of slots used
+503 [Spell] Number of uses
+504 [Spell] Required ability value Reason
+505 [Spell] Required ability value Faith
+520 [Spell] MP consumption
+600 [Arrow] Weapon type
+601 [Arrow] Attack attribute
+610 [Arrow] Attack power: Physical
+611 [Arrow] Attack power: Magic
+612 [Arrow] Attack power: Flame
+613 [Arrow] Attack power: Lightning
+614 【Vector】Fatal
+615 [Arrow] Attack power: Darkness
+620 [Arrow] Special effect: Poison
+621 [Arrow] Special effect: Bleeding
+622 [Arrow] Special effect: Holy
+623 [Arrow] Special effect: Evil
+624 [Arrow] Special effect: Cold air
+10000 [PC basics] Name
+10001 [PC Basic] Gender
+10002 [PC basics] Features
+10003 [PC basics] Gifts
+10004 [PC Basic] Body Type
+10005 [PC basics] Face
+10006 [PC basics] Hairstyle
+10007 [PC basics] Hair and eye color
+10008 [PC basics] Level
+10009 [PC basics] Possession soul
+10010 [PC basics] Required soul
+10011 [PC Basic] Pledge
+10012 [PC basics] Age group
+10013 【PC Basic】Death degree
+10100 [PC 1 time] Vitality
+10101 [PC 1 time] Endurance
+10102 [PC 1 time] Memory
+10103 [PC primary] Muscle strength
+10104 [PC primary] Skill
+10105 [PC 1 time] Physical strength
+10106 [PC 1 time] Li Li
+10107 [PC 1 time] Faith
+10108 [PC primary] Human nature
+10109 [PC 1 time] Fortune
+10200 [PC secondary] HP current value
+10201 [PC secondary] HP maximum value
+10202 [PC secondary] MP current value
+10203 [PC secondary] MP maximum value
+10204 [PC secondary] Stamina
+10205 [PC secondary] Equipment weight current value
+10206 [PC secondary] Maximum equipment weight
+10207 [PC secondary] Right weapon 1 Attack power
+10208 [PC secondary] Right weapon 2 Attack power
+10209 [PC secondary] Right weapon 3 Attack power
+10210 [PC secondary] Left weapon 1 Attack power
+10211 [PC secondary] Left weapon 2 Attack power
+10212 [PC secondary] Left weapon 3 Attack power
+10213 [PC 2 times] Defense: Physical
+10214 [PC secondary] Defensive power: Physical vs. blow
+10215 [PC secondary] Defense: Physical vs. slashing
+10216 [PC secondary] Defensive power: Physical anti-piercing
+10217 [PC 2 times] Defense: Magic
+10218 [PC 2 times] Defense: Inflammation
+10219 [PC 2 times] Defense: Thunder
+10220 [PC 2 times] Resistance: Poison
+10221 [PC 2 times] Tolerance: bleeding
+10222 [PC secondary] Resistance: Curse
+10223 [PC secondary] Toughness
+10224 [PC secondary] Number of storage slots
+10225 [PC secondary] Item discovery power
+10226 [PC secondary] Load ratio
+10227 [PC 2 times] New toughness
+10242 [PC secondary] Armor damage cut: Physical
+10243 [PC secondary] Armor damage cut: magic
+10244 [PC secondary] Armor damage cut: Flame
+10245 [PC secondary] Armor damage cut: lightning
+10258 [PC secondary] Defense: Darkness
+10259 [PC secondary] Armor damage cut: Physical vs. blow
+10260 [PC secondary] Armor damage cut: Physical anti-slash
+10261 [PC secondary] Armor damage cut: Physical anti-piercing
+10262 [PC secondary] Armor damage cut: darkness
+10263 [PC secondary] Tolerance: Cold air
+10264 [PC 2 times] Armor resistance: bleeding
+10265 [PC 2 times] Armor resistance: Poison
+10266 [PC secondary] Armor resistance: Cold air
+10267 [PC secondary] Armor resistance: Curse
+10270 [PC secondary] Arts point: Current muscle strength
+10271 [PC secondary] Arts point: Skill current value
+10272 [PC secondary] Arts point: Magic current value
+10273 [PC secondary] Arts point: Miracle current value
+10280 [PC secondary] Arts point: Maximum muscle strength
+10281 [PC secondary] Arts point: Maximum skill value
+10282 [PC secondary] Arts point: Magic maximum value
+10283 [PC secondary] Arts point: Miracle maximum value
+20300 [Sort] [Weapon] Attack power: Total
+20301 [Sort] [Weapon] Damage cut rate: Total
+20302 [Sort] [Weapon] By effect
+20400 [Sort] [Armor] Damage cut: Total
+20401 [Sort] [Armor] Resistance: Total
+20600 [Sort] [Arrow] Attack power: Total

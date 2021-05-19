@@ -1,0 +1,11 @@
+1 Wet
+2 Poisonous
+3 Oil wet
+4 Mud dirt
+5 Dust
+6 freeze
+7 Covered with wax
+8 Frostbite
+9 Very poisonous wet
+10 Iron body
+11 Wet underwater

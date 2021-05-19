@@ -1,0 +1,5 @@
+0 Nukire
+770000 [Proto] Hunter_head_new joint
+771000 [Proto] Hunter_body_new joint
+772000 [Proto] Hunter_arm_new joint
+773000 [Proto] Hunter_Leg_New joint

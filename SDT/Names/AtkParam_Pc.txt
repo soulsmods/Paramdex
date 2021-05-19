@@ -1,0 +1,405 @@
+0 Dummy bullet
+1 Dummy bullets_see per map_normal
+4 For destroying automatic patrol objects
+5 Dummy attack to keep bullets out
+6 For automatic patrol object destruction_for debug function verification
+10 Dummy bullet _ hits nothing
+101 [System] Attack magnification for menu display
+200 Contact impact_in-game start
+210 Contact impact_weak_upper and lower wrap
+211 Contact impact_weak_origin wrap
+220 Contact impact_medium_upper and lower wrap
+221 Contact impact_medium_origin wrap
+222 Contact impact_middle_below origin
+280 Foot for SFX / right foot
+281 Foot for SFX / left foot
+285 Hand for SFX / right hand
+286 Hand for SFX / left hand
+290 Anti-spirit force
+295 Depression Force_Parent
+296 Depression Force_Child
+300 Ninjutsu Ninjutsu_Blood Smoke_Common_Enemy Reaction Regeneration
+301 Ninjutsu Ninjutsu_Blood Smoke_Common_Blind Special Effects
+360 Ninjutsu Ninjutsu_Blood Smoke_Radiation_Enemy Reaction Regeneration
+361 Ninjutsu Ninjutsu_Blood Smoke_Radiation_Blind Special Effects
+400 Ninja Ninjutsu_Puppet_Usually
+410 Ninjutsu Ninjutsu_Puppet_Normal_Infinite duration
+600 Shinobi killing start_break
+640 Shinobi killing start_behind
+650 Shinobi killing start_ crouching behind
+660 Shinobi killing start_fall
+680 Shinobi killing start_breaking wire
+690 Shinobi killing start_anti-aircraft
+700 Shinobi killing start_wall left
+710 Shinobi killing start_walled right
+720 Shinobi killing start_ hanging
+740 Shinobi killing start_breaking kick jump
+800 Shinobi slaughter start _ stop _ priest
+801 Shinobi killing start _ stop _ chief of the ninja army
+803 Shinobi killing start _ stop _ Yasha monkey
+804 Shinobi killing start _ stop _ rival
+805 Shinobi killing start _ stop _ butterfly
+806 Shinobi killing start _ stop _ sword sacred
+807 Shinobi killing start _ stop _ Buddhist demon
+840 Shinobi shock _ short distance _ on the spot
+841 Shinobi shock _ short distance _ jump away
+842 Shinobi shock _ long distance _ on the spot
+843 Shinobi shock _ long distance _ jump away
+844 Resurrection Technique_Boss Sensing Dummy Attack
+900 Kick
+901 Kick_in the air
+903 Kick_dash
+3500 Pottery
+3511 Grip ash
+3520 Youyi
+3530 Release illusion_Phantom drowning bullet
+3531 Unillusionary _ Short Range Surprise Bullet
+9900 DL confirmation 00_ None
+9901 DL confirmation 01_small
+9902 DL confirmation 02_in
+9903 DL confirmation 03_large
+9904 DL confirmation 04_ Blow-off size
+9905 DL confirmation 05_ press
+9906 DL confirmation 06_ slamming
+9907 DL confirmation 07_Blow-off small (PC kick only)
+9908 DL confirmation 08_minimal addition
+9909 DL confirmation 09_ lift up
+9910 DL confirmation 10_ Blow-off oversized
+9911 DL confirmation 11_ breath (unused)
+9915 DL confirmation 15_break
+9920 DL Confirmation 20_ Inflammation
+9930 AI sound confirmation_normal sound
+9931 AI sound confirmation_important sound
+10000 Prototype provisional support: Special SFX control bullets when moving / mud dirt decals / walking_right foot
+10001 Prototype provisional support: Special SFX control bullets when moving / mud dirt decals / walking_left foot
+10004 Prototype provisional support: Special SFX control bullets when moving / mud dirt decals / running_right foot
+10005 Prototype provisional support: Special SFX control bullets when moving / mud dirt decals / running_left foot
+10006 Prototype provisional support: Special SFX control bullets when moving / mud dirt decals / rolling _ chest
+10008 Prototype provisional support: Special SFX control bullet when moving / mud dirt decal / dash_right foot
+10009 Prototype provisional support: Special SFX control bullet when moving / mud dirt decal / dash_left foot
+10010 Bleeding when moving violently when dying
+5000000 Right-handed sword_reservoir 1
+5000001 Right-handed sword_reservoir 2
+5000006 Right hand sword_reservoir 2_reverse foot
+5000010 Right hand sword_attack 1
+5000011 Right hand sword_attack 2
+5000012 Right hand sword_attack 3
+5000013 Right hand sword_attack 4
+5000014 Right hand sword_attack 5
+5000016 Right hand sword_attack 2_reverse foot
+5000020 Right hand sword _ Small jasuga received and then accumulated stab _ Left
+5000021 Right hand sword_Small jasuga received and then accumulated thrust_Right
+5000025 Right hand sword _ Middle jasuga receiver / After step stab _ Left
+5000026 Right hand sword _ Middle jasuga receiving / After step stab _ Right
+5000030 Right hand sword _ Attack after receiving small jasuga _ Left
+5000031 Right hand sword _ Attack after receiving small jasuga _ Right
+5000035 Right hand sword _ Middle jasuga receiving / Attack after step_ Left
+5000036 Right hand sword_Medium Jasuga receiving / Attack after step_Right
+5000040 Right hand sword _ guard / jasuga is played and then accumulated stab _ right
+5000041 Right-handed sword_guard / Jasuga is played
+5000050 Right hand sword_guard / Jasuga attack after being hit_right
+5000051 Right hand sword_guard / Jasuga attack after being hit_left
+5000060 Right hand sword_Aerial attack 1
+5000061 Right hand sword_Aerial attack 2
+5000062 Right hand sword_Aerial attack 3
+5000065 Right hand sword_wire attack 1
+5000066 Right hand sword_wire attack 2
+5000070 Right hand sword_dash attack
+5000075 Right hand sword_ crouching attack
+5000076 Right hand sword_Crouching attack_Underfloor
+5000080 Right hand sword _ hanging attack
+5000085 Right hand sword_aging attack
+5000090 Right hand sword_guard
+5000100 Shuriken_Chasing Slash
+5000105 Firecracker _ slip-through slash
+5000110 Ignition_Flame Matoi Slash
+5000115 Ax _ front slash _ sword
+5000120 Transformation_ground appearance attack
+5000121 Transformation_Aerial Appearance Attack
+5000131 Kodachi_Table 2nd stage_Right hand sword
+5000133 Kodachi _ Table 4th _ Right hand sword
+5000135 Kodachi _ Table 6th _ Right hand sword
+5000140 Kodachi_back 1st stage_right hand sword
+5000141 Kodachi _ back 2nd stage _ right hand sword
+5000142 Kodachi_back 3rd stage_right hand sword
+5000143 Kodachi_back 4th stage_right hand sword
+5000144 Kodachi_back 5th stage_right hand sword
+5000145 Kodachi_back 6th stage_right hand sword
+5000150 Kodachi _ front and back switching slash _ front and back left
+5000151 Kodachi _ front and back switching slash _ right
+5000155 Iron fan_Slashing _Normal
+5000156 Iron fan _ release slash _ anti-flame
+5000157 Iron fan_Slashing _ Anti-spirit
+5000160 Enemy turning LV1 / 2_ Wind sword
+5000161 Enemy turning LV3_ Wind slashing
+5000165 Spear_Chasing Slash
+5000166 Spear_Pulling Slash
+5000170 Finger whistle_sound feed slash
+5000180 Right Hand Sword_Red Blood Enchantment Additional Attack
+5000181 Right-handed sword_poison blood enchantment additional attack
+5000182 Right-handed sword_white blood enchantment additional attack
+5000183 Right-handed sword_Weak thunder enchantment additional attack
+5000184 Right-handed sword_strong thunder enchantment additional bullet
+5000185 Right-handed sword_Orange-style enchantment additional attack
+5000186 Right-handed sword_Kinfu enchantment additional attack
+5000190 Right hand sword_red blood enchantment additional bullet (thrust)
+5000191 Right hand sword_poison blood enchantment additional bullet (thrust)
+5000192 Right hand sword_white blood enchantment additional bullet (thrust)
+5000193 Right-handed sword_Weak thunder enchantment additional bullet (thrust)
+5000280 Right hand sword _ thunder return _ weak thunder _ blade
+5000281 Right hand sword _ lightning return _ lightning _ lightning
+5000600 Right-handed sword_Ninjato body_Crush
+5000610 Right-handed sword_Ninjato body_Playing
+5000620 Right hand sword _ Ninjato body _ Closeout
+5000640 Right-handed sword _ Ninja body _ behind
+5000650 Right hand sword_Ninjato body_Crouching behind
+5000660 Right Hand Sword_Ninja Body_Fall
+5000680 Right hand sword _ Ninja body _ Wire
+5000690 Right hand sword _ Ninja body _ Anti-aircraft
+5000700 Right hand sword _ Ninja body _ Left and right with wall
+5000720 Right hand sword _ Ninja body _ Before and after hanging
+5000800 Right hand sword _ Ninja body _ Stop
+5000790 Right-handed sword_Ninjato body_Dummy attack that causes the enemy to send Kanji SFX_Blood smoke
+5000791 Right-handed sword_Ninjato body_Dummy attack that causes the enemy to send Kanji SFX_Puppet
+5000792 Right-handed sword_Ninjato body_Dummy attack that causes the enemy to send Kanji SFX_Grant
+5001200 School Technique_Rotating Slash 1-1
+5001201 School Technique_Rotating Slash 1-2
+5002200 School Technique_Dive Slash 1
+5002201 School Technique_Dive Slash 2
+5003200 School technique_face-up 1_reservoir
+5003201 School technique_face-up 1
+5003210 School Technique_Face 2
+5004200 School technique _ Kensei Iai _ Reservoir
+5004210 School Technique_Sword Holy Iai_Reserved Bullet 1
+5004215 School Technique_Sword Holy Iai_Reserved Bullet 2
+5004220 School technique_Kensei Iai
+5004230 School Technique_Sword Holy Iai_Bullet
+5005200 School technique_Iai 1
+5005201 School technique_Iai 2
+5005210 School technique_Invisible Iai continuous attack 1
+5005211 School technique_Invisible Iai continuous attack 2
+5005220 School technique_Invisible Iai continuous attack_Delayed continuous attack 1
+5005221 School technique_Invisible Iai continuous attack_Delayed continuous attack 2
+5005222 School technique_Invisible Iai continuous attack_Delayed continuous attack 3
+5005223 School technique_Invisible Iai continuous attack_Delayed continuous attack 4
+5005180 School technique_Invisible Iai continuous attack_Red blood enchantment additional attack
+5005181 School technique_Invisible Iai continuous attack_Poison blood enchantment additional attack
+5005182 School technique_Invisible Iai continuous attack_White blood enchantment additional attack
+5005183 School technique_Invisible Iai continuous attack_Weak thunder enchantment additional attack
+5005185 School technique_Invisible Iai continuous attack_Orange wind enchantment additional attack
+5005186 School technique_Invisible Iai continuous attack_Kinfu enchantment additional attack
+5006200 School Technique_Hachiman Flying Rush 1
+5006201 School Technique_Hachiman Flying Rush 2
+5006202 School Technique_Hachiman Flying Rush 3
+5006203 School Technique_Hachiman Flying Rush 4
+5006204 School Technique_Hachiman Flying Rush 5
+5006205 School Technique_Hachiman Flying Rush 6
+5006206 School Technique_Hachiman Flying Rush 7
+5006207 School Technique_Hachiman Flying Rush 8
+5006208 School Technique_Hachiman Flying Rush 9F
+5006209 School Technique_Hachiman Flying Rush 3F
+5006220 School technique_Hachiman flying rush 1_There is a form fee
+5006221 School technique_Hachimanbuki Rush 2_There is a form fee
+5006222 School technique_Hachiman flying rush 3_There is a form fee
+5006223 School technique_Hachiman flying rush 4_There is a form fee
+5006224 School technique_Hachiman flying rush 5_There is a form fee
+5006225 School technique_Hachimanbuki Rush 6_There is a form fee
+5006226 School technique_Hachiman flying rush 7_There is a form fee
+5006227 School technique_Hachiman flying rush 8_There is a form fee
+5006228 School technique_Hachiman Flying Rush 9F_There is a form fee
+5006229 School technique_Hachimanju Rush 3F_There is a form fee
+5007200 School Technique_Immortal Slash 1_Reservoir
+5007201 School Technique_Immortal Slash 1
+5007210 School Technique_Immortal Slash 2_Reservoir
+5007211 School Technique_Immortal Slash 2
+5007220 School technique_Immortal slash 1_Reservoir_There is a form fee
+5007221 School technique_Immortal slash 1_There is a form fee
+5007230 School technique_Immortal slash 2_Reservoir_There is a form fee
+5007231 School technique_Immortal slash 2_There is a form fee
+5008200 School Technique_Kick Rush 1-1
+5008201 School Technique_Kick Rush 1-2
+5008210 School Technique_Kick Rush 2-1
+5008211 School Technique_Kick Rush 2-2
+5008220 School Technique_Kick Rush 3-1
+5008221 School Technique_Kick Rush 3-2
+5008230 School Technique_Kick Rush 4
+5009200 School Technique_Fist Attack 1_Accumulation
+5009201 Genre Skills_Fist Fight 1
+5009210 Genre Skills_Fist Fight 2
+5009220 Genre Skills_Fist Fight 3
+5009251 School Technique_Fist Attack 1_Aerial
+5010200 School technique _ sneak stab _ reservoir
+5010210 School technique_Sneak stab
+5010215 School technique_Sneak stab_Kick up after hit
+5010220 School technique_Sneak stab_After kicking up, aerial rotation slash 1
+5010221 School technique_Sneak stab_After kicking up, aerial rotation slash 2
+7000100 Shuriken_Reservoir 1/3 Throw_1Hit
+7000102 Shuriken_Reservoir 1/3 Throw_2Hit
+7000104 Shuriken _ Reservoir 1/3 Throw _ 3 Hit
+7000110 Shuriken_2nd throw
+7000112 Shuriken_Pump 2nd throw_2Hit
+7000114 Shuriken _ 2nd throw _ 3 Hit
+7000150 Shuriken_1 / 3rd pitch
+7000160 Shuriken_2 pitch
+7002100 Shuriken LV3-A_ Reservoir 1/3 Throw _1 Hit
+7002102 Shuriken LV3-A_ Reservoir 1/3 Throw _2 Hit
+7002104 Shuriken LV3-A_Reservoir 1/3 Throw_3 Hit
+7002110 Shuriken LV3-A_ 2nd throw
+7002112 Shuriken LV3-A_ Reservoir 2nd Throw_2Hit
+7002114 Shuriken LV3-A_Reservoir 2nd throw_3Hit
+7002150 Shuriken LV3-A_1 / 3 throw
+7002160 Shuriken LV3-A_2 Pitcher
+7003100 Shuriken LV3-B_1 / 3 throw
+7003110 Shuriken LV3-B_2 pitch
+7003120 Shuriken LV3-B_guided bullet_reservoir
+7003130 Shuriken LV3-B_ Guided Bullet
+7004100 Shuriken LV3-C_Reservoir 1/3 Throw_LV1
+7004101 Shuriken LV3-C_Reservoir 1/3 Throw_LV2
+7004102 Shuriken LV3-C_Reservoir 1/3 Throw_LV3
+7004110 Shuriken LV3-C_Pump 2nd throw_LV1
+7004111 Shuriken LV3-C_2nd throw _LV2
+7004112 Shuriken LV3-C_2nd throw _LV3
+7004150 Shuriken LV3-C_1 / 3 Throw _LV1
+7004151 Shuriken LV3-C_1 / 3 Throw _LV2
+7004152 Shuriken LV3-C_1 / 3 Throw _LV3
+7004160 Shuriken LV3-C_2 Pitcher_LV1
+7004161 Shuriken LV3-C_2 Pitcher_LV2
+7004162 Shuriken LV3-C_2 Pitcher_LV3
+7005100 Shuriken LV4_ Reservoir 1/3 Throw _1 Hit
+7005102 Shuriken LV4_ Reservoir 1/3 Throw_2Hit
+7005104 Shuriken LV4_Reservoir 1/3 Throw_3 Hit
+7005110 Shuriken LV4_ 2nd throw
+7005112 Shuriken LV4_ Reservoir 2nd Throw_2Hit
+7005114 Shuriken LV4_Reservoir 2nd throw_3Hit
+7005150 Shuriken LV4_1 / 3 throw
+7005160 Shuriken LV4_2
+7100100 Firecracker_dummy bullet_do not hit the enemy
+7100101 Firecracker _ Dummy bullet _ Do not hit the enemy _ See per map _ Normal
+7100103 Firecrackers_other than animals
+7100104 Firecracker_animal frightening
+7200100 Ignition_Pump shot 1
+7200101 Ignition_Pump shot 2
+7200110 Ignition_normal shooting
+7200120 Ignition_Aerial shooting
+7200130 Ignition_flamethrower_start
+7200131 Ignition_flamethrower_loop
+7203100 Ignition LV4_Pump shot 1
+7203101 Ignition LV4_Pump shot 2
+7203110 Ignition LV4_normal shooting
+7203120 Ignition LV4_Aerial shooting
+7203130 Ignition LV4_flamethrower_start
+7203131 Ignition LV4_flamethrower_loop
+7300100 Ax_Pump Attack 1
+7300101 Ax_Pump Attack 2 / Single Attack
+7300110 Ax _ front slash _ ax
+7300120 Ax_Aerial attack
+7300121 Ax_Aerial Attack_Loop / Landing
+7302100 Ax LV3_ Reservoir Attack 1
+7302101 Ax LV3_ Accumulation Attack 2 / Single Attack
+7302110 Ax LV3_Front Slasher_Ax
+7302120 Ax LV3_ aerial attack
+7302121 Ax LV3_Aerial Attack_Loop / Landing
+7302130 Ax LV3_ shock wave
+7303100 Ax LV4_ Reservoir Attack 1
+7303101 Ax LV4_ Accumulation Attack 2 / Single Attack
+7303110 Ax LV4_Front Slasher_Ax
+7303120 Ax LV4_ aerial attack
+7303121 Ax LV4_Aerial Attack_Loop / Landing
+7303140 Ax LV4_Shockwave_Phantom Eraser
+7402100 Transformation LV3_ activation impact
+7500100 Kodachi_Table 1st stage_Left hand sword
+7500102 Kodachi _ Table 3rd _ Left hand sword
+7500104 Kodachi _ Table 5th _ Left hand sword
+7500105 Kodachi _ Table 6th _ Left hand sword
+7500110 Kodachi _ back 1st stage _ left hand sword
+7500111 Kodachi _ back 2nd stage _ left hand sword
+7500112 Kodachi _ back 3rd stage _ left hand sword
+7500113 Kodachi_back 4th stage_left hand sword
+7500114 Kodachi_back 5th stage_left hand sword
+7500115 Kodachi_back 6th stage_left hand sword
+7500140 Kodachi_Aerial 1_Left-handed sword
+7500141 Kodachi_Aerial 2_Left-handed sword
+7502100 Kodachi LV3-A_Table 1st stage_Left hand sword
+7502102 Kodachi LV3-A_Table 3rd stage_Left hand sword
+7502104 Kodachi LV3-A_Table 5th stage_Left hand sword
+7502105 Kodachi LV3-A_Table 6th row_Left hand sword
+7502110 Kodachi LV3-A_back 1st stage_left hand sword
+7502111 Kodachi LV3-A_back 2nd stage_left hand sword
+7502112 Kodachi LV3-A_back 3rd stage_left hand sword
+7502113 Kodachi LV3-A_back 4th stage_left hand sword
+7502114 Kodachi LV3-A_back 5th stage_left hand sword
+7502115 Kodachi LV3-A_Back 6th stage_Left hand sword
+7502140 Kodachi LV3-A_Aerial 1_Left Hand Sword
+7502141 Kodachi LV3-A_Aerial 2_Left Hand Sword
+7503100 Kodachi LV3-B_Table 1st stage_Left hand sword
+7503102 Kodachi LV3-B_Table 3rd stage_Left hand sword
+7503104 Kodachi LV3-B_Table 5th stage_Left hand sword
+7503105 Kodachi LV3-B_Table 6th row_Left hand sword
+7503110 Kodachi LV3-B_Back 1st stage_Left hand sword
+7503111 Kodachi LV3-B_Back 2nd stage_Left hand sword
+7503112 Kodachi LV3-B_back 3rd stage_left hand sword
+7503113 Kodachi LV3-B_back 4th stage_left hand sword
+7503114 Kodachi LV3-B_back 5th stage_left hand sword
+7503115 Kodachi LV3-B_Back 6th stage_Left hand sword
+7503140 Kodachi LV3-B_Aerial 1_Left Hand Sword
+7503141 Kodachi LV3-B_Aerial 2_Left Hand Sword
+7503150 Kodachi LV3-B_Poisonous Mist
+7600100 Iron fan_guard
+7600110 Iron fan _ Unleashed slash _ Iron fan _ Normal
+7600111 Iron fan _ Unleashed slash _ Iron fan _ Anti-flame
+7600112 Iron fan _ Unleashed slash _ Iron fan _ Anti-spirit
+7600200 Iron fan _ Unleashed slash _ Iron fan bullet LV1
+7600210 Iron fan _ Unleashed slash _ Iron fan bullet LV2
+7600220 Iron fan _ Unleashed slash _ Iron fan bullet LV3
+7700100 Enemy turning _ wind release
+7701100 Enemy turning LV2_ wind release
+7702100 Enemy turning LV3_ wind release
+7800100 Spear_Pump Charge 1
+7800101 Spear_Pump Charge 2
+7800105 Spear _ Accumulation Charge 3 / Single Thrust _ Tip
+7800106 Spear_Pump Charge 3 / Single Charge_Intermediate
+7800107 Spear_Pump Charge 3 / Single Charge_Root
+7800110 Spear_Attract 1
+7800115 Spear_pull 2_tip
+7800116 Spear_Attract 2_Intermediate
+7800117 Spear_Attract 2_Root
+7802100 Spear LV2-B_ Reservoir _ Tip
+7802101 Spear LV2-B_Reservoir _Intermediate
+7802102 Spear LV2-B_ Reservoir _ Root
+7802105 Spear LV2-B_single thrust_tip
+7802106 Spear LV2-B_single thrust_intermediate
+7802107 Spear LV2-B_single thrust_root
+7802110 Spear LV2-B_Attract 1
+7802115 Spear LV2-B_Pulling 2_Tip
+7802116 Spear LV2-B_Attract 2_Intermediate
+7802117 Spear LV2-B_Attract 2_Root
+7803100 Spear LV3-A_ Reservoir Charge 1
+7803101 Spear LV3-A_ Reservoir Charge 2
+7803105 Spear LV3-A_Pump Charge 3 / Single Charge_Tip
+7803106 Spear LV3-A_Pump Charge 3 / Single Charge_Intermediate
+7803107 Spear LV3-A_Pump Charge 3 / Single Charge_Root
+7803110 Spear LV3-A_Attract 1
+7803115 Spear LV3-A_Attract 2_ Tip
+7803116 Spear LV3-A_Attract 2_Intermediate
+7803117 Spear LV3-A_Attract 2_Root
+7804100 Spear LV3-B-B_ Reservoir _ Tip
+7804101 Spear LV3-B-B_Pump-up _Intermediate
+7804102 Spear LV3-B-B_ Reservoir _ Root
+7804105 Spear LV3-B-B_single thrust_tip
+7804106 Spear LV3-B-B_single thrust_intermediate
+7804107 Spear LV3-B-B_single thrust_root
+7804110 Spear LV3-B-B_Attract 1
+7804115 Spear LV3-B-B_Pulling 2_Tip
+7804116 Spear LV3-B-B_Attract 2_Intermediate
+7804117 Spear LV3-B-B_Attract 2_Root
+7900100 Finger whistle_no lock_AI sound
+9500000 When the wire is stabbed
+9500001 When the wire_pulls
+50100000 Test Shinobi 1 Grab
+50100010 Test Shinobi 2 Grab
+50200000 Test Shinobi 1 Grab
+50200010 Test Shinobi 2 Grab
+50300000 Test Shinobi 1 Grab
+50300010 Test Shinobi 2 Grab
+50400000 Test Shinobi 1 Grab
+50400010 Test Shinobi 2 Grab

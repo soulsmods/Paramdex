@@ -1,0 +1,20 @@
+0 test
+1 Test 1
+1000800 Butterflies
+1000900 Ninja Army Chief_Head
+1100800 Horse-riding warrior
+1100900 Buddhist demon
+1110801 Second rival
+1110850 Ninja Army Chief_Coward
+1110900 Daughter of Isei
+1110920 Sword of the sickbed
+1120800 Rival first time
+1120830 3rd rival
+1120860 Revived Kensei
+1500800 Brokers_Phantom
+1700800 Yasha Ape
+1700850 Yasha Ape_Neckless
+2000800 Juvenile ape
+2500800 Mermaid dragon
+2500840 Okiryu_Large
+2500850 Broker

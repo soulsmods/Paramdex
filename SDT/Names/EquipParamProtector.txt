@@ -1,0 +1,19 @@
+0 Mysterious boushi
+100000 Protagonist _ head
+101000 Protagonist _ body
+102000 Protagonist_arm_prosthesis
+103000 Protagonist_foot
+112000 Protagonist _ arm _ raw
+122000 Protagonist_arm_deficiency
+131000 Protagonist _ body _ with sword without immortal slash
+141000 Protagonist _ body _ no sword no immortal sword
+153000 Protagonist _ legs _ barefoot
+162000 Protagonist_arm_prosthesis_high resolution
+200000 Protagonist_head_Busshi
+201000 Protagonist_body_Busshi
+202000 Protagonist_arm_Busshi
+203000 Protagonist_Legs_Busshi
+901000 Always dying_body
+901100 Always Jasuga_body
+901200 Underwater cross confirmation_body
+901300 HP8_carcass

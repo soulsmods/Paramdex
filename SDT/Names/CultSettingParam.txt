@@ -1,0 +1,24 @@
+0 Default
+10 test
+100 for test
+101 Ritual test: optional
+102 Ritual test: Level up
+103 Ritual test: Reassign status
+104 Ritual test: reset the deceased
+105 Ritual test: Atonement
+106 Ritual test: Summon NPC White Spirit
+107 Ritual test: boss
+108 Ritual test: No intrusion
+109 Ritual test: Random A
+110000 Soldier of the Dead
+121000 blue
+124000 The poor
+128000 New Royal Castle Knight
+134000 Wax dead
+135000 Slave spirit
+137000 Dead Man B
+139000 Snakeman assassin
+141000 Silver knight
+144000 Patrol the dead
+223000 New jailer
+317000 Dark Race

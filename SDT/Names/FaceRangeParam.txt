@@ -1,0 +1,2 @@
+1 Minimum range
+2 Maximum range

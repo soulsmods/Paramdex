@@ -1,0 +1,124 @@
+0 R1 attack, R1 attack combo
+1 Bow + magic reservoir
+2 R2 attack, R2 attack combo
+3 Bow + magic reservoir
+4 L1 attack, L1 attack combo
+6 Bow + magic reservoir
+7 Parry, Arts: Ax
+8 Arts: Ready
+9 Reserve
+10 kick
+11 Jump attack
+12 One-handed / two-handed switching
+13 Use the item
+14 Reserve
+15 backstep
+16 Left weapon switching
+17 Right weapon switching
+18 Move ↑
+19 Move ↑←
+20 Move ↑→
+21 Move ←
+22 Move →
+23 Move ↓
+24 Move↓←
+25 Move ↓→
+26 Guard movement ↑
+27 Guard movement ↑ ←
+28 Guard movement ↑ →
+29 Guard move ←
+30 Guard move →
+31 Guard move ↓
+32 Guard move ↓ ←
+33 Guard move ↓ →
+34 Dash move
+35 Guard dash move
+36 Rolling ↑
+37 Rolling ↑ ←
+38 Rolling ↑ →
+39 Rolling ←
+40 Rolling →
+41 Rolling ↓
+42 Rolling ↓ ←
+43 Rolling ↓ →
+48 Arts R1 attack
+49 Arts R2 attack
+50 Lockstep ↑
+51 Lockstep ↑ ←
+52 Lockstep ↑ →
+53 Lockstep ←
+54 Lockstep →
+55 Lockstep ↓
+56 Lockstep ↓ ←
+57 Lockstep ↓ →
+58 Move the arts ↑
+59 Move the arts ↑ ←
+60 Move the arts ↑ →
+61 Move the arts ←
+62 Move the arts stance →
+63 Move the arts ↓
+64 Move the arts ↓ ←
+65 Move the arts ↓ →
+66 Arts stance R1 attack ↑
+67 Arts stance R1 attack ↑ ←
+68 Arts stance R1 attack ↑ →
+69 Arts stance R1 attack ←
+70 Arts stance R1 attack →
+71 Arts stance R1 attack ↓
+72 Arts stance R1 attack ↓ ←
+73 Arts stance R1 attack ↓ →
+74 Arts stance R2 attack ↑
+75 Arts stance R2 attack ↑ ←
+76 Arts stance R2 attack ↑ →
+77 Arts stance R2 attack ←
+78 Arts stance R2 attack →
+79 Arts stance R2 attack ↓
+80 Arts stance R2 attack ↓ ←
+81 Arts stance R2 attack ↓ →
+82 Shield Chiku R1 Attack
+83 Shield Chiku R2 Attack (Spare)
+90 Ladder, up
+91 Ladder, down
+92 Left-handed weapon with both hands
+100 Gesture ID00
+101 Gesture ID01
+102 Gesture ID 02
+103 Gesture ID 03
+104 Gesture ID 04
+105 Gesture ID 05
+106 Gesture ID 06
+107 Gesture ID 07
+108 Gesture ID 08
+109 Gesture ID 09
+110 Gesture ID 10
+111 Gesture ID 11
+112 Gesture ID 12
+113 Gesture ID 13
+114 Gesture ID 14
+115 Gesture ID 15
+116 Gesture ID 16
+117 Gesture ID17
+118 Gesture ID 18
+119 Gesture ID 19
+120 Gesture ID 20
+121 Gesture ID21
+122 Gesture ID22
+123 Gesture ID23
+124 Gesture ID24
+125 Gesture ID 25
+126 Gesture ID 26
+127 Gesture ID 27
+128 Gesture ID 28
+129 Gesture ID 29
+130 Gesture ID30
+131 Gesture ID 31
+132 Gesture ID 32
+133 Gesture ID33
+134 Gesture ID34
+135 Gesture ID35
+136 Gesture ID 36
+137 Gesture ID37
+138 Gesture ID 38
+139 Gesture ID 39
+140 Gesture ID 40
+141 No input

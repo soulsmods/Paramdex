@@ -1,0 +1,300 @@
+1 gender
+2 Around the age
+3 sound
+4 ----- {Constitution
+5 Muscle mass
+6 Hair volume
+7 ｝-----
+8 Physique
+9 ----- {Details of physique
+10 head
+11 chest
+12 abdomen
+13 Wrist
+14 Feet
+15 ｝-----
+16 Face
+17 ----- {Details of face
+18 Similar face
+19 ----- {Characteristics
+20 Age image
+21 Gender image
+22 Exaggerated shape
+23 ｝-----
+24 ----- {Face shape
+25 ----- {Face balance
+26 Nose occupancy
+27 Nose to forehead ratio
+28 Unevenness of the face
+29 Top and bottom spacing of face parts
+30 Tilt of face parts
+31 Left and right spacing of face parts
+32 ｝-----
+33 -----{Forehead/between eyebrows
+34 Forehead depth
+35 Unevenness of the forehead
+36 Height of the upper part of the bridge of the nose
+37 Concavities and convexities above the bridge of the nose 1
+38 Unevenness on the upper part of the bridge of the nose 2
+39 Width of the upper part of the bridge of the nose
+40 ｝-----
+41 -----{Brow bone
+42 Eyebrow height
+43 Inner edge of the eyebrow
+44 Outer edge of the eyebrow
+45 ｝-----
+46 -----{eye
+47 Eye position
+48 Eye size
+49 Eye tilt
+50 Eye spacing
+51 ｝-----
+52 ----- {nose muscle
+53 Depth of the nose
+54 Nose length
+55 Nose position
+56 Nose height
+57 Unevenness of the nose
+58 Nose height
+59 Nose tilt
+60 ｝-----
+61 ----- {Nose
+62 Inclination of the nose
+63 Nose size
+64 Nose width
+65 Nostril size
+66 ｝-----
+67 -----{cheek
+68 Cheekbone height
+69 Cheekbone depth
+70 The size of the cheekbones
+71 Uneven cheeks
+72 cheek
+73 ｝-----
+74 -----{lip
+75 Lip shape
+76 Facial expression on the mouth
+77 Lip bulge
+78 Lip size
+79 Concavo-convex lips
+80 Lip thickness
+81 ｝-----
+82 -----{mouth
+83 Concavo-convex mouth
+84 Mouth tilt
+85 Engagement
+86 Mouth position
+87 Mouth width
+88 Distance from mouth to chin
+89 ｝-----
+90 -----{Lower jaw
+91 Before and after the tip of the chin
+92 Jaw length
+93 Chin protrusion
+94 Jaw depth
+95 Jaw size
+96 Jaw height
+97 Jaw size
+98 ｝-----
+99 ----- {Maxilla
+100 Jaw stick out
+101 Jaw width
+102 Lower chin
+103 Jaw contour
+104 ｝-----
+105 ｝-----
+106 ----- {Hair / Eyebrows / Beard / Eyelashes
+107 Hair / eyebrows / beard color
+108 hair
+109 Hair color
+110 eyebrow
+111 Eyebrow color
+112 beard
+113 beard
+114 Beard color
+115 eyelash
+116 Eyelash color
+117 ｝-----
+118 -----{pupil
+119 Both eyes
+120 Color of both eyes
+121 Right pupil
+122 Right eye color
+123 Left pupil
+124 Left eye color
+125 ｝-----
+126 -----{make up
+127 Brightness of the eyes
+128 Brightness of the orbit
+129 Eyelid brightness
+130 Eyelid color
+131 eyeliner
+132 Eye shadow
+133 Lipstick 1
+134 Lipstick 2
+135 ｝-----
+136 ----- {Tattoo / Bruise
+137 Tattoos / bruises
+138 Tattoo / bruise color
+139 ----- {Tattoo / Bruise Adjustment
+140 Position up and down
+141 Position left and right
+142 angle
+143 Expansion rate
+144 ｝-----
+145 ｝-----
+146 ｝-----
+147 Skin color base
+148 ----- {Details of skin color
+149 Skin brightness
+150 Skin color adjustment 1
+151 Skin color adjustment 2
+152 Skin color adjustment 3
+153 Skin color adjustment 4
+154 Nose bridge color
+155 Cheek color
+156 Law line
+157 ｝-----
+158 ----- {Details of face
+159 Similar face
+160 ----- {Characteristics
+161 Age image
+162 Gender image
+163 Exaggerated shape
+164 ｝-----
+165 ----- {Face shape
+166 ----- {Face balance
+167 Nose occupancy
+168 Nose to forehead ratio
+169 Unevenness of the face
+170 Top and bottom spacing of face parts
+171 Tilt of face parts
+172 Left and right spacing of face parts
+173 ｝-----
+174 -----{Forehead/between eyebrows
+175 Forehead depth
+176 Unevenness of the forehead
+177 Height of the upper part of the bridge of the nose
+178 Concavities and convexities above the bridge of the nose 1
+179 Unevenness on the upper part of the bridge of the nose 2
+180 Width of the upper part of the bridge of the nose
+181 ｝-----
+182 -----{Brow bone
+183 Eyebrow height
+184 Inner edge of the eyebrow
+185 Outer edge of the eyebrow
+186 ｝-----
+187 -----{eye
+188 Eye position
+189 Eye size
+190 Eye tilt
+191 Eye spacing
+192 ｝-----
+193 ----- {nose muscle
+194 Depth of the nose
+195 Nose length
+196 Nose position
+197 Nose height
+198 Unevenness of the nose
+199 Nose height
+200 Nose tilt
+201 ｝-----
+202 ----- {Nose
+203 Inclination of the nose
+204 Nose size
+205 Nose width
+206 Nostril size
+207 ｝-----
+208 -----{cheek
+209 Cheekbone height
+210 Cheekbone depth
+211 The size of the cheekbones
+212 Uneven cheeks
+213 cheek
+214 ｝-----
+215 -----{lip
+216 Lip shape
+217 Facial expression on the mouth
+218 Lip bulge
+219 Lip size
+220 Concavo-convex lips
+221 Lip thickness
+222 ｝-----
+223 -----{mouth
+224 Concavo-convex mouth
+225 Mouth tilt
+226 Engagement
+227 Mouth position
+228 Mouth width
+229 Distance from mouth to chin
+230 ｝-----
+231 -----{Lower jaw
+232 Before and after the tip of the chin
+233 Jaw length
+234 Chin protrusion
+235 Jaw depth
+236 Jaw size
+237 Jaw height
+238 Jaw size
+239 ｝-----
+240 ----- {Maxilla
+241 Jaw stick out
+242 Jaw width
+243 Lower chin
+244 Jaw contour
+245 ｝-----
+246 ｝-----
+247 ----- {Hair / Eyebrows / Beard / Eyelashes
+248 Hair / eyebrows / beard color
+249 hair
+250 Hair color
+251 eyebrow
+252 Eyebrow color
+253 beard
+254 beard
+255 Beard color
+256 eyelash
+257 Eyelash color
+258 ｝-----
+259 -----{pupil
+260 Both eyes
+261 Color of both eyes
+262 Right pupil
+263 Right eye color
+264 Left pupil
+265 Left eye color
+266 ｝-----
+267 -----{make up
+268 Brightness of the eyes
+269 Brightness of the orbit
+270 Eyelid brightness
+271 Eyelid color
+272 eyeliner
+273 Eye shadow
+274 Lipstick 1
+275 Lipstick 2
+276 ｝-----
+277 ----- {Tattoo / Bruise
+278 Tattoos / bruises
+279 Tattoo / bruise color
+280 ----- {Tattoo / Bruise Adjustment
+281 Position up and down
+282 Position left and right
+283 angle
+284 Expansion rate
+285 ｝-----
+286 ｝-----
+287 ｝-----
+288 ----- {Details of skin color
+289 Skin brightness
+290 Skin color adjustment 1
+291 Skin color adjustment 2
+292 Skin color adjustment 3
+293 Skin color adjustment 4
+294 Nose bridge color
+295 Cheek color
+296 Law line
+297 ｝-----
+298 Appearance preservation
+299 Appearance reading
+300 Initialization

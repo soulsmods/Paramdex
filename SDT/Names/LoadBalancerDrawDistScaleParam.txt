@@ -1,0 +1,68 @@
+1 [LOD Distance Scale] Map / Obj Small
+2 [LOD Distance Scale] Map / Obj Medium
+3 [LOD Distance Scale] Map / Obj Large
+4 [LOD Distance Scale] Map / Obj Oversized
+5 [LOD Distance Scale] Chr Small
+6 [LOD Distance Scale] Chr Medium
+7 [LOD Distance Scale] Chr Large
+8 [LOD Distance Scale] Chr Oversized
+10 [LOD Distance Scale] Local Player
+11 [LOD Distance Scale] Remote Player
+12 [LOD Distance Scale] Illusion
+26 [LOD distance scale] Map m30 series
+51 [LOD Distance Scale] m37_for Anor_trees, etc.
+52 [LOD Distance Scale] m37_ Stairs
+53 [LOD Distance Scale] m37_ Streetlight
+54 [LOD Distance Scale] m37_ Railing etc.
+101 [Texture LOD Distance Scale] Map / Obj Small
+102 [Texture LOD Distance Scale] Map / Obj Medium
+103 [Texture LOD Distance Scale] Map / Obj Large
+104 [Texture LOD Distance Scale] Map / Obj Oversized
+105 [Texture LOD Distance Scale] Chr Small
+106 [Texture LOD Distance Scale] Chr Medium
+107 [Texture LOD Distance Scale] Chr Large
+108 [Texture LOD Distance Scale] Chr Oversized
+110 [Texture LOD Distance Scale] Local Player
+111 [Texture LOD Distance Scale] Remote player
+112 [Texture LOD Distance Scale] Phantom
+126 [Texture LOD Distance Scale] Map m30 series
+151 [Texture LOD scale] m37_for Anor_trees, etc.
+152 [Texture LOD scale] m37_ stairs
+153 [Texture LOD scale] m37_ Street light
+154 [Texture LOD scale] m37_ Railing etc.
+205 [Drawing distance scale] Chr small
+206 [Drawing distance scale] Chr Medium
+207 [Drawing distance scale] Chr large
+208 [Drawing distance scale] Chr oversized
+210 [Drawing distance scale] Local player
+211 [Drawing distance scale] Remote player
+212 [Drawing distance scale] Phantom
+226 [Drawing distance scale] Map m30 series
+251 [Drawing distance scale] m37_for Anor_trees, etc.
+252 [Drawing distance scale] m37_stairs
+253 [Drawing distance scale] m37_ Street light
+254 [Drawing distance scale] m37_Handrail, etc.
+305 [Shadow drawing distance scale] Chr small
+306 [Shadow drawing distance scale] Chr Medium
+307 [Shadow drawing distance scale] Chr large
+308 [Shadow drawing distance scale] Chr oversized
+310 [Shadow drawing distance scale] Local player
+311 [Shadow drawing distance scale] Remote player
+312 [Shadow drawing distance scale] Phantom
+326 [Shadow drawing distance scale] Map m30 series
+351 [Shadow drawing distance scale] m37_for Anor_trees, etc.
+352 [Shadow drawing distance scale] m37_stairs
+353 [Shadow drawing distance scale] m37_ Street light
+354 [Shadow drawing distance scale] m37_Handrail, etc.
+405 [Motion blur effective distance scale] Chr small
+406 [Motion blur effective distance scale] Chr Medium
+407 [Motion blur effective distance scale] Chr large
+408 [Motion blur effective distance scale] Chr oversized
+410 [Motion blur effective distance scale] Local player
+411 [Motion blur effective distance scale] Remote player
+412 [Motion blur effective distance scale] Phantom
+426 [Motion blur effective distance scale] Map m30 series
+451 [Motion blur effective distance scale] m37_for Anor_trees, etc.
+452 [Motion blur effective distance scale] m37_ stairs
+453 [Motion blur effective distance scale] m37_ Street light
+454 [Motion blur effective distance scale] m37_Handrail, etc.

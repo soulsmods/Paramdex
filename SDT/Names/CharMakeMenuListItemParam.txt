@@ -1,0 +1,21 @@
+0 Not set
+100 Base body shape
+120 Muscle mass
+130 Hair volume
+200 Base face * Frames 90 to 99 are for rendered images only, so switch to a different ID
+220 Base face for women display
+300 Hitomi (right)
+400 Hitomi (left)
+500 eyebrow
+600 beard
+620 Bearded lady for women (same as man)
+700 Hairstyle
+800 Decal
+900 accessory
+1000 Hitomi (for use as a pupil)
+1100 eyelash
+100000 gender
+100100 Age group
+100200 Feature
+100300 gift
+100400 voice

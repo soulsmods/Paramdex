@@ -1,0 +1,763 @@
+0 test
+1 Character make test
+20 20: NT version A (Knight of Wandering)
+21 21: NT version B (Northern Warrior)
+22 22: NT version C (Wizard)
+23 23: NT version D (Temple Knight)
+1000 NewGame preset face_man 0
+1001 New Game Preset Face_Man 1
+1002 New Game Preset Face_Man 2
+1003 New Game Preset Face_Man 3
+1004 New Game Preset Face_Man 4
+1005 New Game Preset Face_Man 5
+1006 New Game Preset Face_Man 6
+1007 New Game Preset Face_Man 7
+1008 New Game Preset Face_Man 8
+1009 New Game Preset Face_Man 9
+2000 NewGame preset face_woman 0
+2001 New Game Preset Face_Woman 1
+2002 New Game Preset Face_Woman 2
+2003 New Game Preset Face_Woman 3
+2004 New Game Preset Face_Woman 4
+2005 New Game Preset Face_Woman 5
+2006 New Game Preset Face_Woman 6
+2007 New Game Preset Face_Woman 7
+2008 New Game Preset Face_Woman 8
+2009 New Game Preset Face_Woman 9
+3000 0 for base body (unisex)
+3001 For base body 1 (unisex)
+3002 For base body 2 (unisex)
+3003 For base body 3 (unisex)
+3004 For base body 4 (unisex)
+3005 5 for base body (unisex)
+3006 6 for base body (unisex)
+3007 7 for base body (unisex)
+3008 8 for base body (unisex)
+3009 For base body 9 (unisex)
+4000 Character Makeup Top Menu Male
+5000 Character Makeup Top Menu Female
+8000 Temporary storage frame 1
+8001 Temporary storage frame 2
+8002 Temporary storage frame 3
+8003 Temporary storage frame 4
+8004 Temporary storage frame 5
+8005 Temporary storage frame 6
+8006 Temporary storage frame 7
+8007 Temporary storage frame 8
+8008 Temporary storage frame 9
+8009 Temporary storage frame 10
+8010 Temporary storage frame 11
+8011 Temporary storage frame 12
+8012 Temporary storage frame 13
+8013 Temporary storage frame 14
+8014 Temporary storage frame 15
+8015 Temporary storage frame 16
+8016 Temporary storage frame 17
+8017 Temporary storage frame 18
+8018 Temporary storage frame 19
+8019 Temporary storage frame 20
+8020 Temporary storage frame 21
+8021 Temporary storage frame 22
+8022 Temporary storage frame 23
+8023 Temporary storage frame 24
+8024 Temporary storage frame 25
+8025 Temporary storage frame 26
+8026 Temporary storage frame 27
+8027 Temporary storage frame 28
+8028 Temporary storage frame 29
+8029 Temporary storage frame 30
+8030 Temporary storage frame 31
+8031 Temporary storage frame 32
+8032 Temporary storage frame 33
+8033 Temporary storage frame 34
+8034 Temporary storage frame 35
+8035 Temporary storage frame 36
+8036 Temporary storage frame 37
+8037 Temporary storage frame 38
+8038 Temporary storage frame 39
+8039 Temporary storage frame 40
+8040 Temporary storage frame 41
+8041 Temporary storage frame 42
+8042 Temporary storage frame 43
+8043 Temporary storage frame 44
+8044 Temporary storage frame 45
+8045 Temporary storage frame 46
+8046 Temporary storage frame 47
+8047 Temporary storage frame 48
+8048 Temporary storage frame 49
+8049 Temporary storage frame 50
+8050 Temporary storage frame 51
+8051 Temporary storage frame 52
+8052 Temporary storage frame 53
+8053 Temporary storage frame 54
+8054 Temporary storage frame 55
+8055 Temporary storage frame 56
+8056 Temporary storage frame 57
+8057 Temporary storage frame 58
+8058 Temporary storage frame 59
+8059 Temporary storage frame 60
+8060 Temporary storage frame 61
+8061 Temporary storage frame 62
+8062 Temporary storage frame 63
+8063 Temporary storage frame 64
+8064 Temporary storage frame 65
+8065 Temporary storage frame 66
+8066 Temporary storage frame 67
+8067 Temporary storage frame 68
+8068 Temporary storage frame 69
+8069 Temporary storage frame 70
+8070 Temporary storage frame 71
+8071 Temporary storage frame 72
+8072 Temporary storage frame 73
+8073 Temporary storage frame 74
+8074 Temporary storage frame 75
+8075 Temporary storage frame 76
+8076 Temporary storage frame 77
+8077 Temporary storage frame 78
+8078 Temporary storage frame 79
+8079 Temporary storage frame 80
+8080 Temporary storage frame 81
+8081 Temporary storage frame 82
+8082 Temporary storage frame 83
+8083 Temporary storage frame 84
+8084 Temporary storage frame 85
+8085 Temporary storage frame 86
+8086 Temporary storage frame 87
+8087 Temporary storage frame 88
+8088 Temporary storage frame 89
+8089 Temporary storage frame 90
+8090 Temporary storage frame 91
+8091 Temporary storage frame 92
+8092 Temporary storage frame 93
+8093 Temporary storage frame 94
+8094 Temporary storage frame 95
+8095 Temporary storage frame 96
+8096 Temporary storage frame 97
+8097 Temporary storage frame 98
+8098 Temporary storage frame 99
+8099 Temporary storage frame 100
+8100 Temporary storage frame 101
+8101 Temporary storage frame 102
+8102 Temporary storage frame 103
+8103 Temporary storage frame 104
+8104 Temporary storage frame 105
+8105 Temporary storage frame 106
+8106 Temporary storage frame 107
+8107 Temporary storage frame 108
+8108 Temporary storage frame 109
+8109 Temporary storage frame 110
+8110 Temporary storage frame 111
+8111 Temporary storage frame 112
+8112 Temporary storage frame 113
+8113 Temporary storage frame 114
+8114 Temporary storage frame 115
+8115 Temporary storage frame 116
+8116 Temporary storage frame 117
+8117 Temporary storage frame 118
+8118 Temporary storage frame 119
+8119 Temporary storage frame 120
+8120 Temporary storage frame 121
+8121 Temporary storage frame 122
+8122 Temporary storage frame 123
+8123 Temporary storage frame 124
+8124 Temporary storage frame 125
+8125 Temporary storage frame 126
+8126 Temporary storage frame 127
+8127 Temporary storage frame 128
+8128 Temporary storage frame 129
+8129 Temporary storage frame 130
+8130 Temporary storage frame 131
+8131 Temporary storage frame 132
+8132 Temporary storage frame 133
+8133 Temporary storage frame 134
+8134 Temporary storage frame 135
+8135 Temporary storage frame 136
+8136 Temporary storage frame 137
+8137 Temporary storage frame 138
+8138 Temporary storage frame 139
+8139 Temporary storage frame 140
+8140 Temporary storage frame 141
+8141 Temporary storage frame 142
+8142 Temporary storage frame 143
+8143 Temporary storage frame 144
+8144 Temporary storage frame 145
+8145 Temporary storage frame 146
+8146 Temporary storage frame 147
+8147 Temporary storage frame 148
+8148 Temporary storage frame 149
+8149 Temporary storage frame 150
+8150 Temporary storage frame 151
+8151 Temporary storage frame 152
+8152 Temporary storage frame 153
+8153 Temporary storage frame 154
+8154 Temporary storage frame 155
+8155 Temporary storage frame 156
+8156 Temporary storage frame 157
+8157 Temporary storage frame 158
+8158 Temporary storage frame 159
+8159 Temporary storage frame 160
+8160 Temporary storage frame 161
+8161 Temporary storage frame 162
+8162 Temporary storage frame 163
+8163 Temporary storage frame 164
+8164 Temporary storage frame 165
+8165 Temporary storage frame 166
+8166 Temporary storage frame 167
+8167 Temporary storage frame 168
+8168 Temporary storage frame 169
+8169 Temporary storage frame 170
+8170 Temporary storage frame 171
+8171 Temporary storage frame 172
+8172 Temporary storage frame 173
+8173 Temporary storage frame 174
+8174 Temporary storage frame 175
+8175 Temporary storage frame 176
+8176 Temporary storage frame 177
+8177 Temporary storage frame 178
+8178 Temporary storage frame 179
+8179 Temporary storage frame 180
+8180 Temporary storage frame 181
+8181 Temporary storage frame 182
+8182 Temporary storage frame 183
+8183 Temporary storage frame 184
+8184 Temporary storage frame 185
+8185 Temporary storage frame 186
+8186 Temporary storage frame 187
+8187 Temporary storage frame 188
+8188 Temporary storage frame 189
+8189 Temporary storage frame 190
+8190 Temporary storage frame 191
+8191 Temporary storage frame 192
+8192 Temporary storage frame 193
+8193 Temporary storage frame 194
+8194 Temporary storage frame 195
+8195 Temporary storage frame 196
+8196 Temporary storage frame 197
+8197 Temporary storage frame 198
+8198 Temporary storage frame 199
+8199 Temporary storage frame 200
+8200 Temporary storage frame 201
+8201 Temporary storage frame 202
+8202 Temporary storage frame 203
+8203 Temporary storage frame 204
+8204 Temporary storage frame 205
+8205 Temporary storage frame 206
+8206 Temporary storage frame 207
+8207 Temporary storage frame 208
+8208 Temporary storage frame 209
+8209 Temporary storage frame 210
+8210 Temporary storage frame 211
+8211 Temporary storage frame 212
+8212 Temporary storage frame 213
+8213 Temporary storage frame 214
+8214 Temporary storage frame 215
+8215 Temporary storage frame 216
+8216 Temporary storage frame 217
+8217 Temporary storage frame 218
+8218 Temporary storage frame 219
+8219 Temporary storage frame 220
+8220 Temporary storage frame 221
+8221 Temporary storage frame 222
+8222 Temporary storage frame 223
+8223 Temporary storage frame 224
+8224 Temporary storage frame 225
+8225 Temporary storage frame 226
+8226 Temporary storage frame 227
+8227 Temporary storage frame 228
+8228 Temporary storage frame 229
+8229 Temporary storage frame 230
+8230 Temporary storage frame 231
+8231 Temporary storage frame 232
+8232 Temporary storage frame 233
+8233 Temporary storage frame 234
+8234 Temporary storage frame 235
+8235 Temporary storage frame 236
+8236 Temporary storage frame 237
+8237 Temporary storage frame 238
+8238 Temporary storage frame 239
+8239 Temporary storage frame 240
+8240 Temporary storage frame 241
+8241 Temporary storage frame 242
+8242 Temporary storage frame 243
+8243 Temporary storage frame 244
+8244 Temporary storage frame 245
+8245 Temporary storage frame 246
+8246 Temporary storage frame 247
+8247 Temporary storage frame 248
+8248 Temporary storage frame 249
+8249 Temporary storage frame 250
+8250 Temporary storage frame 251
+8251 Temporary storage frame 252
+8252 Temporary storage frame 253
+8253 Temporary storage frame 254
+8254 Temporary storage frame 255
+8255 Temporary storage frame 256
+8256 Temporary storage frame 257
+8257 Temporary storage frame 258
+8258 Temporary storage frame 259
+8259 Temporary storage frame 260
+8260 Temporary storage frame 261
+8261 Temporary storage frame 262
+8262 Temporary storage frame 263
+8263 Temporary storage frame 264
+8264 Temporary storage frame 265
+8265 Temporary storage frame 266
+8266 Temporary storage frame 267
+8267 Temporary storage frame 268
+8268 Temporary storage frame 269
+8269 Temporary storage frame 270
+8270 Temporary storage frame 271
+8271 Temporary storage frame 272
+8272 Temporary storage frame 273
+8273 Temporary storage frame 274
+8274 Temporary storage frame 275
+8275 Temporary storage frame 276
+8276 Temporary storage frame 277
+8277 Temporary storage frame 278
+8278 Temporary storage frame 279
+8279 Temporary storage frame 280
+8280 Temporary storage frame 281
+8281 Temporary storage frame 282
+8282 Temporary storage frame 283
+8283 Temporary storage frame 284
+8284 Temporary storage frame 285
+8285 Temporary storage frame 286
+8286 Temporary storage frame 287
+8287 Temporary storage frame 288
+8288 Temporary storage frame 289
+8289 Temporary storage frame 290
+8290 Temporary storage frame 291
+8291 Temporary storage frame 292
+8292 Temporary storage frame 293
+8293 Temporary storage frame 294
+8294 Temporary storage frame 295
+8295 Temporary storage frame 296
+8296 Temporary storage frame 297
+8297 Temporary storage frame 298
+8298 Temporary storage frame 299
+8299 Temporary storage frame 300
+8500 Temporary storage frame 1
+8501 Temporary storage frame 2
+8502 Temporary storage frame 3
+8503 Temporary storage frame 4
+8504 Temporary storage frame 5
+8505 Temporary storage frame 6
+8506 Temporary storage frame 7
+8507 Temporary storage frame 8
+8508 Temporary storage frame 9
+8509 Temporary storage frame 10
+8510 Temporary storage frame 11
+8511 Temporary storage frame 12
+8512 Temporary storage frame 13
+8513 Temporary storage frame 14
+8514 Temporary storage frame 15
+8515 Temporary storage frame 16
+8516 Temporary storage frame 17
+8517 Temporary storage frame 18
+8518 Temporary storage frame 19
+8519 Temporary storage frame 20
+8520 Temporary storage frame 21
+8521 Temporary storage frame 22
+8522 Temporary storage frame 23
+8523 Temporary storage frame 24
+8524 Temporary storage frame 25
+8525 Temporary storage frame 26
+8526 Temporary storage frame 27
+8527 Temporary storage frame 28
+8528 Temporary storage frame 29
+8529 Temporary storage frame 30
+8530 Temporary storage frame 31
+8531 Temporary storage frame 32
+8532 Temporary storage frame 33
+8533 Temporary storage frame 34
+8534 Temporary storage frame 35
+8535 Temporary storage frame 36
+8536 Temporary storage frame 37
+8537 Temporary storage frame 38
+8538 Temporary storage frame 39
+8539 Temporary storage frame 40
+8540 Temporary storage frame 41
+8541 Temporary storage frame 42
+8542 Temporary storage frame 43
+8543 Temporary storage frame 44
+8544 Temporary storage frame 45
+8545 Temporary storage frame 46
+8546 Temporary storage frame 47
+8547 Temporary storage frame 48
+8548 Temporary storage frame 49
+8549 Temporary storage frame 50
+8550 Temporary storage frame 51
+8551 Temporary storage frame 52
+8552 Temporary storage frame 53
+8553 Temporary storage frame 54
+8554 Temporary storage frame 55
+8555 Temporary storage frame 56
+8556 Temporary storage frame 57
+8557 Temporary storage frame 58
+8558 Temporary storage frame 59
+8559 Temporary storage frame 60
+8560 Temporary storage frame 61
+8561 Temporary storage frame 62
+8562 Temporary storage frame 63
+8563 Temporary storage frame 64
+8564 Temporary storage frame 65
+8565 Temporary storage frame 66
+8566 Temporary storage frame 67
+8567 Temporary storage frame 68
+8568 Temporary storage frame 69
+8569 Temporary storage frame 70
+8570 Temporary storage frame 71
+8571 Temporary storage frame 72
+8572 Temporary storage frame 73
+8573 Temporary storage frame 74
+8574 Temporary storage frame 75
+8575 Temporary storage frame 76
+8576 Temporary storage frame 77
+8577 Temporary storage frame 78
+8578 Temporary storage frame 79
+8579 Temporary storage frame 80
+8580 Temporary storage frame 81
+8581 Temporary storage frame 82
+8582 Temporary storage frame 83
+8583 Temporary storage frame 84
+8584 Temporary storage frame 85
+8585 Temporary storage frame 86
+8586 Temporary storage frame 87
+8587 Temporary storage frame 88
+8588 Temporary storage frame 89
+8589 Temporary storage frame 90
+8590 Temporary storage frame 91
+8591 Temporary storage frame 92
+8592 Temporary storage frame 93
+8593 Temporary storage frame 94
+8594 Temporary storage frame 95
+8595 Temporary storage frame 96
+8596 Temporary storage frame 97
+8597 Temporary storage frame 98
+8598 Temporary storage frame 99
+8599 Temporary storage frame 100
+8600 Temporary storage frame 101
+8601 Temporary storage frame 102
+8602 Temporary storage frame 103
+8603 Temporary storage frame 104
+8604 Temporary storage frame 105
+8605 Temporary storage frame 106
+8606 Temporary storage frame 107
+8607 Temporary storage frame 108
+8608 Temporary storage frame 109
+8609 Temporary storage frame 110
+8610 Temporary storage frame 111
+8611 Temporary storage frame 112
+8612 Temporary storage frame 113
+8613 Temporary storage frame 114
+8614 Temporary storage frame 115
+8615 Temporary storage frame 116
+8616 Temporary storage frame 117
+8617 Temporary storage frame 118
+8618 Temporary storage frame 119
+8619 Temporary storage frame 120
+8620 Temporary storage frame 121
+8621 Temporary storage frame 122
+8622 Temporary storage frame 123
+8623 Temporary storage frame 124
+8624 Temporary storage frame 125
+8625 Temporary storage frame 126
+8626 Temporary storage frame 127
+8627 Temporary storage frame 128
+8628 Temporary storage frame 129
+8629 Temporary storage frame 130
+8630 Temporary storage frame 131
+8631 Temporary storage frame 132
+8632 Temporary storage frame 133
+8633 Temporary storage frame 134
+8634 Temporary storage frame 135
+8635 Temporary storage frame 136
+8636 Temporary storage frame 137
+8637 Temporary storage frame 138
+8638 Temporary storage frame 139
+8639 Temporary storage frame 140
+8640 Temporary storage frame 141
+8641 Temporary storage frame 142
+8642 Temporary storage frame 143
+8643 Temporary storage frame 144
+8644 Temporary storage frame 145
+8645 Temporary storage frame 146
+8646 Temporary storage frame 147
+8647 Temporary storage frame 148
+8648 Temporary storage frame 149
+8649 Temporary storage frame 150
+8650 Temporary storage frame 151
+8651 Temporary storage frame 152
+8652 Temporary storage frame 153
+8653 Temporary storage frame 154
+8654 Temporary storage frame 155
+8655 Temporary storage frame 156
+8656 Temporary storage frame 157
+8657 Temporary storage frame 158
+8658 Temporary storage frame 159
+8659 Temporary storage frame 160
+8660 Temporary storage frame 161
+8661 Temporary storage frame 162
+8662 Temporary storage frame 163
+8663 Temporary storage frame 164
+8664 Temporary storage frame 165
+8665 Temporary storage frame 166
+8666 Temporary storage frame 167
+8667 Temporary storage frame 168
+8668 Temporary storage frame 169
+8669 Temporary storage frame 170
+8670 Temporary storage frame 171
+8671 Temporary storage frame 172
+8672 Temporary storage frame 173
+8673 Temporary storage frame 174
+8674 Temporary storage frame 175
+8675 Temporary storage frame 176
+8676 Temporary storage frame 177
+8677 Temporary storage frame 178
+8678 Temporary storage frame 179
+8679 Temporary storage frame 180
+8680 Temporary storage frame 181
+8681 Temporary storage frame 182
+8682 Temporary storage frame 183
+8683 Temporary storage frame 184
+8684 Temporary storage frame 185
+8685 Temporary storage frame 186
+8686 Temporary storage frame 187
+8687 Temporary storage frame 188
+8688 Temporary storage frame 189
+8689 Temporary storage frame 190
+8690 Temporary storage frame 191
+8691 Temporary storage frame 192
+8692 Temporary storage frame 193
+8693 Temporary storage frame 194
+8694 Temporary storage frame 195
+8695 Temporary storage frame 196
+8696 Temporary storage frame 197
+8697 Temporary storage frame 198
+8698 Temporary storage frame 199
+8699 Temporary storage frame 200
+8700 Temporary storage frame 201
+8701 Temporary storage frame 202
+8702 Temporary storage frame 203
+8703 Temporary storage frame 204
+8704 Temporary storage frame 205
+8705 Temporary storage frame 206
+8706 Temporary storage frame 207
+8707 Temporary storage frame 208
+8708 Temporary storage frame 209
+8709 Temporary storage frame 210
+8710 Temporary storage frame 211
+8711 Temporary storage frame 212
+8712 Temporary storage frame 213
+8713 Temporary storage frame 214
+8714 Temporary storage frame 215
+8715 Temporary storage frame 216
+8716 Temporary storage frame 217
+8717 Temporary storage frame 218
+8718 Temporary storage frame 219
+8719 Temporary storage frame 220
+8720 Temporary storage frame 221
+8721 Temporary storage frame 222
+8722 Temporary storage frame 223
+8723 Temporary storage frame 224
+8724 Temporary storage frame 225
+8725 Temporary storage frame 226
+8726 Temporary storage frame 227
+8727 Temporary storage frame 228
+8728 Temporary storage frame 229
+8729 Temporary storage frame 230
+8730 Temporary storage frame 231
+8731 Temporary storage frame 232
+8732 Temporary storage frame 233
+8733 Temporary storage frame 234
+8734 Temporary storage frame 235
+8735 Temporary storage frame 236
+8736 Temporary storage frame 237
+8737 Temporary storage frame 238
+8738 Temporary storage frame 239
+8739 Temporary storage frame 240
+8740 Temporary storage frame 241
+8741 Temporary storage frame 242
+8742 Temporary storage frame 243
+8743 Temporary storage frame 244
+8744 Temporary storage frame 245
+8745 Temporary storage frame 246
+8746 Temporary storage frame 247
+8747 Temporary storage frame 248
+8748 Temporary storage frame 249
+8749 Temporary storage frame 250
+8750 Temporary storage frame 251
+8751 Temporary storage frame 252
+8752 Temporary storage frame 253
+8753 Temporary storage frame 254
+8754 Temporary storage frame 255
+8755 Temporary storage frame 256
+8756 Temporary storage frame 257
+8757 Temporary storage frame 258
+8758 Temporary storage frame 259
+8759 Temporary storage frame 260
+8760 Temporary storage frame 261
+8761 Temporary storage frame 262
+8762 Temporary storage frame 263
+8763 Temporary storage frame 264
+8764 Temporary storage frame 265
+8765 Temporary storage frame 266
+8766 Temporary storage frame 267
+8767 Temporary storage frame 268
+8768 Temporary storage frame 269
+8769 Temporary storage frame 270
+8770 Temporary storage frame 271
+8771 Temporary storage frame 272
+8772 Temporary storage frame 273
+8773 Temporary storage frame 274
+8774 Temporary storage frame 275
+8775 Temporary storage frame 276
+8776 Temporary storage frame 277
+8777 Temporary storage frame 278
+8778 Temporary storage frame 279
+8779 Temporary storage frame 280
+8780 Temporary storage frame 281
+8781 Temporary storage frame 282
+8782 Temporary storage frame 283
+8783 Temporary storage frame 284
+8784 Temporary storage frame 285
+8785 Temporary storage frame 286
+8786 Temporary storage frame 287
+8787 Temporary storage frame 288
+8788 Temporary storage frame 289
+8789 Temporary storage frame 290
+8790 Temporary storage frame 291
+8791 Temporary storage frame 292
+8792 Temporary storage frame 293
+8793 Temporary storage frame 294
+8794 Temporary storage frame 295
+8795 Temporary storage frame 296
+8796 Temporary storage frame 297
+8797 Temporary storage frame 298
+8798 Temporary storage frame 299
+8799 Temporary storage frame 300
+9000 Default character
+9999 Phantom (without face)
+20100 [Multi NPC] Veteran Warrior: Royal Castle 1 ★ White Spirit 1
+20110 [Multi NPC] Veteran Warrior Darkness: Royal Castle 1 ■ Dark Spirit 1
+20200 [Multi NPC] Hiyokko Warrior (1st time): Royal Castle 1 ★ White Spirit 2
+20210 [Multi NPC] Hiyokko Warrior (2nd time): Royal Castle 1 ★ White Spirit 3
+20220 [Multi NPC] Hiyokko Warrior (3rd time): Royal Castle 3 ★ White Spirit 2
+20300 [Multi-NPC] King&#39;s Guard Female Knight (1st time): King Castle 2 ★ White Spirit 1
+20310 [Multi-NPC] King&#39;s Guard Female Knight (2nd time): King Castle 3 ★ White Spirit 1
+20400 [Multi NPC] Dragon Knight: Royal Castle 2 ★ White Spirit 2
+20500 [Multi-NPC] King&#39;s Guard Male Knight: King Castle 2 ■ Dark Spirit 1
+20600 [Multi-NPC] Spellcaster Poor: Town ★ White Spirit 1
+20700 [Multi-NPC] Supporter Baba: Town ★ White Spirit 2
+20800 [Multi-NPC] Clergy: Town ★ White Spirit 3
+20900 [Multi NPC] Berserker: Town ★ White Spirit 4
+21000 [Multi NPC] Berserker: Town ■ Dark Spirit 1
+21100 [Multi-NPC] Sniper NPC: Sniper NPC: Ultra-distance
+21200 [Multi NPC] Dragon Hunting Warrior: Bridge ★ White Spirit 1
+21300 [Multi-NPC] Warrior who collapsed in the middle of his ambition: Bridge ★ White Spirit 2
+21400 [Multi-NPC] Healer with a blunt instrument: Forest ★ White Spirit 1_On the way
+21410 [Multi-NPC] Healer with a blunt instrument: Forest
+21500 [Multi-NPC] Man to hit: Mori ★ White Spirit 2_VS Elder
+21600 [Multi-NPC] Meat-cutting Woman: Forest ★ White Spirit 2_VS Observer
+21610 [Multi-NPC] Meat-cutting Woman: Forest ■ Black Spirit 1_Intrusion
+21800 [Multi-NPC] King&#39;s Guard Captain: King Castle 3 ■ Dark Spirit 1
+21900 [Multi-NPC] Strong Warrior: Shrine ★ White Spirit 1_VS Cardinals
+22000 [Multi-NPC] I love Parry: Basilica ★ White Spirit 2_On the way
+22100 [Multi-NPC] Growing Twin Swordsman (1st time): Basilica ★ White Spirit 3_On the way
+22110 [Multi-NPC] Growing Twin Swordsman (2nd time): Dungeon ★ White Spirit 2_On the way (bottom)
+22120 [Multi-NPC] Growing Twin Swordsman (3rd time): Base ★ White Spirit 1_On the way
+22200 [Multi-NPC] Sickle messenger: Basilica ■ Dark Spirit_Intrusion
+22300 [Multi NPC] Attribute Enchantment Swordsman: Anor ★ White Spirit 1
+22400 [Multi NPC] Senior Magician: Anor ★ White Spirit 2
+22500 [Multi NPC] Bucket Head: On Anor ★ White Spirit 1
+22600 [Multi NPC] Item Master: Anor ■ Dark Spirit 1
+22700 [Multi NPC] Rush Lancer: Dungeon ★ White Spirit 1_On the way (above)
+22800 [Multi-NPC] I love &quot;illuminating light&quot;: Dungeon ★ White Spirit 3_On the way (bottom)
+22900 [Multi NPC] Priest: Dungeon ★ White Spirit 4_VS King of the Dead Spirit
+23000 [Multi-NPC] Rapier-using skillful swordsman: Dungeon ★ White Spirit 5_VS Crimson Bat
+23100 [Multi-NPC] Strong man in battle: Dungeon ★ White Spirit 6_VS Ash Demon
+23200 [Multi-NPC] Thief in the dark: Dungeon ■ Dark spirit _ intrusion
+23300 [Multi-NPC] Suspicious Wanderer: Dungeon ★ White Spirit 1
+23310 [Multi-NPC] Suspicious Wanderer: Dungeon ■ Dark Spirit 4
+23400 [Multi-NPC] Knight deceived and captured: Dungeon ★ White Spirit 2
+23410 [Multi-NPC] Knight deceived and captured: Dungeon ■ Dark Spirit 3
+23500 [Multi NPC] Hired Assassin: Dungeon ■ Dark Spirit 1
+23600 [Multi-NPC] Bizarre Executioner: Dungeon ■ Dark Spirit 2
+23700 [Multi NPC] Gunda Equipment: Base ★ White Spirit 2_VS Evil Spirit
+23800 [Multi-NPC] Insufficient material: Base ★ White Spirit 3_VS Las Boss
+24700 [NPC] Meat-cutting knife woman
+24800 [NPC] Merchant B
+25000 [NPC] Kaas&#39;s messenger
+25100 [NPC] King&#39;s Investigator A
+25101 [NPC] King&#39;s Investigator A: Duel
+25200 [NPC] King&#39;s Investigator B
+25300 [NPC] King&#39;s Investigator C
+25305 [NPC] Pig guy
+25400 [NPC] Magic House
+25500 [NPC] Magician
+25600 [NPC] Magic magic shop
+25700 [NPC] Miracle shop
+25701 [NPC] Miracle Shop: Fire Guardian
+25800 [NPC] Knight of the Miracle Shop
+25900 [NPC] Miraculous Darkman
+26000 [NPC] Henri: Woman
+26010 [NPC] Henri: Man
+26100 [NPC] Patch: Catalina equipment
+26101 [NPC] Patch
+26200 [NPC] Descendants of Catalina
+26300 [NPC] Pig King
+27300 [NPC] General-purpose A (fake master)
+27301 [NPC] Universal A (True Master)
+27400 [NPC] General B (yellow clothes)
+27500 [NPC] Roslick&#39;s messenger B (general purpose C)
+27600 [NPC] General-purpose D (witch doctor)
+27700 [NPC] Special A (Madman)
+27800 [NPC] Special B (white shadow of Rondor)
+27900 [NPC] Roslick&#39;s messenger A
+28000 [NPC] Roslick&#39;s messenger C
+28100 [NPC] Forest Connection Manager 1
+28200 [NPC] Forest Connection Manager 2
+28300 [NPC] Forest Shrine Church Connection 1
+28400 [NPC] Forest Shrine Church Connection 2
+28600 [NPC] On the roots of the underground prison ruins
+28700 [NPC] Snake Priest Summon 1
+28800 [NPC] Snake Priest Summon 2
+28900 [NPC] Snake Priest Summon 3
+29000 [NPC] Anor Guardian 1
+29100 [NPC] Anor Guardian 2
+29200 [NPC] Tarkus
+29300 [NPC] Clayton
+29400 [NPC] Aruba
+29500 [NPC] Kirk
+30000 [Ritual NPC White Spirit] Game start
+30010 [Ritual NPC White Spirit] Royal Castle 1
+30020 [Ritual NPC White Spirit] Tower Town
+30030 [Ritual NPC White Spirit] Forest 1 (first half)
+30040 【Ritual NPC Bai Li】Church Church
+30050 [Ritual NPC White Spirit] Forest 2 (second half)
+30060 [Ritual NPC White Spirit] Dungeon
+30070 [Ritual NPC White Spirit] Dungeon Underground Lake (Sub)
+30080 [Ritual NPC White Spirit] Anor
+30090 【Ritual NPC Bai Li】Dungeon
+30100 [Ritual NPC White Spirit] On Anor (Sub)
+30110 [Ritual NPC White Spirit] Royal Castle 2
+30120 [Ritual NPC White Spirit] Royal Castle 3
+30130 [Ritual NPC White Spirit] Bridge (Sub)
+30140 [Ritual NPC White Spirit] Base
+30150 [Ritual NPC White Spirit] Game end
+31000 [Ritual NPC White Spirit: Play Area 2] Start the game
+31010 [Ritual NPC White Spirit: Play Area 2] Royal Castle 1
+31020 [Ritual NPC White Spirit: Play Area 2] Tower Town
+31030 [Ritual NPC White Spirit: Play Area 2] Forest 1 (first half)
+31040 [Ritual NPC White Spirit: Play Area 2] Basilica Church
+31050 [Ritual NPC White Spirit: Play Area 2] Forest 2 (second half)
+31060 [Ritual NPC White Spirit: Play Area 2] Dungeon
+31070 [Ritual NPC White Spirit: Play Area 2] Dungeon Underground Lake (Sub)
+31080 [Ritual NPC White Spirit: Play Area 2] Anor
+31090 [Ritual NPC White Spirit: Play Area 2] Dungeon
+31100 [Ritual NPC White Spirit: Play Area 2] On Anor (Sub)
+31110 [Ritual NPC White Spirit: Play Area 2] Royal Castle 2
+31120 [Ritual NPC White Spirit: Play Area 2] Royal Castle 3
+31130 [Ritual NPC White Spirit: Play Area 2] Bridge (Sub)
+31140 [Ritual NPC White Spirit: Play Area 2] Base
+31150 [Ritual NPC White Spirit: Play Area 2] Game End

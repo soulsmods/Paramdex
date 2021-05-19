@@ -1,0 +1,20 @@
+0 Don&#39;t erase
+300000000 m30_00_00_00: King of Corrosion 1: Wall
+300000001 m30_00_00_00: King of Eating 1: Fat Square ~
+300100000 m30_01_00_00: King of Eating 2
+310000000 m31_00_00_00: Tower Town
+320000000 m32_00_00_00: bridge
+330000000 m33_00_00_00: Poison Swamp Forest: Second half
+330000001 m33_00_00_00: Poison Swamp Forest: First half
+340100000 m34_01_00_00: King of Eating 3: Indoors
+340100001 m34_01_00_00: King of Eating 3: Outdoors
+350000000 m35_00_00_00: Basilica Church: Inside
+350000001 m35_00_00_00: Templar church: cemetery
+370000000 m37_00_00_00: Anor Ruins
+370000001 m37_00_00_00: Anor Ruins: Hall
+370000002 m37_00_00_00: Anor Ruins: Anor Honjin
+380000000 m38_00_00_00: Dungeon; upper layer
+380000001 m38_00_00_00: Dungeon: Lower layer
+390000000 m39_00_00_00: Underground prison
+400000000 m40_00_00_00: Base
+410000000 m41_00_00_00: Last boss area

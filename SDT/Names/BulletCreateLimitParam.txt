@@ -1,0 +1,11 @@
+0 Unused
+1 [PC magic] Activity of the dead
+2 [PC magic] Warmth fire
+3 [PC magic] Miasma of death
+4 [PC magic] Poison fog
+5 [PC magic] Poisonous fog
+6 [PC magic] Acid mist
+7 [PC Arts] Zombie Crow Wand_Poison Fog
+8 [PC magic] Nozomi
+9 Falling Soul: Bullet for generation
+10 Falling soul (slot 2: for target bullets): bullets for generation

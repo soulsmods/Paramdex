@@ -1,0 +1,36 @@
+0 host
+1 Cooperation route client
+2 Intrusion route client
+900 Enemy test
+1001 HP Est Bottle +1
+1002 HP Est Bottle +2
+1003 HP Est Bottle +3
+1004 HP Est Bottle +4
+1005 HP Est Bottle +5
+1006 HP Est Bottle +6
+1007 HP Est Bottle +7
+1008 HP Est Bottle +8
+1009 HP Est Bottle +9
+1010 HP Est Bottle +10
+1011 HP Est Bottle +11
+1012 HP Est Bottle +12
+1013 HP Est Bottle +13
+1014 HP Est Bottle +14
+1015 HP Est Bottle +15
+2001 Host only _HP Est Bottle +1
+2002 Host only _HP Est bottle +2
+2003 Host only _HP Est Bottle +3
+2004 Host only _HP Est Bottle +4
+2005 Host only _HP Est Bottle +5
+2006 Host only _HP Est Bottle +6
+2007 Host only _HP Est Bottle +7
+2008 Host only _HP Est bottle +8
+2009 Host only _HP Est Bottle +9
+2010 Host only _HP Est bottle +10
+2011 Host only _HP Est Bottle +11
+2012 Host only _HP Est Bottle +12
+2013 Host only _HP Est Bottle +13
+2014 Host only _HP Est Bottle +14
+2015 Host only _HP Est Bottle +15
+5000 Prank Madness Reward_HP Est Bottle +3
+100000 Test ID

@@ -1,0 +1,61 @@
+0 Deletion prohibited
+10000 Homing jump_normal size
+10010 Homing jump_huge size
+10100 Homing Jump_Big Snake
+20000 Homing jump_normal size
+20010 Homing jump_huge size
+100014500 Nightjars_Jump attack (test)
+200000300 Fall 0_default
+200000301 Drop 0_ large
+200000302 Falling 0_ Breaking the Ring Monk
+200000303 Fall 0_Large Snake
+200000304 Fall 0_Red Demon
+200000305 Fall 0_ Centipede size
+200000306 Falling down 0_ Fire Bull
+200000310 Crushing fall 0_fire cow
+200000320 Unlimited Fall 0_Okina Dragon
+200000330 Kicking and falling 0_ rival system
+200001300 Anti-aircraft 0_default
+200001600 Wire 0_default
+200001601 Wire 0_ Cavalry Warrior
+200001602 Wire 0_Akaoni
+300000000 PC wire_default
+300000020 PC wire_cannot ride default
+300000024 PC wire_castle snake valley that can not ride
+300000040 PC wire _ kite _ temple ← → canyon
+300000041 PC wire _ kite _ main castle _ main enclosure ← → main castle _ outer shell
+300010700 PC wire_c1070_Shura Samurai 0
+300010701 PC wire_c1070_Shura Samurai 1
+300010702 PC wire_c1070_Shura Samurai 2
+300010800 PC Wire_c1080_Seven-sided Warrior 0
+300010801 PC Wire_c1080_Seven-sided Warrior 1
+300010802 PC Wire_c1080_Seven-sided Warrior 2
+300011800 PC wire_c1180_younger man
+300013700 PC wire_c1370_fire cow_left drifting
+300013701 PC wire_c1370_fire cow_right drifting
+300050200 PC wire_c5020_Akaoni_grabbing
+300050201 PC wire_c5020_red demon_tackle
+300050202 PC wire_c5020_red demon_collapse
+300050600 PC Wire_c5060_Ninja Army Chief 0
+300050601 PC Wire_c5060_Ninja Army Chief 1
+300050602 PC Wire_c5060_Ninja Army Chief 2
+300050800 PC wire_c5080_horse warrior 0_ javelin throwing
+300050801 PC wire_c5080_horse warrior 1_spear spinning
+300050802 PC wire_c5080_horse warrior 2_breaking
+300050803 PC Wire_c5080_Cavalry Warrior 3_Drifting A
+300050804 PC Wire_c5080_Cavalry Warrior 4_Drifting B
+300051000 PC wire_c5100_Yasha monkey
+300052000 PC wire_c5200_mermaid dragon 0
+300052001 PC wire_c5200_mermaid dragon 1
+300052005 PC wire_c5200_mermaid dragon 5
+300052006 PC wire_c5200_mermaid dragon 6
+300053100 PC wire_c5310_ tentacles
+300053105 PC wire_c5310_tentacle_riding OBJ
+300053200 PC wire_c5320_Okina Dragon (Large) 0
+300053201 PC wire_c5320_Okina Dragon (Large) 1
+300070200 PC wire_c7020_Busshi demon_right hand 0
+300070201 PC wire_c7020_Busshi demon_right hand 1
+300070210 PC wire_c7021_demon Buddha test
+400000000 Base_jump move
+400014500 Nightjars_Jump move
+400013100 Genpei Warrior_Jump Move

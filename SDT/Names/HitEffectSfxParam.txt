@@ -1,0 +1,65 @@
+0 None
+10 spark
+20 Universal cigarette
+30 Sand smoke
+40 soil
+50 gravel
+60 Gray smoke
+70 Angstrom
+80 Wood chips
+90 Stone flakes
+100 Bone flakes
+110 Crystal flakes
+120 Grass slices
+130 leaf
+140 Fallen leaves
+150 God grave net piece
+160 Water droplets
+170 Mud droplets
+180 Poisonous Marsh Droplets
+190 oil
+200 Blood (living) _ front
+220 Meat in water
+230 Physical bullet general purpose
+240 body fluid
+250 Drool
+260 maggot
+270 wax
+280 Worm body fluid
+290 Meat under armor_front
+300 Poisonous meat
+310 White meat
+320 Carrion slices
+330 Ash demon
+340 lava
+350 Spirit
+360 Grief (effective) _front
+370 Grief (invalid) _front
+380 inflammation
+390 mine
+400 cloud
+410 poison
+420 Snow map
+430 Sparks and flames
+440 Corrosion hit (gas)
+450 Corrosion hit (liquid)
+460 Energy (strong)
+470 Rock (Fat Demon)
+480 Autumn leaves
+490 Gao (soft)
+500 Gao (hard)
+510 Reserve
+520 Jasuga sparks
+530 Jasuga shock wave
+540 Reserve
+550 Phantom (valid)
+560 Phantom (invalid)
+570 Jasuga shock wave (directivity)
+580 Sat Para Para
+590 Snow
+600 Pebble para para
+610 Guard shock wave (directivity)
+630 Water splash no ripples
+650 Water splash ripple pear grass
+660 Iron fan
+710 No resistance NPC

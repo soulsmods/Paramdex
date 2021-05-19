@@ -1,259 +1,317 @@
-1000 Spirit Emblem
-1001 Red Spirit Emblem
-1100 Regenerative Power
-1101 Regenerative Power Fragment
-1110 Temporary Regenerative Power
-1200 Skill Point
-1300 Kenjutsu Point
-2000 Resurrection
-2100 Bloodsmoke Ninjutsu
-2110 Puppeteer Ninjutsu
-2120 Bestowal Ninjutsu
-2300 Kusabimaru
-2310 Shinobi Prosthetic
-2390 Night Eye
-2400 Mortal Blade
-2420 Mibu Breathing Technique
-2450 Anti-air Deathblow Text
-2460 Dragon Flash
-2461 Floating Passage Text
-2462 One Mind
-2470 Shinobi Medicine Rank 1
-2471 Shinobi Medicine Rank 2
-2472 Shinobi Medicine Rank 3
-2475 A Beast's Karma
-2480 Breath of Life: Shadow
-2481 Breath of Nature: Shadow
-2499 All Actions Unlock
-2500 Lotus of the Palace
-2501 Shelter Stone
-2502 Aromatic Branch
-2503 Aromatic Flower
-2910 Mechanical Barrel
-2920 Shinobi Esoteric Text
-2921 Prosthetic Esoteric Text
-2922 Ashina Esoteric Text
-2923 Senpou Esoteric Text
-2924 Mushin Esoteric Text
-2930 Recovery Charm
-3000 Healing Gourd
-3001 Healing Gourd
-3020 Pellet
-3040 Divine Grass
-3050 Red Lump
-3051 Red Lump
-3052 Red Lump
-3053 Academics' Red Lump
-3060 Sweet Rice Ball
-3061 Sweet Rice Ball
-3070 Persimmon
-3071 Taro Persimmon
-3080 Rice
-3081 Fine Snow
-3200 Antidote Powder
-3210 Dousing Powder
-3211 Ministry Dousing Powder
-3220 Pacifying Agent
-3230 Eel Liver
-3250 Contact Medicine
-3290 Bite Down
-3291 Hidden Tooth
-3292 Bite Down
-3300 Green Mossy Gourd
-3301 Green Mossy Gourd
-3310 Withered Red Gourd
-3311 Withered Red Gourd
-3320 Mottled Purple Gourd
-3321 Mottled Purple Gourd
-3350 Ako's Spiritfall
-3360 Yashariku's Spiritfall
-3370 Ungo's Spiritfall
-3380 Gokan's Spiritfall
-3390 Gachiin's Spiritfall
-3400 Ako's Sugar
-3410 Yashariku's Sugar
-3420 Ungo's Sugar
-3430 Gokan's Sugar
-3440 Gachiin's Sugar
-3450 Divine Confetti
-3500 Ceramic Shard
-3510 Fistful of Ash
-3520 Oil
-3530 Snap Seed
-3580 Five-color Rice
-3581 Five-color Rice
-3600 Mibu Balloon of Wealth
-3610 Mibu Balloon of Soul
-3620 Mibu Possession Balloon
-3630 Mibu Balloon of Spirit
-3640 Mibu Pilgrimage Balloon
-3700 Light Coin Purse
-3704 Heavy Coin Purse
-3708 Bulging Coin Purse
-3720 Bundled Jizo Statue
-3721 Jinza's Jizo Statue
-3730 Bell Demon
-3800 Ceremonial Tanto
-3801 Ceremonial Tanto
-3900 Nightjar Monocular
-3980 Homeward Idol
-3990 Illusive Hall Bell
-4000 Prayer Bead
-4100 First Prayer Necklace
-4101 Second Prayer Necklace
-4102 Third Prayer Necklace
-4103 Fourth Prayer Necklace
-4104 Fifth Prayer Necklace
-4105 Sixth Prayer Necklace
-4106 Seventh Prayer Necklace
-4107 Eighth Prayer Necklace
-4108 Ninth Prayer Necklace
-4109 Final Prayer Necklace
-4400 Gourd Seed
-5100 Memory
-5200 Memory: Gyoubu Oniwa
-5201 Memory: Lady Butterfly
-5202 Memory: Genichiro
-5203 Memory: Screen Monkeys
-5204 Memory: Guardian Ape
-5205 Memory: Corrupted Monk
-5206 Memory: Great Shinobi
-5207 Memory: Foster Father
-5208 Memory: True Monk
-5209 Memory: Divine Dragon
-5210 Memory: Hatred Demon
-5211 Memory: Saint Isshin 
-5212 Memory: Isshin Ashina
-5213 Memory: Headless Ape
-5300 Remnant: Gyoubu
-5301 Remnant: Lady Butterfly 
-5302 Remnant: Genichiro
-5303 Remnant: Screen Monkeys
-5304 Remnant: Guardian Ape
-5305 Remnant: Corrupted Monk
-5306 Remnant: Great Shinobi
-5307 Remnant: Foster Father
-5308 Remnant: True Monk
-5309 Remnant: Divine Dragon
-5310 Remnant: Hatred Demon
-5311 Remnant: Saint Isshin
-5312 Remnant: Isshin Ashina
-5313 Remnant: Headless Ape
-5400 Memory
-5500 Mask Fragment: Right
-5501 Mask Fragment: Left
-5502 Mask Fragment: Dragon
-5510 Dancing Dragon Mask
-5600 Dragon's Blood Droplet
-6000 Scrap Iron
-6010 Scrap Magnetite
-6020 Adamantite Scrap
-6100 Black Gunpowder
-6200 Yellow Gunpowder
-6210 Fulminated Mercury
-6300 Lump of Fat Wax
-6310 Lump of Grave Wax
-6400 Lapis Lazuli
-9000 Divine Dragon's Tears
-9003 Kuro's Charm
-9009 Sakura Droplet
-9010 Young Lord's Bell Charm
-9011 Father's Bell Charm
-9020 Ornamental Letter
-9052 Red Carp Eyes
-9060 Dragon's Tally Board
-9061 Promissory Note
-9070 Water of the Palace
-9071 Great White Whisker
-9080 Red and White Pinwheel
-9081 White Pinwheel
-9090 Rice for Kuro
-9091 Frozen Tears
-9100 Ashina Sake
-9101 Unrefined Sake
-9102 Monkey Booze
-9103 Dragonspring Sake
-9104 Ashina Sake
-9105 Unrefined Sake
-9180 Precious Bait
-9181 Truly Precious Bait
-9182 Truly Precious Bait
-9192 Fresh Serpent Viscera
-9193 Dried Serpent Viscera
-9200 Herb Catalogue Scrap
-9205 Dosaku's Note
-9206 Rat Description
-9207 Surgeon's Bloody Letter
-9208 Surgeon's Stained Letter
-9209 Holy Chapter: Dragon's Return
-9210 Immortal Severance Text
-9211 Immortal Severance Scrap
-9212 Fragrant Flower Note
-9213 Okami's Ancient Text
-9214 Page's Diary
-9215 Holy Chapter: Infested
-9216 Tomoe's Note
-9217 Flame Barrel Memo
-9218 Nightjar Beacon Memo
-9219 Isshin's Letter
-9220 Rotting Prisoner's Note
-9221 Sabimaru Memo
-9222 Sabimaru Memo
-9223 Valley Apparitions Memo
-9224 Valley Apparitions Memo
-9225 Three-story Pagoda Memo
-9226 Three-story Pagoda Memo
-9227 Black Scroll
-9228 Holy Chapter: Infested
-9402 Gatehouse Key
-9403 Hidden Temple Key
-9404 Secret Passage Key
-9405 Gun Fort Shrine Key
-9500 Rot Essence: Sculptor
-9501 Rot Essence: Newcomer
-9502 Rot Essence: Black Hat
-9503 Rot Essence: Lost Child
-9504 Rot Essence: Charmed One
-9505 Rot Essence: Surgeons
-9510 Rot Essence: Fine Son
-9511 Rot Essence: Thirsty One
-9515 Rot Essence: Timid Maid
-9516 Rot Essence: Faithful One
-9520 Rot Essence: Crow Mob
-9521 Rot Essence: Wartorn Mob
-9522 Rot Essence: Jail Mob
-9523 Rot Essence: Toxic Mob
-9524 Rot Essence: Pious Mob
-9525 Rot Essence: Drunk Mob
-9526 Rot Essence: Info Broker
-9560 Dragonrot Blood Sample
-9700 Shuriken Wheel
-9701 Phantom Kunai
-9710 Robert's Firecrackers
-9720 Flame Barrel
-9721 Pine Resin Ember
-9730 Shinobi Axe of the Monkey
-9740 Mist Raven's Feathers
-9750 Sabimaru
-9760 Iron Fortress
-9770 Large Fan
-9780 Gyoubu's Broken Horn
-9790 Slender Finger
-9791 Malcontent's Ring
-10000 Treasure Carp Scale
-90000 DamageCheck00
-90001 DamageCheck01
-90002 DamageCheck02
-90003 DamageCheck03
-90004 DamageCheck04
-90005 DamageCheck05
-90006 DamageCheck06
-90007 DamageCheck07
-90008 DamageCheck08
-90009 DamageCheck09
-90010 DamageCheck10
-90011 DamageCheck11
-90015 DamageCheck15
-90020 DamageCheck20
-90030 AISoundCheck00
-90031 AISoundCheck01
+60 ID monitoring item 1
+61 ID monitoring item 2
+62 ID monitoring item 3
+63 ID monitoring item 4
+64 ID monitoring item 5
+65 ID monitoring item 6
+66 ID monitoring item 7
+67 ID monitoring item 8
+68 ID monitoring item 9
+69 ID monitoring item 10
+70 [FDP] Avatar Ritual 1 A-1
+71 [FDP] Avatar Ritual 2 B-1
+72 [FDP] Avatar Ritual 3 C-1
+73 [FDP] Avatar Ritual 4 A-2
+74 [FDP] Avatar Ritual 5 B-2
+75 [FDP] Avatar Ritual 6 C-2
+76 [FDP] Avatar Ritual 7 A-3
+77 [FDP] Avatar Ritual 8 B-3
+78 [FDP] Avatar Ritual 9 C-3
+79 [FDP] Battle Royale
+90 [FDP] Connect with other worlds
+91 [FDP] Dragon egg
+92 [FDP] Eclipse Ceremony
+93 【FDP】Invasion ceremony
+94 Dummy for playing PC animation when creating blood characters
+500 Dead machine
+1000 Resource item A (white charge)
+1001 Temporary resource item A (replenishment white charge)
+1100 Resurrection right
+1101 Fragment of resurrection right
+1110 Temporary resurrection right
+1200 Skill points
+2000 Resurrection technique
+2100 Ninjutsu_Blood Smoke
+2110 Ninjutsu_Puppet
+2120 Ninjutsu Ninjutsu_Encha
+2300 Right hand knife
+2310 Left hand artificial limb
+2390 Night eyes
+2400 Immortal sword
+2420 Infinite breathing
+2450 Basic action lifted _ anti-aircraft shinobi killing
+2460 Lifting of the ban on school techniques_Sword Holy Iai
+2461 Lifting of the ban on school techniques_Hachiman Flying Rush
+2462 Lifting the ban on school techniques_flame Iai
+2470 Capacity enhancement_Drug effect UP (C)
+2471 Capacity enhancement_Drug effect UP (D)
+2472 Capacity enhancement_Drug effect UP (E)
+2475 Ability enhancement_Upper limit held by Xingdai (E)
+2480 Ability enhancement_HP recovery at the time of shinobi (B)
+2481 Ability enhancement_ body dry recovery during endurance killing (B)
+2500 Artifact A_ Flower
+2501 Artifact B_ Stone
+2502 Artifact C_ Xiangmu
+2503 Sacred treasure D_ Kaoki (raw tree)
+2910 Lifting of ban on artificial limbs
+2920 School tree lifted_Shinobi style
+2921 School tree lifted _ artificial limb style
+2922 School tree lifted _ Ashina style
+2923 School tree lifted _ temple style
+2924 School tree lifted _ compound style
+2930 Long cough treatment to lift the ban
+3000 [Replenishment] Est_Yes
+3001 [Replenishment] Est_None
+3020 [Consumption] Regeneration
+3040 [Consumption] Elixir
+3050 [Consumption] Weird young water thrombus (fascinated samurai)
+3051 [Consumption] Weird young water thrombus (scale shop fry)
+3052 [Consumption] Weird young water thrombus (kidnapped younger man)
+3053 [Consumption] Weird water thrombus (Immortal experiment doctor)
+3060 [Consumption] Ohagi
+3070 【Consumption】Persimmon
+3071 [Consumption] Persimmon (Xiamen)
+3080 [Consumption] Chigo rice
+3081 [Consumption] Chigo rice (Sasameyuki)
+3200 [Consumption] Virus recovery + patience enhancement
+3210 [Consumption] Recovery from fire + Strengthening resistance
+3211 [Consumption] Recovery from fire + Strengthening resistance (Tokugawa)
+3220 [Consumption] Recovery from madness + Strengthening resistance
+3230 [Consumption] Strengthening resistance to electric shock
+3250 【Consumption】From the virus
+3290 【Consumption】Suicide
+3291 【Unlimited】Suicide
+3292 [Consumption] Suicide_Betrayal Nightjars
+3300 [Supplement] Virus prevention_Yes
+3301 [Supplement] Virus Prevention_None
+3310 【Supplement】Prevention of Yanshang_Yes
+3311 [Replenishment] Flame prevention_No
+3320 [Supplement] Prevention of madness_Yes
+3321 [Replenishment] Madness prevention_No
+3350 [Infinite / Shape cost consumption] Attack strengthening
+3360 [Infinite / Shape cost consumption] Attack enhancement_with disadvantage
+3370 【Infinite/Form Generation Consumption】Strengthen defense
+3380 [Unlimited/Consume on behalf of form] Strengthen the body
+3390 [Infinite / Shape cost consumption] Stealth enhancement
+3400 [Consumption] Attack enhancement
+3410 [Consumption] Attack enhancement_with disadvantages
+3420 【Consumption】Strengthen defense
+3430 【Consumption】Strengthen the body
+3440 [Consumption] Stealth enhancement
+3450 [Consumption] Strengthening anti-spirit
+3500 [Consumption] Pottery
+3510 [Consumption] Grip ash
+3520 【Consumption】oil farm
+3530 【Consumption】Illusion Dispelled
+3580 [Supplement] Five-color rice_Yes
+3581 [Supplement] Five-color rice_no
+3600 [Consumption] Increased amount of money obtained
+3610 [Consumption] Increased amount of revival rights obtained
+3620 [Consumption] Item drop rate UP
+3630 [Consumption] Increased drop rate
+3640 [Consumption] White water balloon
+3700 【Consumption】Gold nuggets_small
+3704 【Consumption】Gold Bullion_Medium
+3708 【Consumption】Gold Bullion_Large
+3720 [Consumption] Resurrection right mass
+3721 [Consumption] Resurrection right mass (female player)
+3730 [Consumption] Bell Demon_Day
+3800 [Infinity] Form conversion (white)
+3900 【Infinite】Television glasses
+3980 [Infinity] Buddha statue of return
+3990 [Infinity] Redo bell
+4000 HP / Trunk UP Fragment
+4100 HP / Trunk UP vessel 1
+4101 HP / Trunk UP vessel 2
+4102 HP / Trunk UP vessel 3
+4103 HP / Trunk UP vessel 4
+4104 HP / Trunk UP vessel 5
+4105 HP / Trunk UP vessel 6
+4106 HP / Trunk UP vessel 7
+4107 HP / Trunk UP vessel 8
+4108 HP / Trunk UP vessel 9
+4109 HP / Trunk UP vessel 10
+4400 Gourd possession upper limit UP
+5100 Attack base UP
+5200 Boss Soul_Cavalry Warrior
+5201 Boss Soul_Butterfly
+5202 Boss Soul_Rival 2nd
+5203 Boss Soul_Chigo Monkey
+5204 Boss Soul_Yasha Ape
+5205 Boss Soul_Burning Monk (Phantom)
+5206 Boss Soul_Ninja Army Chief
+5207 Boss Soul_Ninja Army Chief (True)
+5208 Boss Soul_Burning Monk
+5209 Boss Soul_Mermaid Dragon
+5210 Boss Soul_Demon Buddhist Master
+5211 Boss Soul_Revived Kensei
+5212 Boss Soul_Sword of the Bed
+5213 Boss Soul_Yasha Monkey 2nd round
+5300 Boss Soul (Used) _ Cavalry Warrior
+5301 Boss Soul (Used) _ Butterfly
+5302 Boss Soul (Used) _ Second Rival
+5303 Boss Soul (Used) _ Chigo Monkey
+5304 Boss Soul (Used) _ Yasha Ape
+5305 Boss Soul (Used) _ Haunting Monk (Phantom)
+5306 Boss Soul (Used) _ Chief of Ninja Army
+5307 Boss Soul (Used) _ Chief of Ninja Army (True)
+5308 Boss Soul (Used) _Burning Monk
+5309 Boss Soul (Used) _ Mermaid Dragon
+5310 Boss Soul (Used) _ Demon Buddhist Master
+5311 Boss Soul (Used) _ Revived Kensei
+5312 Boss Soul (Used) _ Kensei on the sickbed
+5313 Boss Soul (Used) _ Yasha Ape 2nd Round
+5400 Boss Soul_For displaying the number of possessions
+5500 Mask Fragment A
+5501 Mask Fragment B
+5502 Mask Fragment C
+5510 Mask finished product
+5600 Long cough treatment
+6000 General-purpose material: Steel 1 (fragment)
+6010 General-purpose material: Steel 2 (Large piece)
+6020 General-purpose material: Steel 3 (lump)
+6100 General-purpose material: Chemical magic 1 (fragment)
+6200 General-purpose material: Chemistry 2 (Large piece)
+6210 General-purpose material: Chemistry 3 (lump)
+6300 General-purpose material: Magic 2 (Large Fragment)
+6310 General-purpose material: Curse 3 (lump)
+6400 General-purpose material: Steel Chemical Spell 4 (master)
+9000 Mermaid dragon tears
+9003 Amulet
+9009 Sakura drop
+9010 Prince&#39;s bell
+9011 Father-in-law&#39;s bell
+9020 Inro of irises
+9052 Red eyeball
+9060 tally
+9061 Anayama tally
+9070 Kyoto water
+9071 Lord&#39;s beard
+9080 Red-white windmill
+9081 Pure white windmill
+9090 Chigo rice (for Kuro)
+9091 Ice tears
+9100 Sake (sake)
+9101 Sake (Doburoku)
+9102 Liquor (Ape Wine)
+9103 Liquor (Longquan)
+9104 Sake (Emma&#39;s sake)
+9105 Sake (Kensei no Doburoku)
+9180 Nishikigoi bait
+9181 Nishikigoi food_poison A
+9182 Nishikigoi food_poison B
+9192 Snake organ_A
+9193 Snake organ_B
+9200 Book_ Whereabouts of illusion cancellation
+9205 Book_Immortal Experiment Doctor&#39;s Note
+9206 Books_Rat writing
+9207 Books_Order Writing_A
+9208 Books_Order Writing_B
+9209 Books_About the ritual
+9210 Book_Book of the Dragon Seed (above)
+9211 Book_Book of the Dragon Seed (below)
+9212 About books_incense flowers
+9213 Books_About stones
+9214 Book_length memoir of Kosho
+9215 From the book_Senmine Shonin&#39;s scripture_Monk
+9216 Books_Return
+9217 Book_ Whereabouts of ignition
+9218 Books_Nightjars Smoke Signal Tips
+9219 Book_Kensei&#39;s letter
+9220 Books_About stones (hero)
+9221 Books_Kodachi Material Tips_Before purchasing from Araji shop clerk
+9222 Books_Kodachi Material Tips_After purchasing from Araji shop clerk
+9223 Books_Finger Whistle Reinforcement Material Tips_Before Purchasing from Araji Shop Clerk
+9224 Books_Finger Whistle Reinforcement Material Tips_After purchasing from Araji Shop Clerk
+9225 Books_Transformation Material Tips_Before Purchasing from Araji Shop Clerk
+9226 Books_Transformation Material Tips_After Purchasing from Araji Shop Clerk
+9227 Book_Black Immortal Document
+9228 From the book_Senmine Shonin&#39;s scripture_Map layout
+9402 Key_key of the station
+9403 Key_Key of the Great Buddha Hall
+9404 Key_loophole key
+9405 Key_canyon key
+9500 Illness of collapse_Busshi
+9501 Illness of collapse_Sale bandit
+9502 Illness of collapse_white
+9503 Illness of collapse _ kidnapped younger man
+9504 Illness of collapse_fascinated samurai
+9505 Collapse Disease_Immortality Experiment Doctor
+9510 Illness of collapse_Suzu&#39;s son
+9511 Illness of collapse_decent villagers
+9515 Illness of collapse_Suzu
+9516 Illness of collapse _ Yao Hioka
+9520 Illness of collapse_Crow&#39;s bed grave fishing
+9521 Illness of collapse_grave fishing near the battlefield
+9522 Illness of collapse_grave fishing in front of abandoned prison
+9523 Collapse disease_Snake burrow grave fishing
+9524 Illness of collapse_Shugendo grave fishing
+9525 Illness of collapse_grave fishing on the cliff road
+9526 Illness of collapse_Araji shop clerk
+9560 Breaking disease_Blood of dragon cough patient
+9700 Artificial limb ninja creation_shuriken
+9701 Artificial limb ninja strengthening _ shuriken _ butterfly kunai
+9710 Artificial limb making _ firecracker
+9720 Artificial limb ninja creation_fire
+9721 Artificial limb ninja strengthening _ ignition _ flame radiation
+9730 Artificial limb ninja creation_prepared ax
+9740 Artificial limb making _ transformation
+9750 Artificial limb ninja tool creation_prepared Kodachi
+9760 Artificial limb making _ iron fan
+9770 Artificial limb ninja creation_enemy turning
+9780 Artificial limb ninja creation_prepared spear
+9790 Artificial limb ninja creation_finger whistle
+9791 Artificial limb ninja enhancement_finger whistle_minor
+10000 Uroko
+910000 Debugging Skills Lifted: New Game
+910010 Debugging skills lifted: Castle
+910020 Debugging skills lifted: Samurai residence
+910030 Debugging skills lifted: Honjo
+910040 Debugging skills lifted: Hidden prison
+910050 Debugging skills lifted: Dungeon
+910060 Debugging skills lifted: Temple
+910070 Debugging skills lifted: Canyon
+910080 Debugging skills lifted: Lower canyon
+910090 Debugging Skills Lifted: Sick Village
+910100 Debugging skill lifted: Honjo_Ninja army invasion
+910110 Debugging skill lifted: Submerged city
+910120 Debugging skills lifted: Honjo_Tokugawa invasion
+910130 Debugging skill lifted: Hidden prison _ When Tokugawa attacks
+910140 Debugging skills lifted: Castle_Tokugawa invasion
+910150 Debugging skills lifted: Game clear
+920000 Debugging skills lifted: New game for checking enemies
+920010 Debugging skill lifted: Castle for checking enemies
+920020 Debugging skills lifted: Samurai residence for checking enemies
+920030 Debugging skill lifted: Honjo for checking enemies
+920040 Debugging skill lifted: Hidden prison for checking enemies
+920050 Debugging skills lifted: Enemy check dungeon
+920060 Debugging skill lifted: Enemy check temple
+920070 Debugging skills lifted: Enemy check canyon
+920080 Debugging skill lifted: Lower layer of canyon for checking enemies
+920090 Debugging skill lifted: Enemy check sick village
+920100 Debugging skill lifted: Enemy check Honjo_Ninja army invasion
+920110 Debugging skill lifted: Submerged city for checking enemies
+920120 Debugging skill lifted: Enemy check Honjo_When Tokugawa attacks
+920130 Debugging skill lifted: Hidden prison for checking enemies_When Tokugawa attacks
+920140 Debugging skill lifted: Enemy check castle _ Tokugawa invasion
+920150 Debugging skill lifted: Clear enemy check game
+930000 Debugging skill voucher: New game for checking enemies
+930010 Debugging skill voucher: Castle for checking enemies
+930020 Debugging skill voucher: Samurai residence for checking enemies
+930030 Debugging skill voucher: Honjo for checking enemies
+930040 Debugging skill voucher: Hidden prison for checking enemies
+930050 Debugging skill voucher: Enemy check dungeon
+930060 Debugging skill voucher: Enemy check temple
+930070 Debugging skill voucher: Enemy check canyon
+930080 Debugging skill voucher: Lower layer of canyon for checking enemies
+930090 Debugging skill voucher: Enemy check sick village
+930100 Debugging skill voucher: Honjo for enemy check_When the Ninja army invades
+930110 Debugging skill voucher: Submerged city for checking enemies
+930120 Debugging skill voucher: Enemy check Honjo_When Tokugawa attacks
+930130 Debugging skill voucher: Hidden prison for checking enemies_When Tokugawa attacks
+930140 Debugging skill voucher: Castle for checking enemies_When Tokugawa attacks
+930150 Debugging skill voucher: Clear enemy check game
+999996 Debugging skill lifted: No derivative attacks
+999997 Debugging skills lifted: Everything except immortal slashing / acquisition of form charges
+999998 Debugging Skills Lifted: Everything except Immortal Slash
+999999 Debugging skills lifted: All
