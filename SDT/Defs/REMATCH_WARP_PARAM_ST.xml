@@ -41,6 +41,6 @@
     <Field Def="u8 EventFlagManByte10" />
     <Field Def="u8 WeaponStructFlag1" />
     <Field Def="u8 WeaponStructFlag2" />
-    <Field Def="s32 Unk04" />
+    <Field Def="dummy8 pad[4]" />
   </Fields>
 </PARAMDEF>
