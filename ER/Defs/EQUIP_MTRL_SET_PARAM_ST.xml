@@ -6,18 +6,37 @@
   <Unicode>True</Unicode>
   <FormatVersion>201</FormatVersion>
   <Fields>
-    <Field Def="u32 Unk00" />
-    <Field Def="u32 Unk04" />
-    <Field Def="u32 Unk08" />
-    <Field Def="u32 Unk0C" />
-    <Field Def="u32 Unk10" />
-    <Field Def="u32 Unk14" />
-    <Field Def="u32 Unk18" />
-    <Field Def="u32 Unk1C" />
-    <Field Def="u32 Unk20" />
-    <Field Def="u32 Unk24" />
-    <Field Def="u32 Unk28" />
-    <Field Def="u32 Unk2C" />
-    <Field Def="u32 Unk30" />
+    <Field Def="s32 MaterialId01 = -1" />
+    <Field Def="s32 MaterialId02 = -1" />
+    <Field Def="s32 MaterialId03 = -1" />
+    <Field Def="s32 MaterialId04 = -1" />
+    <Field Def="s32 MaterialId05 = -1" />
+    <Field Def="s32 MaterialId06 = -1" />
+    <Field Def="dummy8 pad1[8]" />
+    <Field Def="s8 ItemNum01 = -1" />
+    <Field Def="s8 ItemNum02 = -1" />
+    <Field Def="s8 ItemNum03 = -1" />
+    <Field Def="s8 ItemNum04 = -1" />
+    <Field Def="s8 ItemNum05 = -1" />
+    <Field Def="s8 ItemNum06 = -1" />
+    <Field Def="dummy8 pad2[2]" />
+    <Field Def="u8 ItemType01">
+    </Field>
+    <Field Def="u8 ItemType02">
+      <Enum>ItemType</Enum>
+    </Field>
+    <Field Def="u8 ItemType03">
+      <Enum>ItemType</Enum>
+    </Field>
+    <Field Def="u8 ItemType04">
+      <Enum>ItemType</Enum>
+    </Field>
+    <Field Def="u8 ItemType05">
+      <Enum>ItemType</Enum>
+    </Field>
+    <Field Def="u8 ItemType06">
+      <Enum>ItemType</Enum>
+    </Field>
+    <Field Def="dummy8 pad3[6]" />
   </Fields>
 </PARAMDEF>
