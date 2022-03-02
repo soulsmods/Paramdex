@@ -16,7 +16,10 @@
     <Field Def="s32 Unk18 = 0" />
     <Field Def="s16 Unk1C" />
     <Field Def="s16 Unk1E" />
-    <Field Def="s32 Unk20" />  <!-- GameAreaParam.Unk54 -->
+    <Field Def="u8 MapId1" />
+    <Field Def="u8 MapId2" />
+    <Field Def="u8 MapId3" />
+    <Field Def="u8 MapId4" />
     <Field Def="f32 Unk24" />
     <Field Def="f32 Unk28" />
     <Field Def="f32 Unk2C" />

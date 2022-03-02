@@ -21,6 +21,7 @@
     <Field Def="s8 ItemNum06 = -1" />
     <Field Def="dummy8 pad2[2]" />
     <Field Def="u8 ItemType01">
+      <Enum>ItemType</Enum>
     </Field>
     <Field Def="u8 ItemType02">
       <Enum>ItemType</Enum>

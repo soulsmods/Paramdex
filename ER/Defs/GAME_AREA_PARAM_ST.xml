@@ -27,7 +27,10 @@
     <Field Def="u32 Unk48" />
     <Field Def="u32 Unk4C" />
     <Field Def="u32 Unk50" />
-    <Field Def="u32 Unk54" />
+    <Field Def="u8 MapId1" />
+    <Field Def="u8 MapId2" />
+    <Field Def="u8 MapId3" />
+    <Field Def="u8 MapId4" />
     <Field Def="u32 Unk58" />
     <Field Def="u32 Unk5C" />
   </Fields>
