@@ -6,53 +6,55 @@
   <Unicode>True</Unicode>
   <FormatVersion>201</FormatVersion>
   <Fields>
-    <Field Def="u32 Unk00" />
-    <Field Def="u32 Unk04" />
-    <Field Def="u32 Unk08" />
-    <Field Def="u32 Unk0C" />
-    <Field Def="u32 Unk10" />
-    <Field Def="u32 Unk14" />
-    <Field Def="u32 Unk18" />
-    <Field Def="u32 Unk1C" />
-    <Field Def="u32 Unk20" />
-    <Field Def="u32 Unk24" />
-    <Field Def="u32 Unk28" />
-    <Field Def="u32 Unk2C" />
-    <Field Def="u32 Unk30" />
-    <Field Def="u32 Unk34" />
-    <Field Def="u32 Unk38" />
-    <Field Def="u32 Unk3C" />
-    <Field Def="u32 Unk40" />
-    <Field Def="u32 Unk44" />
-    <Field Def="u32 Unk48" />
-    <Field Def="u32 Unk4C" />
-    <Field Def="u32 Unk50" />
-    <Field Def="u32 Unk54" />
-    <Field Def="u32 Unk58" />
-    <Field Def="u32 Unk5C" />
-    <Field Def="u32 Unk60" />
-    <Field Def="u32 Unk64" />
-    <Field Def="u32 Unk68" />
-    <Field Def="u32 Unk6C" />
-    <Field Def="u32 Unk70" />
-    <Field Def="u32 Unk74" />
-    <Field Def="u32 Unk78" />
-    <Field Def="u32 Unk7C" />
-    <Field Def="u32 Unk80" />
-    <Field Def="u32 Unk84" />
-    <Field Def="u32 Unk88" />
-    <Field Def="u32 Unk8C" />
-    <Field Def="u32 Unk90" />
-    <Field Def="u32 Unk94" />
-    <Field Def="u32 Unk98" />
-    <Field Def="u32 Unk9C" />
-    <Field Def="u32 UnkA0" />
-    <Field Def="u32 UnkA4" />
-    <Field Def="u32 UnkA8" />
-    <Field Def="u32 UnkAC" />
-    <Field Def="u32 UnkB0" />
-    <Field Def="u32 UnkB4" />
-    <Field Def="u32 UnkB8" />
-    <Field Def="u32 UnkBC" />
+    <Field Def="s32 Unk00" />
+    <Field Def="s32 Unk04" />
+    <Field Def="s32 Unk08 = 0" />
+    <Field Def="s16 Unk0C" />  <!-- Type/Icon? -->
+    <Field Def="s16 Unk0E" />
+    <Field Def="s32 Unk10" />
+    <Field Def="s32 Unk14" />
+    <Field Def="s32 Unk18" />
+    <Field Def="f32 Unk1C" />
+    <Field Def="s32 Unk20" />  <!-- GameAreaParam.Unk54 -->
+    <Field Def="f32 Unk24" />
+    <Field Def="f32 Unk28" />
+    <Field Def="f32 Unk2C" />
+    <Field Def="s32 NameId" />
+    <Field Def="s32 Unk34 = 0" />
+    <Field Def="s32 Unk38 = 0" />
+    <Field Def="s32 Unk3C = -1" />
+    <Field Def="s32 Unk40 = 0" />
+    <Field Def="s32 Unk44 = 0" />
+    <!-- This may be part of an array of structs and should be named accordingly. -->
+    <Field Def="s32 TempNameId" />
+    <Field Def="u32 TempAppearFlag" />
+    <Field Def="u32 TempDisappearFlag" />
+    <Field Def="s32 Unk54 = -1" />
+    <Field Def="s32 Unk58 = 0" />  <!-- These should be u32 if they're event flags -->
+    <Field Def="s32 Unk5C = 0" />
+    <Field Def="s32 Unk60 = -1" />
+    <Field Def="s32 Unk64 = 0" />
+    <Field Def="s32 Unk68 = 0" />
+    <Field Def="s32 Unk6C = -1" />
+    <Field Def="s32 Unk70 = 0" />
+    <Field Def="s32 Unk74 = 0" />
+    <Field Def="s32 Unk78 = -1" />
+    <Field Def="s32 Unk7C = 0" />
+    <Field Def="s32 Unk80 = 0" />
+    <Field Def="s32 Unk84 = -1" />
+    <Field Def="s32 Unk88 = 0" />
+    <Field Def="s32 Unk8C = 0" />
+    <Field Def="s32 Unk90 = 0" />
+    <Field Def="s32 Unk94 = 0" />
+    <Field Def="s32 Unk98 = -1" />
+    <Field Def="s32 Unk9C = 0" />
+    <Field Def="s32 UnkA0 = 0" />
+    <Field Def="s32 UnkA4 = 0" />
+    <Field Def="s32 UnkA8 = -1" />
+    <Field Def="s32 UnkAC = -1" />
+    <Field Def="s32 UnkB0 = -1" />
+    <Field Def="u32 UnkB4" />  <!-- Bitfield? -->
+    <Field Def="s32 UnkB8 = 0" />
+    <Field Def="s32 UnkBC = 0" />
   </Fields>
 </PARAMDEF>

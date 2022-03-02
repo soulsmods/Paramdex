@@ -10,6 +10,6 @@
     <Field Def="s32 NameId" />
     <Field Def="s16 TabId" />
     <Field Def="s16 Unk0A" />
-    <Field Def="u32 Unk0C = 0" />
+    <Field Def="s32 Unk0C = 0" />
   </Fields>
 </PARAMDEF>

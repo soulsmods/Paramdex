@@ -18,7 +18,7 @@
     <Field Def="u32 Unk24" />
     <Field Def="u32 Unk28" />
     <Field Def="u32 Unk2C" />
-    <Field Def="u32 Unk30" />
+    <Field Def="s32 ItemLotId1" />
     <Field Def="u32 Unk34" />
     <Field Def="u32 Unk38" />
     <Field Def="u32 Unk3C" />

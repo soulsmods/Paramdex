@@ -21,7 +21,7 @@
     <Field Def="s16 Unk30" />
     <Field Def="s16 Unk32" />
     <Field Def="s32 Unk34 = 0" />
-    <Field Def="u32 Unk38" />
+    <Field Def="f32 Unk38" />
     <Field Def="s32 Unk3C" />
     <Field Def="s32 Unk40" />
     <Field Def="s32 Unk44 = 0" />
