@@ -9,7 +9,7 @@
     <Field Def="u32 Unk00" />
     <Field Def="u32 Unk04" />
     <Field Def="u32 Unk08" />
-    <Field Def="u32 Unk0C" />
+    <Field Def="s32 NameId" />
     <Field Def="u32 Unk10" />
     <Field Def="u32 Unk14" />
     <Field Def="u32 Unk18" />
@@ -19,7 +19,7 @@
     <Field Def="u32 Unk28" />
     <Field Def="u32 Unk2C" />
     <Field Def="s32 ItemLotId1" />
-    <Field Def="u32 Unk34" />
+    <Field Def="s32 ItemLotId2" />
     <Field Def="u32 Unk38" />
     <Field Def="u32 Unk3C" />
     <Field Def="u32 Unk40" />
