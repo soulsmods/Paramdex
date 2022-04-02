@@ -17,6 +17,7 @@ Dark Souls III | DS3
 Demon's Souls | DES
 Bloodborne | BB
 Sekiro | SDT
+Elden Ring | ER
 
 ## Writing Paramdefs
 All paramdefs should contain the following elements:  
