@@ -1,5 +1,5 @@
-"ItemCategory"
-"u32"
+"ITEMLOT_ITEMCATEGORY"
+"s32"
 "None","4294967295"
 "Armor","0"
 "Weapon","268435456"

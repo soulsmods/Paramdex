@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <PARAMDEF XmlVersion="3">
-  <ParamType>ACTIONGUIDE_PARAM_ST</ParamType>
+  <ParamType>ACTION_GUIDE_PARAM_ST</ParamType>
   <DataVersion>1</DataVersion>
   <BigEndian>False</BigEndian>
   <Unicode>True</Unicode>
