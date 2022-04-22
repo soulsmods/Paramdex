@@ -1,11 +1,12 @@
 # Paramdex
-A collection of resources for working with params via [SoulsFormats](https://github.com/JKAnderson/SoulsFormats), [Yapped](https://github.com/JKAnderson/Yapped), etc.  
+A collection of resources for working with params via [SoulsFormats](https://github.com/JKAnderson/SoulsFormats) and SoulsFormats-derived tools.  
 Three folders are included for each game:  
-* **Defs** - paramdefs required to edit param data, given in XML format. Filenames are arbitrary; apply based on the ParamType after loading.
+* **Defs** - paramdefs required to edit param data, given in XML format. Filenames are arbitrary; apply based on the included metadata after loading.
 * **Names** - predefined row names, primarily for newer games with names stripped. Names should not be assumed to be present for every param.
-* **Tdfs** - paramtdfs provide friendly names for enumerated types. Only present for Demon's Souls until further notice.
+* **Tdfs** - paramtdfs provide friendly names for enumerated types. Only officially shipped with Demon's Souls.
 
 Paramdefs for DeS, DS1, and BB were shipped with the games and should not be altered beyond translating display names and descriptions.  
+Paramdefs for SDT and ER are mostly official but have been extended slightly due to updates. The above applies to any original fields.  
 Paramdefs for other games were reverse-engineered, so improvements are welcome.  
 
 Game | Directory
@@ -55,6 +56,9 @@ Minimum | The minimum acceptable value
 Maximum | The maximum acceptable value
 Increment | How much to increase or decrease the value per step
 SortID | An arbitrary number that determines display ordering of fields
+UnkB8 | An optional new string of unknown purpose; appears to be an identifier.
+UnkC0 | An optional new string of unknown purpose; appears to be a param type.
+UnkC8 | An optional new string of unknown purpose; appears to be a display string.
 
 Any elements not provided will be given sensible default values based on the field's type. Default, Minimum, Maximum, and Increment are always specified as floats, so they are not meaningful for array types.  
 ```xml
@@ -81,7 +85,10 @@ s16 | No | No | Two-byte signed int
 u16 | Yes | No | Two-byte unsigned int
 s32 | No | No | Four-byte signed int
 u32 | Yes | No | Four-byte unsigned int
+b32 | No | No | Four-byte int representing a bool
 f32 | No | No | Single-precision floating point
+angle32 | No | No | Single-precision floating point representing an angle
+f64 | No | No | Double-precision floating point
 fixstr | No | Mandatory | Fixed-width Shift-JIS string
 fixstrW | No | Mandatory | Fixed-width UTF-16 string
 dummy8 | Yes | Yes | Byte or array of bytes used for padding
