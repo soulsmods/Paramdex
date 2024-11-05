@@ -687,15 +687,16 @@
       <UnkC0>NET_ARENA_PARAM</UnkC0>
       <UnkC8>アリーナ</UnkC8>
     </Field>
-    <Field Def="dummy8 pad15[12]">
-      <DisplayName>予約</DisplayName>
-      <DisplayFormat>%d</DisplayFormat>
-      <SortID>999999</SortID>
-      <UnkB8>Arena</UnkB8>
-      <UnkC0>NET_ARENA_PARAM</UnkC0>
-      <UnkC8>アリーナ</UnkC8>
-    </Field>
-    <Field Def="dummy8 pad10[64]">
+    <Field Def="s32 unk134" />
+    <Field Def="s32 unk138" />
+    <Field Def="s32 unk13c" />
+    <Field Def="s32 unk140" />
+    <Field Def="s32 unk144" />
+    <Field Def="s32 unk148" />
+    <Field Def="s32 unk14c" />
+    <Field Def="s32 unk150" />
+    <Field Def="s32 unk154" />
+    <Field Def="dummy8 pad10[40]">
       <DisplayName>予約</DisplayName>
       <DisplayFormat>%d</DisplayFormat>
       <SortID>1000000</SortID>

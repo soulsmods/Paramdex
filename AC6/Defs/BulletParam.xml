@@ -2428,7 +2428,8 @@
       <SortID>10370040</SortID>
       <UnkC8>動的生成するアセット</UnkC8>
     </Field>
-    <Field Def="dummy8 pad03:3">
+    <Field Def="u8 unk323_5:1" />
+    <Field Def="dummy8 pad03:2">
       <DisplayName>パディング</DisplayName>
       <SortID>90000001</SortID>
     </Field>
@@ -2517,10 +2518,16 @@
       <SortID>10070010</SortID>
       <UnkC8>弾丸寿命</UnkC8>
     </Field>
-    <Field Def="dummy8 pad_end[24]">
+    <Field Def="s32 unk34c" />
+    <Field Def="s32 unk350" />
+    <Field Def="s32 unk354" />
+    <Field Def="s32 unk358" />
+    <Field Def="s32 unk35c" />
+    <Field Def="dummy8 pad_end[4]">
       <DisplayName>パディング</DisplayName>
       <SortID>90000000</SortID>
       <UnkC8>パディング</UnkC8>
     </Field>
+    <Field Def="dummy8 unk364[20]" />
   </Fields>
 </PARAMDEF>

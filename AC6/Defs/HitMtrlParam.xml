@@ -53,7 +53,7 @@
       <Description>落下ダメージを受けない床の場合に 1 を設定する</Description>
       <Maximum>1</Maximum>
       <SortID>6000</SortID>
-      <UnkC8> </UnkC8>
+      <UnkC8 />
     </Field>
     <Field Def="u8 isHardnessForSoundReverb:1">
       <DisplayName>サウンド反響用硬い材質か？</DisplayName>

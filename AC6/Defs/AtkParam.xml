@@ -3026,7 +3026,8 @@
       <SortID>10090070</SortID>
       <UnkC8>多段ヒット</UnkC8>
     </Field>
-    <Field Def="dummy8 pad_11:6">
+    <Field Def="u8 unk353_2:1" />
+    <Field Def="dummy8 pad_11:5">
       <DisplayName>pad</DisplayName>
       <Description>pad4</Description>
       <SortID>90000000</SortID>

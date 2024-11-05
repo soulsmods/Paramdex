@@ -3177,7 +3177,8 @@
       <Maximum>1</Maximum>
       <SortID>10300015</SortID>
     </Field>
-    <Field Def="dummy8 pad13_1:7">
+    <Field Def="u8 unk343_1:1" />
+    <Field Def="dummy8 pad13_1:6">
       <DisplayName>パディング</DisplayName>
       <SortID>90000000</SortID>
       <UnkC8>パディング</UnkC8>

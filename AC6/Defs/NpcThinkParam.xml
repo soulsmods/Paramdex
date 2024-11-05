@@ -1393,7 +1393,8 @@
       <SortID>113510</SortID>
       <UnkC8>バグ修正用</UnkC8>
     </Field>
-    <Field Def="dummy8 pad2:6">
+    <Field Def="u8 unk191_2:1" />
+    <Field Def="dummy8 pad2:5">
       <DisplayName>pad</DisplayName>
       <SortID>990604</SortID>
     </Field>

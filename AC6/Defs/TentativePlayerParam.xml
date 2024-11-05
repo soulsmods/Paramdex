@@ -1392,12 +1392,7 @@
       <Increment>1</Increment>
       <SortID>7385</SortID>
     </Field>
-    <Field Def="dummy8 reserve_19[4]">
-      <DisplayName>予約領域</DisplayName>
-      <DisplayFormat>%f</DisplayFormat>
-      <EditFlags>Wrap</EditFlags>
-      <SortID>100002</SortID>
-    </Field>
+    <Field Def="s32 unk200" />
     <Field Def="f32 bladeBrakeTimeScale = 19.2">
       <DisplayName>【ブレホ】ブレーキ時間係数</DisplayName>
       <Description>ブレホブレーキの時間にかかる係数</Description>
@@ -1890,12 +1885,13 @@
       <Increment>0.1</Increment>
       <SortID>1625</SortID>
     </Field>
-    <Field Def="dummy8 reserve_53[36]">
+    <Field Def="dummy8 reserve_53[32]">
       <DisplayName>予約領域</DisplayName>
       <DisplayFormat>%.1f</DisplayFormat>
       <EditFlags>Wrap</EditFlags>
       <SortID>100004</SortID>
     </Field>
+    <Field Def="s32 unk30c" />
     <Field Def="dummy8 reserve_53_2[2]">
       <DisplayName>予約領域</DisplayName>
       <DisplayFormat>%.1f</DisplayFormat>
@@ -2468,11 +2464,7 @@
       <Maximum>1</Maximum>
       <SortID>1512</SortID>
     </Field>
-    <Field Def="dummy8 reserve_255[4]">
-      <DisplayName>予約</DisplayName>
-      <DisplayFormat>%.2f</DisplayFormat>
-      <SortID>99999</SortID>
-    </Field>
+    <Field Def="s32 unk430" />
     <Field Def="f32 tankTexScroll_FowardScale = 30">
       <DisplayName>【タンク】無限軌道の前後のテクスチャスクロールスケール</DisplayName>
       <Description>タンクのテクスチャスクロールの速度(Km/h)に対するスケール値</Description>

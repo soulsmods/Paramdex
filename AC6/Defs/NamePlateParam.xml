@@ -19,7 +19,8 @@
       <Maximum>999999999</Maximum>
       <SortID>2</SortID>
     </Field>
-    <Field Def="dummy8 pad[8]">
+    <Field Def="s32 unk08" />
+    <Field Def="dummy8 pad[4]">
       <SortID>99999999</SortID>
     </Field>
   </Fields>
