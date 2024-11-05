@@ -4,9 +4,10 @@ Three folders are included for each game:
 * **Defs** - paramdefs required to edit param data, given in XML format. Filenames are arbitrary; apply based on the included metadata after loading.
 * **Names** - predefined row names, primarily for newer games with names stripped. Names should not be assumed to be present for every param.
 * **Tdfs** - paramtdfs provide friendly names for enumerated types. Only officially shipped with Demon's Souls.
+Additionally, for ACVI some param files are mangled and do not include the param type string; ParamTypes.txt includes the correct param types for those that need it.  
 
 Paramdefs for DeS, DS1, and BB were shipped with the games and should not be altered beyond translating display names and descriptions.  
-Paramdefs for SDT and ER are mostly official but have been extended slightly due to updates. The above applies to any original fields.  
+Paramdefs for SDT, ER, and ACVI are mostly official but have been extended slightly due to updates. The above applies to any original fields.  
 Paramdefs for other games were reverse-engineered, so improvements are welcome.  
 
 Game | Directory
@@ -19,6 +20,7 @@ Demon's Souls | DES
 Bloodborne | BB
 Sekiro | SDT
 Elden Ring | ER
+Armored Core VI | AC6
 
 ## Writing Paramdefs
 All paramdefs should contain the following elements:  
@@ -79,11 +81,11 @@ All available types are listed below.
 
 Type | Supports Bit Size | Supports Array Length | Description
 -----|-------------------|-----------------------|------------
-s8 | No | No | One-byte signed int
+s8 | Yes | No | One-byte signed int
 u8 | Yes | No | One-byte unsigned int
-s16 | No | No | Two-byte signed int
+s16 | Yes | No | Two-byte signed int
 u16 | Yes | No | Two-byte unsigned int
-s32 | No | No | Four-byte signed int
+s32 | Yes | No | Four-byte signed int
 u32 | Yes | No | Four-byte unsigned int
 b32 | No | No | Four-byte int representing a bool
 f32 | No | No | Single-precision floating point
