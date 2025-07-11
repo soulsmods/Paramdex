@@ -1,0 +1,63 @@
+8000000 Power: Increased Maximum HP: 1
+8000001 Power: Increased Maximum HP: 2
+8010000 Power: Increased Maximum FP: 1
+8010001 Power: Increased Maximum FP: 2
+8010100 Power: Reduced FP Consumption: 1
+8010101 Power: Reduced FP Consumption: 2
+8020000 Power: Increased Maximum Stamina: 1
+8020001 Power: Increased Maximum Stamina: 2
+8020200 Power: Increased Stamina Recovery: 1
+8020201 Power: Increased Stamina Recovery: 2
+8100000 Power: Improved Physical Attack Power: 1
+8100001 Power: Improved Physical Attack Power: 2
+8100500 Power: Improved Affinity Attack Power: 1
+8100501 Power: Improved Affinity Attack Power: 2
+8120000 Power: Improved Stance-Breaking: 1
+8120001 Power: Improved Stance-Breaking: 2
+8200000 Power: Improved Physical Damage Negation: 1
+8200001 Power: Improved Physical Damage Negation: 2
+8200500 Power: Improved Affinity Damage Negation: 1
+8200501 Power: Improved Affinity Damage Negation: 2
+8210700 Power: All Resistances Up: 1
+8210701 Power: All Resistances Up: 2
+8230000 Power: Improved Poise: 1
+8230001 Power: Improved Poise: 2
+8330103 Power: Improved Sorceries and Incantations: 1
+8330104 Power: Improved Sorceries and Incantations: 2
+8330500 Power: Increased Sorceries and Incantation Duration
+8330700 Power: Dragonwound upon Dragon Communion
+8350400 Power: Successful Parries Activate Golden Retaliation
+8360000 Power: Improved Ultimate Art Guage Charge Speed
+8370000 Power: Character Skill Cooldown Reduction
+8410000 Power: Improved Dodging
+8410100 Power: Lightning upon Dodging
+8420100 Power: Guard Counters Activate Holy Attacks
+8420200 Power: Guard Counters Activate Summoning Attack
+8430000 Power: Improved Thrusting Counterattack
+8440000 Power: Improved Flask HP Restoration
+8440001 Power: Improved Flask HP Restoration
+8440200 Power: Gradual Restoration by Flask
+8450100 Power: Ice Storm Surge Sprint
+8460200 Power: Flame of Frenzy While Walking
+8460400 Power: Violent Deluge of Star Rain While Walking
+8500000 Power: More Runes From Defeated Enemies
+8500100 Power: Rune of the Strong
+8500101 Power: Rune of the Strong
+8500102 Power: Rune of the Strong
+8530200 Power: Periodical Giant Glintblades
+8600300 Power: Sudden Enemy Death upon Attacks
+8610000 Power: HP Restoration upon Successive Attacks
+8610100 Power: FP Restoration upon Successive Attacks
+8640000 Power: Critical Hit HP Restoration
+8640100 Power: Critical Hit FP Restoration
+8642000 Power: Damage Boosted after Critical Hit
+8650000 Power: HP Recovery upon Successful Guard
+8650100 Power: FP Recovery upon Successful Guard
+8660200 Power: Inflict Blood Loss at Low HP
+8660300 Power: Create Holy Ground at Low HP
+8700002 Power: Poison Restores HP
+8710002 Power: Blood Loss Increases Attack Power
+8970000 Power: Traces of Grace-Given Lord
+8970010 Power: Integration of Intelligence
+8970020 Power: Unifying Fate
+8970030 Power: Demon's Plating

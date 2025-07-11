@@ -1,0 +1,19 @@
+0 A dummy to keep the "individual ID" displayed above. You can erase this dummy when adding an individual ID.
+41000000 Bonfire flag
+41000050 Initialization flag
+41000100 System flag
+41000200 Character flag (do not reset)
+41000500 Object flag (do not reset)
+41000700 Conversation flag
+41000800 Boss flag (do not reset)
+41000900 For debugging/testing
+41001200 Character flag (do not reset)
+41001500 Object flag (do not reset)
+41002100 System flag
+41002200 Character flag (reset)
+41002500 Object flag (reset)
+41002700 Conversation flag
+41002800 Boss flag (reset)
+41002900 For debugging/testing
+41002920 02 Guardian Mission 1_Already started on this map
+41008500 Object act flag

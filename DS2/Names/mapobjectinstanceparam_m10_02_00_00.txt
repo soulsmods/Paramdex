@@ -1,16 +1,16 @@
 10020400 One Door 01 -- 片扉01
 10020405 One Door 02 -- 片扉02
-10020410 【One door】 Door in front of the NPC Dwarf -- 【片扉】NPCドワーフ前の扉
+10020410 [Door] Wooden Door in Second Tutorial Area
 10020500 [Ladder] lower ladder -- 【梯子】下し梯子
 10020501 Ladder: The road to the coffin -- 【梯子】棺桶への道
 10020502 [Ladder] before the fall attack -- 【梯子】落下攻撃前
-10020600 【White Door】Tutorial start soon -- 【白扉】チュートリアル開始すぐ
-10020605 [White door] on the tutorial passage -- 【白扉】チュートリアル通路の上
-10020610 【White Door】Tutorial long road ahead -- 【白扉】チュートリアル長い道の先
-10020615 [White door] tutorial second -- 【白扉】チュートリアル二つ目
-10020620 【White Door】Tutorial Goal Stairs Front Left Hand -- 【白扉】チュートリアルゴール階段前左手
-10020625 [White door] tutorial goal stairs front right hand upper passage -- 【白扉】チュートリアルゴール階段手前右手の上部通路
-10020650 The back door of the house -- 篝火_家の裏口
+10020600 [Fog Wall] First Tutorial Area
+10020605 [Fog Wall] Passage to Nest
+10020610 [Fog Wall] Back Passage to Ogre Area
+10020615 [Fog Wall] Second Tutorial Area
+10020620 [Fog Wall] Third Tutorial Area
+10020625 [Fog Wall] Passage in Upper Second Area
+10020650 [Bonfire] Fire Keepers' Dwelling
 10020700 【Light stand】Tutorial started -- 【灯火台】チュートリアル開始
 10020701 【Light stand】In front of the goal stairs -- 【灯火台】ゴール階段前
 10020702 【Light stand】 -- 【灯火台】
@@ -95,14 +95,15 @@
 10024100 【Fossil Forest】NPC Tomb Fire Guard Woman (2) -- 【化石の森】ＮＰＣ墓　火守女②
 10024200 【Fossil Forest】NPC Tomb Fire Guard Woman (3) -- 【化石の森】ＮＰＣ墓　火守女③
 10024300 【Fossil Forest】NPC Tomb Housekeeper -- 【化石の森】ＮＰＣ墓　家政婦
-10025010 【Wooden Treasure Chest】Fire Guard Woman's House _2F -- 【木宝箱01】火守女の家_2F
-10026000 【Treasure Corpse 01】 Grass Sagasa Area_Right Hand Cliff -- 【宝死体01】　草ガサガサエリア_右手の崖
-10026020 【Treasure Corpse 03】 Oga Front -- 【宝死体03】　オーガ正面
-10026030 【Treasure Corpse 04】 Under the Waterfall -- 【宝死体04】　滝の下
-10026040 [Treasure Corpse 05] Tutorial 1 Exit -- 【宝死体05】　チュートリアル1出口
-10026050 【Treasure corpse 06】 Behind the back of the house of the fire guard woman_ cart -- 【宝死体06】　火守女の家奥_荷車の陰
-10026060 [Treasure Corpse 07] [Orb of red eyes] behind the door of tutorial stage 2 -- 【宝死体07】【赤い瞳のオーブ】　チュートリアルステージ2の扉奥
-10026070 [Treasure Corpse 08] 【Dagger】 Behind the Door of Tutorial Stage 2 -- 【宝死体08】【ダガー】　チュートリアルステージ2の扉奥
-10026080 [Treasure Corpse 09] [Shizukuishi x1] Behind the Door of Tutorial Stage 2 -- 【宝死体09】【雫石ｘ1】　チュートリアルステージ2の扉奥
-10026090 [Treasure corpse 10] tutorial 2_ jump ing scaffolding -- 【宝死体10】　チュートリアル2_ジャンプで飛び移る足場
+10025010 [Chest] Fire Keeper House Upper Level
+10026000 [Corpse] Treasure
+10026020 [Corpse] Treasure
+10026030 [Corpse] Treasure
+10026040 [Corpse] Treasure
+10026050 [Corpse] Treasure
+10026060 [Corpse] Treasure
+10026070 [Corpse] Treasure
+10026080 [Corpse] Treasure
+10026090 [Corpse] Treasure
+10026100 [Corpse] Treasure
 10027000 【Gap Sinus】For "Line Science" Item Display -- 【隙間の洞】「線の理」アイテム表示用

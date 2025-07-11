@@ -1,0 +1,103 @@
+90 Consumable
+91 Reusable
+100 S
+101 A
+102 B
+103 C
+104 D
+105 E
+106 -
+110 -
+120 Dagger
+121 Straight Sword
+122 Greatsword
+123 Colossal Sword
+124 Curved Sword
+125 Curved Greatsword
+126 Katana
+127 Twinblade
+128 Thrusting Sword
+129 Heavy Thrusting Sword
+130 Axe
+131 Greataxe
+132 Hammer
+133 Great Hammer
+134 Flail
+135 Spear
+136 
+137 Great Spear
+138 Halberd
+139 Reaper
+140 Fist
+141 Fist
+142 Claw
+143 Whip
+144 Colossal Weapon
+145 Light Bow
+146 Bow
+147 Greatbow
+148 Crossbow
+149 Ballista
+150 Glintstone Staff
+151 Tattoo
+152 Sacred Seal
+153 
+154 Small Shield
+155 Medium Shield
+156 Greatshield
+157 Arrow
+158 Greatarrow
+159 Bolt
+160 Greatbolt
+161 Torch
+162 
+163 
+164 
+165 
+166 
+167 
+168 
+169 
+500 First Day
+501 First Day
+502 Second Day
+503 Second Day
+504 Final Day
+600 First Day: Noontide
+601 First Day: Night
+602 Second Day: Noontide
+603 Second Day: Night
+604 Final Day
+700 Please select
+701 Style of play
+702 Player name
+710 Please select
+711 —
+712 Cheating
+713 Bug exploitation
+714 Unattended games
+715 Obstruction or harassment
+716 Stalking
+717 Threats
+718 Discrimination
+719 Obscene content
+720 Commercial advertising
+721 Personal information
+722 Defamation
+723 Infringing on others' rights
+800 Please select
+801 —
+802 Cheating
+803 Bug exploitation
+804 Unattended games
+805 Obstruction or harassment
+806 Stalking
+807 Threats
+820 Please select
+821 —
+822 Discrimination
+823 Obscene content
+824 Commercial advertising
+825 Personal information
+826 Defamation
+827 Infringing on others' rights

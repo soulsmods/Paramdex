@@ -1,0 +1,21 @@
+0 This is a dummy to keep the "individual ID" displayed above. You can erase this dummy when adding an individual ID.
+1044380000 Bonfire flag
+1044380050 Initialization flag
+1044380100 System flag
+1044380200 Character flag (do not reset)
+1044380230 Frenzy area_m604438
+1044380300 Hidden room_unlocked
+1044380301 Hidden room_door opened
+1044380400 Character flag: small exploration (do not reset)
+1044380500 Object flag (do not reset)
+1044380700 Conversation flag
+1044380800 Boss flag (do not reset)
+1044380900 For debugging/testing
+1044382100 System flag
+1044382200 Character flag (reset)
+1044382400 Character flag: Small exploration (reset)
+1044382500 Object flag (reset)
+1044382700 Conversation flag
+1044382800 Boss flag (reset)
+1044382900 For debugging/testing
+1044388500 Object action flag

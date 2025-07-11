@@ -19,27 +19,3 @@
 1300002 c0300_Tank_Ground → Air transition problem -- c0300_タンク_地上→空中遷移不具合用
 1300009 c0300_Tank_Staggering while being grabbed -- c0300_タンク_掴まれよろけ中
 1300300 c0300_Tank_When using shoulder weapon -- c0300_タンク_肩武器使用時
-1300400 c0300_Tank_Phalanx_Start of shooting -- c0300_タンク_ファランクス_射撃開始時
-1300410 c0300_Tank_Coral Blade_Strong attack -- c0300_タンク_コーラルブレード_強攻撃
-1300420 c0300_Tank_Hammer_Strong attack -- c0300_タンク_ハンマー_強攻撃
-1300430 c0300_tank_light wave blade -- c0300_タンク_光波ブレード
-1301000 ■c0301_tank hover -- ■c0301_タンクホバー
-1301001 c0301_Tank Hover_Assault boost in progress -- c0301_タンクホバー_アサルトブースト中
-1301002 c0301_Tank Hover_For ground → air transition problem -- c0301_タンクホバー_地上→空中遷移不具合用
-1301009 c0301_Tank Hover_Staggering while being grabbed -- c0301_タンクホバー_掴まれよろけ中
-1301300 c0301_Tank Hover_When using shoulder weapon -- c0301_タンクホバー_肩武器使用時
-1301400 c0301_Tank Hover_Phalanx_Start of shooting -- c0301_タンクホバー_ファランクス_射撃開始時
-1301410 c0301_Tank Hover_Coral Blade_Strong attack -- c0301_タンクホバー_コーラルブレード_強攻撃
-1301420 c0301_Tank Hover_Hammer_Strong attack -- c0301_タンクホバー_ハンマー_強攻撃
-1301430 c0301_Tank hover_Light wave blade -- c0301_タンクホバー_光波ブレード
-1302000 ■c0302_tank wheelchair -- ■c0302_タンク車椅子
-1302001 c0302_Tank wheelchair_Assault boost in progress -- c0302_タンク車椅子_アサルトブースト中
-1302002 c0302_Tank wheelchair_For ground → air transition problem -- c0302_タンク車椅子_地上→空中遷移不具合用
-1302009 c0302_Tank wheelchair_Staggering while being grabbed -- c0302_タンク車椅子_掴まれよろけ中
-1302300 c0302_Tank wheelchair_When using shoulder weapon -- c0302_タンク車椅子_肩武器使用時
-1302400 c0302_Tank wheelchair_Phalanx_Start of shooting -- c0302_タンク車椅子_ファランクス_射撃開始時
-1302410 c0302_Tank wheelchair_Coral blade_Strong attack -- c0302_タンク車椅子_コーラルブレード_強攻撃
-1302420 c0302_Tank wheelchair_Hammer_Strong attack -- c0302_タンク車椅子_ハンマー_強攻撃
-1302430 c0302_Tank wheelchair_Light wave blade -- c0302_タンク車椅子_光波ブレード
-1900000 Bipod operation change ver_Two-handed -- 二脚操作変更ver_両手持ち
-1900100 Bipod operation change ver_Has 2 knives -- 二脚操作変更ver_2丁持ち

@@ -1,0 +1,47 @@
+0 テスト
+1 テスト1
+100 石柱_なりそこない
+200 王城1_ファランクス（本体）
+201 王城2_王の盾
+202 王城3_王の剣
+203 王城4_レンドル王
+301 古砦1_審判者
+302 古砦2_嵐の戦士
+303 古砦3_嵐の獣
+400 牢城1_カミサマ
+401 牢城2_キメラ
+402 牢城3_召喚ＮＰＣ
+500 不浄1_蛭デーモン
+501 不浄2_蠅たかり
+502 不浄3_聖女リーブラ
+600 坑道1_大蜘蛛
+601 坑道2_炎怪人
+602 坑道3_ドラゴンデーモン(坑道)
+801 チュートリアル_デブデーモン
+1000800 Gaping Dragon
+1010700 Taurus Demon
+1010750 Capra Demon
+1010800 Bell Gargoyles
+1100160 Crossbreed Priscilla
+1200800 Sif, the Great Grey Wolf
+1200801 Moonlight Butterfly
+1210401 Black Dragon Kalameet
+1210800 Sanctuary Guardian
+1210820 Knight Artorias
+1210840 Manus, Father of the Abyss
+1300800 Pinwheel
+1310800 Gravelord Nito
+1400800 Chaos Witch Quelaag
+1410400 Demon Firesage
+1410600 Ceaseless Discharge
+1410700 Centipede Demon
+1410800 Bed of Chaos
+1500800 Iron Golem
+1510650 Dark Sun Gwyndolin
+1510801 Dragon Slayer Ornstein
+1510811 Executioner Smough
+1600800 Four Kings
+1700800 Seath the Scaleless
+1800800 Gwyn, Lord of Cinder
+1810800 Asylum Demon
+1810810 Stray Demon

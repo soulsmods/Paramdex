@@ -94,29 +94,29 @@
 10184100 【NPC】Tomb_Sorcerer -- 【ＮＰＣ】墓_魔術師
 10184200 【NPC】Tomb_Dwarf -- 【ＮＰＣ】墓_ドワーフ
 10184900 Wall-mounted torch near the bell that calls the ship -- 壁付けタイプ_船を呼ぶ鐘付近の壁掛け松明
-10185000 【Wooden chest】 The house of the first house_2F -- 【木宝箱02】　1軒目の家_2F
-10185030 【Kiho-ho-bin】Bar -- 【木宝箱04】　酒場2F
-10185040 【Iron Treasure Chest 07】 Bar_Counter -- 【鉄宝箱07】　酒場_カウンター奥
-10185050 [Iron Treasure Chest] Nest of Darkness _2F -- 【鉄宝箱02】　闇ひそみの巣_2F
-10185060 【Iron Treasure Chest 03】 Drink House_Hidden Room -- 【鉄宝箱03】　飲んだくれハウス_隠し部屋
-10185070 [Iron treasure chest 05] three-story house_hidden room_right -- 【鉄宝箱05】　3階建ての家_隠し部屋_右
-10185080 【Wooden chest 06】 3-story house_hidden room_front -- 【木宝箱06】　3階建ての家_隠し部屋_正面
-10185100 [Wooden treasure chest 08_trap] the nest of the dark secret_2F -- 【木宝箱08_トラップ】　闇ひそみの巣_2F
-10185110 【Iron Treasure Chest】 Drink House -- 【鉄宝箱04】　飲んだくれハウス
-10185120 【Iron Treasure Chest】Boss Rear Ship Room -- 【鉄宝箱06】　ボス後船室
-10186000 【Treasure Corpse 01】 Balcony of the first house _2F -- 【宝死体01】　１軒目の家_2Fのバルコニー
-10186010 Treasure corpse 13: Stuck on a stranded ship -- 【宝死体13】　座礁した船にひっかかっている
-10186020 【Treasure corpse 15】 house on the ship's calling lever_stairs -- 【宝死体15】　船呼びレバー先の家_階段
-10186030 【Treasure corpse 17】 House of stairs_ Back of shelf -- 【宝死体17】　階段の家_棚の裏
-10186040 【Treasure Corpse】The second floor of a three-story building -- 【宝死体12】　３階建ての建物の２階
-10186050 【Treasure corpse】Water field in front of the light stand -- 【宝死体02】　灯火台1手前の水場
-10186070 【Treasure Corpse】House of Darkness Next to The Light Stand -- 【宝死体04】　灯火台1横の闇ひそみの家
-10186080 【Treasure Corpse】The abandoned house on the right side of the lamp stand -- 【宝死体05】　灯火台1右の廃屋
-10186100 【Treasure Corpse】On the house of the dark secret next to the light stand -- 【宝死体07】　灯火台1横の闇ひそみの家屋上
-10186110 【Treasure Corpse】Scaffolding in front of the nest of darkness -- 【宝死体08】　闇ひそみの巣前の突き出た足場
-10186120 [Treasure corpse 19_ human bone_skull] drink house_hidden room_right -- 【宝死体19_人骨_頭蓋骨】　飲んだくれハウス_隠し部屋_右
-10186130 [Treasure corpse 10] the house of the ship call lever destination _ rooftop -- 【宝死体10】　船呼びレバー先の家_屋上
-10186140 [Treasure corpse 20_human bone_skull] drink house_hidden room_left -- 【宝死体20_人骨_頭蓋骨】　飲んだくれハウス_隠し部屋_左
-10186150 【Treasure corpse】Abandoned house on the left of the lamp stand -- 【宝死体16】　灯火台1左の廃屋
-10186160 [Treasure corpse 21_ human bone _whole body] drink house_ hidden room -- 【宝死体21_人骨_全身】　飲んだくれハウス_隠し部屋
-10186170 【Treasure Corpse】Drink House -- 【宝死体22】　飲んだくれハウス
+10185000 [Chest] Treasure
+10185030 [Chest] Treasure
+10185040 [Chest] Treasure
+10185050 [Chest] Treasure
+10185060 [Chest] Treasure
+10185070 [Chest] Treasure
+10185080 [Chest] Treasure
+10185100 [Chest] Treasure
+10185110 [Chest] Treasure
+10185120 [Chest] Treasure
+10186000 [Corpse] Treasure
+10186010 [Corpse] Treasure
+10186020 [Corpse] Treasure
+10186030 [Corpse] Treasure
+10186040 [Corpse] Treasure
+10186050 [Corpse] Treasure
+10186070 [Corpse] Treasure
+10186080 [Corpse] Treasure
+10186100 [Corpse] Treasure
+10186110 [Corpse] Treasure
+10186120 [Corpse] Treasure
+10186130 [Corpse] Treasure
+10186140 [Corpse] Treasure
+10186150 [Corpse] Treasure
+10186160 [Corpse] Treasure
+10186170 [Corpse] Treasure

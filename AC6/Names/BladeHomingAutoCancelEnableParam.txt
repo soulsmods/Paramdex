@@ -2,37 +2,37 @@
 1254010 Light attack first hit interruption judgment -- 弱攻撃初段中断判定
 1254100 Heavy attack first hit interruption judgment -- 強攻撃初段中断判定
 1210000 Assault boost interruption determination -- アサルトブースト中断判定
-125000100 Light Wave Blade_Weak Attack 1st Stage_Interruption Judgment -- 光波ブレード_弱攻撃1段目_中断判定
-125000200 Light wave blade_2nd stage of weak attack_interruption judgment -- 光波ブレード_弱攻撃2段目_中断判定
-125001100 Light Wave Blade_Strong attack 1st stage_Interruption judgment -- 光波ブレード_強攻撃1段目_中断判定
-125100100 K blade_light attack 1st stage_interruption judgment -- Kブレード_弱攻撃1段目_中断判定
-125101100 K Blade_Strong attack 1st stage_Interruption judgment -- Kブレード_強攻撃1段目_中断判定
-125200100 Chain hammer_light attack 1st stage_interruption judgment -- チェインハンマー_弱攻撃1段目_中断判定
-125200200 Chain Hammer_Light attack 2nd stage_Interruption judgment -- チェインハンマー_弱攻撃2段目_中断判定
-125201100 Chain Hammer_Strong attack 1st stage_Interruption judgment -- チェインハンマー_強攻撃1段目_中断判定
-125300100 Pile Bunker_Light attack 1st stage_Interruption judgment -- パイルバンカー_弱攻撃1段目_中断判定
-125301100 Pile Bunker_Strong attack 1st stage_Interruption judgment -- パイルバンカー_強攻撃1段目_中断判定
-125400100 PA Breaker_Light attack 1st stage_Interruption judgment -- PAブレイカー_弱攻撃1段目_中断判定
-125400200 PA Breaker_Low attack 2nd stage_Interruption judgment -- PAブレイカー_弱攻撃2段目_中断判定
-125401100 PA Breaker_Strong attack 1st stage_Interruption judgment -- PAブレイカー_強攻撃1段目_中断判定
-125500100 Broadsword_Weak attack 1st stage_Interruption judgment -- ブロードソード_弱攻撃1段目_中断判定
-125501100 Broadsword_Strong attack 1st stage_Interruption judgment -- ブロードソード_強攻撃1段目_中断判定
-125600100 Beam Naginata_Light attack 1st stage_Interruption judgment -- ビームナギナタ_弱攻撃1段目_中断判定
-125600200 Beam Naginata_Weak attack 2nd stage_Interruption judgment -- ビームナギナタ_弱攻撃2段目_中断判定
-125601100 Beam Naginata_Strong attack 1st stage_Interruption judgment -- ビームナギナタ_強攻撃1段目_中断判定
-125700100 Laser dagger_light attack 1st stage_interruption judgment -- レーザーダガー_弱攻撃1段目_中断判定
-125700200 Laser dagger_light attack 2nd stage_interruption judgment -- レーザーダガー_弱攻撃2段目_中断判定
-125700300 Laser dagger_3rd stage of weak attack_interruption judgment -- レーザーダガー_弱攻撃3段目_中断判定
-125701100 Laser dagger_Strong attack 1st stage_Interruption judgment -- レーザーダガー_強攻撃1段目_中断判定
-125800100 Laser Lance_Light attack 1st stage_Interruption judgment -- レーザーランス_弱攻撃1段目_中断判定
-125801100 Laser Lance_Strong attack 1st stage_Interruption judgment -- レーザーランス_強攻撃1段目_中断判定
-125900100 Chainsaw_Light attack 1st stage_Interruption judgment -- チェーンソー_弱攻撃1段目_中断判定
-125900200 Chainsaw_Light attack 2nd stage_Interruption judgment -- チェーンソー_弱攻撃2段目_中断判定
-125901100 Chainsaw_Strong attack 1st stage_Interruption judgment -- チェーンソー_強攻撃1段目_中断判定
-126000100 Nightstick_Light attack 1st stage_Interruption judgment -- 警棒_弱攻撃1段目_中断判定
-126000200 Nightstick_Light attack 2nd stage_Interruption judgment -- 警棒_弱攻撃2段目_中断判定
-126000300 Nightstick_Light attack 3rd stage_Interruption judgment -- 警棒_弱攻撃3段目_中断判定
-126001100 Nightstick_Strong attack 1st stage_Interruption judgment -- 警棒_強攻撃1段目_中断判定
-126100100 Phalanx_Light attack 1st stage_Interruption judgment -- ファランクス_弱攻撃1段目_中断判定
-126101100 Phalanx_Strong attack 1st stage_Interruption judgment -- ファランクス_強攻撃1段目_中断判定
-126200100 Bare-handed_Light attack 1st stage_Interruption judgment -- 素手_弱攻撃1段目_中断判定
+125000100 IA-C01W2: MOONLIGHT / IA-C01W7: ML-REDSHIFT (1)
+125000200 IA-C01W2: MOONLIGHT / IA-C01W7: ML-REDSHIFT (2)
+125001100 IA-C01W2: MOONLIGHT / IA-C01W7: ML-REDSHIFT (Charged)
+125100100 CORAL OSCILLATOR - IB-C03W2: WLT 101 (1)
+125101100 CORAL OSCILLATOR - IB-C03W2: WLT 101 (Charged)
+125200100 PLASMA THROWER - 44-143 HMMR (1)
+125200200 PLASMA THROWER - 44-143 HMMR (2)
+125201100 PLASMA THROWER - 44-143 HMMR (Charged)
+125300100 PILE BUNKER - PB-033M ASHMEAD (1)
+125301100 PILE BUNKER - PB-033M ASHMEAD (Charged)
+125400100 PULSE BLADE - HI-32: BU-TT/A (1)
+125400200 PULSE BLADE - HI-32: BU-TT/A (2)
+125401100 PULSE BLADE - HI-32: BU-TT/A (Charged)
+125500100 LASER BLADE - Vvc-770LB (1)
+125501100 LASER BLADE - Vvc-770LB (Charged)
+125600100 LASER SLICER - Vvc-774LS (1)
+125600200 LASER SLICER - Vvc-774LS (2)
+125601100 LASER SLICER - Vvc-774LS (Charged)
+125700100 LASER DAGGER - VP-67LD (1)
+125700200 LASER DAGGER - VP-67LD (2)
+125700300 LASER DAGGER - VP-67LD (3)
+125701100 LASER DAGGER - VP-67LD (Charged)
+125800100 LASER LANCE - VE-67LLA (1)
+125801100 LASER LANCE - VE-67LLA (Charged)
+125900100 CHAINSAW - WB-0010 DOUBLE TROUBLE (1)
+125900200 CHAINSAW - WB-0010 DOUBLE TROUBLE (2)
+125901100 CHAINSAW - WB-0010 DOUBLE TROUBLE (Charged)
+126000100 STUN BATON - VP-67EB (1)
+126000200 STUN BATON - VP-67EB (2)
+126000300 STUN BATON - VP-67EB (3)
+126001100 STUN BATON - VP-67EB (Charged)
+126100100 EXPLOSIVE THROWER - DF-ET-09 TAI-YANG-SHOU (1)
+126101100 EXPLOSIVE THROWER - DF-ET-09 TAI-YANG-SHOU (Charged)
+126200100 Fist

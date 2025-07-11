@@ -43,7 +43,7 @@
 42 test_9450_leather
 43 test_9450_leather_Pattern
 44 test_9450_metal
-45 test_9450_metal_small parts 
+45 test_9450_metal_small parts
 46 test_9450_metal_Pattern
 47 test_9450_cloth
 48 test_9450_fur
@@ -67,7 +67,7 @@
 66 map_claypod
 67 map_bronze_new
 68 map_bronze_rust
-69 map_hemp_cloth 
+69 map_hemp_cloth
 70 map_bamboo_bag_new
 71 map_bamboo_bag_old
 72 map_stone_smooth
@@ -139,7 +139,7 @@
 2005 parts1010_metal
 2006 parts1010_cloth
 2007 parts1020_metal
-2008 parts1020_metal_small parts 
+2008 parts1020_metal_small parts
 2009 parts1020_metal_Pattern
 2010 parts1020_leather
 2011 parts1020_leather_rough
@@ -147,7 +147,7 @@
 2013 parts1020_fur
 2014 parts1020_wool
 2015 parts1030_metal
-2016 parts1030_metal_small Parts  -- parts1030_metal_small parts 
+2016 parts1030_metal_small Parts  -- parts1030_metal_small parts
 2017 parts1030_leather
 2018 parts1030_leather_rough
 2019 parts1030_cloth
@@ -697,10 +697,10 @@
 3327 c1410_scab
 3328 c1410_nail
 3329 c1480_muffler
-3330 c1480_cloth_hood 
+3330 c1480_cloth_hood
 3331 c1480_shirt
 3332 c1480_rope
-3333 c1480_hemp_cloth 
+3333 c1480_hemp_cloth
 3334 c1480_pants
 3335 c1480_gaiters
 3336 c1480_boots
@@ -840,7 +840,7 @@
 3470 c2160_tooth
 3471 c2160_metal_gauntlet
 3472 c2160_hair
-3473 c2160_skin 
+3473 c2160_skin
 3474 c2160_old_cloth
 3475 c2160_metal_gauntlet
 3476 c2160_sword_metal
@@ -1085,9 +1085,9 @@
 3715 c3180_sword_metal
 3716 c3180_sword_metal2
 3717 c3180_sword_lather
-3718 c3210_skin   
-3719 c3210_tooth 
-3720 c3210_mouth  
+3718 c3210_skin
+3719 c3210_tooth
+3720 c3210_mouth
 3721 c3210_ tongue -- c3210_舌
 3722 c3210_ chain -- c3210_鎖
 3723 c3210_nail
@@ -1109,7 +1109,7 @@
 3739 c3260_tooth
 3740 c3260_mouth
 3741 c3260_skin_wound
-3742 c3260_blood_vessel 
+3742 c3260_blood_vessel
 3743 c3260_metal_chain
 3744 c3260_blade
 3745 c3260_wood

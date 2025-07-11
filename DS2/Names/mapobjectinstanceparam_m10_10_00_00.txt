@@ -36,15 +36,15 @@
 10100660 【Bonfire】 Bonfire_03_Ground Cracking Square -- 【篝火】　篝火_03_地割れ広場
 10100670 【Bonfire】 Connection port with bonfire_06_Maduro -- 【篝火】　篝火_06_マデューラとの接続口
 10100675 After the Door of the Bonfire_07_King -- 【篝火】　篝火_07_王の扉の後
-10100701 【Lamp stand】 Light stand (permanent) _02 -- 【灯火台】　火をつけられる灯火台（永続）_02
-10100702 【Lamp stand】 Light stand (permanent) _03 -- 【灯火台】　火をつけられる灯火台（永続）_03
-10100703 【Lamp stand】 Light stand (permanent) _04 -- 【灯火台】　火をつけられる灯火台（永続）_04
-10100705 【Lamp stand】 Light stand (permanent) _06 -- 【灯火台】　火をつけられる灯火台（永続）_06
-10100706 【Lamp stand】 Light stand (permanent) _07 -- 【灯火台】　火をつけられる灯火台（永続）_07
-10100707 【Lamp stand】 Light stand (permanent) _08 -- 【灯火台】　火をつけられる灯火台（永続）_08
-10100709 【Lamp stand】 Light stand (permanent) _10 -- 【灯火台】　火をつけられる灯火台（永続）_10
-10100710 【Lamp stand】 Light stand (permanent) _11 -- 【灯火台】　火をつけられる灯火台（永続）_11
-10100711 【Lamp stand】 Light stand (permanent) _12 -- 【灯火台】　火をつけられる灯火台（永続）_12
+10100701 Brazier
+10100702 Brazier
+10100703 Brazier
+10100705 Brazier
+10100706 Brazier
+10100707 Brazier
+10100709 Brazier
+10100710 Brazier
+10100711 Brazier
 10101000 【Hidden Door (Key Guide)]Old Patch Trap Area -- 【隠し扉（キーガイド）】旧パッチトラップエリア
 10101002 Salamander flame dummy OBJ (flame from five places under the waterway) -- サラマンダー炎用ダミーOBJ(水路下の5か所からの炎)
 10101050 Elevator_Waterway ⇒ Boss Room -- 昇降機_水路⇒ボス部屋前
@@ -101,65 +101,78 @@
 10104100 【Decayed Giant Forest】NPC Tomb Map -- 【朽ちた巨人の森】ＮＰＣ墓　地図書き
 10104200 [Decayed Giant Forest] NPC Tomb Patch -- 【朽ちた巨人の森】ＮＰＣ墓　パッチ
 10104300 【Decayed Giant Forest】NPC Tomb Tsukiko Grandfather -- 【朽ちた巨人の森】ＮＰＣ墓　月光爺
-10105010 [Wooden treasure chest 02] room in the back of the royal guard door that can be destroyed 2F_ the main tower -- 【木宝箱02】　主塔2F_壊せる王兵扉奥の部屋
-10105020 【Wooden Treasure Chest】 Cave of the Start -- 【木宝箱01】　スタートの洞窟
-10105030 [Iron treasure chest 05] knock ing in the room in the back of the mosimoshi door -- 【鉄宝箱05】　ノックしてモシモシ扉奥の部屋
-10105040 【Wooden Treasure Chest 05_Trap】 Barista Room Basement -- 【木宝箱05_トラップ】　バリスタ部屋地階
-10105050 【Wooden Treasure Chest 03】 Waterway _ The Door Of The King -- 【木宝箱03】　水路_王兵の扉奥
-10105070 [Iron treasure chest 01] the tip of the room of the royal guard door 2F_ the main tower -- 【鉄宝箱01】　主塔2F_王兵扉の部屋の先
-10105080 [Iron treasure chest 03] barista room basement_hidden door back room_right -- 【鉄宝箱03】　バリスタ部屋地階_隠し扉奥の部屋_右
-10105090 [Iron treasure chest 04] barista room basement _hidden door back room_left -- 【鉄宝箱04】　バリスタ部屋地階_隠し扉奥の部屋_左
-10105100 [Iron treasure chest 06] on the flame barrel square _ scaffolding of the flaming pot soldiers -- 【鉄宝箱06】　火炎樽広場上_火炎壷兵士の足場
-10105110 【Iron Treasure Chest】 Under Waterway -- 【鉄宝箱09】　水路下
-10105120 【木宝箱09】 地割れ広場_木組み足場 -- 【木宝箱09】　地割れ広場_木組み足場
-10105130 【Iron Treasure Chest】Next to The Flame Cave -- 【鉄宝箱07】　火炎洞窟横
-10105140 【Iron Treasure Chest】 Hidden Room of Patch Passage -- 【鉄宝箱08】　パッチ通路の隠し部屋
-10106000 【Treasure Corpse 02】 Start of the River_Downstream -- 【宝死体02】　スタートの川_川下
-10106010 【Treasure Corpse】Ground Cracking Square_Rooftop -- 【宝死体18】　地割れ広場_屋上
-10106020 【Treasure Corpse 01】 Start of the River_ Opposite Bank -- 【宝死体01】　スタートの川_対岸
-10106030 【Treasure Corpse】 The Back of the Passage under the Giant Sword -- 【宝死体37】　巨人剣下の通路奥
-10106050 【Treasure Corpse】The branch of the main tower is caught -- 【宝死体13】 主塔の枝ひっかかり
-10106060 【Treasure corpse 06】 The back of the shelf of the outer wall passage_small room -- 【宝死体06】　外壁通路_小部屋の棚の裏
-10106070 【Treasure Corpse 15】 Dark Passage_Front -- 【宝死体15】　暗闇通路_手前
-10106080 【Treasure Corpse 16】 Dark Passage_Back -- 【宝死体16】　暗闇通路_奥
-10106090 [Treasure corpse 31] on the royal guard door to the giant sword under _ Bay Grant -- 【宝死体31】　巨人剣下_ベイグラントへの王兵扉上
-10106100 【Treasure Corpse】Giant Sword -- 【宝死体27】　巨人剣
-10106110 【Treasure Corpse】The River Upstream of the Start -- 【宝死体38】　スタートの川上流
-10106120 【Treasure Corpse 17】 Ground Cracking Square_Building -- 【宝死体17】　地割れ広場_建物内
-10106130 【Treasure corpse 20】 In front of the grid where the ground cracking square can be seen in the submerged square -- 【宝死体20】　水没広場_地割れ広場の見える格子前
-10106140 【Treasure corpse 07】 Outer wall passage destination _ hollow of the roof -- 【宝死体07】　外壁通路先_屋上のくぼみ
-10106150 【Treasure Corpse】Submerged Square_Rock Gorogoro -- 【宝死体21】　水没広場_岩ゴロゴロ奥
-10106160 [Treasure corpse 24] patch passage -- 【宝死体24】　パッチ通路
-10106170 【Treasure Corpse】Scaffolding jumping from the stairs of the arena -- 【宝死体03】　アリーナの階段から飛び移る足場
-10106180 [Treasure corpse 36]　L-shaped aisle_stairs -- 【宝死体36】　L字通路先_階段の脇
-10106190 【Treasure corpse】Flame barrel square_ Before the wall leading to the flame jar soldiers -- 【宝死体25】　火炎樽広場_火炎壷兵士へと続く城壁手前
-10106200 [Treasure Corpse 05] Passage on the circular arena_ -- 【宝死体05】　円形アリーナ_上の通路
-10106210 【Treasure corpse】Tree trunk going up to the back of the wooden scaffolding -- 【宝死体10】　木製足場奥_足場へ上る木の幹
-10106220 [Treasure corpse 26] flame barrel square _ the back of the wall leading to the flaming pot soldiers -- 【宝死体26】　火炎樽広場_火炎壷兵士へと続く城壁奥
-10106230 [Treasure corpse 33] leaning on the tree in the center of the circular arena -- 【宝死体33】　円形アリーナ_中央の木にもたれかかり
-10106240 【Treasure corpse】Submerged square_ stuck in collapsed building -- 【宝死体19】　水没広場_崩れた建物にひっかかり
-10106250 [Treasure corpse 28] in front of the door under the stairs in front of the elevator -- 【宝死体28】　昇降機前の部屋_階段下の扉前
-10106260 【Treasure Corpse】A Round Arena_Mhaveinin in the Center -- 【宝死体34】　円形アリーナ_中央でうつぶせ
-10106270 【Treasure Corpse】Wooden Scaffolding Back_Return Road Jumping Scaffolding -- 【宝死体09】　木製足場奥_復帰路のジャンプする足場
-10106280 [Treasure corpse 35] round arena_ aback in the front -- 【宝死体35】　円形アリーナ_正面奥であおむけ
-10106290 【Treasure Corpse】Return road from Bay Grant Battlefield -- 【宝死体32】　ベイグラント戦場からの復帰路
-10106300 【Treasure Corpse 14】 In front of the door of the waterway_king soldier -- 【宝死体14】　水路_王兵の扉前
-10106310 【Treasure Corpse】The back of the cave under a wooden scaffold -- 【宝死体12】　木製足場下の洞窟奥
-10106320 【Treasure Corpse】The Back of the Submerged Plaza_Iwagoro Tunnel -- 【宝死体22】　水没広場_岩ゴロトンネルの奥
-10106340 [Treasure corpse 11_ human bone_whole body] flame cave -- 【宝死体11_人骨_全身】　火炎洞窟
-10106350 [Treasure corpse 29_ human bone _whole body] Salamander cave_ boss aisle side -- 【宝死体29_人骨_全身】　サラマンダー洞窟_ボス通路側
-10106360 [Treasure corpse 30_ human bone_whole body] Salamander cave_flame cave side -- 【宝死体30_人骨_全身】　サラマンダー洞窟_火炎洞窟側
-10106370 【Treasure Corpse】A side stand before the Bay Grant war -- 【宝死体40】　ベイグラント戦手前の物見台
-10106380 Treasure Corpse 41: Outside the passage on the circular arena -- 【宝死体41】　円形アリーナ_上の通路の外側
-10106390 【Treasure Corpse】 Next to the Main Tower -- 【宝死体42】　主塔横
-10106400 【Treasure corpse 43】 Under wooden scaffolding _ main tower side -- 【宝死体43】　木製足場下_主塔側
-10106410 【Treasure corpse 44】 front of the boss front elevator -- 【宝死体44】　ボス前昇降機手前
-10106420 [Treasure corpse 45] wooden scaffolding _ scaffolding on the door side of the king -- 【宝死体45】　木製足場_王の扉側の足場
-10106430 【Treasure corpse 46】 In front of the lattice where the ground cracking plaza and the submerged square can be seen -- 【宝死体46】　地割れ広場_水没広場の見える格子前
-10106440 【Treasure Corpse】Barista Room_Mash -- 【宝死体47】　バリスタ部屋_うつぶせ
-10106450 【Treasure Corpse】Barista Room_Aomue -- 【宝死体48】　バリスタ部屋_あおむけ
-10106460 [Treasure corpse 49_ human bone_whole body] under the waterway_ face down -- 【宝死体49_人骨_全身】　水路下_うつ伏せ
-10106470 [Treasure corpse 50_ human bone _ whole body] under the waterway _ kabese -- 【宝死体50_人骨_全身】　水路下_かべもたれ
-10106480 [Treasure corpse 51_ human bone_ skull] under the waterway -- 【宝死体51_人骨_頭蓋骨】　水路下
-10106490 【Treasure Corpse】Main Tower -- 【宝死体52】　主塔2F
-10106500 【Treasure corpse 53】 Scaffolding above the head of the flame barrel square -- 【宝死体53】　火炎樽広場上_王国兵頭上の足場
+10105010 [Chest] Treasure
+10105020 [Chest] Treasure
+10105030 [Chest] Treasure
+10105040 [Chest] Treasure
+10105050 [Chest] Treasure
+10105070 [Chest] Treasure
+10105080 [Chest] Treasure
+10105090 [Chest] Treasure
+10105100 [Chest] Treasure
+10105110 [Chest] Treasure
+10105120 [Chest] Treasure
+10105130 [Chest] Treasure
+10105140 [Chest] Treasure
+10105150 [Chest] Treasure
+10106000 [Corpse] Treasure
+10106010 [Corpse] Treasure
+10106030 [Corpse] Treasure
+10106050 [Corpse] Treasure
+10106060 [Corpse] Treasure
+10106070 [Corpse] Treasure
+10106080 [Corpse] Treasure
+10106090 [Corpse] Treasure
+10106100 [Corpse] Treasure
+10106110 [Corpse] Treasure
+10106120 [Corpse] Treasure
+10106130 [Corpse] Treasure
+10106140 [Corpse] Treasure
+10106150 [Corpse] Treasure
+10106160 [Corpse] Treasure
+10106170 [Corpse] Treasure
+10106180 [Corpse] Treasure
+10106190 [Corpse] Treasure
+10106200 [Corpse] Treasure
+10106210 [Corpse] Treasure
+10106220 [Corpse] Treasure
+10106230 [Corpse] Treasure
+10106240 [Corpse] Treasure
+10106250 [Corpse] Treasure
+10106260 [Corpse] Treasure
+10106270 [Corpse] Treasure
+10106280 [Corpse] Treasure
+10106290 [Corpse] Treasure
+10106300 [Corpse] Treasure
+10106310 [Corpse] Treasure
+10106320 [Corpse] Treasure
+10106340 [Corpse] Treasure
+10106350 [Corpse] Treasure
+10106360 [Corpse] Treasure
+10106370 [Corpse] Treasure
+10106380 [Corpse] Treasure
+10106390 [Corpse] Treasure
+10106400 [Corpse] Treasure
+10106410 [Corpse] Treasure
+10106420 [Corpse] Treasure
+10106430 [Corpse] Treasure
+10106440 [Corpse] Treasure
+10106450 [Corpse] Treasure
+10106460 [Corpse] Treasure
+10106470 [Corpse] Treasure
+10106480 [Corpse] Treasure
+10106490 [Corpse] Treasure
+10106500 [Corpse] Treasure
+10106510 [Corpse] Treasure
+10106520 [Corpse] Treasure
+10106530 [Corpse] Treasure
+10106540 [Corpse] Treasure
+10106550 [Corpse] Treasure
+10106560 [Corpse] Treasure
+10106570 [Corpse] Treasure
+10106580 [Corpse] Treasure
+10106590 [Corpse] Treasure
+10106600 [Corpse] Treasure
+10106610 [Corpse] Treasure
+10106620 [Corpse] Treasure
+10106630 [Corpse] Treasure

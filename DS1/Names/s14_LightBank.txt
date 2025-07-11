@@ -1,0 +1,58 @@
+0 B0_Test
+1 B0_Basic
+2 B0_Shadow
+3 B0_Underground waterway
+4 B0_Boss Area
+5 B0_Krag
+6 B1_Sore upper part
+7 B1_Scrapped city
+8 B1_Waste Tokyo
+9 _Distant view
+10 B0_Basic (character)
+11 Izaris (character)
+12 Izalis
+13 Light
+14 lava
+15 B1_Lower ruins
+16 B1_Sinking lower part
+20 B0_Spherical ball
+22 B0_Shadow_OBJ
+23 B0_Underground waterway_OBJ
+24 B1_Chara lava
+25 B1_Character dark place
+26 B1_Character remains
+27 B1_Character capital
+30 PolyG-scn140000_Crag spider
+31 PolyG-scn140000_MapAll
+32 PolyG-scn140000_Crag spider_Last_Female body
+33 PolyG-scn140000_Crag spider_Head cut
+34 PolyG-
+35 PolyG-
+36 PolyG-
+37 PolyG-
+38 PolyG-
+39 PolyG-
+40 PolyG-
+41 PolyG-
+42 PolyG-
+43 PolyG-
+44 PolyG-
+45 PolyG-
+46 PolyG-
+47 PolyG-
+48 PolyG-
+49 PolyG-
+50 PolyG-
+51 PolyG-
+52 PolyG-
+53 PolyG-
+54 PolyG-
+55 PolyG-
+56 PolyG-
+57 PolyG-
+58 PolyG-
+59 PolyG-
+61 PolyG-scn140100
+62 PolyG-scn140100
+63 PolyG-scn140100
+64 0200_0006

@@ -1,1 +1,3 @@
-0 No 00 -- 00なし
+0 POW: Small
+1 POW: Large
+2 POW: Large Large

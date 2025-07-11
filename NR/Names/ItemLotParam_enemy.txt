@@ -1,0 +1,1582 @@
+1 Neutralizing Boluses
+2 Flask of Crimson Tears +5, Flask of Crimson Tears +5, Flask of Crimson Tears +6, Flask of Crimson Tears +6, Flask of Crimson Tears +11, Flask of Crimson Tears, Flask of Crimson Tears
+10 Neutralizing Boluses
+20 Old Fang
+30 Miranda's Prayer
+40 Golden Seed
+50 Ancient Dragon Smithing Stone
+60 Neutralizing Boluses
+70 Neutralizing Boluses
+80 Neutralizing Boluses
+90 Neutralizing Boluses
+100 Neutralizing Boluses
+110 Neutralizing Boluses
+10001 Boiled Prawn
+10002 Boiled Crab
+10011 Boiled Prawn
+10012 Boiled Crab
+90001 Boiled Prawn
+90011 Boiled Prawn
+90012 Boiled Crab
+1010100 Boiled Prawn
+1010101 Boiled Prawn
+1010102 Boiled Prawn
+1010110 Boiled Crab
+1010111 Boiled Crab
+1010112 Boiled Crab
+1010200 Boiled Crab
+1010201 Boiled Crab
+1010202 Boiled Crab
+1020100 Boiled Crab
+1020101 Boiled Crab
+1020102 Boiled Crab
+1020200 Boiled Crab
+1020201 Boiled Crab
+1020202 Boiled Crab
+1030100 Boiled Crab
+1030101 Boiled Crab
+1030102 Boiled Crab
+1030200 Boiled Crab
+1030201 Boiled Crab
+1030202 Boiled Crab
+1040100 Boiled Crab
+1040101 Boiled Crab
+1040102 Boiled Crab
+1040300 Boiled Crab
+1040301 Boiled Crab
+1040302 Boiled Crab
+5310002 Cord End
+6000000 [Small Fort Boss] 
+6000001 [Small Fort Boss] 
+6000050 [Unused Fort Boss]
+6000051 [Unused Fort Boss]
+6000052 [Unused Fort Boss]
+6000100 [Golem Fort Boss] 
+6000101 [Golem Fort Boss] 
+6000150 [Unused Fort Boss]
+6000151 [Unused Fort Boss]
+6000152 [Unused Fort Boss]
+6000800 [Crystalians (Fort)]
+6000801 [Crystalians (Fort)]
+6000850 [Unused Fort Boss]
+6000851 [Unused Fort Boss]
+6000852 [Unused Fort Boss]
+6002000 [Untyped Cathedral Boss]
+6002001 [Untyped Cathedral Boss]
+6002050 [Unused Cathedral Boss]
+6002051 [Unused Cathedral Boss]
+6002052 [Unused Cathedral Boss]
+6002500 [Fire Cathedral Boss]
+6002501 [Fire Cathedral Boss]
+6002550 [Unused Cathedral Boss]
+6002551 [Unused Cathedral Boss]
+6002552 [Unused Cathedral Boss]
+6002700 [Sacred Cathedral Boss]
+6002701 [Sacred Cathedral Boss]
+6002750 [Unused Cathedral Boss]
+6002751 [Unused Cathedral Boss]
+6002752 [Unused Cathedral Boss]
+6010000 [Untyped Encampment Boss]
+6010001 [Untyped Encampment Boss]
+6010002 [Untyped Encampment Boss]
+6010050 [Unused Encampment Boss]
+6010051 [Unused Encampment Boss]
+6010052 [Unused Encampment Boss]
+6010500 [Fire Encampment Boss]
+6010501 [Fire Encampment Boss]
+6010502 [Fire Encampment Boss]
+6010550 [Unused Encampment Boss]
+6010551 [Unused Encampment Boss]
+6010552 [Unused Encampment Boss]
+6010600 [Lightning Encampment Boss]
+6010601 [Lightning Encampment Boss]
+6010602 [Lightning Encampment Boss]
+6010650 [Unused Encampment Boss]
+6010651 [Unused Encampment Boss]
+6010652 [Unused Encampment Boss]
+6011500 [Madness Encampment Boss]
+6011501 [Madness Encampment Boss]
+6011502 [Madness Encampment Boss]
+6011550 [Unused Encampment Boss]
+6011551 [Unused Encampment Boss]
+6011552 [Unused Encampment Boss]
+6012000 [Untyped Ruins Boss]
+6012001 [Untyped Ruins Boss]
+6012002 [Untyped Ruins Boss]
+6012050 [Unused Ruins Boss]
+6012051 [Unused Ruins Boss]
+6012052 [Unused Ruins Boss]
+6012600 [Lightning Ruins Boss]
+6012601 [Lightning Ruins Boss]
+6012602 [Lightning Ruins Boss]
+6012650 [Unused Ruins Boss]
+6012651 [Unused Ruins Boss]
+6012652 [Unused Ruins Boss]
+6012700 [Sacred Ruins Boss]
+6012701 [Sacred Ruins Boss]
+6012702 [Sacred Ruins Boss]
+6012750 [Unused Ruins Boss]
+6012751 [Unused Ruins Boss]
+6012752 [Unused Ruins Boss]
+6012800 [Magic Ruins Boss]
+6012801 [Magic Ruins Boss]
+6012802 [Magic Ruins Boss]
+6012850 [Unused Ruins Boss]
+6012851 [Unused Ruins Boss]
+6012852 [Unused Ruins Boss]
+6012900 [Ancient Hero (Ruins)]
+6012901 [Ancient Hero (Ruins)]
+6012902 [Ancient Hero (Ruins)]
+6012950 [Unused Ruins Boss]
+6012951 [Unused Ruins Boss]
+6012952 [Unused Ruins Boss]
+6013000 [Poison Ruins Boss]
+6013001 [Poison Ruins Boss]
+6013002 [Poison Ruins Boss]
+6013050 [Unused Ruins Boss]
+6013051 [Unused Ruins Boss]
+6013052 [Unused Ruins Boss]
+6013100 [Blood Ruins Boss]
+6013101 [Blood Ruins Boss]
+6013102 [Blood Ruins Boss]
+6013150 [Unused Ruins Boss]
+6013151 [Unused Ruins Boss]
+6013152 [Unused Ruins Boss]
+6013400 [Runebear (Ruins, Silver)]
+6013401 [Runebear (Ruins, Silver)]
+6013402 [Runebear (Ruins, Silver)]
+6013410 [Runebear (Ruins, Brown)]
+6013411 [Runebear (Ruins, Brown)]
+6013450 [Unused Ruins Boss]
+6013451 [Unused Ruins Boss]
+6013452 [Unused Ruins Boss]
+6013460 [Unused Ruins Boss]
+6013461 [Unused Ruins Boss]
+6100000 [Low-Tier Field Boss] Uncommon For Class / Uncommon / Rare
+6100001 [Low-Tier Field Boss] Uncommon / Rare
+6100002 [Low-Tier Field Boss] Power Table 2
+6110000 [Mid-Tier Field Boss] Rare / Rare For Class
+6110001 [Mid-Tier Field Boss] Rare / Legendary
+6110002 [Mid-Tier Field Boss] Power Table 8 / Wending Grace
+6110100 [Unused Field Boss] Rare / Rare For Class
+6110101 [Unused Field Boss] Rare
+6110102 [Unused Field Boss] Power Table 8 / Wending Grace
+6110200 [High-Tier Field Boss] Rare / Rare For Class
+6110201 [High-Tier Field Boss] Rare / Legendary
+6110202 [High-Tier Field Boss] Power Table 8 / Wending Grace
+6120000 [Elder Lion (Castle)]
+6120001 [Elder Lion (Castle)]
+6120100 [Castle Banished Knights]
+6120101 [Castle Banished Knights]
+6120200 [Castle Trolls]
+6120201 [Castle Trolls]
+6120300 [Castle Crucible Knights]
+6120301 [Castle Crucible Knights]
+6121000 [Mountaintop Ice Dragon] Legendary / Legendary For Class
+6121001 [Mountaintop Ice Dragon] Rare For Class / Rare (Mountaintops)
+6121002 [Mountaintop Ice Dragon] Power Table 8 / Wending Grace
+6121100 [Unused Mountaintop Boss]
+6121101 [Unused Mountaintop Boss]
+6121102 [Unused Mountaintop Boss]
+6121200 [Flying Dragon (Small, Mountaintop)]
+6121201 [Flying Dragon (Small, Mountaintop)]
+6121202 [Flying Dragon (Small, Mountaintop)]
+6121300 [Snowfield Troll Duo]
+6121301 [Snowfield Troll Duo]
+6121302 [Snowfield Troll Duo]
+6121400 [Giant Crowd]
+6121401 [Giant Crowd]
+6121402 [Giant Crowd]
+6121500 [Demi-Human Swordmaster (Mountaintop)]
+6121501 [Demi-Human Swordmaster (Mountaintop)]
+6121502 [Demi-Human Swordmaster (Mountaintop)]
+6121600 [Lordsworn Knight (Mountaintop)]
+6121601 [Lordsworn Knight (Mountaintop)]
+6121700 [Snowfield Troll]
+6121701 [Snowfield Troll]
+6122000 [Fallingstar Beast (Crater)]
+6122001 [Fallingstar Beast (Crater)]
+6122002 [Fallingstar Beast (Crater)] Power Table 8 / Wending Grace
+6122100 [Magma Wyrm (Crater)] Rare for Class / ???
+6122101 [Magma Wyrm (Crater)] ???
+6122102 [Magma Wyrm (Crater)] Power Table 8 / Wending Grace
+6122200 [Unused Crater Boss]
+6122201 [Unused Crater Boss]
+6122202 [Unused Crater Boss]
+6122300 [Fire Prelate (Crater)]
+6122301 [Fire Prelate (Crater)]
+6122400 [Demi-Human Queen (Crater)]
+6122401 [Demi-Human Queen (Crater)]
+6122402 [Demi-Human Queen (Crater)]
+6122500 [Valiant Gargoyle (Crater)]
+6122501 [Valiant Gargoyle (Crater)]
+6122502 [Valiant Gargoyle (Crater)] Power Table 8 / Wending Grace
+6123000 [Unused Crater Boss]
+6123001 [Unused Crater Boss]
+6123002 [Unused Crater Boss] Power Table 8 / Wending Grace
+6123100 [Lordsworn Knight (Crater?)]
+6123101 [Lordsworn Knight (Crater?)]
+6124000 [Naturalborn of the Void] Legendary / Legendary For Class
+6124001 [Naturalborn of the Void] Rare For Class / ??? / Legendary
+6124002 [Naturalborn of the Void] Power Table 8 / Wending Grace
+6124100 [Dragonkin Soldier (Noklateo)]
+6124101 [Dragonkin Soldier (Noklateo)]
+6124102 [Dragonkin Soldier (Noklateo)] Power Table 8 / Wending Grace
+6124200 [Headless Troll (Noklateo)]
+6124201 [Headless Troll (Noklateo)]
+6124202 [Headless Troll (Noklateo)]
+6124300 [Royal Revenant (Noklateo)]
+6124301 [Royal Revenant (Noklateo)]
+6124302 [Royal Revenant (Noklateo)]
+6124400 [Mausoleum Knight (Flaming Sword)]
+6124401 [Mausoleum Knight (Flaming Sword)]
+6124500 [Black Knife Assassin (Noklateo)]
+6124501 [Black Knife Assassin (Noklateo)]
+6124502 [Black Knife Assassin (Noklateo)]
+6130000 [Troll (Mine)]
+6130001 [Troll (Mine)] Smithing Stone [2]
+6130100 [Mad Pumpkin Head (Mine)]
+6130101 [Mad Pumpkin Head (Mine)] Smithing Stone [2]
+6130200 [Lordsworng Knight (Mine)]
+6130201 [Lordsworng Knight (Mine)] Smithing Stone [2]
+6200000 [Night 1 Boss] Power Table 9
+6200001 [Night 1 Boss] Power Table 9
+6200002 [Night 1 Boss] Power Table 13
+6210000 [Night 2 Boss] Power Table 16
+6210001 [Night 2 Boss] Power Table 16
+6210002 [Night 2 Boss] Power Table 16 / Wending Grace
+6300000 [Unused Boss Drop]
+6300001 [Unused Boss Drop]
+6300002 [Unused Boss Drop]
+6300100 [Unused Boss Drop]
+6300101 [Unused Boss Drop]
+6300102 [Unused Boss Drop]
+6310000 [Fallingstar Beast (Random Encounter)]
+6310001 [Fallingstar Beast (Random Encounter)]
+6310002 [Fallingstar Beast (Random Encounter)]
+6320000 [Libra (Random Encounter)]
+6320001 [Libra (Random Encounter)]
+6320002 [Libra (Random Encounter)]
+6400000 [Low-Tier Evergaol] Rune of the Strong
+6400001 [Low-Tier Evergaol] Power Table 2
+6410000 [Mid-Tier Evergaol] Rune of the Strong
+6410001 [Mid-Tier Evergaol] Power Table 2
+6420000 [High-Tier Evergaol] Rune of the Strong
+6420001 [High-Tier Evergaol] Power Table 13
+6430000 [Oldest Gaol] Rune of the Strong
+6430001 [Oldest Gaol] Power Table 13
+13000000 [Night Assassin] Wylder's Greatsword
+13000001 [Night Assassin] Uncommon Weighted High / Rare
+13010000 [Night Fallen] Guardian's Halberd
+13010001 [Night Fallen] Uncommon Weighted High / Rare
+13020000 [Night Hunter] Ironeye's Bow
+13020001 [Night Hunter] Uncommon Weighted High / Rare
+13030000 [Night Thief] Duchess's Dagger
+13030001 [Night Thief] Uncommon Weighted High / Rare
+13040000 [Night Raider] Raider's Greataxe
+13040001 [Night Raider] Uncommon Weighted High / Rare
+13050000 [Night Idol] Revenant's Cursed Claws
+13050001 [Night Idol] Uncommon Weighted High / Rare
+13060000 [Night Witch] Recluse's Staff
+13060001 [Night Witch] Uncommon Weighted High / Rare
+13070000 [Night Executor] Executor's Blade
+13070001 [Night Executor] Uncommon Weighted High / Rare
+22270000 Boiled Crab
+22270001 Boiled Crab
+22270002 Boiled Crab
+23660100 Clarifying Boluses
+24090000 Warming Stone
+24181000 Stimulating Boluses, Glintstone Scrap, Large Glintstone Scrap
+24181010 Starlight Shards
+24181011 Starlight Shards
+24181012 Starlight Shards
+24440000 Poison Grease
+24490000 Exalted Flesh
+24490001 Exalted Flesh
+25110000 Glintstone Scrap, Large Glintstone Scrap
+25110001 Stimulating Boluses, Glintstone Scrap, Large Glintstone Scrap
+204100100 [Larva of Rot] Aeonian Butterfly
+210000000 [Black Knife Assassin] 
+210000001 [Black Knife Assassin] 
+210000002 [Black Knife Assassin] 
+210000003 [Black Knife Assassin] 
+210000004 [Black Knife Assassin] 
+210000020 [Black Knife Assassin] 
+210000021 [Black Knife Assassin] 
+210000022 [Black Knife Assassin] 
+213000000 [Morgott] 
+213000001 [Morgott] 
+213000002 [Morgott] 
+213000003 [Morgott] 
+213000004 [Morgott] 
+213000020 [Morgott] 
+213000021 [Morgott] 
+213000022 [Morgott] 
+213000050 [Morgott] 
+213000051 [Morgott] 
+213000052 [Morgott] 
+214000000 [Omen] 
+214000001 [Omen] 
+214000002 [Omen] 
+214000003 [Omen] 
+214000004 [Omen] 
+214000020 [Omen] 
+214000021 [Omen] 
+214000022 [Omen] 
+214000100 [Omen] 
+214000101 [Omen] 
+214000102 [Omen] 
+214000103 [Omen] 
+214000104 [Omen] 
+214000120 [Omen] 
+214000121 [Omen] 
+214000122 [Omen] 
+215000000 [Lightning Ball] 
+227000000 [Giant Crab] 
+227000010 [Giant Crab] Rejuvenating Boluses
+227100000 [Crab] 
+227100500 [Crab] 
+250000000 [Crucible Knight] 
+250000001 [Crucible Knight] 
+250000002 [Crucible Knight] 
+250000003 [Crucible Knight] 
+250000004 [Crucible Knight] 
+250000010 [Crucible Knight] 
+250000020 [Crucible Knight] 
+250000021 [Crucible Knight] 
+250000022 [Crucible Knight] 
+250000100 [Crucible Knight] 
+250000200 [Crucible Knight] 
+250000300 [Crucible Knight] 
+300000000 [Exile Soldier] 
+300000010 [Exile Soldier] 
+300000100 [Exile Soldier] 
+300000110 [Exile Soldier] 
+300000200 [Exile Soldier] 
+300000300 [Exile Soldier] 
+300000400 [Exile Soldier] 
+300000500 [Exile Soldier] 
+300000510 [Exile Soldier] 
+300000600 [Exile Soldier] 
+300000610 [Exile Soldier] 
+300000700 [Exile Soldier] Torchpole
+300000800 [Exile Soldier] Torchpole
+301000000 [Banished Knight] 
+301000001 [Banished Knight] 
+301000002 [Banished Knight] 
+301000010 [Banished Knight] 
+301000011 [Banished Knight] 
+301000012 [Banished Knight] 
+301000100 [Banished Knight] 
+301000101 [Banished Knight] 
+301000102 [Banished Knight] 
+301000110 [Banished Knight] 
+301000111 [Banished Knight] 
+301000112 [Banished Knight] 
+301000200 [Banished Knight] 
+301000201 [Banished Knight] 
+301000202 [Banished Knight] 
+301000210 [Banished Knight] 
+301000211 [Banished Knight] 
+301000212 [Banished Knight] 
+301000300 [Banished Knight] 
+301000301 [Banished Knight] 
+301000310 [Banished Knight] 
+301000311 [Banished Knight] 
+301000400 [Banished Knight] 
+301000401 [Banished Knight] 
+301000410 [Banished Knight] 
+301000411 [Banished Knight] 
+301000500 [Banished Knight] 
+301000501 [Banished Knight] 
+301000510 [Banished Knight] 
+301000511 [Banished Knight] 
+301000600 [Banished Knight] 
+301000610 [Banished Knight] 
+301000700 [Banished Knight] 
+301000710 [Banished Knight] 
+301000800 [Banished Knight] 
+301000810 [Banished Knight] 
+302000000 [Exile Soldier (Large)] 
+302000010 [Exile Soldier (Large)] 
+305000000 [Commander Niall/O'Neill] 
+306000000 [Giant Skeleton] 
+306000010 [Giant Skeleton] 
+306000100 [Giant Skeleton] 
+306000110 [Giant Skeleton] 
+307000000 Celebrant's Cleaver
+307000200 Celebrant's Sickle
+307000400 Celebrant's Rib-Rake
+308000010 [Imp] 
+308000020 [Imp] 
+308000030 [Imp] 
+308000040 [Imp] 
+308000050 [Imp] 
+308000100 [Imp] 
+308000110 [Imp] 
+308000120 [Imp] 
+308000130 [Imp] 
+308000140 [Imp] 
+308000150 [Imp] 
+308000200 [Imp] 
+308000210 [Imp] 
+308000220 [Imp] 
+308000230 [Imp] 
+308000240 [Imp] 
+308000250 [Imp] 
+308000300 [Imp] 
+308000310 [Imp] 
+308000320 [Imp] 
+308000330 [Imp] 
+308000340 [Imp] 
+308000350 [Imp] 
+308000360 [Imp] 
+308000400 [Imp] Forked Greatsword
+308000410 [Imp] Forked Greatsword
+308000420 [Imp] Forked Greatsword
+308000430 [Imp] Forked Greatsword
+308000440 [Imp] Forked Greatsword
+308000450 [Imp] Forked Greatsword
+308000510 [Imp] Forked Greatsword
+308000520 [Imp] Forked Greatsword
+308000530 [Imp] Forked Greatsword
+308000540 [Imp] Forked Greatsword
+308000550 [Imp] Forked Greatsword
+308000610 [Imp] Forked Greatsword
+308000620 [Imp] Forked Greatsword
+308000630 [Imp] Forked Greatsword
+308000640 [Imp] Forked Greatsword
+308000650 [Imp] Forked Greatsword
+308000710 [Imp] Forked Hatchet
+308000720 [Imp] Forked Hatchet
+308000730 [Imp] Forked Hatchet
+308000740 [Imp] Forked Hatchet
+308000750 [Imp] Forked Hatchet
+315000000 [Night's Cavalry] 
+315000100 [Night's Cavalry] 
+316000000 [Funeral Steed] 
+317000000 [Albinauric Archer] Albinauric Bow
+317000100 [Albinauric Archer] Albinauric Bow
+318000000 [Albinauric Archer's Wolf] 
+318100000 [Red Wolf of Radagon] 
+318100050 [Red Wolf of Radagon] 
+318100051 [Red Wolf of Radagon] 
+318100052 [Red Wolf of Radagon] 
+320000000 [Nomadic Merchant] 
+321000000 Sliver of Meat
+325000000 [Draconic Tree Sentinel] 
+325000001 [Draconic Tree Sentinel] 
+325000002 [Draconic Tree Sentinel] 
+325000003 [Draconic Tree Sentinel] 
+325000004 [Draconic Tree Sentinel] 
+325000020 [Draconic Tree Sentinel] 
+325000021 [Draconic Tree Sentinel] 
+325000022 [Draconic Tree Sentinel] 
+325000050 [Draconic Tree Sentinel] 
+325000051 [Draconic Tree Sentinel] 
+325000052 [Draconic Tree Sentinel] 
+325100000 [Tree Sentinel] 
+325100001 [Tree Sentinel] 
+325100002 [Tree Sentinel] 
+325100003 [Tree Sentinel] 
+325100004 [Tree Sentinel] 
+325100020 [Tree Sentinel] 
+325100021 [Tree Sentinel] 
+325100022 [Tree Sentinel] 
+325100050 [Tree Sentinel] 
+325100051 [Tree Sentinel] 
+325100052 [Tree Sentinel] 
+325200000 [Loretta] 
+325200050 [Loretta] 
+325200051 [Loretta] 
+325200052 [Loretta] 
+325200100 [Loretta] 
+325200200 [Loretta] 
+330000000 [Nox Swordstress/Monk/Nightmaiden] 
+332000000 [Silver Tear] Silver Tear Husk
+332000100 [Silver Tear] Silver Tear Husk
+332000200 [Silver Tear] Silver Tear Husk
+332000300 [Silver Tear] Silver Tear Husk
+332000400 [Silver Tear] Silver Tear Husk
+332000500 [Silver Tear] Silver Tear Husk
+332000600 [Silver Tear] Silver Tear Husk
+333000000 Silver Tear Husk
+333000100 Silver Tear Husk
+335000000 [Crystalian] 
+335000100 [Crystalian] 
+335000200 [Crystalian] 
+335000500 [Crystalian] 
+335000600 [Crystalian] Rotten Crystal Spear
+335000700 [Crystalian] Rotten Crystal Staff
+336000000 [Ancestral Follower] Jawbone Axe
+336000100 [Ancestral Follower] Greathorn Hammer
+336000200 [Ancestral Follower] 
+337000000 [Ancestral Follower Shaman] 
+337065000 [Ancestral Follower Shaman] Nascent Butterfly
+340000000 [Grave Warden Duelist] Duelist Greataxe
+340000100 [Grave Warden Duelist] 
+340000200 [Grave Warden Duelist] Battle Hammer
+340000300 [Grave Warden Duelist] 
+345000000 [Misbegotten] Iron Cleaver
+345000100 [Misbegotten] Misbegotten Shortbow
+345100000 [Scaly Misbegotten] Longhaft Axe
+346000000 [Leonine Misbegotten] 
+346000001 [Leonine Misbegotten] 
+346000002 [Leonine Misbegotten] 
+346000003 [Leonine Misbegotten] 
+346000004 [Leonine Misbegotten] 
+346000010 [Leonine Misbegotten] 
+346000011 [Leonine Misbegotten] 
+346000012 [Leonine Misbegotten] 
+346000050 [Leonine Misbegotten] 
+346000051 [Leonine Misbegotten] 
+346000052 [Leonine Misbegotten] 
+347000000 [Albinauric] Albinauric Shield
+347000050 [Albinauric] 
+347000100 [Albinauric] Albinauric Bloodclot
+347000200 [Albinauric] Albinauric Shield
+347000250 [Albinauric] 
+347000300 [Albinauric] Albinauric Bloodclot
+347000400 [Albinauric] Curved Club
+347000500 [Albinauric] Curved Club
+347000600 [Albinauric] Albinauric Bloodclot
+347000700 [Albinauric] Ripple Crescent Halberd
+347000800 [Albinauric] Ripple Crescent Halberd
+347100000 [Large Albinauric] Curved Great Club
+350000000 [Skeletal Militiaman/Bandit/Knight/Grave Warden] 
+350000010 [Skeletal Militiaman/Bandit/Knight/Grave Warden] 
+350000100 [Skeletal Militiaman/Bandit/Knight/Grave Warden] 
+350000110 [Skeletal Militiaman/Bandit/Knight/Grave Warden] 
+350000200 [Skeletal Militiaman/Bandit/Knight/Grave Warden] 
+350000210 [Skeletal Militiaman/Bandit/Knight/Grave Warden] 
+350000300 [Skeletal Militiaman/Bandit/Knight/Grave Warden] 
+350000310 [Skeletal Militiaman/Bandit/Knight/Grave Warden] 
+350000400 [Skeletal Militiaman/Bandit/Knight/Grave Warden] 
+350000410 [Skeletal Militiaman/Bandit/Knight/Grave Warden] 
+351000000 Scimitar
+351000100 Scimitar
+351000200 Scimitar
+351000300 Grossmesser
+351000400 Grossmesser
+351000500 Longbow
+351000600 Human Bone Shard
+351000700 Human Bone Shard
+351000800 Human Bone Shard
+351000900 Human Bone Shard
+355000000 [Sanguine Noble] 
+355000001 [Sanguine Noble] 
+355000002 [Sanguine Noble] 
+355000003 [Sanguine Noble] 
+355000004 [Sanguine Noble] 
+355000010 [Sanguine Noble] 
+355000011 [Sanguine Noble] 
+355000012 [Sanguine Noble] 
+356000000 [Godskin Apostle] 
+356000001 [Godskin Apostle] 
+356000002 [Godskin Apostle] 
+356000003 [Godskin Apostle] 
+356000004 [Godskin Apostle] 
+356000010 [Godskin Apostle] 
+356000011 [Godskin Apostle] 
+356000012 [Godskin Apostle] 
+357000010 [Godskin Noble] 
+357000011 [Godskin Noble] 
+357000012 [Godskin Noble] 
+360000010 [Alabaster Lord] 
+360000020 [Alabaster Lord] Alabaster Lord's Sword
+360010000 [Alabaster Lord] 
+360052100 [Alabaster Lord] 
+360062000 [Alabaster Lord] Alabaster Lord's Sword
+361000000 [Oracle Envoy] Envoy's Horn
+361000100 [Oracle Envoy] Envoy's Long Horn
+361000200 [Oracle Envoy] Envoy's Greathorn
+365000000 [Erdtree Guardian] Guardian's Swordspear
+365000100 [Erdtree Guardian] Guardian's Swordspear
+365000200 [Erdtree Guardian] Guardian's Swordspear
+365033100 [Erdtree Guardian] Golden Centipede
+366000000 [Commoner] 
+366000010 [Commoner] 
+366000100 [Commoner] 
+366000200 [Commoner] 
+366000300 [Commoner] 
+366000400 [Commoner] 
+366000500 [Commoner] 
+366000510 [Commoner] 
+366000600 [Commoner] Glass Shard
+366000700 [Commoner] Glass Shard
+366000800 [Commoner] Glass Shard
+366000900 [Commoner] Glass Shard
+366000910 [Commoner] Glass Shard
+366000920 [Commoner] Glass Shard
+366000930 [Commoner] Glass Shard
+366000940 [Commoner] Glass Shard
+366100000 [Putrid Corpse] Mushroom
+366100100 [Putrid Corpse] Toxic Mushroom
+366100200 [Putrid Corpse] Melted Mushroom
+366100300 [Putrid Corpse] Mushroom
+366100400 [Putrid Corpse] Mushroom
+366100500 [Putrid Corpse] Mushroom
+366100501 [Putrid Corpse] Bloodrose
+366200000 [Putrid Corpse (Large)] Mushroom
+366200010 [Putrid Corpse (Large)] Mushroom
+366200020 [Putrid Corpse (Large)] Rejuvenating Boluses
+366200100 [Putrid Corpse (Large)] Toxic Mushroom
+366200200 [Putrid Corpse (Large)] Melted Mushroom
+366200300 [Putrid Corpse (Large)] Mushroom
+366200400 [Putrid Corpse (Large)] Mushroom
+366200500 [Putrid Corpse (Large)] Mushroom
+366200501 [Putrid Corpse (Large)] Bloodrose
+366400000 [Cemetery Shade] 
+366400700 [Cemetery Shade] Mantis Blade
+367000000 Albinauric Bloodclot
+367000100 Albinauric Bloodclot
+367000101 Glintstone Firefly
+367000200 Albinauric Bloodclot
+367000301 Albinauric Bloodclot
+367000400 Albinauric Bloodclot
+367020500 Albinauric Bloodclot
+370000000 [Depraved Perfumer] 
+370000100 [Depraved Perfumer] 
+370100100 [Perfumer] 
+370100110 [Perfumer] 
+370100200 [Perfumer] 
+370100210 [Perfumer] 
+370200000 [Glintstone Sorcerer] Academy Glintstone Staff
+370200100 [Glintstone Sorcerer] Academy Glintstone Staff
+370200200 [Glintstone Sorcerer] Lazuli Glintstone Sword
+370200300 [Glintstone Sorcerer] Academy Glintstone Staff
+370200400 [Glintstone Sorcerer] Academy Glintstone Staff
+370200500 [Glintstone Sorcerer] Stonesword Key
+370300000 [Page] 
+370300100 [Page] 
+370400000 [Battlemage] Stone Club
+370400010 [Battlemage] 
+370400011 [Battlemage] 
+380000000 [Cleanrot Knight] 
+380000100 [Cleanrot Knight] 
+381000000 [Kindred of Rot] 
+381000200 [Kindred of Rot] 
+381054100 [Kindred of Rot] 
+385000000 [Marionette Soldier] Shortbow
+385000100 [Marionette Soldier] 
+385000200 [Marionette Soldier] Spiked Spear
+390000000 [Fire Monk] Monk's Flamemace
+390000100 [Fire Monk] Monk's Flameblade
+390100000 [Blackflame Monk] 
+390100100 [Blackflame Monk] 
+390100101 [Blackflame Monk] 
+390100102 [Blackflame Monk] 
+390100103 [Blackflame Monk] 
+390100104 [Blackflame Monk] Smoldering Butterfly
+390100105 [Blackflame Monk] Fire Blossom
+391000000 [Fire Prelate] 
+391000001 [Fire Prelate] 
+391000002 [Fire Prelate] 
+391000003 [Fire Prelate] 
+391000100 [Fire Prelate] 
+391000101 [Fire Prelate] 
+391000102 [Fire Prelate] 
+391000103 [Fire Prelate] 
+391000200 [Fire Prelate] Thorned Whip
+391000201 [Fire Prelate] 
+391000202 [Fire Prelate] 
+391000203 [Fire Prelate] 
+391000204 [Fire Prelate] 
+391000300 [Fire Prelate] Thorned Whip
+391000301 [Fire Prelate] 
+391000302 [Fire Prelate] 
+391000303 [Fire Prelate] 
+391000304 [Fire Prelate] 
+391000700 [Fire Prelate] 
+391000701 [Fire Prelate] 
+391000702 [Fire Prelate] 
+391000703 [Fire Prelate] 
+391000704 [Fire Prelate] Prelate's Inferno Crozier
+395000000 [Man-Serpent] Volcanic Stone
+395000100 [Man-Serpent] Man-Serpent's Shield
+395000101 [Man-Serpent] Volcanic Stone
+395000200 [Man-Serpent] Magma Blade
+395000300 [Man-Serpent] Gelmir Glintstone Staff
+395000400 [Man-Serpent] Volcanic Stone
+397000000 [Azula Beastman] Beastman's Curved Sword
+397000100 [Azula Beastman] Beastman's Curved Sword
+397000200 [Azula Beastman] Beastman's Curved Sword
+397000300 [Azula Beastman] Beastman's Curved Sword
+397000350 [Azula Beastman] Beastman's Curved Sword
+397000400 [Azula Beastman] Sanctuary Stone
+397000410 [Azula Beastman] Sanctuary Stone
+397000500 [Azula Beastman] Beastman's Jar-Shield
+397000600 [Azula Beastman] Beastman's Jar-Shield
+397000700 [Azula Beastman] Beastman's Cleaver
+397000750 [Azula Beastman] Beastman's Cleaver
+397000800 [Azula Beastman] Beastman's Cleaver
+397000900 [Azula Beastman] Sanctuary Stone
+397000910 [Azula Beastman] Sanctuary Stone
+400000000 [Revenant Follower] Grave Violet
+400000100 [Revenant Follower] Grave Violet
+400000200 [Revenant Follower] Grave Violet
+402000000 [Royal Revenant] 
+402000050 [Royal Revenant] 
+402000051 [Royal Revenant] 
+402000052 [Royal Revenant] 
+404000000 [Slug] Strip of White Flesh
+404000010 [Slug] Rejuvenating Boluses
+404000100 [Slug] Strip of White Flesh
+404000200 [Slug] Smoldering Butterfly
+405000000 [Kaiden Sellsword] 
+405000001 [Kaiden Sellsword] 
+405000010 [Kaiden Sellsword] 
+405000011 [Kaiden Sellsword] 
+406000000 [Kaiden Sellsword's Horse] 
+406000010 [Kaiden Sellsword's Horse] 
+407000000 [Wolf] 
+407000010 [Wolf] 
+407100000 [White Wolf] 
+407100010 [White Wolf] 
+408000000 [Rat] 
+408000010 [Rat] 
+408000020 [Rat] Rejuvenating Boluses
+408000100 [Rat] Golden Rune [1]
+408000200 [Rat] Golden Rune [1]
+408000300 [Rat] Golden Rune [1]
+409000000 [Giant Rat] 
+409000010 [Giant Rat] 
+409000020 [Giant Rat] Rejuvenating Boluses
+409000200 [Giant Rat] Golden Rune [3]
+409000300 [Giant Rat] Golden Rune [3]
+410000000 [Demi-Human] 
+410000010 [Demi-Human] 
+410000020 [Demi-Human] 
+410000100 [Demi-Human] 
+410000110 [Demi-Human] Falchion
+410000120 [Demi-Human] 
+410000200 [Demi-Human] 
+410000210 [Demi-Human] Club
+410000210 [Demi-Human] Club
+410100000 [Demi-Human (Large)] 
+410100010 [Demi-Human (Large)] Spiked Club
+410100010 [Demi-Human (Large)] Spiked Club
+411000000 [Demi-Human Shaman] 
+411000010 [Demi-Human Shaman] 
+412000000 [Demi-Human Chief] 
+412000001 [Demi-Human Chief] 
+412000010 [Demi-Human Chief] 
+412000011 [Demi-Human Chief] 
+412000100 [Demi-Human Chief] 
+413000000 [Demi-Human Queen] 
+413000001 [Demi-Human Queen] 
+413000002 [Demi-Human Queen] 
+413000003 [Demi-Human Queen] 
+413000004 [Demi-Human Queen] 
+413000010 [Demi-Human Queen] 
+413000011 [Demi-Human Queen] 
+413000012 [Demi-Human Queen] 
+414000010 Rejuvenating Boluses
+414000100 Grave Glovewort [1]
+414000101 Grave Glovewort [2]
+414000102 Grave Glovewort [3]
+414000300 Glintstone Firefly
+415000000 [Basilisk] 
+415062000 [Basilisk] Aeonian Butterfly
+415066000 [Basilisk] 
+416000000 [Stray (Large)] 
+416000010 [Stray (Large)] Thin Beast Bones
+416000011 [Stray (Large)] Ruin Fragment
+416000012 [Stray (Large)] Sanctuary Stone
+416000020 [Stray (Large)] 
+416030100 [Stray (Large)] Sacramental Bud
+416030101 [Stray (Large)] Ruin Fragment
+416030102 [Stray (Large)] Beast Blood
+416100000 [Stray] 
+416100010 [Stray] Thin Beast Bones
+416100011 [Stray] Beast Blood
+416100012 [Stray] Sanctuary Stone
+416100020 [Stray] 
+416100130 [Stray] Sacramental Bud
+416100131 [Stray] Thin Beast Bones
+416100132 [Stray] Beast Blood
+417000000 [Putrid Flesh] Smithing Stone [1]
+417000001 [Putrid Flesh] Smithing Stone [2]
+417000002 [Putrid Flesh] Glass Shard
+417000100 [Putrid Flesh] Glass Shard
+417000101 [Putrid Flesh] Thin Beast Bones
+417000102 [Putrid Flesh] Hefty Beast Bone
+417000200 [Putrid Flesh] Glass Shard
+417000201 [Putrid Flesh] Smithing Stone [1]
+417000202 [Putrid Flesh] Smithing Stone [2]
+417100000 [Putrid Flesh (Large)] Sacramental Bud
+417100001 [Putrid Flesh (Large)] Beast Blood
+417100002 [Putrid Flesh (Large)] Thin Beast Bones
+417100003 [Putrid Flesh (Large)] Hefty Beast Bone
+417100100 [Putrid Flesh (Large)] Glass Shard
+417100101 [Putrid Flesh (Large)] Thin Beast Bones
+417100102 [Putrid Flesh (Large)] Hefty Beast Bone
+417100103 [Putrid Flesh (Large)] Smithing Stone [1]
+417100104 [Putrid Flesh (Large)] Smithing Stone [2]
+417100200 [Putrid Flesh (Large)] Beast Blood
+417100201 [Putrid Flesh (Large)] Thin Beast Bones
+417100202 [Putrid Flesh (Large)] Hefty Beast Bone
+418000000 [Spirit Jellyfish] Golden Rune [1]
+418000010 [Spirit Jellyfish] Grave Glovewort [1]
+418000020 [Spirit Jellyfish] Grave Glovewort [2]
+418000021 [Spirit Jellyfish] Grave Glovewort [3]
+418000040 [Spirit Jellyfish] Grave Glovewort [4]
+418000041 [Spirit Jellyfish] Grave Glovewort [5]
+418000042 [Spirit Jellyfish] Grave Glovewort [6]
+418000050 [Spirit Jellyfish] Grave Glovewort [7]
+418000051 [Spirit Jellyfish] Grave Glovewort [8]
+418000100 [Spirit Jellyfish] Golden Rune [3]
+418000500 [Spirit Jellyfish] Arteria Leaf
+418052500 [Spirit Jellyfish] Trina's Lily
+420000000 [Man-Bat] 
+420000010 [Man-Bat] Golden Rune [1]
+420000011 [Man-Bat] Golden Rune [2]
+420000020 [Man-Bat] Golden Rune [3]
+420000040 [Man-Bat] Golden Rune [6]
+420000041 [Man-Bat] Golden Rune [7]
+420000042 [Man-Bat] Golden Rune [8]
+420000043 [Man-Bat] Golden Rune [9]
+420000050 [Man-Bat] Golden Rune [10]
+420000051 [Man-Bat] Golden Rune [11]
+420000100 [Man-Bat] 
+420000110 [Man-Bat] Golden Rune [1]
+420000111 [Man-Bat] Golden Rune [2]
+420000120 [Man-Bat] Golden Rune [3]
+420000121 [Man-Bat] Golden Rune [4]
+420000122 [Man-Bat] Golden Rune [5]
+420000140 [Man-Bat] Golden Rune [6]
+420000141 [Man-Bat] Golden Rune [7]
+420000142 [Man-Bat] Golden Rune [8]
+420000143 [Man-Bat] Golden Rune [9]
+420000150 [Man-Bat] Golden Rune [10]
+420000151 [Man-Bat] Golden Rune [11]
+420112000 [Operatic Bat] Golden Rune [6]
+421000000 Warhawk's Talon
+421000001 Stormhawk Feather
+421000002 Flight Pinion
+421000100 Stormhawk Feather
+421000101 Flight Pinion
+422000000 Land Octopus Ovary
+422000001 Strip of White Flesh
+423000000 [Land Octopus (Small)] 
+423000001 [Land Octopus (Small)] Land Octopus Ovary
+423000002 [Land Octopus (Small)] Strip of White Flesh
+423030000 [Land Octopus (Small)] Sacramental Bud
+423030001 [Land Octopus (Small)] 
+423030002 [Land Octopus (Small)] Land Octopus Ovary
+423030003 [Land Octopus (Small)] Strip of White Flesh
+423052000 [Land Octopus (Small)] 
+425000000 [Fingercreeper (Small)] 
+425000010 [Fingercreeper (Small)] Somber Smithing Stone [2]
+425000020 [Fingercreeper (Small)] Somber Smithing Stone [4]
+425000030 [Fingercreeper (Small)] Somber Smithing Stone [4]
+425000040 [Fingercreeper (Small)] Somber Smithing Stone [7]
+425000050 [Fingercreeper (Small)] Somber Smithing Stone [7]
+426000000 [Erdtree Burial Watchdog] 
+426000001 [Erdtree Burial Watchdog] 
+426000002 [Erdtree Burial Watchdog] 
+426000003 [Erdtree Burial Watchdog] 
+426000004 [Erdtree Burial Watchdog] 
+426000010 [Erdtree Burial Watchdog] 
+426000011 [Erdtree Burial Watchdog] 
+426000012 [Erdtree Burial Watchdog] 
+426050000 [Erdtree Burial Watchdog] Watchdog's Greatsword
+426050100 [Erdtree Burial Watchdog] Watchdog's Greatsword
+426050200 [Erdtree Burial Watchdog] 
+426052000 [Erdtree Burial Watchdog] Watchdog's Greatsword
+426052100 [Erdtree Burial Watchdog] Watchdog's Greatsword
+426052200 [Erdtree Burial Watchdog] 
+427000000 [Elder Lion] 
+427000010 [Elder Lion] 
+427000050 [Elder Lion] 
+427000051 [Elder Lion] 
+427000052 [Elder Lion] 
+428000000 [Giant Ant] Formic Rock
+428000100 [Giant Ant] 
+428000200 [Giant Ant] 
+428000300 [Giant Ant] 
+428000400 [Giant Ant] Formic Rock
+428000500 [Giant Ant] Formic Rock
+428000600 [Giant Ant] Formic Rock
+428000700 [Giant Ant] Formic Rock
+428062100 [Giant Ant] Formic Rock
+429000000 [Bloodhound Knight] 
+430000000 [Wandering Noble] Noble's Slender Sword
+430000010 [Wandering Noble] Noble's Slender Sword
+430000020 [Wandering Noble] Noble's Slender Sword
+430000100 [Wandering Noble] Noble's Estoc
+430000110 [Wandering Noble] 
+430000200 [Wandering Noble] Glintstone Staff
+430000210 [Wandering Noble] 
+430000250 [Wandering Noble] 
+430000251 [Wandering Noble] 
+430000252 [Wandering Noble] 
+430000253 [Wandering Noble] Ruin Fragment
+430000254 [Wandering Noble] Rowa Fruit
+430000255 [Wandering Noble] Herba
+430000256 [Wandering Noble] Erdleaf Flower
+430000257 [Wandering Noble] Glintstone Staff
+430000300 [Wandering Noble] 
+430000500 [Wandering Noble] Ruin Fragment
+430000510 [Wandering Noble] Ruin Fragment
+430000520 [Wandering Noble] Ruin Fragment
+430000600 [Wandering Noble] 
+430000610 [Wandering Noble] Ruin Fragment
+430000620 [Wandering Noble] Ruin Fragment
+430030000 [Wandering Noble] Noble's Slender Sword
+430030010 [Wandering Noble] Noble's Slender Sword
+430030011 [Wandering Noble] Rowa Fruit
+430030012 [Wandering Noble] Herba
+430030013 [Wandering Noble] Erdleaf Flower
+430030020 [Wandering Noble] Noble's Slender Sword
+430030021 [Wandering Noble] Rowa Fruit
+430030022 [Wandering Noble] Herba
+430030023 [Wandering Noble] Erdleaf Flower
+430030100 [Wandering Noble] Noble's Estoc
+430030101 [Wandering Noble] 
+430030102 [Wandering Noble] 
+430030103 [Wandering Noble] Golden Sunflower
+430030104 [Wandering Noble] Herba
+430030105 [Wandering Noble] Erdleaf Flower
+430030200 [Wandering Noble] Glintstone Staff
+430030300 [Wandering Noble] 
+430030400 [Wandering Noble] Rowa Fruit
+430030401 [Wandering Noble] Herba
+430030402 [Wandering Noble] Erdleaf Flower
+430030403 [Wandering Noble] Golden Rune [10]
+430030410 [Wandering Noble] Rowa Fruit
+430030411 [Wandering Noble] Herba
+430030412 [Wandering Noble] Erdleaf Flower
+430030413 [Wandering Noble] Golden Rune [10]
+430030500 [Wandering Noble] Rowa Fruit
+430030510 [Wandering Noble] Rowa Fruit
+430030520 [Wandering Noble] Rowa Fruit
+430030600 [Wandering Noble] 
+430030610 [Wandering Noble] Rowa Fruit
+430030620 [Wandering Noble] Rowa Fruit
+430050100 [Wandering Noble] Noble's Estoc
+430050101 [Wandering Noble] 
+430050102 [Wandering Noble] 
+430050103 [Wandering Noble] Fire Blossom
+430050104 [Wandering Noble] Rimed Crystal Bud
+431100000 [Godrick Soldier] 
+431100010 [Godrick Soldier] 
+431100020 [Godrick Soldier] 
+431100030 [Godrick Soldier] 
+431100050 [Godrick Soldier] 
+431100060 [Godrick Soldier] 
+431100070 [Godrick Soldier] 
+431100080 [Godrick Soldier] 
+431100090 [Godrick Soldier] 
+431100100 [Godrick Soldier] 
+431100110 [Godrick Soldier] 
+431100120 [Godrick Soldier] 
+431100130 [Godrick Soldier] 
+431100140 [Godrick Soldier] 
+431100200 [Godrick Soldier] 
+431100210 [Godrick Soldier] 
+431100300 [Godrick Soldier] 
+431100310 [Godrick Soldier] 
+431200000 [Raya Lucaria Soldier] Lordsworn's Straight Sword
+431200020 [Raya Lucaria Soldier] Lordsworn's Straight Sword
+431200040 [Raya Lucaria Soldier] Warpick
+431200100 [Raya Lucaria Soldier] 
+431200200 [Raya Lucaria Soldier] Lordsworn's Shield
+431200510 [Raya Lucaria Soldier] Lordsworn's Straight Sword
+431200530 [Raya Lucaria Soldier] Warpick
+431200550 [Raya Lucaria Soldier] Warpick
+431300000 [Leyndell Soldier] 
+431300020 [Leyndell Soldier] 
+431300100 [Leyndell Soldier] 
+431300120 [Leyndell Soldier] 
+431300200 [Leyndell Soldier] 
+431300300 [Leyndell Soldier] 
+431300510 [Leyndell Soldier] 
+431300530 [Leyndell Soldier] 
+431300610 [Leyndell Soldier] 
+431334000 [Leyndell Soldier] Lordsworn's Straight Sword
+431334020 [Leyndell Soldier] Lordsworn's Straight Sword
+431334100 [Leyndell Soldier] Warpick
+431334120 [Leyndell Soldier] Warpick
+431334200 [Leyndell Soldier] 
+431334300 [Leyndell Soldier] Lordsworn's Shield
+431334510 [Leyndell Soldier] Lordsworn's Straight Sword
+431334530 [Leyndell Soldier] Lordsworn's Straight Sword
+431334610 [Leyndell Soldier] Warpick
+431400000 [Radahn Soldier] Lordsworn's Straight Sword
+431400020 [Radahn Soldier] Lordsworn's Straight Sword
+431400100 [Radahn Soldier] Warpick
+431400120 [Radahn Soldier] Warpick
+431400200 [Radahn Soldier] 
+431400300 [Radahn Soldier] Lordsworn's Shield
+431400510 [Radahn Soldier] Lordsworn's Straight Sword
+431400530 [Radahn Soldier] Lordsworn's Straight Sword
+431400610 [Radahn Soldier] Warpick
+431500000 [Mausoleum Soldier] Lordsworn's Straight Sword
+431500010 [Mausoleum Soldier] Lordsworn's Straight Sword
+431500100 [Mausoleum Soldier] Warpick
+431500200 [Mausoleum Soldier] 
+431500300 [Mausoleum Soldier] Lordsworn's Shield
+431512000 [Mausoleum Soldier] Lordsworn's Straight Sword
+431512015 [Mausoleum Soldier] Lordsworn's Straight Sword
+431512100 [Mausoleum Soldier] Warpick
+431512200 [Mausoleum Soldier] 
+431512300 [Mausoleum Soldier] Lordsworn's Shield
+431520000 [Mausoleum Soldier] Lordsworn's Straight Sword
+431520015 [Mausoleum Soldier] Lordsworn's Straight Sword
+431520100 [Mausoleum Soldier] Warpick
+431520200 [Mausoleum Soldier] 
+431520300 [Mausoleum Soldier] Lordsworn's Shield
+431552000 [Mausoleum Soldier] Lordsworn's Straight Sword
+431552015 [Mausoleum Soldier] Lordsworn's Straight Sword
+431552100 [Mausoleum Soldier] Warpick
+431552200 [Mausoleum Soldier] 
+431552300 [Mausoleum Soldier] Lordsworn's Shield
+431566000 [Mausoleum Soldier] Lordsworn's Straight Sword
+431566015 [Mausoleum Soldier] Lordsworn's Straight Sword
+431566100 [Mausoleum Soldier] Warpick
+431566200 [Mausoleum Soldier] 
+431566300 [Mausoleum Soldier] Lordsworn's Shield
+431600000 Lordsworn's Straight Sword
+431600100 Warpick
+431600300 Lordsworn's Shield
+431656000 Miquella's Lily
+431656015 Miquella's Lily
+431656030 Miquella's Lily
+431656045 Miquella's Lily
+431656100 Miquella's Lily
+431656115 Miquella's Lily
+431656130 Miquella's Lily
+431656145 Miquella's Lily
+431656200 Miquella's Lily
+431656300 Miquella's Lily
+432100000 [Vulgar Militia] Vulgar Militia Saw
+432100100 [Vulgar Militia] Vulgar Militia Saw
+432100200 [Vulgar Militia] Vulgar Militia Shotel
+432100300 [Vulgar Militia] Vulgar Militia Shotel
+432100400 [Vulgar Militia] 
+432100500 [Vulgar Militia] 
+434000000 [Mad Pumpkin Head] Chainlink Flail
+434000010 [Mad Pumpkin Head] Chainlink Flail
+434000020 [Mad Pumpkin Head] Chainlink Flail
+434000030 [Mad Pumpkin Head] Chainlink Flail
+434000040 [Mad Pumpkin Head] Chainlink Flail
+434000100 [Mad Pumpkin Head] 
+434000101 [Mad Pumpkin Head] Sanctuary Stone
+434000110 [Mad Pumpkin Head] 
+434000120 [Mad Pumpkin Head] 
+434000130 [Mad Pumpkin Head] 
+434000140 [Mad Pumpkin Head] 
+435100000 [Godrick Knight] 
+435100001 [Godrick Knight] 
+435100002 [Godrick Knight] 
+435100010 [Godrick Knight] 
+435100011 [Godrick Knight] 
+435100012 [Godrick Knight] 
+435100100 [Godrick Knight] 
+435100101 [Godrick Knight] 
+435100102 [Godrick Knight] 
+435100110 [Godrick Knight] 
+435100111 [Godrick Knight] 
+435100112 [Godrick Knight] 
+435200000 [Cuckoo Knight] Knight's Greatsword
+435200100 [Cuckoo Knight] Partisan
+435300000 [Leyndell Knight] 
+435300001 [Leyndell Knight] 
+435300002 [Leyndell Knight] 
+435300100 [Leyndell Knight] 
+435300101 [Leyndell Knight] 
+435300102 [Leyndell Knight] 
+435300200 [Leyndell Knight] 
+435300300 [Leyndell Knight] 
+435300706 [Leyndell Knight] Gravel Stone Seal
+435400000 [Redmane Knight] Knight's Greatsword
+435400100 [Redmane Knight] Partisan
+435400200 [Redmane Knight] Partisan
+435400300 [Redmane Knight] Knight's Greatsword
+435500000 [Mausoleum Knight] Knight's Greatsword
+435500100 [Mausoleum Knight] Partisan
+435500200 [Mausoleum Knight] Partisan
+435500300 [Mausoleum Knight] Knight's Greatsword
+435600000 Knight's Greatsword
+435600100 Partisan
+435600200 Knight's Greatsword
+435656000 Miquella's Lily
+435656100 Miquella's Lily
+435656200 Miquella's Lily
+437100000 [Godrick Foot Soldier] 
+437100010 [Godrick Foot Soldier] 
+437100020 [Godrick Foot Soldier] 
+437100030 [Godrick Foot Soldier] 
+437100040 [Godrick Foot Soldier] 
+437100050 [Godrick Foot Soldier] 
+437100060 [Godrick Foot Soldier] 
+437100070 [Godrick Foot Soldier] 
+437100100 [Godrick Foot Soldier] 
+437100110 [Godrick Foot Soldier] 
+437100120 [Godrick Foot Soldier] 
+437100130 [Godrick Foot Soldier] 
+437100140 [Godrick Foot Soldier] 
+437100150 [Godrick Foot Soldier] 
+437100200 [Godrick Foot Soldier] 
+437100210 [Godrick Foot Soldier] 
+437100300 [Godrick Foot Soldier] 
+437100310 [Godrick Foot Soldier] 
+437200000 [Raya Lucaria Foot Soldier] Dagger
+437200010 [Raya Lucaria Foot Soldier] Dagger
+437200020 [Raya Lucaria Foot Soldier] Dagger
+437200100 [Raya Lucaria Foot Soldier] Short Sword
+437200110 [Raya Lucaria Foot Soldier] Short Sword
+437200111 [Raya Lucaria Foot Soldier] 
+437200112 [Raya Lucaria Foot Soldier] 
+437200113 [Raya Lucaria Foot Soldier] 
+437200200 [Raya Lucaria Foot Soldier] Soldier's Crossbow
+437200201 [Raya Lucaria Foot Soldier] 
+437200202 [Raya Lucaria Foot Soldier] 
+437200203 [Raya Lucaria Foot Soldier] 
+437200300 [Raya Lucaria Foot Soldier] 
+437200301 [Raya Lucaria Foot Soldier] 
+437200302 [Raya Lucaria Foot Soldier] Smoldering Butterfly
+437300000 [Leyndell Foot Soldier] 
+437300010 [Leyndell Foot Soldier] 
+437300020 [Leyndell Foot Soldier] 
+437300030 [Leyndell Foot Soldier] Dagger
+437300040 [Leyndell Foot Soldier] Dagger
+437300050 [Leyndell Foot Soldier] Dagger
+437300060 [Leyndell Foot Soldier] 
+437300070 [Leyndell Foot Soldier] 
+437300080 [Leyndell Foot Soldier] 
+437300100 [Leyndell Foot Soldier] 
+437300110 [Leyndell Foot Soldier] 
+437300130 [Leyndell Foot Soldier] 
+437300200 [Leyndell Foot Soldier] 
+437300300 [Leyndell Foot Soldier] 
+437300310 [Leyndell Foot Soldier] 
+437300400 [Leyndell Foot Soldier] 
+437400000 [Radahn Foot Soldier] Dagger
+437400010 [Radahn Foot Soldier] Dagger
+437400011 [Radahn Foot Soldier] 
+437400012 [Radahn Foot Soldier] 
+437400013 [Radahn Foot Soldier] Smoldering Butterfly
+437400014 [Radahn Foot Soldier] Mushroom
+437400020 [Radahn Foot Soldier] Dagger
+437400021 [Radahn Foot Soldier] 
+437400022 [Radahn Foot Soldier] 
+437400023 [Radahn Foot Soldier] 
+437400030 [Radahn Foot Soldier] Dagger
+437400031 [Radahn Foot Soldier] 
+437400032 [Radahn Foot Soldier] 
+437400033 [Radahn Foot Soldier] 
+437400040 [Radahn Foot Soldier] Dagger
+437400041 [Radahn Foot Soldier] 
+437400042 [Radahn Foot Soldier] 
+437400043 [Radahn Foot Soldier] 
+437400050 [Radahn Foot Soldier] Dagger
+437400051 [Radahn Foot Soldier] 
+437400052 [Radahn Foot Soldier] 
+437400053 [Radahn Foot Soldier] 
+437400100 [Radahn Foot Soldier] Short Sword
+437400101 [Radahn Foot Soldier] 
+437400102 [Radahn Foot Soldier] 
+437400103 [Radahn Foot Soldier] 
+437400110 [Radahn Foot Soldier] Short Sword
+437400111 [Radahn Foot Soldier] 
+437400112 [Radahn Foot Soldier] 
+437400113 [Radahn Foot Soldier] Smoldering Butterfly
+437400114 [Radahn Foot Soldier] Mushroom
+437400200 [Radahn Foot Soldier] Short Sword
+437400201 [Radahn Foot Soldier] 
+437400202 [Radahn Foot Soldier] 
+437400203 [Radahn Foot Soldier] 
+437400300 [Radahn Foot Soldier] Short Spear
+437400301 [Radahn Foot Soldier] 
+437400302 [Radahn Foot Soldier] 
+437400400 [Radahn Foot Soldier] 
+437400401 [Radahn Foot Soldier] 
+437400402 [Radahn Foot Soldier] Smoldering Butterfly
+437500000 [Mausoleum Foot Soldier] 
+437600000 Dagger
+437600010 Dagger
+437600013 Smoldering Butterfly
+437600014 Mushroom
+437600020 Dagger
+437600030 Dagger
+437600040 Dagger
+437700000 [Highwayman] Dagger
+437700100 [Highwayman] Short Sword
+437700200 [Highwayman] Short Sword
+438000000 [Starcaller] Gravity Stone Fan
+438100000 [Guilty] Staff of the Guilty
+438100100 [Guilty] Smoldering Butterfly
+438210000 [Stonedigger] Pickaxe
+438210200 [Stonedigger] Pickaxe
+438210300 [Stonedigger] Pickaxe
+438210400 [Stonedigger] Pickaxe
+438212700 [Stonedigger] Pickaxe
+438212702 [Stonedigger] Cracked Crystal
+438220200 [Stonedigger] Pickaxe
+438226000 [Stonedigger] Pickaxe
+438226200 [Stonedigger] Pickaxe
+438226300 [Stonedigger] Pickaxe
+438226400 [Stonedigger] Pickaxe
+438226500 [Stonedigger] Pickaxe
+438226600 [Stonedigger] Pickaxe
+438226602 [Stonedigger] Explosive Stone
+438226603 [Stonedigger] Explosive Stone Clump
+438230000 [Stonedigger] Pickaxe
+438230200 [Stonedigger] Pickaxe
+438230400 [Stonedigger] Pickaxe
+438230800 [Stonedigger] Pickaxe
+438230802 [Stonedigger] Cracked Crystal
+438233000 [Stonedigger] Pickaxe
+438233200 [Stonedigger] Pickaxe
+438233400 [Stonedigger] Pickaxe
+438233600 [Stonedigger] Pickaxe
+438233602 [Stonedigger] Poisoned Stone
+438233603 [Stonedigger] Poisoned Stone Clump
+438233800 [Stonedigger] Pickaxe
+438233802 [Stonedigger] Poisoned Stone
+438233803 [Stonedigger] Poisoned Stone Clump
+438240000 [Stonedigger] Flask of Crimson Tears
+438240100 [Stonedigger] Pickaxe
+438240300 [Stonedigger] Pickaxe
+438240400 [Stonedigger] Pickaxe
+438240800 [Stonedigger] Pickaxe
+438240802 [Stonedigger] Cracked Crystal
+438252000 [Stonedigger] Pickaxe
+438252200 [Stonedigger] Pickaxe
+438252700 [Stonedigger] Pickaxe
+438320000 [Glintstone Digger] Digger's Staff
+438320001 [Glintstone Digger] Somber Smithing Stone [2]
+438320002 [Glintstone Digger] Somber Smithing Stone [3]
+438320003 [Glintstone Digger] Glintstone Scrap
+438320004 [Glintstone Digger] Large Glintstone Scrap
+438320100 [Glintstone Digger] Digger's Staff
+438320101 [Glintstone Digger] Glintstone Scrap
+438320102 [Glintstone Digger] Large Glintstone Scrap
+438320103 [Glintstone Digger] Somber Smithing Stone [2]
+438320104 [Glintstone Digger] Somber Smithing Stone [3]
+438320105 [Glintstone Digger] Glintstone Scrap
+438320106 [Glintstone Digger] Large Glintstone Scrap
+438330000 [Glintstone Digger] Digger's Staff
+438330001 [Glintstone Digger] Somber Smithing Stone [4]
+438330002 [Glintstone Digger] Somber Smithing Stone [5]
+438330003 [Glintstone Digger] Glintstone Scrap
+438330004 [Glintstone Digger] Large Glintstone Scrap
+438330100 [Glintstone Digger] Digger's Staff
+438330101 [Glintstone Digger] Glintstone Scrap
+438330102 [Glintstone Digger] Large Glintstone Scrap
+438330103 [Glintstone Digger] Somber Smithing Stone [4]
+438330104 [Glintstone Digger] Somber Smithing Stone [5]
+438330105 [Glintstone Digger] Glintstone Scrap
+438330106 [Glintstone Digger] Large Glintstone Scrap
+438340000 [Glintstone Digger] Digger's Staff
+438440000 [Glintstone Digger (Small Sack)] Digger's Staff
+438500000 Toxic Mushroom
+438500100 Toxic Mushroom
+438500200 Toxic Mushroom
+438500501 Toxic Mushroom
+438500601 Toxic Mushroom
+438500701 Toxic Mushroom
+442000000 Strip of White Flesh
+442000100 Strip of White Flesh
+442000101 Crab Eggs
+442000200 Strip of White Flesh
+442000201 Smithing Stone [2]
+442000500 Strip of White Flesh
+442000501 Rimed Crystal Bud
+443000000 Ruin Fragment
+443000001 Sanctuary Stone
+443000500 Ruin Fragment
+443000501 Sanctuary Stone
+443000502 Volcanic Stone
+444010000 [Land Squirt] 
+444010010 [Land Squirt] 
+445000000 [Walking Mausoleum] 
+447000000 [Abductor Virgin] 
+447000000 [Abductor Virgin] 
+447000000 [Abductor Virgin] 
+447000010 [Abductor Virgin] 
+447000010 [Abductor Virgin] 
+447000010 [Abductor Virgin] 
+447000100 [Abductor Virgin] 
+447000200 [Abductor Virgin] 
+448000000 [Miranda Blossom] Poisonbloom
+448000001 [Miranda Blossom] Miranda Powder
+448000100 [Miranda Blossom] Poisonbloom
+448000101 [Miranda Blossom] Miranda Powder
+448000200 [Miranda Blossom] Poisonbloom
+448000201 [Miranda Blossom] Cracked Crystal
+448000202 [Miranda Blossom] Miranda Powder
+448000300 [Miranda Blossom] Poisonbloom
+448000301 [Miranda Blossom] Miranda Powder
+448000400 [Miranda Blossom] Poisonbloom
+448000401 [Miranda Blossom] Miranda Powder
+448100000 [Miranda Sprout] Poisonbloom
+448100001 [Miranda Sprout] Miranda Powder
+448100100 [Miranda Sprout] Poisonbloom
+448100101 [Miranda Sprout] Miranda Powder
+448100200 [Miranda Sprout] Poisonbloom
+448100300 [Miranda Sprout] Poisonbloom
+448100400 [Miranda Sprout] Poisonbloom
+448130500 [Miranda Sprout] Poisonbloom
+448130600 [Miranda Sprout] Poisonbloom
+448200000 Poisonbloom
+448300000 Poisonbloom
+448300001 Miranda Powder
+449000000 [Living Jar Warrior] Living Jar Shard
+449000010 [Living Jar Warrior] Living Jar Shard
+449000100 [Living Jar Warrior] Living Jar Shard
+449100000 [Living Jar] Living Jar Shard
+449100010 [Living Jar] Living Jar Shard
+449100100 [Living Jar] Living Jar Shard
+449100200 [Living Jar] Living Jar Shard
+450000000 [Flying Dragon] 
+450000001 [Flying Dragon] 
+450000002 [Flying Dragon] 
+450000003 [Flying Dragon] 
+450000004 [Flying Dragon] 
+450000010 [Flying Dragon] 
+450000011 [Flying Dragon] 
+450000012 [Flying Dragon] 
+450000050 [Flying Dragon] 
+450000051 [Flying Dragon] 
+450000052 [Flying Dragon] 
+450100050 [Decaying Ekzykes] 
+450100051 [Decaying Ekzykes] 
+450100052 [Decaying Ekzykes] 
+450300050 [Borealis the Freezing Fog] 
+450300051 [Borealis the Freezing Fog] 
+450300052 [Borealis the Freezing Fog] 
+451000000 [Ancient Dragon] 
+451000001 [Ancient Dragon] 
+451000002 [Ancient Dragon] 
+451000003 [Ancient Dragon] 
+451000004 [Ancient Dragon] 
+451000010 [Ancient Dragon] 
+451000011 [Ancient Dragon] 
+451000012 [Ancient Dragon] 
+455000000 [Giant Dog] Hefty Beast Bone
+455000001 [Giant Dog] Beast Blood
+455000100 [Giant Dog] Hefty Beast Bone
+455000101 [Giant Dog] Beast Blood
+456000000 [Giant Crow] Hefty Beast Bone
+456000001 [Giant Crow] Beast Blood
+456000002 [Giant Crow] Golden Rune [5]
+456100000 Hefty Beast Bone
+456100001 Beast Blood
+456100002 Golden Rune [5]
+456100003 Blood-Tainted Excrement
+457000000 [Wormface] Gold-Tinged Excrement
+457000001 [Wormface] Sacrificial Twig
+457000010 [Wormface] Gold-Tinged Excrement
+457000011 [Wormface] Sacrificial Twig
+457000100 [Wormface] Gold-Tinged Excrement
+457000101 [Wormface] Sacrificial Twig
+458000000 [Large Wormface] Gold-Tinged Excrement
+458000001 [Large Wormface] Sacrificial Twig
+458000050 [Large Wormface] 
+458000051 [Large Wormface] 
+458000052 [Large Wormface] 
+458003000 [Large Wormface] 
+458003001 [Large Wormface] 
+458003002 [Large Wormface] 
+458003003 [Large Wormface] 
+458003004 [Large Wormface] 
+458003010 [Large Wormface] 
+458003011 [Large Wormface] 
+458003012 [Large Wormface] 
+460000000 [Troll] 
+460000001 [Troll] 
+460000002 [Troll] 
+460000003 [Troll] 
+460000010 [Troll] 
+460000011 [Troll] 
+460000012 [Troll] 
+460000013 [Troll] 
+460000014 [Troll] 
+460000020 [Troll] 
+460000021 [Troll] 
+460000022 [Troll] 
+460000023 [Troll] 
+460000040 [Troll] 
+460000041 [Troll] 
+460000042 [Troll] 
+460000100 [Troll] Arteria Leaf
+460000200 [Troll] 
+460000300 [Troll] Eye of Yelough
+460000400 [Troll] Troll Knight's Sword
+460000500 [Troll] 
+462000000 [Astel, Naturalborn of the Void] 
+463000000 [Runebear] 
+464000050 [Ulcerated Tree Spirit] 
+464000051 [Ulcerated Tree Spirit] 
+464000052 [Ulcerated Tree Spirit] 
+466000000 [Guardian Golem] Golem's Halberd
+466000010 [Guardian Golem] Golem's Halberd
+466000020 [Guardian Golem] Golem's Halberd
+466000030 [Guardian Golem] Golem's Halberd
+466000040 [Guardian Golem] Golem's Halberd
+466000050 [Guardian Golem] Golem's Halberd
+466000051 [Guardian Golem] Smithing Stone [7]
+466000051 [Guardian Golem] Smithing Stone [7]
+466000100 [Guardian Golem] Golem Greatbow
+466000101 [Guardian Golem] 
+466000102 [Guardian Golem] 
+466000110 [Guardian Golem] Golem Greatbow
+466000111 [Guardian Golem] 
+466000112 [Guardian Golem] 
+466000113 [Guardian Golem] Smithing Stone [1]
+466000120 [Guardian Golem] Golem Greatbow
+466000121 [Guardian Golem] 
+466000122 [Guardian Golem] 
+466000123 [Guardian Golem] Smithing Stone [2]
+466000124 [Guardian Golem] Smithing Stone [3]
+466000130 [Guardian Golem] Golem Greatbow
+466000131 [Guardian Golem] 
+466000132 [Guardian Golem] 
+466000133 [Guardian Golem] Smithing Stone [4]
+466000140 [Guardian Golem] Golem Greatbow
+466000141 [Guardian Golem] 
+466000142 [Guardian Golem] 
+466000143 [Guardian Golem] Smithing Stone [5]
+466000150 [Guardian Golem] Golem Greatbow
+466000151 [Guardian Golem] 
+466000152 [Guardian Golem] 
+466000153 [Guardian Golem] Smithing Stone [6]
+466000154 [Guardian Golem] Smithing Stone [7]
+466000200 [Guardian Golem] Golem's Halberd
+466000201 [Guardian Golem] Smithing Stone [6]
+466000202 [Guardian Golem] Smithing Stone [7]
+466000300 [Guardian Golem] Golem's Halberd
+466000301 [Guardian Golem] Smithing Stone [4]
+466000400 [Guardian Golem] Golem Greatbow
+466000401 [Guardian Golem] 
+466000402 [Guardian Golem] 
+466000403 [Guardian Golem] Smithing Stone [4]
+466000500 [Guardian Golem] Golem's Halberd
+466000510 [Guardian Golem] Golem's Halberd
+466000511 [Guardian Golem] Smithing Stone [1]
+466000520 [Guardian Golem] Golem's Halberd
+466000521 [Guardian Golem] Smithing Stone [2]
+466000522 [Guardian Golem] Smithing Stone [3]
+466000530 [Guardian Golem] Golem's Halberd
+466000531 [Guardian Golem] Smithing Stone [4]
+466000540 [Guardian Golem] Golem's Halberd
+466000541 [Guardian Golem] Smithing Stone [5]
+466000550 [Guardian Golem] Golem's Halberd
+466000551 [Guardian Golem] Smithing Stone [6]
+466000552 [Guardian Golem] Smithing Stone [7]
+466000600 [Guardian Golem] Golem Greatbow
+466000601 [Guardian Golem] 
+466000602 [Guardian Golem] 
+466000610 [Guardian Golem] Golem Greatbow
+466000620 [Guardian Golem] Golem Greatbow
+466000630 [Guardian Golem] Golem Greatbow
+466000640 [Guardian Golem] Golem Greatbow
+466000650 [Guardian Golem] Golem Greatbow
+467000050 [Ancestor Spirit] 
+467000051 [Ancestor Spirit] 
+467000052 [Ancestor Spirit] 
+468000050 [Fallingstar Beast] 
+468000051 [Fallingstar Beast] 
+468000052 [Fallingstar Beast] 
+469000000 [Grafted Scion] 
+469000001 [Grafted Scion] 
+469000050 [Grafted Scion] 
+469000051 [Grafted Scion] 
+469000052 [Grafted Scion] 
+475000000 [Godrick the Grafted] 
+477000000 [Valiant Gargoyle] 
+477000001 [Valiant Gargoyle] 
+477000002 [Valiant Gargoyle] 
+477000003 [Valiant Gargoyle] 
+477000004 [Valiant Gargoyle] 
+477000010 [Valiant Gargoyle] 
+477000020 [Valiant Gargoyle] 
+477000021 [Valiant Gargoyle] 
+477000022 [Valiant Gargoyle] 
+477000050 [Valiant Gargoyle] 
+477000051 [Valiant Gargoyle] 
+477000052 [Valiant Gargoyle] 
+477000100 [Valiant Gargoyle] 
+477000200 [Valiant Gargoyle] 
+481000000 [Erdtree Avatar] 
+481000001 [Erdtree Avatar] 
+481000002 [Erdtree Avatar] 
+481000003 [Erdtree Avatar] 
+481000004 [Erdtree Avatar] 
+481000020 [Erdtree Avatar] 
+481000021 [Erdtree Avatar] 
+481000022 [Erdtree Avatar] 
+481000050 [Erdtree Avatar] 
+481000051 [Erdtree Avatar] 
+481000052 [Erdtree Avatar] 
+491000000 [Magma Wyrm] 
+491000001 [Magma Wyrm] 
+491000002 [Magma Wyrm] 
+491000003 [Magma Wyrm] 
+491000004 [Magma Wyrm] 
+491000010 [Magma Wyrm] 
+491000020 [Magma Wyrm] 
+491000021 [Magma Wyrm] 
+491000022 [Magma Wyrm] 
+491000050 [Magma Wyrm] 
+491000051 [Magma Wyrm] 
+491000052 [Magma Wyrm] 
+496000000 [Giant Skeleton Torso] 
+496000100 [Giant Skeleton Torso] 
+600000000 [Unknown] Flight Pinion, Flight Pinion, Flight Pinion
+600000001 [Unknown] Four-Toed Fowl Foot
+601000000 Sliver of Meat
+601000001 Beast Liver
+601000002 Thin Beast Bones, Thin Beast Bones, Thin Beast Bones
+601000003 Budding Horn
+603000000 Lump of Flesh
+603000001 Hefty Beast Bone, Hefty Beast Bone, Hefty Beast Bone
+603000002 Beast Blood
+700000000 [Fallen Hawks Soldier] 
+700000100 [Fallen Hawks Soldier] 
+700000200 [Fallen Hawks Soldier] 
+700000300 [Fallen Hawks Soldier] 
+710000000 [Ancient Hero] 
+710000001 [Ancient Hero] 
+710000002 [Ancient Hero] 
+710000003 [Ancient Hero] 
+710000004 [Ancient Hero] 
+710000010 [Ancient Hero] 
+710000020 [Ancient Hero] 
+710000021 [Ancient Hero] 
+710000022 [Ancient Hero] 
+710000050 [Ancient Hero] 
+710000051 [Ancient Hero] 
+710000052 [Ancient Hero] 
+710000100 [Ancient Hero] 
+710000101 [Ancient Hero] 
+710000102 [Ancient Hero] 
+710000103 [Ancient Hero] 
+710000110 [Ancient Hero] 
+710000111 [Ancient Hero] 
+710000112 [Ancient Hero] 
+710000113 [Ancient Hero] 
+750000050 [Gladius - Beast of Night] 
+750000051 [Gladius - Beast of Night] 
+750000052 [Gladius - Beast of Night] 
+751000050 [Adel - Baron of Night] 
+751000051 [Adel - Baron of Night] 
+751000052 [Adel - Baron of Night] 
+752000050 [Gnoster - Wisdom of Night] 
+752000051 [Gnoster - Wisdom of Night] 
+752000052 [Gnoster - Wisdom of Night] 
+753000050 [Faurtis Stoneshield] 
+753000051 [Faurtis Stoneshield] 
+753000052 [Faurtis Stoneshield] 
+754000050 [Maris - Fathom of Night] 
+754000051 [Maris - Fathom of Night] 
+754000052 [Maris - Fathom of Night] 
+756000050 [Libra - Creature of Night] 
+756000051 [Libra - Creature of Night] 
+756000052 [Libra - Creature of Night] 
+800000000 [Torrent] 
+800000001 [Torrent] 
+800000002 [Torrent] 

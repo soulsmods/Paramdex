@@ -1,0 +1,59 @@
+0 B0_Basic
+1 B0_Towers and shell
+2 B0_Boss room
+5 B0_Basic_Character
+6 B0_Indoor_characters
+7 B0_Boss room_Character
+10 B0_During sealing
+11 B0_White aisle
+12 B0_Bridging with bases_1
+13 B0_Bridging with bases_2
+14 B0_Bridging with bases_3
+16 m8300B0_King's Seal_Base
+17 m8000B0_King seal seal_waste capital
+18 m8100B0_King seal_crystal
+19 m8200B0_King seal_Nito
+20 B1_Indoor (passage)
+21 B1_Outdoor
+22 B1_sewage
+23 B1_A church
+24 B1_A tether
+25 B1_Crowse desk
+26 B1_Distant view
+27 B1_Spherical ball
+28 B1_Character general purpose (light)
+29 B1_Indoor OBJ general purpose
+30 B1_Crow Downstairs (Character)
+31 B1_Passage through the ceiling
+32 B1_Character general purpose (dark)
+33 B1_The first prison
+34 B1_Character (courtyard terrace)
+35 B1_Character (church)
+36 PolyG-scn100100-<c0000>-cutAll
+37 PolyG-scn100100-<c2860>-cutAll
+38 PolyG-scn100100-<MAP>-cut second half (church panorama)
+39 PolyG-
+40 PolyG-
+41 PolyG-
+42 PolyG-
+43 PolyG-
+44 PolyG-
+45 PolyG-
+46 PolyG-
+47 PolyG-
+48 PolyG-
+49 PolyG-
+50 PolyG-titl
+51 PolyG-
+52 PolyG-
+53 PolyG-
+54 PolyG-
+55 PolyG-
+56 PolyG-
+57 PolyG-
+58 PolyG-scn180101_map
+59 PolyG-scn180101_chr_nezumi
+60 PolyG-scn180101_chr
+61 PolyG-scn180100_c0000Dark
+62 PolyG-scn180100_c0000
+63 PolyG-scn180100_KarasPV

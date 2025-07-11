@@ -13,7 +13,7 @@
 600 [GEN:600] Devotee Scarlett
 605 [GEN:605] Bashful Ray
 800 [GEN:800] Covetous Demon
-801 [GEN:801] Mytha, the Baneful Queen
+801 [GEN:801] Mytha- the Baneful Queen
 935 [GEN:935] Forlorn
 1000 [GEN:1000] Undead Supplicant
 1001 [GEN:1001] Undead Supplicant
@@ -21,18 +21,18 @@
 1011 [GEN:1011] Skeleton
 1012 [GEN:1012] Skeleton
 1110 [GEN:1110] Skeleton
+1400 [GEN:1400] Desert Sorceress
 1600 [GEN:1600] Skeleton
 1601 [GEN:1601] Skeleton
+1602 [GEN:1602] Skeleton
 1700 [GEN:1700] Desert Sorceress
-1701 [GEN:1701] Desert Sorceress
-1702 [GEN:1702] Desert Sorceress
 1800 [GEN:1800] Crystal Lizard
 1801 [GEN:1801] Crystal Lizard
 1802 [GEN:1802] Crystal Lizard
 1810 [GEN:1810] Skeleton
 2201 [GEN:2201] Artificial Undead
-2310 [GEN:2310] Captive Undead
-2320 [GEN:2320] Captive Undead
+2310 [GEN:2310] Undead Laborer
+2320 [GEN:2320] Undead Laborer
 2401 [GEN:2401] Mounted Overseer
 2402 [GEN:2402] Artificial Undead
 2450 [GEN:2450] Artificial Undead
@@ -44,9 +44,6 @@
 2510 [GEN:2510] Skeleton
 2600 [GEN:2600] Undead Steelworker
 2601 [GEN:2601] Undead Steelworker
-2602 [GEN:2602] Undead Steelworker
-2603 [GEN:2603] Undead Steelworker
-2604 [GEN:2604] Undead Steelworker
 2610 [GEN:2610] Manikin
 3000 [GEN:3000] Undead Steelworker
 3002 [GEN:3002] Undead Steelworker
@@ -56,26 +53,23 @@
 3022 [GEN:3022] Poison Horn Beetle
 3200 [GEN:3200] Desert Sorceress
 3202 [GEN:3202] Manikin
-3204 [GEN:3204] Captive Undead
+3204 [GEN:3204] Undead Laborer
 3207 [GEN:3207] Undead Supplicant
 3208 [GEN:3208] Poison Horn Beetle
 3209 [GEN:3209] Poison Horn Beetle
-3250 [GEN:3250] Captive Undead
-3252 [GEN:3252] Captive Undead
-3253 [GEN:3253] Captive Undead
-3300 [GEN:3300] Captive Undead
-3301 [GEN:3301] Captive Undead
-3302 [GEN:3302] Captive Undead
-3303 [GEN:3303] Captive Undead
+3250 [GEN:3250] Undead Laborer
+3252 [GEN:3252] Undead Laborer
+3253 [GEN:3253] Undead Laborer
+3300 [GEN:3300] Undead Laborer
+3301 [GEN:3301] Undead Laborer
+3302 [GEN:3302] Undead Laborer
+3303 [GEN:3303] Undead Laborer
 3401 [GEN:3401] Manikin
 3402 [GEN:3402] Undead Steelworker
 3500 [GEN:3500] Grave Warden
 3600 [GEN:3600] Manikin
 3601 [GEN:3601] Manikin
 3602 [GEN:3602] Desert Sorceress
-3603 [GEN:3603] Desert Sorceress
-3604 [GEN:3604] Desert Sorceress
-3605 [GEN:3605] Desert Sorceress
 3700 [GEN:3700] Manikin
 3800 [GEN:3800] Manikin
 3810 [GEN:3810] Manikin
@@ -83,7 +77,7 @@
 4000 [GEN:4000] Manikin
 4100 [GEN:4100] Manikin
 4200 [GEN:4200] Manikin
-4250 [GEN:4250] Captive Undead
+4250 [GEN:4250] Undead Laborer
 4400 [GEN:4400] Grave Warden
 4401 [GEN:4401] Manikin
 4500 [GEN:4500] Desert Sorceress
@@ -99,10 +93,11 @@
 5202 [GEN:5202] Grave Warden
 5210 [GEN:5210] Undead Supplicant
 5212 [GEN:5212] Undead Supplicant
-7020 [GEN:7020] Captive Undead
-7023 [GEN:7023] Captive Undead
-7030 [GEN:7030] Captive Undead
-7040 [GEN:7040] Captive Undead
+7000 [GEN:7000] Undead Laborer
+7020 [GEN:7020] Undead Laborer
+7023 [GEN:7023] Undead Laborer
+7030 [GEN:7030] Undead Laborer
+7040 [GEN:7040] Undead Laborer
 7220 [GEN:7220] Desert Sorceress
 7221 [GEN:7221] Desert Sorceress
 7300 [GEN:7300] Manikin
@@ -124,5 +119,4 @@
 9010 [GEN:9010] Mounted Overseer
 9012 [GEN:9012] Mounted Overseer
 9013 [GEN:9013] Mounted Overseer
-9014 [GEN:9014] Mounted Overseer
 9100 [GEN:9100] Poison Moth

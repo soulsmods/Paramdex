@@ -1,0 +1,51 @@
+0 Default
+100 Humanoid: All
+1000 Enemy: Poison
+1001 Enemy: Poison
+1002 Enemy: Poison
+1003 Enemy: Poison
+1004 Enemy: Poison
+1005 Enemy: Poison
+1010 Enemy: Poison
+2000 Enemy: Scarlet Rot
+2001 Enemy: Scarlet Rot
+2002 Enemy: Scarlet Rot
+2003 Enemy: Scarlet Rot
+2004 Enemy: Scarlet Rot
+2005 Enemy: Scarlet Rot
+2010 Enemy: Scarlet Rot
+3000 Enemy: Hemorrhage
+3001 Enemy: Hemorrhage
+3002 Enemy: Hemorrhage
+3003 Enemy: Hemorrhage
+3004 Enemy: Hemorrhage
+3005 Enemy: Hemorrhage
+3010 Enemy: Hemorrhage
+4000 Enemy: Deathblight
+4001 Enemy: Deathblight
+4002 Enemy: Deathblight
+4003 Enemy: Deathblight
+4004 Enemy: Deathblight
+4005 Enemy: Deathblight
+4010 Enemy: Deathblight
+5000 Enemy: Frostbite
+5001 Enemy: Frostbite
+5002 Enemy: Frostbite
+5003 Enemy: Frostbite
+5004 Enemy: Frostbite
+5005 Enemy: Frostbite
+5010 Enemy: Frostbite
+6000 Enemy: Sleep
+6001 Enemy: Sleep
+6002 Enemy: Sleep
+6003 Enemy: Sleep
+6004 Enemy: Sleep
+6005 Enemy: Sleep
+6010 Enemy: Sleep
+7000 Enemy: Madness
+7001 Enemy: Madness
+7002 Enemy: Madness
+7003 Enemy: Madness
+7004 Enemy: Madness
+7005 Enemy: Madness
+7010 Enemy: Madness

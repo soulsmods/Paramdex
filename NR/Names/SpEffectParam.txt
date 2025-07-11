@@ -1,0 +1,1697 @@
+470 Gravity: Pull towards Caster
+1546 Enemy Absorption Reduction
+3050 Stanching Boluses
+3055 Stimulating Boluses
+3060 Neutralizing Boluses
+3065 Clarifying Boluses
+3070 Preserving Boluses
+3090 Rejuvenating Boluses
+3092 Thawfrost Boluses
+3140 Freezing Grease
+3150 Soporific Grease
+3160 Fire Grease
+3165 Lightning Grease
+3170 Magic Grease
+3175 Poison Grease
+3185 Holy Grease
+3190 Blood Grease
+3260 Dragonwound Grease
+3310 Rot Grease
+3500 Crimsonspill Crystal Tear
+3501 Greenspill Crystal Tear
+3505 Crimson Crystal Tear
+3506 Cerulean Crystal Tear
+3507 Opaline Bubbletear
+3512 Crimson Bubbletear
+3519 Leaden Hardtear
+3550 Thorny Cracked Tear
+3580 Crimsonwhorl Bubbletear
+3603 Speckled Hardtear
+3950 Exalted Flesh
+3953 Pickled Turtle Neck
+3970 Silver-Pickled Fowl Foot
+3971 Gold-Pickled Fowl Foot
+4710 Hero: ?
+5260 Apply Highest (Category Priority): 1
+5261 Apply Highest (Category Priority): 2
+5262 Apply Highest (Category Priority): 2
+5263 Apply Highest (Category Priority): 2
+5264 Apply Highest (Category Priority): 2
+5265 Apply Highest (Category Priority): 2
+5266 Apply Highest (Category Priority): 2
+5267 Apply Highest (Category Priority): 2
+5268 Apply Highest (Category Priority): 2
+5269 Apply Highest (Category Priority): 2
+5300 Damage Level Change: Prevent all Stagger
+5301 Damage Level Change: Prevent Impact, Push and Knockup Stagger
+5302 Damage Level Change: Prevent Impact and Push Stagger
+5303 Damage Level Change: Prevent medium Impact and Push Stagger
+5304 Damage Level Change: Prevent small Impact and Push Stagger
+5305 Damage Level Change: Prevent minimal Impact and Push Stagger
+5306 Damage Level Change: Prevent minimal Impact Stagger: Short Small Impact Stagger
+5307 Damage Level Change: Prevent minimal Impact and Push Stagger
+5308 Damage Level Change: Prevent minimal Impact Stagger: Medium Small Impact Stagger
+5309 Damage Level Change: Prevent minimal Impact Stagger
+5360 Poise Damage Level Change: Prevent all Stagger
+5361 Poise Damage Level Change: Prevent small Stagger : Short Other Stagger
+5362 Poise Damage Level Change: Prevent small Stagger : Medium Other Stagger
+5400 Animation Offset: None
+5401 Animation Offset: 1 
+5402 Animation Offset: 2
+5403 Animation Offset: 3
+5404 Animation Offset: 4
+5405 Animation Offset: 5
+5410 Animation Offset: 3
+5411 Animation Offset: None
+5420 Animation Offset: 3
+7700 Enemy Scaling: Minimal Threat
+7701 Enemy Scaling: Minimal Threat
+7702 Enemy Scaling: Minimal Threat
+7703 Enemy Scaling: Minimal Threat
+7704 Enemy Scaling: Minimal Threat
+7705 Enemy Scaling: Minimal Threat
+7706 Enemy Scaling: Minimal Threat
+7707 Enemy Scaling: Minimal Threat
+7708 Enemy Scaling: Minimal Threat
+7709 Enemy Scaling: Minimal Threat
+7710 Enemy Scaling: Small Threat
+7711 Enemy Scaling: Small Threat
+7712 Enemy Scaling: Small Threat
+7713 Enemy Scaling: Small Threat
+7714 Enemy Scaling: Small Threat
+7715 Enemy Scaling: Small Threat
+7716 Enemy Scaling: Small Threat
+7717 Enemy Scaling: Small Threat
+7718 Enemy Scaling: Small Threat
+7719 Enemy Scaling: Small Threat
+7720 Enemy Scaling: Medium Threat
+7721 Enemy Scaling: Medium Threat
+7722 Enemy Scaling: Medium Threat
+7723 Enemy Scaling: Medium Threat
+7724 Enemy Scaling: Medium Threat
+7725 Enemy Scaling: Medium Threat
+7726 Enemy Scaling: Medium Threat
+7727 Enemy Scaling: Medium Threat
+7728 Enemy Scaling: Medium Threat
+7729 Enemy Scaling: Medium Threat
+7730 Enemy Scaling: Large Threat
+7731 Enemy Scaling: Large Threat
+7732 Enemy Scaling: Large Threat
+7733 Enemy Scaling: Large Threat
+7734 Enemy Scaling: Large Threat
+7735 Enemy Scaling: Large Threat
+7736 Enemy Scaling: Large Threat
+7737 Enemy Scaling: Large Threat
+7738 Enemy Scaling: Large Threat
+7739 Enemy Scaling: Large Threat
+7740 Enemy Scaling: Field Boss Threat
+7741 Enemy Scaling: Field Boss Threat
+7742 Enemy Scaling: Field Boss Threat
+7743 Enemy Scaling: Field Boss Threat
+7744 Enemy Scaling: Field Boss Threat
+7745 Enemy Scaling: Field Boss Threat
+7746 Enemy Scaling: Field Boss Threat
+7747 Enemy Scaling: Field Boss Threat
+7748 Enemy Scaling: Field Boss Threat
+7749 Enemy Scaling: Field Boss Threat
+7750 Enemy Scaling: Night Boss Threat
+7751 Enemy Scaling: Night Boss Threat
+7752 Enemy Scaling: Night Boss Threat
+7753 Enemy Scaling: Night Boss Threat
+7754 Enemy Scaling: Night Boss Threat
+7755 Enemy Scaling: Night Boss Threat
+7756 Enemy Scaling: Night Boss Threat
+7757 Enemy Scaling: Night Boss Threat
+7758 Enemy Scaling: Night Boss Threat
+7759 Enemy Scaling: Night Boss Threat
+7760 Enemy Scaling: Final Boss Threat
+7761 Enemy Scaling: Final Boss Threat
+7762 Enemy Scaling: Final Boss Threat
+7763 Enemy Scaling: Final Boss Threat
+7764 Enemy Scaling: Final Boss Threat
+7765 Enemy Scaling: Final Boss Threat
+7766 Enemy Scaling: Final Boss Threat
+7767 Enemy Scaling: Final Boss Threat
+7768 Enemy Scaling: Final Boss Threat
+7769 Enemy Scaling: Final Boss Threat
+7770 Enemy Scaling: Spirit Creatures
+7771 Enemy Scaling: Spirit Creatures
+7772 Enemy Scaling: Spirit Creatures
+7773 Enemy Scaling: Spirit Creatures
+7774 Enemy Scaling: Spirit Creatures
+7775 Enemy Scaling: Spirit Creatures
+7776 Enemy Scaling: Spirit Creatures
+7777 Enemy Scaling: Spirit Creatures
+7778 Enemy Scaling: Spirit Creatures
+7779 Enemy Scaling: Spirit Creatures
+7800 Enemy Scaling (Duos): Minimal Threat
+7801 Enemy Scaling (Duos): Minimal Threat
+7802 Enemy Scaling (Duos): Minimal Threat
+7803 Enemy Scaling (Duos): Minimal Threat
+7804 Enemy Scaling (Duos): Minimal Threat
+7805 Enemy Scaling (Duos): Minimal Threat
+7806 Enemy Scaling (Duos): Minimal Threat
+7807 Enemy Scaling (Duos): Minimal Threat
+7809 Enemy Scaling (Duos): Minimal Threat
+7810 Enemy Scaling (Duos): Small Threat
+7811 Enemy Scaling (Duos): Small Threat
+7812 Enemy Scaling (Duos): Small Threat
+7813 Enemy Scaling (Duos): Small Threat
+7814 Enemy Scaling (Duos): Small Threat
+7815 Enemy Scaling (Duos): Small Threat
+7816 Enemy Scaling (Duos): Small Threat
+7817 Enemy Scaling (Duos): Small Threat
+7819 Enemy Scaling (Duos): Small Threat
+7820 Enemy Scaling (Duos): Medium Threat
+7821 Enemy Scaling (Duos): Medium Threat
+7822 Enemy Scaling (Duos): Medium Threat
+7823 Enemy Scaling (Duos): Medium Threat
+7824 Enemy Scaling (Duos): Medium Threat
+7825 Enemy Scaling (Duos): Medium Threat
+7826 Enemy Scaling (Duos): Medium Threat
+7827 Enemy Scaling (Duos): Medium Threat
+7829 Enemy Scaling (Duos): Medium Threat
+7830 Enemy Scaling (Duos): Large Threat
+7831 Enemy Scaling (Duos): Large Threat
+7832 Enemy Scaling (Duos): Large Threat
+7833 Enemy Scaling (Duos): Large Threat
+7834 Enemy Scaling (Duos): Large Threat
+7835 Enemy Scaling (Duos): Large Threat
+7836 Enemy Scaling (Duos): Large Threat
+7837 Enemy Scaling (Duos): Large Threat
+7839 Enemy Scaling (Duos): Large Threat
+7840 Enemy Scaling (Duos): Field Boss Threat
+7841 Enemy Scaling (Duos): Field Boss Threat
+7842 Enemy Scaling (Duos): Field Boss Threat
+7843 Enemy Scaling (Duos): Field Boss Threat
+7844 Enemy Scaling (Duos): Field Boss Threat
+7845 Enemy Scaling (Duos): Field Boss Threat
+7846 Enemy Scaling (Duos): Field Boss Threat
+7847 Enemy Scaling (Duos): Field Boss Threat
+7849 Enemy Scaling (Duos): Field Boss Threat
+7850 Enemy Scaling (Duos): Night Boss Threat
+7851 Enemy Scaling (Duos): Night Boss Threat
+7852 Enemy Scaling (Duos): Night Boss Threat
+7853 Enemy Scaling (Duos): Night Boss Threat
+7854 Enemy Scaling (Duos): Night Boss Threat
+7855 Enemy Scaling (Duos): Night Boss Threat
+7856 Enemy Scaling (Duos): Night Boss Threat
+7857 Enemy Scaling (Duos): Night Boss Threat
+7859 Enemy Scaling (Duos): Night Boss Threat
+7860 Enemy Scaling (Duos): Final Boss Threat
+7861 Enemy Scaling (Duos): Final Boss Threat
+7862 Enemy Scaling (Duos): Final Boss Threat
+7863 Enemy Scaling (Duos): Final Boss Threat
+7864 Enemy Scaling (Duos): Final Boss Threat
+7865 Enemy Scaling (Duos): Final Boss Threat
+7866 Enemy Scaling (Duos): Final Boss Threat
+7867 Enemy Scaling (Duos): Final Boss Threat
+7869 Enemy Scaling (Duos): Final Boss Threat
+7900 Enemy Scaling (Trios): Minimal Threat
+7901 Enemy Scaling (Trios): Minimal Threat
+7902 Enemy Scaling (Trios): Minimal Threat
+7903 Enemy Scaling (Trios): Minimal Threat
+7904 Enemy Scaling (Trios): Minimal Threat
+7905 Enemy Scaling (Trios): Minimal Threat
+7906 Enemy Scaling (Trios): Minimal Threat
+7907 Enemy Scaling (Trios): Minimal Threat
+7909 Enemy Scaling (Trios): Minimal Threat
+7910 Enemy Scaling (Trios): Small Threat
+7911 Enemy Scaling (Trios): Small Threat
+7912 Enemy Scaling (Trios): Small Threat
+7913 Enemy Scaling (Trios): Small Threat
+7914 Enemy Scaling (Trios): Small Threat
+7915 Enemy Scaling (Trios): Small Threat
+7916 Enemy Scaling (Trios): Small Threat
+7917 Enemy Scaling (Trios): Small Threat
+7919 Enemy Scaling (Trios): Small Threat
+7920 Enemy Scaling (Trios): Medium Threat
+7921 Enemy Scaling (Trios): Medium Threat
+7922 Enemy Scaling (Trios): Medium Threat
+7923 Enemy Scaling (Trios): Medium Threat
+7924 Enemy Scaling (Trios): Medium Threat
+7925 Enemy Scaling (Trios): Medium Threat
+7926 Enemy Scaling (Trios): Medium Threat
+7927 Enemy Scaling (Trios): Medium Threat
+7929 Enemy Scaling (Trios): Medium Threat
+7930 Enemy Scaling (Trios): Large Threat
+7931 Enemy Scaling (Trios): Large Threat
+7932 Enemy Scaling (Trios): Large Threat
+7933 Enemy Scaling (Trios): Large Threat
+7934 Enemy Scaling (Trios): Large Threat
+7935 Enemy Scaling (Trios): Large Threat
+7936 Enemy Scaling (Trios): Large Threat
+7937 Enemy Scaling (Trios): Large Threat
+7939 Enemy Scaling (Trios): Large Threat
+7940 Enemy Scaling (Trios): Field Boss Threat
+7941 Enemy Scaling (Trios): Field Boss Threat
+7942 Enemy Scaling (Trios): Field Boss Threat
+7943 Enemy Scaling (Trios): Field Boss Threat
+7944 Enemy Scaling (Trios): Field Boss Threat
+7945 Enemy Scaling (Trios): Field Boss Threat
+7946 Enemy Scaling (Trios): Field Boss Threat
+7947 Enemy Scaling (Trios): Field Boss Threat
+7949 Enemy Scaling (Trios): Field Boss Threat
+7950 Enemy Scaling (Trios): Night Boss Threat
+7951 Enemy Scaling (Trios): Night Boss Threat
+7952 Enemy Scaling (Trios): Night Boss Threat
+7953 Enemy Scaling (Trios): Night Boss Threat
+7954 Enemy Scaling (Trios): Night Boss Threat
+7955 Enemy Scaling (Trios): Night Boss Threat
+7956 Enemy Scaling (Trios): Night Boss Threat
+7957 Enemy Scaling (Trios): Night Boss Threat
+7959 Enemy Scaling (Trios): Night Boss Threat
+7960 Enemy Scaling (Trios): Final Boss Threat
+7961 Enemy Scaling (Trios): Final Boss Threat
+7962 Enemy Scaling (Trios): Final Boss Threat
+7963 Enemy Scaling (Trios): Final Boss Threat
+7964 Enemy Scaling (Trios): Final Boss Threat
+7965 Enemy Scaling (Trios): Final Boss Threat
+7966 Enemy Scaling (Trios): Final Boss Threat
+7967 Enemy Scaling (Trios): Final Boss Threat
+7969 Enemy Scaling (Trios): Final Boss Threat
+9760 Character Relic: Art gauge greatly filled when ability is
+9762 Character Relic: Taking attacks improves attack power
+45680 Character Respawn
+45696 Spirit Creatures
+45697 Spirit Creatures
+46275 Talisman: Improved Item Discovery
+46276 Talisman: Improved Rune Gain
+46277 Talisman: HP Loss
+49300 Wylder: ?
+49301 Wylder (Dawn): ?
+49310 Guardian: ?
+49320 Ironeye: ?
+49330 Duchess: ?
+49340 Raider: ?
+49350 Revenant: ?
+49360 Recluse: ?
+49370 Executor: ?
+90000 Disable Poison
+90010 Disable Rot
+90020 Disable Bleed
+90030 Disable Blight
+90040 Disable Frostbite
+90060 Disable Madness
+90061 Disable Madness
+90100 Ignore Fake Targets
+90110 Ignore Fake Targets: Aural Decoy only
+90120 Ignore Fake Targets: Humans only
+90130 Ignore Fake Targets: Animals only
+90140 Ignore Fake Targets: Subhuman only
+90150 Ignore Fake Targets: Phantom only
+90160 Ignore Fake Targets: Human, Subhuman and Phantom only
+90161 Ignore Fake Targets: Subhuman and Animal only
+90162 Ignore Fake Targets: Human and Animal only
+90200 Allow Charm Effect
+90300 Disable Sleep
+90301 Disable Sleep
+90400 Apply First (Damage Level Change)
+91000 Disable Poison, Rot, Bleed, Blight, Frostbite, Sleep, Madness
+91001 Disable Poison, Rot, Bleed, Blight, Frostbite, Sleep, Madness
+95000 Reduce Blood Damage by 30%
+95001 Reduce Blood Damage by 50%
+95010 Reduce Frostbite Damage by 30%
+95011 Reduce Frostbite Damage by 50%
+95020 Reduce Sleep Damage by 30%
+95021 Reduce Sleep Damage by 50%
+95030 Reduce Madness Damage by 30%
+95031 Reduce Madness Damage by 50%
+96000 Apply Burn
+96001 Burn Damage
+99202 Bird Deployment
+99800 Hero: Rune Gain
+99810 Night Rain Circle: Damage
+99811 Night Rain Circle: Damage
+102400 Hero: Disable Fall Damage
+102401 Hero: Disable Fall Death
+270000 Revenant: Spirit Summon 1 Trigger
+271000 Revenant: Spirit Summon 2 Trigger
+272000 Revenant: Spirit Summon 3 Trigger
+310000 Talisman: Increased Maximum HP
+310100 Talisman: Increased Maximum FP
+310200 Talisman: Increased Maximum Stamina
+310400 Talisman: Increased Maximum HP
+311000 Talisman: Improved Item Discovery
+311100 Talisman: More Runes From Defeated Enemies
+311500 Talisman: Improved Stamina Recovery
+311600 Talisman: Improved Blood Loss Resistance
+311700 Talisman: Improved Poison Resistance
+311800 Talisman: Improved Sleep Resistance
+311900 Talisman: Improved Death Blight Resistance
+312000 Talisman: Improved Poison & Rot Resistance
+312100 Talisman: Improved Poise
+312300 Talisman: Improved Skill Attack Power
+312500 Talisman: Improved Dexterity
+312501 Talisman: Improved Dexterity
+312502 Talisman: Improved Dexterity
+312503 Talisman: Successive Attacks Boost Attack Power
+312504 Talisman: Successive Attacks Boost Attack Power
+312505 Talisman: Successive Attacks Boost Attack Power
+312506 Talisman: Successive Attacks Boost Attack Power
+312507 Talisman: Successive Attacks Boost Attack Power
+312508 Talisman: Successive Attacks Boost Attack Power
+320000 Talisman: Improved Magic Attack Power
+320100 Talisman: Improved Lightning Attack Power
+320200 Talisman: Improved Fire Attack Power
+320300 Talisman: Improved Holy Attack Power
+320400 Talisman: Improved Attack Power at Low HP
+320500 Talisman: Improved Attack Power at Full HP
+320600 Talisman: Improved Thrusting Counterattack
+320700 Talisman: Improved Guard Breaking
+320800 Talisman: Successive Attacks Boost Attack Power
+320801 Talisman: Successive Attacks Boost Attack Power
+320802 Talisman: Successive Attacks Boost Attack Power
+320803 Talisman: Successive Attacks Boost Attack Power
+320804 Talisman: Successive Attacks Boost Attack Power
+320805 Talisman: Successive Attacks Boost Attack Power
+320806 Talisman: Successive Attacks Boost Attack Power
+320807 Talisman: Successive Attacks Boost Attack Power
+320900 Talisman: Improved Critical Hits
+321000 Talisman: Projectile Damage Drop-Off Reduced
+321200 Talisman: Improved Chain Attack Finishers
+321300 Talisman: Improved Charge Attacks
+321500 Talisman: Improved Ranged Weapon Attacks
+321600 Talisman: Blood Loss in Vicinity Increases Attack Power
+321601 Talisman: Blood Loss in Vicinity Increases Attack Power
+321700 Talisman: Poison & Rot Improves Attack Power
+321701 Talisman: Poison & Rot Improves Attack Power
+321800 Talisman: Improved Jump Attacks
+321900 Talisman: Improved Roar & Breath Attacks
+322000 Talisman: Improved Guard Counters
+322100 Talisman: Improved Throwing Pots
+322200 Talisman: Improved Perfuming Arts
+330000 Talisman: Improved Sorceries
+330400 Talisman: Improved Incantations
+330600 Talisman: Extended Spell Duration
+330700 Talisman: Improved Spell Casting Speed
+330800 Talisman: Reduced Spell FP Cost
+330900 Talisman: Improved Charged Spells & Skills
+340000 Talisman: Improved Physical Damage Negation
+340100 Talisman: Improved Magic Damage Negation
+340200 Talisman: Improved Fire Damage Negation
+340300 Talisman: Improved Lightning Damage Negation
+340400 Talisman: Improved Holy Damage Negation
+340500 Talisman: Improved Non-Physical Damage Negation
+340700 Talisman: Impaired Damage Negation
+340800 Talisman: Improved Damage Negation at Low HP
+340900 Talisman: Improved Damage Negation at Full HP
+341000 Talisman: Improved Guarding Ability
+350000 Talisman: Improved Flask HP Restoration
+350200 Talisman: Continuous HP Recovery
+350300 Talisman: Defeating Enemies Restores HP
+350301 Talisman: Defeating Enemies Restores HP
+350400 Talisman: Successive Attack HP Restoration
+350401 Talisman: Successive Attack HP Restoration
+350500 Talisman: Critical Hit HP Restoration
+350501 Talisman: Critical Hit HP Restoration
+350502 Talisman: Critical Hit HP Restoration
+350600 Talisman: Critical Hit FP Restoration
+350601 Talisman: Critical Hit FP Restoration
+350602 Talisman: Critical Hit FP Restoration
+360200 Talisman: Reduced Skill FP Cost
+360700 Talisman: No Rune Loss or Level Down Upon Death
+361100 Talisman: Defeating Enemies Restores FP
+361101 Talisman: Defeating Enemies Restores FP
+500820 Boiled Crab
+500830 Boiled Prawn
+501000 Flask of Crimson Tears
+501001 Flask of Crimson Tears +1
+501002 Flask of Crimson Tears +2
+501003 Flask of Crimson Tears +3
+501004 Flask of Crimson Tears +4
+501005 Flask of Crimson Tears +5
+501006 Flask of Crimson Tears +6
+501007 Flask of Crimson Tears +7
+501008 Flask of Crimson Tears +8
+501009 Flask of Crimson Tears +9
+501010 Flask of Crimson Tears +10
+501011 Flask of Crimson Tears +11
+501012 Flask of Crimson Tears +12
+501290 Starlight Shards
+501690 Shield Grease
+511009 Crimsonburst Crystal Tear
+511010 Greenburst Crystal Tear
+511011 Opaline Hardtear
+511014 Spiked Cracked Tear
+511015 Windy Crystal Tear
+511019 Twiggy Cracked Tear
+511026 Stonebarb Cracked Tear
+511028 Flame-Shrouding Cracked Tear
+511029 Magic-Shrouding Cracked Tear
+511030 Lightning-Shrouding Cracked Tear
+511031 Holy-Shrouding Cracked Tear
+511060 Cerulean Hidden Tear
+540150 Wending Grace
+540159 Wending Grace: Chain
+602990 Hero: Apply Kill Effect
+602991 Hero: On Kill
+700500 Enemy Kill Marker?
+702000 Ironeye: Item Discovery Boost
+702001 Ironeye: Item Discovery Boost
+705012 Hero: Apply StateInfo 624
+707050 Executor: 
+707051 Executor: 
+1800300 Recluse: Divine Shield
+1801200 Recluse: Cerulean Veil
+1801210 Recluse: Cerulean Veil
+1801215 Recluse: Cerulean Veil
+1801216 Recluse: Cerulean Veil
+1801220 Recluse: Cerulean Veil
+1801221 Recluse: Cerulean Veil
+1801225 Recluse: Cerulean Veil
+1801226 Recluse: Cerulean Veil
+1801230 Recluse: Cerulean Veil
+1801231 Recluse: Cerulean Veil
+1801235 Recluse: Cerulean Veil
+1801236 Recluse: Cerulean Veil
+1801240 Recluse: Cerulean Veil
+1801241 Recluse: Cerulean Veil
+1801245 Recluse: Cerulean Veil
+1801246 Recluse: Cerulean Veil
+1801250 Recluse: Cerulean Veil
+1801251 Recluse: Cerulean Veil
+1801400 Recluse: Warming Torch
+1801500 Recluse: Lightning Parry
+1801501 Recluse: Lightning Parry
+1802111 Recluse: Elemental Breath
+1802121 Recluse: Elemental Breath
+7000000 RELIC: Vigor +1
+7000001 RELIC: Vigor +2
+7000002 RELIC: Vigor +3
+7000090 RELIC: Increased Maximum HP
+7000100 RELIC: Mind +1
+7000101 RELIC: Mind +2
+7000102 RELIC: Mind +3
+7000190 RELIC: Increased Maximum FP
+7000200 RELIC: Endurance +1
+7000201 RELIC: Endurance +2
+7000202 RELIC: Endurance +3
+7000290 RELIC: Increased Maximum Stamina
+7000300 RELIC: Strength +1
+7000301 RELIC: Strength +2
+7000302 RELIC: Strength +3
+7000400 RELIC: Dexterity +1
+7000401 RELIC: Dexterity +2
+7000402 RELIC: Dexterity +3
+7000500 RELIC: Intelligence +1
+7000501 RELIC: Intelligence +2
+7000502 RELIC: Intelligence +3
+7000600 RELIC: Faith +1
+7000601 RELIC: Faith +2
+7000602 RELIC: Faith +3
+7000700 RELIC: Arcane +1
+7000701 RELIC: Arcane +2
+7000702 RELIC: Arcane +3
+7000800 RELIC: Character Skill Cooldown Reduction +1
+7000801 RELIC: Character Skill Cooldown Reduction +2
+7000802 RELIC: Character Skill Cooldown Reduction +3
+7000900 RELIC: Ultimate Art Gauge +1
+7000901 RELIC: Ultimate Art Gauge +2
+7000902 RELIC: Ultimate Art Gauge +3
+7001000 RELIC: Poise +1
+7001001 RELIC: Poise +2
+7001002 RELIC: Poise +3
+7001100 RELIC: HP Restoration
+7001400 RELIC: Physical Attack Up
+7001401 RELIC: Physical Attack Up +1
+7001402 RELIC: Physical Attack Up +2
+7001500 RELIC: Magic Attack Power Up
+7001501 RELIC: Magic Attack Power Up +1
+7001502 RELIC: Magic Attack Power Up +2
+7001600 RELIC: Fire Attack Power Up
+7001601 RELIC: Fire Attack Power Up +1
+7001602 RELIC: Fire Attack Power Up +2
+7001700 RELIC: Lightning Attack Power Up
+7001701 RELIC: Lightning Attack Power Up +1
+7001702 RELIC: Lightning Attack Power Up +2
+7001800 RELIC: Holy Attack Power Up
+7001801 RELIC: Holy Attack Power Up +1
+7001802 RELIC: Holy Attack Power Up +2
+7002600 RELIC: Magic Damage Negation Up
+7002700 RELIC: Fire Damage Negation Up
+7002800 RELIC: Lightning Damage Negation Up
+7002900 RELIC: Holy Damage Negation Up
+7003000 RELIC: Improved Poison Resistance
+7003100 RELIC: Improved Blood Loss Resistance
+7003200 RELIC: Improved Sleep Resistance
+7003300 RELIC: Improved Death Blight Resistance
+7003400 RELIC: Improved Rot Resistance
+7003500 RELIC: Improved Frost Resistance
+7003600 RELIC: Improved Madness Resistance
+7005600 RELIC: Partial HP Restoration upon Post-Damage Attacks
+7006200 RELIC: Improved Physical Damage Negation
+7010001 RELIC: Improved Physical Damage Negation
+7010200 RELIC: Flask Also Heals Allies
+7010211 RELIC: Flask Also Heals Allies
+7010220 RELIC: Flask Also Heals Allies
+7010221 RELIC: Flask Also Heals Allies
+7010230 RELIC: Flask Also Heals Allies
+7010231 RELIC: Flask Also Heals Allies
+7010240 RELIC: Flask Also Heals Allies
+7010241 RELIC: Flask Also Heals Allies
+7010250 RELIC: Flask Also Heals Allies
+7010260 RELIC: Flask Also Heals Allies
+7010280 RELIC: Flask Also Heals Allies
+7010281 RELIC: Flask Also Heals Allies
+7010282 RELIC: Flask Also Heals Allies
+7010283 RELIC: Flask Also Heals Allies
+7010299 RELIC: Flask Also Heals Allies
+7010500 RELIC: Wylder: Art activation spreads fire in area
+7010700 RELIC: Duchess: Dagger chain attack reprises event upon nearby enemies
+7010701 RELIC: Duchess: Dagger chain attack reprises event upon nearby enemies
+7010702 RELIC: Duchess: Dagger chain attack reprises event upon nearby enemies
+7010703 RELIC: Duchess: Dagger chain attack reprises event upon nearby enemies
+7010900 RELIC: Revenant: Expend own HP to fully heal nearby allies when activating Art
+7010901 RELIC: Revenant: Expend own HP to fully heal nearby allies when activating Art
+7010902 RELIC: Revenant: Expend own HP to fully heal nearby allies when activating Art
+7011000 RELIC: Guardian: Increased duration for Character Skill
+7011001 RELIC: Guardian: Increased duration for Character Skill
+7011101 RELIC: Guardian: Increased duration for Character Skill
+7011200 RELIC: Revenant: Trigger ghostflame explosion during Ultimate Art activation
+7011600 RELIC: Guardian: Creates whirlwind when charging halberd attacks
+7011700 RELIC: Executor: Roaring restores HP while Art is active
+7011701 RELIC: Executor: Roaring restores HP while Art is active
+7012000 RELIC: Guardian: Slowly restores nearby allies' HP while Art is active
+7012002 RELIC: Guardian: Slowly restores nearby allies' HP while Art is active
+7012200 RELIC: Slowly restore HP for self and nearby allies when HP is low
+7012201 RELIC: Slowly restore HP for self and nearby allies when HP is low
+7012202 RELIC: Slowly restore HP for self and nearby allies when HP is low
+7012300 RELIC: Improved Damage Negation at Low HP
+7020000 RELIC: Wylder: Follow-up attacks possible when using Character Skill (greatsword only)
+7020001 RELIC: Wylder: Follow-up attacks possible when using Character Skill (greatsword only)
+7020002 RELIC: Wylder: Follow-up attacks possible when using Character Skill (greatsword only)
+7020003 RELIC: Wylder: Follow-up attacks possible when using Character Skill (greatsword only)
+7020004 RELIC: Wylder: Follow-up attacks possible when using Character Skill (greatsword only)
+7030000 RELIC: Improved Poise Near Totem Stela
+7030001 RELIC: Improved Poise Near Totem Stela
+7030002 RELIC: Improved Poise Near Totem Stela
+7030003 RELIC: Improved Poise Near Totem Stela
+7030200 RELIC: HP restored when using cured meats, medicinal boluses, etc.
+7030201 RELIC: HP restored when using cured meats, medicinal boluses, etc.
+7030202 RELIC: HP restored when using cured meats, medicinal boluses, etc.
+7030600 RELIC: Art gauge charged from successful guarding
+7030601 RELIC: Art gauge charged from successful guarding
+7030602 RELIC: Art gauge charged from successful guarding
+7030700 RELIC: Draw enemy attention while guarding
+7030701 RELIC: Draw enemy attention while guarding
+7030702 RELIC: Draw enemy attention while guarding
+7030800 RELIC: Art gauge fills moderately upon critical hit
+7030801 RELIC: Art gauge fills moderately upon critical hit
+7030802 RELIC: Art gauge fills moderately upon critical hit
+7030900 RELIC: Attack power increases after using grease items
+7030901 RELIC: Attack power increases after using grease items
+7030902 RELIC: Attack power increases after using grease items
+7031200 RELIC: Revenant: Strengthens family and allies when Ultimate Art is activated
+7031201 RELIC: Revenant: Strengthens family and allies when Ultimate Art is activated
+7031202 RELIC: Revenant: Strengthens family and allies when Ultimate Art is activated
+7031300 RELIC: Raider: Damage taken while using Character Skill improves attack power and stamina
+7031301 RELIC: Raider: Damage taken while using Character Skill improves attack power and stamina
+7031302 RELIC: Raider: Damage taken while using Character Skill improves attack power and stamina
+7031800 RELIC: Duchess: Become difficult to spot and silence footsteps after landing critical from behind
+7031801 RELIC: Duchess: Become difficult to spot and silence footsteps after landing critical from behind
+7031802 RELIC: Duchess: Become difficult to spot and silence footsteps after landing critical from behind
+7031803 RELIC: Duchess: Become difficult to spot and silence footsteps after landing critical from behind
+7031900 RELIC: Critical Hits Earn Runes
+7031901 RELIC: Critical Hits Earn Runes
+7032200 RELIC: Taking attacks improves attack power
+7032201 RELIC: Character Taking attacks improves attack power
+7032202 RELIC: Character Taking attacks improves attack power
+7032400 RELIC: Wylder: Art gauge greatly filled when ability is activated
+7032401 RELIC: Wylder: Art gauge greatly filled when ability is activated
+7032402 RELIC: Wylder: Art gauge greatly filled when ability is activated
+7032700 RELIC: Duchess: Defeating enemies while Art is active ups attack power
+7032701 RELIC: Duchess: Defeating enemies while Art is active ups attack power
+7032702 RELIC: Duchess: Defeating enemies while Art is active ups attack power
+7032703 RELIC: Duchess: Defeating enemies while Art is active ups attack power
+7032704 RELIC: Duchess: Defeating enemies while Art is active ups attack power
+7032800 RELIC: Recluse: Collecting affinity residue activates Terra Magica
+7032801 RELIC: Recluse: Collecting affinity residue activates Terra Magica
+7032802 RELIC: Recluse: Collecting affinity residue activates Terra Magica
+7032803 RELIC: Recluse: Collecting affinity residue activates Terra Magica
+7032900 RELIC: Recluse: Suffer blood loss and increase attack power upon Art activation
+7032901 RELIC: Recluse: Suffer blood loss and increase attack power upon Art activation
+7032902 RELIC: Recluse: Suffer blood loss and increase attack power upon Art activation
+7032903 RELIC: Recluse: Suffer blood loss and increase attack power upon Art activation
+7033200 RELIC: Wylder: +1 additional Character Skill use
+7033300 RELIC: Guardian: Become the target of enemy aggression when ability is activated
+7033301 RELIC: Guardian: Become the target of enemy aggression when ability is activated
+7033302 RELIC: Guardian: Become the target of enemy aggression when ability is activated
+7033400 RELIC: Guardian: Reflect a portion of damage received when ability is activated
+7033401 RELIC: Guardian: Reflect a portion of damage received when ability is activated
+7033402 RELIC: Guardian: Reflect a portion of damage received when ability is activated
+7033403 RELIC: Guardian: Reflect a portion of damage received when ability is activated
+7033404 RELIC: Guardian: Reflect a portion of damage received when ability is activated
+7034100 RELIC: Recluse: Activating Ultimate Art raises Max HP
+7034101 RELIC: Recluse: Activating Ultimate Art raises Max HP
+7034102 RELIC: Recluse: Activating Ultimate Art raises Max HP
+7034400 RELIC: Executor: Character Skill Boosts Attack but Attacking Drains HP
+7034401 RELIC: Executor: Character Skill Boosts Attack but Attacking Drains HP
+7034402 RELIC: Executor: Character Skill Boosts Attack but Attacking Drains HP
+7034403 RELIC: Executor: Character Skill Boosts Attack but Attacking Drains HP
+7034404 RELIC: Executor: Character Skill Boosts Attack but Attacking Drains HP
+7034500 RELIC: Executor: While Character Skill is active, unlocking use of cursed sword restores HP
+7034501 RELIC: Executor: While Character Skill is active, unlocking use of cursed sword restores HP
+7034502 RELIC: Executor: While Character Skill is active, unlocking use of cursed sword restores HP
+7034600 RELIC: Ironeye:  Art Charge Activation Adds Poison Effect
+7034601 RELIC: Ironeye:  Art Charge Activation Adds Poison Effect
+7034602 RELIC: Ironeye:  Art Charge Activation Adds Poison Effect
+7034700 RELIC: Ironeye:  Boosts thrusting counterattacks after executing Art
+7034701 RELIC: Ironeye:  Boosts thrusting counterattacks after executing Art
+7034702 RELIC: Ironeye:  Boosts thrusting counterattacks after executing Art
+7035100 RELIC: Critical Hit Boosts Stamina Recovery Speed
+7035101 RELIC: Critical Hit Boosts Stamina Recovery Speed
+7035102 RELIC: Critical Hit Boosts Stamina Recovery Speed
+7035400 RELIC: Gesture "Crossed Legs" Builds Up Madness
+7035401 RELIC: Gesture "Crossed Legs" Builds Up Madness
+7035402 RELIC: Gesture "Crossed Legs" Builds Up Madness
+7035410 RELIC: Gesture "Crossed Legs" Builds Up Madness
+7035411 RELIC: Gesture "Crossed Legs" Builds Up Madness
+7035412 RELIC: Gesture "Crossed Legs" Builds Up Madness
+7035500 RELIC: Madness Continually Recovers FP
+7035501 RELIC: Madness Continually Recovers FP
+7035502 RELIC: Madness Continually Recovers FP
+7035510 RELIC: Madness Continually Recovers FP
+7035511 RELIC: Madness Continually Recovers FP
+7035512 RELIC: Madness Continually Recovers FP
+7035700 RELIC: Switching Weapons Adds an Affinity Attack
+7035701 RELIC: Switching Weapons Adds an Affinity Attack
+7035702 RELIC: Switching Weapons Adds an Affinity Attack
+7035703 RELIC: Switching Weapons Adds an Affinity Attack
+7035704 RELIC: Switching Weapons Adds an Affinity Attack
+7035705 RELIC: Switching Weapons Adds an Affinity Attack
+7035706 RELIC: Switching Weapons Adds an Affinity Attack
+7035707 RELIC: Switching Weapons Adds an Affinity Attack
+7035708 RELIC: Switching Weapons Adds an Affinity Attack
+7035709 RELIC: Switching Weapons Adds an Affinity Attack
+7035710 RELIC: Switching Weapons Adds an Affinity Attack
+7035711 RELIC: Switching Weapons Adds an Affinity Attack
+7035712 RELIC: Switching Weapons Adds an Affinity Attack
+7035713 RELIC: Switching Weapons Adds an Affinity Attack
+7035714 RELIC: Switching Weapons Adds an Affinity Attack
+7035715 RELIC: Switching Weapons Adds an Affinity Attack
+7035716 RELIC: Switching Weapons Adds an Affinity Attack
+7035717 RELIC: Switching Weapons Adds an Affinity Attack
+7035718 RELIC: Switching Weapons Adds an Affinity Attack
+7035719 RELIC: Switching Weapons Adds an Affinity Attack
+7035720 RELIC: Switching Weapons Adds an Affinity Attack
+7035721 RELIC: Switching Weapons Adds an Affinity Attack
+7035800 RELIC: Boosts Attack Power of Added Affinity Attacks
+7035900 RELIC: Switching Weapons Boosts Attack Power
+7035901 RELIC: Switching Weapons Boosts Attack Power
+7035902 RELIC: Switching Weapons Boosts Attack Power
+7036000 RELIC: FP Restoration upon Successive Attacks
+7036001 RELIC: FP Restoration upon Successive Attacks
+7036100 RELIC: HP Recovery From Successful Guarding
+7036101 RELIC: HP Recovery From Successful Guarding
+7036102 RELIC: HP Recovery From Successful Guarding
+7040000 RELIC: Improved Initial Standard Attack
+7040100 RELIC: Improved Guard Counters
+7040200 RELIC: Improved Critical Hits
+7040201 RELIC: Improved Critical Hits
+7040300 RELIC: Improved Throwing Pot Damage
+7040400 RELIC: Improved Throwing Knife Damage
+7040500 RELIC: Improved Throwing Stone Damage
+7043200 RELIC: Improved Stonedigger Sorcery
+7043300 RELIC: Improved Carian Sword Sorcery
+7043400 RELIC: Improved Glintblade Sorcery
+7043500 RELIC: Improved Invisibility Sorcery
+7043600 RELIC: Improved Crystalian sorcery
+7043700 RELIC: Improved Gravity Sorcery
+7043800 RELIC: Improved Thorn Sorcery
+7044000 RELIC: Improved Fundamentalist Incantations
+7044100 RELIC: Improved Dragon Cult Incantations
+7044200 RELIC: Improved Giants' Flame Incantations
+7044300 RELIC: Improved Godslayer Incantations
+7044400 RELIC: Improved Bestial Incantations
+7044500 RELIC: Improved Frenzied Flame Incantations
+7044600 RELIC: Improved Dragon Communion Incantations
+7050000 RELIC: Raised stamina recovery for nearby allies, but not for self
+7050001 RELIC: Raised stamina recovery for nearby allies, but not for self
+7050100 RELIC: Items confer effect to all nearby allies
+7050101 RELIC: Items confer effect to all nearby allies
+7050102 RELIC: Items confer effect to all nearby allies
+7050200 RELIC: Items confer effect to all nearby allies
+7050201 RELIC: Items confer effect to all nearby allies
+7050202 RELIC: Items confer effect to all nearby allies
+7050203 RELIC: Items confer effect to all nearby allies
+7050204 RELIC: Items confer effect to all nearby allies
+7050205 RELIC: Items confer effect to all nearby allies
+7050206 RELIC: Items confer effect to all nearby allies
+7050207 RELIC: Items confer effect to all nearby allies
+7050208 RELIC: Items confer effect to all nearby allies
+7050209 RELIC: Items confer effect to all nearby allies
+7050210 RELIC: Items confer effect to all nearby allies
+7050211 RELIC: Items confer effect to all nearby allies
+7050212 RELIC: Items confer effect to all nearby allies
+7050213 RELIC: Items confer effect to all nearby allies
+7050214 RELIC: Items confer effect to all nearby allies
+7050215 RELIC: Items confer effect to all nearby allies
+7050216 RELIC: Items confer effect to all nearby allies
+7050217 RELIC: Items confer effect to all nearby allies
+7050218 RELIC: Items confer effect to all nearby allies
+7050219 RELIC: Items confer effect to all nearby allies
+7050220 RELIC: Items confer effect to all nearby allies
+7050300 RELIC: Items confer effect to all nearby allies
+7050301 RELIC: Items confer effect to all nearby allies
+7050302 RELIC: Items confer effect to all nearby allies
+7050303 RELIC: Items confer effect to all nearby allies
+7050304 RELIC: Items confer effect to all nearby allies
+7050305 RELIC: Items confer effect to all nearby allies
+7050306 RELIC: Items confer effect to all nearby allies
+7060000 RELIC: Attack power permanently increased for each evergaol prisoner defeated
+7060001 RELIC: Attack power permanently increased for each evergaol prisoner defeated
+7060100 RELIC: Max FP permanently increased after releasing Sorcerer's Rise mechanism
+7060101 RELIC: Max FP permanently increased after releasing Sorcerer's Rise mechanism
+7060200 RELIC: Attack power up after defeating a Night Invader
+7060201 RELIC: Attack power up after defeating a Night Invader
+7070000 RELIC: Treasure marked upon map
+7070001 RELIC: Treasure marked upon map
+7080000 RELIC: Improved Attack Power with 3+ Daggers Equipped
+7080100 RELIC: Improved Attack Power with 3+ Straight Swords Equipped
+7080200 RELIC: Improved Attack Power with 3+ Greatswords Equipped
+7080300 RELIC: Improved Attack Power with 3+ Colossal Swords Equipped
+7080400 RELIC: Improved Attack Power with 3+ Curved Swords Equipped
+7080500 RELIC: Improved Attack Power with 3+ Curved Greatswords Equipped
+7080600 RELIC: Improved Attack Power with 3+ Katana Equipped
+7080700 RELIC: Improved Attack Power with 3+ Twinblades Equipped
+7080800 RELIC: Improved Attack Power with 3+ Thrusting Swords Equipped
+7080900 RELIC: Improved Attack Power with 3+ Heavy Thrusting Swords Equipped
+7081000 RELIC: Improved Attack Power with 3+ Axes Equipped
+7081100 RELIC: Improved Attack Power with 3+ Greataxes Equipped
+7081200 RELIC: Improved Attack Power with 3+ Hammers Equipped
+7081300 RELIC: Improved Attack Power with 3+ Great Hammers Equipped
+7081400 RELIC: Improved Attack Power with 3+ Flails Equipped
+7081500 RELIC: Improved Attack Power with 3+ Spears Equipped
+7081700 RELIC: Improved Attack Power with 3+ Great Spears Equipped
+7081800 RELIC: Improved Attack Power with 3+ Halberds Equipped
+7081900 RELIC: Improved Attack Power with 3+ Reapers Equipped
+7082000 RELIC: Improved Attack Power with 3+ Fists Equipped
+7082100 RELIC: Improved Attack Power with 3+ Claws Equipped
+7082200 RELIC: Improved Attack Power with 3+ Whips Equipped
+7082300 RELIC: Improved Attack Power with 3+ Colossal Weapons Equipped
+7082400 RELIC: Improved Attack Power with 3+ Bows Equipped
+7082500 RELIC: Max FP Up with 3+ Staves Equipped
+7082600 RELIC: Max FP Up with 3+ Sacred Seals Equipped
+7082700 RELIC: Max HP Up with 3+ Small Shields Equipped
+7082800 RELIC: Max HP Up with 3+ Medium Shields Equipped
+7082900 RELIC: Max HP Up with 3+ Greatshields Equipped
+7090000 RELIC: Defeating enemies fills more of the Art gauge
+7090001 RELIC: Defeating enemies fills more of the Art gauge
+7090100 RELIC: Defeating enemies restores HP for allies but not for self
+7090101 RELIC: Defeating enemies restores HP for allies but not for self
+7090102 RELIC: Defeating enemies restores HP for allies but not for self
+7090300 RELIC: Defeating enemies near Totem Stela restores HP
+7090302 RELIC: Defeating enemies near Totem Stela restores HP
+7090303 RELIC: Defeating enemies near Totem Stela restores HP
+7090304 RELIC: Defeating enemies near Totem Stela restores HP
+7090305 RELIC: Defeating enemies near Totem Stela restores HP
+7100100 RELIC: Stamina recovers with each successful attack
+7100101 RELIC: Stamina recovers with each successful attack
+7100110 RELIC: Night of the Beast: Recover Stamina on Attack
+7100111 RELIC: Night of the Beast: Recover Stamina on Attack
+7110000 RELIC: Increased rune acquisition for self and allies
+7120000 RELIC: Starting armament deals magic damage
+7120001 RELIC: Starting armament deals magic damage
+7120002 RELIC: Starting armament deals magic damage
+7120003 RELIC: Starting armament deals magic damage
+7120004 RELIC: Starting armament deals magic damage
+7120100 RELIC: Starting armament deals fire damage
+7120101 RELIC: Starting armament deals fire damage
+7120102 RELIC: Starting armament deals fire damage
+7120103 RELIC: Starting armament deals fire damage
+7120104 RELIC: Starting armament deals fire damage
+7120200 RELIC: Starting armament deals lightning damage
+7120201 RELIC: Starting armament deals lightning damage
+7120202 RELIC: Starting armament deals lightning damage
+7120203 RELIC: Starting armament deals lightning damage
+7120204 RELIC: Starting armament deals lightning damage
+7120300 RELIC: Starting armament deals holy damage
+7120301 RELIC: Starting armament deals holy damage
+7120302 RELIC: Starting armament deals holy damage
+7120303 RELIC: Starting armament deals holy damage
+7120304 RELIC: Starting armament deals holy damage
+7120400 RELIC: Starting armament inflicts frost
+7120401 RELIC: Starting armament inflicts frost
+7120402 RELIC: Starting armament inflicts frost
+7120403 RELIC: Starting armament inflicts frost
+7120404 RELIC: Starting armament inflicts frost
+7120405 RELIC: Starting armament inflicts frost
+7120406 RELIC: Starting armament inflicts frost
+7120407 RELIC: Starting armament inflicts frost
+7120408 RELIC: Starting armament inflicts frost
+7120500 RELIC: Starting armament inflicts poison
+7120501 RELIC: Starting armament inflicts poison
+7120502 RELIC: Starting armament inflicts poison
+7120503 RELIC: Starting armament inflicts poison
+7120504 RELIC: Starting armament inflicts poison
+7120505 RELIC: Starting armament inflicts poison
+7120506 RELIC: Starting armament inflicts poison
+7120507 RELIC: Starting armament inflicts poison
+7120508 RELIC: Starting armament inflicts poison
+7120600 RELIC: Starting armament inflicts blood loss
+7120601 RELIC: Starting armament inflicts blood loss
+7120602 RELIC: Starting armament inflicts blood loss
+7120603 RELIC: Starting armament inflicts blood loss
+7120604 RELIC: Starting armament inflicts blood loss
+7120605 RELIC: Starting armament inflicts blood loss
+7120606 RELIC: Starting armament inflicts blood loss
+7120607 RELIC: Starting armament inflicts blood loss
+7120608 RELIC: Starting armament inflicts blood loss
+7120900 RELIC: Stonesword Key in possession at start of expedition
+7121000 RELIC: Small Pouch in possession at start of expedition
+7121100 RELIC: Fire Pots in possession at start of expedition
+7121200 RELIC: Magic Pots in possession at start of expedition
+7121300 RELIC: Lightning Pots in possession at start of expedition
+7121400 RELIC: Holy Water Pots in possession at start of expedition
+7121500 RELIC: Poisonbone Darts in possession at start of expedition
+7121600 RELIC: Crystal Darts in possession at start of expedition
+7121700 RELIC: Throwing Daggers in possession at start of expedition
+7121800 RELIC: Glintstone Scraps in possession at start of expedition
+7121900 RELIC: Gravity Stone Chunks in possession at start of expedition
+7122000 RELIC: Bewitching Branches in possession at start of expedition
+7122100 RELIC: Wraith Calling Bell in possession at start of expedition
+7122200 RELIC: Fire Grease in possession at start of expedition
+7122300 RELIC: Magic Grease in possession at start of expedition
+7122400 RELIC: Lightning Grease in possession at start of expedition
+7122500 RELIC: Holy Grease in possession at start of expedition
+7122600 RELIC: Shield Grease in possession at start of expedition
+7122700 RELIC: Changes compatible armament's skill to Glintblade Phalanx at start of expedition
+7122800 RELIC: Changes compatible armament's skill to Gravitas at start of expedition
+7122900 RELIC: Changes compatible armament's skill to Flaming Strike at start of expedition
+7123000 RELIC: Changes compatible armament's skill to Eruption at start of expedition
+7123100 RELIC: Changes compatible armament's skill to Thunderbolt at start of expedition
+7123200 RELIC: Changes compatible armament's skill to Lightning Slash at start of expedition
+7123300 RELIC: Changes compatible armament's skill to Sacred Blade at start of expedition
+7123400 RELIC: Changes compatible armament's skill to Prayerful Strike at start of expedition
+7123500 RELIC: Changes compatible armament's skill to Poisonous Mist at start of expedition
+7123600 RELIC: Changes compatible armament's skill to Poison Moth Flight at start of expedition
+7123700 RELIC: Changes compatible armament's skill to Blood Blade at start of expedition
+7123800 RELIC: Changes compatible armament's skill to Seppuku at start of expedition
+7123900 RELIC: Changes compatible armament's skill to Chilling Mist at start of expedition
+7124000 RELIC: Changes compatible armament's skill to Hoarfrost Stomp at start of expedition
+7124100 RELIC: Changes compatible armament's skill to White Shadow's Lure at start of expedition
+7124300 RELIC: Changes compatible armament's skill to Endure at start of expedition
+7124400 RELIC: Changes compatible armament's skill to Quickstep at start of expedition
+7124500 RELIC: Changes compatible armament's skill to Storm Stomp at start of expedition
+7124600 RELIC: Changes compatible armament's skill to Determination at start of expedition
+7124700 RELIC: Changes compatible armament's skill to Rain of Arrows at start of expedition
+7126000 RELIC: Starlight Shards in possession at start of expedition
+7150000 RELIC: Guard counter is given a boost based on current HP
+7160000 RELIC: HP Restoration upon Thrusting Counterattack
+7220000 RELIC: Revenant: Power up while fighting alongside family
+7220001 RELIC: Revenant: Power up while fighting alongside family
+7220002 RELIC: Revenant: Power up while fighting alongside family
+7230000 RELIC: Rune discount for shop purchases while on expedition
+7230001 RELIC: Huge rune discount for shop purchases while on expedition
+7240000 RELIC: Improved Poise & Damage Negation When Knocked Back by Damage
+7240001 RELIC: Improved Poise & Damage Negation When Knocked Back by Damage
+7240003 RELIC: Improved Poise & Damage Negation When Knocked Back by Damage
+7240004 RELIC: Improved Poise & Damage Negation When Knocked Back by Damage
+7240006 RELIC: Improved Poise & Damage Negation When Knocked Back by Damage
+7240007 RELIC: Improved Poise & Damage Negation When Knocked Back by Damage
+7240008 RELIC: Improved Poise & Damage Negation When Knocked Back by Damage
+7240009 RELIC: Improved Poise & Damage Negation When Knocked Back by Damage
+7240010 RELIC: Improved Poise & Damage Negation When Knocked Back by Damage
+7240011 RELIC: Improved Poise & Damage Negation When Knocked Back by Damage
+7240012 RELIC: Improved Poise & Damage Negation When Knocked Back by Damage
+7240013 RELIC: Improved Poise & Damage Negation When Knocked Back by Damage
+7260000 RELIC: Attack power up when facing poison-afflicted enemy
+7260300 RELIC: Attack power up when facing scarlet rot-afflicted enemy
+7260400 RELIC: Attack power up when facing frostbite-afflicted enemy
+7260700 RELIC: Nearby Frostbite Conceals Self
+7260701 RELIC: Nearby Frostbite Conceals Self
+7260702 RELIC: Nearby Frostbite Conceals Self
+7260703 RELIC: Nearby Frostbite Conceals Self
+7260800 RELIC: Poison & Rot in Vicinity Increases Attack Power
+7260801 RELIC: Poison & Rot in Vicinity Increases Attack Power
+7260802 RELIC: Poison & Rot in Vicinity Increases Attack Power
+7260803 RELIC: Poison & Rot in Vicinity Increases Attack Power
+7270100 RELIC: Ironeye:  +1 additional Character Skill use
+7280000 RELIC: Ironeye:  Extends duration of weak point
+7290000 RELIC: Duchess: Improved Character Skill Attack Power
+7290001 RELIC: Duchess: Improved Character Skill Attack Power
+7290002 RELIC: Duchess: Improved Character Skill Attack Power
+7310000 RELIC: Raider: Duration of Ultimate Art extended
+7310001 RELIC: Raider: Duration of Ultimate Art extended
+7310002 RELIC: Raider: Duration of Ultimate Art extended
+7310003 RELIC: Raider: Duration of Ultimate Art extended
+7998004 WEP: Defeating Group Fires Golden Shockwave
+7999000 Wylder: Apply StateInfo 2248
+7999010 Guardian: Apply StateInfo 2249
+7999020 Ironeye: Apply StateInfo 2250
+7999030 Duchess: Apply StateInfo 2251
+7999040 Raider: Apply StateInfo 2252
+7999050 Revenant: Apply StateInfo 2253
+7999060 Recluse: Apply StateInfo 2254
+7999070 Executor: Apply StateInfo 2255
+8000000 WEP: Increased Maximum HP: 1
+8000001 WEP: Increased Maximum HP: 2
+8010000 WEP: Increased Maximum FP: 1
+8010001 WEP: Increased Maximum FP: 2
+8010100 WEP: Reduced FP Consumption: 1
+8010101 WEP: Reduced FP Consumption: 2
+8020000 WEP: Increased Maximum Stamina: 1
+8020001 WEP: Increased Maximum Stamina: 2
+8020200 WEP: Improved Stamina Recovery: 1
+8020201 WEP: Improved Stamina Recovery: 2
+8100000 WEP: Improved Physical Attack Power: 1
+8100001 WEP: Improved Physical Attack Power: 2
+8100100 WEP: Improved Magic Attack Power: 1
+8100101 WEP: Improved Magic Attack Power: 2
+8100102 WEP: Improved Magic Attack Power: 3
+8100200 WEP: Improved Fire Attack Power: 1
+8100201 WEP: Improved Fire Attack Power: 2
+8100202 WEP: Improved Fire Attack Power: 3
+8100300 WEP: Improved Lightning Attack Power: 1
+8100301 WEP: Improved Lightning Attack Power: 2
+8100302 WEP: Improved Lightning Attack Power: 3
+8100400 WEP: Improved Holy Attack Power: 1
+8100401 WEP: Improved Holy Attack Power: 2
+8100402 WEP: Improved Holy Attack Power: 3
+8100500 WEP: Improved Affinity Attack Power: 1
+8100501 WEP: Improved Affinity Attack Power: 2
+8110000 WEP: Attacks Inflict Poison
+8110001 WEP: Attacks Inflict Poison
+8110002 WEP: Attacks Inflict Poison
+8110010 WEP: Attacks Inflict Poison
+8110011 WEP: Attacks Inflict Poison
+8110012 WEP: Attacks Inflict Poison
+8110015 WEP: Attacks Inflict Poison
+8110016 WEP: Attacks Inflict Poison
+8110017 WEP: Attacks Inflict Poison
+8110100 WEP: Attacks Inflict Blood Loss
+8110101 WEP: Attacks Inflict Blood Loss
+8110102 WEP: Attacks Inflict Blood Loss
+8110110 WEP: Attacks Inflict Blood Loss
+8110111 WEP: Attacks Inflict Blood Loss
+8110112 WEP: Attacks Inflict Blood Loss
+8110115 WEP: Attacks Inflict Blood Loss
+8110116 WEP: Attacks Inflict Blood Loss
+8110117 WEP: Attacks Inflict Blood Loss
+8110200 WEP: Attacks Inflict Sleep
+8110201 WEP: Attacks Inflict Sleep
+8110202 WEP: Attacks Inflict Sleep
+8110210 WEP: Attacks Inflict Sleep
+8110211 WEP: Attacks Inflict Sleep
+8110212 WEP: Attacks Inflict Sleep
+8110215 WEP: Attacks Inflict Sleep
+8110216 WEP: Attacks Inflict Sleep
+8110217 WEP: Attacks Inflict Sleep
+8110400 WEP: Attacks Inflict Rot
+8110401 WEP: Attacks Inflict Rot
+8110402 WEP: Attacks Inflict Rot
+8110410 WEP: Attacks Inflict Rot
+8110411 WEP: Attacks Inflict Rot
+8110412 WEP: Attacks Inflict Rot
+8110415 WEP: Attacks Inflict Rot
+8110416 WEP: Attacks Inflict Rot
+8110417 WEP: Attacks Inflict Rot
+8110500 WEP: Attacks Inflict Frost
+8110501 WEP: Attacks Inflict Frost
+8110502 WEP: Attacks Inflict Frost
+8110510 WEP: Attacks Inflict Frost
+8110511 WEP: Attacks Inflict Frost
+8110512 WEP: Attacks Inflict Frost
+8110515 WEP: Attacks Inflict Frost
+8110516 WEP: Attacks Inflict Frost
+8110517 WEP: Attacks Inflict Frost
+8110700 WEP: Add Fire to Weapon
+8110701 WEP: Add Fire to Weapon
+8110702 WEP: Add Fire to Weapon
+8110703 WEP: Add Fire to Weapon
+8110750 WEP: Add Fire to Weapon
+8110751 WEP: Add Fire to Weapon
+8110752 WEP: Add Fire to Weapon
+8110753 WEP: Add Fire to Weapon
+8110800 WEP: Add Magic to Weapon
+8110801 WEP: Add Magic to Weapon
+8110802 WEP: Add Magic to Weapon
+8110803 WEP: Add Magic to Weapon
+8110850 WEP: Add Magic to Weapon
+8110851 WEP: Add Magic to Weapon
+8110852 WEP: Add Magic to Weapon
+8110853 WEP: Add Magic to Weapon
+8110900 WEP: Add Lightning to Weapon
+8110901 WEP: Add Lightning to Weapon
+8110902 WEP: Add Lightning to Weapon
+8110903 WEP: Add Lightning to Weapon
+8110950 WEP: Add Lightning to Weapon
+8110951 WEP: Add Lightning to Weapon
+8110952 WEP: Add Lightning to Weapon
+8110953 WEP: Add Lightning to Weapon
+8111000 WEP: Add Holy to Weapon
+8111001 WEP: Add Holy to Weapon
+8111002 WEP: Add Holy to Weapon
+8111003 WEP: Add Holy to Weapon
+8111050 WEP: Add Holy to Weapon
+8111051 WEP: Add Holy to Weapon
+8111052 WEP: Add Holy to Weapon
+8111053 WEP: Add Holy to Weapon
+8120000 WEP: Improved Stance-Breaking: 1
+8120001 WEP: Improved Stance-Breaking: 2
+8130000 WEP: Improved Critical Hits
+8130001 WEP: Improved Critical Hits
+8130002 WEP: Improved Critical Hits
+8140000 WEP: Improved Guard Breaking
+8140001 WEP: Improved Guard Breaking
+8140002 WEP: Improved Guard Breaking
+8160000 RELIC: Improved Dagger Attack Power
+8160100 RELIC: Improved Straight Sword Attack Power
+8160200 RELIC: Improved Greatsword Attack Power
+8160300 RELIC: Improved Colossal Sword Attack Power
+8160400 RELIC: Improved Curved Sword Attack Power
+8160500 RELIC: Improved Curved Greatsword Attack Power
+8160600 RELIC: Improved Katana Attack Power
+8160700 RELIC: Improved Twinblade Attack Power
+8160800 RELIC: Improved Thrusting Sword Attack Power
+8160900 RELIC: Improved Heavy Thrusting Sword Attack Power
+8161000 RELIC: Improved Axe Attack Power
+8161100 RELIC: Improved Greataxe Attack Power
+8161200 RELIC: Improved Hammer Attack Power
+8161300 RELIC: Improved Great Hammer Attack Power
+8161400 RELIC: Improved Flail Attack Power
+8161500 RELIC: Improved Spear Attack Power
+8161600 RELIC: Improved ? Attack Power
+8161700 RELIC: Improved Great Spear Attack Power
+8161800 RELIC: Improved Halberd Attack Power
+8161900 RELIC: Improved Reaper Attack Power
+8162000 RELIC: Improved Fist Attack Power
+8162100 RELIC: Improved Claw Attack Power
+8162200 RELIC: Improved Whip Attack Power
+8162300 RELIC: Improved Colossal Weapon Attack Power
+8162400 RELIC: Improved Bow Attack Power
+8200000 POW / WEP: Improved Physical Damage Negation: 1
+8200001 POW / WEP: Improved Physical Damage Negation: 2
+8200100 WEP: Improved Magic Damage Negation: 1
+8200101 WEP: Improved Magic Damage Negation: 2
+8200102 WEP: Improved Magic Damage Negation: 3
+8200200 WEP: Improved Fire Damage Negation: 1
+8200201 WEP: Improved Fire Damage Negation: 2
+8200202 WEP: Improved Fire Damage Negation: 3
+8200300 WEP: Improved Lightning Damage Negation: 1
+8200301 WEP: Improved Lightning Damage Negation: 2
+8200302 WEP: Improved Lightning Damage Negation: 3
+8200400 WEP: Improved Holy Damage Negation: 1
+8200401 WEP: Improved Holy Damage Negation: 2
+8200402 WEP: Improved Holy Damage Negation: 3
+8200500 POW / WEP: Improved Non-Physical Damage Negation: 1
+8200501 POW / WEP: Improved Non-Physical Damage Negation: 2
+8210000 WEP: Improved Poison Resistance: 1
+8210001 WEP: Improved Poison Resistance: 2
+8210002 WEP: Improved Poison Resistance: 3
+8210100 WEP: Improved Blood Loss Resistance: 1
+8210101 WEP: Improved Blood Loss Resistance: 2
+8210102 WEP: Improved Blood Loss Resistance: 3
+8210200 WEP: Improved Sleep Resistance: 1
+8210201 WEP: Improved Sleep Resistance: 2
+8210202 WEP: Improved Sleep Resistance: 3
+8210300 WEP: Improved Death Blight Resistance: 1
+8210301 WEP: Improved Death Blight Resistance: 2
+8210302 WEP: Improved Death Blight Resistance: 3
+8210400 WEP: Improved Rot Resistance: 1
+8210401 WEP: Improved Rot Resistance: 2
+8210402 WEP: Improved Rot Resistance: 3
+8210500 WEP: Improved Frost Resistance: 1
+8210501 WEP: Improved Frost Resistance: 2
+8210502 WEP: Improved Frost Resistance: 3
+8210600 WEP: Improved Madness Resistance: 1
+8210601 WEP: Improved Madness Resistance: 2
+8210602 WEP: Improved Madness Resistance: 3
+8210700 POW / WEP: All Resistances Up: 1
+8210701 POW / WEP: All Resistances Up: 2
+8220000 WEP: Improved Guarding Ability: 1
+8220001 WEP: Improved Guarding Ability: 2
+8220002 WEP: Improved Guarding Ability: 3
+8230000 POW / WEP: Improved Poise: 1
+8230001 POW / WEP: Improved Poise: 2
+8300000 POW / WEP: Improved Attack Power when Two-Handing
+8300001 POW / WEP: Improved Attack Power when Two-Handing
+8300002 POW / WEP: Improved Attack Power when Two-Handing
+8300100 RELIC: Improved Stance-Breaking when Two-Handing
+8300101 RELIC: Improved Stance-Breaking when Two-Handing
+8300102 RELIC: Improved Stance-Breaking when Two-Handing
+8310000 WEP: Attack Up when Wielding Two Armaments
+8310001 WEP: Attack Up when Wielding Two Armaments
+8310002 WEP: Attack Up when Wielding Two Armaments
+8310100 RELIC: Improved Stance-Breaking when Wielding Two Armaments
+8310101 RELIC: Improved Stance-Breaking when Wielding Two Armaments
+8310102 RELIC: Improved Stance-Breaking when Wielding Two Armaments
+8320000 WEP: Improved Chain Attack Finishers
+8320001 WEP: Improved Chain Attack Finishers
+8320002 WEP: Improved Chain Attack Finishers
+8320100 WEP: Improved Charge Attacks
+8320101 WEP: Improved Charge Attacks
+8320102 WEP: Improved Charge Attacks
+8320300 WEP: Improved Jump Attacks
+8320301 WEP: Improved Jump Attacks
+8320302 WEP: Improved Jump Attacks
+8320400 WEP: Dmg Negation Up while Charging Attacks
+8320401 WEP: Dmg Negation Up while Charging Attacks
+8320410 WEP: Dmg Negation Up while Charging Attacks
+8320411 WEP: Dmg Negation Up while Charging Attacks
+8320420 WEP: Dmg Negation Up while Charging Attacks
+8320421 WEP: Dmg Negation Up while Charging Attacks
+8330000 WEP: Improved Sorceries
+8330001 WEP: Improved Sorceries
+8330002 WEP: Improved Sorceries
+8330100 WEP: Improved Incantations
+8330101 WEP: Improved Incantations
+8330102 WEP: Improved Incantations
+8330103 POW: Improved Sorceries and Incantations: 1
+8330104 POW: Improved Sorceries and Incantations: 2
+8330200 WEP: Improved Charged Sorceries
+8330201 WEP: Improved Charged Sorceries
+8330202 WEP: Improved Charged Sorceries
+8330300 WEP: Improved Charged Incantation
+8330301 WEP: Improved Charged Incantation
+8330302 WEP: Improved Charged Incantation
+8330400 WEP: Improved Spell Casting Speed
+8330401 WEP: Improved Spell Casting Speed
+8330500 POW / WEP: Extended Spell Duration
+8330600 WEP: Reduced Spell FP Cost
+8330601 WEP: Reduced Spell FP Cost
+8330602 WEP: Reduced Spell FP Cost
+8330700 POW / WEP: Communion Grants Anti-Dragon Effect
+8330701 POW / WEP: Communion Grants Anti-Dragon Effect - Right
+8330702 POW / WEP: Communion Grants Anti-Dragon Effect - Right (Cycle)
+8330703 POW / WEP: Communion Grants Anti-Dragon Effect - Left
+8330704 POW / WEP: Communion Grants Anti-Dragon Effect - Left (Cycle)
+8330900 WEP: Dmg Negation Up While Casting Spells
+8330901 WEP: Dmg Negation Up While Casting Spells
+8330902 WEP: Dmg Negation Up While Casting Spells
+8330910 WEP: Dmg Negation Up While Casting Spells
+8330911 WEP: Dmg Negation Up While Casting Spells
+8330912 WEP: Dmg Negation Up While Casting Spells
+8330920 WEP: Dmg Negation Up While Casting Spells
+8330921 WEP: Dmg Negation Up While Casting Spells
+8330922 WEP: Dmg Negation Up While Casting Spells
+8340000 WEP: Improved Ranged Weapon Attacks
+8340001 WEP: Improved Ranged Weapon Attacks
+8340002 WEP: Improved Ranged Weapon Attacks
+8340100 WEP: Projectile Damage Drop-Off Reduced
+8340101 WEP: Projectile Damage Drop-Off Reduced
+8340102 WEP: Projectile Damage Drop-Off Reduced
+8350000 WEP: Improved Skill Attack Power
+8350001 WEP: Improved Skill Attack Power
+8350002 WEP: Improved Skill Attack Power
+8350200 WEP: Reduced Skill FP Cost
+8350201 WEP: Reduced Skill FP Cost
+8350202 WEP: Reduced Skill FP Cost
+8350400 POW / WEP: Parries Activate Golden Retaliation
+8350401 POW / WEP: Parries Activate Golden Retaliation
+8350402 POW / WEP: Parries Activate Golden Retaliation (Cycle)
+8350403 POW / WEP: Parries Activate Golden Retaliation
+8350404 POW / WEP: Parries Activate Golden Retaliation (Chain)
+8350410 POW / WEP: Parries Activate Golden Retaliation
+8350411 POW / WEP: Parries Activate Golden Retaliation (Cycle)
+8350412 POW / WEP: Parries Activate Golden Retaliation
+8350415 POW / WEP: Parries Activate Golden Retaliation
+8350416 POW / WEP: Parries Activate Golden Retaliation
+8350417 POW / WEP: Parries Activate Golden Retaliation (Chain)
+8350418 POW / WEP: Parries Activate Golden Retaliation
+8350419 POW / WEP: Parries Activate Golden Retaliation (Chain)
+8360000 POW / WEP: Ultimate Art Gauge Charge Speed Up
+8370000 POW / WEP: Character Skill Cooldown Reduction
+8380000 RELIC: Improved Roar & Breath Attacks
+8400000 RELIC: Improved Perfuming Arts
+8410000 POW / WEP: Improved Dodging
+8410100 POW / WEP: Lightning upon Dodging
+8410101 POW / WEP: Lightning upon Dodging
+8410102 POW / WEP: Lightning upon Dodging (Cycle)
+8420000 WEP: Improved Guard Counters
+8420001 WEP: Improved Guard Counters
+8420002 WEP: Improved Guard Counters
+8420100 POW / WEP: Guard Counters Activate Holy Attacks
+8420101 POW / WEP: Guard Counters Activate Holy Attacks
+8420102 POW / WEP: Guard Counters Activate Holy Attacks (Cycle)
+8420105 POW / WEP: Guard Counters Activate Holy Attacks
+8420106 POW / WEP: Guard Counters Activate Holy Attacks (Chain)
+8420200 POW / WEP: Guard Counters Launch Summoning Attack
+8420201 POW / WEP: Guard Counters Launch Summoning Attack
+8420202 POW / WEP: Guard Counters Launch Summoning Attack (Cycle)
+8420203 POW / WEP: Guard Counters Launch Summoning Attack (Cycle)
+8430000 POW / WEP: Improved Thrusting Counterattack
+8440000 POW / WEP: Improved Flask HP Restoration: 1
+8440001 POW / WEP: Improved Flask HP Restoration: 2
+8440200 POW / WEP: Gradual Restoration by Flask
+8450000 WEP: Magma Surge Sprint
+8450001 WEP: Magma Surge Sprint
+8450002 WEP: Magma Surge Sprint
+8450100 POW / WEP: Ice Storm Surge Sprint
+8450101 POW / WEP: Ice Storm Surge Sprint
+8450102 POW / WEP: Ice Storm Surge Sprint
+8450103 POW / WEP: Ice Storm Surge Sprint
+8460100 WEP: Savage Flames Roar While Walking
+8460101 WEP: Savage Flames Roar While Walking
+8460102 WEP: Savage Flames Roar While Walking
+8460200 POW / WEP: Flame of Frenzy While Walking
+8460201 POW / WEP: Flame of Frenzy While Walking
+8460202 POW / WEP: Flame of Frenzy While Walking
+8460203 POW / WEP: Flame of Frenzy While Walking
+8460300 WEP: Wraiths While Walking
+8460301 WEP: Wraiths While Walking
+8460302 WEP: Wraiths While Walking
+8460400 POW / WEP: Vicious Star Rain Pours While Walking
+8460401 POW / WEP: Vicious Star Rain Pours While Walking
+8460402 POW / WEP: Vicious Star Rain Pours While Walking
+8460403 POW / WEP: Vicious Star Rain Pours While Walking
+8460404 POW / WEP: Vicious Star Rain Pours While Walking
+8460405 POW / WEP: Vicious Star Rain Pours While Walking
+8460500 WEP: Storm of Red Lightning While Walking
+8460501 WEP: Storm of Red Lightning While Walking
+8460502 WEP: Storm of Red Lightning While Walking
+8500000 POW / WEP: More Runes From Defeated Enemies
+8500100 POW / WEP: Rune of the Strong: 10000
+8500101 POW / WEP: Rune of the Strong: 20000
+8500102 POW / WEP: Rune of the Strong: 30000
+8510000 WEP: Improved Item Discovery
+8510001 WEP: Improved Item Discovery
+8510002 WEP: Improved Item Discovery
+8520000 WEP: Less Likely to Be Targeted
+8520001 WEP: Less Likely to Be Targeted
+8520002 WEP: Less Likely to Be Targeted
+8530000 WEP: Multiple Periodical Glintblades
+8530001 WEP: Multiple Periodical Glintblades
+8530100 WEP: Many Periodical Glintblades
+8530101 WEP: Many Periodical Glintblades
+8530200 POW / WEP: Periodical Giant Glintblades
+8530201 POW / WEP: Periodical Giant Glintblades
+8540000 WEP: Continuous HP Recovery
+8600100 WEP: HP Restoration upon Attacks
+8600101 WEP: HP Restoration upon Attacks
+8600102 WEP: HP Restoration upon Attacks
+8600105 WEP: HP Restoration upon Attacks
+8600106 WEP: HP Restoration upon Attacks
+8600107 WEP: HP Restoration upon Attacks
+8600110 RELIC: HP Restoration upon Dagger Attacks
+8600111 RELIC: HP Restoration upon Dagger Attacks: HP Restore
+8600112 RELIC: HP Restoration upon Straight Sword Attacks
+8600113 RELIC: HP Restoration upon Straight Sword Attacks: HP Restore
+8600114 RELIC: HP Restoration upon Greatsword Attacks
+8600115 RELIC: HP Restoration upon Greatsword Attacks: HP Restore
+8600116 RELIC: HP Restoration upon Colossal Sword Attacks
+8600117 RELIC: HP Restoration upon Colossal Sword Attacks: HP Restore
+8600118 RELIC: HP Restoration upon Curved Sword Attacks
+8600119 RELIC: HP Restoration upon Curved Sword Attacks: HP Restore
+8600120 RELIC: HP Restoration upon Curved Greatsword Attacks
+8600121 RELIC: HP Restoration upon Curved Greatsword Attacks: HP Restore
+8600122 RELIC: HP Restoration upon Katana Attacks
+8600123 RELIC: HP Restoration upon Katana Attacks: HP Restore
+8600124 RELIC: HP Restoration upon Twinblade Attacks
+8600125 RELIC: HP Restoration upon Twinblade Attacks: HP Restore
+8600126 RELIC: HP Restoration upon Thrusting Sword Attacks
+8600127 RELIC: HP Restoration upon Thrusting Sword Attacks: HP Restore
+8600128 RELIC: HP Restoration upon Heavy Thrusting Sword Attacks
+8600129 RELIC: HP Restoration upon Heavy Thrusting Sword Attacks: HP Restore
+8600130 RELIC: HP Restoration upon Axe Attacks
+8600131 RELIC: HP Restoration upon Axe Attacks: HP Restore
+8600132 RELIC: HP Restoration upon Greataxe Attacks
+8600133 RELIC: HP Restoration upon Greataxe Attacks: HP Restore
+8600134 RELIC: HP Restoration upon Hammer Attacks
+8600135 RELIC: HP Restoration upon Hammer Attacks: HP Restore
+8600136 RELIC: HP Restoration upon Great Hammer Attacks
+8600137 RELIC: HP Restoration upon Great Hammer Attacks: HP Restore
+8600138 RELIC: HP Restoration upon Flail Attacks
+8600139 RELIC: HP Restoration upon Flail Attacks: HP Restore
+8600140 RELIC: HP Restoration upon Spear Attacks
+8600141 RELIC: HP Restoration upon Spear Attacks: HP Restore
+8600142 RELIC: HP Restoration upon ? Attacks
+8600143 RELIC: HP Restoration upon ? Attacks: HP Restore
+8600144 RELIC: HP Restoration upon Great Spear Attacks
+8600145 RELIC: HP Restoration upon Great Spear Attacks: HP Restore
+8600146 RELIC: HP Restoration upon Halberd Attacks
+8600147 RELIC: HP Restoration upon Halberd Attacks: HP Restore
+8600148 RELIC: HP Restoration upon Reaper Attacks
+8600149 RELIC: HP Restoration upon Reaper Attacks: HP Restore
+8600150 RELIC: HP Restoration upon Fist Attacks
+8600151 RELIC: HP Restoration upon Fist Attacks: HP Restore
+8600152 RELIC: HP Restoration upon Claw Attacks
+8600153 RELIC: HP Restoration upon Claw Attacks: HP Restore
+8600154 RELIC: HP Restoration upon Whip Attacks
+8600155 RELIC: HP Restoration upon Whip Attacks: HP Restore
+8600156 RELIC: HP Restoration upon Colossal Weapon Attacks
+8600157 RELIC: HP Restoration upon Colossal Weapon Attacks: HP Restore
+8600158 RELIC: HP Restoration upon Bow Attacks
+8600159 RELIC: HP Restoration upon Bow Attacks: HP Restore
+8600200 WEP: FP Restoration upon Attacks
+8600201 WEP: FP Restoration upon Attacks
+8600202 WEP: FP Restoration upon Attacks
+8600205 WEP: FP Restoration upon Attacks: FP Restore
+8600206 WEP: FP Restoration upon Attacks: FP Restore
+8600207 WEP: FP Restoration upon Attacks: FP Restore
+8600210 RELIC: FP Restoration upon Dagger Attacks
+8600211 RELIC: FP Restoration upon Dagger Attacks: FP REstore
+8600212 RELIC: FP Restoration upon Straight Sword Attacks
+8600213 RELIC: FP Restoration upon Straight Sword Attacks: FP Restore
+8600214 RELIC: FP Restoration upon Greatsword Attacks
+8600215 RELIC: FP Restoration upon Greatsword Attacks: FP Restore
+8600216 RELIC: FP Restoration upon Colossal Sword Attacks
+8600217 RELIC: FP Restoration upon Colossal Sword Attacks: FP Restore
+8600218 RELIC: FP Restoration upon Curved Sword Attacks
+8600219 RELIC: FP Restoration upon Curved Sword Attacks: FP Restore
+8600220 RELIC: FP Restoration upon Curved Greatsword Attacks
+8600221 RELIC: FP Restoration upon Curved Greatsword Attacks: FP Restore
+8600222 RELIC: FP Restoration upon Katana Attacks
+8600223 RELIC: FP Restoration upon Katana Attacks: FP Restore
+8600224 RELIC: FP Restoration upon Twinblade Attacks
+8600225 RELIC: FP Restoration upon Twinblade Attacks: FP Restore
+8600226 RELIC: FP Restoration upon Thrusting Sword Attacks
+8600227 RELIC: FP Restoration upon Thrusting Sword Attacks: FP Restore
+8600228 RELIC: FP Restoration upon Heavy Thrusting Sword Attacks
+8600229 RELIC: FP Restoration upon Heavy Thrusting Sword Attacks: FP Restore
+8600230 RELIC: FP Restoration upon Axe Attacks
+8600231 RELIC: FP Restoration upon Axe Attacks: FP Restore
+8600232 RELIC: FP Restoration upon Greataxe Attacks
+8600233 RELIC: FP Restoration upon Greataxe Attacks: FP Restore
+8600234 RELIC: FP Restoration upon Hammer Attacks
+8600235 RELIC: FP Restoration upon Hammer Attacks: FP Restore
+8600236 RELIC: FP Restoration upon Great Hammer Attacks
+8600237 RELIC: FP Restoration upon Great Hammer Attacks: FP Restore
+8600238 RELIC: FP Restoration upon Flail Attacks
+8600239 RELIC: FP Restoration upon Flail Attacks: FP Restore
+8600240 RELIC: FP Restoration upon Spear Attacks
+8600241 RELIC: FP Restoration upon Spear Attacks: FP Restore
+8600242 RELIC: FP Restoration upon ? Attacks
+8600243 RELIC: FP Restoration upon ? Attacks: FP Restore
+8600244 RELIC: FP Restoration upon Great Spear Attacks
+8600245 RELIC: FP Restoration upon Great Spear Attacks: FP Restore
+8600246 RELIC: FP Restoration upon Halberd Attacks
+8600247 RELIC: FP Restoration upon Halberd Attacks: FP Restore
+8600248 RELIC: FP Restoration upon Reaper Attacks
+8600249 RELIC: FP Restoration upon Reaper Attacks: FP Restore
+8600250 RELIC: FP Restoration upon Fist Attacks
+8600251 RELIC: FP Restoration upon Fist Attacks: FP Restore
+8600252 RELIC: FP Restoration upon Claw Attacks
+8600253 RELIC: FP Restoration upon Claw Attacks: FP Restore
+8600254 RELIC: FP Restoration upon Whip Attacks
+8600255 RELIC: FP Restoration upon Whip Attacks: FP Restore
+8600256 RELIC: FP Restoration upon Colossal Weapon Attacks
+8600257 RELIC: FP Restoration upon Colossal Weapon Attacks: FP Restore
+8600258 RELIC: FP Restoration upon Bow Attacks
+8600259 RELIC: FP Restoration upon Bow Attacks: FP Restore
+8600300 POW / WEP: Sudden Enemy Death upon Attacks
+8600301 POW / WEP: Sudden Enemy Death upon Attacks
+8600302 POW / WEP: Sudden Enemy Death upon Attacks
+8600303 POW / WEP: Sudden Enemy Death - Affected by Sudden Death (placed on Enemy)
+8600304 POW / WEP: Sudden Enemy Death - Affected by Sudden Death (placed on Enemy)
+8600305 POW / WEP: Sudden Enemy Death - Affected by Sudden Death (placed on Enemy)
+8600306 POW / WEP: Sudden Enemy Death - Affected by Sudden Death (placed on Enemy)
+8600307 POW / WEP: Sudden Enemy Death
+8600308 POW / WEP: Sudden Enemy Death
+8610000 POW/ WEP: HP Restoration upon Successive Attacks
+8610001 POW/ WEP: HP Restoration upon Successive Attacks
+8610100 WEP: FP Restoration upon Successive Attacks
+8610101 WEP: FP Restoration upon Successive Attacks
+8610300 WEP: Magic Attack Follows Charge Attacks
+8610301 WEP: Magic Attack Follows Charge Attacks
+8610400 WEP: Fire Attack Follows Charge Attacks
+8610401 WEP: Fire Attack Follows Charge Attacks
+8610500 WEP: Lightning Follows Charge Attacks
+8610501 WEP: Lightning Follows Charge Attacks
+8610600 WEP: Holy Attack Follows Charge Attacks
+8610601 WEP: Holy Attack Follows Charge Attacks
+8610700 WEP: Successive Attacks Negate Damage
+8610701 WEP: Successive Attacks Negate Damage
+8610702 WEP: Successive Attacks Negate Damage
+8610710 WEP: Successive Attacks Negate Damage
+8610711 WEP: Successive Attacks Negate Damage
+8610712 WEP: Successive Attacks Negate Damage
+8610720 WEP: Successive Attacks Negate Damage
+8610721 WEP: Successive Attacks Negate Damage
+8610722 WEP: Successive Attacks Negate Damage
+8620000 WEP: Taking Damage Restores FP
+8620001 WEP: Taking Damage Restores FP
+8620002 WEP: Taking Damage Restores FP
+8620010 WEP: Taking Damage Restores FP
+8620011 WEP: Taking Damage Restores FP
+8620012 WEP: Taking Damage Restores FP
+8620020 WEP: Taking Damage Restores FP
+8620021 WEP: Taking Damage Restores FP
+8620022 WEP: Taking Damage Restores FP
+8620100 WEP: Taking Damage Boosts Damage Negation
+8620101 WEP: Taking Damage Boosts Damage Negation
+8620102 WEP: Taking Damage Boosts Damage Negation
+8620110 WEP: Taking Damage Boosts Damage Negation
+8620111 WEP: Taking Damage Boosts Damage Negation
+8620112 WEP: Taking Damage Boosts Damage Negation
+8620120 WEP: Taking Damage Boosts Damage Negation
+8620121 WEP: Taking Damage Boosts Damage Negation
+8620122 WEP: Taking Damage Boosts Damage Negation
+8630000 WEP: Defeating Enemies Restores HP
+8630001 WEP: Defeating Enemies Restores HP
+8630010 WEP: Defeating Enemies Restores HP
+8630011 WEP: Defeating Enemies Restores HP
+8630020 WEP: Defeating Enemies Restores HP
+8630021 WEP: Defeating Enemies Restores HP
+8630100 WEP: Defeating Enemies Restores FP
+8630101 WEP: Defeating Enemies Restores FP
+8630110 WEP: Defeating Enemies Restores FP
+8630111 WEP: Defeating Enemies Restores FP
+8630120 WEP: Defeating Enemies Restores FP
+8630121 WEP: Defeating Enemies Restores FP
+8630200 WEP: Defeating Group Summons Wraiths
+8630201 WEP: Defeating Group Summons Wraiths
+8630202 WEP: Defeating Group Summons Wraiths
+8630300 WEP: Defeating Group Releases Mist of Charm
+8630301 WEP: Defeating Group Releases Mist of Charm
+8630302 WEP: Defeating Group Releases Mist of Charm
+8630400 WEP: Defeating Group Calls Vengeful Spirits
+8630401 WEP: Defeating Group Calls Vengeful Spirits
+8630402 WEP: Defeating Group Calls Vengeful Spirits
+8630500 WEP: Magma upon Defeating Multiple Enemies
+8630501 WEP: Magma upon Defeating Multiple Enemies
+8630502 WEP: Magma upon Defeating Multiple Enemies
+8630600 WEP: Defeating Group Releases Mist of Frost
+8630601 WEP: Defeating Group Releases Mist of Frost
+8630602 WEP: Defeating Group Releases Mist of Frost
+8630700 WEP: Defeating Group Unleashes Lightning
+8630701 WEP: Defeating Group Unleashes Lightning
+8630702 WEP: Defeating Group Unleashes Lightning
+8630800 WEP: Defeating Group Fires Golden Shockwave
+8630801 WEP: Defeating Group Fires Golden Shockwave
+8630802 WEP: Defeating Group Fires Golden Shockwave
+8640000 POW / WEP: Critical Hit HP Restoration
+8640001 POW / WEP: Critical Hit HP Restoration
+8640002 POW / WEP: Critical Hit HP Restoration
+8640100 POW / WEP: Critical Hit FP Restoration
+8640101 POW / WEP: Critical Hit FP Restoration
+8640102 POW / WEP: Critical Hit FP Restoration
+8642000 POW / WEP: Damage Boosted after Critical Hit
+8642001 POW / WEP: Damage Boosted after Critical Hit
+8642002 POW / WEP: Damage Boosted after Critical Hit
+8650000 POW / WEP: HP Recovery From Successful Guarding
+8650001 POW / WEP: HP Recovery From Successful Guarding
+8650002 POW / WEP: HP Recovery From Successful Guarding
+8650100 POW / WEP: FP Recovery From Successful Guarding
+8650101 POW / WEP: FP Recovery From Successful Guarding
+8650102 POW / WEP: FP Recovery From Successful Guarding
+8652000 WEP: Successful Guarding Ups Poise
+8652001 WEP: Successful Guarding Ups Poise
+8652002 WEP: Successful Guarding Ups Poise
+8652010 WEP: Successful Guarding Ups Poise
+8652011 WEP: Successful Guarding Ups Poise
+8652012 WEP: Successful Guarding Ups Poise
+8652020 WEP: Successful Guarding Ups Poise
+8652021 WEP: Successful Guarding Ups Poise
+8652022 WEP: Successful Guarding Ups Poise
+8652100 WEP: Successful Guarding Ups Dmg Negation
+8652101 WEP: Successful Guarding Ups Dmg Negation
+8652102 WEP: Successful Guarding Ups Dmg Negation
+8652110 WEP: Successful Guarding Ups Dmg Negation
+8652111 WEP: Successful Guarding Ups Dmg Negation
+8652112 WEP: Successful Guarding Ups Dmg Negation
+8652120 WEP: Successful Guarding Ups Dmg Negation
+8652121 WEP: Successful Guarding Ups Dmg Negation
+8652122 WEP: Successful Guarding Ups Dmg Negation
+8660000 WEP: Improved Attack Power at Low HP
+8660001 WEP: Improved Attack Power at Low HP
+8660002 WEP: Improved Attack Power at Low HP
+8660100 WEP: Improved Damage Negation at Low HP
+8660101 WEP: Improved Damage Negation at Low HP
+8660102 WEP: Improved Damage Negation at Low HP
+8660200 POW / WEP: Critical Hits Inflict Blood Loss
+8660201 POW / WEP: Critical Hits Inflict Blood Loss
+8660202 POW / WEP: Critical Hits Inflict Blood Loss
+8660203 POW / WEP: Critical Hits Inflict Blood Loss
+8660204 POW / WEP: Critical Hits Inflict Blood Loss
+8660205 POW / WEP: Critical Hits Inflict Blood Loss
+8660206 POW / WEP: Critical Hits Inflict Blood Loss
+8660207 POW / WEP: Critical Hits Inflict Blood Loss
+8660300 POW / WEP: Creates Holy Ground at Low HP
+8660301 POW / WEP: Creates Holy Ground at Low HP
+8660302 POW / WEP: Creates Holy Ground at Low HP
+8660303 POW / WEP: Creates Holy Ground at Low HP
+8670000 WEP: Improved Attack Power at Full HP
+8670001 WEP: Improved Attack Power at Full HP
+8670002 WEP: Improved Attack Power at Full HP
+8670100 WEP: Improved Damage Negation at Full HP
+8670101 WEP: Improved Damage Negation at Full HP
+8670102 WEP: Improved Damage Negation at Full HP
+8690000 WEP: Poison Produces a Mist of Poison
+8690001 WEP: Poison Produces a Mist of Poison
+8690002 WEP: Poison Produces a Mist of Poison
+8690003 WEP: Poison Produces a Mist of Poison
+8690100 WEP: Madness Produces a Flame of Frenzy
+8690101 WEP: Madness Produces a Flame of Frenzy
+8690102 WEP: Madness Produces a Flame of Frenzy
+8690200 WEP: Rot Produces a Mist of Scarlet Rot
+8690201 WEP: Rot Produces a Mist of Scarlet Rot
+8690202 WEP: Rot Produces a Mist of Scarlet Rot
+8690203 WEP: Rot Produces a Mist of Scarlet Rot
+8690300 WEP: Frostbite Produces a Mist of Frost
+8690301 WEP: Frostbite Produces a Mist of Frost
+8690302 WEP: Frostbite Produces a Mist of Frost
+8690303 WEP: Frostbite Produces a Mist of Frost
+8690400 WEP: Sleep Produces a Mist of Sleep
+8690401 WEP: Sleep Produces a Mist of Sleep
+8690402 WEP: Sleep Produces a Mist of Sleep
+8700000 POW / WEP: Poison Restores HP
+8700001 POW / WEP: Poison Restores HP
+8700002 POW / WEP: Poison Restores HP
+8700003 POW / WEP: Poison Restores HP
+8710000 POW / WEP: Blood Loss Increases Attack Power
+8710001 POW / WEP: Blood Loss Increases Attack Power
+8710002 POW / WEP: Blood Loss Increases Attack Power
+8710003 POW / WEP: Blood Loss Increases Attack Power
+8880000 WEP: Ice Storm upon Charged Slash
+8880100 WEP: Ring of Light upon Charged Slash
+8880200 WEP: Black Flames upon Charged Slash
+8880300 WEP: Phantom Attack upon Charged Slash
+8880400 WEP: Roaring Flames upon Charged Slash
+8881000 WEP: Holy Shockwave upon Charged Strike
+8881100 WEP: Projectiles upon Charged Strike
+8881200 WEP: Luring Enemies upon Charged Strike
+8881300 WEP: Shockwave upon Charged Strike
+8881400 WEP: Phantom Attack upon Charged Strike
+8881500 WEP: Magma upon Charged Strike
+8881600 WEP: Magic Bubbles upon Charged Strike
+8882000 WEP: Phantom Attack upon Charged Thrust
+8882100 WEP: Lightning upon Charged Thrust
+8882200 WEP: Acid Mist upon Charged Thrust
+8882300 WEP: Pest Threads upon Charged Thrust
+8882400 WEP: Poison Mist upon Charged Thrust
+8882500 WEP: Charged Thrust Invokes Sleep Mist
+8883000 WEP: Projectiles Launched upon Attacks
+8883100 WEP: Lightning upon Precision Aiming
+8883200 WEP: Poison Mist upon Precision Aiming
+8883300 WEP: Rot Mist upon Precision Aiming
+8883400 WEP: Bloodflies upon Precision Aiming
+8884000 WEP: Shielding Improves Damage Negation
+8884100 WEP: Shielding Invokes Indomitable Vow
+8884200 WEP: Shielding Creates Holy Ground
+8884300 WEP: Broken Stance Activates Endure
+8885000 WEP: Flask Healing Also Restores FP
+8885100 WEP: Failing to Cast Sorcery Restores FP
+8885200 WEP: Guarding Ups Attack & Casting Speeds
+8970000 POW: Traces of Grace-Given Lord - Boost Attack Power for each Grace Discovered
+8970001 POW: Traces of Grace-Given Lord
+8970010 POW: Integration of Intelligence
+8970011 POW: Integration of Intelligence (On Attack)
+8970012 POW: Integration of Intelligence - Rarely Gain Large Amount of Runes on Enemy Kill
+8970020 POW: Unifying Fate - Flasks restore FP
+8970030 POW: Demon's Plating - Runes boost Attack Power
+8980000 POW: Power of Night and Flame: Skill activation adds attack power of magic or fire affinities
+8980001 POW: Power of Night and Flame
+8980002 POW: Power of Night and Flame: Magic Damage Buff (Right)
+8980003 POW: Power of Night and Flame
+8980004 POW: Power of Night and Flame: Magic Damage Buff (Left)
+8980005 POW: Power of Night and Flame
+8980006 POW: Power of Night and Flame: Fire Damage Buff (Right)
+8980007 POW: Power of Night and Flame
+8980008 POW: Power of Night and Flame: Fire Damage Buff (Left)
+8980100 POW: Power of Dark Moon: Attacks lower enemies' magic damage negation
+8980101 POW: Power of Dark Moon
+8980102 POW: Power of Dark Moon
+8980103 POW: Power of Dark Moon: Reduce Magic Absorption
+8980200 POW: Power of the Greater Will: Charge attacks produce waves of light
+8980201 POW: Power of the Greater Will
+8980202 POW: Power of the Greater Will
+8980300 POW: Power of the Blasphemous: Restores HP upon defeating enemies
+8980301 POW: Power of the Blasphemous: HP Restore
+8980400 POW: Power of the Golden Order: Charge attacks heal all ailments and dispel all temporary effects
+8980401 POW: Power of the Golden Order
+8980402 POW: Power of the Golden Order
+8980403 POW: Power of the Golden Order
+8980404 POW: Power of the Golden Order
+8980405 POW: Power of the Golden Order
+8980406 POW: Power of the Golden Order
+8980407 POW: Power of the Golden Order
+8980408 POW: Power of the Golden Order
+8980500 POW: Power of the Golden Order
+8980600 POW: Power of the General
+8980601 POW: Power of the General
+8980602 POW: Power of the General
+8980700 POW: Power of Destruction
+8980800 POW: Power of Vengeance
+8980801 POW: Power of Vengeance
+8980802 POW: Power of Vengeance
+8980900 POW: Power of the Dragonlord
+8980901 POW: Power of the Dragonlord
+8980902 POW: Power of the Dragonlord
+8981000 POW: Power of Despair
+8981001 POW: Power of Despair
+8981100 POW: Power of the Omen King
+8981101 POW: Power of the Omen King
+8981104 POW: Power of the Omen King
+8981200 POW: Power of the Undefeated
+8981300 POW: Power of the Queen
+8981301 POW: Power of the Queen
+8981302 POW: Power of the Queen
+8981400 POW: Power of the Blasphemous
+8981401 POW: Power of the Blasphemous
+8981500 POW: Power of the Lightless Void
+8981501 POW: Power of the Lightless Void
+8981502 POW: Power of the Lightless Void
+8981503 POW: Power of the Lightless Void
+8981504 POW: Power of the Lightless Void
+8981600 POW: Power of the Golden Lineage
+8981700 POW: Power of the Ancestral Spirit
+8981701 POW: Power of the Ancestral Spirit
+8981702 POW: Power of the Ancestral Spirit
+8981703 POW: Power of the Ancestral Spirit
+8981800 POW: Power of the Great Ancient Dragon
+8981801 POW: Power of the Great Ancient Dragon
+8981802 POW: Power of the Great Ancient Dragon
+8981803 POW: Power of the Great Ancient Dragon
+8981804 POW: Power of the Great Ancient Dragon
+8981900 POW: Power of the Blood Lord
+8981901 POW: Power of the Blood Lord
+8981902 POW: Power of the Blood Lord
+8981903 POW: Power of the Blood Lord
+8982000 POW: Power of the Giant
+8982100 POW: Power of the Flying Dragon
+8982200 POW: Power of the First Lord
+8982201 POW: Power of the First Lord
+8982202 POW: Power of the First Lord
+8982300 POW: Power of Full Moon
+8982301 POW: Power of Full Moon
+8982302 POW: Power of Full Moon
+8982303 POW: Power of Full Moon
+8982400 POW: Power of House Marais: Raises attack power upon defeating enemies
+8982401 POW: Power of House Marais
+8982402 POW: Power of House Marais: Attack Boost
+8990100 The Wylder's Grief
+8990101 The Wylder's Grief
+8990102 The Wylder's Grief
+8990200 The Guardian's Grief
+8990201 The Guardian's Grief
+8990202 The Guardian's Grief
+8990300 The Ironeye's Grief
+8990301 The Ironeye's Grief
+8990302 The Ironeye's Grief
+8990400 The Duchess' Grief
+8990401 The Duchess' Grief
+8990402 The Duchess' Grief
+8990500 The Raider's Grief
+8990501 The Raider's Grief
+8990502 The Raider's Grief
+8990600 The Revenant's Grief
+8990601 The Revenant's Grief
+8990602 The Revenant's Grief
+8990700 The Recluse's Grief
+8990701 The Recluse's Grief
+8990702 The Recluse's Grief
+8990800 The Executor's Grief
+8990801 The Executor's Grief
+8990802 The Executor's Grief

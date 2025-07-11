@@ -1,0 +1,3 @@
+270 A connection error occurred.
+Leaving this world.
+271 <?leaveName?> has left this world

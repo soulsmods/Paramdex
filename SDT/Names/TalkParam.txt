@@ -127,8 +127,8 @@
 1101717 Almost no survival -- 生き残りは、殆どなし
 1101718 Ashina became the stage of the most tragic murder in the Warring States period -- 葦名は、戦国もっとも悲惨な殺戮の舞台となり
 1101719 It is said that demons lurked in that area until later ... -- その地には、後々まで鬼が潜んだという…
-1101800 Uh ... -- う…ぐっ…
-1101801 … Already good, wolf -- …もう良いぞ、狼
+1101800 &quot;S11_01_0070_Ending 4_Shura End&quot; -- 「s11_01_0070_エンディング4_修羅エンド」
+1101801 ・ Betray the prince and kill the chief of the Ninja army, the main character ・ Become a demon and involve Ashina in the whirlpool of war, ending on the path of Shura -- ・皇子を裏切り、忍軍の長をも殺す、主人公 ・鬼となり、葦名を戦乱の渦に巻き込む、修羅の道を歩むエンディング
 1101900 The dragon seed of the length is also ... -- 丈様の竜胤もまた…
 1101901 Live with you -- そなたと共に、生きるのだ
 1101902 I will receive it -- 頂戴、いたします

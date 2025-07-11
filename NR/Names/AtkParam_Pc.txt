@@ -1,0 +1,33 @@
+0 Default
+80000 Recluse: Whirlwind of Flame [Hit]
+80002 Recluse: Whirlwind of Flame [Hit]
+80100 Recluse: Magic Kernel [Hit]
+80101 Recluse: Magic Kernel [Hit]
+80200 Recluse: Lightning Imbue [Hit]
+80201 Recluse: Lightning Imbue [Hit]
+81000 Recluse: Homing Wraith Flame [Hit]
+81005 Recluse: Homing Wraith Flame [Hit]
+81100 Recluse: Magic Blade [Hit]
+81110 Recluse: Magic Blade [Hit]
+81200 Recluse: Cerulean Veil
+81201 Recluse: Cerulean Veil
+81300 Recluse: Flamebolt
+81310 Recluse: Flamebolt
+81400 Recluse: Warming Torch
+81510 Recluse: Lightning Parry
+82100 Recluse: Elemental Breath
+82111 Recluse: Elemental Breath
+82200 Recluse: Ice Cacoon
+82201 Recluse: Ice Cacoon
+82202 Recluse: Ice Cacoon
+82210 Recluse: Ice Cacoon
+82300 Recluse: Lightning Rod
+82310 Recluse: Lightning Rod
+690000000 Blank: Hit Enemy
+690000001 Blank: Hit None
+690000002 Blank: Hit Enemy and Self
+690000003 Blank: Hit Enemy and Allies
+690000005 Blank: Hit Enemy
+690000006 Blank: Hit Allies
+690000007 Blank: Hit Self
+690000008 Blank: Hit Allies and Self

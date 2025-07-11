@@ -57,37 +57,39 @@
 20114728 Light worms -- 光虫(複数)
 20114729 Light worms -- 光虫(複数)
 20114730 Light worms -- 光虫(複数)
-20115000 【Wooden Treasure Chest 01】 Subroute 1_Hit -- 【木宝箱01】　サブルート1_突き当り
-20115010 【Kihoho-bin】Tower 1 Outside_Left Hand -- 【木宝箱02】　塔1外_左手
-20115020 【Wooden treasure chest】 Cave in front of the house -- 【木宝箱03】　家1先の洞窟手前
-20115030 【Wooden treasure chest】 Next to the house -- 【木宝箱04】　家1の横
-20115040 【Iron Treasure Chest】 In the cave at the end of the house -- 【鉄宝箱06】　家1先の洞窟の中
-20115050 【Wooden Treasure Chest】 Next to the Tower to The Girl -- 【木宝箱06】　少女2への塔横
-20115060 【Iron Treasure Chest 03】 Subroute 3_Hit -- 【鉄宝箱03】　サブルート3_突き当り
-20115070 【Iron Treasure Chest】 The Door Of The Living -- 【鉄宝箱01】　生者の扉奥
-20115080 【Iron Treasure Chest】 Cliff on the Side of the House -- 【鉄宝箱04】　家2脇の崖
-20115090 [Iron treasure chest 08] Aokusa area_insect key hidden door -- 【鉄宝箱08】　青草エリア_虫鍵隠し扉奥
-20115100 [Iron treasure chest 05] outside the tower of the girl 2 _ stairs side -- 【鉄宝箱05】　少女2の塔外_階段脇
-20115110 [Iron treasure chest 07] next to the tower outside the tower of the girl 2 -- 【鉄宝箱07】　少女2の塔外_塔の横
-20115500 【Special OBJ】 Chair_King's Soul -- 【特殊OBJ】　椅子_王のソウル
-20116000 [Treasure corpse 11] cave to the parent tree _ out right -- 【宝死体11】　親木への洞窟_出て右側
-20116010 【Treasure Corpse】Tower 1_1F -- 【宝死体03】　塔1_1F
-20116020 【Treasure Corpse】Kojima_Musee in the house -- 【宝死体05】　家1先の小島_うつぶせ
-20116030 【Treasure Corpse】Subroute -- 【宝死体23】　サブルート3
-20116040 【Treasure Corpse 08】 Between the Blue Grass Area Destination_Gate -- 【宝死体08】　青草エリア先_ゲートの間
-20116050 【Treasure Corpse】Inside the House -- 【宝死体09】　家2の中
-20116060 【Treasure Corpse 12】 Parent Tree Square -- 【宝死体12】　親木広場_うつぶせ
-20116070 【Treasure Corpse 13】 Parent Tree Plaza_Knee Holding -- 【宝死体13】　親木広場_膝抱え
-20116080 【Treasure Corpse 14】 Shinki Plaza_Satsuki -- 【宝死体14】　親木広場_すがりつき
-20116090 【Treasure Corpse】On the Fallen Pillar of The Parent Tree Square -- 【宝死体15】　親木広場_倒れた柱の上
-20116100 【Treasure Corpse】The entrance of The Parent Tree Square -- 【宝死体16】　親木広場先_通路突き当り
-20116110 [Treasure corpse 18] the hole beside the girl -- 【宝死体18】　少女2横の穴
-20116120 【Treasure Corpse】Kojima_Ao-toe-to-ei-ei-ei-ei-ei -- 【宝死体20】　家1先の小島_あお向け
-20116130 【Treasure Corpse 02】 Subroute 1_Branch Drop -- 【宝死体02】　サブルート1_枝落とし
-20116140 [Treasure corpse 24] house 2 ahead _ cliff beside the white door -- 【宝死体24】　家2先_白扉脇の崖
-20116150 【Treasure Corpse 01】 The back of the root of the start -- 【宝死体01】　スタートの根の裏
-20116160 【宝死体21】 家1先の小島_すがりつき -- 【宝死体21】　家1先の小島_すがりつき
-20116170 【Treasure Corpse】Inside of House 2 -- 【宝死体25】　家2の中_あおむけ
-20116180 [Treasure corpse 26] inside of the house 2_ wall rest -- 【宝死体26】　家2の中_壁もたれ
-20116190 [Treasure corpse 10_human bone_skull] collapsed pillar by the white door at the end of the house 2 -- 【宝死体10_人骨_頭蓋骨】　家2先の白扉脇の崩れた柱
-20116200 [Treasure corpse 22] side road in the house 2 destination _rooted back -- 【宝死体22】　家2先の脇道_根っこの奥
+20115000 [Chest] Treasure
+20115010 [Chest] Treasure
+20115020 [Chest] Treasure
+20115030 [Chest] Treasure
+20115040 [Chest] Treasure
+20115050 [Chest] Treasure
+20115060 [Chest] Treasure
+20115070 [Chest] Treasure
+20115080 [Chest] Treasure
+20115090 [Chest] Treasure
+20115100 [Chest] Treasure
+20115110 [Chest] Treasure
+20115500 [Chest] Treasure
+20116000 [Corpse] Treasure
+20116010 [Corpse] Treasure
+20116020 [Corpse] Treasure
+20116030 [Corpse] Treasure
+20116040 [Corpse] Treasure
+20116050 [Corpse] Treasure
+20116060 [Corpse] Treasure
+20116070 [Corpse] Treasure
+20116080 [Corpse] Treasure
+20116090 [Corpse] Treasure
+20116100 [Corpse] Treasure
+20116110 [Corpse] Treasure
+20116120 [Corpse] Treasure
+20116130 [Corpse] Treasure
+20116140 [Corpse] Treasure
+20116150 [Corpse] Treasure
+20116160 [Corpse] Treasure
+20116170 [Corpse] Treasure
+20116180 [Corpse] Treasure
+20116190 [Corpse] Treasure
+20116200 [Corpse] Treasure
+20116210 [Corpse] Treasure
+20116220 [Corpse] Treasure

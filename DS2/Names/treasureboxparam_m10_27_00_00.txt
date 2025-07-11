@@ -1,2 +1,2 @@
-10275000 No trap -- トラップなし
-10275010 With trap -- トラップあり
+10275000 UNKNOWN
+10275010 UNKNOWN

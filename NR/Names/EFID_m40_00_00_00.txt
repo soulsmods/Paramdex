@@ -1,0 +1,36 @@
+0 A dummy to keep the "individual ID" displayed above. You can erase this dummy when adding an individual ID.
+40000000 Bonfire flag
+40000050 Initialization flag
+40000100 System flag
+40000200 Character flag (do not reset)
+40000500 Mage's Tower unlocked
+40000500 Mage's Tower unlocked
+40000501 Phantom appeared
+40000502 Phantom destroyed
+40000581 B_Imp statue pretend_already appeared
+40000582 C_Non-green tree_Already appeared
+40000584 E_Side building_Already appeared
+40000587 H_Fleeing grass_Already appeared
+40000588 I_Disappearing torch_Already appeared
+40000589 J_Disappearing wall_Already appeared
+40000590 A_Pretending crest_Destroyed
+40000591 B_Pretending imp statue_Destroyed
+40000592 C_Non-green tree_Destroyed
+40000593 D_Water reflection_Destroyed
+40000594 E_Side building_Destroyed
+40000595 F_Swaying bush_Destroyed
+40000597 H_Fleeing grass_Destroyed
+40000598 I_Disappearing torch_Destroyed
+40000599 J_Disappearing wall_Destroyed
+40000700 Conversation flag
+40000800 Boss flag (Do not reset)
+40000900 For debugging/testing
+40001200 Character flag (Do not reset)
+40001500 Object flag (Do not reset)
+40002100 System flag
+40002200 Character flag (Reset)
+40002500 Object flag (Reset)
+40002700 Conversation flag
+40002800 Boss flag (Reset)
+40002900 For debugging/testing
+40008500 Object act flag

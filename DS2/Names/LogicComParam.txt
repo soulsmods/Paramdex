@@ -34,69 +34,6 @@
 9554 009554 Planning for: Transfer canceled -- 009554 企画用：移動キャンセル
 9555 009555 For planning: Damage stiffness adjustment -- 009555 企画用：ダメージ硬直調整
 9556 009556 Planning: Step Cancel -- 009556 企画用：ステップキャンセル
-9900 009900 Top: Giant lower-level soldier_reluctant -- 009900 上位：巨人下級兵士_しぶ
-9901 009901 Top: Giants Lower Soldier: Rocket Man_ Reluctant -- 009901 上位：巨人下級兵士：ロケットマン_しぶ
-9902 009902 Top: Giant Lower Soldier: Wall Destroyer_ Reluctant -- 009902 上位：巨人下級兵士：壁撃破_しぶ
-9903 009903 Top: Big Characters Sit -- 009903 上位：大きなキャラが座っている
-9909 009909 Constant Damage Test -- 009909 常時ダメージテスト
-9911 009911 Uchikawa Test -- 009911 内川テスト
-9912 009912 Long distance (magic, etc.) test -- 009912 遠距離（魔法等）テスト
-9913 009913 Fukuda Test -- 009913 福田テスト
-9914 009914 Top: Top Test_Kurita -- 009914 上位：上位テスト_栗田
-9916 009916 Top: Boss Test -- 009916 上位：ボステスト
-9918 009918 Hashimoto Test -- 009918 橋本テスト
-9919 009919 Wakasa Test -- 009919 若狭テスト
-9920 009920 Top: Slave Beast Test (Torch escape) -- 009920 上位：奴隷獣テスト（松明逃亡）
-9922 009922 Kurita Test -- 009922 栗田テスト
-9924 009924 Top: Dami Polytest -- 009924 上位：ダミポリテスト
-9925 009925 Fujita Test -- 009925 藤田テスト
-9926 009926 Itagaki Test -- 009926 板垣テスト
-9931 009931 Top: Navimesh Move (OBJ Operation) -- 009931 上位：ナビメッシュ移動（OBJ操作）
-9935 009935 Enemy Jump Attack Test -- 009935 敵ジャンプ攻撃テスト
-9936 009936 Top: Generic Tests -- 009936 上位：汎用テスト
-9938 009938 Possession Item Judgment Test -- 009938 所持アイテム判断テスト
-9940 009940 Person recognition test: enemy side -- 009940 人数認識テスト：敵側
-9941 009941 Person recognition test: ally -- 009941 人数認識テスト：味方側
-9942 009942 Player Camp Individual Specific Test -- 009942 プレイヤー陣営個別特定テスト
-9945 009945 Top: Temporary Enemy Test -- 009945 上位：仮エネミー用テスト
-9947 009947 Top: Multiplayer Test -- 009947 上位：マルチプレイ用テスト
-9949 009951 Top: Enemy Group Settings -- 009951 上位：敵グループ設定
-9951 009951 Lock-on Non-Test -- 009951 ロックオン不可テスト
-9952 009952 Top: FOR NPC TEST -- 009952 上位：NPCテスト用
-9954 009954 Damage Test -- 009954 ダメージテスト
-9955 009955 Navigate to clicked point -- 009955 クリックした地点へのナビメッシュ移動
-9956 009956 Navimesh movement of navigraph test route -- 009956 ナビグラフテストルートのナビメッシュ移動
-9957 009957 Group Feedback Test -- 009957 グループ帰還テスト
-9958 009958 Bottom: Sound Reaction Navimesh: Test -- 009958 下位：音反応ナビメッシュ：テスト
-9959 009959 Top: Navi_Goal Angle Acquisition Test -- 009959 上位：ナビ_ゴール角度取得テスト
-9961 009961 Top: Move Confirmation Logic -- 009961 上位：移動確認ロジック
-9963 009963 Top: Fairy's Side -- 009963 上位：妖精のほとり
-9965 009965 Top: For Enemy Gallery -- 009965 上位：エネミーギャラリー用
-9967 009967 Kataoka Test -- 009967 片岡テスト
-9968 009968 Fujishima Test -- 009968 藤島テスト
-9969 009969 Yamazaki Test -- 009969 山崎テスト
-9972 009972 Top Improvement Logic -- 009972 上位改良用ロジック
-9973 009973 Top: For The Toyoda Test -- 009973 上位：飛田テスト用
-9975 009975 Top: For eight-volume test -- 009975 上位：八巻テスト用
-9977 009977 Top: For The Toyoda Test -- 009977 上位：飛田テスト用
-9979 009979 Top: Yoshida Test: For Debugging -- 009979 上位：吉田テスト：デバッグ用
-9982 009982 Top: Yoshida test -- 009982 上位：吉田テスト用
-9984 009984 For Yabuki -- 009984 矢吹用
-9985 009985 Logic Operation Confirmation_Reluctant -- 009985 ロジック動作確認用_しぶ
-9986 009986 Navimesh Test_Reluctant -- 009986 ナビメッシュテスト用_しぶ
-9987 009987 Giants lower-level soldier test_reluctant -- 009987 巨人下級兵士テスト用_しぶ
-9988 009988 Giant SS Captain Test_Reluctant -- 009988 巨人親衛隊長テスト用_しぶ
-9989 009989 BOSS Test_Reluctant -- 009989 BOSSテスト用_しぶ
-9990 009990 Shibuya-san test -- 009990 渋谷さんテスト用
-9991 009991 For attack testing -- 009991 攻撃テスト用
-9992 009992 for 50M range tracking test -- 009992 50Ｍ範囲追跡テスト用
-9993 009993 For path route testing -- 009993 パスルートテスト用
-9994 009994 For dead soldier test -- 009994 亡者兵士テスト用
-9995 009995 Route search test 1 -- 009995 経路探索テスト用１
-9996 009996 Route search test 2 -- 009996 経路探索テスト用２
-9997 009997 Route search test 3 -- 009997 経路探索テスト用３
-9998 009998 Large wood test 1 -- 009998 大木テスト用１
-9999 009999 For large wood test 2 -- 009999 大木テスト用２
 100010 100010 Top: Goblin (Live): Generic -- 100010 上位：ゴブリン（生者）：汎用
 101010 100010 Top: Cobold (Raw): Generic -- 100010 上位：コボルト（生者）：汎用
 102010 102010 Top: Kingdom Soldier (deceased): General -- 102010 上位：王国兵士（亡者）：汎用

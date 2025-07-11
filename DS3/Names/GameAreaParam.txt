@@ -48,14 +48,30 @@
 2010800 Religious District -- 宗教街_教区長
 2910400 Dungeon A_ Beast of Flames -- ダンジョンA_炎の獣
 2920800 Dungeon B_ Beast of Flames -- ダンジョンB_炎の獣
-3000800 Ojo 1_ Daemon -- 王城1_デーモン
-3010800 Ojo 2_ -- 王城2_孤王
-3100800 City of Colossus -- 街_巨像
-3200800 Bridge _ Mother Dragon -- 橋_母ドラゴン
-3500800 The Church of the Cardinals -- 聖堂_枢機卿団
-3700800 Anole _ Salivan -- アノール_サリヴァーン
-3700850 Anole _ the Witch of the Moonlight -- アノール_月光の魔女
-3800800 Waste City _ King of the Dead -- 廃都_死霊の王
-3900800 Prison _ Hallec -- 牢_ハレック
-4000800 Stronghold _ Segunda -- 拠点_グンダ
+3000800 Vordt of the Boreal Valley
+3000830 Oceiros, the Consumed King
+3000899 Dancer of the Boreal Valley
+3010800 Dragonslayer Armour
+3100800 Curse-rotted Greatwood
+3200800 Ancient Wyvern
+3200851 The Nameless King
+3300801 Abyss Watchers
+3300850 Crystal Sage
+3410830 The Twin Princes
+3500800 Deacons of the Deep
+3700800 Pontiff Sulyvahn
+3700850 Aldrich, Devourer of Gods
+3800800 High Lord Wolnir
+3800830 Old Demon King
+3900800 Yhorm the Giant
+4000800 Iudex Gundyr
+4000830 Champion Gundyr
+4100800 Soul of Cinder
+4500800 Sister Friede
+4500860 Champion's Gravetender & Gravetender Greatwolf
+5000801 The Demon Prince
+5000802 The Demon Prince
+5100800 Halflight, Spear of the Church
+5100850 Darkeater Midir
+5110800 Slave Knight Gael
 9901010 Boss Seoul Get verified -- ボスソウル入手検証

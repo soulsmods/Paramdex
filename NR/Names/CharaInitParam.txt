@@ -1,0 +1,62 @@
+30000 Wylder
+30100 Guardian
+30200 Ironeye (with Quiver)
+30201 Ironeye (with Quiver)
+30300 Duchess
+30400 Raider
+30401 Raider (Remembrance)
+30500 Revenant
+30501 Revenant
+30502 Revenant
+30600 Recluse
+30700 Executor
+30701 Executor
+50000 Player: Wylder
+50010 Player: Wylder (Dawn)
+50020 Player: Wylder (Darkness)
+50030 Player: Wylder (Remembrance)
+50050 Player: Wylder (Abysswalker)
+50060 Player: Wylder (Lion Knight)
+50100 Player: Guardian
+50110 Player: Guardian (Dawn)
+50120 Player: Guardian (Darkness)
+50130 Player: Guardian (Remembrance)
+50150 Player: Guardian (Sunlight Knight)
+50160 Player: Guardian (Wayfarer)
+50200 Player: Ironeye (with Quiver)
+50210 Player: Ironeye (Dawn)
+50220 Player: Ironeye (Darkness)
+50230 Player: Ironeye (Remembrance)
+50250 Player: Ironeye (Ringfinger)
+50260 Player: Ironeye (Sellsword)
+50300 Player: Duchess
+50310 Player: Duchess (Dawn)
+50320 Player: Duchess (Darkness)
+50330 Player: Duchess (Remembrance)
+50350 Player: Duchess (Black Leather)
+50360 Player: Duchess (Wraith)
+50400 Player: Raider
+50410 Player: Raider (Dawn)
+50420 Player: Raider (Darkness)
+50430 Player: Raider (Remembrance)
+50450 Player: Raider (Rock-like)
+50460 Player: Raider (Catarina)
+50500 Player: Revenant
+50510 Player: Revenant (Dawn)
+50520 Player: Revenant (Darkness)
+50530 Player: Revenant (Remembrance)
+50550 Player: Revenant (The Sister in the Painting)
+50560 Player: Revenant (Dragon School)
+50570 Player: Revenant
+50600 Player: Recluse
+50610 Player: Recluse (Dawn)
+50620 Player: Recluse (Darkness)
+50630 Player: Recluse (Remembrance)
+50650 Player: Recluse (Heretic Sorcerer)
+50660 Player: Recluse (Emerald Fate)
+50700 Player: Executor
+50710 Player: Executor (Dawn)
+50720 Player: Executor (Darkness)
+50730 Player: Executor (Remembrance)
+50750 Player: Executor (Thorns)
+50760 Player: Executor (Sable Church)

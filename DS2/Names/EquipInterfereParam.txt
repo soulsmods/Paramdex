@@ -1,506 +1,561 @@
-0 Test -- テストデータ
-9800 Skin model dead for check (man) head -- 素肌モデル亡者チェック用（男） 頭
-9801 Skin Model Dead For Check (Male) Chest -- 素肌モデル亡者チェック用（男） 胸
-9802 Bare skin model dead (man) arm -- 素肌モデル亡者チェック用（男） 腕
-9803 Bare skin model dead for check (man) feet -- 素肌モデル亡者チェック用（男） 足
-9916 Onion Interference Test Chest -- タマネギ 干渉テスト 胸
-9917 Onion Interference Test Arm -- タマネギ 干渉テスト 腕
-9918 Four Knights C Interference Test Chest -- 四騎士Ｃ 干渉テスト 胸
-9919 Four Knights C Interference Test Arm -- 四騎士Ｃ 干渉テスト 腕
-9920 Four Knights C Interference Test Foot -- 四騎士Ｃ 干渉テスト 足
-9921 Sorcerer Interference Test Head -- 魔術師 干渉テスト 頭
-9922 Sorcerer Interference Test Chest -- 魔術師 干渉テスト 胸
-9923 Sorcerer Interference Test Arm -- 魔術師 干渉テスト 腕
-9926 Princess Interference Test Chest -- プリンセス 干渉テスト 胸
-9927 Princess Interference Test Feet -- プリンセス 干渉テスト 足
-9930 Chainmail Interference Test Head -- チェインメイル 干渉テスト 頭
-9932 Iron Golem Interference Test Feet -- アイアンゴーレム 干渉テスト 足
-9933 Witch Interference Test Head -- 魔女 干渉テスト 頭
-9934 Witch Interference Test Chest -- 魔女 干渉テスト 胸
-9935 Assassin's Interference Test Chest -- アサシン 干渉テスト 胸
-9936 Assassin's Interference Test Foot -- アサシン 干渉テスト 足
-9939 Saint Interference Test Chest -- 聖女 干渉テスト 胸
-9940 Saint Interference Test Feet -- 聖女 干渉テスト 足
-9941 Three-person feather red interference test head -- 3人羽織　赤 干渉テスト 頭
-9942 King of firewood Interference test head -- 薪の王 干渉テスト 頭
-9943 Shadow Sun Crown Interference Test Head -- 陰の太陽の王冠 干渉テスト 頭
-9950 9950 [for cross-test] head -- 9950 【クロステスト用】・頭
-9951 9950 [for cross-test] chest -- 9950 【クロステスト用】・胸
-9952 9950 [for cross-test] and arm -- 9950 【クロステスト用】・腕
-9953 9950 [for cross-test] and feet -- 9950 【クロステスト用】・足
-199180 Magic Soldier Destruction Test -- 魔術兵士破壊テスト
-199181 Magic Soldier Destruction Test -- 魔術兵士破壊テスト
-199182 Magic Soldier Destruction Test -- 魔術兵士破壊テスト
-199183 Magic Soldier Destruction Test -- 魔術兵士破壊テスト
-11001100 Body and head -- 素体・頭
-11001101 Body and chest -- 素体・胸
-11001102 Body and arm -- 素体・腕
-11001103 Body and feet -- 素体・足
-11010100 Lightweight Warrior Head -- 軽量戦士・頭
-11010101 Lightweight Warrior Chest -- 軽量戦士・胸
-11010102 Lightweight Warrior, Arm -- 軽量戦士・腕
-11010103 Lightweight Warrior, Feet -- 軽量戦士・足
-11020100 Thieves, Head -- 盗賊・頭
-11020101 Bandit, Chest -- 盗賊・胸
-11020102 Thieves, Arms -- 盗賊・腕
-11020103 Thieves, Feet -- 盗賊・足
-11030100 The Wanderer, Head -- 放浪者・頭
-11030101 Vagabond, Chest -- 放浪者・胸
-11030102 Wanderer, Arm -- 放浪者・腕
-11030103 Vagabond, Foot -- 放浪者・足
-11040100 Hunter, Head -- 狩人・頭
-11040101 Hunter, Chest -- 狩人・胸
-11040102 Hunter, Arm -- 狩人・腕
-11040103 Hunter, Foot -- 狩人・足
-11041100 Hunter (2) Head -- 狩人②・頭
-11050100 Soldiers and Heads -- 兵士・頭
-11050101 Soldier, chest -- 兵士・胸
-11050102 Soldiers and arms -- 兵士・腕
-11050103 Soldiers and Feet -- 兵士・足
-11060100 Sorcerer's Head -- 魔術兵士・頭
-11060101 Soldiers of Witchcraft, Chest -- 魔術兵士・胸
-11060102 Soldiers and Arms -- 魔術兵士・腕
-11060103 Soldiers and Feet -- 魔術兵士・足
-11070100 Sorcerer, Head -- 呪術師・頭
-11070101 Sorcerer, Chest -- 呪術師・胸
-11070102 Sorcerer, Arm -- 呪術師・腕
-11070103 Sorcerer, Foot -- 呪術師・足
-11080100 Bandits, Head -- 山賊・頭
-11080101 Bandits, Chest -- 山賊・胸
-11080102 Bandits, Arms -- 山賊・腕
-11080103 Bandits, Feet -- 山賊・足
-11090100 The head of the person who does not have it -- 持たざる者・頭
-11090101 The person who does not have it, the chest -- 持たざる者・胸
-11090102 The person who does not have it, and the arm -- 持たざる者・腕
-11090103 Those who do not have, feet -- 持たざる者・足
-11100100 Traveler's Clothes and Head -- 旅人の服・頭
-11100101 Traveler's clothes and chest -- 旅人の服・胸
-11100102 Traveler's clothes and arms -- 旅人の服・腕
-11100103 Traveler's Clothes and Feet -- 旅人の服・足
-11110100 Viking Head -- バイキング・頭
-11110101 Viking Chest -- バイキング・胸
-11110102 Viking Arm -- バイキング・腕
-11110103 Viking Feet -- バイキング・足
-11120100 Magician, Head -- 魔術師・頭
-11120101 Sorcerer, Chest -- 魔術師・胸
-11120102 Magician, Arm -- 魔術師・腕
-11120103 Magician, Foot -- 魔術師・足
-11130100 Clergy man and head -- 聖職者・頭
-11130101 Priest, Chest -- 聖職者・胸
-11130102 Clergy man, arm -- 聖職者・腕
-11130103 Clergy man and foot -- 聖職者・足
-11140100 Item master, head -- アイテム師・頭
-11140101 Item master, chest -- アイテム師・胸
-11140102 Item master, arm -- アイテム師・腕
-11140103 Item master, foot -- アイテム師・足
-11150100 Hunter,Head -- 猟兵・頭
-11150101 Hunter Chest -- 猟兵・胸
-11150102 Hunter, Arm -- 猟兵・腕
-11150103 Hunters, Feet -- 猟兵・足
-11160100 Heavy Warrior, Head -- 重戦士・頭
-11160101 Heavy Warrior Chest -- 重戦士・胸
-11160102 Heavy Warrior, Arm -- 重戦士・腕
-11160103 Heavy Warrior, Feet -- 重戦士・足
-11170100 Mad Warrior, Head -- 狂戦士・頭
-11170101 Mad Warrior, Chest -- 狂戦士・胸
-11170102 Mad Warrior, Arm -- 狂戦士・腕
-11170103 Mad Warrior, Feet -- 狂戦士・足
-11180100 Warrior, Head -- 戦士・頭
-11180101 Warrior, Chest -- 戦士・胸
-11180102 Warrior, Arm -- 戦士・腕
-11180103 Warrior, Foot -- 戦士・足
-11190100 Fighters and Heads -- 闘士・頭
-11190101 Fighters, Chest -- 闘士・胸
-11190102 Fighters, Arms -- 闘士・腕
-11190103 Fighters and Feet -- 闘士・足
-11210100 Clown, Head -- 道化師・頭
-11210101 Clown, Chest -- 道化師・胸
-11210102 Clown, arm -- 道化師・腕
-11210103 Clowns and Feet -- 道化師・足
-11220100 Search er, head -- 探索術士・頭
-11220101 Exploring Technician, Chest -- 探索術士・胸
-11220102 Exploring Technician, Arm -- 探索術士・腕
-11220103 Search er, feet -- 探索術士・足
-11230100 Astrologer,Head -- 占星術師・頭
-11230101 Astrologer, Chest -- 占星術師・胸
-11230102 Astrologer, Arm -- 占星術師・腕
-11230103 Astrologer,Foot -- 占星術師・足
-11240100 Magician, Head -- 魔術剣士・頭
-11240101 Sorcerer Chest -- 魔術剣士・胸
-11240102 Swordsman, Arm -- 魔術剣士・腕
-11240103 Magician, Foot -- 魔術剣士・足
-11250100 Knight, Head -- 騎士・頭
-11250101 Knight, Chest -- 騎士・胸
-11250102 Knight, Arm -- 騎士・腕
-11250103 Knight, Foot -- 騎士・足
-11270100 Black Magician Head -- 黒魔術師・頭
-11270101 Black Magician, Chest -- 黒魔術師・胸
-11270102 Black Magician, Arm -- 黒魔術師・腕
-11270103 Black Magician, Feet -- 黒魔術師・足
-11280100 Priests and Heads -- 神官・頭
-11280101 Priest, Chest -- 神官・胸
-11280102 Priest, Arm -- 神官・腕
-11280103 Priest, Feet -- 神官・足
-11290100 Sword Sei Head -- 剣聖・頭
-11290101 Kensei Chest -- 剣聖・胸
-11290102 Kensei Arms -- 剣聖・腕
-11290103 Kensei Feet -- 剣聖・足
-11300100 Prayer master and head -- 祈祷師・頭
-11300101 Prayer master, chest -- 祈祷師・胸
-11300102 Prayer master and arm -- 祈祷師・腕
-11300103 Prayer master, foot -- 祈祷師・足
-11310100 Madoshi, Head -- 魔道士・頭
-11310101 Mage, Chest -- 魔道士・胸
-11310102 Mage, Arm -- 魔道士・腕
-11310103 Mage, Foot -- 魔道士・足
-11320100 Leader, Head -- 統率者・頭
-11320101 Leader, Chest -- 統率者・胸
-11320102 Leader, Arm -- 統率者・腕
-11320103 Leader, Foot -- 統率者・足
-11330100 Old Dragon Armor and Head -- 古龍の鎧・頭
-11330101 Old Dragon Armor and Chest -- 古龍の鎧・胸
-11330102 Old Dragon Armor and Arms -- 古龍の鎧・腕
-11330103 Old Dragon Armor and Feet -- 古龍の鎧・足
-11340100 Yellow coat, head -- 黄衣・頭
-11340101 Yellow coat, chest -- 黄衣・胸
-11340102 Yellow coat and arm -- 黄衣・腕
-11340103 Yellow clothing and feet -- 黄衣・足
-11350100 The priest and head of the escape -- 免罪の司祭・頭
-11350101 The priest and torso of the escape -- 免罪の司祭・胴
-11350102 The priest and the arm of the escape -- 免罪の司祭・腕
-11350103 The priest and the foot of the escape -- 免罪の司祭・足
-11360100 Transparent armor and head -- 透明鎧・頭
-11360101 Transparent armor and chest -- 透明鎧・胸
-11360102 Transparent armor and arms -- 透明鎧・腕
-11360103 Transparent armor and feet -- 透明鎧・足
-11361100 Transparent armor_opaque,head -- 透明鎧_不透明・頭
-11361101 Transparent armor_opaque/chest -- 透明鎧_不透明・胸
-11361102 Transparent armor_opaque/arm -- 透明鎧_不透明・腕
-11361103 Transparent armor_opaque, feet -- 透明鎧_不透明・足
-11370100 Painting Defense and Head -- 絵画守り・頭
-11370101 Painting defense and chest -- 絵画守り・胸
-11370102 Painting defense and arms -- 絵画守り・腕
-11370103 Painting defense and feet -- 絵画守り・足
-11380100 Seale head -- 封印者・頭
-11380101 Sealer, Chest -- 封印者・胸
-11380102 Sealer, Arm -- 封印者・腕
-11380103 Sealer, Foot -- 封印者・足
-11390100 Dirt and head -- うす汚れ・頭
-11390101 Dirt and chest -- うす汚れ・胸
-11390102 Dirt and arms -- うす汚れ・腕
-11390103 Dirt and feet -- うす汚れ・足
-11430100 Sniper Head -- スナイパーヘッド
-11440102 Lucky Gauntlet Arm -- ラッキーガントレット・腕
-11450101 Barrels -- 樽
-11460103 Cat Boots -- 猫の長靴
-11470100 Butterfly Armor and Head -- 蝶の鎧・頭
-11470101 Butterfly Armor and Chest -- 蝶の鎧・胸
-11470102 Butterfly Armor and Arms -- 蝶の鎧・腕
-11470103 Butterfly Armor and Feet -- 蝶の鎧・足
-11480100 Catalina Warrior Head -- カタリナ戦士・頭
-11480101 Catalina Warrior Chest -- カタリナ戦士・胸
-11480102 Catalina Warrior Arm -- カタリナ戦士・腕
-11480103 Catalina Warrior Feet -- カタリナ戦士・足
-11490100 Wandering Knight Head -- 放浪騎士・頭
-11490101 Wandering Knight, Chest -- 放浪騎士・胸
-11490102 Wandering Knight, Arm -- 放浪騎士・腕
-11490103 Wandering Knight, Foot -- 放浪騎士・足
-11500100 Witch, Head -- 魔女・頭
-11500101 Witch, Chest -- 魔女・胸
-11500102 Witch, Arm -- 魔女・腕
-11500103 Witch Feet -- 魔女・足
-11501100 Witch head (2) -- 魔女・頭②
-11502100 Witch head (3) -- 魔女・頭③
-12020100 Kingdom Soldier (Dead) Head -- 王国兵士（亡者）・頭
-12020101 Kingdom Soldier (Dead) Chest -- 王国兵士（亡者）・胸
-12020102 Kingdom Soldier (Dead) Arm -- 王国兵士（亡者）・腕
-12020103 Kingdom Soldier (Dead) Feet -- 王国兵士（亡者）・足
-12021100 Kingdom Soldier (Living) Head -- 王国兵士（生者）・頭
-12021101 Kingdom Soldier (Living) Chest -- 王国兵士（生者）・胸
-12021102 Kingdom Soldier (Living) Arm -- 王国兵士（生者）・腕
-12021103 Kingdom Soldier (Living) And Feet -- 王国兵士（生者）・足
-12030100 Lower-level soldiers and heads -- 下級兵士（亡者）・頭
-12030101 Lower-level soldier (dead) chest -- 下級兵士（亡者）・胸
-12030102 Lower-level soldiers and arms -- 下級兵士（亡者）・腕
-12030103 Lower-level soldiers and feet -- 下級兵士（亡者）・足
-12031100 Lower-level soldiers and heads -- 下級兵士（生者）・頭
-12031101 Lower-level soldier(raw) chest -- 下級兵士（生者）・胸
-12031102 Lower-level soldiers and arms -- 下級兵士（生者）・腕
-12031103 Lower-level soldiers and feet -- 下級兵士（生者）・足
-12060100 Dark Priest: Color (1) Head -- ダークプリースト：色①・頭
-12060101 Dark Priest: Color (1) chest -- ダークプリースト：色①・胸
-12060102 Dark Priest: Color (1) and Arms -- ダークプリースト：色①・腕
-12060103 Dark Priest: Color (1) and Feet -- ダークプリースト：色①・足
-12062100 Dark Priest: Color (2) head -- ダークプリースト：色②・頭
-12062101 Dark Priest: Color (2) and Chest -- ダークプリースト：色②・胸
-12062102 Dark Priest: Color (2) and Arms -- ダークプリースト：色②・腕
-12062103 Dark Priest: Color (2) and Feet -- ダークプリースト：色②・足
-12080100 Rogue (Dead) Head -- ローグ(亡者)・頭
-12080101 Rogue (Dead) Chest -- ローグ(亡者)・胸
-12080102 Rogue (Dead) Arm -- ローグ(亡者)・腕
-12080103 Rogue (Dead) And Feet -- ローグ(亡者)・足
-12110100 Bandit, Head -- バンディット（亡者）・頭
-12110101 Bandit, Chest -- バンディット（亡者）・胸
-12110102 Bandit, Arm -- バンディット（亡者）・腕
-12110103 Bandit, Feet -- バンディット（亡者）・足
-12130100 Sailors and Heads -- 水兵・頭
-12130101 Sailor chest -- 水兵・胸
-12130102 Sailor, Arm -- 水兵・腕
-12130103 Sailor sand feet -- 水兵・足
-12180100 Dark Wizard (Deceased): Color (1) Head -- ダークウィザード（亡者）：色①・頭
-12180101 Dark Wizard (Deceased): Color (1) Chest -- ダークウィザード（亡者）：色①・胸
-12180102 Dark Wizard (Deceased): Color (1) and Arm -- ダークウィザード（亡者）：色①・腕
-12180103 Dark Wizard (Deceased): Color (1) and Feet -- ダークウィザード（亡者）：色①・足
-12181100 Dark Wizard (Deceased): Color (2) head -- ダークウィザード（亡者）：色②・頭
-12181101 Dark Wizard (Deceased): Color (2) chest -- ダークウィザード（亡者）：色②・胸
-12181102 Dark Wizard (Deceased): Color (2) and Arm -- ダークウィザード（亡者）：色②・腕
-12181103 Dark Wizard (Deceased): Color (2) and Feet -- ダークウィザード（亡者）：色②・足
-12182100 Dark Wizard (Deceased): Color (3) head -- ダークウィザード（亡者）：色③・頭
-12182101 Dark Wizard (Deceased): Color (3), Chest -- ダークウィザード（亡者）：色③・胸
-12182102 Dark Wizard (Deceased): Color (3) and Arm -- ダークウィザード（亡者）：色③・腕
-12182103 Dark Wizard (Deceased): Color (3) and Feet -- ダークウィザード（亡者）：色③・足
-12190101 Black Lion Mage Chest -- 黒獅子魔道士・胸
-12190102 Black Lion Mage, Arm -- 黒獅子魔道士・腕
-12190103 Black Lion Mage Feet -- 黒獅子魔道士・足
-12220100 Knight head of Bernice -- バーニスの騎士・頭
-12220101 Bernice's Knight's Chest -- バーニスの騎士・胸
-12220102 Bernice's Knight And Arms -- バーニスの騎士・腕
-12220103 Bernice's Knight's Feet -- バーニスの騎士・足
-12221100 Knight of Bernice: Head difference, head difference -- バーニスの騎士：頭部違い・頭
-12230100 Deformed shadows and heads -- 異形の影・頭
-12230101 Deformed shadows and chests -- 異形の影・胸
-12230102 Deformed shadows and arms -- 異形の影・腕
-12230103 Deformed shadows and feet -- 異形の影・足
-12240100 Assassin's Head -- 暗殺者・頭
-12240101 Assassin, Chest -- 暗殺者・胸
-12240102 Assassin, Arm -- 暗殺者・腕
-12240103 Assassin's Foot -- 暗殺者・足
-12270100 Immortal Workers and Heads -- 不死の労働者・頭
-12270101 Immortal Workers and Chests -- 不死の労働者・胸
-12270102 Immortal Workers and Arms -- 不死の労働者・腕
-12270103 Immortal Workers and Feet -- 不死の労働者・足
-12271100 Immortal Worker (2) head -- 不死の労働者②・頭
-12271101 Immortal Worker (2) Chest -- 不死の労働者②・胸
-12310100 Cleric Head -- クレリック・頭
-12310101 Cleric Chest -- クレリック・胸
-12310102 Cleric Arm -- クレリック・腕
-12310103 Cleric Feet -- クレリック・足
-12340100 Dwarf(Dead) Head -- ドワーフ（亡者）・頭
-12340101 Dwarf(Dead) Chest -- ドワーフ（亡者）・胸
-12340102 Dwarf(Dead) Arms -- ドワーフ（亡者）・腕
-12340103 Dwarf,Feet -- ドワーフ（亡者）・足
-12350100 Heavy Dwarf (Dead) Head -- 重ドワーフ（亡者）・頭
-12350101 Heavy Dwarf (Dead) Chest -- 重ドワーフ（亡者）・胸
-12350102 Heavy Dwarf (Dead) Arm -- 重ドワーフ（亡者）・腕
-12350103 Heavy Dwarf (Dead) And Feet -- 重ドワーフ（亡者）・足
-12351100 Heavy dwarf (deceased): Head B: Helmet) head -- 重ドワーフ（亡者）：頭部Ｂ：兜）・頭
-12360100 Dark Reis head -- ダークレイス・頭
-12360101 Dark Reis chest -- ダークレイス・胸
-12360102 Dark Reis arms -- ダークレイス・腕
-12360103 Dark Reis feet -- ダークレイス・足
-12370100 Necromancer (Immortal) head -- ネクロマンサー（イモータル）・頭
-12460100 Clothes of the wealthy♂ and heads -- 富裕層の服♂（亡者）・頭
-12460101 Clothes of the wealthy♂ and breasts -- 富裕層の服♂（亡者）・胸
-12460102 Clothes of the wealthy♂ and arms -- 富裕層の服♂（亡者）・腕
-12460103 Clothes of the wealthy♂ and feet -- 富裕層の服♂（亡者）・足
-12480100 Farmer's Clothes ♂ And Head -- 農民の服♂（亡者）・頭
-12480101 Farmer's Clothes ♂ And Breasts -- 農民の服♂（亡者）・胸
-12480102 Farmer's Clothes ♂ And Arms -- 農民の服♂（亡者）・腕
-12480103 Farmer's Clothes ♂ And Feet -- 農民の服♂（亡者）・足
-12510100 Kingdom Heavy Soldier (Color (1)) head -- 王国重兵士(色①)・頭
-12510101 Kingdom Heavy Soldier (Color (1)) chest -- 王国重兵士(色①)・胸
-12510102 Kingdom Heavy Soldier (Color (1)) and Arms -- 王国重兵士(色①)・腕
-12510103 Kingdom Heavy Soldier (Color (1)) and Feet -- 王国重兵士(色①)・足
-12512100 Kingdom Heavy Soldier (Color (3)) head -- 王国重兵士(色③)・頭
-12512101 Kingdom Heavy Soldier (Color (3)) chest -- 王国重兵士(色③)・胸
-12512102 Kingdom Heavy Soldier (Color (3)) and Arms -- 王国重兵士(色③)・腕
-12512103 Kingdom Heavy Soldier (Color (3)) and Feet -- 王国重兵士(色③)・足
-12520100 Kingdom Soldier Warrior, Head -- 王国兵戦士・頭
-12520101 Kingdom Soldier Warrior Chest -- 王国兵戦士・胸
-12520102 Kingdom Soldier Warrior, Arm -- 王国兵戦士・腕
-12520103 Kingdom Soldier Warrior, Foot -- 王国兵戦士・足
-12530100 Kingdom Guards and Heads -- 王国護衛兵・頭
-12530101 Kingdom Guards, Chest -- 王国護衛兵・胸
-12530102 Kingdom Guards and Arms -- 王国護衛兵・腕
-12530103 Kingdom guards, feet -- 王国護衛兵・足
-12540100 Skeleton aristocracy and head -- スケルトン貴族・頭
-12540101 Skeleton aristocracy, chest -- スケルトン貴族・胸
-12540102 Skeleton aristocracy and arms -- スケルトン貴族・腕
-12540103 Skeleton aristocracy, feet -- スケルトン貴族・足
-13010100 Wandering Knight's Head (Head A) -- 彷徨える騎士・頭（頭部A）
-13010101 Wandering Knight Chest -- 彷徨える騎士・胸
-13010102 Wandering Knight arms -- 彷徨える騎士・腕
-13010103 Wandering Knight's Feet -- 彷徨える騎士・足
-13011100 Wandering Knight head (head B) -- 彷徨える騎士・頭（頭部B）
-13040101 Banshee Color (1) -- バンシー色①
-13050100 Damon Knight Head -- デーモンナイト・頭
-13050101 Damon Knight Chest -- デーモンナイト・胸
-13050102 Damon Knight Arm -- デーモンナイト・腕
-13050103 Damon Night Feet -- デーモンナイト・足
-13060100 Damon Armor Captain, Head -- デーモン鎧 隊長・頭
-13060101 Demon Armor Captain, Chest -- デーモン鎧 隊長・胸
-13060102 Demon Armor Captain, Arm -- デーモン鎧 隊長・腕
-13060103 Demon Armor Captain, Feet -- デーモン鎧 隊長・足
-13061100 Damon Armor General Sergeant head -- デーモン鎧 一般兵・頭
-13061101 Demon Armor General Soldier Chest -- デーモン鎧 一般兵・胸
-13061102 Demon Armor General Soldier, Arm -- デーモン鎧 一般兵・腕
-13061103 Demon Armor General Soldier, Feet -- デーモン鎧 一般兵・足
-13070100 Durahan (deceased) head -- デュラハン（亡者）・頭
-13070101 Durahan (deceased) chest -- デュラハン（亡者）・胸
-13070102 Durahan (deceased) and arms -- デュラハン（亡者）・腕
-13070103 Durahan (deceased) and feet -- デュラハン（亡者）・足
-13080101 Lion Warrior Chest -- 獅子戦士・胸
-13080102 Lion Warrior, Arm -- 獅子戦士・腕
-13080103 Lion Warrior, Foot -- 獅子戦士・足
-13081100 Lion Warrior (2) Head -- 獅子戦士②・頭
-13081101 Lion Warrior (2) Chest -- 獅子戦士②・胸
-13081103 Lion Warrior (2) Feet -- 獅子戦士②・足
-13120100 Immortal Senior Soldier (Immortal) Head -- イモータル上級兵士（イモータル）・頭
-13120101 Immortal Advanced Soldier (Immortal) Chest -- イモータル上級兵士（イモータル）・胸
-13120102 Immortal Senior Soldier (Immortal) Arm -- イモータル上級兵士（イモータル）・腕
-13120103 Immortal Senior Soldier (Immortal) Feet -- イモータル上級兵士（イモータル）・足
-13130100 Falcon Warrior, Head -- 鷹匠戦士・頭
-13130101 Falcon Warrior Chest -- 鷹匠戦士・胸
-13130102 Falcon Warrior, Arm -- 鷹匠戦士・腕
-13130103 Falcon Warrior, Foot -- 鷹匠戦士・足
-13140100 Elephant (dead) head -- 象人（亡者）・頭
-13140101 Elephant (dead) chest -- 象人（亡者）・胸
-13140102 Elephant (dead) and arm -- 象人（亡者）・腕
-13140103 Elephant (dead) and feet -- 象人（亡者）・足
-13150100 Elephant (born) and head -- 象人（生者）・頭
-13150101 Elephant (born) and chest -- 象人（生者）・胸
-13150102 Elephant Man and Arm -- 象人（生者）・腕
-13150103 Elephant (born) and foot -- 象人（生者）・足
-13160100 　Captured Mage head -- 　捕らわれた魔道士・頭
-13160101 　Captured Mage Chest -- 　捕らわれた魔道士・胸
-13160102 　Captured Mage, Arm -- 　捕らわれた魔道士・腕
-13160103 　Captured Mage Feet -- 　捕らわれた魔道士・足
-13170100 Dragon Professor and Head -- 龍の教授・頭
-13170101 Dragon Professor Chest -- 龍の教授・胸
-13170102 Dragon Professor and Arm -- 龍の教授・腕
-13170103 Dragon Professor and Legs -- 龍の教授・脚
-13171100 Dragon Researcher and Head -- 龍の研究員・頭
-13250100 Warrior's Head in the Mirror -- 鏡の中の戦士・頭
-13250101 Warrior's chest in the mirror -- 鏡の中の戦士・胸
-13250102 Warrior in the Mirror -- 鏡の中の戦士・腕
-13250103 Warrior in the Mirror -- 鏡の中の戦士・足
-13300100 Ancient Warriors and Heads -- 古代の戦士・頭
-13300101 Ancient Warrior chest -- 古代の戦士・胸
-13300102 Ancient Warriors and Arms -- 古代の戦士・腕
-13300103 Ancient Warriors and Feet -- 古代の戦士・足
-13310100 Damon Heavy Soldier head -- デーモン重兵士・頭
-13310101 Damon Heavy Soldier, Chest -- デーモン重兵士・胸
-13310102 Demon Heavy Soldier, Arm -- デーモン重兵士・腕
-13310103 Damon Heavy Soldier, Feet -- デーモン重兵士・足
-13320100 Queen Knight A, Head -- 王妃の騎士A・頭
-13320101 Queen Knight A, Chest -- 王妃の騎士A・胸
-13320102 Queen Knight A, Arm -- 王妃の騎士A・腕
-13320103 Queen Knight A. Feet -- 王妃の騎士A・足
-13330100 Queen Knight B. Head -- 王妃の騎士B・頭
-13330101 Queen Knight B, Chest -- 王妃の騎士B・胸
-13330102 Queen Knight B. Arm -- 王妃の騎士B・腕
-13330103 Queen Knight B. Foot -- 王妃の騎士B・足
-13340100 Queen Knight C. Head -- 王妃の騎士C・頭
-13340101 Queen's Knight C, Chest -- 王妃の騎士C・胸
-13340102 Queen's Knight C. Arm -- 王妃の騎士C・腕
-13340103 Queen Knight C. Feet -- 王妃の騎士C・足
-15040100 Mirror Night Head -- ミラーナイト・頭
-15040101 Mirror Night Chest -- ミラーナイト・胸
-15040102 Mirror Night Arm -- ミラーナイト・腕
-15040103 Mirror Night Feet -- ミラーナイト・足
-15060101 Agaduran Chest -- アガドゥラン・胸
-15060102 Agaduran Arm -- アガドゥラン・腕
-15060103 Agaduran Feet -- アガドゥラン・足
-15090100 Dark Bishop Head -- ダークビショップ・頭
-15090101 Dark Bishop Chest -- ダークビショップ・胸
-15100100 Phantom Priest Head -- ファントムプリースト・頭
-15100101 Phantom Priest Chest -- ファントムプリースト・胸
-15100102 Phantom Priest Arm -- ファントムプリースト・腕
-15100103 Phantom Priest Feet -- ファントムプリースト・足
-15110100 Phantom Knight, Head -- ファントムナイト（霊体）・頭
-15110101 Phantom Knight(Spirit) chest -- ファントムナイト（霊体）・胸
-15110102 Phantom Knight(Spirit) and Arms -- ファントムナイト（霊体）・腕
-15110103 Phantom Knight,Foot -- ファントムナイト（霊体）・足
-15120100 Phantom Mage(Spirit) head -- ファントムメイジ（霊体）・頭
-15120101 Phantom Mage (Spirit) chest -- ファントムメイジ（霊体）・胸
-15120102 Phantom Mage (Spirit) and Arms -- ファントムメイジ（霊体）・腕
-15120103 Phantom Mage (Spirit) and Feet -- ファントムメイジ（霊体）・足
-15130100 King Vangrats, Head -- ヴァングラット王・頭
-15130101 King Vangrats, Chest -- ヴァングラット王・胸
-15130102 King Vangrats, Arm -- ヴァングラット王・腕
-15130103 King Vangrats, Feet -- ヴァングラット王・足
-16100100 Heavy Cavalry, Head -- 重騎馬兵・頭
-16100101 Heavy Cavalry Chest -- 重騎馬兵・胸
-16100102 Heavy Cavalry, Arm -- 重騎馬兵・腕
-16100103 Heavy Cavalry, Feet -- 重騎馬兵・足
-16180100 Silver Chariot Head -- シルバーチャリオット・頭
-16180101 Silver Chariot Chest -- シルバーチャリオット・胸
-16180102 Silver Chariot Arms -- シルバーチャリオット・腕
-16180103 Silver Chariot Feet -- シルバーチャリオット・足
-16260100 Forgotten Sinner head -- 忘れられた罪人・頭
-16260101 Forgotten Sinners, Breasts -- 忘れられた罪人・胸
-16260102 Forgotten Sinner, Arm -- 忘れられた罪人・腕
-16260103 Forgotten Sinner son's feet -- 忘れられた罪人・足
-16660102 A knight and an arm -- 爛れ騎士・腕
-17210101 Kingdom Sergeant (past) torso -- 王国軍師(過去)・胴
-17210102 Kingdom Army Master (Past) And Arms -- 王国軍師(過去)・腕
-17210103 Kingdom Army Master (Past) and Feet -- 王国軍師(過去)・足
-17240100 Head of The Royal SS -- 王国親衛隊長・頭
-17240101 Captain of the Kingdom SS, Chest -- 王国親衛隊長・胸
-17240102 Captain of the Kingdom SS, Arm -- 王国親衛隊長・腕
-17240103 Head of the Kingdom S S, Feet -- 王国親衛隊長・足
-17420100 The Warrior's Head -- 仇討ちの戦士・頭
-17420101 The warrior chest of the revenge -- 仇討ちの戦士・胸
-17420102 The warrior and the arm of the revenge -- 仇討ちの戦士・腕
-17420103 A warrior's foot -- 仇討ちの戦士・足
-17430100 The father and head of the avenger -- 仇討ちの戦士の父・頭
-17430101 The father of the warrior of avenge -- 仇討ちの戦士の父・胸
-17430102 The father and arms of the avenged warrior -- 仇討ちの戦士の父・腕
-17430103 The father and foot of the avenged warrior -- 仇討ちの戦士の父・足
-17440100 Patch head -- パッチ・頭
-17440101 Patch chest -- パッチ・胸
-17440102 Patch arms -- パッチ・腕
-17440103 Patch feet -- パッチ・足
-17510100 The elder brother and the head which looks for the younger sister -- 妹を探す兄・頭
-17510101 The elder brother and the chest which looks for the younger sister -- 妹を探す兄・胸
-17510103 The elder brother and the foot which looks for the younger sister -- 妹を探す兄・足
-17520100 Sea Solar Head -- 海ソラール・頭
-17520101 Sea Solar Chest -- 海ソラール・胸
-17520102 Sea Solar Arm -- 海ソラール・腕
-17520103 Sea Solar Feet -- 海ソラール・足
-17521100 Sea Solar Head (2) -- 海ソラール・頭②
-17530100 Sancho Head -- サンチョ・頭
-17530101 Sancho Chest -- サンチョ・胸
-17530102 Sancho Arm -- サンチョ・腕
-17530103 Sancho Feet -- サンチョ・足
-17550100 Stalker Warrior, Head -- ストーカー戦士・頭
-17550101 Stalker Warrior, Chest -- ストーカー戦士・胸
-17550102 Stalker Warrior, Arm -- ストーカー戦士・腕
-17550103 Stalker Warrior, Feet -- ストーカー戦士・足
-17630101 NPC Bookstore -- NPC　本屋・胴
-17680100 Spell Four Tenno (Magic) Head -- スペル四天王(魔法)・頭
-17680101 Spell Four Tenno (Magic) Chest -- スペル四天王(魔法)・胸
-17680102 Spell Four Tenno (Magic) And Arm -- スペル四天王(魔法)・腕
-17680103 Spell Four Tenno (Magic) And Feet -- スペル四天王(魔法)・足
-17690100 Spell Four Tenno (Miracle) Head -- スペル四天王(奇蹟)・頭
-17690101 Spell Four Tenno (Miracle) Chest -- スペル四天王(奇蹟)・胸
-17690102 Spell Four Tenno (Miracle) And Arm -- スペル四天王(奇蹟)・腕
-17690103 Spell Four Tenno (Miracle) And Feet -- スペル四天王(奇蹟)・足
-17700100 Spell Four Tenno (Magic) head -- スペル四天王(呪術)・頭
-17700101 Spell Four Tenno (Magic) Chest -- スペル四天王(呪術)・胸
-17700102 Spell Four Tenno (Magic) And Arm -- スペル四天王(呪術)・腕
-17700103 Spell Four Tenno (Magic) And Feet -- スペル四天王(呪術)・足
-17710100 Spell Four Tenno (Dark Art) head -- スペル四天王(闇術)・頭
-17710101 Spell Four Tenno (Dark Art), Chest -- スペル四天王(闇術)・胸
-17710102 Spell Four Tenno (Dark Art) and Arms -- スペル四天王(闇術)・腕
-17710103 Spell Four Tenno (Dark Art) And Feet -- スペル四天王(闇術)・足
-17830100 Black Phantom Shop Head -- 黒ファントム屋・頭
-17830101 Black Phantom Shop Chest -- 黒ファントム屋・胸
-17950100 The Head of the Holy Woman -- 聖女の付き人・頭
-17950101 The Person With the Holy Woman, The Chest -- 聖女の付き人・胸
-17950102 The person with the holy woman and the arm -- 聖女の付き人・腕
-17950103 The Person With the Holy Woman and the Foot -- 聖女の付き人・足
-19000101 9000 [Phantom - Naked] / Chest -- 9000 【幻影-裸】・胸
-19010101 9010 [Phantom - Clothes] Chest -- 9010 【幻影-服】・胸
-19020101 9020 [Phantom - Light Clothing] Chest -- 9020 【幻影-軽装】・胸
-19030101 9030 [Phantom - Heavy Wear] Chest -- 9030 【幻影-重装】・胸
+0 UNKNOWN
+9800 UNKNOWN
+9801 UNKNOWN
+9802 UNKNOWN
+9803 UNKNOWN
+9916 UNKNOWN
+9917 UNKNOWN
+9918 UNKNOWN
+9919 UNKNOWN
+9920 UNKNOWN
+9921 UNKNOWN
+9922 UNKNOWN
+9923 UNKNOWN
+9926 UNKNOWN
+9927 UNKNOWN
+9930 UNKNOWN
+9932 UNKNOWN
+9933 UNKNOWN
+9934 UNKNOWN
+9935 UNKNOWN
+9936 UNKNOWN
+9939 UNKNOWN
+9940 UNKNOWN
+9941 UNKNOWN
+9942 UNKNOWN
+9943 UNKNOWN
+9950 UNKNOWN
+9951 UNKNOWN
+9952 UNKNOWN
+9953 UNKNOWN
+199180 UNKNOWN
+199181 UNKNOWN
+199182 UNKNOWN
+199183 UNKNOWN
+11001100 UNKNOWN
+11001101 UNKNOWN
+11001102 UNKNOWN
+11001103 UNKNOWN
+11010100 Pate's Helm
+11010101 Pate's Armor
+11010102 Pate's Gloves
+11010103 Pate's Trousers
+11020100 Thief Mask
+11020101 Black Leather Armor
+11020102 Black Leather Gloves
+11020103 Black Leather Boots
+11030100 Wanderer Hood
+11030101 Wanderer Coat
+11030102 Wanderer Manchettes
+11030103 Wanderer Boots
+11040100 Hunter's Hat
+11040101 Leather Armor
+11040102 Leather Gloves
+11040103 Leather Boots
+11041100 UNKNOWN
+11050100 Knight Helm
+11050101 Knight Armor
+11050102 Knight Gauntlets
+11050103 Knight Leggings
+11060100 Elite Knight Helm
+11060101 Elite Knight Armor
+11060102 Elite Knight Gloves
+11060103 Elite Knight Leggings
+11070100 Tattered Cloth Hood
+11070101 Tattered Cloth Robe
+11070102 Tattered Cloth Manchettes
+11070103 Heavy Boots
+11080100 Brigand Hood
+11080101 Brigand Armor
+11080102 Brigand Gauntlets
+11080103 Brigand Trousers
+11090100 UNKNOWN
+11090101 UNKNOWN
+11090102 UNKNOWN
+11090103 UNKNOWN
+11100100 Imported Hood
+11100101 Imported Tunic
+11100102 Imported Manchettes
+11100103 Imported Trousers
+11110100 UNKNOWN
+11110101 UNKNOWN
+11110102 UNKNOWN
+11110103 UNKNOWN
+11120100 UNKNOWN
+11120101 UNKNOWN
+11120102 UNKNOWN
+11120103 UNKNOWN
+11130100 UNKNOWN
+11130101 UNKNOWN
+11130102 UNKNOWN
+11130103 UNKNOWN
+11140100 Traveling Merchant Hat
+11140101 Traveling Merchant Coat
+11140102 Traveling Merchant Gloves
+11140103 Traveling Merchant Boots
+11150100 UNKNOWN
+11150101 UNKNOWN
+11150102 UNKNOWN
+11150103 UNKNOWN
+11160100 Havel's Helm
+11160101 Havel's Armor
+11160102 Havel's Gauntlets
+11160103 Havel's Leggings
+11170100 UNKNOWN
+11170101 UNKNOWN
+11170102 UNKNOWN
+11170103 UNKNOWN
+11180100 UNKNOWN
+11180101 UNKNOWN
+11180102 UNKNOWN
+11180103 UNKNOWN
+11190100 UNKNOWN
+11190101 UNKNOWN
+11190102 UNKNOWN
+11190103 UNKNOWN
+11210100 Jester's Cap
+11210101 Jester's Robes
+11210102 Jester's Gloves
+11210103 Jester's Tights
+11220100 UNKNOWN
+11220101 UNKNOWN
+11220102 UNKNOWN
+11220103 UNKNOWN
+11230100 Moon Hat
+11230101 Astrologist's Robe
+11230102 Astrologist's Gauntlets
+11230103 Astrologist's Bottoms
+11240100 UNKNOWN
+11240101 UNKNOWN
+11240102 UNKNOWN
+11240103 UNKNOWN
+11250100 UNKNOWN
+11250101 UNKNOWN
+11250102 UNKNOWN
+11250103 UNKNOWN
+11270100 UNKNOWN
+11270101 UNKNOWN
+11270102 UNKNOWN
+11270103 UNKNOWN
+11280100 UNKNOWN
+11280101 UNKNOWN
+11280102 UNKNOWN
+11280103 UNKNOWN
+11290100 UNKNOWN
+11290101 UNKNOWN
+11290102 UNKNOWN
+11290103 UNKNOWN
+11300100 UNKNOWN
+11300101 UNKNOWN
+11300102 UNKNOWN
+11300103 UNKNOWN
+11310100 UNKNOWN
+11310101 UNKNOWN
+11310102 UNKNOWN
+11310103 UNKNOWN
+11320100 Faraam Helm
+11320101 Faraam Armor
+11320102 Faraam Gauntlets
+11320103 Faraam Boots
+11330100 Black Dragon Helm
+11330101 Black Dragon Armor
+11330102 Black Dragon Gauntlets
+11330103 Black Dragon Leggings
+11340100 Xanthous Crown
+11340101 Xanthous Overcoat
+11340102 Xanthous Gloves
+11340103 Xanthous Waistcloth
+11350100 Mask of Judgment
+11350101 Robe of Judgment
+11350102 Manchettes ofJudgment
+11350103 Tights of Judgment
+11360100 Helm of Aurous
+11360101 Armor of Aurous
+11360102 Gauntlets of Aurous
+11360103 Leggings of Aurous
+11361100 Helm of Aurous
+11361101 Armor of Aurous
+11361102 Gauntlets of Aurous
+11361103 Leggings of Aurous
+11370100 Monastery Headcloth
+11370101 Monastery Longshirt
+11370102 Monastery Long Gloves
+11370103 Monastery Skirt
+11380100 UNKNOWN
+11380101 UNKNOWN
+11380102 UNKNOWN
+11380103 UNKNOWN
+11390100 Dingy Hood
+11390101 Dingy Robe
+11390102 Dingy Cuffs
+11390103 Blood-stained Skirt
+11430100 Durgo's Hat
+11440102 Engraved Gauntlets
+11450101 UNKNOWN
+11460103 Flying Feline Boots
+11470100 Moon Butterfly Hat
+11470101 Moon Butterfly Wings
+11470102 Moon Butterfly Cuffs
+11470103 Moon Butterfly Skirt
+11480100 Catarina Helm
+11480101 Catarina Armor
+11480102 Catarina Gauntlets
+11480103 Catarina Leggings
+11490100 Alva Helm
+11490101 Alva Armor
+11490102 Alva Gauntlets
+11490103 Alva Leggings
+11500100 Black Witch Veil
+11500101 Black Witch Robe
+11500102 Black Witch Gloves
+11500103 Black Witch Trousers
+11501100 Black Witch Hat
+11502100 Black Witch Domino Mask
+11600100 Drakeblood Helm
+11600101 Drakeblood Armor
+11600102 Drakeblood Gauntlets
+11600103 Drakeblood Leggings
+11610100 Northwarder Hood
+11610101 Northwarder Robe
+11610102 Northwarder Manchettes
+11610103 Northwarder Trousers
+11630100 Crown of the Old Iron King
+11640100 Crown of the Ivory King
+11650100 Crown of the Sunken King
+11660100 Old Bell Helm
+11670100 Hollow Skin
+11680100 Pharros Mask
+11690103 Flower Skirt
+11700100 Minotaur Helm
+11710100 Symbol of Avarice
+12020100 UNKNOWN
+12020101 UNKNOWN
+12020102 UNKNOWN
+12020103 UNKNOWN
+12021100 Royal Soldier Helm
+12021101 Royal Soldier Armor
+12021102 Royal Soldier Gauntlets
+12021103 Royal Soldier Leggings
+12030100 Hollow Infantry Helm
+12030101 Hollow Infantry Armor
+12030102 Hollow Infantry Gloves
+12030103 Hollow Infantry Boots
+12031100 Infantry Helm
+12031101 Infantry Armor
+12031102 Infantry Gloves
+12031103 Infantry Boots
+12060100 White Priest Headpiece
+12060101 White Priest Robe
+12060102 White Priest Gloves
+12060103 White Priest Skirt
+12062100 Priestess Headpiece
+12062101 Priestess Robe
+12062102 Priestess Gloves
+12062103 Priestess Skirt
+12080100 Rogue Hood
+12080101 Rogue Armor
+12080102 Rogue Gauntlets
+12080103 Rogue Leggings
+12110100 Spiked Bandit Helm
+12110101 Bandit Armor
+12110102 Bandit Gauntlets
+12110103 Bandit Boots
+12130100 Varangian Helm
+12130101 Varangian Armor
+12130102 Varangian Cuffs
+12130103 Varangian Leggings
+12180100 Black Hollow Mage Hood
+12180101 Black Hollow Mage Robe
+12180102 UNKNOWN
+12180103 UNKNOWN
+12181100 UNKNOWN
+12181101 UNKNOWN
+12181102 UNKNOWN
+12181103 UNKNOWN
+12182100 White Hollow Mage Hood
+12182101 White Hollow Mage Robe
+12182102 UNKNOWN
+12182103 UNKNOWN
+12190101 Lion Mage Robe
+12190102 Lion Mage Cuffs
+12190103 Lion Mage Skirt
+12220100 Steel Helm
+12220101 Steel Armor
+12220102 Steel Gauntlets
+12220103 Steel Leggings
+12221100 UNKNOWN
+12230100 Shadow Mask
+12230101 Shadow Top
+12230102 Shadow Gauntlets
+12230103 Shadow Leggings
+12240100 Manikin Mask
+12240101 Manikin Top
+12240102 Manikin Gloves
+12240103 Manikin Boots
+12270100 Prisoner's Hood
+12270101 Prisoner's Tatters
+12270102 Prisoner's Gloves
+12270103 Prisoner's Waistcloth
+12271100 Prisoner's Hood
+12271101 Prisoner's Tatters
+12310100 Archdrake Helm
+12310101 Archdrake Robes
+12310102 Archdrake Gloves
+12310103 Archdrake Boots
+12340100 Gyrm Helm
+12340101 Gyrm Armor
+12340102 Gyrm Gloves
+12340103 Gyrm Boots
+12350100 Gyrm Warrior Helm
+12350101 Gyrm Warrior Armor
+12350102 Gyrm Warrior Gloves
+12350103 Gyrm Warrior Boots
+12351100 Gyrm Warrior Greathelm
+12360100 Dark Mask
+12360101 Dark Armor
+12360102 Dark Gauntlets
+12360103 Dark Leggings
+12370100 Warlock Mask
+12460100 Tseldora Cap
+12460101 Tseldora Robe
+12460102 Tseldora Manchettes
+12460103 Tseldora Trousers
+12480100 Peasant Hat
+12480101 Peasant Attire
+12480102 Peasant Long Gloves
+12480103 Peasant Trousers
+12510100 Ironclad Helm
+12510101 Ironclad Armor
+12510102 Ironclad Gauntlets
+12510103 Ironclad Leggings
+12512100 Old Ironclad Helm
+12512101 Old Ironclad Armor
+12512102 Old Ironclad Gauntlets
+12512103 Old Ironclad Leggings
+12520100 Royal Swordsman Helm
+12520101 Royal Swordsman Armor
+12520102 Royal Swordsman Gloves
+12520103 Royal Swordsman Leggings
+12530100 Syan's Helm
+12530101 Syan's Armor
+12530102 Syan's Gloves
+12530103 Syan's Leggings
+12540100 Bone Crown
+12540101 Bone King Robe
+12540102 Bone King Cuffs
+12540103 Bone King Skirt
+13010100 Heide Knight Greathelm
+13010101 Heide Knight Chainmail
+13010102 Heide Knight Gauntlets
+13010103 Heide Knight Leggings
+13011100 Heide Knight Iron Mask
+13040101 Singer's Dress
+13050100 Smelter Demon Helm
+13050101 Smelter Demon Armor
+13050102 Smelter Demon Gauntlets
+13050103 Smelter Demon Leggings
+13060100 Alonne Captain Helm
+13060101 Alonne Captain Armor
+13060102 UNKNOWN
+13060103 UNKNOWN
+13061100 Alonne Knight Helm
+13061101 Alonne Knight Armor
+13061102 Alonne Knight Gauntlets
+13061103 Alonne Knight Leggings
+13070100 Vengarl's Helm
+13070101 Vengarl's Armor
+13070102 Vengarl's Gloves
+13070103 Vengarl's Boots
+13080101 Lion Warrior Cape
+13080102 Lion Warrior Cuffs
+13080103 Lion Warrior Skirt
+13081100 Lion Warrior Helm
+13081101 Red Lion Warrior Cape
+13081103 UNKNOWN
+13120100 Grave Warden Mask
+13120101 Grave Warden Top
+13120102 Grave Warden Cuffs
+13120103 Grave Warden Bottoms
+13130100 Falconer Helm
+13130101 Falconer Armor
+13130102 Falconer Gloves
+13130103 Falconer Boots
+13140100 Rusted Mastodon Helm
+13140101 Rusted Mastodon Armor
+13140102 Rusted Mastodon Gauntlets
+13140103 Rusted Mastodon Leggings
+13150100 Mastodon Helm
+13150101 Mastodon Armor
+13150102 Mastodon Gauntlets
+13150103 Mastodon Leggings
+13160100 Desert Sorceress Hood
+13160101 Desert Sorceress Top
+13160102 Desert Sorceress Gloves
+13160103 Desert Sorceress Skirt
+13170100 Dragon Acolyte Mask
+13170101 Dragon Acolyte Robe
+13170102 Dragon Acolyte Gloves
+13170103 Dragon Acolyte Boots
+13171100 Dragon Sage Hood
+13250100 Ruin Helm
+13250101 Ruin Armor
+13250102 Ruin Gauntlets
+13250103 Ruin Leggings
+13300100 Old Knight Helm
+13300101 Old Knight Armor
+13300102 Old Knight Gauntlets
+13300103 Old Knight Leggings
+13310100 Drakekeeper Helm
+13310101 Drakekeeper Armor
+13310102 Drakekeeper Gauntlets
+13310103 Drakekeeper Boots
+13320100 Throne Defender Helm
+13320101 Throne Defender Armor
+13320102 Throne Defender Gauntlets
+13320103 Throne Defender Leggings
+13330100 Velstadt's Helm
+13330101 Velstadt's Armor
+13330102 Velstadt's Gauntlets
+13330103 Velstadt's Leggings
+13340100 Throne Watcher Helm
+13340101 Throne Watcher Armor
+13340102 Throne Watcher Gauntlets
+13340103 Throne Watcher Leggings
+15040100 Looking Glass Mask
+15040101 Looking Glass Armor
+15040102 Looking Glass Gauntlets
+15040103 Looking Glass Leggings
+15060101 Agdayne's Black Robe
+15060102 Agdayne's Cuffs
+15060103 Agdayne's Kilt
+15090100 Leydia Black Hood
+15090101 Leydia Black Robe
+15100100 Insolent Helm
+15100101 Insolent Armor
+15100102 Insolent Gloves
+15100103 Insolent Boots
+15110100 Imperious Helm
+15110101 Imperious Armor
+15110102 Imperious Gloves
+15110103 Imperious Leggings
+15120100 Leydia White Hood
+15120101 Leydia White Robe
+15120102 Leydia Gauntlets
+15120103 UNKNOWN
+15130100 King's Crown
+15130101 King's Armor
+15130102 King's Gauntlets
+15130103 King's Leggings
+16100100 Dragonrider Helm
+16100101 Dragonrider Armor
+16100102 Dragonrider Gauntlets
+16100103 Dragonrider Leggings
+16180100 Executioner Helm
+16180101 Executioner Armor
+16180102 Executioner Gauntlets
+16180103 Executioner Leggings
+16260100 Penal Mask
+16260101 Penal Straightjacket
+16260102 Penal Handcuffs
+16260103 Penal Skirt
+16510100 Fume Sorcerer Mask
+16510101 Fume Sorcerer Robes
+16510102 Fume Sorcerer Gloves
+16510103 Fume Sorcerer Boots
+16590100 Rampart Golem Helm
+16590101 Rampart Golem Armor
+16590102 Rampart Golem Gauntlets
+16590103 Rampart Golem Leggings
+16650100 Sanctum Knight Helm
+16650101 Sanctum Knight Armor
+16650102 Sanctum Knight Gauntlets
+16650103 Sanctum Knight Leggings
+16660102 Sanctum Soldier Gauntlet
+16700100 Sanctum Priestess Tiara
+16750100 Raime's Helm
+16750101 Raime's Armor
+16750102 Raime's Gauntlets
+16750103 Raime's Leggings
+16770101 Retainer Robe
+16800100 Alonne's Helm
+16800101 Alonne's Armor
+16800102 Alonne's Gauntlets
+16800103 Alonne's Leggings
+16880100 Loyce Helm
+16880101 Loyce Armor
+16880102 Loyce Gauntlets
+16880103 Loyce Leggings
+16890100 Charred Loyce Helm
+16890101 Charred Loyce Armor
+16890102 Charred Loyce Gauntlets
+16890103 Charred Loyce Leggings
+16900100 Ivory King Helm
+16900101 Ivory King Armor
+16900102 Ivory King Gauntlets
+16900103 Ivory King Leggings
+16940100 Hood of the Forlorn
+16940101 Armor of the Forlorn
+16940102 Gauntlets of the Forlorn
+16940103 Leggings of the Forlorn
+17210101 Llewellyn Armor
+17210102 Llewellyn Gloves
+17210103 Llewellyn Shoes
+17240100 Drangleic Helm
+17240101 Drangleic Mail
+17240102 Drangleic Gauntlets
+17240103 Drangleic Leggings
+17420100 Creighton's Steel Mask
+17420101 Creighton's Chainmail
+17420102 Creighton's Chain Gloves
+17420103 Creighton's Chain Leggings
+17430100 Benhart's Knight Helm
+17430101 Benhart's Armor
+17430102 Benhart's Gauntlets
+17430103 Benhart's Boots
+17440100 Standard Helm
+17440101 Hard Leather Armor
+17440102 Hard Leather Gauntlets
+17440103 Hard Leather Boots
+17510100 Cale's Helm
+17510101 Cale's Leather Armor
+17510103 Cale's Shoes
+17520100 Lucatiel's Mask
+17520101 Lucatiel's Vest
+17520102 Lucatiel's Gloves
+17520103 Lucatiel's Trousers
+17521100 Mirrah Hat
+17530100 Bell Keeper Helmet
+17530101 Bell Keeper Bellyband
+17530102 Bell Keeper Cuffs
+17530103 Bell Keeper Trousers
+17550100 Mad Warrior Mask
+17550101 Mad Warrior Armor
+17550102 Mad Warrior Gauntlets
+17550103 Mad Warrior Leggings
+17630101 UNKNOWN
+17680100 Black Hood
+17680101 Black Robes
+17680102 Black Gloves
+17680103 Black Boots
+17690100 Saint's Hood
+17690101 Saint's Dress
+17690102 Saint's Long Gloves
+17690103 Saint's Trousers
+17700100 Hexer's Hood
+17700101 Hexer's Robe
+17700102 Hexer's Gloves
+17700103 Hexer's Boots
+17710100 Chaos Hood
+17710101 Chaos Robe
+17710102 Chaos Gloves
+17710103 Chaos Boots
+17830100 Nahr Alma Hood
+17830101 Nahr Alma Robes
+17950100 Targray's Helm
+17950101 Targray's Armor
+17950102 Targray's Manifers
+17950103 Targray's Leggings
+19000101 UNKNOWN
+19010101 UNKNOWN
+19020101 UNKNOWN
+19030101 UNKNOWN

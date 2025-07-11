@@ -1,2 +1,2 @@
-20105000 No trap -- トラップなし
-20105010 With trap -- トラップあり
+20105000 UNKNOWN
+20105010 UNKNOWN

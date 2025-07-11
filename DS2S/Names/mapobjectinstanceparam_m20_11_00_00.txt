@@ -1,34 +1,3 @@
-20110800 Brazier
-20110801 Brazier
-20110802 Brazier
-20110803 Brazier
-20110804 Brazier
-20110805 Brazier
-20110806 Brazier
-20110807 Brazier
-20110808 Brazier
-20110809 Brazier
-20110810 Brazier
-20110811 Brazier
-20110812 Brazier
-20110813 Brazier
-20110814 Brazier
-20110815 Brazier
-20110816 Brazier
-20110817 Brazier
-20110818 Brazier
-20110819 Brazier
-20110820 Brazier
-20110821 Brazier
-20110822 Brazier
-20110823 Brazier
-20110824 Brazier
-20110825 Brazier
-20110826 Brazier
-20110827 Brazier
-20110828 Brazier
-20110829 Brazier
-20110830 Brazier
 20115000 [Chest] Treasure
 20115010 [Chest] Treasure
 20115020 [Chest] Treasure

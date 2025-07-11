@@ -118,31 +118,3 @@
 50000120 Double-sided warrior combat area -- 両面戦士戦闘エリア
 50000121 Double-sided warrior return area 1 -- 両面戦士帰還エリア1
 50000122 Double-sided warrior return area 2 -- 両面戦士帰還エリア2
-50000210 Three lion body start area -- 獅子3体起動領域
-50000300 Gate front house of ruins: enemy launch area -- 遺跡のゲート前家：敵起動領域
-50001000 The point of the ruins_ lion warrior escape point -- 遺跡の先_獅子戦士逃げポイント
-50001200 【Return area】Goblin Stray Forest Front -- 【帰還領域】ゴブリン迷いの森前
-50001201 【Return area】Return to the starting point -- 【帰還領域】スタート地点帰還
-50001202 【Return area】Dlanglake side end -- 【帰還領域】ドラングレイク側端
-50001203 【Return area】Before Manskopine -- 【帰還領域】マンスコーピン前
-50001204 【Return area】Bridge return area -- 【帰還領域】橋帰還領域
-50001205 【Return area】Mansco movement limit 1 -- 【帰還領域】マンスコ移動制限1
-50001207 【Return area】Mansco White Spirit Return 1 -- 【帰還領域】マンスコ白霊帰還1
-50001208 【Return area】Mansco White Spirit Return -- 【帰還領域】マンスコ白霊帰還2
-50001300 Stray Forest_ Phantom Enemy Return Area 1 -- 迷いの森_幻影敵帰還領域1
-50001301 Stray Forest_ Phantom Enemy Period Region 2 -- 迷いの森_幻影敵期間領域2
-50002000 Manscorpion ♀_Rock Ground Target 00 -- マンスコーピオン♀_岩地目標00
-50002001 Manscorpion ♀_Rock Ground Target 01 -- マンスコーピオン♀_岩地目標01
-50002002 Manscorpion ♀_Rock Ground Target 02 -- マンスコーピオン♀_岩地目標02
-50002003 Manscorpion ♀_Rock Ground Target 03 -- マンスコーピオン♀_岩地目標03
-50002004 Manscorpion ♀_Rock Ground Target 04 -- マンスコーピオン♀_岩地目標04
-50002005 Manscorpion ♀_Rock Ground Target 05 -- マンスコーピオン♀_岩地目標05
-50002006 Manscorpion ♀_Rock Ground Target 06 -- マンスコーピオン♀_岩地目標06
-50002007 Manscorpion ♀_Rock Ground Goal 07 -- マンスコーピオン♀_岩地目標07
-50002008 Manscorpion ♀_Rock Ground Target 08 -- マンスコーピオン♀_岩地目標08
-50002100 Manscorpion ♀_Route Point_00 -- マンスコーピオン♀_ルートポイント_00
-50002101 Manscorpion ♀_Route Point_01 -- マンスコーピオン♀_ルートポイント_01
-50002102 Manscorpion ♀_Route Point_02 -- マンスコーピオン♀_ルートポイント_02
-50002103 Manscorpion ♀_Route Point_03 -- マンスコーピオン♀_ルートポイント_03
-50002104 Manscorpion ♀_Route Point_04 -- マンスコーピオン♀_ルートポイント_04
-53000500 Boss Mae Gate Ruins_Lion Warrior Fall Ing Attack Area -- ボス前ゲート遺跡_獅子戦士落下攻撃領域

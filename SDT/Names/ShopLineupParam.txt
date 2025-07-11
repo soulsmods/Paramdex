@@ -237,7 +237,7 @@
 1700002 [Consumption] Disease recovery + resistance enhancement -- 【消費】病毒回復 + 耐性強化
 1700003 General-purpose material: Chemistry 2 (Large piece) -- 汎用素材：化学2（大欠片）
 1700004 [Consumption] Gold nugget _ Medium -- 【消費】金塊_中
-1700005 Dragon cough healing -- 竜咳治癒
+1700005 Dragon cough healing refill -- 竜咳治癒おかわり
 1700006 [Consumption] Release illusion -- 【消費】幻術解除
 1700007 [Consumption] Strengthening anti-spirit -- 【消費】対霊強化
 1700008 [Consumption] Strengthening resistance to electric shock -- 【消費】感電耐性強化
@@ -249,7 +249,7 @@
 1700052 [Consumption] Disease recovery + resistance enhancement -- 【消費】病毒回復 + 耐性強化
 1700053 General-purpose material: Chemistry 2 (Large piece) -- 汎用素材：化学2（大欠片）
 1700054 [Consumption] Gold nugget _ Medium -- 【消費】金塊_中
-1700055 Dragon cough healing -- 竜咳治癒
+1700055 Dragon cough healing refill -- 竜咳治癒おかわり
 1700056 [Consumption] Release illusion -- 【消費】幻術解除
 1700057 [Consumption] Strengthening anti-spirit -- 【消費】対霊強化
 1700058 [Consumption] Strengthening resistance to electric shock -- 【消費】感電耐性強化

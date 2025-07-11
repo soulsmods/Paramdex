@@ -1,0 +1,164 @@
+1000 Retrieve lost runes
+1020 Acquire belongings
+1030 Acquire belongings
+1031 Acquire belongings of <?codenameIcon?>
+2500 View victor's record
+2501 View victor's record for <?codenameIcon?>
+4000 Pick up item
+4001 Pick up item
+4002 Pick up item
+4003 Pick up item
+4004 Pick up item
+4005 Pick up item
+4006 Pick up item
+4007 Pick up item
+4008 Pick up item
+4009 Pick up item
+4010 Pick up item
+4011 Pick up item
+4012 Pick up item
+4013 Pick up item
+4014 Pick up item
+4015 Pick up item
+4016 Pick up item
+4017 Pick up item
+4018 Pick up item
+4019 Pick up item
+4020 Pick up item
+4021 Pick up item
+4022 Pick up item
+4023 Pick up item
+4024 Pick up item
+4025 Pick up item
+4026 Pick up item
+4027 Pick up item
+4028 Pick up item
+4029 Pick up item
+4030 Pick up item
+4031 Pick up item
+4032 Pick up item
+4033 Pick up item
+4034 Pick up item
+4100 Pick up item
+4200 Pick up item
+4288 Loot items
+4289 Pick up item
+4290 Loot items
+4291 Loot items
+4292 Loot items
+4293 Pick up item
+4294 Pick up item
+4295 Pick up item
+4296 Pick up item
+4297 Pick up item
+4298 Pick up item
+4299 Pick up item
+4300 Examine
+4301 Loot items
+4305 Gain power
+4311 Gain the power of the mountains
+4313 Gain the power of the forest
+4315 Gain the power of the city
+4351 Pick up item
+4400 OK
+4500 Take armament
+4501 Take staff
+4502 Take sacred seal
+6000 Talk
+6001 Talk
+6002 Talk
+6003 Talk
+6004 Talk
+6005 Talk
+6110 Level up
+6111 Add charge to flask
+6112 Already at highest level
+6114 Purchase
+6115 Talk
+6116 Sit
+6117 Talk
+6118 Touch phantom
+6250 Strengthen armament
+6251 Strengthen armament
+6252 Strengthen armament
+6610 Gain effect of materials
+6750 Touch Nightlord
+6751 Lay hand upon infant
+6760 Animate
+6850 Search for whetstone
+6851 Search for tear of silver
+6852 Search for golden dew
+6853 Examine
+6854 Search for blessed flowers
+6855 Search for golden sprout
+6858 Examine
+6860 Examine
+6900 Commence expedition
+6901 Change character
+6902 Perform Relic Rites
+6903 Open Visual Codex
+6904 Open journal
+6905 Change sparring equipment
+6906 Replicate armament
+6907 Change sparring settings
+6908 Examine
+6909 Purchase
+6910 Paint picture
+6911 Conclude remembrance
+6912 Touch phantom
+6913 Examine sign
+6920 Inspect Vestige of Night
+6921 Read
+6922 Read
+6925 Read
+6930 Hold up earring
+6940 Hold up both earrings
+6941 Read
+6942 Read
+6943 Read
+6944 Read
+6945 Open
+6946 Pick up item
+6947 Examine
+6948 Examine
+6949 Examine
+6951 Pick up
+6952 Examine
+6953 Read
+6960 Examine
+6961 Bless iron coin
+6962 Examine
+6963 Examine
+6964 Read
+6970 Touch monument
+6971 Offer
+6980 Sit
+6990 Change garb
+6991 Pass time
+7000 Touch corpse
+7810 Gain effect of materials
+7811 Restore HP
+7812 Heal ailments
+7813 Summon foe-chasing vengeful spirits
+7814 Restore FP
+7815 Boost rune acquisition
+7816 Boost damage negation
+7817 Boost physical and fire damage
+7819 Restore HP
+8000 Open
+8010 Loot items
+8020 Loot items
+8030 Loot items
+8040 Loot items
+9000 Examine
+9001 Examine
+9002 Examine
+9030 Cure rot
+9231 Open Evergaol
+9232 Add charge to flask
+9291 Travel into the Spirit Shelter
+9292 Open
+9350 Take hold of Spectral Hawk
+9360 Learn about locale
+9380 Sit
+9390 Open

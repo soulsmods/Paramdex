@@ -1,0 +1,18 @@
+0 Dummy to keep the "individual ID" display above. You can erase this dummy when adding an individual ID.
+15000000 Bonfire flag
+15000050 Initialization flag
+15000100 System flag
+15000200 Character flag (do not reset)
+15000500 Object flag (do not reset)
+15000700 Conversation flag
+15000800 Boss flag (do not reset)
+15000900 For debugging/testing
+15001200 Character flag (do not reset)
+15001500 Object flag (do not reset)
+15002100 System flag
+15002200 Character flag (reset)
+15002500 Object flag (reset)
+15002700 Conversation flag
+15002800 Boss flag (reset)
+15002900 For debugging/testing
+15008500 Object act flag

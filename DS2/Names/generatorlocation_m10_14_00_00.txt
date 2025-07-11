@@ -1,130 +1,238 @@
-55 [Wandering Warrior] Npc -- 【放浪の戦士】NPC
-56 [Wandering Warrior] NPC (Ghost) -- 【放浪の戦士】NPC（亡霊）
-57 [Wandering Warrior] NPC (patch death) -- 【放浪の戦士】NPC（パッチ死亡時）
-58 [Wandering Warrior] NPC (ghost for patch death) -- 【放浪の戦士】NPC（パッチ死亡時用亡霊）
-65 【Patch】 Npc -- 【パッチ】NPC
-66 【Patch】 NPC (Ghost) -- 【パッチ】NPC（亡霊）
-265 [Top Weapons Store] Npc -- 【上位武器屋】NPC
-266 [Top Weapons Store] NPC (Ghost) -- 【上位武器屋】NPC（亡霊）
-310 [The Teacher of The Sin] Npc -- 【免罪の教戒師】NPC
-311 [The Teacher of The Sin] NPC (Ghost) -- 【免罪の教戒師】NPC（亡霊）
-521 【Before the Church】 The Black Spirit: A Man Who Was Sealed -- 【教会前：黒霊】封じられた人
-526 【In the camp tent】 Tsukiko Grandfather -- 【キャンプ地テント内：白霊】月光爺
-527 [Spider's Web Area: White Spirit] Leroy -- 【蜘蛛の巣エリア：白霊】リロイ
-803 【Boss】Spider Queen: Coalescence -- 【ボス】蜘蛛の女王：合体
-1000 [Boss for the first appearance] spider queen: coalescence -- 【ボス1回目登場用】蜘蛛の女王：合体
-1016 [Hole falling room lower floor ceiling] parasite spider 1 ceiling fall surprise -- 【穴落下部屋下階天井】パラサイトスパイダー1天井落下奇襲
-1017 [Hole falling room upper floor ceiling] parasite spider 2 ceiling fall surprise -- 【穴落下部屋上階天井】パラサイトスパイダー2天井落下奇襲
-1100 【The back of the falling stone passage】The deceased: Clothes of the farmer 1 -- 【落石通路奥】亡者：農民の服１
-1101 【Guard ing the door in front of the church】The deceased: the ♂ of the clothes of the peasants: Torch -- 【教会前の扉守り】亡者：農民の服♂：松明
-1103 【Guarding the Door in front of the Church】Deceased: Farmer's Clothes: Head 1: Tsurushi -- 【教会前の扉守り】亡者：農民の服：頭１：つるはし
-1107 【Starting Point Square】Deceased; -- 【スタート地点広場】亡者；農民の服つるはし1
-1108 【Starting Point Square】Deceased; -- 【スタート地点広場】亡者；農民の服つるはし2
-1109 【Starting Point Square】Deceased; -- 【スタート地点広場】亡者；農民の服鎌
-1110 【The Falling Stone Passage】 Dead; -- 【落石通路奥】亡者；農民の服鎌
-1120 【Refugee Camp Area】Slave Beasts (Live) 1 -- 【難民キャンプエリア】奴隷獣（生者）1
-1121 【Refugee Camp Area】Slave Beasts (Live) 2 -- 【難民キャンプエリア】奴隷獣（生者）2
-1122 【Refugee Camp Area】Slave Beast (Piglet) -- 【難民キャンプエリア】奴隷獣（子豚）
-1130 【Refugee camp area watchstand】Deceased: Farmer's clothes ♂: sickle of hands -- 【難民キャンプエリア見張り台】亡者：農民の服♂：両手鎌
-1140 [Refugee camp area digging] dead: peasant clothes ♂: head part 2: tsurushi _ hole digging -- 【難民キャンプエリア穴掘り】亡者：農民の服♂：頭パーツ２：つるはし_穴掘り
-1150 【Refugee camp area】Fang-a-ta-ta-ta-ta-ta-ta-ta-ta-ta -- 【難民キャンプエリア】牙獣2周目1
-1151 【Refugee camp area】Fang-a-ta-ta-ta-ta-ta-ta-ta-ta-ta -- 【難民キャンプエリア】牙獣2周目2
-1200 [Guard ing the door in front of the church] dead: farmer's clothes ♂: head parts 2-handed sickle -- 【教会前の扉守り】亡者：農民の服♂：頭パーツ２両手鎌
-1218 【On the hole falling room】Dark Wizard (deceased): Color (3) Head B1 -- 【穴落下部屋上】ダークウィザード（亡者）：色③：頭部B1
-1219 [Shortly after getting off the middle layer _ rope] Dark Wizard (deceased): Color (3): Head B -- 【中層_ロープを降りてすぐ】ダークウィザード（亡者）：色③：頭部B
-1221 【On the hole falling room】Dark Wizard (deceased): Color (3) Head B2 -- 【穴落下部屋上】ダークウィザード（亡者）：色③：頭部B2
-1224 [Bottom layer: Bar room back] parasite spider -- 【最下層：バー部屋奥】パラサイトスパイダー
-1226 【Bottom: Bar Room】Parasite Spider -- 【最下層：バー部屋】パラサイトスパイダー
-1229 【Middle-tier Treasure Room】Parasite Spider (Parasitic) -- 【中層宝部屋】パラサイトスパイダー（寄生）
-1240 【Balcony at the end of the stairs filled with sand】Ishimori -- 【砂で埋まった階段先バルコニー】石守
-1304 [Treasure chest trap room 2] out of the parasite spider 1 hole -- 【宝箱トラップ部屋2】パラサイトスパイダー1穴から出る
-1305 [Treasure chest trap room 2] out of the parasite spider 2 holes -- 【宝箱トラップ部屋2】パラサイトスパイダー2穴から出る
-1306 [Treasure chest trap room 2] out of the parasite spider 3 holes -- 【宝箱トラップ部屋2】パラサイトスパイダー3穴から出る
-1307 [Treasure chest trap room 2] out of the parasite spider 4 holes -- 【宝箱トラップ部屋2】パラサイトスパイダー4穴から出る
-1308 [Treasure chest trap room 2] out of the parasite spider 5 holes -- 【宝箱トラップ部屋2】パラサイトスパイダー5穴から出る
-1309 [Treasure chest trap room 2] out of the parasite spider 6 holes -- 【宝箱トラップ部屋2】パラサイトスパイダー6穴から出る
-1310 [Treasure chest trap room 2] out of the parasite spider 7 holes -- 【宝箱トラップ部屋2】パラサイトスパイダー7穴から出る
-1319 [Hole falling room upper floor ceiling 2 laps] parasite spider 2 ceiling fall surprise soul black -- 【穴落下部屋上階天井2周目】パラサイトスパイダー2天井落下奇襲ソウルブラック
-1320 [Hole falling room upper floor ceiling second lap] parasite spider 3 ceiling fall surprise soul black -- 【穴落下部屋上階天井2周目】パラサイトスパイダー3天井落下奇襲ソウルブラック
-1324 [Spider's Web Area] Parasite Spider 1 Poison -- 【蜘蛛の巣エリア】パラサイトスパイダー1毒
-1325 [Spider's Web Area] Parasite Spider 2 Poison -- 【蜘蛛の巣エリア】パラサイトスパイダー2毒
-1326 [Spider's Web Area] Parasite Spider 3 Poison -- 【蜘蛛の巣エリア】パラサイトスパイダー3毒
-1327 [Spider's Web Area] Parasite Spider 4 Poison -- 【蜘蛛の巣エリア】パラサイトスパイダー4毒
-1329 [Surprise from the other side of the dune] parasite spider 1 -- 【砂丘の向こうから奇襲】パラサイトスパイダー1
-1330 [Surprise from the other side of the dune] parasite spider 2 -- 【砂丘の向こうから奇襲】パラサイトスパイダー2
-1331 [Surprise from the other side of the dunes] parasite spider 3 -- 【砂丘の向こうから奇襲】パラサイトスパイダー3
-1338 [Spider's Web Area_ With The Backlining of the Nest] Parasite Spider 5 -- 【蜘蛛の巣エリア_巣の裏張り付き】パラサイトスパイダー5
-1347 [Fall to the side of the ant hell _ before the second rope] parasite spider -- 【蟻地獄横への落下_2個目ロープ前】パラサイトスパイダー
-1348 [Fall to the side of the ant hell _ after the second rope] parasite spider : poison -- 【蟻地獄横への落下_2個目ロープ後】パラサイトスパイダー：毒
-1349 [On the Ant Hell Side Hut] Dark Wizard (Deceased) Color (3) Head B -- 【蟻地獄横小屋上】ダークウィザード（亡者）：色③：頭部B
-1352 【Ant Hell Side】Basilisk- Eyeball Crushing 1 -- 【蟻地獄横】バジリスク：目玉潰れ1
-1360 【Middle Rope Front】Ishimori -- 【中層ロープ手前下】石守
-1361 [Ant Hell Side] Stone Mori Explosion -- 【蟻地獄横】石守爆発
-1400 【Church_Hidden Door Front】Dark Priest (Deceased): Color (1) Soul Black -- 【教会_隠し扉先2周目】ダークプリースト（亡者）：色①：ソウルブラック
-1500 【Outside the Middle-Tier Treasure Room】Dark Wizard (Deceased) Color (3) Head B -- 【中層宝部屋外】ダークウィザード（亡者）：色③：頭部B
-2000 [Middle Layer Treasure Room] Parasite Spider Parasitic 1 Muse -- 【中層宝部屋】パラサイトスパイダー寄生1うつぶせ
-2001 【Middle-tier Treasure Room】Parasite Spider Parasitic 2-Mhave -- 【中層宝部屋】パラサイトスパイダー寄生2うつぶせ
-2002 [Bottom layer_ Church door jump] parasite spider parasitic 3 -- 【最下層_教会扉飛び降り】パラサイトスパイダー寄生3
-2003 [Bottom layer_ Church door jumping] parasite spider parasitic 4 -- 【最下層_教会扉飛び降り】パラサイトスパイダー寄生4
-2004 【Bottom layer】Parasite Spider Parasitic 5-med -- 【最下層】パラサイトスパイダー寄生5うつぶせ
-2030 [Road leading to the lowest layer _ spider building] invasion spirit soul black -- 【最下層_蜘蛛建物へ繋がる道】侵入霊ソウルブラック
-2031 [Bottom layer_ The road leading to the spider building 2nd round] Dark Spirit Soul Black -- 【最下層_蜘蛛建物へ繋がる道2周目】闇霊ソウルブラック
-3000 【Church_Prayer】Dark Priest (Deceased) -- 【教会_祈り】ダークプリースト（亡者）
-3001 【Church_Prayer】Dark Priest (Deceased) -- 【教会_祈り】ダークプリースト（亡者）
-3010 【Church_Prayer】Deceased: The Clothes of the Sick -- 【教会_祈り】亡者：病人の服
-3011 【Church_Prayer】Deceased: The Clothes of the Sick -- 【教会_祈り】亡者：病人の服
-3012 【Church_Prayer】Deceased: The Clothes of the Sick -- 【教会_祈り】亡者：病人の服
-3020 【Church_Prayer】Dead Workers_01 -- 【教会_祈り】死者の労働者_01
-3021 【Church_Prayer】Dead Workers_02 -- 【教会_祈り】死者の労働者_02
-3022 【Church_Prayer】Dead Workers_03 -- 【教会_祈り】死者の労働者_03
-3023 【Church_Prayer】Dead Workers_04 -- 【教会_祈り】死者の労働者_04
-3024 【Church_Prayer】Dead Workers_05 -- 【教会_祈り】死者の労働者_05
-3030 【Church_Prayer】Necromancer -- 【教会_祈り】ネクロマンサー
-7000 【Boss Room】Parasite Spider_1 -- 【ボス部屋】パラサイトスパイダー_1
-7001 【Boss Room】Parasite Spider_2 -- 【ボス部屋】パラサイトスパイダー_2
-7002 【Boss Room】Parasite Spider_3 -- 【ボス部屋】パラサイトスパイダー_3
-7003 【Boss Room】Parasite Spider_4 -- 【ボス部屋】パラサイトスパイダー_4
-7004 【Boss Room】Parasite Spider_5 -- 【ボス部屋】パラサイトスパイダー_5
-7005 【Boss Room】Parasite Spider_6 -- 【ボス部屋】パラサイトスパイダー_6
-7010 [Boss room_Initial placement] parasite spider_1 -- 【ボス部屋_初期配置】パラサイトスパイダー_1
-7011 [Boss room_Initial placement] parasite spider_2 -- 【ボス部屋_初期配置】パラサイトスパイダー_2
-7012 [Boss room_Initial placement] parasite spider_3 -- 【ボス部屋_初期配置】パラサイトスパイダー_3
-7013 [Boss room_Initial placement] parasite spider_4 -- 【ボス部屋_初期配置】パラサイトスパイダー_4
-7014 [Boss room_Initial placement] parasite spider_5 -- 【ボス部屋_初期配置】パラサイトスパイダー_5
-7015 [Boss room_Initial placement] parasite spider_6 -- 【ボス部屋_初期配置】パラサイトスパイダー_6
-8010 【Deep Stone Passage】Deceased: Farmer's Clothes ♂: Torch -- 【落石通路奥】亡者：農民の服♂：松明
-8015 【Deep Stone Passage】Dead: Farmer's Clothes: Head 2: Tsurushi -- 【落石通路奥】亡者：農民の服：頭２：つるはし
-8030 [NPC Chambara room bookshelf back] parasite spider -- 【NPCチャンバラ部屋の本棚奥】パラサイトスパイダー
-8230 【Bottom: Bar Room】 [Dark Wizard (deceased): Color (3): Head B] -- 【最下層：バー部屋】【ダークウィザード（亡者）：色③：頭部B】
-8300 [Bottom layer: open door- closed room] parasite spider -- 【最下層：扉開けっ放し部屋】パラサイトスパイダー
-8301 [Bottom layer: open door- closed room] Parasite Spider: Poison -- 【最下層：扉開けっ放し部屋】パラサイトスパイダー：毒
-8320 [Jumping in front of the bottom sand door_NPC Chamber back] Parasite Spider (parasitic) -- 【最下層砂扉前飛び降り_NPCチャンバラ部屋奥】パラサイトスパイダー（寄生）
-8322 [Bottom layer sand door front jumping down _ crumbling stairs] parasite spider (parasitic) -- 【最下層砂扉前飛び降り_崩れ階段】パラサイトスパイダー（寄生）
-8323 【Bottom layer_Sand door front_prowl】Basilisk: Eyeball Crushing 1 -- 【最下層_砂扉前_うろつき】バジリスク：目玉潰れ1
-8324 [Bottom layer_ Sand door front _ prowl] Basilisk: Eyeball Crush2 -- 【最下層_砂扉前_うろつき】バジリスク：目玉潰れ2
-8401 [Worm key hole _ hanging] parasite spider -- 【虫の鍵のホール_垂れ下がり】パラサイトスパイダー
-8405 [Worm key hole _ hanging] parasite spider -- 【虫の鍵のホール_垂れ下がり】パラサイトスパイダー
-8406 [Worm key hole _ hanging] parasite spider -- 【虫の鍵のホール_垂れ下がり】パラサイトスパイダー
-8410 [Worm key hole _ hanging] parasite spider -- 【虫の鍵のホール_垂れ下がり】パラサイトスパイダー
-8411 [Worm key hole _ hanging] parasite spider -- 【虫の鍵のホール_垂れ下がり】パラサイトスパイダー
-8420 [Worm key hole _ hanging _ next to the key of the insect] parasite spider -- 【虫の鍵のホール_垂れ下がり_虫の鍵横】パラサイトスパイダー
-8430 [Worm key hole _ door back] parasite spider (parasitic): poison -- 【虫の鍵のホール_扉奥】パラサイトスパイダー（寄生）：毒
-8450 [Insect key room _ pseudo infinite spring] parasite spider 1 -- 【虫の鍵部屋_疑似無限湧き】パラサイトスパイダー1
-8451 [Insect key room_ pseudo infinite springing] parasite spider 2 -- 【虫の鍵部屋_疑似無限湧き】パラサイトスパイダー2
-8454 [Insect key room_ pseudo infinite springing] parasite spider 5 -- 【虫の鍵部屋_疑似無限湧き】パラサイトスパイダー5
-8455 [Insect key room_ pseudo infinite springing] parasite spider 6 -- 【虫の鍵部屋_疑似無限湧き】パラサイトスパイダー6
-8456 [Insect key room_ pseudo infinite springing] parasite spider 7 -- 【虫の鍵部屋_疑似無限湧き】パラサイトスパイダー7
-8457 [Insect key room_ pseudo infinite springing] parasite spider 8 -- 【虫の鍵部屋_疑似無限湧き】パラサイトスパイダー8
-8458 [Insect key room_ pseudo infinite springing] parasite spider 9 -- 【虫の鍵部屋_疑似無限湧き】パラサイトスパイダー9
-8500 [Spider's web area_ with the backlining of the nest] parasite spider 1 -- 【蜘蛛の巣エリア_巣の裏張り付き】パラサイトスパイダー1
-8510 [Spider's Web Area_ With The Backing of the Nest] Parasite Spider 2 -- 【蜘蛛の巣エリア_巣の裏張り付き】パラサイトスパイダー2
-8512 [Spider's Web Area_ With The Backlining of the Nest] Parasite Spider 3 -- 【蜘蛛の巣エリア_巣の裏張り付き】パラサイトスパイダー3
-8514 [Spider's Web Area_ With The Backing of the Nest] Parasite Spider 4 -- 【蜘蛛の巣エリア_巣の裏張り付き】パラサイトスパイダー4
-8530 [Spider's Web Area _ With Ceiling] Parasite Spider 1 -- 【蜘蛛の巣エリア_天井張り付き】パラサイトスパイダー1
-8540 [Spider's Web Area_ With Ceiling] Parasite Spider 2 -- 【蜘蛛の巣エリア_天井張り付き】パラサイトスパイダー2
-8550 [Spider's Web Area_ With Ceiling] Parasite Spider 3 -- 【蜘蛛の巣エリア_天井張り付き】パラサイトスパイダー3
-8900 【Boss Post-Treasure Chest Room】Durahan -- 【ボス後宝箱部屋】デュラハン（亡者）：二刀流
-8912 [Boss After Treasure Chest Room] Dead: The Clothes of the Wealthy ♂ Stabbing Sword 1 -- 【ボス後宝箱部屋】亡者：富裕層の服♂：刺突剣1
-9000 【Dummy】Patch Room -- 【ダミー】パッチ部屋
-9900 【Event Test_Iwagorogoro】Deceased: Farmer's Clothes -- 【イベントテスト_岩ゴロゴロ】亡者：農民の服
-9901 【Event Test_Iwagorogoro】Deceased: Farmer's Clothes -- 【イベントテスト_岩ゴロゴロ】亡者：農民の服
+55 [GEN:55] Creighton the Wanderer
+56 [GEN:56] Creighton the Wanderer
+57 [GEN:57] Creighton the Wanderer
+58 [GEN:58] Creighton the Wanderer
+65 [GEN:65] Mild Mannered Pate
+66 [GEN:66] Mild Mannered Pate
+265 [GEN:265] Weaponsmith Ornifex
+266 [GEN:266] Weaponsmith Ornifex
+310 [GEN:310] Cromwell the Pardoner
+311 [GEN:311] Cromwell the Pardoner
+520 [GEN:520] Bowman Guthry
+521 [GEN:521] Royal Sorcerer Navlaan
+526 [GEN:526] Benhart of Jugo
+527 [GEN:527] Ashen Knight Boyd
+528 [GEN:528] Manhunter O'Harrah
+529 [GEN:529] Bashful Ray
+803 [GEN:803] The Duke's Dear Freja
+911 [GEN:911] Aldia- Scholar of the First Sin
+926 [GEN:926] Forlorn
+1000 [GEN:1000] The Duke's Dear Freja
+1010 [GEN:1010] NO MATCH
+1011 [GEN:1011] NO MATCH
+1012 [GEN:1012] NO MATCH
+1110 [GEN:1110] Hollow Falconer
+1111 [GEN:1111] Hollow Falconer
+1112 [GEN:1112] Hollow Falconer
+1113 [GEN:1113] Hollow Falconer
+1120 [GEN:1120] Undead Boar
+1121 [GEN:1121] Undead Boar
+1122 [GEN:1122] Small Boar
+1140 [GEN:1140] Undead Peasant
+1150 [GEN:1150] NO MATCH
+1160 [GEN:1160] Hollow Falconer
+1161 [GEN:1161] Hollow Falconer
+1162 [GEN:1162] Hollow Falconer
+1180 [GEN:1180] Giant Undead Boar
+1181 [GEN:1181] Giant Undead Boar
+1190 [GEN:1190] Undead Boar
+1195 [GEN:1195] Mimic
+1200 [GEN:1200] Undead Peasant
+1210 [GEN:1210] Undead Peasant
+1220 [GEN:1220] Undead Peasant
+1230 [GEN:1230] Undead Peasant
+1231 [GEN:1231] NO MATCH
+1240 [GEN:1240] Undead Peasant
+1250 [GEN:1250] Undead Peasant
+1260 [GEN:1260] Undead Peasant
+1270 [GEN:1270] NO MATCH
+1280 [GEN:1280] Undead Peasant
+1300 [GEN:1300] NO MATCH
+1301 [GEN:1301] Undead Peasant
+1310 [GEN:1310] Undead Peasant
+1320 [GEN:1320] Undead Peasant
+2000 [GEN:2000] NO MATCH
+2010 [GEN:2010] Parasite Spider
+2020 [GEN:2020] Parasite Spider
+2030 [GEN:2030] NO MATCH
+2040 [GEN:2040] NO MATCH
+2050 [GEN:2050] Parasite Spider
+2100 [GEN:2100] Parasite Spider
+2102 [GEN:2102] Parasite Spider
+2104 [GEN:2104] Parasite Spider
+2106 [GEN:2106] NO MATCH
+2108 [GEN:2108] Parasite Spider
+2110 [GEN:2110] NO MATCH
+2112 [GEN:2112] NO MATCH
+2113 [GEN:2113] Parasite Spider
+2114 [GEN:2114] Parasite Spider
+2115 [GEN:2115] Parasite Spider
+2116 [GEN:2116] Parasite Spider
+2117 [GEN:2117] Parasite Spider
+2200 [GEN:2200] Hollow Priest
+2250 [GEN:2250] Parasite Spider
+2260 [GEN:2260] Parasite Spider
+2300 [GEN:2300] Parasite Spider
+2310 [GEN:2310] Parasite Spider
+2320 [GEN:2320] Parasite Spider
+2500 [GEN:2500] Dragon Acolyte
+2510 [GEN:2510] Hollow Priest
+2511 [GEN:2511] Hollow Priest
+2520 [GEN:2520] Undead Supplicant
+2521 [GEN:2521] Undead Supplicant
+2522 [GEN:2522] Undead Supplicant
+2530 [GEN:2530] Undead Laborer
+2531 [GEN:2531] Undead Laborer
+2532 [GEN:2532] Undead Laborer
+2533 [GEN:2533] Undead Laborer
+2534 [GEN:2534] Undead Laborer
+2700 [GEN:2700] Parasite Spider
+2710 [GEN:2710] NO MATCH
+2720 [GEN:2720] Parasite Spider
+2740 [GEN:2740] NO MATCH
+3000 [GEN:3000] White Hollow Mage
+3010 [GEN:3010] Parasite Spider
+3011 [GEN:3011] Parasite Spider
+3012 [GEN:3012] Parasite Spider
+3013 [GEN:3013] Parasite Spider
+3020 [GEN:3020] White Hollow Mage
+3030 [GEN:3030] White Hollow Mage
+3040 [GEN:3040] NO MATCH
+3050 [GEN:3050] Parasite Spider
+3060 [GEN:3060] Parasite Spider
+3090 [GEN:3090] Crystal Lizard
+3100 [GEN:3100] NO MATCH
+3105 [GEN:3105] NO MATCH
+3110 [GEN:3110] Parasite Spider
+3120 [GEN:3120] NO MATCH
+3130 [GEN:3130] Parasite Spider
+3140 [GEN:3140] NO MATCH
+3150 [GEN:3150] Parasite Spider
+3160 [GEN:3160] NO MATCH
+3170 [GEN:3170] NO MATCH
+3200 [GEN:3200] Parasite Spider
+3500 [GEN:3500] White Hollow Mage
+3510 [GEN:3510] White Hollow Mage
+3550 [GEN:3550] NO MATCH
+3551 [GEN:3551] Parasite Spider
+3552 [GEN:3552] Parasite Spider
+3553 [GEN:3553] Parasite Spider
+3554 [GEN:3554] Parasite Spider
+3555 [GEN:3555] NO MATCH
+3556 [GEN:3556] Parasite Spider
+3557 [GEN:3557] Parasite Spider
+3558 [GEN:3558] Parasite Spider
+3590 [GEN:3590] Parasite Spider
+3591 [GEN:3591] Parasite Spider
+4000 [GEN:4000] Basilisk
+4010 [GEN:4010] Parasite Spider
+4011 [GEN:4011] NO MATCH
+4012 [GEN:4012] Parasite Spider
+4013 [GEN:4013] Parasite Spider
+4014 [GEN:4014] NO MATCH
+4090 [GEN:4090] Red Crystal Lizard
+4200 [GEN:4200] NO MATCH
+4210 [GEN:4210] NO MATCH
+4500 [GEN:4500] Parasite Spider
+4501 [GEN:4501] Parasite Spider
+4502 [GEN:4502] Parasite Spider
+4503 [GEN:4503] NO MATCH
+4600 [GEN:4600] Parasite Spider
+4610 [GEN:4610] Parasitized Undead
+5010 [GEN:5010] Parasite Spider
+5011 [GEN:5011] Parasite Spider
+5012 [GEN:5012] NO MATCH
+5013 [GEN:5013] Parasite Spider
+5014 [GEN:5014] NO MATCH
+5020 [GEN:5020] Basilisk
+5030 [GEN:5030] Parasitized Undead
+5110 [GEN:5110] Dual Wielding Swordsman Phantom
+5250 [GEN:5250] NO MATCH
+5251 [GEN:5251] Undead Peasant
+5252 [GEN:5252] Undead Peasant
+5253 [GEN:5253] Undead Peasant
+5254 [GEN:5254] Undead Peasant
+5300 [GEN:5300] Parasitized Undead
+5390 [GEN:5390] Crystal Lizard
+5500 [GEN:5500] Parasitized Undead
+5510 [GEN:5510] Parasitized Undead
+5520 [GEN:5520] Parasite Spider
+5530 [GEN:5530] Parasite Spider
+5540 [GEN:5540] NO MATCH
+5700 [GEN:5700] Parasite Spider
+5701 [GEN:5701] NO MATCH
+5702 [GEN:5702] Parasite Spider
+5703 [GEN:5703] Parasite Spider
+5704 [GEN:5704] NO MATCH
+5705 [GEN:5705] Parasite Spider
+6000 [GEN:6000] Parasite Spider
+6001 [GEN:6001] Parasite Spider
+6002 [GEN:6002] NO MATCH
+6003 [GEN:6003] Parasite Spider
+6004 [GEN:6004] NO MATCH
+6005 [GEN:6005] Parasite Spider
+6006 [GEN:6006] Parasite Spider
+6007 [GEN:6007] Parasite Spider
+6008 [GEN:6008] Parasite Spider
+6009 [GEN:6009] Parasite Spider
+6010 [GEN:6010] Parasite Spider
+6011 [GEN:6011] Parasite Spider
+6020 [GEN:6020] Parasitized Undead
+6050 [GEN:6050] Porcine Peasant Phantom
+6100 [GEN:6100] NO MATCH
+6101 [GEN:6101] Parasite Spider
+6102 [GEN:6102] Parasite Spider
+6103 [GEN:6103] Parasite Spider
+6104 [GEN:6104] Parasite Spider
+6105 [GEN:6105] Parasite Spider
+6106 [GEN:6106] NO MATCH
+6200 [GEN:6200] NO MATCH
+6201 [GEN:6201] NO MATCH
+6202 [GEN:6202] Parasite Spider
+6203 [GEN:6203] Parasite Spider
+6204 [GEN:6204] NO MATCH
+6205 [GEN:6205] NO MATCH
+6206 [GEN:6206] Parasite Spider
+7000 [GEN:7000] Parasite Spider
+7001 [GEN:7001] Parasite Spider
+7002 [GEN:7002] Parasite Spider
+7003 [GEN:7003] Parasite Spider
+7004 [GEN:7004] Parasite Spider
+7005 [GEN:7005] Parasite Spider
+7006 [GEN:7006] Parasite Spider
+7007 [GEN:7007] Parasite Spider
+7008 [GEN:7008] Parasite Spider
+7009 [GEN:7009] Parasite Spider
+7010 [GEN:7010] Parasite Spider
+7011 [GEN:7011] NO MATCH
+7030 [GEN:7030] Parasite Spider
+7031 [GEN:7031] NO MATCH
+7032 [GEN:7032] Parasite Spider
+7040 [GEN:7040] Parasite Spider
+7050 [GEN:7050] NO MATCH
+7051 [GEN:7051] NO MATCH
+7300 [GEN:7300] Undead Peasant
+7301 [GEN:7301] Undead Peasant
+7302 [GEN:7302] NO MATCH
+7303 [GEN:7303] Undead Peasant
+7500 [GEN:7500] NO MATCH
+7501 [GEN:7501] Parasite Spider
+7502 [GEN:7502] NO MATCH
+7510 [GEN:7510] NO MATCH
+7520 [GEN:7520] NO MATCH
+7521 [GEN:7521] NO MATCH
+8000 [GEN:8000] Parasite Spider
+8001 [GEN:8001] Parasite Spider
+8002 [GEN:8002] Parasite Spider
+8003 [GEN:8003] Parasite Spider
+8004 [GEN:8004] Parasite Spider
+8005 [GEN:8005] Parasite Spider
+8010 [GEN:8010] Parasite Spider
+8011 [GEN:8011] Parasite Spider
+8012 [GEN:8012] Parasite Spider
+8013 [GEN:8013] Parasite Spider
+8014 [GEN:8014] Parasite Spider
+8015 [GEN:8015] Parasite Spider
+8500 [GEN:8500] Lord Tseldora
+9000 [GEN:9000] Voice Marker (Creighton/Pate)
+9500 [GEN:9500] Poison Moth

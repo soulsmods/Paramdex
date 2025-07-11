@@ -1,2 +1,6 @@
-0 No 00 -- 00なし
+0 Slash
+1 Blow
+2 Thrust
+3 Explosion
+4 Bullet 
 255 item -- アイテム

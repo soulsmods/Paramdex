@@ -1,570 +1,860 @@
-100000010 General purpose_blast_diameter 1.5m -- 汎用＿爆風＿直径1.5m
-100000110 General purpose_blast_diameter 2.0m -- 汎用＿爆風＿直径2.0m
-100000210 General purpose_blast_diameter 2.5m -- 汎用＿爆風＿直径2.5m
-100000310 General purpose_blast_diameter 3.0m -- 汎用＿爆風＿直径3.0m
-100000410 General purpose_blast_diameter 3.5m -- 汎用＿爆風＿直径3.5m
-100000510 General purpose_blast_diameter 4.0m -- 汎用＿爆風＿直径4.0m
-100001000 general-purpose blast_gravel_large -- 汎用爆風_砂利_大
-100001010 General-purpose blast_gravel_oversized -- 汎用爆風_砂利_特大
-100001020 General-purpose blast_gravel_oversized -- 汎用爆風_砂利_特特大
-100002000 general-purpose blast_sand_large -- 汎用爆風_砂_大
-100002010 General-purpose blast_sand_oversized -- 汎用爆風_砂_特大
-100002020 General-purpose blast_sand_oversized -- 汎用爆風_砂_特特大
-100003000 General-purpose blast_general-purpose smoke_large -- 汎用爆風_汎用煙_大
-100003010 General-purpose blast_general-purpose smoke_oversized -- 汎用爆風_汎用煙_特大
-100003020 General-purpose blast_general-purpose smoke_oversized -- 汎用爆風_汎用煙_特特大
-100010000 Suicide -- 自殺
-100020000 Dummy Barrett_0.6 sec -- ダミーバレット_0.6秒
-110002010 Goblin (Born): Stone Action 20_Stone -- ゴブリン（生者）：石　行動20_投石
-110201710 Kingdom Soldier (Dead): Two-Handed Sword Action 22_Flame Vase Throw: Bottle -- 王国兵士（亡者）：両手剣　行動22_火炎壺投げ：瓶
-110201711 Kingdom Soldier (Deceased): Two-Handed Sword Action 22_Flame Vase Throw: Explosion -- 王国兵士（亡者）：両手剣　行動22_火炎壺投げ：爆発
-110204010 Kingdom Soldier (Dead): Bow Action 20_Bow Shooting Weak -- 王国兵士（亡者）：弓　行動20_弓 射撃 弱
-110204110 Kingdom Soldier (Dead): Bow Action 21_Bow Shooting Strong -- 王国兵士（亡者）：弓　行動21_弓 射撃 強
-110211610 Kingdom Soldier (Live Man): Two-Handed Sword: Bow Action 20_Bow Shooting Weak -- 王国兵士（生者）：両手剣：弓　行動20_弓 射撃 弱
-110211710 Kingdom Soldier (Live Man): Two-Handed Sword: Bow Action 21_Bow Shooting Strong -- 王国兵士（生者）：両手剣：弓　行動21_弓 射撃 強
-110211810 Kingdom Soldier (Living Man): Two-Handed Sword: Bow Action 22_Flame Vase Throw -- 王国兵士（生者）：両手剣：弓　行動22_火炎壺投げ
-110211811 Kingdom Soldier (Living Man): Two-Handed Sword: Bow Action 22_Flame Vase Throw_Landing -- 王国兵士（生者）：両手剣：弓　行動22_火炎壺投げ_着弾
-110304010 Lower Soldier (Deceased): Bow Action 20_Bow Strong Shooting -- 下級兵士（亡者）：弓　行動20_弓強射撃
-110305010 Lower Soldier (Deceased): Two-Handed Bow (Fire arrow) Action 20_Fire Arrow Shooting -- 下級兵士（亡者）：両手弓（火矢）　行動20_火矢射撃
-110313010 Lower Soldier (Raw): Bow Action 20_Fire Arrow Shooting -- 下級兵士（生者）：弓　行動20_火矢射撃
-110500110 Fairy Shrine Maiden: Bare Hands Action 11_Prayer -- 妖精の巫女：素手　行動11_祈り
-110501210 Fairy Shrine Maiden: Cane Action 20_Spell Shrine Maiden's Grief -- 妖精の巫女：杖　行動20_スペル 巫女の嘆き
-110501310 Fairy Shrine Maiden: Cane Action 21_Spell Shrine Maiden Temptation_Front -- 妖精の巫女：杖　行動21_スペル 巫女の誘惑_正面
-110501320 Fairy Shrine Maiden: Cane Action 21_Spell Temptation of The Shrine Maiden_Right DiagonalFront -- 妖精の巫女：杖　行動21_スペル 巫女の誘惑_右斜め前
-110501330 Fairy Shrine Maiden: Cane Action 21_Spell Temptation of The Shrine Maiden_Left Diagonal Front -- 妖精の巫女：杖　行動21_スペル 巫女の誘惑_左斜め前
-110600210 Dark Priest Action 12_Defense Rise Miracle -- ダークプリースト　行動12_防御力上昇奇蹟
-110600410 Dark Priest Action 20_Original Miracle: Super Great Recovery -- ダークプリースト　行動20_オリジナル奇蹟：超大回復
-110600510 Dark Priest Action 21_Original Miracle: Blitzball -- ダークプリースト　行動21_オリジナル奇蹟：電撃ボール
-110600520 Dark Priest Action 21_Original Miracle: Blitzball_Division -- ダークプリースト　行動21_オリジナル奇蹟：電撃ボール_分裂
-110600610 Dark Priest Action 22_Miracle: Spear of Thunder -- ダークプリースト　行動22_奇蹟：雷の槍
-110700510 Parasite Spider (Parasitic) Behavior 20_Spider Thread -- パラサイトスパイダー（寄生）　行動20_蜘蛛の糸
-110802010 Rogue: Bow Action 20_ Bow Strong Shooting -- ローグ：弓　行動20_弓強射撃
-111300710 Sailor Action 20_Oil Jar Throwing -- 水兵　行動20_油壷投げ
-111300711 Sailor Action 20_Oil Pot Explosion -- 水兵　行動20_油壷爆発
-111302010 Sailor: Bow Action 20_ Shooting: Weak -- 水兵：弓　行動20_射撃：弱
-111302110 Sailor: Bow Action 21_Shooting: Strong -- 水兵：弓　行動21_射撃：強
-111500210 Dead: Traveler's Clothing ♂: Bare-handed Action 20_ Trash Throwing -- 亡者：旅人の服♂：素手　行動20_ゴミ投げ
-111501110 Dead: Traveler's Clothing ♂: Dagger Action 20_ Trash Throw -- 亡者：旅人の服♂：短剣　行動20_ゴミ投げ
-111800210 Dark Wizard Action 12_Close: Megante (for Damage) -- ダークウィザード　行動12_近距離：メガンテ（ダメージ用）
-111800211 Dark Wizard Action 12_Close: Megante (for Suicide) -- ダークウィザード　行動12_近距離：メガンテ（自殺用）
-111800410 Dark Wizard Action 20_Long Range Shooting: Magic Missile -- ダークウィザード　行動20_遠距離射撃：マジックミサイル
-111800510 Dark Wizard Action 21_Short Range Shooting: Fireframe -- ダークウィザード　行動21_近距離射撃：ファイアフレーム
-111800610 Dark Wizard Action 22_Range Shooting: Magic Snake_Bullet 1 -- ダークウィザード　行動22_範囲射撃：マジックスネーク_弾丸１
-111800611 Dark Wizard Action 22_Range Shooting: Magic Snake_Bullet 2 -- ダークウィザード　行動22_範囲射撃：マジックスネーク_弾丸２
-111800612 Dark Wizard Action 22_Range Shooting: Magic Snake_Bullet 3 -- ダークウィザード　行動22_範囲射撃：マジックスネーク_弾丸３
-111800613 Dark Wizard Action 22_Range Shooting: Magic Snake_Bullet 4 -- ダークウィザード　行動22_範囲射撃：マジックスネーク_弾丸４
-111800614 Dark Wizard Action 22_Range Shooting: Magic Snake_Bullet 5 -- ダークウィザード　行動22_範囲射撃：マジックスネーク_弾丸５
-111800615 Dark Wizard Action 22_Range Shooting: Magic Snake_Bullet 6 -- ダークウィザード　行動22_範囲射撃：マジックスネーク_弾丸６
-111800710 Dark Wizard Action 23_Fireframe -- ダークウィザード　行動23_薙ぎ射撃：ファイアフレーム
-111800810 Dark Wizard Action 24_Multi-Rock: Magic Missile -- ダークウィザード　行動24_マルチロック：マジックミサイル
-111800910 Dark Wizard Action 25_Shooting: Chasing Magic -- ダークウィザード　行動25_射撃：追尾魔法
-111801010 Dark Wizard Action 26_Random Shooting: Litkan_Invisible Firing 1 -- ダークウィザード　行動26_ランダム射撃：リトカン_見えない発射１
-111801020 Dark Wizard Action 26_Random Shooting: Litkan_Invisible Firing 2 -- ダークウィザード　行動26_ランダム射撃：リトカン_見えない発射２
-111801030 Dark Wizard Action 26_Random Shooting: Litkan_Flame -- ダークウィザード　行動26_ランダム射撃：リトカン_炎
-111801110 Dark Wizard Action 13_Byquilt -- ダークウィザード　行動13_バイキルト
-111900020 Lion Black Mage Action 10_Nagi-pay (Dark Art): Bullet -- 獅子黒魔道士　行動10_なぎ払い（闇術）：弾丸
-111900210 Lion Black Mage Action 20_Shooting (Dark Art) -- 獅子黒魔道士　行動20_連射（闇術）
-111900310 Lion Black Mage Action 21_Heavy-jin's Words (Dark Art) -- 獅子黒魔道士　行動21_重鎮の言葉（闇術）
-111900410 Lion Black Mage Action 22_Count of the Dead (Dark Art) -- 獅子黒魔道士　行動22_死者のカウント（闇術）
-111900510 Lion Black Mage Action 23_Wave Cannon -- 獅子黒魔道士　行動23_波動キャノン
-112102220 Giant Lower Soldier (Giant): Poison Action 21_Venom Shooting Poison Ball -- 巨人下級兵士（巨人）：毒　行動21_毒球射撃　毒球
-112102221 Giant Lower Soldier (Giant): Poison Action 21_Venom Shooting Poison Ball Landing -- 巨人下級兵士（巨人）：毒　行動21_毒球射撃　毒球着弾
-112103220 Giant Lower Soldier (Giant): Fire Action 21_Fireball Fire Ball -- 巨人下級兵士（巨人）：火　行動21_火球射撃　火球
-112103221 Giant Lower Soldier (Giant): Fire Action 21_Fireball Shooting Fireball Landing -- 巨人下級兵士（巨人）：火　行動21_火球射撃　火球着弾
-112103320 Giant Lower Soldier (Giant): Fire Action 22_Fireball Shooting_Hammering Fireball -- 巨人下級兵士（巨人）：火　行動22_火球射撃_叩き付け　火球
-112103321 Giant Lower Soldier (Giant): Fire Action 21_Fireball Shooting Fireball Landing -- 巨人下級兵士（巨人）：火　行動21_火球射撃　火球着弾
-112300210 Disfigured Shadow: 2 SwordsTose Action 12_Venom Fog_Parent -- 異形の影：２刀爪　行動12_毒霧_親
-112300220 Deformed Shadow: 2 Swordsnails Action 12_Venom_ Bullet -- 異形の影：２刀爪　行動12_毒霧_弾丸
-112300910 Deformed Shadow: 2 Swords: Use Action 19_ Recovery Drugs -- 異形の影：２刀爪　行動19_回復薬を使う
-112300950 Deformed Shadow: 2 Swords To Action 20_ Throwing Knife -- 異形の影：２刀爪　行動20_投げナイフ
-112300960 Deformed Shadow: 2 Swords: Action 21_ Flame Bottle -- 異形の影：２刀爪　行動21_火炎瓶
-112400510 Assassin: 2 Swords Toss Act 15_Rolling Throw -- 暗殺者：２刀爪　行動15_ローリング投擲
-112401410 Assassin: Dagger Action Action 15_Rolling Throw -- 暗殺者：短剣　行動15_ローリング投擲
-112401710 Assassin: Dagger Action 21_ Throwing Knife: Single Shot -- 暗殺者：短剣　行動21_投げナイフ：単発
-112401810 Assassin: Dagger Action 22_ Throwing Knife: Continuous Strike -- 暗殺者：短剣　行動22_投げナイフ：連打
-112402510 Assassin: Song Sword Action 15_Rolling Throw -- 暗殺者：曲剣　行動15_ローリング投擲
-112402810 Assassin: Song Sword Action 21_ Throwing Knife: Single Shot -- 暗殺者：曲剣　行動21_投げナイフ：単発
-112402910 Assassin: Song Sword Action 22_ Throwing Knife: Continuous Strike -- 暗殺者：曲剣　行動22_投げナイフ：連打
-112403010 Assassin: Bow Action 20_ Bow -- 暗殺者：弓　行動20_弓
-112500210 Undead Civilians: Explosion action 12_ suicide (for damage) -- アンデッド市民：爆発　行動12_自爆（ダメージ用）
-112500211 Undead Civilians: Explosion action 12_ suicide (suicide) -- アンデッド市民：爆発　行動12_自爆（自殺用）
-112501110 Undead Citizen: Poison Action 11_Dash Poison Explosion -- アンデッド市民：毒　行動11_ダッシュ毒爆発
-112502110 Undead Citizen: Acid Action 11_ Dash Acid Explosion -- アンデッド市民：酸　行動11_ダッシュ酸爆発
-112503110 Undead Citizen: Petrified Action 11_Dash Petrified Explosion -- アンデッド市民：石化　行動11_ダッシュ石化爆発
-112504110 Undead Citizen: Normal Action 11_Dash Stone Crushed Explosion -- アンデッド市民：ノーマル　行動11_ダッシュ石つぶて爆発
-112700310 Dead Workers: Barehands Spit Action 20_Guerro -- 死者の労働者：素手　行動20_ゲロを吐く
-112900010 The Keeper of the Forest: Cane Action 20_Strong Seoul Arrow -- 森の番人：杖　行動２０_強いソウルの矢
-112900110 The Keeper of the Forest: Cane Action 21_Floating Soul Mass (Bullet) -- 森の番人：杖　行動２１_浮遊するソウルの塊（弾）
-112900210 The Keeper of the Forest: Cane Action 22_Soul Spear -- 森の番人：杖　行動２２_ソウルの槍
-112900310 The Keeper of the Forest: Cane Action 23_Magical Opening -- 森の番人：杖　行動２３_魔力開放
-112901010 The Keeper of the Forest: Bell The Great Spear of Thunder (Bullet) -- 森の番人：ベル　雷の大槍（弾）
-112901110 The Keeper of the Forest: Bell, The Wrath of God -- 森の番人：ベル　神の怒り
-112901210 The Keeper of the Forest: Bell Action 21_ Unleashing Force (bullet) -- 森の番人：ベル　行動21_放つフォース（弾）
-112901220 The Keeper of the Forest: Bell Action 21_Unleashing Force (Landing) -- 森の番人：ベル　行動21_放つフォース（着弾）
-112901310 The Keeper of the Forest: Bell The Great Magic Protection -- 森の番人：ベル　大魔法防護
-112901410 The Keeper of the Forest: Bell Recovery -- 森の番人：ベル　大回復
-113101010 Cleric: Bell Action 20_Miracle: Medium Recovery -- クレリック：ベル　行動20_奇蹟：中回復
-113101110 Cleric: Bell Action 21_Miracle: The Force -- クレリック：ベル　行動21_奇跡：フォース
-113101210 Cleric: Bell Action 22_Miracle: Life Springs -- クレリック：ベル　行動22_奇蹟：生命湧き
-113101310 Cleric: Bell Action 23_Miracle: Great Spear of Thunder (Bullet) -- クレリック：ベル　行動23_奇跡：雷の大槍（弾）
-113101320 Cleric: Bell Action 23_Miracle: Great Spear of Thunder (Landing) -- クレリック：ベル　行動23_奇跡：雷の大槍（着弾）
-113102010 Cleric: Cane Action 20_Witchcraft: Arrow of Soul -- クレリック：杖　行動20_魔術：ソウルの矢
-113102110 Cleric: Cane Action 21_Magic: The Strong Soul's Taya -- クレリック：杖　行動21_魔術：強いソウルの太矢
-113102210 Cleric: Cane Action 22_Magic: The Arrow of Inducing Soul -- クレリック：杖　行動22_魔術：誘導するソウルの太矢
-113203010 Skeleton: Bow Action 20_ Bow Shooting -- スケルトン：弓　行動20_弓射撃
-113500710 Heavy Dwarf (Dead): Two-Handed Axe x 2 22,23 Axe Throw -- 重ドワーフ（亡者）：両手斧×２　行動22，23斧投げつけ
-113502010 Heavy Dwarf: Crossbow Action 20_ Shooting: Weak -- 重ドワーフ：クロスボウ　行動20_射撃：弱
-113701110 Necromancer: Cane: Shield Action 20_ Flame -- ネクロマンサー：杖：盾　行動20_薙ぎ払う炎
-113701310 Necromancer: Wand: Shield Action 22_ Wave of Fire -- ネクロマンサー：杖：盾　行動22_炎の波
-113701510 Necromancer: Wand: Shield Action 24_ Fog of Death -- ネクロマンサー：杖：盾　行動24_死の霧
-114100610 Strengthened Immortals Action 20_Guerro -- 強化不死人　行動20_ゲロ
-114100611 Strengthened Immortals Action 20_for _SFX -- 強化不死人　行動20_ゲロ_SFX用
-114100710 Strengthened Immortals Action 21_Breath -- 強化不死人　行動21_ブレス
-114600310 Deceased: ♂ the clothes of the wealthy: Dagger action 20_ knife throwing -- 亡者：富裕層の服♂：短剣　行動20_ナイフ投げ
-114900120 Deceased: Steelman Action 11_Banged Shock Wave Floor Search -- 亡者：製鉄所員　行動11_叩きつけ衝撃波用床検索
-114900121 Deceased: Steelman Action 11_Strike Shock Wave -- 亡者：製鉄所員　行動11_叩きつけ衝撃波
-114900340 Deceased: Steelman action 13_3 continuous strike _shockwave floor search -- 亡者：製鉄所員　行動13_３連叩き_衝撃波用床検索
-114900341 Deceased: Steelman action 13_3 continuous strike _shockwave -- 亡者：製鉄所員　行動13_３連叩き_衝撃波
-115201010 Kingdom Warrior: Bow: Action 20_ Crossbow Firing -- 王国兵戦士：弓：行動20_クロスボウ発射
-115201110 Kingdom Soldier Warrior: Bow: Action 21_ Crouching Crossbow Firing -- 王国兵戦士：弓：行動21_しゃがみ　クロスボウ発射
-115201210 Kingdom Warrior: Bow: Action 22_Crossbow Continuous Shooting -- 王国兵戦士：弓：行動22_クロスボウ　連続射撃
-115400610 c1540 Skeleton Aristocracy: Action 20_ Unleash ing the flames of darkness -- c1540 スケルトン貴族：行動20_闇の炎を放つ
-115400710 c1540 Skeleton Aristocracy: Action 21_ Unleashthe Flame of Great Darkness (Strong) -- c1540 スケルトン貴族：行動21_大きな闇の炎を放つ（強）
-115400810 c1540 Skeleton Aristocracy: Action 22_Cane-to-Go Flame -- c1540 スケルトン貴族：行動22_杖からなぎ払う炎
-115400910 c1540 Skeleton Aristocracy: Action 23_ Large Fireball from Wand -- c1540 スケルトン貴族：行動23_杖から大火球
-115400920 c1540 Skeleton aristocracy: Large fireball landing explosion from action 23_ cane -- c1540 スケルトン貴族：行動23_杖から大火球　着弾爆発
-120300610 Parasite Spider Action 20_Spider Thread -- パラサイトスパイダー　行動20_蜘蛛の糸
-120400010 Great Moss Action 10_Scales_Right Feathers -- グレートモス　行動10_鱗粉_右羽
-120400011 Great Moss Action 10_Scales_Left Feather -- グレートモス　行動10_鱗粉_左羽
-120400210 Great Moss Action 12_Scales_Right Feathers -- グレートモス　行動12_鱗粉_右羽
-120400211 Great Moss Action 12_Scales_Left Feather -- グレートモス　行動12_鱗粉_左羽
-120500110 Poison Hornworm: Poison Behavior 20_Random Shooting -- 毒角虫：毒　行動20_ランダム射撃
-120500210 Poison Horn: Poison Action 21_Rain Shooting -- 毒角虫：毒　行動21_雨射撃
-120500211 Poison Horn: Poison Action 21_Rain Shooting_Child -- 毒角虫：毒　行動21_雨射撃_子
-120500310 Poison Hornworm: Poison Behavior 22_Range Shooting _SFX -- 毒角虫：毒　行動22_範囲射撃_SFX用
-120500320 Poison Horn: Poison Behavior 22_Range Shooting_Body -- 毒角虫：毒　行動22_範囲射撃_本体
-120500321 Poison Hornworm: Poison Behavior 22_ Range Shooting_ Body_ After Extending -- 毒角虫：毒　行動22_範囲射撃_本体_拡張後
-120510110 Acid Hornworm: Acid Behavior 20_Random Shooting -- 酸角虫：酸　行動20_ランダム射撃
-120510210 Acid Hornworm: Acid Action 21_Rain Shooting -- 酸角虫：酸　行動21_雨射撃
-120510211 Acid hornworm: Acid Action 21_Rain Shooting_Child -- 酸角虫：酸　行動21_雨射撃_子
-120510310 Acid hornworm: Acid action 22_range shooting _SFX -- 酸角虫：酸　行動22_範囲射撃_SFX用
-120510320 Acid hornworm: Acid Action 22_Range Shooting_Body -- 酸角虫：酸　行動22_範囲射撃_本体
-120510321 Acid hornworm: Acid action 22_ range shooting_body_ after expansion -- 酸角虫：酸　行動22_範囲射撃_本体_拡張後
-120900710 hunting dog action twenty_flame -- 狩猟犬　行動20_火炎
-120900810 hunting dog behavior 21_poison -- 狩猟犬　行動21_毒
-121000310 Basilisk Action 20_Petrified Gas: Weak Gas Parents -- バジリスク　行動20_石化ガス：弱_ガス親
-121000320 Basilisk Action 20_Petrified Gas: For SFX -- バジリスク　行動20_石化ガス：SFX用
-121000330 Basilisk Action 20_Petrified Gas: Weak_Gas Landing 2 -- バジリスク　行動20_石化ガス：弱_ガス着弾２
-121000410 Basilisk Action 21_Petrified Gas: Back_Gas Bullet -- バジリスク　行動21_石化ガス：バック_ガス弾
-121000420 Basilisk Action 21_Petrified Gas: Back_Gas landing -- バジリスク　行動21_石化ガス：バック_ガス着弾
-121000430 Basilisk Action 21_Petrified Gas: Back_Gas landing -- バジリスク　行動21_石化ガス：バック_ガス着弾
-121000510 Basilisk Action 22_Petrified Gas: Jump_Gas Parent -- バジリスク　行動22_石化ガス：飛びつき_ガス親
-121000530 Basilisk Action 22_Petrified Gas: Jump_Gasper 1 -- バジリスク　行動22_石化ガス：飛びつき_ガス子１
-121000540 Basilisk Action 22_Petrified Gas: Jump_Gascous 2 -- バジリスク　行動22_石化ガス：飛びつき_ガス子２
-121000610 Basilisk Action 23_Petrified Gas: Back_Gas Bullet -- バジリスク　行動23_石化ガス：バック_ガス弾
-121000630 Basilisk Action 23_Petrified Gas: Back_Gas landing -- バジリスク　行動23_石化ガス：バック_ガス着弾
-121000640 Basilisk Action 23_Petrified Gas: Back_Gas landing -- バジリスク　行動23_石化ガス：バック_ガス着弾
-121200210 c2120 Wyburn Action 8 Kagobres Parents -- c2120 ワイバーン　行動8　カゴブレス　親
-121200220 c2120 Wyburn Action 8 Kagobres Child Center 1 -- c2120 ワイバーン　行動8　カゴブレス　子　中心１つ
-121200221 c2120 Wyburn Action 8 Kagobres Child 6 connections around -- c2120 ワイバーン　行動8　カゴブレス　子　周囲６つ繋ぎ
-121200222 c2120 Wyburn Action 8 Kagobres Child 6 body -- c2120 ワイバーン　行動8　カゴブレス　子　周囲６つ本体
-121200230 c2120 Wyburn Action 8 Kagobures Parental Appearance Only -- c2120 ワイバーン　行動8　カゴブレス　親の見た目のみ
-121201110 c2120 Wyburn Action 20 Feet Breath Parent -- c2120 ワイバーン　行動20　足元ブレス　親
-121201120 c2120 Wyburn Action 20 Foot Breath Child Center 1 -- c2120 ワイバーン　行動20　足元ブレス　子　中心１つ
-121201121 c2120 Wyburn Action 20 Foot Breath Child 6 connections around -- c2120 ワイバーン　行動20　足元ブレス　子　周囲６つ繋ぎ
-121201122 c2120 Wyburn Action 20 Foot Breath Child Surrounding Body -- c2120 ワイバーン　行動20　足元ブレス　子　周囲６つ本体
-121201130 c2120 Wyburn Action 20 Feet Breath for eye-catching rate -- c2120 ワイバーン　行動20　足元ブレス　見た目引率用
-121201210 c2120 Wyburn Action 21 Weak Breath Fundamental -- c2120 ワイバーン　行動21　弱ブレス　根本
-121201211 c2120 Wyburn Action 21 Weak Breath Middle -- c2120 ワイバーン　行動21　弱ブレス　真ん中
-121201212 c2120 Wyburn Action 21 Weak Breath Tip -- c2120 ワイバーン　行動21　弱ブレス　先端
-121201310 c2120 Wyburn Action 22 Strong Breath Fundamental -- c2120 ワイバーン　行動22　強ブレス　根本
-121201311 c2120 Wyburn Action 22 Strong Breath Middle -- c2120 ワイバーン　行動22　強ブレス　真ん中
-121201312 c2120 Wyburn Action 22 Strong Breath Tip -- c2120 ワイバーン　行動22　強ブレス　先端
-121201410 c2120 Wyburn Action 23 Range Breath Fundamental -- c2120 ワイバーン　行動23　範囲ブレス　根本
-121201411 c2120 Wyburn Action 23 Range Breath Middle -- c2120 ワイバーン　行動23　範囲ブレス　真ん中
-121201412 c2120 Wyburn Action 23 Range Breath Tip -- c2120 ワイバーン　行動23　範囲ブレス　先端
-121201510 c2120 Wyburn Action 24 Flying Breath Parents -- c2120 ワイバーン　行動24　飛越ブレス　親
-121201520 c2120 Wyburn Action 24 Hikoshi Breath Child Center 1 -- c2120 ワイバーン　行動24　飛越ブレス　子　中心１つ
-121201521 c2120 Wyburn Action 24 Hikoshi Breath Child 6 connections around -- c2120 ワイバーン　行動24　飛越ブレス　子　周囲６つ繋ぎ
-121201522 c2120 Wyburn Action 24 Hikoshi Breath Child Surrounding 6 Body -- c2120 ワイバーン　行動24　飛越ブレス　子　周囲６つ本体
-121201530 c2120 Wyburn Action 24 Flyover Breath for eye-catching rate -- c2120 ワイバーン　行動24　飛越ブレス　見た目引率用
-121201610 c2120 Wyburn_Action 25_Back step large fireball parent -- c2120 ワイバーン＿行動25_バックステップ大火球　親
-121201611 c2120 Wyburn_Action 25_Back step large fireball child -- c2120 ワイバーン＿行動25_バックステップ大火球　子
-121201710 c2120 Wyburn_Action 17_Blast -- c2120 ワイバーン＿行動17＿爆風
-121400000 Stone Defense: Explosion Action 20_ Explosion -- 石守：爆発　行動20_爆発
-122000310 Giant Poison Horn: Poison Action 15_ Dash Shooting -- 巨大毒角虫：毒　行動15_ダッシュ射撃
-122000410 Giant Poison Horn: Poison Action 22_ Rain Shooting -- 巨大毒角虫：毒　行動22_雨射撃
-122000411 Giant Poison Horn: Poison Action 22_Rain Shooting_Child -- 巨大毒角虫：毒　行動22_雨射撃_子
-122000510 Giant VenomOus Worm: Poison Behavior 23_Range For Breath Shooting _SFX -- 巨大毒角虫：毒　行動23_範囲ブレス射撃_SFX用
-122000520 Giant Poison Horn: Poison Action 23_Range Breath Shooting_Body -- 巨大毒角虫：毒　行動23_範囲ブレス射撃_本体
-122200410 Giant Basilisk Action 20_Petrified Gas: Surrounding_Gas Parent -- 巨大バジリスク　行動20_石化ガス：周囲_ガス親
-122200420 Giant Basilisk Action 20_Petrified Gas: For _SFX Surrounding Gas -- 巨大バジリスク　行動20_石化ガス：周囲_ガス弾_SFX用
-122200430 Giant Basilisk Action 20_Petrified Gas: Ambient_Gas Landing 2 -- 巨大バジリスク　行動20_石化ガス：周囲_ガス着弾２
-122200510 Giant Basilisk Action 21_Petrified Gas: Long Distance_Gas Parent -- 巨大バジリスク　行動21_石化ガス：遠距離_ガス親
-122200520 Giant Basilisk Action 21_Petrified Gas: Long Distance_Gas Landing 1 -- 巨大バジリスク　行動21_石化ガス：遠距離_ガス着弾１
-122200530 Giant Basilisk Action 21_Petrified Gas: Long Distance_Gas Landing 2 -- 巨大バジリスク　行動21_石化ガス：遠距離_ガス着弾２
-122200610 Giant Basilisk Action 22_Petrified Gas: Back_Gas -- 巨大バジリスク　行動22_石化ガス：バック_ガス
-122200620 Giant Basilisk Action 22_Petrified Gas: Back_Gas landing 1 -- 巨大バジリスク　行動22_石化ガス：バック_ガス着弾１
-122200630 Giant Basilisk Action 22_Petrified Gas: Back_Gas Landing 2 -- 巨大バジリスク　行動22_石化ガス：バック_ガス着弾２
-122350000 c6280 Giant rat blast dummy -- c6280 巨大ネズミ 爆風用ダミー
-122351710 c6280 Giant Rat Action 20 Blood Spitting Body -- c6280 巨大ネズミ 行動20　血を吐く　本体
-122351711 c6280 Giant rat action 20 for eye-catching rate to exhale blood -- c6280 巨大ネズミ 行動20　血を吐く　見た目引率用
-122351712 c6280 Giant rat action 20 blood-spitting mouth for eye-catching rate -- c6280 巨大ネズミ 行動20　血を吐く　口元　見た目引率用
-130000410 Auger Action 20_Gep -- オーガ　行動20_ゲップ
-130000411 Auger Action 20_Gep_Child -- オーガ　行動20_ゲップ_子
-130000510 Auger Action 21_Anti-Sus -- オーガ　行動21_反すう
-130200310 Prison Man Action 20_Fireball -- 獄吏　行動20_火球
-130200320 prison man action 20_fireball_landing -- 獄吏　行動20_火球_着弾
-130500000 c3050 Demon Knight ignites your stomach -- c3050 デーモンナイト　お腹に点火
-130500001 c3050 Demon Knight Ignites Sword -- c3050 デーモンナイト　剣に点火
-130500040 c3050 Daemon Knight Action 10_3stage derivation_explosion -- c3050 デーモンナイト　行動10_３段目派生_爆発
-130500320 c3050 Daemon Knight Action 13_ Explosion -- c3050 デーモンナイト　行動13_爆発
-130501040 c3050 Daemon Knight Action 10_3stage derivation_explosion -- c3050 デーモンナイト　行動10_３段目派生_爆発
-130501051 c3050 Daemon Night: Ignition Action 10_Nagi-payment Combo_3th Stage Derivation_Flame Wave -- c3050 デーモンナイト：点火　行動10_なぎ払いコンボ_3段目派生_薙ぎ払い_炎波
-130501053 c3050 Daemon Knight: Ignition Action 10_Nagipayment Combo_3Th Stage Derivation_Flame Wave Child -- c3050 デーモンナイト：点火　行動10_なぎ払いコンボ_3段目派生_炎波 子
-130501054 c3050 Daemon Night: Ignition Action 10_Nagi-pay combo_3stage derivation_flame wave grandson -- c3050 デーモンナイト：点火　行動10_なぎ払いコンボ_3段目派生_炎波　孫
-130501111 c3050 Demon Night: Ignition Action 11_Two-Handed Slap_Flame Wave -- c3050 デーモンナイト：点火　行動11_両手叩き付け_炎波
-130501113 c3050 Daemon Knight: Ignition Action 11_Flame Wave_Child -- c3050 デーモンナイト：点火　行動11_炎波_子
-130501114 c3050 Damon Knight: Ignition Action 11_Flame Wave_Grandson -- c3050 デーモンナイト：点火　行動11_炎波_孫
-130501320 c3050 Daemon Knight Action 13_ Explosion -- c3050 デーモンナイト　行動13_爆発
-130600710 Demon Armor Action 20_Bow Shooting: Strong -- デーモン鎧　行動20_弓射撃：強
-130970121 c3097 Giant King's Life_Action 10_Combo 2-2 Shockwave (Floor Search) -- c3097 巨人王生者＿行動10_コンボ2-2　衝撃波（床検索）
-130970122 c3097 Giant King's Life_Action 10_Combo 2-2 Shockwave Damage -- c3097 巨人王生者＿行動10_コンボ2-2　衝撃波　ダメージ
-130970231 c3097 Giant King's Life_Action 11_Combo 3-2 Shockwave (Floor Search) -- c3097 巨人王生者＿行動11_コンボ3-2　衝撃波（床検索）
-130970232 c3097 Giant King's Life_Action 11_Combo 3-2 Shockwave Damage -- c3097 巨人王生者＿行動11_コンボ3-2　衝撃波　ダメージ
-130970411 c3097 Giant King's Man_Action 13_Trampled Right Foot Blast -- c3097 巨人王生者＿行動13_踏み付け　右足爆風
-130970511 c3097 Giant King_Action 14_Trampled Left Foot Blast -- c3097 巨人王生者＿行動14_踏み付け　左足爆風
-130970620 c3097 Giant King's Life_Action 15_Shockwave (for floor search generation) -- c3097 巨人王生者＿行動15_衝撃波（床検索生成用）
-130970621 c3097 Giant King_Action 15_Shockwave Damage -- c3097 巨人王生者＿行動15_衝撃波　ダメージ
-130970622 c3097 Giant King's Life_Action 15_Shockwave (Floor Search) -- c3097 巨人王生者＿行動15_衝撃波（床検索）
-131100120 Cavalry: Cavalry Soldier Action 11_Giant Strong Punch_Deadly Dark Spell -- 騎人兵：騎乗兵士　行動11_巨人強パンチ_必殺闇スペル
-131302010 Falcon Warrior: Bow Action 20_Bow Shooting -- 鷹匠戦士：弓　行動20_弓射撃
-131302110 Falcon Warrior: Bow Action 21_Precision Shooting -- 鷹匠戦士：弓　行動21_精密射撃
-131600320 Captured Magician Action 13_Fan-si-gi: Large fire (directing) -- 捕らわれた魔導士　行動13_扇薙ぎ：大発火（演出）
-131600321 Captured Magician Action 13_Fan-si-gi- Large fire (damage) -- 捕らわれた魔導士　行動13_扇薙ぎ：大発火（ダメージ）
-131601020 Captured Magician Action 20_Dark Bomb -- 捕らわれた魔導士　行動20_闇爆弾
-131601030 Captured Magician Action 20_Dark Bomb_Landing -- 捕らわれた魔導士　行動20_闇爆弾_着弾
-131601110 Captured Magician Action 21_Seduction Bullet -- 捕らわれた魔導士　行動21_誘惑弾
-131601120 Captured Magician Action 21_Seduction Bullet_Explosion -- 捕らわれた魔導士　行動21_誘惑弾_爆発
-131700310 Dragon Professor Action 20_Vase Throwing -- 龍の教授　行動20_壺投げ
-131700320 Dragon Professor Action 20_Vase Throwing_Landing -- 龍の教授　行動20_壺投げ_着弾
-131800720 c3180 Bay Grant Action 20_Shock Breaking Blade_Shock Breaking -- ｃ3180 ベイグラント　行動20_衝撃破ブレード_衝撃破
-131801100 c3180 Bay Grant Generic_Curse Funnel 5 shots ver -- ｃ3180 ベイグラント　汎用_呪いファンネル　5発ver
-131801101 c3180 Bay Grant Generic_Curse Funnel 3 shots ver -- ｃ3180 ベイグラント　汎用_呪いファンネル　3発ver
-131900710 Daemon Armor: Mass Production Action 20_Bow Shooting: Weak -- デーモン鎧：量産型　行動20_弓射撃：弱
-131900810 Daemon Armor: Mass Production Action 21_Bow Shooting: Strong -- デーモン鎧：量産型　行動21_弓射撃：強
-132100410 [] Mic action 20_phlegm attack -- ν－ミミック　行動20_痰攻撃
-132100420 [mimic action 20_phlegm attack_ landing -- ν－ミミック　行動20_痰攻撃_着弾
-132400710 c3240 Gargoil Action 20_Breath A -- c3240 ガーゴイル　行動20_ブレスA
-132400810 c3240 Gargoil Action 21_Breath B -- c3240 ガーゴイル　行動21_ブレスB
-132400910 c3240 Gargoil Action 22_Lightning_Charged -- c3240 ガーゴイル　行動22_雷_帯電
-132400920 c3240 Gargoil Action 22_Lightning_Bullet -- c3240 ガーゴイル　行動22_雷_本弾丸
-132400921 c3240 Gargoil Action 22_Lightning_Tracking Bullet -- c3240 ガーゴイル　行動22_雷_追尾弾
-132401010 c3240 Gargoil Action 23 Jump Breath -- c3240 ガーゴイル　行動23ジャンプブレス
-132500910 c3250 Warrior in the mirror action 20_shield throwing -- c3250 鏡の中の戦士　行動20_盾投げ
-132500911 c3250 Warrior in the mirror action 20_shield throwing (without SFX) -- c3250 鏡の中の戦士　行動20_盾投げ(SFXなし)
-132600000 c3260 Butcher Generic Dummy Barrett -- c3260 ブッチャー　汎用ダミーバレット
-132600001 c3260 butcher action 0_right barrett -- c3260 ブッチャー　行動0_右バレット
-132600002 c3260 Butcher Action 0_Left Barrett -- c3260 ブッチャー　行動0_左バレット
-132600320 c3260 Butcher Action 13_Air -- c3260 ブッチャー　行動13_瘴気　手前
-132600321 c3260 Butcher Action 13_Air (for SFX) -- c3260 ブッチャー　行動13_瘴気（SFX用）
-132600322 c3260 Butcher Action 13_Air -- c3260 ブッチャー　行動13_瘴気　奥
-132600910 c3260 Butcher Action 22_Tar Vomit -- c3260 ブッチャー　行動22_タール吐き
-132601010 c3260 Butcher Action 23_Air -- c3260 ブッチャー　行動23_瘴気
-133100410 Demon Heavy Warrior: Two-Handed Sword Action 20_Spell Sword -- デーモン重戦士：両手剣　行動20_スペル剣
-133300910 c3330 Queen Knight B Action 20 Evil Spirit parents -- c3330 王妃の騎士B　行動20　悪霊　親
-133400910 c3340 Queen Knight C Action 20 Self-centered explosion -- c3340 王妃の騎士C　行動20　自己中心爆発
-133401020 c3340 Queen Knight C Action 21 Magic Bullet -- c3340 王妃の騎士C　行動21　魔法弾
-150000211 c5000 Javazahat Action 9_Blast -- c5000 ジャバザハット　行動9_爆風
-150000212 c5000 Javazahat Action 9_Blast _SFX Lead_Barrel -- c5000 ジャバザハット　行動9_爆風_SFX引率用_胴
-150001210 c5000 Javaza hat Action 20_Rumination -- c5000 ジャバザハット　行動20_反芻
-150100710 c5010 Nag action 20_magic spear -- c5010 ナーガ　行動20_魔術の槍
-150100810 c5010 nag action 21_snake-like stuff_parent -- c5010 ナーガ　行動21_ヘビっぽいもの_親
-150100811 　c5010 Nag action 21_snake-like child -- 　c5010 ナーガ　行動21_ヘビっぽいもの　子
-150100812 　c5010 Nag action 21_snake-like child -- 　c5010 ナーガ　行動21_ヘビっぽいもの　子
-150100813 　c5010 nag action 21_snakeish one grandson one -- 　c5010 ナーガ　行動21_ヘビっぽいもの　孫1
-150100814 　c5010 Nag action 21_snakeish stuff grandson 2 -- 　c5010 ナーガ　行動21_ヘビっぽいもの　孫2
-150100815 　c5010 Nag action 21_snakeish one grandson 3 -- 　c5010 ナーガ　行動21_ヘビっぽいもの　孫3
-150100816 　c5010 Nag action 21_snakeish one grandson 4 -- 　c5010 ナーガ　行動21_ヘビっぽいもの　孫4
-150100817 　c5010 Nag action 21_snakeish one grandson 5 -- 　c5010 ナーガ　行動21_ヘビっぽいもの　孫5
-150100818 　c5010 Nag action 21_snakeish one grandson 6 -- 　c5010 ナーガ　行動21_ヘビっぽいもの　孫6
-150100819 c5010 nag action 21_snakey thing straight -- c5010 ナーガ　行動21_ヘビっぽいもの　直線
-150100910 c5010 Nag action throw 22_ face -- c5010 ナーガ　行動22_顔を投げる
-150100911 c5010 Nag action 22_floor face -- c5010 ナーガ　行動22_床の顔
-150100912 c5010 Nag action 22_face explosion -- c5010 ナーガ　行動22_顔爆発
-150100913 c5010 Nag Action 22_Floor Face 2 -- c5010 ナーガ　行動22_床の顔2
-150300010 c5030 Mance Woman Action 1_Magic Spear -- c5030 マンス女　行動1_魔術の槍
-150300110 c5030 Mance Woman Action 2_Spreading Magic Spear -- c5030 マンス女　行動2_拡散する魔術の槍
-150301110 c5030 Mance Woman Action 20_Magic Spear -- c5030 マンス女　行動20_魔術の槍
-150301210 c5030 Mance Woman Action 21_Floating Magic Ball 1 -- c5030 マンス女　行動21_浮遊する魔法球１
-150301211 c5030 Mance Woman Action 21_Floating Magic Ball 2 -- c5030 マンス女　行動21_浮遊する魔法球２
-150301212 c5030 Mance Woman Action 21_Floating Magic Ball 3 -- c5030 マンス女　行動21_浮遊する魔法球３
-150301213 c5030 Mance Woman Action 21_Floating Magic Ball 4 -- c5030 マンス女　行動21_浮遊する魔法球４
-150301214 c5030 Mance Woman Action 21_Floating Magic Ball 5 -- c5030 マンス女　行動21_浮遊する魔法球５
-150301220 c5030 Mance Woman Action 21_Floating Magic Ball Child Barrett -- c5030 マンス女　行動21_浮遊する魔法球　子バレット
-150400820 c5040 Mirror Knight Combo 5_ThunderBreak: Rotating Slash_Bullet -- c5040 ミラーナイト　コンボ５_サンダーブレイク：回転斬り_弾丸
-150400840 c5040 Mirror Knight Combo 6_ThunderBreak: Vertical_ Bullet -- c5040 ミラーナイト　コンボ６_サンダーブレイク：縦_弾丸
-150400841 c5040 Mirror Knight Combo 6_ThunderBreak: Vertical_Bullet 2 -- c5040 ミラーナイト　コンボ６_サンダーブレイク：縦_弾丸2
-150400842 c5040 Mirror Knight Combo 6_ThunderBreak: Vertical_Bullet 3 -- c5040 ミラーナイト　コンボ６_サンダーブレイク：縦_弾丸3
-150400843 c5040 Mirror Knight Combo 6_ThunderBreak: Vertical_Bullet 4 -- c5040 ミラーナイト　コンボ６_サンダーブレイク：縦_弾丸4
-150400844 c5040 Mirror Knight Combo 6_ThunderBreak: Vertical_Bullet 5 -- c5040 ミラーナイト　コンボ６_サンダーブレイク：縦_弾丸5
-150400845 c5040 Mirror Knight Combo 6_ThunderBreak: Vertical_Bullet 6 -- c5040 ミラーナイト　コンボ６_サンダーブレイク：縦_弾丸6
-150400860 c5040 Mirror Knight Combo 7_ThunderBreak: Horizontal_Bullet -- c5040 ミラーナイト　コンボ７_サンダーブレイク：横_弾丸
-150400870 c5040 Mirror Knight Combo 7_ThunderBreak: Lightning Strike_ Parent -- c5040 ミラーナイト　コンボ７_サンダーブレイク：落雷_親
-150400871 c5040 Mirror Knight Combo 7_ThunderBreak: Lightning Blade -- c5040 ミラーナイト　コンボ７_サンダーブレイク：落雷_ブレード
-150400872 c5040 Mirror Knight Combo 7_ThunderBreak: Lightning_ Lightning Tip -- c5040 ミラーナイト　コンボ７_サンダーブレイク：落雷_雷先端
-150400873 c5040 Mirror Knight Combo 7_ThunderBreak: Lightning_ Lightning Center -- c5040 ミラーナイト　コンボ７_サンダーブレイク：落雷_雷中央
-150400930 c5040 Mirror Knight Mirroring Generic: Glass Debris -- c5040 ミラーナイト　ミラーリング汎用：ガラス破片
-150610001 c5061 Aga Stand General Purpose Wormhole Generation -- c5061 アガスタンド　汎用　ワームホール生成
-150610002 c5061 Aga Stand Action 1 Mass of Magic Energy -- c5061 アガスタンド　行動1 魔術のエネルギーの塊
-150610003 c5061 Aga Stand Action 2 Spear of Magic (Strong) -- c5061 アガスタンド　行動2 魔術の槍（強）
-150610005 c5061 Aga Stand Action 3 Warp SFX -- c5061 アガスタンド　行動3　ワープ用SFX
-150610210 c5061 Aga Stand Action 12 Beam from above -- c5061 アガスタンド　行動12　上空からビーム
-150610310 c5061 Aga Stand Action 20 Spear of Magic (Weak) -- c5061 アガスタンド　行動20　魔術の槍（弱）
-150610410 c5061 Aga Stand_Action 21 Meteorite from Hall (for SFX) -- c5061 アガスタンド＿行動21　ホールから隕石（SFX用）
-150610411 c5061 Aga Stand_Action 21 Meteorite from Hole Meteorite -- c5061 アガスタンド＿行動21　ホールから隕石　隕石
-150610412 c5061 Aga Stand_Action 21 Meteorite from Hall Meteorite -- c5061 アガスタンド＿行動21　ホールから隕石　隕石　本命
-150610510 c5061 Aga Stand_Action 22 Explosion of Witchcraft -- c5061 アガスタンド＿行動22　魔術の爆発
-150620000 c5062 Wormhole for self-generation -- c5062 ワームホール　自己生成用
-150620010 c5062 Wormhole Action 20 Shooting -- c5062 ワームホール　行動20　射撃
-150620110 c5062 Wormhole Action 21 Shooting (Strong) -- c5062 ワームホール　行動21　射撃（強）
-150620200 c5062 Wormhole Action 20, 21 Shooting Explosion -- c5062 ワームホール　行動20、21　射撃　爆発
-150650710 Tomb Guard Agaduran Action 20_Triple Spell (Dark Art) 1st Stage -- 墓守 アガドゥラン　行動20_トリプルスペル（闇術）１段目
-150650720 Tomb Guard Agaduran Action 20_Triple Spell (Dark Art) 2nd Stage -- 墓守 アガドゥラン　行動20_トリプルスペル（闇術）２段目
-150650730 Tomb Guard Agaduran Action 20_Triple Spell (Dark Art) 3rd Stage -- 墓守 アガドゥラン　行動20_トリプルスペル（闇術）３段目
-150650810 Tomb Guard Agaduran Action 22_Black Lightning (Dark Art) -- 墓守 アガドゥラン　行動22_黒い稲妻（闇術）
-150800010 Leith Action 20_Abyss Kraken -- レイス　行動20_アビス・クラーケン
-150800110 Leith Action 21_Inferniti Gun -- レイス　行動21_インフェルニティ・ガン
-150800210 Wraith Action 22_Evil Blast -- レイス　行動22_イービル・ブラスト
-150800310 Wraith Action 23_Dark Shade -- レイス　行動23_ダークシェイド
-150800410 Reis Action 24_Sphere bomb -- レイス　行動24_スフィアボム
-150900210 Dark Bishop Action 20_Dark Art-Demon: Fog of Darkness (Search for Location) -- ダークビショップ　行動20_闇術-魔：闇の霧（位置検索）
-150900220 Dark Bishop Action 20_Dark Art - Fog of Darkness (Stagnant) -- ダークビショップ　行動20_闇術-闇の霧（その場停滞）
-150900310 Dark Bishop Action 21_Miracle: The Great Spear of Thunder (Bullet) -- ダークビショップ　行動21_奇蹟：雷の大槍（弾）
-150900410 Dark Bishop Action 23_Dark Art-Demon: Mourners -- ダークビショップ　行動23_闇術-魔：追う者たち
-150900510 Dark Bishop Action 24_Magic: Storm of Chaos (Parent) -- ダークビショップ　行動24_呪術：混沌の嵐（親）
-150900511 Dark Bishop Action 24_Magic: Storm of Chaos (Location Search) -- ダークビショップ　行動24_呪術：混沌の嵐（位置検索）
-150900512 Dark Bishop Action 24_Magic: Storm of Chaos (Light Source) -- ダークビショップ　行動24_呪術：混沌の嵐（光源）
-150900513 Dark Bishop Action 24_Magic: Storm of Chaos (Light Source: Attach) -- ダークビショップ　行動24_呪術：混沌の嵐（光源：アタッチ）
-150900520 Dark Bishop Action 24_Magic: Storm of Chaos (Floor Search) -- ダークビショップ　行動24_呪術：混沌の嵐（床検索）
-150900530 Dark Bishop Action 24_Magic: Storm of Chaos (Pillar of Fire) -- ダークビショップ　行動24_呪術：混沌の嵐（火柱）
-150900540 Dark Bishop Action 24_Magic: Storm of Chaos (Lava) -- ダークビショップ　行動24_呪術：混沌の嵐（溶岩）
-150900610 Dark Bishop Action 25_Dark Art- Bizarre: Self-Centered Typhoon -- ダークビショップ　行動25_闇術-奇：自己中心台風
-150900710 Dark Bishop Action 26_Magic: The Arrow of Magic That Explodes (Body) -- ダークビショップ　行動26_魔術：爆発する魔力の矢（本体）
-150900720 Dark Bishop Action 26_Magic: The Arrow of Magic That Explodes (Bullet) -- ダークビショップ　行動26_魔術：爆発する魔力の矢（弾）
-151200310 Phantom Mage Action 21_Strong Soul Arrow -- ファントムメイジ　行動21_強いソウルの矢
-151200311 Phantom Mage Action 22_Strong Soul Arrow -- ファントムメイジ　行動22_強いソウルの矢
-151200312 Phantom Mage Action 22_Strong Soul Arrow -- ファントムメイジ　行動22_強いソウルの矢
-151200320 Phantom Mage Action 22_Strong Soul Arrow -- ファントムメイジ　行動22_強いソウルの矢
-151200321 Phantom Mage Action 22_Strong Soul Arrow -- ファントムメイジ　行動22_強いソウルの矢
-151200322 Phantom Mage Action 22_Strong Soul Arrow -- ファントムメイジ　行動22_強いソウルの矢
-151200323 Phantom Mage Action 22_Strong Soul Arrow -- ファントムメイジ　行動22_強いソウルの矢
-151200410 Phantom Mage Action 22_Small Chaotic Storm (Location Search) -- ファントムメイジ　行動22_小型混沌の嵐（位置検索）
-151200420 Phantom Mage Action 23_Storm of Chaos (Floor Search) -- ファントムメイジ　行動23_混沌の嵐（床検索）
-151200430 Phantom Mage Action 23_Storm of Chaos (Pillar of Fire) -- ファントムメイジ　行動23_混沌の嵐（火柱）
-151200440 Phantom Mage Action 23_Storm of Chaos (Pillar of Fire) -- ファントムメイジ　行動23_混沌の嵐（火柱）
-151200510 Phantom Mage Action 24_Chaos Of The Great Fireball (Bullet) -- ファントムメイジ　行動24_混沌の大火球（弾）
-151200520 Phantom Mage Action 24_Chaos Of The Great Fire Ball (Landing) -- ファントムメイジ　行動24_混沌の大火球（着弾）
-151200530 Phantom Mage Action 24_Chaos Of Large Fireball (Lava Floor Search) -- ファントムメイジ　行動24_混沌の大火球（溶岩床検索）
-151200540 Phantom Mage Action 24_Chaos Of Great Fire Ball (Lava) -- ファントムメイジ　行動24_混沌の大火球（溶岩）
-151200610 Phantom Mage Action 20_ Attack Power Rise Magic -- ファントムメイジ　行動20_攻撃力上昇魔法
-151460610 c5146 Old King Action 20_Curse bullet -- c5146 年老いた王　行動20_呪いの弾
-160000000 Old Dragon General Purpose_Blast -- 古の龍　汎用＿爆風
-160000610 Old Dragon Action 20 Breath Fundamental -- 古の龍　行動20　ブレス　根本
-160000611 Old Dragon Action 20 Breath Middle -- 古の龍　行動20　ブレス　真ん中
-160000612 Old Dragon Action 20 Breath Tip -- 古の龍　行動20　ブレス　先端
-160000613 Old Dragon Action 20 For Breath SFX Lead -- 古の龍　行動20　ブレス　SFX引率用
-160000620 Old Dragon Action 21 Breath Nemoto -- 古の龍　行動21　ブレス　根本
-160000621 Old Dragon Action 21 Breath Middle -- 古の龍　行動21　ブレス　真ん中
-160000622 Old Dragon Action 21 Breath Tip -- 古の龍　行動21　ブレス　先端
-160000623 Old Dragon Action 21 For Breath SFX Lead -- 古の龍　行動21　ブレス　SFX引率用
-160000630 Old Dragon Action 22 Breath Nemoto -- 古の龍　行動22　ブレス　根本
-160000631 Old Dragon Action 22 Breath Middle -- 古の龍　行動22　ブレス　真ん中
-160000632 Old Dragon Action 22 Breath Tip -- 古の龍　行動22　ブレス　先端
-160000633 Old Dragon Action 22 For Breath SFX Lead -- 古の龍　行動22　ブレス　SFX引率用
-160000710 Old Dragon Action 23 Breath Spreading Flame -- 古の龍　行動23　ブレス　拡がる炎
-160000711 Old Dragon Action 23 Breath for Mouth SFX Lead -- 古の龍　行動23　ブレス　口元SFX引率用
-160000712 Old Dragon Action 23 Breath for Spreading SFX Lead -- 古の龍　行動23　ブレス　拡がるSFX引率用
-160000720 Old Dragon Action 24 Breath Spreading Flame -- 古の龍　行動24　ブレス　拡がる炎
-160000721 Old Dragon Action 24 Breath for Mouth SFX Lead -- 古の龍　行動24　ブレス　口元SFX引率用
-160000722 Old Dragon Action 24 Breath for Spreading SFX Lead -- 古の龍　行動24　ブレス　拡がるSFX引率用
-160000730 Old Dragon Action 25 Breath Spreading Flame -- 古の龍　行動25　ブレス　拡がる炎
-160000731 Old Dragon Action 25 Breath for Mouth SFX Lead -- 古の龍　行動25　ブレス　口元SFX引率用
-160000732 Old Dragon Action 25 Breath for Spreading SFX Lead -- 古の龍　行動25　ブレス　拡がるSFX引率用
-160000740 Old Dragon Action 26 Breath Spreading Flame -- 古の龍　行動26　ブレス　拡がる炎
-160000741 Old Dragon Action 26 Breath for Mouth SFX Lead -- 古の龍　行動26　ブレス　口元SFX引率用
-160000742 Old Dragon Action 26 Breath for Spreading SFX Lead -- 古の龍　行動26　ブレス　拡がるSFX引率用
-160000750 Old Dragon Action 27 Breath Spreading Flame -- 古の龍　行動27　ブレス　拡がる炎
-160000751 Old Dragon Action 27 Breath for Mouth SFX Lead -- 古の龍　行動27　ブレス　口元SFX引率用
-160000752 Old Dragon Action 27 Breath for Spreading SFX Lead -- 古の龍　行動27　ブレス　拡がるSFX引率用
-160000810 Old Dragon Action 28 Breath Nemoto -- 古の龍　行動28　ブレス　根本
-160000811 Old Dragon Action 28 Breath Middle -- 古の龍　行動28　ブレス　真ん中
-160000812 Old Dragon Action 28 Breath Tip -- 古の龍　行動28　ブレス　先端
-160000813 Old Dragon Action 28 For Breath SFX Lead -- 古の龍　行動28　ブレス　SFX引率用
-160100410 Salamander Action 20_Flame Breath: Parents -- サラマンダー  行動20_炎ブレス：親
-160100411 Salamander Action 20_Flame Breath: Bullet -- サラマンダー  行動20_炎ブレス：弾丸
-160100412 Salamander Action 20_Flame Breath:SFX -- サラマンダー  行動20_炎ブレス：SFX
-160100510 Salamander Action 21_Blaze Cannon -- サラマンダー  行動21_ブレイズキャノン
-160100511 Salamander Action 21_Blaze Cannon: Landing -- サラマンダー  行動21_ブレイズキャノン：着弾
-160100610 Salamander Action 22_Event Flame Attack (Blaze Cannon) -- サラマンダー  行動22_イベント用炎攻撃（ブレイズキャノン）
-160100611 Salamander Action 22_Event Flame Attack (Blaze Cannon): Landing -- サラマンダー  行動22_イベント用炎攻撃（ブレイズキャノン）：着弾
-160200000 c6020 Beautiful Voice Frog General Purpose Dummy -- c6020 美声カエル 汎用 ダミー
-160200002 c6020 Beautiful Voice Frog General Purpose 2m Splash -- c6020 美声カエル 汎用 2m水しぶき
-160200003 c6020 Beautiful Voice Frog General Purpose 3m Splash -- c6020 美声カエル 汎用 3m水しぶき
-160200011 c6020 Beautiful Voice Frog Action 3 for 3m Splash -- c6020 美声カエル 行動3用 3m水しぶき
-160201040 c6020 Beautiful Voice Frog General Purpose 3m Splash ing -- c6020 美声カエル 汎用 3m水しぶき 投げ中
-160201110 c6020 Beautiful Voice Frog Action 20,21_Water Gun -- c6020 美声カエル 行動20,21_水鉄砲
-160301050 c6030 Spider Queen Combo 1-3 Digestive Juice -- c6030 蜘蛛の女王　コンボ1-3　消化液
-160301051 c6030 Spider Queen Combo 1-3 Digestive Juice/Bottom 1 -- c6030 蜘蛛の女王　コンボ1-3　消化液・下1
-160301052 c6030 Spider Queen Combo 1-3 Digestive Juice/Bottom 2 -- c6030 蜘蛛の女王　コンボ1-3　消化液・下2
-160301053 c6030 Spider Queen Combo 1-3 Digestive Juice/Bottom 3 -- c6030 蜘蛛の女王　コンボ1-3　消化液・下3
-160301150 c6030 Spider Queen Combo 2-3 Digestive Juice -- c6030 蜘蛛の女王　コンボ2-3　消化液
-160301151 c6030 Spider Queen Combo 2-3 Digestive Juice/Bottom -- c6030 蜘蛛の女王　コンボ2-3　消化液・下
-160301152 c6030 Spider Queen Combo 2-3 Digestive Juice/Bottom 2 -- c6030 蜘蛛の女王　コンボ2-3　消化液・下2
-160301153 c6030 Spider Queen Combo 2-3 Digestive Juice/Bottom 3 -- c6030 蜘蛛の女王　コンボ2-3　消化液・下3
-160301250 c6030 Spider Queen Combo 3-3 Digestive Juice -- c6030 蜘蛛の女王　コンボ3-3　消化液
-160301251 c6030 Spider Queen Combo 3-3 Digestive Juice/Bottom 1 -- c6030 蜘蛛の女王　コンボ3-3　消化液・下1
-160301252 c6030 Spider Queen Combo 3-3 Digestive Juice/Bottom 2 -- c6030 蜘蛛の女王　コンボ3-3　消化液・下2
-160301253 c6030 Spider Queen Combo 3-3 Digestive Juice/Bottom 3 -- c6030 蜘蛛の女王　コンボ3-3　消化液・下3
-160301350 c6030 Spider Queen Combo 4-3 Digestive Juice -- c6030 蜘蛛の女王　コンボ4-3　消化液
-160301351 c6030 Spider Queen Combo 4-3 Digestive Juice/Bottom 1 -- c6030 蜘蛛の女王　コンボ4-3　消化液・下1
-160301352 c6030 Spider Queen Combo 4-3 Digestive Juice/Bottom 2 -- c6030 蜘蛛の女王　コンボ4-3　消化液・下2
-160301353 c6030 Spider Queen Combo 4-3 Digestive Juice/Bottom 3 -- c6030 蜘蛛の女王　コンボ4-3　消化液・下3
-160301410 c6030 Spider Queen Action 20 Front: Sheath Breath -- c6030 蜘蛛の女王　行動20　前面：シースブレス
-160301510 c6030 Spider Queen Action 21 Back: Sheath Breath -- c6030 蜘蛛の女王　行動21　背面：シースブレス
-160301610 c6030 Spider Queen Action 22 Front: Yarn Vomiting -- c6030 蜘蛛の女王　行動22　前面：糸吐き
-160301710 c6030 Spider Queen Action 23 Back: Yarn Spitting -- c6030 蜘蛛の女王　行動23　背面：糸吐き
-160301810 c6030 Spider Queen Action 14 Front Digestive Juice -- c6030 蜘蛛の女王　行動14　前面　消化液
-160301811 c6030 Spider Queen Action 14 Back Digestive Juice -- c6030 蜘蛛の女王　行動14　背面　消化液
-160301910 c6030 Spider Queen Action 15 Front Digestive Fluid -- c6030 蜘蛛の女王　行動15　前面　消化液
-160301911 c6030 Spider Queen Action 15 Back Digestive Juice -- c6030 蜘蛛の女王　行動15　背面　消化液
-160310510 c6031 Spider Queen (Cliff) Action 20_Yarn Vomiting -- c6031 蜘蛛の女王（崖）　行動20_糸吐き
-160310610 c6031 Spider Queen (Cliff) Action 21_Digestive Juice (right) -- c6031 蜘蛛の女王（崖）行動21_消化液（右）
-160310611 c6031 Spider Queen (Cliff) Action 21,22_ Landing -- c6031 蜘蛛の女王（崖）行動21,22_着弾
-160310710 c6031 Spider Queen (Cliff) Action 22_Digestive Juice (left) -- c6031 蜘蛛の女王（崖）行動22_消化液（左）
-160310810 c6031 Spider Queen (Cliff) Action 23_Digestive Juice (near entrance) -- c6031 蜘蛛の女王（崖）行動23_消化液（入口付近）
-160700001 c6070 Molten Iron Daemon Action 0 Splash of Molten Rock -- c6070 熔鉄デーモン　行動0　熔岩の飛沫
-160700002 c6070 Molten Iron Daemon Action 0 Melted Rock Splash Landing Child Bale -- c6070 熔鉄デーモン　行動0　熔岩の飛沫 着弾用子バレ
-160700510 c6070 Molten Iron Daemon Action 20 Breath (Front) -- c6070 熔鉄デーモン　行動20　ブレス(正面)
-160700610 c6070 Molten Iron Daemon Action 21 Breath (swing) -- c6070 熔鉄デーモン　行動21　ブレス(首振り)
-160700710 c6070 Molten Iron Daemon Action 22 Force -- c6070 熔鉄デーモン　行動22　フォース
-160700813 c6070 Molten Iron Daemon Action 14 Right Hand Beam (for SFX) -- c6070 熔鉄デーモン　行動14　右手ビーム（SFX用）
-160700814 c6070 Molten Iron Daemon Action 14 Right Hand Beam Damage -- c6070 熔鉄デーモン　行動14　右手ビーム　ダメージ
-160700912 c6070 Molten Iron Daemon Action 15 for Damage Collision Offset -- c6070 熔鉄デーモン　行動15 ダメージコリジョンオフセット用
-160700913 c6070 Molten Iron Daemon Action 15 for appearance SFX pull -- c6070 熔鉄デーモン　行動15 見た目SFX引率用
-160701014 c6070 Molten Iron Daemon Action 16 for Damage Collision Offset -- c6070 熔鉄デーモン　行動16 ダメージコリジョンオフセット用
-160701015 c6070 Molten Iron Daemon Action 16 Right Arm for Appearance SFX Lead -- c6070 熔鉄デーモン　行動16 見た目SFX引率用　右腕
-160701016 c6070 Molten Iron Daemon Action 16 Left Arm for Appearance SFX Pull -- c6070 熔鉄デーモン　行動16 見た目SFX引率用　左腕
-160701110 c6070 Molten Iron Daemon Action 23 Breath (close range) -- c6070 熔鉄デーモン　行動23　ブレス(近距離)
-160800010 c6080 Corrosive worm poison edgas -- c6080 腐食虫　毒消しガス
-161100810 c6110 Heavy Cavalry: Bow Action 20_Bow Shooting -- c6110 重騎馬兵：弓　行動20_弓射撃
-161910610 c6191 Silcia Action 16_Breath_Right Head -- c6191 シルチャ　行動16_ブレス_右頭
-161910620 c6191 Silcia Action 16_Breath_Left Head -- c6191 シルチャ　行動16_ブレス_左頭
-161910810 c6191 Silcia Action 18_Breath_Right Head -- c6191 シルチャ　行動18_ブレス_右頭
-161910910 c6191 Silcia Action 19_Breath_Left Head -- c6191 シルチャ　行動19_ブレス_左頭
-161919000 c6191 Silcia crashed into the gate and damaged yourself. -- c6191 シルチャ　門に激突して自分にダメージ
-162500920 c6250 Ornstein Action 20_Dark Flame -- c6250 オーンスタイン  行動20_闇の炎
-162501020 c6250 Ornstein Action 21_Dark Flame (Butt) -- c6250 オーンスタイン  行動21_闇の炎(突き)
-162501120 c6250 Ornstein Action 19_Hip Attack_Darkness Fire_Floor Search -- c6250 オーンスタイン  行動19_ヒップアタック_闇術の炎_床検索
-162501121 c6250 Ornstein Action 19_Hip Attack_DarkNess Flame_Landing Explosion -- c6250 オーンスタイン  行動19_ヒップアタック_闇術の炎_着弾爆発
-162600211 c6260 Forgotten Sinner Combo 3-1 Fall Ing Blast -- c6260 忘れられた罪人 コンボ3-1 落下攻撃 爆風
-162700510 c6270 Queen's armor form Action 20 Self-centered explosion (small) -- c6270 王妃の鎧形態  行動20　自己中心爆発（小）
-162700610 c6270 Queen's armor form Action 21 Self-centered explosion (large) -- c6270 王妃の鎧形態  行動21　自己中心爆発（大）
-162700710 c6270 Queen's Armor Form Action 22 Ray-go-Away -- c6270 王妃の鎧形態  行動22　光線なぎ払い
-162700810 c6270 Queen's Armor Form Action 23 Ray-go-Away -- c6270 王妃の鎧形態  行動23　光線なぎ払い
-162700910 c6270 Queen's Armor Form Action 24 Ray-Gounpayment -- c6270 王妃の鎧形態  行動24　光線なぎ払い
-162701010 c6270 Queen's armor form Action 25 Giant Beam -- c6270 王妃の鎧形態  行動25　巨大ビーム
-162701110 c6270 Queen's Armor Form Action 26 -- c6270 王妃の鎧形態  行動26
-162701111 c6270 Queen's armor form Action 26 child -- c6270 王妃の鎧形態  行動26　子
-162701112 c6270 Queen's armor form Action 26 Grandchildren -- c6270 王妃の鎧形態  行動26　孫
-170450810 Ladder Shop Action 21_Throwing Item Frame -- 梯子屋　行動21_投げるアイテム枠
-172500010 Pilgrims in the Abyss Grandal Action 10_ Wrath of God -- 深淵の巡礼者 グランダル　行動10_神の怒り
-172500110 Pilgrims of the Abyss Grandal Action 20_Original Miracle: Three Spears of Thunder -- 深淵の巡礼者 グランダル　行動20_オリジナル奇蹟：降り注ぐ雷の槍３連射
-172500210 Pilgrims in the Abyss Grandal Action 21_Unleashed Force (bullet) -- 深淵の巡礼者 グランダル　行動21_放つフォース（弾）
-172500220 Pilgrims in the Abyss Grandal Action 21_Force (Landing) -- 深淵の巡礼者 グランダル　行動21_放つフォース（着弾）
-174401610 Pay_Action 20_Item Use: Throw -- ペイト__行動20_アイテム使用：投擲
-174401620 Pait__ Action 20_Item Use: Throw _Landing -- ペイト__行動20_アイテム使用：投擲_着弾
-175300410 Bell Guard Arken/Vain: One-handed axe tossing 20_vase -- 鐘守アーケン/ヴェイン：片手斧　行動20_壺を投げる
-175300411 Bell Guard Arken/ Vain: One-handed axe action 20_throw ing pot_ landing -- 鐘守アーケン/ヴェイン：片手斧　行動20_壺を投げる_着弾
-175301110 Bell Guard Arken/Vain: Two-Handed Bow Action 20_Bow Shooting -- 鐘守アーケン/ヴェイン：両手弓　行動20_弓射撃
-175301210 Bell Guard Arken/Vain: Two-Handed Bow Action 21_Bow Continuous Shooting -- 鐘守アーケン/ヴェイン：両手弓　行動21_弓連続射撃
-176200310 material shop croana action throwing a knife -- 素材屋クロアーナ　行動20_ナイフを投げる
-176800110 Spell Mania Stray Action 21_Continuous Magic Bullet -- スペルマニア　ストレイド　行動21_連続魔力弾
-176800210 Spell Mania Stray Action 22_Magic's Oversized Sword -- スペルマニア　ストレイド　行動22_魔力の特大剣
-176800310 Spell Mania Stray Action 23_Torrent Seoul -- スペルマニア　ストレイド　行動23_奔流するソウル
-176800311 Spell Mania Stray Action 23_Torrent Seoul -- スペルマニア　ストレイド　行動23_奔流するソウル
-176800312 Spell Mania Stray Action 23_Torrent Seoul -- スペルマニア　ストレイド　行動23_奔流するソウル
-176800320 Spell Mania Stray Action 23_Torrent Seoul -- スペルマニア　ストレイド　行動23_奔流するソウル
-176800321 Spell Mania Stray Action 23_Torrent Seoul -- スペルマニア　ストレイド　行動23_奔流するソウル
-176800322 Spell Mania Stray Action 23_Torrent Seoul -- スペルマニア　ストレイド　行動23_奔流するソウル
-176800323 Spell Mania Stray Action 23_Torrent Seoul -- スペルマニア　ストレイド　行動23_奔流するソウル
-176800410 Spell Mania Stray Action 24_Induced Magic Arrow -- スペルマニア　ストレイド　行動24_誘導する魔力の矢
-176800510 Spell Mania Stray Action 25_3WAY Shot -- スペルマニア　ストレイド　行動25_３WAYショット
-176800610 Spell Mania Stray action 26_Swirling Magic Ball (main body) -- スペルマニア　ストレイド　行動26_渦巻く魔力球（本体）
-176800620 Spell Mania Stray Action 26_Swirling Magic Ball (bullet) -- スペルマニア　ストレイド　行動26_渦巻く魔力球（弾）
-176901010 Miracle Man Leash Action 20_Miracle: Great Recovery -- 奇跡の人リーシュ　行動20_奇蹟：大回復
-176901110 Miracle Man Leash Action 21_Miracle: Wrath of God -- 奇跡の人リーシュ　行動21_奇蹟：神の怒り
-176901210 Miracle Man Leash Action 22_Miracle: The Great Spear of Thunder (Bullet) -- 奇跡の人リーシュ　行動22_奇蹟：雷の大槍（弾）
-176901310 Miracle Man Leash Action 24_Miracle: Brilliant Lightning Ball (Body) -- 奇跡の人リーシュ　行動24_奇蹟：輝かしい雷球（本体）
-176901320 Miracle Man Leash Action 24_Miracle: Brilliant Lightning Ball (Body: Stationary) -- 奇跡の人リーシュ　行動24_奇蹟：輝かしい雷球（本体：静止）
-176901330 Miracle Man Leash Action 24_Miracle: Brilliant Lightning Ball (Bullet) -- 奇跡の人リーシュ　行動24_奇蹟：輝かしい雷球（弾）
-177001010 Sealed Man Navallan Action 20_Cane: Fireball -- 封じられた人ナヴァーラン　行動20_杖：火球
-177001020 Sealed Man Navallan Action 20_Cane: Fireball_Landing -- 封じられた人ナヴァーラン　行動20_杖：火球_着弾
-177001110 Sealed Man Navaran Action 21_Wand: Ignition -- 封じられた人ナヴァーラン　行動21_杖：発火
-177001210 Sealed Man Navaran Action 22_Cane: The Flame of The Fire (Parent) -- 封じられた人ナヴァーラン　行動22_杖：薙ぎ払う炎（親）
-177001220 Sealed Man Navaran Action 22_Cane: The Flame (Directing) -- 封じられた人ナヴァーラン　行動22_杖：薙ぎ払う炎（演出）
-177001230 Sealed Man Navaran Action 22_Cane: Fire to Be Rid of (Damage) -- 封じられた人ナヴァーラン　行動22_杖：薙ぎ払う炎（ダメージ）
-177001310 Sealed Man Navaran Action 23_Wand: Storm of Fire (Parent) -- 封じられた人ナヴァーラン　行動23_杖：炎の嵐（親）
-177001320 Sealed Man Navaran Action 23_Wand: Storm of Fire (Location Search A) -- 封じられた人ナヴァーラン　行動23_杖：炎の嵐（位置検索A）
-177001330 Sealed Man Navaran Action 23_Wand: Storm of Fire (Location Search B) -- 封じられた人ナヴァーラン　行動23_杖：炎の嵐（位置検索B）
-177001331 Sealed Man Navaran Action 23_Wand: Storm of Fire (Light Source) -- 封じられた人ナヴァーラン　行動23_杖：炎の嵐（光源）
-177001332 Sealed Man Navaran Action 23_Wand: Storm of Fire (Light Source: Attach) -- 封じられた人ナヴァーラン　行動23_杖：炎の嵐（光源：アタッチ）
-177001340 Sealed Man Navaran Action 23_Wand: Storm of Fire (Floor Search A) -- 封じられた人ナヴァーラン　行動23_杖：炎の嵐（床検索A）
-177001350 Sealed Man Navaran Action 23_Wand: Storm of Fire (Floor Search B) -- 封じられた人ナヴァーラン　行動23_杖：炎の嵐（床検索B）
-177001360 Sealed Man Navaran Action 23_Wand: Storm of Fire (Foreboding A) -- 封じられた人ナヴァーラン　行動23_杖：炎の嵐（予兆A）
-177001370 Sealed Man Navaran Action 23_Wand: Storm of Fire (Foreboding B) -- 封じられた人ナヴァーラン　行動23_杖：炎の嵐（予兆B）
-177001380 Sealed Man Navaran Action 23_Wand: Storm of Fire (Pillar of Fire) -- 封じられた人ナヴァーラン　行動23_杖：炎の嵐（火柱）
-177001410 Sealed Man Navaran Action 24_Wand: The Sun of Chaos (bullet) -- 封じられた人ナヴァーラン　行動24_杖：混沌の太陽（弾）
-177001420 Sealed Man Navaran Action 24_Wand: The Sun of Chaos (Explosion) -- 封じられた人ナヴァーラン　行動24_杖：混沌の太陽（爆発）
-177001430 Sealed Man Navaran Action 24_Wand: The Sun of Chaos (Lava) -- 封じられた人ナヴァーラン　行動24_杖：混沌の太陽（溶岩）
-177100210 Dark Man Tifenkin Action 20_Dark Art-Demon: The Bullet of Darkness -- 闇術屋ティフェンキン　行動20_闇術-魔：闇の弾
-177100310 Dark Art Shop Tifenkin Action 21_Dark Art- Devil: The Splash of Darkness -- 闇術屋ティフェンキン　行動21_闇術-魔：闇の飛沫
-177100410 Dark Man Tifenkin Action 22_Dark Art-Demon: Mourners -- 闇術屋ティフェンキン　行動22_闇術-魔：追う者たち
-177100510 Dark Art Shop Tifenkin Action 23_Dark Art- Bizarre: Self-Centered Typhoon (Muzzle Flash) -- 闇術屋ティフェンキン　行動23_闇術-奇：自己中心台風（マズルフラッシュ）
-177100511 Dark Art Shop Tifenkin Action 23_Dark Art- Bizarre: Self-Centered Typhoon (Director) -- 闇術屋ティフェンキン　行動23_闇術-奇：自己中心台風（演出）
-177100512 Dark Art Shop Tifenkin Action 23_Dark Art- Bizarre: Self-Centered Typhoon (Bullet: Damage) -- 闇術屋ティフェンキン　行動23_闇術-奇：自己中心台風（弾：ダメージ）
-177100513 Dark Art Shop Tifenkin Action 23_Dark Art- Bizarre: Self-Centered Typhoon (Bullet: Damage Small) -- 闇術屋ティフェンキン　行動23_闇術-奇：自己中心台風（弾：ダメージ小）
-177100610 Dark Art Shop Tifenkin Action 24_Dark Art- Bizarre: Ground Restraint Summon_Muzzle Flash -- 闇術屋ティフェンキン　行動24_闇術-奇：地縛霊召喚_マズルフラッシュ
-177100620 Dark Art Shop Tifenkin Action 24_Dark Art- Bizarre: Earth-bound Spirit Summon_Magic -- 闇術屋ティフェンキン　行動24_闇術-奇：地縛霊召喚_魔法陣
-177100630 Dark Art Shop Tifenkin Action 24_Dark Art- Bizarre: Ground Restraint Summon_Floor Search 1 -- 闇術屋ティフェンキン　行動24_闇術-奇：地縛霊召喚_床検索１
-177100640 Dark Art Shop Tifenkin Action 24_Dark Art- Bizarre: Ground Restraint Summon_Floor Search 2 -- 闇術屋ティフェンキン　行動24_闇術-奇：地縛霊召喚_床検索２
-177100650 Dark Art Shop Tifenkin Action 24_Dark Art- Bizarre: Summoning The Spirit of The Earth -- 闇術屋ティフェンキン　行動24_闇術-奇：地縛霊召喚（火柱）
-178300310 Black Phantom Shop: Bell Action 20_Dark Art "Black Fire Ball" -- 黒ファントム屋：ベル　行動20_闇術「黒い火の球」
-178300410 Black Phantom Shop Bell Action 21_Original Dark Art "Black Flame" -- 黒ファントム屋：ベル　行動21_オリジナル闇術「黒フレイム」
-178300510 Black Phantom Shop Bell Action 22_Original Dark Art "Black Bomb" -- 黒ファントム屋：ベル　行動22_オリジナル闇術「黒ボム」
-178300520 Black Phantom Shop: Bell Action 22_Original Dark Art "Black Bomb" Explosion -- 黒ファントム屋：ベル　行動22_オリジナル闇術「黒ボム」爆発
-178300600 Black Phantom Shop: Bell Action 23_ Fog of Darkness (Location Search) -- 黒ファントム屋：ベル　行動23_闇の霧（位置検索）
-178300610 Black Phantom Shop: Bell Action 23_ Fog of Darkness (Stagnant) -- 黒ファントム屋：ベル　行動23_闇の霧（その場停滞）
-178501010 Guardian Knight Gala Indouk: Bell Nagaaxe Action 20_Life Spring -- 守護の騎士ガラインドーク：ベル・長斧　行動20_生命湧き
-178501110 Guardian Knight Gala Indouk: Bell Nagaaxe Action 21_ Attack Power Rise Magic -- 守護の騎士ガラインドーク：ベル・長斧　行動21_攻撃力上昇魔法
-190100010 NPC-Arrow_Physical_Weak -- NPC-矢_物理_弱
-190100020 NPC-Arrow_Physical_Strong -- NPC-矢_物理_強
-190100030 NPC-Arrow_Magic -- NPC-矢_魔力
-190100040 NPC-Arrow_Lightning -- NPC-矢_雷
-190100050 NPC-Arrow_Flame -- NPC-矢_炎
-190100060 NPC-Arrow_Darkness -- NPC-矢_闇
-190100070 NPC-Arrow_Venom -- NPC-矢_毒
-190100080 NPC-Arrow_Bleeding -- NPC-矢_出血
-190100090 NPC-Daiya_Physical_Weak -- NPC-大矢_物理_弱
-190100100 NPC-Daiya_Physical_Strong -- NPC-大矢_物理_強
-190100110 NPC-Daiya_Magic -- NPC-大矢_魔力
-190100120 NPC-Daiya_Lightning -- NPC-大矢_雷
-190100130 NPC-Daiya_Flame -- NPC-大矢_炎
-190100140 NPC-Daiya_Darkness -- NPC-大矢_闇
-190100150 NPC-Daiya_Weapon Destruction -- NPC-大矢_武器破壊
-190100160 NPC-Bolt_Physical_Weak -- NPC-ボルト_物理_弱
-190100170 NPC-Bolt_Physical_Strong -- NPC-ボルト_物理_強
-190100180 NPC-Bolt_Magic -- NPC-ボルト_魔力
-190100190 NPC-Bolt_Lightning -- NPC-ボルト_雷
-190100200 NPC-Bolt_Flame -- NPC-ボルト_炎
-190100210 NPC-Bolt_Darkness -- NPC-ボルト_闇
+100000010 UNKNOWN
+100000110 UNKNOWN
+100000210 UNKNOWN
+100000310 UNKNOWN
+100000410 UNKNOWN
+100000510 UNKNOWN
+100001000 UNKNOWN
+100001010 UNKNOWN
+100001020 UNKNOWN
+100002000 UNKNOWN
+100002010 UNKNOWN
+100002020 UNKNOWN
+100003000 UNKNOWN
+100003010 UNKNOWN
+100003020 UNKNOWN
+100010000 UNKNOWN
+100020000 UNKNOWN
+110002010 [Forest Grotesque]
+110201710 [Hollow Soldier]
+110201711 [Hollow Soldier]
+110204010 [Hollow Soldier]
+110204110 [Hollow Soldier]
+110211610 [Royal Soldier]
+110211710 [Royal Soldier]
+110211810 [Royal Soldier]
+110211811 [Royal Soldier]
+110304010 [Hollow Infantry]
+110305010 [Hollow Infantry]
+110313010 [Drangleic Infantry]
+110500110 [Amana Shrine Maiden]
+110501210 [Amana Shrine Maiden]
+110501310 [Amana Shrine Maiden]
+110501320 [Amana Shrine Maiden]
+110501330 [Amana Shrine Maiden]
+110600210 [Hollow Priest]
+110600410 [Hollow Priest]
+110600510 [Hollow Priest]
+110600520 [Hollow Priest]
+110600610 [Hollow Priest]
+110700510 [Parasitized Undead]
+110802010 [Hollow Rogue]
+111300710 [Varangian Sailor]
+111300711 [Varangian Sailor]
+111302010 [Varangian Sailor]
+111302110 [Varangian Sailor]
+111500210 [Undead Traveler]
+111501110 [Undead Traveler]
+111800210 [Hollow Mage]
+111800211 [Hollow Mage]
+111800410 [Hollow Mage]
+111800510 [Hollow Mage]
+111800610 [Hollow Mage]
+111800611 [Hollow Mage]
+111800612 [Hollow Mage]
+111800613 [Hollow Mage]
+111800614 [Hollow Mage]
+111800615 [Hollow Mage]
+111800710 [Hollow Mage]
+111800810 [Hollow Mage]
+111800910 [Hollow Mage]
+111801010 [Hollow Mage]
+111801020 [Hollow Mage]
+111801030 [Hollow Mage]
+111801110 [Hollow Mage]
+111900020 [Lion Clan Mage]
+111900210 [Lion Clan Mage]
+111900310 [Lion Clan Mage]
+111900410 [Lion Clan Mage]
+111900510 [Lion Clan Mage]
+112102220 [Giant]
+112102221 [Giant]
+112103220 [Giant]
+112103221 [Giant]
+112103320 [Giant]
+112103321 [Giant]
+112300210 [Suspicious Shadow]
+112300220 [Suspicious Shadow]
+112300910 [Suspicious Shadow]
+112300950 [Suspicious Shadow]
+112300960 [Suspicious Shadow]
+112400510 [Manikin]
+112401410 [Manikin]
+112401710 [Manikin]
+112401810 [Manikin]
+112402510 [Manikin]
+112402810 [Manikin]
+112402910 [Manikin]
+112403010 [Manikin]
+112500210 [Rupturing Hollow]
+112500211 [Rupturing Hollow]
+112501110 [Rupturing Hollow]
+112502110 [Rupturing Hollow]
+112503110 [Rupturing Hollow]
+112504110 [Rupturing Hollow]
+112700310 [Captive Undead]
+112701300 [Captive Undead]
+112900010 [Forest Spirit]
+112900110 [Forest Spirit]
+112900210 [Forest Spirit]
+112900310 [Forest Spirit]
+112901010 [Forest Spirit]
+112901110 [Forest Spirit]
+112901210 [Forest Spirit]
+112901220 [Forest Spirit]
+112901310 [Forest Spirit]
+112901410 [Forest Spirit]
+113101010 [Lindelt Cleric]
+113101110 [Lindelt Cleric]
+113101210 [Lindelt Cleric]
+113101310 [Lindelt Cleric]
+113101320 [Lindelt Cleric]
+113102010 [Lindelt Cleric]
+113102110 [Lindelt Cleric]
+113102210 [Lindelt Cleric]
+113203010 [Skeleton]
+113500710 [Gyrm Warrior]
+113502010 [Gyrm Warrior]
+113701110 [Dragon Acolyte]
+113701310 [Dragon Acolyte]
+113701510 [Dragon Acolyte]
+114100610 [Undead Aberration]
+114100611 [Undead Aberration]
+114100710 [Undead Aberration]
+114600310 [Headless Vengarl]
+114900120 [Undead Steelworker]
+114900121 [Undead Steelworker]
+114900340 [Undead Steelworker]
+114900341 [Undead Steelworker]
+115201010 [Royal Soldier]
+115201110 [Royal Soldier]
+115201210 [Royal Soldier]
+115202010 [Royal Soldier]
+115202110 [Royal Soldier]
+115202210 [Royal Soldier]
+115203010 [Royal Soldier]
+115203110 [Royal Soldier]
+115203210 [Royal Soldier]
+115400610 [Skeleton Lord]
+115400710 [Skeleton Lord]
+115400810 [Skeleton Lord]
+115400910 [Skeleton Lord]
+115400920 [Skeleton Lord]
+120300610 [Parasite Spider]
+120400010 [Poison Moth]
+120400011 [Poison Moth]
+120400210 [Poison Moth]
+120400211 [Poison Moth]
+120500310 [Poison Horn Beetle]
+120500320 [Poison Horn Beetle]
+120500321 [Poison Horn Beetle]
+120510310 [Acid Horn Beetle]
+120510320 [Acid Horn Beetle]
+120510321 [Acid Horn Beetle]
+120900710 [Hunting Dog]
+120900810 [Hunting Dog]
+121000310 [Basilisk]
+121000320 [Basilisk]
+121000330 [Basilisk]
+121000410 [Basilisk]
+121000420 [Basilisk]
+121000430 [Basilisk]
+121000510 [Basilisk]
+121000530 [Basilisk]
+121000540 [Basilisk]
+121000610 [Basilisk]
+121000630 [Basilisk]
+121000640 [Basilisk]
+121200210 [Guardian Dragon]
+121200220 [Guardian Dragon]
+121200221 [Guardian Dragon]
+121200222 [Guardian Dragon]
+121200230 [Guardian Dragon]
+121201110 [Guardian Dragon]
+121201120 [Guardian Dragon]
+121201121 [Guardian Dragon]
+121201122 [Guardian Dragon]
+121201130 [Guardian Dragon]
+121201210 [Guardian Dragon]
+121201211 [Guardian Dragon]
+121201212 [Guardian Dragon]
+121201310 [Guardian Dragon]
+121201311 [Guardian Dragon]
+121201312 [Guardian Dragon]
+121201410 [Guardian Dragon]
+121201411 [Guardian Dragon]
+121201412 [Guardian Dragon]
+121201510 [Guardian Dragon]
+121201520 [Guardian Dragon]
+121201521 [Guardian Dragon]
+121201522 [Guardian Dragon]
+121201530 [Guardian Dragon]
+121201610 [Guardian Dragon]
+121201611 [Guardian Dragon]
+121201710 [Guardian Dragon]
+121400000 [Giant Undead Boar]
+122000310 [Giant Acid Horn Beetle]
+122000510 [Giant Acid Horn Beetle]
+122000520 [Giant Acid Horn Beetle]
+122200410 [Giant Basilisk]
+122200420 [Giant Basilisk]
+122200430 [Giant Basilisk]
+122200510 [Giant Basilisk]
+122200520 [Giant Basilisk]
+122200530 [Giant Basilisk]
+122200610 [Giant Basilisk]
+122200620 [Giant Basilisk]
+122200630 [Giant Basilisk]
+122350000 c6280 Giant rat blast dummy [Hollow Priest]
+122351710 c6280 Giant Rat Action 20 Blood Spitting Body [Hollow Priest]
+122351711 c6280 Giant rat action 20 for eye-catching rate to exhale blood [Hollow Priest]
+122351712 c6280 Giant rat action 20 blood-spitting mouth for eye-catching rate [Hollow Priest]
+130200310 [Undead Jailer]
+130200320 [Undead Jailer]
+130500000 [Smelter Demon]
+130500001 [Smelter Demon]
+130500040 [Smelter Demon]
+130500320 [Smelter Demon]
+130501040 [Smelter Demon]
+130501051 [Smelter Demon]
+130501053 [Smelter Demon]
+130501054 [Smelter Demon]
+130501111 [Smelter Demon]
+130501113 [Smelter Demon]
+130501114 [Smelter Demon]
+130501320 [Smelter Demon]
+130510000 [Blue Smelter Demon]
+130510001 [Blue Smelter Demon]
+130510040 [Blue Smelter Demon]
+130510320 [Blue Smelter Demon]
+130511040 [Blue Smelter Demon]
+130511051 [Blue Smelter Demon]
+130511053 [Blue Smelter Demon]
+130511054 [Blue Smelter Demon]
+130511111 [Blue Smelter Demon]
+130511113 [Blue Smelter Demon]
+130511114 [Blue Smelter Demon]
+130511320 [Blue Smelter Demon]
+130600710 [Alonne Captain]
+130970121 [Giant Lord]
+130970122 [Giant Lord]
+130970231 [Giant Lord]
+130970232 [Giant Lord]
+130970411 [Giant Lord]
+130970511 [Giant Lord]
+130970620 [Giant Lord]
+130970621 [Giant Lord]
+130970622 [Giant Lord]
+131100120 [Mounted Overseer]
+131302010 [Hollow Falconer]
+131302110 [Hollow Falconer]
+131600320 [Desert Sorceress]
+131600321 [Desert Sorceress]
+131601020 [Desert Sorceress]
+131601030 [Desert Sorceress]
+131601110 [Desert Sorceress]
+131601120 [Desert Sorceress]
+131700310 [Dragon Acolyte]
+131700320 [Dragon Acolyte]
+131800720 [The Pursuer]
+131801100 [The Pursuer]
+131801101 [The Pursuer]
+131900710 [Alonne Knight]
+131900810 [Alonne Knight]
+132100410 [Mimic]
+132100420 [Mimic]
+132400710 [Belfry Gargoyle]
+132400810 [Belfry Gargoyle]
+132400910 [Belfry Gargoyle]
+132400920 [Belfry Gargoyle]
+132400921 [Belfry Gargoyle]
+132401010 [Belfry Gargoyle]
+132500910 [Ruin Sentinel]
+132500911 [Ruin Sentinel]
+132600000 [The Rotten]
+132600001 [The Rotten]
+132600002 [The Rotten]
+132600320 [The Rotten]
+132600321 [The Rotten]
+132600322 [The Rotten]
+132600910 [The Rotten]
+132601010 [The Rotten]
+133100410 [Drakekeeper]
+133300910 [Velstadt]
+133400910 [Throne Watcher]
+133401020 [Throne Watcher]
+150000211 [Covetous Demon]
+150000212 [Covetous Demon]
+150001210 [Covetous Demon]
+150100710 [Mytha- the Baneful Queen]
+150100810 [Mytha- the Baneful Queen]
+150100811 [Mytha- the Baneful Queen]
+150100812 [Mytha- the Baneful Queen]
+150100813 [Mytha- the Baneful Queen]
+150100814 [Mytha- the Baneful Queen]
+150100815 [Mytha- the Baneful Queen]
+150100816 [Mytha- the Baneful Queen]
+150100817 [Mytha- the Baneful Queen]
+150100818 [Mytha- the Baneful Queen]
+150100819 [Mytha- the Baneful Queen]
+150100910 [Mytha- the Baneful Queen]
+150100911 [Mytha- the Baneful Queen]
+150100912 [Mytha- the Baneful Queen]
+150100913 [Mytha- the Baneful Queen]
+150300010 [Scorpioness Najka]
+150300110 [Scorpioness Najka]
+150301110 [Scorpioness Najka]
+150301210 [Scorpioness Najka]
+150301211 [Scorpioness Najka]
+150301212 [Scorpioness Najka]
+150301213 [Scorpioness Najka]
+150301214 [Scorpioness Najka]
+150301220 [Scorpioness Najka]
+150400820 [Looking Glass Knight]
+150400840 [Looking Glass Knight]
+150400841 [Looking Glass Knight]
+150400842 [Looking Glass Knight]
+150400843 [Looking Glass Knight]
+150400844 [Looking Glass Knight]
+150400845 [Looking Glass Knight]
+150400860 [Looking Glass Knight]
+150400870 [Looking Glass Knight]
+150400871 [Looking Glass Knight]
+150400872 [Looking Glass Knight]
+150400873 [Looking Glass Knight]
+150400930 [Looking Glass Knight]
+150610001 [Darklurker]
+150610002 [Darklurker]
+150610003 [Darklurker]
+150610005 [Darklurker]
+150610210 [Darklurker]
+150610310 [Darklurker]
+150610410 [Darklurker]
+150610411 [Darklurker]
+150610412 [Darklurker]
+150610510 [Darklurker]
+150620000 [Darklurker (Clone)]
+150620010 [Darklurker (Clone)]
+150620110 [Darklurker (Clone)]
+150620200 [Darklurker (Clone)]
+150650710 [Grave Warden Agdayne]
+150650720 [Grave Warden Agdayne]
+150650730 [Grave Warden Agdayne]
+150650810 [Grave Warden Agdayne]
+150900210 [Leydia Witch]
+150900220 [Leydia Witch]
+150900310 [Leydia Witch]
+150900410 [Leydia Witch]
+150900510 [Leydia Witch]
+150900511 [Leydia Witch]
+150900512 [Leydia Witch]
+150900513 [Leydia Witch]
+150900520 [Leydia Witch]
+150900530 [Leydia Witch]
+150900540 [Leydia Witch]
+150900610 [Leydia Witch]
+150900710 [Leydia Witch]
+150900720 [Leydia Witch]
+151200310 [Leydia Pyromancer]
+151200311 [Leydia Pyromancer]
+151200312 [Leydia Pyromancer]
+151200320 [Leydia Pyromancer]
+151200321 [Leydia Pyromancer]
+151200322 [Leydia Pyromancer]
+151200323 [Leydia Pyromancer]
+151200410 [Leydia Pyromancer]
+151200420 [Leydia Pyromancer]
+151200430 [Leydia Pyromancer]
+151200440 [Leydia Pyromancer]
+151200510 [Leydia Pyromancer]
+151200520 [Leydia Pyromancer]
+151200530 [Leydia Pyromancer]
+151200540 [Leydia Pyromancer]
+151200610 [Leydia Pyromancer]
+151460610 [Vendrick (hollow)]
+160000000 [Ancient Dragon]
+160000610 [Ancient Dragon]
+160000611 [Ancient Dragon]
+160000612 [Ancient Dragon]
+160000613 [Ancient Dragon]
+160000620 [Ancient Dragon]
+160000621 [Ancient Dragon]
+160000622 [Ancient Dragon]
+160000623 [Ancient Dragon]
+160000630 [Ancient Dragon]
+160000631 [Ancient Dragon]
+160000632 [Ancient Dragon]
+160000633 [Ancient Dragon]
+160000710 [Ancient Dragon]
+160000711 [Ancient Dragon]
+160000712 [Ancient Dragon]
+160000720 [Ancient Dragon]
+160000721 [Ancient Dragon]
+160000722 [Ancient Dragon]
+160000730 [Ancient Dragon]
+160000731 [Ancient Dragon]
+160000732 [Ancient Dragon]
+160000740 [Ancient Dragon]
+160000741 [Ancient Dragon]
+160000742 [Ancient Dragon]
+160000750 [Ancient Dragon]
+160000751 [Ancient Dragon]
+160000752 [Ancient Dragon]
+160000810 [Ancient Dragon]
+160000811 [Ancient Dragon]
+160000812 [Ancient Dragon]
+160000813 [Ancient Dragon]
+160100410 [Flame Lizard]
+160100411 [Flame Lizard]
+160100412 [Flame Lizard]
+160100510 [Flame Lizard]
+160100511 [Flame Lizard]
+160100610 [Flame Lizard]
+160100611 [Flame Lizard]
+160100910 [Flame Lizard]
+160100911 [Flame Lizard]
+160200000 [Demon of Song]
+160200002 [Demon of Song]
+160200003 [Demon of Song]
+160200011 [Demon of Song]
+160201040 [Demon of Song]
+160201110 [Demon of Song]
+160301050 [The Duke's Dear Freja]
+160301051 [The Duke's Dear Freja]
+160301052 [The Duke's Dear Freja]
+160301053 [The Duke's Dear Freja]
+160301150 [The Duke's Dear Freja]
+160301151 [The Duke's Dear Freja]
+160301152 [The Duke's Dear Freja]
+160301153 [The Duke's Dear Freja]
+160301250 [The Duke's Dear Freja]
+160301251 [The Duke's Dear Freja]
+160301252 [The Duke's Dear Freja]
+160301253 [The Duke's Dear Freja]
+160301350 [The Duke's Dear Freja]
+160301351 [The Duke's Dear Freja]
+160301352 [The Duke's Dear Freja]
+160301353 [The Duke's Dear Freja]
+160301410 [The Duke's Dear Freja]
+160301510 [The Duke's Dear Freja]
+160301610 [The Duke's Dear Freja]
+160301710 [The Duke's Dear Freja]
+160301810 [The Duke's Dear Freja]
+160301811 [The Duke's Dear Freja]
+160301910 [The Duke's Dear Freja]
+160301911 [The Duke's Dear Freja]
+160310510 [The Duke's Dear Freja (map)]
+160310610 [The Duke's Dear Freja (map)]
+160310611 [The Duke's Dear Freja (map)]
+160310710 [The Duke's Dear Freja (map)]
+160310810 [The Duke's Dear Freja (map)]
+160700001 [Old Iron King]
+160700002 [Old Iron King]
+160700510 [Old Iron King]
+160700610 [Old Iron King]
+160700710 [Old Iron King]
+160700813 [Old Iron King]
+160700814 [Old Iron King]
+160700912 [Old Iron King]
+160700913 [Old Iron King]
+160701014 [Old Iron King]
+160701015 [Old Iron King]
+160701016 [Old Iron King]
+160701110 [Old Iron King]
+160800010 [Rotten Vermin]
+161100810 [Dragonrider]
+161910610 [Executioner's Chariot]
+161910620 [Executioner's Chariot]
+161910810 [Executioner's Chariot]
+161910910 [Executioner's Chariot]
+161919000 [Executioner's Chariot]
+162500920 [Old Dragonslayer]
+162501020 [Old Dragonslayer]
+162501120 [Old Dragonslayer]
+162501121 [Old Dragonslayer]
+162600211 [Lost Sinner]
+162700510 [Nashandra]
+162700610 [Nashandra]
+162700710 [Nashandra]
+162700810 [Nashandra]
+162700910 [Nashandra]
+162701010 [Nashandra]
+162701110 [Nashandra]
+162701111 [Nashandra]
+162701112 [Nashandra]
+165000000 [Iron Warrior]
+165000001 [Iron Warrior]
+165000004 [Iron Warrior]
+165000005 [Iron Warrior]
+165000990 [Iron Warrior]
+165100410 [Fume Sorcerer]
+165100510 [Fume Sorcerer]
+165100610 [Fume Sorcerer]
+165100620 [Fume Sorcerer]
+165300510 [Ashen Warrior]
+165300511 [Ashen Warrior]
+165300520 [Ashen Warrior]
+165303010 [Ashen Warrior]
+165303020 [Ashen Warrior]
+165303030 [Ashen Warrior]
+165303110 [Ashen Warrior]
+165400000 [Ashen Crawler]
+165400001 [Ashen Crawler]
+165400002 [Ashen Crawler]
+165401000 [Ashen Crawler]
+165600810 [Possessed Armor]
+165600910 [Possessed Armor]
+165700000 [Barrel Carrier]
+165700001 [Barrel Carrier]
+165700002 [Barrel Carrier]
+165900610 [Rampart Golem]
+165900720 [Rampart Golem]
+165900721 [Rampart Golem]
+165900730 [Rampart Golem]
+165900740 [Rampart Golem]
+165900741 [Rampart Golem]
+165900750 [Rampart Golem]
+165900751 [Rampart Golem]
+165900760 [Rampart Golem]
+165900761 [Rampart Golem]
+165900770 [Rampart Golem]
+165900771 [Rampart Golem]
+166100410 [Frozen Reindeer]
+166100411 [Frozen Reindeer]
+166100610 [Frozen Reindeer]
+166100710 [Frozen Reindeer]
+166100810 [Frozen Reindeer]
+166201000 [Rampart Hedgehog]
+166300510 [Spellsword]
+166300610 [Spellsword]
+166500000 [Sanctum Knight]
+166501010 [Sanctum Knight]
+166501110 [Sanctum Knight]
+166501210 [Sanctum Knight]
+166501310 [Sanctum Knight]
+166501320 [Sanctum Knight]
+166501410 [Sanctum Knight]
+166501510 [Sanctum Knight]
+166602010 [Sanctum Soldier]
+166602020 [Sanctum Soldier]
+166604000 [Sanctum Soldier]
+167000010 [Sanctum Priestess]
+167000020 [Sanctum Priestess]
+167000030 [Sanctum Priestess]
+167000040 [Sanctum Priestess]
+167000110 [Sanctum Priestess]
+167000130 [Sanctum Priestess]
+167000131 [Sanctum Priestess]
+167000132 [Sanctum Priestess]
+167000133 [Sanctum Priestess]
+167000134 [Sanctum Priestess]
+167000135 [Sanctum Priestess]
+167000136 [Sanctum Priestess]
+167000137 [Sanctum Priestess]
+167000138 [Sanctum Priestess]
+167000139 [Sanctum Priestess]
+167000210 [Sanctum Priestess]
+167000400 [Sanctum Priestess]
+167000410 [Sanctum Priestess]
+167100000 [Poison Statue Cluster]
+167100001 [Poison Statue Cluster]
+167100002 [Poison Statue Cluster]
+167100003 [Poison Statue Cluster]
+167110000 [Poison Statue Cluster]
+167110001 [Poison Statue Cluster]
+167110002 [Poison Statue Cluster]
+167110003 [Poison Statue Cluster]
+167200000 [Rotten Vermin]
+167200001 [Rotten Vermin]
+167400010 [Pagan Tree]
+167400020 [Pagan Tree]
+167501520 [Fume Knight]
+167501530 [Fume Knight]
+167501540 [Fume Knight]
+167501541 [Fume Knight]
+167501620 [Fume Knight]
+167501621 [Fume Knight]
+167501630 [Fume Knight]
+167701210 [Retainer]
+167701310 [Retainer]
+167800920 [Facsimile Giant]
+167800930 [Facsimile Giant]
+167801000 [Facsimile Giant]
+167801010 [Facsimile Giant]
+167900000 [Aava- the King's Pet]
+167900610 [Aava- the King's Pet]
+167900710 [Aava- the King's Pet]
+167900711 [Aava- the King's Pet]
+167900810 [Aava- the King's Pet]
+167900811 [Aava- the King's Pet]
+167900812 [Aava- the King's Pet]
+167900813 [Aava- the King's Pet]
+167900814 [Aava- the King's Pet]
+167900815 [Aava- the King's Pet]
+167901320 [Aava- the King's Pet]
+167901330 [Aava- the King's Pet]
+167901340 [Aava- the King's Pet]
+167901350 [Aava- the King's Pet]
+167901360 [Aava- the King's Pet]
+167901370 [Aava- the King's Pet]
+167901380 [Aava- the King's Pet]
+167901390 [Aava- the King's Pet]
+168000413 [Sir Alonne]
+168001311 [Sir Alonne]
+168100000 [Sinh- the Slumbering Dragon]
+168100001 [Sinh- the Slumbering Dragon]
+168100010 [Sinh- the Slumbering Dragon]
+168100011 [Sinh- the Slumbering Dragon]
+168100020 [Sinh- the Slumbering Dragon]
+168100310 [Sinh- the Slumbering Dragon]
+168100320 [Sinh- the Slumbering Dragon]
+168100321 [Sinh- the Slumbering Dragon]
+168100610 [Sinh- the Slumbering Dragon]
+168100620 [Sinh- the Slumbering Dragon]
+168100621 [Sinh- the Slumbering Dragon]
+168100810 [Sinh- the Slumbering Dragon]
+168100820 [Sinh- the Slumbering Dragon]
+168100821 [Sinh- the Slumbering Dragon]
+168100920 [Sinh- the Slumbering Dragon]
+168100921 [Sinh- the Slumbering Dragon]
+168100922 [Sinh- the Slumbering Dragon]
+168101110 [Sinh- the Slumbering Dragon]
+168101120 [Sinh- the Slumbering Dragon]
+168101121 [Sinh- the Slumbering Dragon]
+168101122 [Sinh- the Slumbering Dragon]
+168101210 [Sinh- the Slumbering Dragon]
+168101211 [Sinh- the Slumbering Dragon]
+168101220 [Sinh- the Slumbering Dragon]
+168101221 [Sinh- the Slumbering Dragon]
+168101230 [Sinh- the Slumbering Dragon]
+168101240 [Sinh- the Slumbering Dragon]
+168101510 [Sinh- the Slumbering Dragon]
+168101520 [Sinh- the Slumbering Dragon]
+168101521 [Sinh- the Slumbering Dragon]
+168101522 [Sinh- the Slumbering Dragon]
+168101700 [Sinh- the Slumbering Dragon]
+168101720 [Sinh- the Slumbering Dragon]
+168201010 [Elana- Squalid Queen]
+168201110 [Elana- Squalid Queen]
+168201111 [Elana- Squalid Queen]
+168201120 [Elana- Squalid Queen]
+168201121 [Elana- Squalid Queen]
+168201210 [Elana- Squalid Queen]
+168201211 [Elana- Squalid Queen]
+168201212 [Elana- Squalid Queen]
+168201213 [Elana- Squalid Queen]
+168201310 [Elana- Squalid Queen]
+168201311 [Elana- Squalid Queen]
+168201312 [Elana- Squalid Queen]
+168201313 [Elana- Squalid Queen]
+168201314 [Elana- Squalid Queen]
+168201315 [Elana- Squalid Queen]
+168201500 [Elana- Squalid Queen]
+168201600 [Elana- Squalid Queen]
+168201610 [Elana- Squalid Queen]
+168201611 [Elana- Squalid Queen]
+168201612 [Elana- Squalid Queen]
+168201710 [Elana- Squalid Queen]
+168201810 [Elana- Squalid Queen]
+168201811 [Elana- Squalid Queen]
+168201812 [Elana- Squalid Queen]
+168201820 [Elana- Squalid Queen]
+168201821 [Elana- Squalid Queen]
+168300930 [Imperfect]
+168302010 [Imperfect]
+168302020 [Imperfect]
+168803311 [Loyce Knight]
+168803410 [Loyce Knight]
+168803510 [Loyce Knight]
+168803530 [Loyce Knight]
+168803610 [Loyce Knight]
+168803620 [Loyce Knight]
+168900000 [Charred Loyce Knight]
+168903010 [Charred Loyce Knight]
+168903011 [Charred Loyce Knight]
+168903110 [Charred Loyce Knight]
+168903111 [Charred Loyce Knight]
+168903120 [Charred Loyce Knight]
+168903130 [Charred Loyce Knight]
+168903131 [Charred Loyce Knight]
+168903140 [Charred Loyce Knight]
+168903141 [Charred Loyce Knight]
+168903150 [Charred Loyce Knight]
+168903151 [Charred Loyce Knight]
+168903160 [Charred Loyce Knight]
+168903161 [Charred Loyce Knight]
+168903170 [Charred Loyce Knight]
+168903171 [Charred Loyce Knight]
+168903180 [Charred Loyce Knight]
+168903181 [Charred Loyce Knight]
+168903190 [Charred Loyce Knight]
+168903191 [Charred Loyce Knight]
+168903195 [Charred Loyce Knight]
+168903210 [Charred Loyce Knight]
+168903310 [Charred Loyce Knight]
+168903311 [Charred Loyce Knight]
+168903320 [Charred Loyce Knight]
+169000000 [Burnt Ivory King]
+169001110 [Burnt Ivory King]
+169200000 [Aldia- Scholar of the First Sin]
+169200010 [Aldia- Scholar of the First Sin]
+169200011 [Aldia- Scholar of the First Sin]
+169200020 [Aldia- Scholar of the First Sin]
+169200021 [Aldia- Scholar of the First Sin]
+169200030 [Aldia- Scholar of the First Sin]
+169200031 [Aldia- Scholar of the First Sin]
+169200080 [Aldia- Scholar of the First Sin]
+169200090 [Aldia- Scholar of the First Sin]
+169200100 [Aldia- Scholar of the First Sin]
+169200101 [Aldia- Scholar of the First Sin]
+169200102 [Aldia- Scholar of the First Sin]
+169200103 [Aldia- Scholar of the First Sin]
+169200104 [Aldia- Scholar of the First Sin]
+169200105 [Aldia- Scholar of the First Sin]
+169200106 [Aldia- Scholar of the First Sin]
+169200107 [Aldia- Scholar of the First Sin]
+169200110 [Aldia- Scholar of the First Sin]
+169200120 [Aldia- Scholar of the First Sin]
+169200121 [Aldia- Scholar of the First Sin]
+169200130 [Aldia- Scholar of the First Sin]
+169200131 [Aldia- Scholar of the First Sin]
+169200140 [Aldia- Scholar of the First Sin]
+169200141 [Aldia- Scholar of the First Sin]
+169200150 [Aldia- Scholar of the First Sin]
+169200151 [Aldia- Scholar of the First Sin]
+169200160 [Aldia- Scholar of the First Sin]
+169200161 [Aldia- Scholar of the First Sin]
+169200170 [Aldia- Scholar of the First Sin]
+169200171 [Aldia- Scholar of the First Sin]
+169200180 [Aldia- Scholar of the First Sin]
+169200181 [Aldia- Scholar of the First Sin]
+169200190 [Aldia- Scholar of the First Sin]
+169200210 [Aldia- Scholar of the First Sin]
+169200220 [Aldia- Scholar of the First Sin]
+169200221 [Aldia- Scholar of the First Sin]
+169200230 [Aldia- Scholar of the First Sin]
+169200231 [Aldia- Scholar of the First Sin]
+169200240 [Aldia- Scholar of the First Sin]
+169200241 [Aldia- Scholar of the First Sin]
+169200250 [Aldia- Scholar of the First Sin]
+169200251 [Aldia- Scholar of the First Sin]
+169200260 [Aldia- Scholar of the First Sin]
+169200261 [Aldia- Scholar of the First Sin]
+169200270 [Aldia- Scholar of the First Sin]
+169200271 [Aldia- Scholar of the First Sin]
+169200280 [Aldia- Scholar of the First Sin]
+169200281 [Aldia- Scholar of the First Sin]
+169200290 [Aldia- Scholar of the First Sin]
+169200300 [Aldia- Scholar of the First Sin]
+169200301 [Aldia- Scholar of the First Sin]
+169200302 [Aldia- Scholar of the First Sin]
+169200303 [Aldia- Scholar of the First Sin]
+169200310 [Aldia- Scholar of the First Sin]
+169200311 [Aldia- Scholar of the First Sin]
+169200312 [Aldia- Scholar of the First Sin]
+169200313 [Aldia- Scholar of the First Sin]
+169200400 [Aldia- Scholar of the First Sin]
+169200410 [Aldia- Scholar of the First Sin]
+169200420 [Aldia- Scholar of the First Sin]
+169200500 [Aldia- Scholar of the First Sin]
+169200501 [Aldia- Scholar of the First Sin]
+169200510 [Aldia- Scholar of the First Sin]
+169200511 [Aldia- Scholar of the First Sin]
+169200600 [Aldia- Scholar of the First Sin]
+169200610 [Aldia- Scholar of the First Sin]
+169200620 [Aldia- Scholar of the First Sin]
+170450810 [Laddersmith Gilligan]
+172500010 [Darkdiver Grandahl]
+172500110 [Darkdiver Grandahl]
+172500210 [Darkdiver Grandahl]
+172500220 [Darkdiver Grandahl]
+174401610 [Mild Mannered Pate]
+174401620 [Mild Mannered Pate]
+175300410 [Bell Keeper]
+175300411 [Bell Keeper]
+175301110 [Bell Keeper]
+175301210 [Bell Keeper]
+176200310 [Stone Trader Chloanne]
+176800110 [Straid of Olaphis]
+176800210 [Straid of Olaphis]
+176800310 [Straid of Olaphis]
+176800311 [Straid of Olaphis]
+176800312 [Straid of Olaphis]
+176800320 [Straid of Olaphis]
+176800321 [Straid of Olaphis]
+176800322 [Straid of Olaphis]
+176800323 [Straid of Olaphis]
+176800410 [Straid of Olaphis]
+176800510 [Straid of Olaphis]
+176800610 [Straid of Olaphis]
+176800620 [Straid of Olaphis]
+176901010 [Licia of Lindeldt]
+176901110 [Licia of Lindeldt]
+176901210 [Licia of Lindeldt]
+176901310 [Licia of Lindeldt]
+176901320 [Licia of Lindeldt]
+176901330 [Licia of Lindeldt]
+177001010 [Felkin the Outcast]
+177001020 [Felkin the Outcast]
+177001110 [Felkin the Outcast]
+177001210 [Felkin the Outcast]
+177001220 [Felkin the Outcast]
+177001230 [Felkin the Outcast]
+177001310 [Felkin the Outcast]
+177001320 [Felkin the Outcast]
+177001330 [Felkin the Outcast]
+177001331 [Felkin the Outcast]
+177001332 [Felkin the Outcast]
+177001340 [Felkin the Outcast]
+177001350 [Felkin the Outcast]
+177001360 [Felkin the Outcast]
+177001370 [Felkin the Outcast]
+177001380 [Felkin the Outcast]
+177001410 [Felkin the Outcast]
+177001420 [Felkin the Outcast]
+177001430 [Felkin the Outcast]
+177100210 [Royal Sorcerer Navlaan]
+177100310 [Royal Sorcerer Navlaan]
+177100410 [Royal Sorcerer Navlaan]
+177100510 [Royal Sorcerer Navlaan]
+177100511 [Royal Sorcerer Navlaan]
+177100512 [Royal Sorcerer Navlaan]
+177100513 [Royal Sorcerer Navlaan]
+177100610 [Royal Sorcerer Navlaan]
+177100620 [Royal Sorcerer Navlaan]
+177100630 [Royal Sorcerer Navlaan]
+177100640 [Royal Sorcerer Navlaan]
+177100650 [Royal Sorcerer Navlaan]
+178300310 [Titchy Gren]
+178300410 [Titchy Gren]
+178300510 [Titchy Gren]
+178300520 [Titchy Gren]
+178300600 [Titchy Gren]
+178300610 [Titchy Gren]
+178501010 [Blue Sentinel Targray]
+178501110 [Blue Sentinel Targray]
+185501500 [Voice Marker]
+185501600 [Voice Marker]
+185501700 [Voice Marker]
+185501800 [Voice Marker]
+190100010 UNKNOWN
+190100020 UNKNOWN
+190100030 UNKNOWN
+190100040 UNKNOWN
+190100050 UNKNOWN
+190100060 UNKNOWN
+190100070 UNKNOWN
+190100080 UNKNOWN
+190100090 UNKNOWN
+190100100 UNKNOWN
+190100110 UNKNOWN
+190100120 UNKNOWN
+190100130 UNKNOWN
+190100140 UNKNOWN
+190100150 UNKNOWN
+190100160 UNKNOWN
+190100170 UNKNOWN
+190100180 UNKNOWN
+190100190 UNKNOWN
+190100200 UNKNOWN
+190100210 UNKNOWN

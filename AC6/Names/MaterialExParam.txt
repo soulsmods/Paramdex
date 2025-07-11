@@ -81,20 +81,20 @@
 1270 Texture replacement of scan lines when executing recovery -- 回復実行時の走査線のテクスチャ差し替え
 2000 For texture scrolling of personal weapons (ammo belt, etc.) -- 自機武器のテクスチャスクロール用（弾薬ベルトなど）
 3000 For threshold value when the laser blade gets stuck in the wall -- レーザーブレードの壁にめり込んだ際の閾値用
-700000 Enemy BASE coloring changed -- 敵のBASEカラーリング変更
-700001 Enemy SUB coloring changed -- 敵のSUBカラーリング変更
-700002 Enemy SUPPORT coloring changed -- 敵のSUPPORTカラーリング変更
-700003 Enemy OPTIONAL coloring change -- 敵のOPTIONALカラーリング変更
-700004 Enemy JOINT coloring changed -- 敵のJOINTカラーリング変更
-700005 Enemy EYE coloring changed -- 敵のEYEカラーリング変更
-700010 Change the strength of enemy rust -- 敵の錆の強度変更
-700015 Changed the range of staining the enemy's 1st floor -- 敵の1層目汚しの範囲変更
-700016 Change the strength of enemy's 1st layer stain -- 敵の1層目汚しの強度変更
-700018 Enemy's 3rd layer armor peeling_strength -- 敵の3層目装甲剥がれ_強度
+700000 Color_Main
+700001 Color_Sub
+700002 Color_Support
+700003 Color_Optional
+700004 Color_Joint
+700005 Color_Eye
+700010 Rust_Int
+700015 Dirty_range_Int
+700016 Dirty_Int
+700018 Peeling_Int
 700100 Change enemy device strength -- 敵のデバイス強度変更
 701000 Emissive strength change for enemy AE_(strength only) -- 敵のAE対応のエミッシブ強度変更_(強度のみ）
 701001 Albedo strength change for enemy AE_(strength only) -- 敵のAE対応のアルベド強度変更_(強度のみ）
-701010 Emissive strength change for enemy AE_(color and strength) -- 敵のAE対応のエミッシブ強度変更_(カラーと強度）
+701010 Enemy_A_Emissive_Tint
 701020 Emissive texture scrolling compatible with enemy AE -- 敵のAE対応のエミッシブテクスチャスクロール対応
 701100 Emissive strength change for enemy AMSN_(strength only) -- 敵のAMSN対応のエミッシブ強度変更_(強度のみ）
 701110 Emissive strength change for enemy AMSN_(color and strength) -- 敵のAMSN対応のエミッシブ強度変更_(カラーと強度）

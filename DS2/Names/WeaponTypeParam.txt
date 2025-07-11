@@ -1,103 +1,144 @@
-0 Template -- テンプレート
-10 Bare hands -- 素手
-11 The Fire of Magic -- 呪術の火
-20 Nail -- 爪
-21 Key claws -- カギ爪
-30 Fist -- 拳
-40 Dagger (Counter 100) -- 短剣（カウンター100）
-41 Dagger (Counter 110) -- 短剣（カウンター110）
-42 Dagger (Counter 120) -- 短剣（カウンター120）
-43 Dagger (Counter 130) -- 短剣（カウンター130）
-44 Dagger (Counter 150) -- 短剣（カウンター150）
-60 Swords (Counter 100) -- 刺剣（カウンター100）
-61 Swords (Counter 120) -- 刺剣（カウンター120）
-62 Swords (Counter 140) -- 刺剣（カウンター140）
-70 Whip -- 鞭
-90 Double-edged sword (counter 110) -- 双刃剣（カウンター110）
-91 Double-edged sword (counter 120) -- 双刃剣（カウンター120）
-100 Spear -- 槍
-110 Assault Spear -- 突撃槍
-120 Curved Sword (Counter 100) -- 曲剣（カウンター100）
-121 Curved Sword (Counter 110) -- 曲剣（カウンター110）
-122 Curved Sword (Counter 130) -- 曲剣（カウンター130）
-130 Sword (Counter 130) -- 刀（カウンター130）
-131 NPC-Sword (Two-Sword Style) -- NPC-刀（二刀流両手）
-132 Sword (Counter 150) -- 刀（カウンター150）
-140 Direct Sword (Counter 100) -- 直剣（カウンター100）
-141 Direct Sword (Counter 110) -- 直剣（カウンター110）
-142 Direct Sword (Counter 120) -- 直剣（カウンター120）
-145 Rational Catalyst - Direct Sword -- 理力触媒-直剣
-150 Two-Handed Sickle (Counter 110) -- 両手鎌(カウンター110)
-151 Two-handed sickle (for immortal one-handed axe) -- 両手鎌（イモータルの片手斧用）
-160 Two-handed sword (counter 100) -- 両手剣（カウンター100）
-161 Two-Handed Sword (Counter 110) -- 両手剣（カウンター110）
-162 Two-handed sword (counter 120) -- 両手剣（カウンター120）
-163 Two-handed sword (counter 150) -- 両手剣（カウンター150）
-170 Two-handed oversized sword (counter 130) -- 両手特大剣（カウンター130）
-171 Two-handed oversized sword (counter 110) -- 両手特大剣（カウンター110）
-180 Two-Handed Sword (Counter 110) -- 両手大曲剣（カウンター110）
-200 One Hand (Counter 100) -- 片手鎚（カウンター100）
-201 One-handed catalyst -- 片手鎚触媒
-202 Otama -- おたま
-203 One hand mallet (for clerics) -- 片手槌（クレリック用）
-204 One Hand (Counter 120) -- 片手鎚（カウンター120）
-205 One Hand (Counter 130) -- 片手鎚（カウンター130）
-240 Both hands -- 両手鎚
-245 Two-handed mallet -- 両手槌（長槌）
-246 Two-handed axe hammer -- 両手長斧槌
-270 One-handed axe (counter 110) -- 片手斧（カウンター110）
-271 One-handed axe (counter 120) -- 片手斧（カウンター120）
-275 One-handed axe (heavy 110) -- 片手斧（重い 110）
-276 One-handed axe (heavy 120) -- 片手斧（重い 120）
-277 One-handed axe (heavy 100) -- 片手斧（重い 100）
-280 Two-handed axe (double-edged 100) -- 両手斧（両刃 100）
-281 Two-handed axe (double-edged 110) -- 両手斧（両刃 110）
-285 Two-handed axe (single blade 100) -- 両手斧（片刃 100）
-286 Two-Handed Axe (Crescent Axe) -- 両手斧（クレセントアックス）
-287 Two-handed axe (single blade 110) -- 両手斧（片刃 110）
-290 Two-handed axe -- 両手長斧
-330 Wand (Chanting 100) -- 杖（詠唱100）
-331 Large Cane (Chanting 105) -- 大杖（詠唱105）
-332 Wand (Chanting 105) -- 杖（詠唱105）
-333 Wand (Chanting 110) -- 杖（詠唱110）
-334 Wand (Chanting 120) -- 杖（詠唱120）
-335 Wand (Chanting 125) -- 杖（詠唱125）
-336 Wand (Chanting 135) -- 杖（詠唱135）
-337 Wand (Chanting 140) -- 杖（詠唱140）
-338 Large Cane (Chanting 125) -- 大杖（詠唱125）
-339 Large Cane (Chanting 100) -- 大杖（詠唱100）
-340 Magic Miracle Catalyst -- 魔術奇蹟触媒
-341 Large Cane (Chanting 110) -- 大杖（詠唱110）
-350 Suzu (Chanting 100) -- 鈴（詠唱100）
-351 Suzu (Exclusive with Saint's Wife) -- 鈴（聖女付き専用）
-352 Suzu (Chanting 105) -- 鈴（詠唱105）
-353 Suzu (Chanting 120) -- 鈴（詠唱120）
-354 Suzu (Chanting 130) -- 鈴（詠唱130）
-355 Bell (circular) -- 鈴（円状）
-356 Suzu (Chanting 140) -- 鈴（詠唱140）
-357 Suzu (Chanting 145) -- 鈴（詠唱145）
-358 Suzu - For Dark Art (Chanting 145) -- 鈴-闇術専用（詠唱145）
-360 Two-handed bow (range 35) -- 両手弓（射程35）
-361 Two-handed bow (range 45) -- 両手弓（射程45）
-362 Two-handed bow (range 50) -- 両手弓（射程50）
-363 Two-handed bow (range 60) -- 両手弓（射程60）
-364 Two-handed bow (range 65) -- 両手弓（射程65）
-365 Two-handed bow -- 両手弓（王妃の弓）
-370 Two-handed bow (normal) -- 両手大弓（通常）
-371 Long bow with both hands -- 両手大弓（長）
-380 One-handed bow (range 35) -- 片手ボウ（射程35）
-381 One Hand Bow (Shield Cross 45) -- 片手ボウ（シールドクロス45）
-385 One-handed shot bow (range 35) -- 片手連射ボウ（射程35）
-386 One-handed bow (range 40) -- 片手ボウ（射程40）
-410 Small Shield Pari -- 小盾パリィ
-420 Small Shield Spell Pari -- 小盾スペルパリィ
-430 Medium Shield Pari (Counter 100) -- 中盾パリィ（カウンター100）
-431 Medium Shield Pari (Counter 110) -- 中盾パリィ（カウンター110）
-440 Medium Shield Spell Pari -- 中盾スペルパリィ
-450 Medium Shield Bash -- 中盾シールドバッシュ
-460 Great Shield Surreal Bash -- 大盾シュールドバッシュ
-461 Great Shield Spell Pari -- 大盾スペルパリィ
-465 Large Shield - Left -- 大盾-左
-466 Large Shield - Right -- 大盾-右
-470 Torches -- 松明
-480 Binoculars -- 双眼鏡
+0 Default
+10 Hands: Generic
+11 Hands: Pyromancy Flame
+20 Claw: Generic
+21 Claw: Work Hook
+22 Claw: Malformed Claws
+30 Fist: Generic
+40 Dagger: Generic
+41 Dagger: Thief Dagger / Retainer's Short Sword
+42 Dagger: Parrying Dagger / Blue Dagger
+43 Dagger: Black Flamestone Dagger
+44 Dagger: Dagger
+45 Dagger: Royal Dirk
+60 Thrusting Sword: Generic
+61 Thrusting Sword: Estoc
+62 Thrusting Sword: Rapier
+63 Thrusting Sword: Spider's Silk
+70 Whip: Generic
+90 Twinblade: Generic
+91 Twinblade: Dragonrider Twinblade/Red Iron Twinblade
+92 Twinblade: Stone Twinblade
+100 Spear: Generic
+101 Spear: Gargoyle Bident
+110 Lance: Generic
+120 Curved Sword: Generic
+121 Curved Sword: Falchion
+122 Curved Sword: Warped Sword
+130 Katana: Generic
+131 Katana: Beserker Blade
+132 Katana: Uchigatana
+133 Katana: Chaos Blade
+140 Straight Sword: Generic
+141 Straight Sword: Longsword
+142 Straight Sword: Shortsword
+145 Straight Sword: Blue Flame
+150 Scythe: Generic
+151 Scythe: Silverblack Sickle
+160 Greatsword: Generic
+161 Greatsword: Claymore
+162 Greatsword: Bastard Sword
+163 Greatsword: Key to the Embedded
+164 Greatsword: Drakeblood Greatsword
+170 Ultra Greatsword: Generic
+171 Ultra Greatsword: King's Ultra Greatsword
+172 Ultra Greatsword: Pursuer's Ultra Greatsword
+180 Curved Greatsword: Generic
+200 Hammer: Generic
+201 Hammer: Mace of the Insolent
+202 Hammer: Handmaid's Ladle
+203 Hammer: Archdrake Mace
+204 Hammer: Club
+205 Hammer: Craftsman's Hammer
+240 Great Hammer: Generic
+241 Great Hammer: Pickaxe
+245 Great Hammer: Blank
+246 Great Hammer: Drakekeeper's Warpick
+270 Axe: Hand Axe
+271 Axe: Battle Axe
+272 Axe: Dragonslayer's Crescent Axe
+275 Axe: Gyrm Axe
+276 Axe: Blank
+277 Axe: Butcher's Knife
+280 Greataxe: Generic
+281 Greataxe: Bandit Greataxe
+285 Greataxe: Giant Stone Axe
+286 Greataxe: Crescent Axe
+287 Greataxe: Greataxe
+290 Halberd: Generic
+330 Staff: Generic
+331 Staff: Sunset Staff
+332 Staff: Blank
+333 Staff: Blank
+334 Staff: Lizard Staff
+335 Staff: Bat Staff
+336 Staff: Sorcerer's Staff
+337 Staff: Witchtree Branch
+338 Staff: Archdrake Staff
+339 Staff: Bone Staff
+340 Staff: Black Witch's Staff
+341 Staff: Staff of Wisdom
+342 Staff: Azal's Staff
+343 Staff: Olenford's Staff
+350 Chime: Generic
+351 Chime: Protective Chime
+352 Chime: Idol's Chime
+353 Chime: Priest's Chime
+354 Chime: Chime of Want
+355 Chime: Disc Chime
+356 Chime: Cleric's Sacred Chime
+357 Chime: Dragon Chime
+358 Chime: Caitha's Chime
+360 Bow: Generic
+361 Bow: Short Bow
+362 Bow: Long Bow
+363 Bow: Hunter's Blackbow
+364 Bow: Sea Bow
+365 Bow: Bow of Want
+370 Greatbow: Generic
+371 Greatbow: Blank
+380 Crossbow: Generic
+381 Crossbow: Shield Crossbow
+385 Crossbow: Avelyn
+386 Crossbow: Heavy Crossbow
+410 Small Shield: Generic
+420 Small Shield: Cleric's Parma
+430 Medium Shield: Large Leather Shield
+431 Medium Shield: Archdrake Shield
+440 Medium Shield: Spirit Tree Shield
+450 Medium Shield: Blank
+460 Greatshield: Tower Shield
+461 Greatshield: King's Mirror
+465 Greatshield: Orma's Greatshield
+466 Greatshield: Reeve's Greatshield
+470 Torch: Generic
+480 Binoculars: Generic
+500 Twinblade: Sorcerer's Twinblade
+510 Straight Sword: Ivory Straight Sword
+520 Greatsword: Majestic Greatsword
+530 Ultra Greatsword: Fume Ultra Greatsword
+540 Greatbow: Possessed Armor Greatbow
+550 Greatbow: Twin-headed Greatbow
+560 Crossbow: Sanctum Crossbow
+570 Crossbow: Sanctum Repeating Crossbow
+580 Crossbow: Sanctum Shield
+590 Katana: Bewitched Alonne Sword
+600 Fist: Bone Fist
+610 Hammer: Sanctum Mace
+620 Spear: Pilgrim's Spontoon
+630 Thrusting Sword: Ice Rapier
+640 Spear: Blank
+641 Spear: Yorgh's Spear
+650 Chime: Chime of Screams
+660 Blank
+670 Ultra Greatsword: Crypt Blacksword
+680 Halberd: Helix Halberd
+690 Great Hammer: Smelter Hammer
+700 Spear: Spitfire Spear
+710 Greatsword: Loyce Greatsword
+720 Blank
+730 Staff: Retainer Staff
+740 Dagger: Bandit's Knife
+741 Dagger: Shadow Dagger
+742 Dagger: Umbral Dagger
+745 Dagger: Manikin Knife

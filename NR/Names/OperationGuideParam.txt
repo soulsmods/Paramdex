@@ -1,0 +1,25 @@
+100 Hold <?keyicon@122?>: Descend
+<?keyicon@105?>: Disembark
+101 <?keyicon@105?>: Disembark
+200 <?keyicon@107?>: Spiritstream jump
+201 <?keyicon@107?>: Spiritstream jump
+202 <?keyicon@107?>: Spiritstream jump
+300 Find crest
+301 Find crest
+302 Find crest
+303 Find crest
+304 Find crest
+305 Find crest
+306 Find crest
+307 Find crest
+308 Find crest
+309 Find crest
+320 Find crests
+400 Smithing table is sealed
+500 Unable to examine now
+501 Unable to examine now
+502 Unable to examine now
+503 Unable to examine now
+504 Unable to examine now
+505 Unable to examine now
+506 Unable to examine now

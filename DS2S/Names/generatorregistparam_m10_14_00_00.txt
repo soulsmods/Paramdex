@@ -4,7 +4,7 @@
 10700001 [REG:10700001] Parasitized Undead
 10700100 [REG:10700100] Parasitized Undead
 11820000 [REG:11820000] White Hollow Mage
-12700000 [REG:12700000] Captive Undead
+12700000 [REG:12700000] Undead Laborer
 13700000 [REG:13700000] Prowling Magus
 14601000 [REG:14601000] Lord Tseldora
 14700000 [REG:14700000] Undead Supplicant
@@ -21,7 +21,6 @@
 14801100 [REG:14801100] Undead Peasant
 20110000 [REG:20110000] Small Boar
 20210000 [REG:20210000] Undead Boar
-20210010 [REG:20210010] Undead Boar
 20300000 [REG:20300000] Parasite Spider
 20300002 [REG:20300002] Parasite Spider
 20300010 [REG:20300010] Parasite Spider
@@ -57,14 +56,13 @@
 21300000 [REG:21300000] Crystal Lizard
 21310000 [REG:21310000] Red Crystal Lizard
 21400000 [REG:21400000] Giant Undead Boar
-21400010 [REG:21400010] Giant Undead Boar
 31300000 [REG:31300000] Hollow Falconer
 31300010 [REG:31300010] Hollow Falconer
 31300020 [REG:31300020] Hollow Falconer
 32100000 [REG:32100000] Mimic
 60300000 [REG:60300000] The Duke's Dear Freja
 60301000 [REG:60301000] The Duke's Dear Freja
-69300000 [REG:69300000] Aldia, Scholar of the First Sin
+69300000 [REG:69300000] Aldia- Scholar of the First Sin
 69400000 [REG:69400000] Forlorn
 74200000 [REG:74200000] Creighton the Wanderer
 74200001 [REG:74200001] Creighton the Wanderer

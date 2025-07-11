@@ -1,9 +1,9 @@
-40 [GEN:40] NO MATCH
-41 [GEN:41] NO MATCH
-55 [GEN:55] NO MATCH
-56 [GEN:56] NO MATCH
-255 [GEN:255] Vengarl
-257 [GEN:257] Vengarl
+40 [GEN:40] Darkdiver Grandahl
+41 [GEN:40] Darkdiver Grandahl
+55 [GEN:55] Creighton the Wanderer
+56 [GEN:56] Creighton the Wanderer
+255 [GEN:255] Head of Vengarl
+257 [GEN:257] Head of Vengarl
 265 [GEN:265] Weaponsmith Ornifex
 266 [GEN:266] Weaponsmith Ornifex
 325 [GEN:325] Manscorpion Tark
@@ -22,7 +22,14 @@
 1111 [GEN:1111] Forest Grotesque
 1112 [GEN:1112] Forest Grotesque
 1113 [GEN:1113] Forest Grotesque
+1200 [GEN:1200] Hollow Falconer
+1201 [GEN:1201] Hollow Falconer
+1202 [GEN:1202] Hollow Falconer
+1204 [GEN:1204] Hollow Falconer
+1205 [GEN:1205] Hollow Falconer
 1250 [GEN:1250] Forest Guardian
+1260 [GEN:1260] Forest Grotesque
+1261 [GEN:1261] Forest Grotesque
 1300 [GEN:1300] Forest Guardian
 1310 [GEN:1310] Forest Guardian
 2000 [GEN:2000] Forest Guardian
@@ -44,24 +51,7 @@
 2231 [GEN:2231] Basilisk
 2234 [GEN:2234] Basilisk
 2235 [GEN:2235] Basilisk
-2236 [GEN:2236] Basilisk
-2237 [GEN:2237] Basilisk
-2238 [GEN:2238] Basilisk
-2239 [GEN:2239] Basilisk
-2240 [GEN:2240] Basilisk
-2241 [GEN:2241] Basilisk
-2242 [GEN:2242] Basilisk
-2243 [GEN:2243] Basilisk
-2244 [GEN:2244] Basilisk
-2245 [GEN:2245] Basilisk
-2246 [GEN:2246] Basilisk
-2250 [GEN:2250] Giant Basilisk
-2251 [GEN:2251] Giant Basilisk
-2252 [GEN:2252] Giant Basilisk
 2300 [GEN:2300] Syan Knight
-2301 [GEN:2301] Syan Knight
-2302 [GEN:2302] Syan Knight
-2303 [GEN:2303] Syan Knight
 2310 [GEN:2310] Lion Clan Warrior
 2320 [GEN:2320] Crystal Lizard
 2400 [GEN:2400] Forest Guardian

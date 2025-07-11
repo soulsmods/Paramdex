@@ -1,47 +1,54 @@
-15 【Housekeeper】 Npc -- 【家政婦】NPC
-16 【Housekeeper】 NPC (Ghost) -- 【家政婦】NPC（亡霊）
-17 【Housekeeper】 NPC_ Cut Scene -- 【家政婦】NPC_カットシーン
-210 [Fire protection woman 1 of the retirement] Npc -- 【退役の火防女１】NPC
-211 [Fire protection woman 1 of the retirement] NPC (Ghost) -- 【退役の火防女１】NPC（亡霊）
-212 [Fire protection woman 1 of the retirement] NPC_ Cut Scene -- 【退役の火防女１】NPC_カットシーン
-215 [Fire protection woman 2 of the retirement] Npc -- 【退役の火防女２】NPC
-216 [Fire protection woman 2 of the retirement] NPC (Ghost) -- 【退役の火防女２】NPC（亡霊）
-217 [Fire protection woman 2 of the retirement] NPC_ Cut Scene -- 【退役の火防女２】NPC_カットシーン
-220 [Fire protection woman 3 of the retirement] Npc -- 【退役の火防女３】NPC
-221 [Fire protection woman 3 of the retirement] NPC (Ghost) -- 【退役の火防女３】NPC（亡霊）
-222 [Fire protection woman 3 of the retirement] NPC_ Cut Scene -- 【退役の火防女３】NPC_カットシーン
-320 [Glitter Daughter] Npc -- 【キラキラ娘】NPC
-1000 【Kusaga sagasa】Kobold 1 -- 【草ガサガサ】コボルト１
-1001 【Kusaga sagasa】Kobold 2 -- 【草ガサガサ】コボルト2
-1002 【Kusaga sagasa】Kobold 3 -- 【草ガサガサ】コボルト3
-1003 【Kusaga sagasa】Kobold 4 -- 【草ガサガサ】コボルト4
-1010 【Kusaga sagasa】Kobold 5 -- 【草ガサガサ】コボルト5
-1012 【Kusaga sagasa】Kobold 6 -- 【草ガサガサ】コボルト6
-1600 【Tutorial Strong Enemy】Auga -- 【チュートリアル強敵】オーガ
-3000 【Tutorial 1】The Dead: The Traveler's Clothes ♂: Bare Hands -- 【チュートリアル１】亡者：旅人の服♂：素手
-3010 【Tutorial 1】The Dead: The Traveler's Clothes ♂: Bare Hands -- 【チュートリアル１】亡者：旅人の服♂：素手
-3020 【Tutorial 1】The Dead: The Traveler's Clothes ♂: Bare Hands -- 【チュートリアル１】亡者：旅人の服♂：素手
-3030 【Tutorial 1】The Dead: The Traveler's Clothes ♂: Bare Hands -- 【チュートリアル１】亡者：旅人の服♂：素手
-3040 【Tutorial 1】 NPC: Gap Cave: Sniper -- 【チュートリアル１】NPC：隙間の洞：狙撃
-3041 【Tutorial 1】The Dead: The Traveler's Clothes ♂: Bare Hands -- 【チュートリアル１】亡者：旅人の服♂：素手
-3050 【Tutorial 1】 NPC: Gap Cave: Sniper -- 【チュートリアル１】NPC：隙間の洞：狙撃
-3051 【Tutorial 1】The Dead: Traveler's Clothing ♂: Dagger -- 【チュートリアル１】亡者：旅人の服♂：短剣
-3100 【Tutorial 2】The Dead: Traveler's Clothes ♂: Dagger -- 【チュートリアル２】亡者：旅人の服♂：短剣
-3101 【Tutorial 2】 NPC: Gap Sinus: Proximity -- 【チュートリアル２】NPC：隙間の洞：近接
-3110 【Tutorial 2】 NPC: Gap Sinus: Proximity -- 【チュートリアル２】NPC：隙間の洞：近接
-3111 【Tutorial 2】 NPC: Gap Sinus: Proximity -- 【チュートリアル２】NPC：隙間の洞：近接
-3200 【Tutorial 3】The Dead: The Traveler's Clothing ♂: Dagger -- 【チュートリアル３】亡者：旅人の服♂：短剣
-3211 【Tutorial 3】 NPC: Gap Cave: Sniper -- 【チュートリアル３】NPC：隙間の洞：狙撃
-3220 【Tutorial 3】The Dead: The Traveler's Clothing ♂: Dagger -- 【チュートリアル３】亡者：旅人の服♂：短剣
-3230 【Tutorial 3】 NPC: Gap Sinus: Shooting -- 【チュートリアル３】NPC：隙間の洞：射撃
-3300 【Tutorial_Sandy Beach】Auga 01 -- 【チュートリアル_砂浜】オーガ01
-3301 【Tutorial_Sandy Beach】Auga 02 -- 【チュートリアル_砂浜】オーガ02
-4000 【Opening Square of The Second Week】Takataku Warrior: Taka01 -- 【２週目開始広場】鷹匠戦士：鷹01
-4001 【Opening Square of The Second Week】Takataku Warrior: Taka02 -- 【２週目開始広場】鷹匠戦士：鷹02
-4002 【Opening Square of The Second Week】Takataku Warrior: Taka03 -- 【２週目開始広場】鷹匠戦士：鷹03
-4003 [Opening square of the second week] falcon warrior: bow -- 【２週目開始広場】鷹匠戦士：弓
-7000 [Second lap appearance _ jumping appearance] goblin son of a raw hand: Soul Black -- 【２周目出現_飛び降り登場】ゴブリン（生者）：素手：ソウルブラック
-7010 [Second lap appearance _ jumping appearance] goblin son of a raw hand: Soul Black -- 【２周目出現_飛び降り登場】ゴブリン（生者）：素手：ソウルブラック
-7100 [Second lap appearance _ battle] goblins (raw man) bare hands: Soul Black -- 【２周目出現_戦闘】ゴブリン（生者）：素手：ソウルブラック
-8170 [Red spirit_NPC appearance of the second lap] second lap hunting -- 【２周目出現_NPC赤霊】２周目狩り
-9000 [Character for cut scene] player -- 【カットシーン用キャラ】プレイヤー
+15 [GEN:15] Milibeth
+16 [GEN:16] Milibeth
+17 [GEN:17] Milibeth
+210 [GEN:210] Strowen
+211 [GEN:211] Strowen
+212 [GEN:212] Strowen
+215 [GEN:215] Griant
+216 [GEN:216] Griant
+217 [GEN:217] Griant
+220 [GEN:220] Morrel
+221 [GEN:221] Morrel
+222 [GEN:222] Morrel
+320 [GEN:320] Dyna & Tillo
+1000 [GEN:1000] Kobold
+1001 [GEN:1001] Kobold
+1002 [GEN:1002] Kobold
+1003 [GEN:1003] Kobold
+1010 [GEN:1010] Kobold
+1012 [GEN:1012] Kobold
+1600 [GEN:1600] Ogre
+3000 [GEN:3000] Undead Traveler
+3010 [GEN:3010] Undead Traveler
+3020 [GEN:3020] Undead Traveler
+3030 [GEN:3030] Undead Traveler
+3040 [GEN:3040] Foreign Wanderer
+3041 [GEN:3041] Undead Traveler
+3050 [GEN:3050] Foreign Wanderer
+3051 [GEN:3051] Undead Traveler
+3100 [GEN:3100] Undead Traveler
+3101 [GEN:3101] Foreign Wanderer
+3110 [GEN:3110] Foreign Wanderer
+3111 [GEN:3111] Foreign Wanderer
+3211 [GEN:3211] Foreign Wanderer
+3220 [GEN:3220] Undead Traveler
+3230 [GEN:3230] Foreign Wanderer
+3240 [GEN:3240] Basilisk
+3241 [GEN:3241] Basilisk
+3242 [GEN:3242] Basilisk
+3250 [GEN:3250] Basilisk
+3251 [GEN:3251] Basilisk
+3252 [GEN:3252] Basilisk
+3300 [GEN:3300] Ogre
+3301 [GEN:3301] Ogre
+3350 [GEN:3350] The Pursuer
+3500 [GEN:3500] Undead Traveler
+4000 [GEN:4000] Hollow Falconer
+4001 [GEN:4001] Hollow Falconer
+4002 [GEN:4002] Hollow Falconer
+4003 [GEN:4003] Hollow Falconer
+7000 [GEN:7000] Forest Grotesque
+7010 [GEN:7010] Forest Grotesque
+8170 [GEN:8170] Foreign Wanderer Phantom
+9000 [GEN:9000] Player Character - Start Sequence
+9500 [GEN:9500] Bastard Sword Foreigner Phantom

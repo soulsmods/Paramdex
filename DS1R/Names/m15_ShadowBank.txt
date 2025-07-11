@@ -1,0 +1,13 @@
+0 B0Outdoors
+1 B0Indoors
+10 B1Basic
+11 B1Indoors
+12 B1RotatingBridge
+13 B1BossRoom
+40 ForRoughMap
+58 PolyG-scn150152, 150157-B
+59 PolyG-scn150152, 150157-A
+60 PolyG-scn150000-B0
+61 PolyG-scn150000-B1
+62 PolyG-scn150140_pv_cut3
+63 PolyG-scn150140_pv_cut5

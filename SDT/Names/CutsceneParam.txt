@@ -19,7 +19,7 @@
 11020001 Losing to rivals_Victory -- ライバルに敗れる＿勝利
 11020040 Resurrected Kensei Appears -- 蘇った剣聖登場
 11020070 Receive a sword from the prince -- 皇子から刀を授かる
-25000020 Mermaid dragon appeared -- 人魚竜登場
+25000020 Moving to the sea of clouds -- 雲海への移動
 25000020 Moving to the sea of clouds -- 雲海への移動
 11010080 Kensei Appearance Castle Tower -- 剣聖登場天守閣
 11020090 Join the prince -- 皇子と合流

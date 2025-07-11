@@ -1,0 +1,197 @@
+5000000 Wylder - Head
+5000100 Wylder - Body [Visible Model]
+5000200 Wylder - Arms
+5000300 Wylder - Legs
+5001000 Guardian - Head
+5001100 Guardian - Body [Visible Model]
+5001200 Guardian - Arms
+5001300 Guardian - Legs
+5002000 Ironeye (with Quiver) - Head
+5002100 Ironeye (with Quiver) - Body [Visible Model]
+5002200 Ironeye (with Quiver) - Arms
+5002300 Ironeye (with Quiver) - Legs
+5002500 Ironeye (without Quiver) [Visible Model]
+5003000 Duchess - Head
+5003100 Duchess - Body [Visible Model]
+5003200 Duchess - Arms
+5003300 Duchess - Legs
+5003500 Duchess (Firekeeper) [Visible Model]
+5004000 Raider - Head
+5004100 Raider - Body [Visible Model]
+5004200 Raider - Arms
+5004300 Raider - Legs
+5005000 Revenant - Head
+5005100 Revenant - Body [Visible Model]
+5005200 Revenant - Arms
+5005300 Revenant - Legs
+5005500 Revenant (Outfit) [Visible Model]
+5005600 Revenant (Outfit) [Visible Model]
+5006000 Recluse - Head
+5006100 Recluse - Body [Visible Model]
+5006200 Recluse - Arms
+5006300 Recluse - Legs
+5007000 Executor - Head
+5007100 Executor - Body [Visible Model]
+5007200 Executor - Arms
+5007300 Executor - Legs
+5010000 Wylder (Dawn) - Head
+5010100 Wylder (Dawn) - Body [Visible Model]
+5010200 Wylder (Dawn) - Arms
+5010300 Wylder (Dawn) - Legs
+5011000 Guardian (Dawn) - Head
+5011100 Guardian (Dawn) - Body [Visible Model]
+5011200 Guardian (Dawn) - Arms
+5011300 Guardian (Dawn) - Legs
+5012000 Ironeye (Dawn) - Head
+5012100 Ironeye (Dawn) - Body [Visible Model]
+5012200 Ironeye (Dawn) - Arms
+5012300 Ironeye (Dawn) - Legs
+5013000 Duchess (Dawn) - Head
+5013100 Duchess (Dawn) - Body [Visible Model]
+5013200 Duchess (Dawn) - Arms
+5013300 Duchess (Dawn) - Legs
+5014000 Raider (Dawn) - Head
+5014100 Raider (Dawn) - Body [Visible Model]
+5014200 Raider (Dawn) - Arms
+5014300 Raider (Dawn) - Legs
+5015000 Revenant (Dawn) - Head
+5015100 Revenant (Dawn) - Body [Visible Model]
+5015200 Revenant (Dawn) - Arms
+5015300 Revenant (Dawn) - Legs
+5016000 Recluse (Dawn) - Head
+5016100 Recluse (Dawn) - Body [Visible Model]
+5016200 Recluse (Dawn) - Arms
+5016300 Recluse (Dawn) - Legs
+5017000 Executor (Dawn) - Head
+5017100 Executor (Dawn) - Body [Visible Model]
+5017200 Executor (Dawn) - Arms
+5017300 Executor (Dawn) - Legs
+5020000 Wylder (Darkness) - Head
+5020100 Wylder (Darkness) - Body [Visible Model]
+5020200 Wylder (Darkness) - Arms
+5020300 Wylder (Darkness) - Legs
+5021000 Guardian (Darkness) - Head
+5021100 Guardian (Darkness) - Body [Visible Model]
+5021200 Guardian (Darkness) - Arms
+5021300 Guardian (Darkness) - Legs
+5022000 Ironeye (Darkness) - Head
+5022100 Ironeye (Darkness) - Body [Visible Model]
+5022200 Ironeye (Darkness) - Arms
+5022300 Ironeye (Darkness) - Legs
+5023000 Duchess (Darkness) - Head
+5023100 Duchess (Darkness) - Body [Visible Model]
+5023200 Duchess (Darkness) - Arms
+5023300 Duchess (Darkness) - Legs
+5024000 Raider (Darkness) - Head
+5024100 Raider (Darkness) - Body [Visible Model]
+5024200 Raider (Darkness) - Arms
+5024300 Raider (Darkness) - Legs
+5025000 Revenant (Darkness) - Head
+5025100 Revenant (Darkness) - Body [Visible Model]
+5025200 Revenant (Darkness) - Arms
+5025300 Revenant (Darkness) - Legs
+5026000 Recluse (Darkness) - Head
+5026100 Recluse (Darkness) - Body [Visible Model]
+5026200 Recluse (Darkness) - Arms
+5026300 Recluse (Darkness) - Legs
+5027000 Executor (Darkness) - Head
+5027100 Executor (Darkness) - Body [Visible Model]
+5027200 Executor (Darkness) - Arms
+5027300 Executor (Darkness) - Legs
+5030000 Wylder (Remembrance) - Head
+5030100 Wylder (Remembrance) - Body [Visible Model]
+5030200 Wylder (Remembrance) - Arms
+5030300 Wylder (Remembrance) - Legs
+5031000 Guardian (Remembrance) - Head
+5031100 Guardian (Remembrance) - Body [Visible Model]
+5031200 Guardian (Remembrance) - Arms
+5031300 Guardian (Remembrance) - Legs
+5032000 Ironeye (Remembrance) - Head
+5032100 Ironeye (Remembrance) - Body [Visible Model]
+5032200 Ironeye (Remembrance) - Arms
+5032300 Ironeye (Remembrance) - Legs
+5033000 Duchess (Remembrance) - Head
+5033100 Duchess (Remembrance) - Body [Visible Model]
+5033200 Duchess (Remembrance) - Arms
+5033300 Duchess (Remembrance) - Legs
+5034000 Raider (Remembrance) - Head
+5034100 Raider (Remembrance) - Body [Visible Model]
+5034200 Raider (Remembrance) - Arms
+5034300 Raider (Remembrance) - Legs
+5034400 Raider (Remembrance) - Alt [Visible Model]
+5035000 Revenant (Remembrance) - Head
+5035100 Revenant (Remembrance) - Body [Visible Model]
+5035200 Revenant (Remembrance) - Arms
+5035300 Revenant (Remembrance) - Legs
+5036000 Recluse (Remembrance) - Head
+5036100 Recluse (Remembrance) - Body [Visible Model]
+5036200 Recluse (Remembrance) - Arms
+5036300 Recluse (Remembrance) - Legs
+5037000 Executor (Remembrance) - Head
+5037100 Executor (Remembrance) - Body [Visible Model]
+5037200 Executor (Remembrance) - Arms
+5037300 Executor (Remembrance) - Legs
+5050000 Wylder (Abysswalker) - Head
+5050100 Wylder (Abysswalker) - Body [Visible Model]
+5050200 Wylder (Abysswalker) - Arms
+5050300 Wylder (Abysswalker) - Legs
+5051000 Guardian (Sunlight Knight) - Head
+5051100 Guardian (Sunlight Knight) - Body [Visible Model]
+5051200 Guardian (Sunlight Knight) - Arms
+5051300 Guardian (Sunlight Knight) - Legs
+5052000 Ironeye (Ringfinger) - Head
+5052100 Ironeye (Ringfinger) - Body [Visible Model]
+5052200 Ironeye (Ringfinger) - Arms
+5052300 Ironeye (Ringfinger) - Legs
+5053000 Duchess (Black Leather) - Head
+5053100 Duchess (Black Leather) - Body [Visible Model]
+5053200 Duchess (Black Leather) - Arms
+5053300 Duchess (Black Leather) - Legs
+5054000 Raider (Rock-like) - Head
+5054100 Raider (Rock-like) - Body [Visible Model]
+5054200 Raider (Rock-like) - Arms
+5054300 Raider (Rock-like) - Legs
+5055000 Revenant (The Sister in the Painting) - Head
+5055100 Revenant (The Sister in the Painting) - Body [Visible Model]
+5055200 Revenant (The Sister in the Painting) - Arms
+5055300 Revenant (The Sister in the Painting) - Legs
+5056000 Recluse (Heretic Sorcerer) - Head
+5056100 Recluse (Heretic Sorcerer) - Body [Visible Model]
+5056200 Recluse (Heretic Sorcerer) - Arms
+5056300 Recluse (Heretic Sorcerer) - Legs
+5057000 Executor (Thorns) - Head
+5057100 Executor (Thorns) - Body [Visible Model]
+5057200 Executor (Thorns) - Arms
+5057300 Executor (Thorns) - Legs
+5060000 Wylder (Lion Knight) - Head
+5060100 Wylder (Lion Knight) - Body [Visible Model]
+5060200 Wylder (Lion Knight) - Arms
+5060300 Wylder (Lion Knight) - Legs
+5061000 Guardian (Wayfarer) - Head
+5061100 Guardian (Wayfarer) - Body [Visible Model]
+5061200 Guardian (Wayfarer) - Arms
+5061300 Guardian (Wayfarer) - Legs
+5062000 Ironeye (Sellsword) - Head
+5062100 Ironeye (Sellsword) - Body [Visible Model]
+5062200 Ironeye (Sellsword) - Arms
+5062300 Ironeye (Sellsword) - Legs
+5063000 Duchess (Wraith) - Head
+5063100 Duchess (Wraith) - Body [Visible Model]
+5063200 Duchess (Wraith) - Arms
+5063300 Duchess (Wraith) - Legs
+5064000 Raider (Catarina) - Head
+5064100 Raider (Catarina) - Body [Visible Model]
+5064200 Raider (Catarina) - Arms
+5064300 Raider (Catarina) - Legs
+5065000 Revenant (Dragon School) - Head
+5065100 Revenant (Dragon School) - Body [Visible Model]
+5065200 Revenant (Dragon School) - Arms
+5065300 Revenant (Dragon School) - Legs
+5066000 Recluse (Emerald Fate) - Head
+5066100 Recluse (Emerald Fate) - Body [Visible Model]
+5066200 Recluse (Emerald Fate) - Arms
+5066300 Recluse (Emerald Fate) - Legs
+5067000 Executor (Sable Church) - Head
+5067100 Executor (Sable Church) - Body [Visible Model]
+5067200 Executor (Sable Church) - Arms
+5067300 Executor (Sable Church) - Legs

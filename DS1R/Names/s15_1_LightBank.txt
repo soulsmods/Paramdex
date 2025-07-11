@@ -1,0 +1,38 @@
+0 B0_Outdoors
+1 B0_indoor
+4 B0_Tree
+10 B0_Character (outdoor)
+11 B0_Character (indoor)
+20 B1_Outdoors
+21 B1_indoor
+24 B1_Tree (backlight)
+25 B1_Tree (forward light)
+30 B1_Character (outdoor)
+31 B1_Character (indoor)
+32 B1_Character (basement)
+33 B1_Character (indoor / nishi day)
+34 B1_Character (between the royal mothers)
+39 PolyG-scn150000-<MAP>-King's Castle_1
+40 PolyG-scn150000-<MAP>-Owl Castle 2 Full view
+41 PolyG-
+42 PolyG-
+43 PolyG-
+44 PolyG-
+45 PolyG-
+46 PolyG-
+47 PolyG-
+48 PolyG-
+49 PolyG-
+50 PolyG-
+51 PolyG-
+52 PolyG-
+53 PolyG-
+54 PolyG-
+55 PolyG-
+56 PolyG-
+57 PolyG-
+58 PolyG-
+59 PolyG-
+60 PolyG-
+61 PolyG-
+62 PolyG-

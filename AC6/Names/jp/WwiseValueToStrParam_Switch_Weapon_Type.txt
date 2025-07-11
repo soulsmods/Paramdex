@@ -1,0 +1,14 @@
+0 00なし
+12 盾(シールド
+15 ライフル（Rifle）
+16 ショットガン（Shotgun）
+17 マシンガン（Machinegun）
+18 バズーカ（Bazooka）
+19 ハンドガン（Handgun）
+20 スナ（Sniper）
+21 キャノン（Cannon）
+22 ミサイル（Missile）
+23 銃剣（Bayonet）
+24 レーザーライフル
+25 レーザーキャノン
+255 アイテム

@@ -2058,7 +2058,7 @@
 66260 VOB Honmaru Floor Melange Glow Parts -- VOB本丸床　メランジグローパーツ
 90010 Own weapon (WP_L/R_5810) Funnel -- 自機武器(WP_L/R_5810)ファンネル
 90020 Own weapon (WP_L/R_5820) placement bit -- 自機武器(WP_L/R_5820)置きビット
-90030 Own weapon (WP_L/R_4820) Shield rocket -- 自機武器(WP_L/R_4820)シールドロケット
+90030 EULE/60D [Pulse Shield Launcher] (Pulse Shield)
 90040 For intercepting own aircraft AA bullets -- 自機AA弾丸迎撃用
 100090 collective lighting -- 集合照明
 100099 For tutorial shielding -- チュートリアル遮蔽用

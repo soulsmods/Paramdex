@@ -1,5 +1,5 @@
-0 Default value -- デフォルト値
-1 Default value (locked) -- デフォルト値（ロック中）
+0 Bipedal legs
+1 Bipedal legs (Locked on)
 2 Default value (locked) -- デフォルト値（ロック中）
 3 Default value -- デフォルト値
 10 anime confirmation camera -- アニメ確認カメラ
@@ -48,8 +48,8 @@
 99902 Direction death camera away from behind -- 演出死亡 カメラ 離れ後寄り
 99910 Production death camera close-up *For next generation -- 演出死亡 カメラ 寄り　※次世代用
 99920 Production death camera away *for sandworms -- 演出死亡 カメラ 離れ　※サンドワーム用
-100000 Default value -- デフォルト値
-100001 Default value (locked) -- デフォルト値（ロック中）
+100000 Reverse joint legs
+100001 Reverse joint legs (Locked on)
 130000 [FNR] Assault boost reverse leg -- 【FNR】アサルトブースト逆脚
 130010 [FNR] Assault boost left/right avoidance reverse leg -- 【FNR】アサルトブースト左右回避逆脚
 130100 [FNR] Kick reverse leg -- 【FNR】キック逆脚
@@ -64,8 +64,8 @@
 194250 [FNR] Orbit Seed Lock Camera -- 【FNR】オービットシード　ロックカメラ
 196420 [FNR] Mining ship feature lock camera -- 【FNR】採掘艦目玉　ロックカメラ
 198135 [FNR] Miyatake Strong Enemy Lock Camera -- 【FNR】宮武強敵　ロックカメラ
-200000 Default value -- デフォルト値
-200001 Default value (locked) -- デフォルト値（ロック中）
+200000 Tank legs
+200001 Tank legs (Locked on)
 230000 [FNR] Assault Boost Tank -- 【FNR】アサルトブーストタンク
 230010 [FNR] Assault boost left/right avoidance tank -- 【FNR】アサルトブースト左右回避タンク
 230100 [FNR] Kick Tank -- 【FNR】キックタンク
@@ -80,8 +80,8 @@
 294250 [FNR] Orbit Seed Lock Camera -- 【FNR】オービットシード　ロックカメラ
 296420 [FNR] Mining ship feature lock camera -- 【FNR】採掘艦目玉　ロックカメラ
 298135 [FNR] Miyatake Strong Enemy Lock Camera -- 【FNR】宮武強敵　ロックカメラ
-300000 Default value -- デフォルト値
-300001 Default value (locked) -- デフォルト値（ロック中）
+300000 Tetrapod legs
+300001 Tetrapod legs (Locked on)
 330000 [FNR] 4 legs of Assault Boost -- 【FNR】アサルトブースト4脚
 330010 [FNR] Assault boost left/right avoidance 4 legs -- 【FNR】アサルトブースト左右回避4脚
 330100 [FNR] 4 kick legs -- 【FNR】キック4脚

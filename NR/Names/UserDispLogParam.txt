@@ -1,0 +1,143 @@
+1000 <?text1?> x<?text2?>
+1010 <?text1?> x<?text2?>
+1020 <?text1?> x<?text2?>
+1030 <?text1?> x<?text2?>
+1040 <?text1?> x<?text2?>
+1100 <?text1?> x<?text2?>
+1110 <?text1?> x<?text2?>
+1120 <?text1?> x<?text2?>
+1130 <?text1?> x<?text2?>
+1140 <?text1?> x<?text2?>
+1150 <?text1?> x<?text2?>
+1160 <?text1?> x<?text2?>
+1170 <?text1?> x<?text2?>
+1180 <?text1?> x<?text2?>
+1190 <?text1?> x<?text2?>
+1220 Acquired <?text1?>
+1230 Acquired <?text1?>
+1240 Acquired <?text1?>
+1300 Replicated armament
+1310 Replicated armament
+1320 Replicated armament
+1330 Replicated armament
+1340 Replicated armament
+1399 This armament cannot be replicated
+1400 Strengthened armament
+1410 Strengthened armament
+1420 Strengthened armament
+1430 Strengthened armament
+1440 Strengthened armament
+1498 Materials needed to strengthen armament
+1499 Cannot strengthen this armament
+1500 Added an extra item slot
+1600 Mastered uncommon armaments
+1610 Mastered rare armaments
+1620 Mastered legendary armaments
+4900 The Sacrificial Twig preserved collected runes
+4901 The Twiggy Cracked Tear preserved collected runes
+5000 Near death
+5001 Rescued by <?text1?>
+5005 Rescued <?text1?>
+5011 Killed by <?text1?>
+5012 Killed by foe
+5013 Killed by environment
+6000 You indicated equipment
+6010 You asked for equipment
+6020 Ally is indicating equipment
+6030 Ally desires equipment
+6100 Location shown
+6110 You also showed location
+6120 Ally is showing location
+6130 Ally is also showing location
+9050 Voices in weapon form a blessing 
+9100 First Day: Noontide
+9101 First Day: Night
+9102 Second Day: Noontide
+9103 Second Day: Night
+9104 Final Day
+9500 Defeated by <?text1?>
+9501 Defeated in prelude
+9999 *Log capacity exceeded
+10108 <?text1?> required
+10109 Special smithing table unlocked
+10110 <?text1?> required
+10111 Felled <?text1?>
+11110 A Fell Omen arrives
+11111 Fell Omen defeated
+11112 Fell Omen repelled
+11113 Fell Omen repelled
+11120 Giant bubbles are forming
+11123 The master of bubbles was felled
+11124 The bubbles have dissipated
+11130 A demon casts its curse
+11131 A deal with a demon has cleansed the curse
+11132 A failed deal has sown enmity
+11133 Foe felled, cleansing the curse
+11134 The demon departs
+11140 A plague of locusts befalls the land
+11142 Plague of locusts quelled
+11143 Plague of locusts has died down
+11144 Find the enemy who is stealing runes
+11150 The Night threatens us anew
+11160 A meteorite has fallen
+11161 Meteorite master felled
+11170 The Night hordes multiply...
+11171 Other worlds spur the hordes
+11172 The Night hordes have dissipated
+11173 The hordes of Night were worn down by <?codenameIcon?>.
+11174 The Night hordes are enfeebled
+11180 A flame of frenzy appears
+11181 Flame of frenzy has dissipated
+11182 Flame of frenzy has dissipated
+11190 Rise's contraption unlocked
+11191 Rise's contraption unlocked by another world
+11192 Rise's contraption unlocked by <?codenameIcon?>'s world
+11200 Enemy felled
+11210 Another Condemned has invaded!
+11220 A Rise's contraption is unlocked
+11230 Acquired a local clue
+11231 Rotted Woods blessing located
+11240 Evergaol opened
+11241 Great enemy felled
+11250 Added a charge to flask
+11251 Added a charge to flask
+11260 Added an extra item slot
+11270 Added an extra talisman slot
+11281 Formidable great enemy located
+11290 Great enemy felled
+11300 Great enemy felled
+11310 Great enemy felled
+11320 Great enemy felled
+11330 A door has opened
+11340 A place once sealed is now open
+12000 Acquired Golden Seed <?missionProgress@0801?>/<?missionGoal@0801?>
+12010 Acquired Vestige of Night <?missionProgress@0702?>/<?missionGoal@0702?>
+12020 Acquired Dried Droplet <?missionProgress@0602?>/<?missionGoal@0602?>
+12030 Personal Objective in Progress
+12035 Personal Objective in Progress
+12040 Personal Objective in Progress
+12045 Personal Objective in Progress
+12050 Personal Objective in Progress
+12055 Personal Objective in Progress
+12060 Personal Objective in Progress
+12065 Personal Objective in Progress
+12100 Earth is shifting: The Crater
+12101 Earth is shifting: Mountaintop
+12102 Earth is shifting: Rotted Woods
+12103 Earth is shifting: Shrouded City
+12110 Shifting earth has settled
+12111 Shifting earth has settled
+12112 Shifting earth has settled
+12113 Shifting earth has settled
+12120 The Great Site of Grace has been altered
+12200 Memory fragment found
+12201 Remembrance completed
+12202 Personal objective added
+12203 Not compatible with pending match
+12210 Objective location can now be examined
+12211 Objective location can now be examined
+12212 Objective location can now be examined
+12213 Objective location can now be examined
+12214 Objective location can now be examined
+12215 Objective location can now be examined
+12216 Objective location can now be examined

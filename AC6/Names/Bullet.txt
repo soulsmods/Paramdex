@@ -239,322 +239,306 @@
 90800020 80_ Nakanishi test rail gun -- 80_中西テスト用　レールガン
 90800021 80_ Nakanishi test after rail gun charge -- 80_中西テスト用　レールガンチャージ後
 90800040 80_ Nakanishi test missile -- 80_中西テスト用　ミサイル
-10000000 Semi-auto rifle_n-point burst -- セミオートライフル_n点バースト
-10000100 Semi-auto rifle_n-point burst_charge shooting -- セミオートライフル_n点バースト_チャージ射撃
-10010000 Semi-auto rifle_standard type -- セミオートライフル_標準タイプ
-10010100 Semi-automatic rifle_Standard type_Charge shooting -- セミオートライフル_標準タイプ_チャージ射撃
-10020000 Semi-auto rifle_ Bullet speed ≒ Emphasis on power -- セミオートライフル_弾速≒威力重視
-10020100 Semi-automatic rifle_Bullet speed ≒ Emphasis on power_Charge shooting -- セミオートライフル_弾速≒威力重視_チャージ射撃
-10100000 Assault rifle_n-point burst -- アサルトライフル_n点バースト
-10110000 Assault rifle_standard type -- アサルトライフル_標準タイプ
-10120000 Assault rifle_bullet speed ≒ emphasis on power -- アサルトライフル_弾速≒威力重視
-10200000 Machine gun_n point burst -- マシンガン_n点バースト
-10210000 Machine gun_standard type -- マシンガン_標準タイプ
-10220000 Machine gun_Focus on bullet collection performance -- マシンガン_集弾性能重視
-10300000 Gatling gun_standard type -- ガトリングガン_標準タイプ
-10400000 Bazooka_light but low power, no proximity fuse -- バズーカ_軽めだが威力-低 近接信管なし
-10400001 Bazooka_Light but low power Proximity fuse -- バズーカ_軽めだが威力-低 近接信管
-10400005 Bazooka_Light but power-low explosion -- バズーカ_軽めだが威力-低 爆発
-10410000 Bazooka_Standard type without proximity fuse -- バズーカ_標準タイプ 近接信管なし
-10410001 Bazooka_Standard type proximity fuse -- バズーカ_標準タイプ 近接信管
-10410005 Bazooka_Standard type explosion -- バズーカ_標準タイプ 爆発
-10420000 Bazooka_Heavy but powerful - No proximity fuse -- バズーカ_重いが威力-大 近接信管なし
-10420001 Bazooka_heavy but powerful - large proximity fuse -- バズーカ_重いが威力-大 近接信管
-10420005 Bazooka_heavy but powerful - large explosion -- バズーカ_重いが威力-大 爆発
-10500000 Shotgun_Collection performance-low Lucky 13 -- ショットガン_集弾性能-低 ラッキー13
-10510000 Shotgun_Standard type -- ショットガン_標準タイプ
-10520000 Shotgun_Collection performance-High -- ショットガン_集弾性能-高
-10600000 Grenade rifle_standard type -- グレネードライフル_標準タイプ
-10600005 Grenade rifle_standard type (explosive) -- グレネードライフル_標準タイプ（爆発）
-10610000 Grenade rifle_blast range-large -- グレネードライフル_爆発範囲-大
-10610005 Grenade Rifle_Explosion Range-Large (Explosion) -- グレネードライフル_爆発範囲-大（爆発）
-10700000 Handgun_Zero distance specialized pile driving (needle gun) -- ハンドガン_零距離特化 杭打ち(ニードルガン)
-10700005 Handgun_Zero distance specialized pile driving (needle gun) for piercing bullets -- ハンドガン_零距離特化 杭打ち(ニードルガン) 突き刺さり弾丸用
-10710000 Handgun_Standard type 2 shots -- ハンドガン_標準タイプ 2連射
-10720000 Handgun_One shot is heavy -- ハンドガン_一発が重い
-10730000 Handgun_↑variation (silver edge) -- ハンドガン_↑のバリエーション（シルバーエッジ）
+10000000 BURST RIFLE - MA-J-200 RANSETSU-RF
+10000100 BURST RIFLE - MA-J-200 RANSETSU-RF (Charged)
+10010000 LINEAR RIFLE - LR-036 CURTIS
+10010100 LINEAR RIFLE - LR-036 CURTIS (Charged)
+10020000 LINEAR RIFLE - LR-037 HARRIS
+10020100 LINEAR RIFLE - LR-037 HARRIS (Charged)
+10100000 BURST ASSAULT RIFLE - MA-J-201 RANSETSU-AR
+10110000 ASSAULT RIFLE - RF-024 TURNER
+10120000 ASSAULT RIFLE - RF-025 SCUDDER
+10200000 BURST MACHINE GUN - MA-E-210 ETSUJIN
+10210000 MACHINE GUN - MG-014 LUDLOW
+10220000 MACHINE GUN - DF-MG-02 CHANG-CHEN
+10230000 HEAVY MACHINE GUN - WR-0555 ATTACHE
+10300000 GATLING GUN - DF-GA-08 HU-BEN
+10400000 BAZOOKA - LITTLE GEM
+10400001 BAZOOKA - LITTLE GEM
+10400005 BAZOOKA - LITTLE GEM (Blast)
+10410000 BAZOOKA - MAJESTIC
+10410001 BAZOOKA - MAJESTIC
+10410005 BAZOOKA - MAJESTIC (Blast)
+10420000 BAZOOKA - DF-BA-06 XUAN-GE
+10420001 BAZOOKA - DF-BA-06 XUAN-GE
+10420005 BAZOOKA - DF-BA-06 XUAN-GE (Blast)
+10500000 SHOTGUN - WR-0777 SWEET SIXTEEN
+10510000 SHOTGUN - SG-026 HALDEMAN
+10520000 SHOTGUN - SG-027 ZIMMERMAN
+10600000 GRENADE LAUNCHER - DF-GR-07 GOU-CHEN
+10600005 GRENADE LAUNCHER - DF-GR-07 GOU-CHEN (Blast)
+10610000 GRENADE LAUNCHER - DIZZY
+10610005 GRENADE LAUNCHER - DIZZY (Blast)
+10700000 NEEDLE GUN - EL-PW-00 VIENTO
+10700005 NEEDLE GUN - EL-PW-00 VIENTO
+10710000 BURST HANDGUN - MA-E-211 SAMPU
+10720000 HANDGUN - HG-003 COQUILLETT
+10730000 HANDGUN - HG-004 DUCKETT
 10740000 Hand gun ⑤ -- ハンドガン⑤
 10750000 Hand gun ⑥ -- ハンドガン⑥
 10760000 Hand gun ⑦ -- ハンドガン⑦
-10800000 Throwing gun_2 shots (smoke_body) parent -- 投擲銃_2連射（スモーク_本体）　親
-10800001 Throwing gun_2 shots (smoke_smoke) -- 投擲銃_2連射（スモーク_煙）
-10800100 Throwing gun_2 shots (smoke_body) charge parent -- 投擲銃_2連射（スモーク_本体）チャージ　親
-10800101 Throwing gun_2 shots (smoke_smoke) charge -- 投擲銃_2連射（スモーク_煙）チャージ
-10810000 Throwing gun_standard type (napalm) -- 投擲銃_標準タイプ（ナパーム）
-10810005 Throwing gun_standard type (napalm) (explosive) -- 投擲銃_標準タイプ（ナパーム）（爆発）
-10810006 Throwing gun_Standard type (napalm) (multi-explosion bullet) -- 投擲銃_標準タイプ（ナパーム）（連爆用弾丸）
-10810007 Throwing gun_standard type (napalm) (ground flame) -- 投擲銃_標準タイプ（ナパーム）（地面炎）
-10810008 Throwing gun_Standard type (napalm) (multi-explosion bullet) -- 投擲銃_標準タイプ（ナパーム）（連爆用弾丸）
-10810100 Throwing gun_standard type (napalm) charge parent -- 投擲銃_標準タイプ（ナパーム） チャージ　親
-10810105 Throwing gun_Standard type (napalm) Charge (explosion) -- 投擲銃_標準タイプ（ナパーム）　チャージ（爆発）
-10810106 Throwing gun_Standard type (napalm) (multi-explosion bullet) -- 投擲銃_標準タイプ（ナパーム）（連爆用弾丸）
-10810107 Throwing gun_Standard type (napalm) Charge (ground flame) -- 投擲銃_標準タイプ（ナパーム）　チャージ（地面炎）
-10810108 Throwing gun_Standard type (napalm) (multi-explosion bullet) -- 投擲銃_標準タイプ（ナパーム）（連爆用弾丸）
-10820000 Throwing gun _ Large number of magazine bullets (stun mine) Launcher -- 投擲銃_マガジン弾数多い（スタン機雷）　発射機
-10820005 Throwing gun _ Large number of magazine bullets (stun mine) Explosion -- 投擲銃_マガジン弾数多い（スタン機雷）　爆発
-10820100 Throwing gun_Large number of magazine bullets (stun mine) charge launcher -- 投擲銃_マガジン弾数多い（スタン機雷）チャージ　発射機
-10820105 Throwing gun_High number of magazine bullets (stun mine) Charge Explosion -- 投擲銃_マガジン弾数多い（スタン機雷）チャージ　爆発
-10900000 Hand missile_guided type -- ハンドミサイル_誘導タイプ
-30200000 6 twin missiles -- 連装ミサイル　6連
-10900005 Hand missile_guided type (explosion) -- ハンドミサイル_誘導タイプ（爆発）
-10910000 Hand missile ② parent -- ハンドミサイル②　親
-10910002 Hand missile ② grandson -- ハンドミサイル②　孫
-10910006 Hand missile ② Grandson (explosion) -- ハンドミサイル②　孫（爆発）
-11000000 Grenade_Lightweight type -- グレネード_軽量タイプ
-11000005 Grenade_Lightweight type (explosive) -- グレネード_軽量タイプ（爆発）
-11100000 Laser Rifle_CS: Laser Machine Gun -- レーザーライフル_CS：レーザーマシンガン
-11100100 Laser Rifle_CS: Laser Machine Gun_Charge Shooting -- レーザーライフル_CS：レーザーマシンガン_チャージ射撃
-11110000 Laser rifle_standard type -- レーザーライフル_標準タイプ
-11110100 Laser rifle_standard type_charge shooting -- レーザーライフル_標準タイプ_チャージ射撃
-11111000 Laser rifle_standard type (dummy for menu display) -- レーザーライフル_標準タイプ（メニュー表示用ダミー）
-11111100 Laser rifle_Standard type_Charge shooting (dummy for menu display) -- レーザーライフル_標準タイプ_チャージ射撃（メニュー表示用ダミー）
-11120000 High Laser Rifle_K・AI Unique -- ハイレーザーライフル_K・AI ユニーク
-11120005 High Laser Rifle_K・AI Unique Chain Explosion -- ハイレーザーライフル_K・AI ユニーク 連鎖爆発
-11120100 High Laser Rifle_K・AI Unique_Single Charge Shooting -- ハイレーザーライフル_K・AI ユニーク_一段チャージ射撃
-11120105 High Laser Rifle_K・AI Unique_Single Charge Shooting Chain Explosion -- ハイレーザーライフル_K・AI ユニーク_一段チャージ射撃 連鎖爆発
-11120110 High laser rifle_K・AI unique_two-stage charge shooting -- ハイレーザーライフル_K・AI ユニーク_二段チャージ射撃
-11130000 Laser rifle_fast bullet speed, deep charge limit -- レーザーライフル_弾速が速い、チャージ限界が深い
-11130100 Laser rifle_fast bullet speed, deep charge limit_charge shooting -- レーザーライフル_弾速が速い、チャージ限界が深い_チャージ射撃
-11200000 Plasma rifle_standard type -- プラズマライフル_標準タイプ
-11200005 Plasma rifle_standard type (explosion) -- プラズマライフル_標準タイプ（爆発）
-11200100 Plasma rifle_standard type_charge shooting -- プラズマライフル_標準タイプ_チャージ射撃
-11200105 Plasma rifle_Standard type_Charge shooting (explosion) -- プラズマライフル_標準タイプ_チャージ射撃（爆発）
-11210000 High Laser Rifle_Karasawa_Plasma -- ハイレーザーライフル_カラサワ_プラズマ
-11210005 High Laser Rifle_Karasawa_Plasma (explosion) -- ハイレーザーライフル_カラサワ_プラズマ（爆発）
-11210100 High laser rifle_Karasawa_single charge shooting laser -- ハイレーザーライフル_カラサワ_一段チャージ射撃レーザー
-11210110 High Laser Rifle_Karasawa_Two-stage charge shooting Rezapla -- ハイレーザーライフル_カラサワ_二段段チャージ射撃レザプラ
-11210111 High Laser Rifle_Karasawa_Two-stage charge shooting Rezapla Plasma judgment -- ハイレーザーライフル_カラサワ_二段段チャージ射撃レザプラ プラズマ判定
-11210115 High Laser Rifle_Karasawa_Two-stage charge shooting Rezapla (explosion) -- ハイレーザーライフル_カラサワ_二段チャージ射撃レザプラ（爆発）
-11210116 High Laser Rifle_Karasawa_Two-stage charge shooting Rezapla (explosion depending on judgment) -- ハイレーザーライフル_カラサワ_二段チャージ射撃レザプラ（判定による爆発）
-11300000 Pulse gun _ High rate of fire performance -- パルスガン_連射性能高い
-11310000 Pulse gun_standard type -- パルスガン_標準タイプ
-11400000 double laser rifle -- ダブルレーザーライフル
-11400100 Double laser rifle_charge shooting -- ダブルレーザーライフル_チャージ射撃
-11500000 Laser shotgun_zero distance recommended -- レーザーショットガン_零距離推奨
-11500100 Laser shotgun_zero distance recommended_charge shooting -- レーザーショットガン_零距離推奨_チャージ射撃
-11510000 Laser shotgun_wide laterally -- レーザーショットガン_横に広い
-11510100 Laser shotgun _ horizontally wide _ charge shooting -- レーザーショットガン_横に広い_チャージ射撃
-11510105 Laser shotgun_wide horizontal_charging shot (explosion) -- レーザーショットガン_横に広い_チャージ射撃（爆発）
-11520000 Plasma rifle_M・AI unique -- プラズマライフル_M・AIユニーク
-11520005 Plasma rifle_M・AI unique (explosion) -- プラズマライフル_M・AIユニーク（爆発）
-11520100 Plasma rifle_M・AI unique_charge shooting -- プラズマライフル_M・AIユニーク_チャージ射撃
-11520105 Plasma rifle_M・AI unique_Charge shooting (explosion) -- プラズマライフル_M・AIユニーク_チャージ射撃（爆発）
-11530000 Plasma rifle_M・AI unique (red coral ver) -- プラズマライフル_M・AIユニーク（赤コーラルver）
-11530005 Plasma rifle_M・AI unique (red coral ver) (explosion) -- プラズマライフル_M・AIユニーク（赤コーラルver）（爆発）
-11530100 Plasma rifle_M・AI unique (red coral ver)_charge shooting -- プラズマライフル_M・AIユニーク（赤コーラルver）_チャージ射撃
-11530105 Plasma rifle_M・AI unique (red coral ver)_Charge shooting (explosion) -- プラズマライフル_M・AIユニーク（赤コーラルver）_チャージ射撃（爆発）
-11600000 flamethrower -- 火炎放射
-11700000 Degraded uranium bazooka rifle without proximity fuse -- 劣化ウランバズーカライフル 近接信管なし
-11700001 Depleted Ulan Bazooka Rifle Proximity Fuse -- 劣化ウランバズーカライフル 近接信管
-11700005 Degraded Ulan Bazooka Rifle (Explosive) -- 劣化ウランバズーカライフル（爆発）
-11700006 Degraded uran bazooka rifle (multiple explosions) -- 劣化ウランバズーカライフル（連爆発）
-11800000 stun gun parent -- スタンガン　親
-11800001 stun gun child -- スタンガン　子
-11800005 Stun gun grandchild (explosion) -- スタンガン　孫（爆発）
-11900000 Placed missile gun facing -- 置きミサイルガン 向き合わせ
-11900001 Placed missile gun acceleration -- 置きミサイルガン 加速
-11900005 Placed missile gun_explosion -- 置きミサイルガン_爆発
-12000000 Machine gun for jailbreak mission_Standard type -- 脱獄ミッション用マシンガン_標準タイプ
-12200000 Throwing gun for jailbreak mission_2 shots (smoke_body) -- 脱獄ミッション用投擲銃_2連射（スモーク_本体）
-12200001 Throwing gun for jailbreak mission_2 shots (smoke_smoke) -- 脱獄ミッション用投擲銃_2連射（スモーク_煙）
-12300000 For enemy damage animation confirmation_DL2 addition (right hand) -- 敵ダメージアニメ確認用_DL2加算（右手）
-12400000 For checking enemy damage animation_DL3 Small stagger (left hand) -- 敵ダメージアニメ確認用_DL3小よろけ（左手）
-12500000 For object destruction confirmation_obj attack power 510 -- オブジェクト破壊確認用_obj攻撃力510
-12510000 For object destruction confirmation_obj attack power 410 -- オブジェクト破壊確認用_obj攻撃力410
-20020000 Laser Blade_M・AI Unique_Weak Attack① -- レーザーブレード_M・AI ユニーク_弱攻撃①
-20020010 Laser Blade_M・AI Unique_Weak attack ② -- レーザーブレード_M・AI ユニーク_弱攻撃②
-20020100 Laser Blade_M・AI Unique_Strong attack ① -- レーザーブレード_M・AI ユニーク_強攻撃①
-20030000 Laser Blade_M・AI Unique (Red Coral ver)_Weak Attack ① -- レーザーブレード_M・AI ユニーク（赤コーラルver）_弱攻撃①
-20030010 Laser Blade_M・AI Unique (Red Coral ver)_Weak Attack ② -- レーザーブレード_M・AI ユニーク（赤コーラルver）_弱攻撃②
-20030100 Laser Blade_M・AI Unique (Red Coral ver)_Strong attack ① -- レーザーブレード_M・AI ユニーク（赤コーラルver）_強攻撃①
-20110009 [test] Light wave blade_light attack ① -- 【test】光波ブレード_弱攻撃①
-20110019 [test] Light wave blade_light attack ② -- 【test】光波ブレード_弱攻撃②
-20110109 [Test] Light Wave Blade_Strong Attack ① -- 【test】光波ブレード_強攻撃①
-20110119 [Test] Light Wave Blade_Strong Attack ② -- 【test】光波ブレード_強攻撃②
-20700101 Electromagnetic hammer_Strong attack①_Plasma explosion (base bullet) -- 電磁ハンマー_強攻撃①_プラズマ爆発（親弾丸）
-20700102 Electromagnetic hammer_Strong attack①_Plasma explosion (subbullet) -- 電磁ハンマー_強攻撃①_プラズマ爆発（子弾丸）
-20700999 Electromagnetic hammer_dummy for parameter display -- 電磁ハンマー_パラメータ表示用ダミー
-20900110 Electromagnetic baton_Strong attack①_Pursuit -- 電磁警棒_強攻撃①_追撃
-20900111 Electromagnetic baton_strong attack①_pursuit_piercing bullet -- 電磁警棒_強攻撃①_追撃_刺さる弾丸
-20900115 Electromagnetic baton_Strong attack①_Pursuit_Explosion -- 電磁警棒_強攻撃①_追撃_爆発
-21000000 Proximity diffusion bullet_weak attack ① (main bullet) -- 近接拡散弾_弱攻撃①（親弾丸）
-21000005 Proximity diffusion bullet_weak attack ① (child bullet) -- 近接拡散弾_弱攻撃①（子弾丸）
-21000100 Proximity diffusion bullet_Strong attack ① (base bullet) -- 近接拡散弾_強攻撃①（親弾丸）
-21000105 Proximity diffusion bullet_Strong attack ① (child bullet) -- 近接拡散弾_強攻撃①（子弾丸）
-30000000 Plasma missile_standard type 3 series -- プラズマミサイル_標準タイプ　3連
-30000005 Plasma missile_standard type 3 series (explosion) -- プラズマミサイル_標準タイプ　3連（爆発）
-30010000 Plasma missile_spread diagonally and wrap -- プラズマミサイル_斜めに広がって包む
-30010001 Plasma missile_spread diagonally and wrap -- プラズマミサイル_斜めに広がって包む
-30010005 Plasma missile_spreads diagonally and envelops (explosion) -- プラズマミサイル_斜めに広がって包む　(爆発)
-30020000 Plasma missile_standard type 6 units -- プラズマミサイル_標準タイプ　6連
-30020005 Plasma missile_standard type 6 series (explosion) -- プラズマミサイル_標準タイプ　6連（爆発）
-30100000 AI missile 2 series low speed -- AIミサイル　2連　低速
-30100005 AI missile 2 series (explosion) -- AIミサイル　2連 （爆発）
-30110000 AI missile single shot -- AIミサイル　単発
-30110005 AI missile single shot (explosion) -- AIミサイル　単発 （爆発）
-30200000 6 twin missiles -- 連装ミサイル　6連
-30200005 Twin missile 6 series (explosion) -- 連装ミサイル　6連（爆発）
-30210000 Twin missile 4 series -- 連装ミサイル　4連
-30210005 Twin missiles 4 series (explosion) -- 連装ミサイル　4連（爆発）
-30220000 10 twin missiles -- 連装ミサイル　10連
-30220005 Twin missiles 10 rounds (explosion) -- 連装ミサイル　10連（爆発）
-30300000 Special plasma missile_K・AI unique -- 特殊プラズマミサイル_K・AI ユニーク
-30300001 Special plasma missile_K・AI unique straight forward -- 特殊プラズマミサイル_K・AI ユニーク 直進
-30300005 Special plasma missile_K・AI unique (explosion) -- 特殊プラズマミサイル_K・AI ユニーク（爆発）
-30300600 Special plasma missile_K・AI unique charge menu display dummy (cannot be deleted) -- 特殊プラズマミサイル_K・AI ユニーク　チャージ メニュー表示用ダミー(削除不可)
-30300601 Special plasma missile_K・AI unique charge -- 特殊プラズマミサイル_K・AI ユニーク　チャージ
-30300602 Special plasma missile_K・AI unique charge after panel purge -- 特殊プラズマミサイル_K・AI ユニーク　チャージ パネルパージ後
-30300603 Special plasma missile_K・AI unique charge straight forward -- 特殊プラズマミサイル_K・AI ユニーク　チャージ 直進
-30300605 Special plasma missile_K・AI unique charge (explosion) -- 特殊プラズマミサイル_K・AI ユニーク　チャージ（爆発）
-30300606 Special Plasma Missile_K・AI Unique Charge Coral Homing Laser Parent -- 特殊プラズマミサイル_K・AI ユニーク　チャージ　コーラルホーミングレーザー 親
-30300607 Special Plasma Missile_K・AI Unique Charge Coral Homing Laser Parent -- 特殊プラズマミサイル_K・AI ユニーク　チャージ　コーラルホーミングレーザー 親
-30300608 Special plasma missile_K・AI Unique Charge Coral Homing Laser Child Straight forward -- 特殊プラズマミサイル_K・AI ユニーク　チャージ　コーラルホーミングレーザー 子 直進
-30400000 Vertical missile parent bullet 12 rounds -- 垂直ミサイル　親弾丸　12連
-30400001 Vertical missile sub-bullet 12 series -- 垂直ミサイル　子弾丸　12連
-30400005 Vertical missile 12 series (explosion) -- 垂直ミサイル　12連（爆発）
-30410000 Vertical missile parent bullet 8 series -- 垂直ミサイル　親弾丸　8連
-30410001 Vertical missile sub-bullet 8 series -- 垂直ミサイル　子弾丸　8連
-30410005 Vertical missile 8 series (explosion) -- 垂直ミサイル　8連（爆発）
-30420000 Vertical missile parent bullet 4 series -- 垂直ミサイル　親弾丸　4連
-30420001 Vertical missile sub-bullet 4 series -- 垂直ミサイル　子弾丸　4連
-30420005 Vertical missile 4 series (explosion) -- 垂直ミサイル　4連（爆発）
-30500000 Bakudo Explosive Missile Parent -- 爆導炸ミサイル 親
-30500003 explosive missile child -- 爆導炸ミサイル 子
-30500005 Explosion missile parent (explosion) -- 爆導炸ミサイル 親（爆発）
-30500006 Explosion missile child (explosion) -- 爆導炸ミサイル 子（爆発）
-30600000 Large missile_extra large exposed one -- 大型ミサイル_特大むき出し一本
-30600005 Large missile_extra large exposed one (explosion) -- 大型ミサイル_特大むき出し一本（爆発）
-30700000 Special missile_M・AI unique -- 特殊ミサイル_M・AI ユニーク
-30700001 Special missile_M・AI unique guidance -- 特殊ミサイル_M・AI ユニーク 誘導
-30700005 Special missile_M・AI unique (explosion) -- 特殊ミサイル_M・AI ユニーク（爆発）
-30800000 Back missile_2Way initial velocity 3 consecutive -- 背ミサイル_2Way　初速　3連
-30800001 Back missile_2way guidance 3 series -- 背ミサイル_2Way　誘導　3連
-30800002 Back missile_2Way 3 consecutive after guidance -- 背ミサイル_2Way　誘導後　3連
-30800005 Back missile_2Way 3 consecutive (explosion) -- 背ミサイル_2Way　3連（爆発）
-30810000 Back missile_2Way initial velocity 3 consecutive type -- 背ミサイル_2Way　初速　3連中型
-30810001 Back missile_2way guidance 3-way type -- 背ミサイル_2Way　誘導　3連中型
-30810002 Back missile_2way 3-way type after guidance -- 背ミサイル_2Way　誘導後　3連中型
-30810005 Back missile_2Way 3 consecutive type (explosion) -- 背ミサイル_2Way　3連中型（爆発）
-30820000 Back missile_2Way initial velocity 2 consecutive -- 背ミサイル_2Way　初速　2連
-30820001 Back missile_2way guidance 2 series -- 背ミサイル_2Way　誘導　2連
-30820002 Back missile_2Way 2 series after guidance -- 背ミサイル_2Way　誘導後　2連
-30820005 Back missile_2Way 2 series (explosion) -- 背ミサイル_2Way　2連（爆発）
-30900000 Back missile_fission missile 6-splitting parent -- 背ミサイル_分裂ミサイル　6分裂 親
-30900002 Back missile_fission missile 6-split grandson -- 背ミサイル_分裂ミサイル　6分裂 孫
-30900006 Back missile_fission missile 6-splitting grandchild (explosion) -- 背ミサイル_分裂ミサイル　6分裂 孫（爆発）
-30910000 Back missile_fission missile 8-fission single shot parent -- 背ミサイル_分裂ミサイル　8分裂単発 親
-30910002 Back missile_fission missile 8-fission single shot Son -- 背ミサイル_分裂ミサイル　8分裂単発 孫
-30910006 Back missile_fission missile 8-fission single-shot grandchild (explosion) -- 背ミサイル_分裂ミサイル　8分裂単発 孫（爆発）
-30920000 Back missile_fission missile 8-splitting parent -- 背ミサイル_分裂ミサイル　8分裂 親
-30920002 Back Missile_Split Missile 8 Split Son -- 背ミサイル_分裂ミサイル　8分裂 孫
-30920006 Back missile_fission missile 8-fission grandchild (explosion) -- 背ミサイル_分裂ミサイル　8分裂 孫（爆発）
-31000000 Shoulder grenade_lightweight type -- 肩グレネード_軽量タイプ
-31000005 Shoulder grenade_lightweight type (explosive) -- 肩グレネード_軽量タイプ（爆発）
-31100000 [test] Needle missile_typeA -- 【test】ニードルミサイル_typeA
-31100005 [test] Needle missile_typeA for piercing bullets -- 【test】ニードルミサイル_typeA 突き刺さり弾丸用
-31210000 [test] Container missile_typeB_parent -- 【test】コンテナミサイル_typeB_親
-31210001 [test] Container missile_typeB_child -- 【test】コンテナミサイル_typeB_子
-31210002 [test] Container missile_typeB_Son -- 【test】コンテナミサイル_typeB_孫
-31210005 [test] Container missile_typeB_child (explosion) -- 【test】コンテナミサイル_typeB_子（爆発）
-31210006 [test] Container missile_typeB_Sun (explosion) -- 【test】コンテナミサイル_typeB_孫（爆発）
-31310000 [test] Cluster missile_typeB_parent first approach -- 【test】クラスターミサイル_typeB_親 第一接近
-31310001 [test] Cluster missile_typeB_parent dropped -- 【test】クラスターミサイル_typeB_親 投下
-31310002 [test] Cluster missile_typeB_parent second approach -- 【test】クラスターミサイル_typeB_親 第二接近
-31310003 [test] Cluster missile_typeB_parent dropped -- 【test】クラスターミサイル_typeB_親 投下
-31310004 [test] Cluster missile_typeB_parent third approach -- 【test】クラスターミサイル_typeB_親 第三接近
-31310005 [test] Cluster missile_typeB_parent dropped -- 【test】クラスターミサイル_typeB_親 投下
-31310006 [test] Cluster missile_typeB_parent bullet (explosion) -- 【test】クラスターミサイル_typeB_親弾丸（爆発）
-31310007 [Test] Cluster Missile_typeB_Child Dropped Bullet -- 【test】クラスターミサイル_typeB_子 投下弾丸
-31310008 [test] Cluster missile_typeB_child dropped bullet explosion -- 【test】クラスターミサイル_typeB_子 投下弾丸 爆発
-31410000 [Test] Assault Orbit (3-point plasma burst) 1 Right_Body-Ejection -- 【test】アサルトオービット（プラズマ3点バースト）1 右_本体-射出
-31410011 [Test] Assault Orbit (3-point plasma burst) 1 Right_Body-Approach -- 【test】アサルトオービット（プラズマ3点バースト）1 右_本体-接近
-31410013 [Test] Assault Orbit (3-point plasma burst) 1 Right_Body - Shooting -- 【test】アサルトオービット（プラズマ3点バースト）1 右_本体-射撃中
-31410021 [Test] Assault Orbit (3-point plasma burst) 1 Right_Body-Approach -- 【test】アサルトオービット（プラズマ3点バースト）1 右_本体-接近
-31410023 [Test] Assault Orbit (3-point plasma burst) 1 Right_Body - Shooting -- 【test】アサルトオービット（プラズマ3点バースト）1 右_本体-射撃中
-31410031 [Test] Assault Orbit (3-point plasma burst) 1 Right_Body-Approach -- 【test】アサルトオービット（プラズマ3点バースト）1 右_本体-接近
-31410033 [Test] Assault Orbit (3-point plasma burst) 1 Right_Body - Shooting -- 【test】アサルトオービット（プラズマ3点バースト）1 右_本体-射撃中
-31410080 [Test] Assault Orbit (Plasma 3-point burst) Common_Body - Stop/Fall explosion -- 【test】アサルトオービット（プラズマ3点バースト）共通_本体-停止/落下爆発
-31410090 [Test] Assault Orbit (3-point plasma burst) common_bullet -- 【test】アサルトオービット（プラズマ3点バースト）共通_弾丸
-31410600 [test] Assault Orbit (Charge) 1 Right_Body-Ejection -- 【test】アサルトオービット（チャージ）1 右_本体-射出
-31410611 [test] Assault Orbit (Charge) 1 Right_Body-Approach -- 【test】アサルトオービット（チャージ）1 右_本体-接近
-31410613 [Test] Assault Orbit (Charge) 1 Right_Body - Shooting -- 【test】アサルトオービット（チャージ）1 右_本体-射撃中
-31410621 [test] Assault Orbit (Charge) 1 Right_Body-Approach -- 【test】アサルトオービット（チャージ）1 右_本体-接近
-31410623 [Test] Assault Orbit (Charge) 1 Right_Body - Shooting -- 【test】アサルトオービット（チャージ）1 右_本体-射撃中
-31410680 [Test] Assault Orbit (Charge) Common_Body - Stop/Fall Explosion -- 【test】アサルトオービット（チャージ）共通_本体-停止/落下爆発
-31410690 [Test] Assault Orbit (Charge) Common_Bullet -- 【test】アサルトオービット（チャージ）共通_弾丸
-31415000 [Test] Assault Orbit (3-point plasma burst) 1 Left_Body-Ejection -- 【test】アサルトオービット（プラズマ3点バースト）1 左_本体-射出
-31415011 [Test] Assault Orbit (3-point plasma burst) 1 Left_Body-Approach -- 【test】アサルトオービット（プラズマ3点バースト）1 左_本体-接近
-31415013 [Test] Assault Orbit (3-point plasma burst) 1 Left_Body - Shooting -- 【test】アサルトオービット（プラズマ3点バースト）1 左_本体-射撃中
-31415021 [Test] Assault Orbit (3-point plasma burst) 1 Left_Body-Approach -- 【test】アサルトオービット（プラズマ3点バースト）1 左_本体-接近
-31415023 [Test] Assault Orbit (3-point plasma burst) 1 Left_Body - Shooting -- 【test】アサルトオービット（プラズマ3点バースト）1 左_本体-射撃中
-31415031 [Test] Assault Orbit (3-point plasma burst) 1 Left_Body-Approach -- 【test】アサルトオービット（プラズマ3点バースト）1 左_本体-接近
-31415033 [Test] Assault Orbit (3-point plasma burst) 1 Left_Body - Shooting -- 【test】アサルトオービット（プラズマ3点バースト）1 左_本体-射撃中
-31415080 [Test] Assault Orbit (Plasma 3-point burst) Common_Body - Stop/Fall explosion -- 【test】アサルトオービット（プラズマ3点バースト）共通_本体-停止/落下爆発
-31415090 [Test] Assault Orbit (3-point plasma burst) common_bullet -- 【test】アサルトオービット（プラズマ3点バースト）共通_弾丸
-31415600 [test] Assault Orbit (Charge) 1 Left_Body-Ejection -- 【test】アサルトオービット（チャージ）1 左_本体-射出
-31415611 [test] Assault Orbit (Charge) 1 Left_Body-Approach -- 【test】アサルトオービット（チャージ）1 左_本体-接近
-31415613 [Test] Assault Orbit (Charge) 1 Left_Body - Shooting -- 【test】アサルトオービット（チャージ）1 左_本体-射撃中
-31415621 [test] Assault Orbit (Charge) 1 Left_Body-Approach -- 【test】アサルトオービット（チャージ）1 左_本体-接近
-31415623 [Test] Assault Orbit (Charge) 1 Left_Body - Shooting -- 【test】アサルトオービット（チャージ）1 左_本体-射撃中
-31415680 [Test] Assault Orbit (Charge) Common_Body - Stop/Fall Explosion -- 【test】アサルトオービット（チャージ）共通_本体-停止/落下爆発
-31415690 [Test] Assault Orbit (Charge) Common_Bullet -- 【test】アサルトオービット（チャージ）共通_弾丸
-31510000 Sentry Orbit_Body-Ejection -- セントリーオービット_本体-射出
-31510001 Sentry Orbit_Main body-Deployment after injection -- セントリーオービット_本体-射出後展開
-31510002 Sentry Orbit_Main body-Waiting after injection -- セントリーオービット_本体-射出後待機
-31510003 Sentry Orbit_Main body - Shooting after ejection -- セントリーオービット_本体-射出後射撃
-31510010 Sentry Orbit_Irradiation Laser -- セントリーオービット_照射レーザー
-34000000 For checking enemy damage_DL4 Great stagger (right shoulder) -- 敵ダメージ確認用_DL4大よろけ（右肩）
-34100000 For checking enemy damage_DL5 blowback (left shoulder) -- 敵ダメージ確認用_DL5吹っ飛び（左肩）
-32000000 Shoulder bazooka spread without proximity fuse -- 肩バズーカ　スプレッド 近接信管なし
-32000001 Shoulder Bazooka Spread Proximity Fuse -- 肩バズーカ　スプレッド 近接信管
-32000005 Shoulder Bazooka Spread Explosion -- 肩バズーカ　スプレッド 爆発
-32100000 Shoulder grenade_explosion range-extra large -- 肩グレネード_爆発範囲-特大
-32100005 Shoulder grenade_explosion range-extra large (explosion) -- 肩グレネード_爆発範囲-特大（爆発）
-32200000 Shoulder high laser cannon_W laser -- 肩ハイレーザーキャノン_Wレーザー
-32200100 Shoulder High Laser Cannon_W Laser_Single Charge Shooting -- 肩ハイレーザーキャノン_Wレーザー_一段チャージ射撃
-32200110 Shoulder high laser cannon_W laser_two-stage charge shooting -- 肩ハイレーザーキャノン_Wレーザー_二段チャージ射撃
-32300000 Shoulder Plasma Cannon_Lightweight specialized for Rayrena aircraft -- 肩プラズマキャノン_レイレナ機体向け軽量特化
-32300005 Shoulder Plasma Cannon_Lightweight specialized for Rayrena aircraft (explosion) -- 肩プラズマキャノン_レイレナ機体向け軽量特化（爆発）
-32300100 Shoulder Plasma Cannon_Lightweight specialized for Rayrena aircraft_Charge firing -- 肩プラズマキャノン_レイレナ機体向け軽量特化_チャージ射撃
-32300105 Shoulder Plasma Cannon_Lightweight specialized for Rayrena aircraft_Charge firing (explosion) -- 肩プラズマキャノン_レイレナ機体向け軽量特化_チャージ射撃（爆発）
-32400000 Shoulder pulse gun_Continuously fire for a long time -- 肩パルスガン_長時間継続して浴びせ続ける
-32500000 Shoulder Laser Cannon_Can also be used by Mirage Power - Medium -- 肩レーザーキャノン_ミラージュでも扱える 威力-中
-32500100 Shoulder Laser Cannon_Can also be used by Mirage Power - Medium_Charge shooting -- 肩レーザーキャノン_ミラージュでも扱える 威力-中_チャージ射撃
-32600000 shoulder laser shotgun -- 肩レーザーショットガン
-32600100 Shoulder laser shotgun_charge shooting -- 肩レーザーショットガン_チャージ射撃
-32600105 Shoulder laser shotgun_Charge shooting (explosion) -- 肩レーザーショットガン_チャージ射撃（爆発）
-32700000 stun needle launcher -- スタンニードルランチャー
-32700001 Stun needle launcher child -- スタンニードルランチャー　子
-32700005 Stun needle launcher grandchild (explosion) -- スタンニードルランチャー　孫（爆発）
-32700500 Stun Needle Launcher_For Sandworm Battle -- スタンニードルランチャー_サンドワーム戦用
-32700501 Stun Needle Launcher_Sandworm Battle Child -- スタンニードルランチャー_サンドワーム戦用　子
-32700505 Stun needle launcher_Sandworm battle grandchild (explosion) -- スタンニードルランチャー_サンドワーム戦用　孫（爆発）
-33000000 [test] Exceed Orbit (live bullet) -- 【test】イクシードオービット（実弾）
-33010000 [test] Exceed Orbit (Laser) -- 【test】イクシードオービット（レーザー）
-33100000 Shield rocket_before arm deployment -- シールドロケット_アーム展開前
-33100001 Shield rocket_arm deployment -- シールドロケット_アーム展開
-33100002 Shield rocket_barrier deployment -- シールドロケット_バリア展開
-33100005 Shield rocket_barrier explosion -- シールドロケット_バリア爆発
-33100006 Shield rocket_barrier explosion (for decal hit) -- シールドロケット_バリア爆発（デカールhit用）
-33200000 Shoulder bazooka spread for jailbreak missions -- 脱獄ミッション用肩バズーカ　スプレッド
-33500000 Auxiliary Booster_M・AI Unique (shooting weapon ver.) Parent -- 補助ブースター_M・AI ユニーク（射撃武器ver） 親
-33500001 Auxiliary Booster_M・AI Unique (shooting weapon ver) Child Straight forward -- 補助ブースター_M・AI ユニーク（射撃武器ver） 子 直進
-70000000 Core special function_Assault armor_Body explosion -- コア特殊機能_アサルトアーマー_本体爆発
-70000001 Core special features_Assault armor_Shockwave -- コア特殊機能_アサルトアーマー_衝撃波
-70000010 Core special features_Assault Armor_Anti-PA -- コア特殊機能_アサルトアーマー_アンチPA
-70000011 Core special features_Assault armor_Anti installation PA -- コア特殊機能_アサルトアーマー_アンチ設置PA
-70000100 Core special features_Assault armor_Coral attribute_Body explosion -- コア特殊機能_アサルトアーマー_コーラル属性_本体爆発
-70000101 Core special features_Assault armor_Coral attribute_Shockwave -- コア特殊機能_アサルトアーマー_コーラル属性_衝撃波
-70000110 Core special features_Assault armor_Coral attribute_Anti-PA -- コア特殊機能_アサルトアーマー_コーラル属性_アンチPA
-70000111 Core special features_Assault armor_Coral attribute_Anti installation PA -- コア特殊機能_アサルトアーマー_コーラル属性_アンチ設置PA
-70100009 Core special features_Primal Armor_Shockwave -- コア特殊機能_プライマルアーマー_衝撃波
-70200000 Core special features_installation PA -- コア特殊機能_設置PA
-70200009 Core special features_Installed PA_Shock wave -- コア特殊機能_設置PA_衝撃波
-70300009 Core special functions_Emergency PA_Shockwave -- コア特殊機能_緊急時PA_衝撃波
-91200100 Plasma rifle_standard type_charge shooting -- プラズマライフル_標準タイプ_チャージ射撃
-91200105 Plasma rifle_Standard type_Charge shooting (explosion) -- プラズマライフル_標準タイプ_チャージ射撃（爆発）
-91210100 Plasma rifle_Large plasma diffusion Karasawa_Charge shooting -- プラズマライフル_プラズマ拡散大 カラサワ_チャージ射撃
-91210105 Plasma rifle_Large plasma diffusion Karasawa_Charge shooting (explosion) -- プラズマライフル_プラズマ拡散大 カラサワ_チャージ射撃（爆発）
-91500100 Laser shotgun_zero distance recommended_charge shooting -- レーザーショットガン_零距離推奨_チャージ射撃
-91510100 Laser shotgun _ horizontally wide _ charge shooting -- レーザーショットガン_横に広い_チャージ射撃
-91520100 Laser shotgun_M・AI unique_charge shooting -- レーザーショットガン_M・AI ユニーク_チャージ射撃
+10800000 JAMMING BOMB LAUNCHER - MA-T-223 KYORIKU
+10800001 JAMMING BOMB LAUNCHER - MA-T-223 KYORIKU (Blast)
+10800100 JAMMING BOMB LAUNCHER - MA-T-223 KYORIKU (Charged)
+10800101 JAMMING BOMB LAUNCHER - MA-T-223 KYORIKU (Charged Blast)
+10810000 NAPALM BOMB LAUNCHER - MA-T-222 KYORAI
+10810005 NAPALM BOMB LAUNCHER - MA-T-222 KYORAI
+10810006 NAPALM BOMB LAUNCHER - MA-T-222 KYORAI
+10810007 NAPALM BOMB LAUNCHER - MA-T-222 KYORAI
+10810008 NAPALM BOMB LAUNCHER - MA-T-222 KYORAI
+10810100 NAPALM BOMB LAUNCHER - MA-T-222 KYORAI (Charged)
+10810105 NAPALM BOMB LAUNCHER - MA-T-222 KYORAI (Charged)
+10810106 NAPALM BOMB LAUNCHER - MA-T-222 KYORAI (Charged)
+10810107 NAPALM BOMB LAUNCHER - MA-T-222 KYORAI (Charged)
+10810108 NAPALM BOMB LAUNCHER - MA-T-222 KYORAI (Charged)
+10820000 STUN BOMB LAUNCHER - WS-1200 THERAPIST
+10820005 STUN BOMB LAUNCHER - WS-1200 THERAPIST (Blast)
+10820100 STUN BOMB LAUNCHER - WS-1200 THERAPIST (Charged)
+10820105 STUN BOMB LAUNCHER - WS-1200 THERAPIST (Charged Blast)
+10900000 MISSILE LAUNCHER - HML-G2/P19MLT-04
+10900005 MISSILE LAUNCHER - HML-G2/P19MLT-04 (Blast)
+10910000 SPLIT MISSILE LAUNCHER - HML-G3/P08SPL-06
+10910002 SPLIT MISSILE LAUNCHER - HML-G3/P08SPL-06 (Split)
+10910006 SPLIT MISSILE LAUNCHER - HML-G3/P08SPL-06 (Blast)
+11000000 GRENADE LAUNCHER - IRIDIUM
+11000005 GRENADE LAUNCHER - IRIDIUM (Blast)
+11100000 LASER HANDGUN - VP-66LH
+11100100 LASER HANDGUN - VP-66LH (Charged)
+11110000 LASER RIFLE - VP-66LR
+11110100 LASER RIFLE - VP-66LR (Charged)
+11120000 CORAL RIFLE - IB-C03W1: WLT 011
+11120005 CORAL RIFLE - IB-C03W1: WLT 011 (Blast)
+11120100 CORAL RIFLE - IB-C03W1: WLT 011 (Charged)
+11120105 CORAL RIFLE - IB-C03W1: WLT 011 (Charged Blast)
+11120110 CORAL RIFLE - IB-C03W1: WLT 011 (Unk)
+11130000 LASER RIFLE - VE-66LRA
+11130100 LASER RIFLE - VE-66LRA (Charged)
+11200000 PLASMA RIFLE - Vvc-760PR
+11200005 PLASMA RIFLE - Vvc-760PR (Blast)
+11200100 PLASMA RIFLE - Vvc-760PR (Charged)
+11200105 PLASMA RIFLE - Vvc-760PR (Charged Blast)
+11210000 MULTI ENERGY RIFLE - 44-142 KRSV
+11210005 MULTI ENERGY RIFLE - 44-142 KRSV (Blast)
+11210100 MULTI ENERGY RIFLE - 44-142 KRSV (Charged)
+11210110 MULTI ENERGY RIFLE - 44-142 KRSV (Full Charged)
+11210111 MULTI ENERGY RIFLE - 44-142 KRSV (Full Charged) (Unk)
+11210115 MULTI ENERGY RIFLE - 44-142 KRSV (Full Charged Blast)
+11210116 MULTI ENERGY RIFLE - 44-142 KRSV (Full Charged Blast) (Unk)
+11300000 PULSE GUN - HI-16: GU-Q1
+11310000 PULSE GUN - HI-18: GU-A2
+11400000 LASER RIFLE - VE-66LRB
+11400100 LASER RIFLE - VE-66LRB (Charged)
+11500000 LASER SHOTGUN - WUERGER/66E
+11500100 LASER SHOTGUN - WUERGER/66E (Charged)
+11510000 LASER SHOTGUN - VP-66LS
+11510100 LASER SHOTGUN - VP-66LS (Charged)
+11510105 LASER SHOTGUN - VP-66LS (Charged Blast)
+11520000 PLASMA RIFLE - IA-C01W1: NEBULA
+11520005 PLASMA RIFLE - IA-C01W1: NEBULA (Blast)
+11520100 PLASMA RIFLE - IA-C01W1: NEBULA (Charged)
+11520105 PLASMA RIFLE - IA-C01W1: NEBULA (Charged Blast)
+11530000 CORAL RIFLE - IA-C01W6: NB-REDSHIFT
+11530005 CORAL RIFLE - IA-C01W6: NB-REDSHIFT (Blast)
+11530100 CORAL RIFLE - IA-C01W6: NB-REDSHIFT (Charged)
+11530105 CORAL RIFLE - IA-C01W6: NB-REDSHIFT (Charged Blast)
+11600000 FLAMETHROWER - WB-0000 BAD COOK
+11700000 DETONATING BAZOOKA - 44-141 JVLN ALPHA
+11700001 DETONATING BAZOOKA - 44-141 JVLN ALPHA
+11700005 DETONATING BAZOOKA - 44-141 JVLN ALPHA (Blast)
+11700006 DETONATING BAZOOKA - 44-141 JVLN ALPHA (Blast)
+11800000 STUN GUN - VP-66EG
+11800001 STUN GUN - VP-66EG (Attach)
+11800005 STUN GUN - VP-66EG (Interval)
+11900000 SIEGE MISSILE LAUNCHER - WS-5000 APERITIF (Waiting)
+11900001 SIEGE MISSILE LAUNCHER - WS-5000 APERITIF (Active)
+11900005 SIEGE MISSILE LAUNCHER - WS-5000 APERITIF (Blast)
+12000000 MACHINE GUN - MG-014 LUDLOW (Escape Mission Variant)
+13000000 PULSE MISSILE LAUNCHER - PFAU/66D
+13000005 PULSE MISSILE LAUNCHER - PFAU/66D
+13000100 PULSE MISSILE LAUNCHER - PFAU/66D
+13000105 PULSE MISSILE LAUNCHER - PFAU/66D
+20020000 LIGHT WAVE BLADE - IA-C01W2: MOONLIGHT (Attack 1)
+20020010 LIGHT WAVE BLADE - IA-C01W2: MOONLIGHT (Attack 2)
+20020100 LIGHT WAVE BLADE - IA-C01W2: MOONLIGHT (Charged)
+20030000 CORAL OSCILLATOR - IA-C01W7: ML-REDSHIFT (Attack 1)
+20030010 CORAL OSCILLATOR - IA-C01W7: ML-REDSHIFT (Attack 2)
+20030100 CORAL OSCILLATOR - IA-C01W7: ML-REDSHIFT (Charged)
+20700101 PLASMA THROWER - 44-143 HMMR (Charged)
+20700102 PLASMA THROWER - 44-143 HMMR (Charged Blast)
+20700999 PLASMA THROWER - 44-143 HMMR (Unk)
+20900110 STUN BATON - VP-67EB (Charged Bullet)
+20900111 STUN BATON - VP-67EB (Charged Attach)
+20900115 STUN BATON - VP-68EB (Charged Blast)
+21000000 EXPLOSIVE THROWER - DF-ET-09 TAI-YANG-SHOU
+21000005 EXPLOSIVE THROWER - DF-ET-09 TAI-YANG-SHOU (Blast)
+21000100 EXPLOSIVE THROWER - DF-ET-09 TAI-YANG-SHOU (Charged)
+21000105 EXPLOSIVE THROWER - DF-ET-09 TAI-YANG-SHOU (Charged Blast)
+30000000 PLASMA MISSILE LAUNCHER - Vvc-703PM
+30000005 PLASMA MISSILE LAUNCHER - Vvc-703PM (Blast)
+30010000 PLASMA MISSILE LAUNCHER - Vvc-70VPM (Ascending)
+30010001 PLASMA MISSILE LAUNCHER - Vvc-70VPM (Descending)
+30010005 PLASMA MISSILE LAUNCHER - Vvc-70VPM (Blast)
+30020000 PLASMA MISSILE LAUNCHER - Vvc-706PM
+30020005 PLASMA MISSILE LAUNCHER - Vvc-706PM (Blast)
+30100000 ACTIVE HOMING MISSILE LAUNCHER - BML-G3/P05ACT-02
+30100005 ACTIVE HOMING MISSILE LAUNCHER - BML-G3/P05ACT-02 (Blast)
+30110000 ACTIVE HOMING MISSILE LAUNCHER - BML-G3/P04ACT-01
+30110005 ACTIVE HOMING MISSILE LAUNCHER - BML-G3/P04ACT-01 (Blast)
+30200000 MISSILE LAUNCHER - BML-G2/P03MLT-06
+30200005 MISSILE LAUNCHER - BML-G2/P03MLT-06 (Blast)
+30210000 MISSILE LAUNCHER - BML-G1/P20MLT-04
+30210005 MISSILE LAUNCHER - BML-G1/P20MLT-04 (Blast)
+30220000 MISSILE LAUNCHER - BML-G2/P05MLT-10
+30220005 MISSILE LAUNCHER - BML-G2/P05MLT-10 (Blast)
+30300000 CORAL MISSILE LAUNCHER - IB-C03W3: NGI 006
+30300001 CORAL MISSILE LAUNCHER - IB-C03W3: NGI 006
+30300005 CORAL MISSILE LAUNCHER - IB-C03W3: NGI 006 (Blast)
+30300600 CORAL MISSILE LAUNCHER - IB-C03W3: NGI 006 (Charged)
+30300601 CORAL MISSILE LAUNCHER - IB-C03W3: NGI 006 (Charged)
+30300602 CORAL MISSILE LAUNCHER - IB-C03W3: NGI 006 (Charged Offshooter)
+30300603 CORAL MISSILE LAUNCHER - IB-C03W3: NGI 006 (Charged)
+30300605 CORAL MISSILE LAUNCHER - IB-C03W3: NGI 006 (Charged Blast)
+30300606 CORAL MISSILE LAUNCHER - IB-C03W3: NGI 006 (Charged Offshoot)
+30300607 CORAL MISSILE LAUNCHER - IB-C03W3: NGI 006 (Charged Offshoot)
+30300608 CORAL MISSILE LAUNCHER - IB-C03W3: NGI 006 (Charged Offshoot)
+30400000 VERTICAL MISSILE LAUNCHER - BML-G1/P07VTC-12 (Ascending)
+30400001 VERTICAL MISSILE LAUNCHER - BML-G1/P07VTC-12 (Descending)
+30400005 VERTICAL MISSILE LAUNCHER - BML-G1/P07VTC-12 (Blast)
+30410000 VERTICAL MISSILE LAUNCHER - BML-G1/P03VTC-08 (Ascending)
+30410001 VERTICAL MISSILE LAUNCHER - BML-G1/P03VTC-08 (Descending)
+30410005 VERTICAL MISSILE LAUNCHER - BML-G1/P03VTC-08 (Blast)
+30420000 VERTICAL MISSILE LAUNCHER - BML-G1/P01VTC-04 (Ascending)
+30420001 VERTICAL MISSILE LAUNCHER - BML-G1/P01VTC-04 (Descending)
+30420005 VERTICAL MISSILE LAUNCHER - BML-G1/P01VTC-04 (Blast)
+30500000 DETONATING MISSILE LAUNCHER - 45-091 JVLN BETA (Main)
+30500003 DETONATING MISSILE LAUNCHER - 45-091 JVLN BETA (Trail Bullet)
+30500005 DETONATING MISSILE LAUNCHER - 45-091 JVLN BETA (Main Blast)
+30500006 DETONATING MISSILE LAUNCHER - 45-091 JVLN BETA (Trail Blast)
+30700000 SCATTER MISSILE LAUNCHER - WS-5001 SOUP (Waiting)
+30700001 SCATTER MISSILE LAUNCHER - WS-5001 SOUP (Active)
+30700005 SCATTER MISSILE LAUNCHER - WS-5001 SOUP (Blast)
+30800000 DUAL MISSILE LAUNCHER - BML-G1/P32DUO-03 (Firing)
+30800001 DUAL MISSILE LAUNCHER - BML-G1/P32DUO-03 (Waiting)
+30800002 DUAL MISSILE LAUNCHER - BML-G1/P32DUO-03 (Active)
+30800005 DUAL MISSILE LAUNCHER - BML-G1/P32DUO-03 (Blast)
+30810000 DUAL MISSILE LAUNCHER - BML-G2/P08DUO-03 (Firing)
+30810001 DUAL MISSILE LAUNCHER - BML-G2/P08DUO-03 (Waiting)
+30810002 DUAL MISSILE LAUNCHER - BML-G2/P08DUO-03 (Active)
+30810005 DUAL MISSILE LAUNCHER - BML-G2/P08DUO-03 (Blast)
+30820000 DUAL MISSILE LAUNCHER - BML-G1/P31DUO-02 (Firing)
+30820001 DUAL MISSILE LAUNCHER - BML-G1/P31DUO-02 (Waiting)
+30820002 DUAL MISSILE LAUNCHER - BML-G1/P31DUO-02 (Active)
+30820005 DUAL MISSILE LAUNCHER - BML-G1/P31DUO-02 (Blast)
+30900000 SPLIT MISSILE LAUNCHER - BML-G2/P19SPL-12
+30900002 SPLIT MISSILE LAUNCHER - BML-G2/P19SPL-12 (Split)
+30900006 SPLIT MISSILE LAUNCHER - BML-G2/P19SPL-12 (Blast)
+30910000 SPLIT MISSILE LAUNCHER - BML-G2/P16SPL-08
+30910002 SPLIT MISSILE LAUNCHER - BML-G2/P16SPL-08 (Split)
+30910006 SPLIT MISSILE LAUNCHER - BML-G2/P16SPL-08 (Blast)
+30920000 SPLIT MISSILE LAUNCHER - BML-G2/P17SPL-16
+30920002 SPLIT MISSILE LAUNCHER - BML-G2/P17SPL-16 (Split)
+30920006 SPLIT MISSILE LAUNCHER - BML-G2/P17SPL-16 (Blast)
+31000000 GRENADE CANNON - SONGBIRDS
+31000005 GRENADE CANNON - SONGBIRDS (Blast)
+31100000 NEEDLE MISSILE LAUNCHER - EL-PW-01 TRUENO
+31100005 NEEDLE MISSILE LAUNCHER - EL-PW-01 TRUENO (Blast)
+31210000 CONTAINER MISSILE LAUNCHER - BML-G1/P29CNT (Container Moving)
+31210001 CONTAINER MISSILE LAUNCHER - BML-G1/P29CNT (Container Firing)
+31210002 CONTAINER MISSILE LAUNCHER - BML-G1/P29CNT (Missiles)
+31210005 CONTAINER MISSILE LAUNCHER - BML-G1/P29CNT (Container Blast)
+31210006 CONTAINER MISSILE LAUNCHER - BML-G1/P29CNT (Missile Blast)
+31310000 CLUSTER MISSILE LAUNCHER - WR-0999 DELIVERY BOY (Travel 1)
+31310001 CLUSTER MISSILE LAUNCHER - WR-0999 DELIVERY BOY (Cluster Fire 1)
+31310002 CLUSTER MISSILE LAUNCHER - WR-0999 DELIVERY BOY (Travel 2)
+31310003 CLUSTER MISSILE LAUNCHER - WR-0999 DELIVERY BOY (Cluster Fire 2)
+31310004 CLUSTER MISSILE LAUNCHER - WR-0999 DELIVERY BOY (Travel 3)
+31310005 CLUSTER MISSILE LAUNCHER - WR-0999 DELIVERY BOY (Cluster Fire 3)
+31310006 CLUSTER MISSILE LAUNCHER - WR-0999 DELIVERY BOY (Blast)
+31310007 CLUSTER MISSILE LAUNCHER - WR-0999 DELIVERY BOY (Cluster Missiles)
+31310008 CLUSTER MISSILE LAUNCHER - WR-0999 DELIVERY BOY (Cluster Missile Blast)
+31410000 LASER DRONE - Vvc-700LD (Right)
+31410011 LASER DRONE - Vvc-700LD (Right)
+31410013 LASER DRONE - Vvc-700LD (Right)
+31410021 LASER DRONE - Vvc-700LD (Right)
+31410023 LASER DRONE - Vvc-700LD (Right)
+31410031 LASER DRONE - Vvc-700LD (Right)
+31410033 LASER DRONE - Vvc-700LD (Right)
+31410080 LASER DRONE - Vvc-700LD (Right)
+31410090 LASER DRONE - Vvc-700LD (Right) (Laser)
+31410600 LASER DRONE - Vvc-700LD (Right) (Charged)
+31410611 LASER DRONE - Vvc-700LD (Right) (Charged)
+31410613 LASER DRONE - Vvc-700LD (Right) (Charged)
+31410621 LASER DRONE - Vvc-700LD (Right) (Charged)
+31410623 LASER DRONE - Vvc-700LD (Right) (Charged)
+31410680 LASER DRONE - Vvc-700LD (Right) (Charged)
+31410690 LASER DRONE - Vvc-700LD (Right) (Charged Laser)
+31415000 LASER DRONE - Vvc-700LD (Left)
+31415011 LASER DRONE - Vvc-700LD (Left)
+31415013 LASER DRONE - Vvc-700LD (Left)
+31415021 LASER DRONE - Vvc-700LD (Left)
+31415023 LASER DRONE - Vvc-700LD (Left)
+31415031 LASER DRONE - Vvc-700LD (Left)
+31415033 LASER DRONE - Vvc-700LD (Left)
+31415080 LASER DRONE - Vvc-700LD (Left)
+31415090 LASER DRONE - Vvc-700LD (Left) (Laser)
+31415600 LASER DRONE - Vvc-700LD (Left) (Charged)
+31415611 LASER DRONE - Vvc-700LD (Left) (Charged)
+31415613 LASER DRONE - Vvc-700LD (Left) (Charged)
+31415621 LASER DRONE - Vvc-700LD (Left) (Charged)
+31415623 LASER DRONE - Vvc-700LD (Left) (Charged)
+31415680 LASER DRONE - Vvc-700LD (Left) (Charged)
+31415690 LASER DRONE - Vvc-700LD (Left) (Charged Laser)
+31510000 LASER TURRET - VP-60LT (Launching)
+31510001 LASER TURRET - VP-60LT (Deploying)
+31510002 LASER TURRET - VP-60LT (Idling)
+31510003 LASER TURRET - VP-60LT (Active)
+31510010 LASER TURRET - VP-60LT (Laser)
+32000000 SPREAD BAZOOKA - SB-033M MORLEY
+32000001 SPREAD BAZOOKA - SB-033M MORLEY
+32000005 SPREAD BAZOOKA - SB-033M MORLEY (Blast)
+32100000 GRENADE CANNON - EARSHOT
+32100005 GRENADE CANNON - EARSHOT (Blast)
+32200000 LASER CANNON - VE-60LCA
+32200100 LASER CANNON - VE-60LCA (Charged)
+32200110 LASER CANNON - VE-60LCA (Unk)
+32300000 PLASMA CANNON - FASAN/60E
+32300005 PLASMA CANNON - FASAN/60E (Blast)
+32300100 PLASMA CANNON - FASAN/60E (Charged)
+32300105 PLASMA CANNON - FASAN/60E (Charged Blast)
+32400000 PULSE CANNON - KRANICH/60Z
+32500000 LASER CANNON - VP-60LCS
+32500100 LASER CANNON - VP-60LCS (Charged)
+32510000 LASER CANNON - VE-60LCB
+32510100 LASER CANNON - VE-60LCB
+32510101 LASER CANNON - VE-60LCB
+32600000 DIFFUSE LASER CANNON - VP-60LCD
+32600100 DIFFUSE LASER CANNON - VP-60LCD (Charged)
+32600105 DIFFUSE LASER CANNON - VP-60LCD (Charged Blast)
+32700000 STUN NEEDLE LAUNCHER - VE-60SNA
+32700001 STUN NEEDLE LAUNCHER - VE-60SNA (Attach)
+32700005 STUN NEEDLE LAUNCHER - VE-60SNA (Blast)
+32700500 STUN NEEDLE LAUNCHER - VE-60SNA (Alt)
+32700501 STUN NEEDLE LAUNCHER - VE-60SNA (Attach) (Alt)
+32700505 STUN NEEDLE LAUNCHER - VE-60SNA (Blast) (Alt)
+33000000 BULLET ORBIT - BO-044 HUXLEY
+33010000 LASER ORBIT - 45-091 ORBT
+33100000 PULSE SHIELD LAUNCHER - EULE/60D
+33100001 PULSE SHIELD LAUNCHER - EULE/60D
+33100002 PULSE SHIELD LAUNCHER - EULE/60D (Shield)
+33100005 PULSE SHIELD LAUNCHER - EULE/60D (Blast)
+33100006 PULSE SHIELD LAUNCHER - EULE/60D (Blast Interval)
+33500000 LIGHT WAVE CANNON - IA-C01W3: AURORA
+33500001 LIGHT WAVE CANNON - IA-C01W3: AURORA
+34000000 GATLING CANNON - DF-GA-09 SHAO-WEI
+70000000 EXPANSION - ASSAULT ARMOR (Pulse)
+70000001 EXPANSION - ASSAULT ARMOR (Pulse)
+70000010 EXPANSION - ASSAULT ARMOR (Pulse)
+70000011 EXPANSION - ASSAULT ARMOR (Pulse)
+70000100 EXPANSION - ASSAULT ARMOR (Coral)
+70000101 EXPANSION - ASSAULT ARMOR (Coral)
+70000110 EXPANSION - ASSAULT ARMOR (Coral)
+70000111 EXPANSION - ASSAULT ARMOR (Coral)
+70100009 EXPANSION - PULSE ARMOR
+70200000 EXPANSION - PULSE PROTECTION
+70200009 EXPANSION - PULSE PROTECTION
+70300009 EXPANSION - TERMINAL ARMOR

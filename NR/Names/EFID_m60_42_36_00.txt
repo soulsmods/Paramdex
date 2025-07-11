@@ -1,0 +1,19 @@
+0 A dummy to keep the "individual ID" displayed above. You can erase this dummy when adding an individual ID.
+1042360000 Bonfire flag
+1042360050 Initialization flag
+1042360100 System flag
+1042360200 Character flag (do not reset)
+1042360210 04 Lady Mission 1_Flower collection_Switch
+1042360400 Character flag: Small exploration (do not reset)
+1042360500 Object flag (do not reset)
+1042360700 Conversation flag
+1042360800 Boss flag (do not reset) (Do not reset)
+1042360900 For debugging/testing
+1042362100 System flags
+1042362200 Character flags (reset)
+1042362400 Character flags: Small exploration (reset)
+1042362500 Object flags (reset)
+1042362700 Conversation flags
+1042362800 Boss flags (reset)
+1042362900 For debugging/testing
+1042368500 Object action flags

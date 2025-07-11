@@ -51,12 +51,12 @@
 2404 LV5 Thought Weight: Medium -- LV5 思考重み点数：中
 2405 LV5 Thought Weight: Small -- LV5 思考重み点数：小
 2406 LV5 Thought Weight: Ignore -- LV5 思考重み点数：無視
-3000 Bullet speed: Stop (0m/s)  -- 弾速度：停止　（0m/s) 
-3001 Bullet speed: Extra slow (5m/s)  -- 弾速度：特遅　（5m/s) 
-3002 Bullet speed: Slow (10m/s)  -- 弾速度：遅　　（10m/s) 
-3003 Bullet speed: Medium (25m/s)  -- 弾速度：中　　（25m/s) 
-3004 Bullet speed: Speed (35m/s)  -- 弾速度：速　　（35m/s) 
-3005 Bullet speed: Speed (45m/s)  -- 弾速度：特速　（45m/s) 
+3000 Bullet speed: Stop (0m/s)  -- 弾速度：停止　（0m/s)
+3001 Bullet speed: Extra slow (5m/s)  -- 弾速度：特遅　（5m/s)
+3002 Bullet speed: Slow (10m/s)  -- 弾速度：遅　　（10m/s)
+3003 Bullet speed: Medium (25m/s)  -- 弾速度：中　　（25m/s)
+3004 Bullet speed: Speed (35m/s)  -- 弾速度：速　　（35m/s)
+3005 Bullet speed: Speed (45m/s)  -- 弾速度：特速　（45m/s)
 4000 Item Chase Table Extremely Low LV1 -- アイテム追撃テーブル　極低 LV1
 4001 Item Chase Table Extremely Low LV2 -- アイテム追撃テーブル　極低 LV2
 4002 Item Chase Table Extremely Low LV3 -- アイテム追撃テーブル　極低 LV3

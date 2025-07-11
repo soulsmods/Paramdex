@@ -111,13 +111,13 @@
 10313923 [Mimetic OBJ: Normal] 【General purpose】Barrel 1 -- 【擬態OBJ：通常】【汎用】樽1
 10314000 【NPC】Tomb_Guardian Knight -- 【ＮＰＣ】墓_守護の騎士
 10314100 【NPC】Tomb_Miracle Man -- 【ＮＰＣ】墓_奇跡の人
-10315000 [Kihoho-ho- ] Scaffolding before the heavy equestrian war -- 【木宝箱01】　重騎馬兵戦前の足場
-10315010 [Iron Treasure Chest 02] After The Ornstein War -- 【鉄宝箱02】　オーンスタイン戦後
-10315020 【Kihoho-ho】After The Ornstein War -- 【木宝箱03】　オーンスタイン戦後
-10315030 [Iron Treasure Chest 01] 【Ring to stop】 The end of the working bridge -- 【鉄宝箱01】【繋ぎ止める指輪】　稼働橋の先
-10316010 [Treasure corpse 02] scaffolding of the bird head image _ caught in the railing -- 【宝死体02】　鳥頭像の足場_手すりにひっかかり
-10316040 【Treasure corpse】On the spiral stairs after the heavy equestrian war -- 【宝死体05】　重騎馬兵戦後の螺旋階段上
-10316050 【Treasure Corpse 06】 Ornstein Route _ Broken Stairs -- 【宝死体06】　オーンスタインルート_途切れた階段
-10316090 【Treasure Corpse 10】 Connection with Madura_Maduro Side -- 【宝死体10】　マデューラとの接続_マデューラ側
-10316100 [Treasure corpse 11] front of the first gimmick lever -- 【宝死体11】　1本目のギミックレバー手前
-10316110 【Treasure Corpse】Before the Battle of Ornstein -- 【宝死体12】　オーンスタイン戦手前
+10315000 [Chest] Treasure
+10315010 [Chest] Treasure
+10315020 [Chest] Treasure
+10315030 [Chest] Treasure
+10316010 [Corpse] Treasure
+10316040 [Corpse] Treasure
+10316050 [Corpse] Treasure
+10316090 [Corpse] Treasure
+10316100 [Corpse] Treasure
+10316110 [Corpse] Treasure

@@ -1,0 +1,30 @@
+1 Grace
+2 Church
+3 Ruins
+4 Township
+5 Evergaol
+6 Sorcerer's Rise
+7 Fort
+10 Main Encampment
+11 Castle
+13 Spectral Hawk Tree
+16 Field Boss
+17 Scarab
+21 Merchant
+22 Sorcerer's Rise 2
+23 Tunnel Entrance
+24 Great Church
+25 Scale-bearing Merchant
+27 Cave Entrance ?
+28 Field Boss [Hard]
+30 Church [Looted]
+31 Evergaol [Open]
+32 Sorcerer's Rise 
+33 Sorcerer's Rise [Looted]
+34 Sorcerer's Rise 2
+35 Sorcerer's Rise 2 [Looted]
+60 Mission Objective
+61 Shifting Earth Objective
+62 Buried Treasure
+80 Second day tree
+137 Spiritstream

@@ -1,20 +1,34 @@
-10620000 Dark Priest: Color (3) -- ダークプリースト：色③
-12510000 Undead Citizen: Color (1): Acid -- アンデッド市民：色①：酸
-21200000 Wyburn 01 -- ワイバーン01
-21200010 Wyburn: Dozing off -- ワイバーン：居眠り
-21200020 Wyburn 02 -- ワイバーン02
-21300000 Stone Defense -- 石守
-30700000 Durahan (White Spirit) -- デュラハン（白霊）
-32100000 [[[]-Mimick】 Battle -- 【ν-ミミック】戦闘
-33100000 Demon Heavy Soldier: Two-Handed Sword & Medium Shield -- デーモン重兵士：両手剣＆中盾
-33100010 Damon Heavy Soldier: Oversized Sword -- デーモン重兵士：特大剣
-33100030 Damon Heavy Soldier: Mallet -- デーモン重兵士：両手槌
-33100040 Damon Heavy Soldier: One Hand Mallet -- デーモン重兵士：片手槌
-60000000 Koryu -- 古龍
-70150000 NPC: Sinalot -- ＮＰＣ：シャナロット
-77100000 Enclosed Man: Black Spirit -- 封じられた人：黒霊
-81400000 NPC for Multi: Flesh-breaking (Female): White Spirit -- マルチ用NPC：肉断ち（女）：白霊
-82300000 NPC for Multi: Koryu Swordsman (Male): Black Spirit -- マルチ用NPC：古龍剣士（男）：黒霊
-83500000 NPC for Multi: Painting Defense (Man): Black Spirit -- マルチ用NPC：絵画守（男）：黒霊
-83510000 NPC for Multi: Painting Guard (Female): Black Spirit -- マルチ用NPC：絵画守（女）：黒霊
-83520000 NPC for Multi: Dragon Knight: Black Spirit -- マルチ用NPC：竜騎士：黒霊
+10620000 [REG:10620000] Hollow Priestess
+11500000 [REG:11500000] Undead Traveler
+12510000 [REG:12510000] Rupturing Hollow
+12510010 [REG:12510010] Rupturing Hollow
+15500000 [REG:15500000] Amana Aberration
+20300100 [REG:20300100] Parasite Spider
+20300101 [REG:20300101] Parasite Spider
+21200000 [REG:21200000] Guardian Dragon
+21200010 [REG:21200010] Guardian Dragon
+21200020 [REG:21200020] Guardian Dragon
+21300000 [REG:21300000] Crystal Lizard
+30700000 [REG:30700000] Vengarl
+32100000 [REG:32100000] Mimic
+33100000 [REG:33100000] Drakekeeper
+33100010 [REG:33100010] Drakekeeper
+33100030 [REG:33100030] Drakekeeper
+33100040 [REG:33100040] Drakekeeper
+60000000 [REG:60000000] Ancient Dragon
+69300000 [REG:69300000] Aldia- Scholar of the First Sin
+69600000 [REG:69600000] Invisible Hollow
+70150000 [REG:70150000] Emerald Herald
+77100000 [REG:77100000] Royal Sorcerer Navlaan
+81400000 [REG:81400000] Melinda the Butcher
+82300000 [REG:82300000] Dragonfang Villard
+83500000 [REG:83500000] Black Dragon Knight
+83500001 [REG:83500001] Black Dragon Knight
+83510000 [REG:83510000] Black Dragon Knight
+83510001 [REG:83510001] Black Dragon Knight
+83520000 [REG:83520000] Black Dragon Knight
+83520001 [REG:83520001] Black Dragon Knight
+83530000 [REG:83530000] Black Dragon Knight
+86801100 [REG:86801100] Transcendent Edde
+87800000 [REG:87800000] Bashful Ray
+90000000 [REG:90000000] Fencer Sharron

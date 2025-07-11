@@ -188,7 +188,7 @@
 9032 Straw doll scaffolding_left arm 1 -- 藁人形足場_左腕1
 9033 Straw doll scaffolding_left arm 2 -- 藁人形足場_左腕2
 9034 Straw doll scaffolding_left arm 3 -- 藁人形足場_左腕3
-9035 Straw doll scaffolding_right arm 2 -- 藁人形足場_右腕2
+9035 Straw doll scaffolding_left arm 4 -- 藁人形足場_左腕4
 9035 Straw doll scaffolding_left arm 4 -- 藁人形足場_左腕4
 9036 Straw doll scaffolding_body 0 -- 藁人形足場_胴体0
 9037 Straw doll scaffolding_body 1 -- 藁人形足場_胴体1
@@ -310,7 +310,7 @@
 105220 Corpse_Samurai -- 死体_侍
 105221 Corpse_Samurai -- 死体_侍
 106000 High lighthouse -- 高燈台
-106010 High light cup stand -- 高燈杯台
+106010 Hanging lantern -- 吊り灯篭
 106010 Hanging lantern -- 吊り灯篭
 106050 Kagaribi -- 篝火
 106060 Torch plate -- 灯明皿
@@ -362,7 +362,7 @@
 111310 Fire cow open space gate -- 火牛広場門
 111320 Gate with a bar (main tower entrance) -- 閂付きの門扉（天守入口）
 111330 Battlefield door -- 戦場跡扉
-113370 Wood for dead end in Jaya -- 蛇谷行き止まり用木材
+113370 When Tokugawa attacks _ Breakthrough prevention fence 0 -- 徳川襲来時_突破防止柵0
 111400 Koryomon_Latch -- 高麗門_閂有り
 111410 Middle door_push open -- 中扉_押し開き
 111500 Indoor door with a bar (entrance room) -- 閂付きの屋内扉（玄関部屋）
@@ -501,8 +501,8 @@
 114351 Tub -- 桶
 114370 Pail -- 手桶
 114380 Tub (large) -- 桶(大)
-114400 Flag_white -- 旗_白
-114410 Flag_black -- 旗_黒
+114400 Flag_white_destroy -- 旗_白_破壊
+114410 Flag_white_destructive strength -- 旗_白_破壊強
 114400 Flag_white_destroy -- 旗_白_破壊
 114410 Flag_white_destructive strength -- 旗_白_破壊強
 114450 Bamboo material_destruction -- 竹材_破壊
@@ -964,7 +964,7 @@
 253530 Underwater corridor (floor) destroyed by carp -- 鯉が壊す水中廊下（床）
 253600 Underwater turret that carp breaks (above) -- 鯉が壊す水中櫓(上)
 253610 Underwater turret that carp breaks (bottom) -- 鯉が壊す水中櫓(下)
-254000 folding screen -- 屏風
+254000 Folding screen (small) -- 屏風（小）
 254001 Folding screen (broken) -- 屏風（壊れ）
 254002 Folding screen -- 屏風（畳み）
 254003 Folding screen (Okina Ryu left) -- 屏風(翁龍左)

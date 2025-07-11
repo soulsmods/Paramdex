@@ -1,0 +1,322 @@
+300 Fire Pot
+320 Lightning Pot
+330 Fetid Pot
+340 Swarm Pot
+350 Holy Water Pot
+360 Freezing Pot
+370 Poison Pot
+390 Alluring Pot
+391 Beastlure Pot
+600 Volcano Pot
+640 Sleep Pot
+650 Rancor Pot
+660 Magic Pot
+670 Rot Pot
+700 Wending Grace
+820 Boiled Crab
+830 Boiled Prawn
+900 Neutralizing Boluses
+910 Stanching Boluses
+920 Thawfrost Boluses
+930 Stimulating Boluses
+940 Preserving Boluses
+950 Rejuvenating Boluses
+960 Clarifying Boluses
+1000 Flask of Crimson Tears
+1001 Flask of Crimson Tears
+1002 Flask of Crimson Tears +1
+1003 Flask of Crimson Tears +1
+1004 Flask of Crimson Tears +2
+1005 Flask of Crimson Tears +2
+1006 Flask of Crimson Tears +3
+1007 Flask of Crimson Tears +3
+1008 Flask of Crimson Tears +4
+1009 Flask of Crimson Tears +4
+1010 Flask of Crimson Tears +5
+1011 Flask of Crimson Tears +5
+1012 Flask of Crimson Tears +6
+1013 Flask of Crimson Tears +6
+1014 Flask of Crimson Tears +7
+1015 Flask of Crimson Tears +7
+1016 Flask of Crimson Tears +8
+1017 Flask of Crimson Tears +8
+1018 Flask of Crimson Tears +9
+1019 Flask of Crimson Tears +9
+1020 Flask of Crimson Tears +10
+1021 Flask of Crimson Tears +10
+1022 Flask of Crimson Tears +11
+1023 Flask of Crimson Tears +11
+1024 Flask of Crimson Tears +12
+1025 Flask of Crimson Tears +12
+1100 Pickled Turtle Neck
+1190 Silver-Pickled Fowl Foot
+1200 Gold-Pickled Fowl Foot
+1210 Exalted Flesh
+1290 Starlight Shards
+1400 Fire Grease
+1410 Lightning Grease
+1420 Magic Grease
+1430 Holy Grease
+1440 Blood Grease
+1450 Soporific Grease
+1460 Poison Grease
+1470 Freezing Grease
+1480 Dragonwound Grease
+1490 Rot Grease
+1690 Shield Grease
+1700 Throwing Dagger
+1720 Poisonbone Dart
+1730 Kukri
+1740 Crystal Dart
+1750 Fan Daggers
+3000 Ancestral Infant's Head
+3010 Omen Bairn
+3011 Regal Omen Bairn
+3030 Cuckoo Glintstone
+3050 Glintstone Scrap
+3051 Large Glintstone Scrap
+3060 Gravity Stone Fan
+3070 Gravity Stone Chunk
+3080 Wraith Calling Bell
+3310 Warming Stone
+3350 Bewitching Branch
+3500 Uplifting Aromatic
+3510 Spark Aromatic
+3520 Ironjar Aromatic
+3550 Bloodboil Aromatic
+3580 Poison Spraymist
+3610 Acid Spraymist
+8000 Stonesword Key
+8005 Cord End
+9000 Bow
+9001 Polite Bow
+9002 My Thanks
+9003 Curtsy
+9004 Reverential Bow
+9005 My Lord
+9006 Warm Welcome
+9007 Wave
+9008 Casual Greeting
+9009 Strength!
+9010 As You Wish
+9011 Point Forwards
+9012 Point Upwards
+9013 Point Downwards
+9014 Beckon
+9015 Wait!
+9016 Calm Down!
+9017 Nod In Thought
+9018 Extreme Repentance
+9019 Grovel For Mercy
+9020 Rallying Cry
+9021 Heartening Cry
+9022 By My Sword
+9023 Hoslow's Oath
+9024 Fire Spur Me
+9026 Bravo!
+9027 Jump for Joy
+9028 Triumphant Delight
+9029 Fancy Spin
+9030 Finger Snap
+9031 Dejection
+9032 Patches' Crouch
+9033 Crossed Legs
+9034 Rest
+9035 Sitting Sideways
+9036 Dozing Cross-Legged
+9037 Spread Out
+9039 Balled Up
+9040 What Do You Want?
+9041 Prayer
+9042 Desperate Prayer
+9043 Rapture
+9045 Erudition
+9046 Outer Order
+9047 Inner Order
+9048 Golden Order Totality
+9060 Prattling Pate "Hello"
+9061 Prattling Pate "Thank you"
+9062 Prattling Pate "Apologies"
+9063 Prattling Pate "Wonderful"
+9064 Prattling Pate "Please help"
+9065 Prattling Pate "My beloved"
+9066 Prattling Pate "Let's get to it"
+9067 Prattling Pate "You're beautiful"
+9070 It's Raining!
+9600 Wylder's Urn
+9601 Wylder's Goblet
+9602 Wylder's Chalice
+9603 Guardian's Urn
+9604 Guardian's Goblet
+9605 Guardian's Chalice
+9606 Ironeye's Urn
+9607 Ironeye's Goblet
+9608 Ironeye's Chalice
+9609 Duchess' Urn
+9610 Duchess' Goblet
+9611 Duchess' Chalice
+9612 Raider's Urn
+9613 Raider's Goblet
+9614 Raider's Chalice
+9615 Revenant's Urn
+9616 Revenant's Goblet
+9617 Revenant's Chalice
+9618 Recluse's Urn
+9619 Recluse's Goblet
+9620 Recluse's Chalice
+9621 Executor's Urn
+9622 Executor's Goblet
+9623 Executor's Chalice
+9650 Sacred Erdtree Grail
+9651 Spirit Shelter Grail
+9652 Giant's Cradle Grail
+9700 Soot-Covered Wylder's Urn
+9703 Soot-Covered Guardian's Urn
+9706 Soot-Covered Ironeye's Urn
+9709 Soot-Covered Duchess' Urn
+9712 Soot-Covered Raider's Urn
+9715 Soot-Covered Revenant's Urn
+9718 Soot-Covered Recluse's Urn
+9721 Soot-Covered Executor's Urn
+9800 Sealed Wylder's Urn
+9803 Sealed Guardian's Urn
+9806 Sealed Ironeye's Urn
+9809 Sealed Duchess' Urn
+9812 Sealed Raider's Urn
+9815 Sealed Revenant's Urn
+9818 Sealed Recluse's Urn
+9821 Sealed Executor's Urn
+10050 Small Pouch
+10100 Smithing Stone [1]
+10101 Smithing Stone [2]
+10102 Smithing Stone [3]
+11000 Crimsonspill Crystal Tear
+11001 Greenspill Crystal Tear
+11002 Crimson Crystal Tear
+11004 Cerulean Crystal Tear
+11006 Speckled Hardtear
+11007 Crimson Bubbletear
+11008 Opaline Bubbletear
+11009 Crimsonburst Crystal Tear
+11010 Greenburst Crystal Tear
+11011 Opaline Hardtear
+11013 Thorny Cracked Tear
+11014 Spiked Cracked Tear
+11015 Windy Crystal Tear
+11016 Ruptured Crystal Tear
+11018 Leaden Hardtear
+11019 Twiggy Cracked Tear
+11020 Crimsonwhorl Bubbletear
+11025 Cerulean Hidden Tear
+11026 Stonebarb Cracked Tear
+11028 Flame-Shrouding Cracked Tear
+11029 Magic-Shrouding Cracked Tear
+11030 Lightning-Shrouding Cracked Tear
+11031 Holy-Shrouding Cracked Tear
+40000 Wylder: Base
+40010 Wylder: Dawn
+40020 Wylder: Darkness
+40030 Wylder: Remembrance
+40050 Wylder: Abysswalker
+40060 Wylder: Lion Knight
+40100 Guardian: Base
+40110 Guardian: Dawn
+40120 Guardian: Darkness
+40130 Guardian: Remembrance
+40150 Guardian: Sunlight Knight
+40160 Guardian: Wayfarer
+40200 Ironeye: Base
+40210 Ironeye: Dawn
+40220 Ironeye: Darkness
+40230 Ironeye: Remembrance
+40250 Ironeye: Ringfinger
+40260 Ironeye: Sellsword
+40300 Duchess: Base
+40310 Duchess: Dawn
+40320 Duchess: Darkness
+40330 Duchess: Remembrance
+40350 Duchess: Black Leather
+40360 Duchess: Wraith
+40400 Raider: Base
+40410 Raider: Dawn
+40420 Raider: Darkness
+40430 Raider: Remembrance
+40450 Raider: Rock-like
+40460 Raider: Catarina
+40500 Revenant: Base
+40510 Revenant: Dawn
+40520 Revenant: Darkness
+40530 Revenant: Remembrance
+40550 Revenant: The Sister in the Painting
+40560 Revenant: Dragon School
+40600 Recluse: Base
+40610 Recluse: Dawn
+40620 Recluse: Darkness
+40630 Recluse: Remembrance
+40650 Recluse: Heretic Sorcerer
+40660 Recluse: Emerald Fate
+40700 Executor: Base
+40710 Executor: Dawn
+40720 Executor: Darkness
+40730 Executor: Remembrance
+40750 Executor: Thorns
+40760 Executor: Sable Church
+8000000 Power: Increased Maximum HP: 1
+8000001 Power: Increased Maximum HP: 2
+8010000 Power: Increased Maximum FP: 1
+8010001 Power: Increased Maximum FP: 2
+8010100 Power: Reduced FP Consumption: 1
+8010101 Power: Reduced FP Consumption: 2
+8020000 Power: Increased Maximum Stamina: 1
+8020001 Power: Increased Maximum Stamina: 2
+8020200 Power: Increased Stamina Recovery: 1
+8020201 Power: Increased Stamina Recovery: 2
+8100000 Power: Improved Physical Attack Power: 1
+8100001 Power: Improved Physical Attack Power: 2
+8100500 Power: Improved Affinity Attack Power: 1
+8100501 Power: Improved Affinity Attack Power: 2
+8120000 Power: Improved Stance-Breaking: 1
+8120001 Power: Improved Stance-Breaking: 2
+8200000 Power: Improved Physical Damage Negation: 1
+8200001 Power: Improved Physical Damage Negation: 2
+8200500 Power: Improved Affinity Damage Negation: 1
+8200501 Power: Improved Affinity Damage Negation: 2
+8210700 Power: All Resistances Up: 1
+8210701 Power: All Resistances Up: 2
+8230000 Power: Improved Poise: 1
+8230001 Power: Improved Poise: 2
+8330103 Power: Improved Sorceries and Incantations: 1
+8330104 Power: Improved Sorceries and Incantations: 2
+8330500 Power: Increased Sorceries and Incantation Duration
+8330700 Power: Dragonwound upon Dragon Communion
+8350400 Power: Successful Parries Activate Golden Retaliation
+8360000 Power: Improved Ultimate Art Guage Charge Speed
+8370000 Power: Character Skill Cooldown Reduction
+8410000 Power: Improved Dodging
+8410100 Power: Lightning upon Dodging
+8420100 Power: Guard Counters Activate Holy Attacks
+8420200 Power: Guard Counters Activate Summoning Attack
+8430000 Power: Improved Thrusting Counterattack
+8440000 Power: Improved Flask HP Restoration
+8440001 Power: Improved Flask HP Restoration
+8440200 Power: Gradual Restoration by Flask
+8450100 Power: Ice Storm Surge Sprint
+8460200 Power: Flame of Frenzy While Walking
+8460400 Power: Violent Deluge of Star Rain While Walking
+8500000 Power: More Runes From Defeated Enemies
+8500100 Power: Rune of the Strong
+8500101 Power: Rune of the Strong
+8500102 Power: Rune of the Strong
+8530200 Power: Periodical Giant Glintblades
+8600300 Power: Sudden Enemy Death upon Attacks
+8610000 Power: HP Restoration upon Successive Attacks
+8610100 Power: FP Restoration upon Successive Attacks
+8640000 Power: Critical Hit HP Restoration
+8640100 Power: Critical Hit FP Restoration
+8642000 Power: Damage Boosted after Critical Hit
+8650000 Power: HP Recovery upon Successful Guard
+8650100 Power: FP Recovery upon Successful Guard
+8660200 Power: Inflict Blood Loss at Low HP
+8660300 Power: Create Holy Ground at Low HP
+8700002 Power: Poison Restores HP
+8710002 Power: Blood Loss Increases Attack Power

@@ -1,0 +1,3 @@
+27000000 Revenant: Depraved Perfumer (Helen)
+27100000 Revenant: Mad Pumpkin Head (Frederick)
+27200000 Revenant: Giant Skeleton Torso (Sebastian)

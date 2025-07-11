@@ -14,4 +14,4 @@
 13 Room13_reserve
 14 Room14_reserve
 15 Room15_reserve
-16 If you would like to increase the number, please contact PG. -- 個数を増やすときはPGへ連絡してください
+16 -

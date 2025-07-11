@@ -2,6 +2,7 @@
 80000 Message tombstone (before lighting) -- メッセージ墓石（点灯前）
 80010 Message tombstone (after lighting) -- メッセージ墓石（点灯後）
 1510000 Lantern (old) -- ランタン(古)
+1230000 Royal Castle Candlestick (Low) -- 王城燭台（低）
 1240000 Candle ver00 -- 蝋燭ver00
 1240001 Candle ver01 -- 蝋燭ver01
 1240002 Candle ver02 -- 蝋燭ver02

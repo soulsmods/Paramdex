@@ -1,0 +1,46 @@
+0 B0室内
+3 B0ボス部屋
+4 B1室内
+5 B1樹内
+6 かまど
+7 B2巨樹内
+8 B2遠景
+9 B2遠景溶岩
+10 B0屋外
+12 B0屋外地底
+13 B1屋外上層
+14 B1暗部
+18 B2外下層
+19 B2座禅
+20 B2天球
+21 B2遠景霧
+22 B1霧
+23 B2天井霧
+24 m9900B0
+27 B1鍾乳洞
+28 B1地底湖
+29 B1地底湖水
+30 B1ボス
+31 屋内
+32 B1鍾乳洞　キャラ
+33 天球
+34 B2遠景用
+35 B1ボス　キャラ
+38 B0キャラ　ボス
+39 B2切り替え１
+40 B2切り替え2
+48 PolyG-
+49 PolyG-scn130100-<CHR_OBJ_MAP>-1st
+50 PolyG-scn130100-<CHR_OBJ_MAP>-2
+51 PolyG-scn130100-<CHR_OBJ_MAP>-3
+52 PolyG-scn130100-<CHR_OBJ_MAP>-4 FaceUp
+53 PolyG-scn130100-<CHR_OBJ_MAP>-6Lst
+55 PolyG-
+56 PolyG-
+57 PolyG-
+58 PolyG-
+59 PolyG-scn130000-1
+60 PolyG-scn130000-2全景
+61 PolyG-scn130000-<CHR_OBJ_MAP>
+62 PolyG-scn130000-<CHR_OBJ_MAP>
+63 PolyG-scn130010

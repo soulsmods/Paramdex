@@ -1,0 +1,9 @@
+0 None
+1 Outdoor
+2 Outdoor Narrow
+3 Room
+4 Room Large
+5 Hall
+6 Hall Large
+7 Underground Tunnel
+8 Underground HugeSpace

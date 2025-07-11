@@ -65,58 +65,43 @@
 10323539 【Environment Map ID】 Forest of the shadow of the emptiness: Tree by cliff -- 【環境マップID】【虚ろの影の森】崖際樹木
 10323540 【Environment Map ID】 Forest of the shadow of the emptiness: trees for the ground -- 【環境マップID】【虚ろの影の森】地面用樹木
 10323541 【Environment Map ID】 Forest of the shadow of the emptiness: trees for the ground -- 【環境マップID】【虚ろの影の森】地面用樹木
-10323542 【Environment Map ID】 【Forest of Beasts】 Human Face Tree A -- 【環境マップID】【獣人の森】人面木A
-10323900 [Mimetic OBJ: Rare] vivid flowers -- 【擬態OBJ：レア】鮮やかな花
-10323901 [Mimetic OBJ: Rare] vivid flowers -- 【擬態OBJ：レア】鮮やかな花
-10323902 [Mimetic OBJ: Rare] vivid flowers -- 【擬態OBJ：レア】鮮やかな花
-10323903 [Mimetic OBJ: Rare] vivid flowers -- 【擬態OBJ：レア】鮮やかな花
-10323910 [Mimetic OBJ: Normal] Sloppy Vase -- 【擬態OBJ：通常】だらだら壺
-10323911 [Mimetic OBJ: Normal] Sloppy Vase -- 【擬態OBJ：通常】だらだら壺
-10323912 [Mimetic OBJ: Normal] Sloppy Vase -- 【擬態OBJ：通常】だらだら壺
-10323913 [Mimetic OBJ: Normal] Sloppy Vase -- 【擬態OBJ：通常】だらだら壺
-10323920 [Mimetic OBJ: Normal] gate image -- 【擬態OBJ：通常】ゲートの像
-10323921 [Mimetic OBJ: Normal] gate image -- 【擬態OBJ：通常】ゲートの像
-10323922 [Mimetic OBJ: Normal] gate image -- 【擬態OBJ：通常】ゲートの像
-10323923 [Mimetic OBJ: Normal] gate image -- 【擬態OBJ：通常】ゲートの像
-10324000 【NPC】Tomb_Pilgrims in the Abyss -- 【NPC】墓_深淵の巡礼者
-10324100 【NPC】Tomb_Top Weapons Store -- 【NPC】墓_上位武器屋
-10324200 【NPC】Tomb_Durahan (neck) -- 【NPC】墓_デュラハン（首）
-10324300 【NPC】Tomb_Avenge d'Emanating Warrior -- 【NPC】墓_仇討ちの戦士
-10324600 【NPC】Tomb_Manscorpion (Man) -- 【NPC】墓_マンスコーピオン（男）
-10325000 【Wooden Treasure Chest】Ruins of the Bridge_Central Interior -- 【木宝箱02】　橋の遺跡_中央内部
-10325010 【Wooden Treasure Chest】Ruins of the Bridge -- 【木宝箱01】　橋の遺跡_奥上部
-10325020 【Iron Treasure Chest】Ring 2_Stray Forest_Petrified Stop Building -- 【鉄宝箱02】　指輪２_迷いの森_石化ストップの建物
-10325030 【Iron Treasure Chest 07】 Manscorpion Residence_2F -- 【鉄宝箱07】　マンスコーピオンの住処_２階
-10325040 【Iron Treasure Chest】Durahan House -- 【鉄宝箱08】　デュラハンのいる家
-10325050 【Iron Treasure Chest 01】 Ring 1_Stray Forest_Gate Ruins -- 【鉄宝箱01】　指輪１_迷いの森_ゲート遺跡
-10325060 [Iron Treasure Chest 03] Basilisk's Nest_ Magic Line -- 【鉄宝箱03】　バジリスクの巣_魔法陣横
-10325080 【Iron Treasure Chest 05】 The remains of the house next to the ruins of the ring 5_bridge -- 【鉄宝箱05】　指輪５_橋の遺跡横の家の遺跡
-10325100 【Wooden treasure chest 03】 Ruins of the house_ Old gate position -- 【木宝箱03】　家の遺跡_旧ゲート位置
-10325110 【Iron Treasure Chest 09】 Ruins of the Bridge_ Hidden Room -- 【鉄宝箱09】　橋の遺跡_隠し部屋
-10326000 【Treasure Corpse】The scaffolding of the stone-throwing goblin in front of the branch path -- 【宝死体01】 分岐路手前_石投げゴブリンの足場
-10326010 【Treasure Corpse 02】 Manscorpion's Residence_Near the Outer Wall -- 【宝死体02】　マンスコーピオンの住処_外壁のそば
-10326020 【Treasure Corpse 03】 The cliff behind the road to The Castle -- 【宝死体03】　王城への道_塔の裏の崖
-10326030 【Treasure Corpse】Road to The Castle -- 【宝死体04】　王城への道_崩れたゲート前
-10326040 【Treasure corpse 05】 House in front of the ruins of the bridge_2f -- 【宝死体05】　橋の遺跡正面の家_２階
-10326050 【Treasure corpse 06】 House in front of the ruins of the bridge_ back room -- 【宝死体06】　橋の遺跡正面の家_奥の部屋
-10326060 【Treasure Corpse】Forest of Stray Sorahan -- 【宝死体07】　迷いの森_デュラハン手前
-10326070 【Treasure Corpse 08】 The Forest of The Stray -- 【宝死体08】　迷いの森_木によりかかり
-10326080 【Treasure Corpse】Forest of Stray_Goal Front Side Street -- 【宝死体09】　迷いの森_ゴール手前脇道
-10326090 【Treasure Corpse】Stray Forest_Sloppy Urn -- 【宝死体10】　迷いの森_だらだら壷横
-10326100 【Treasure Corpse】The Forest of Strays_ Along the Wall of the Right Hand -- 【宝死体11】　迷いの森_右手の壁沿い
-10326110 Treasure corpse 12: It is eaten by the passage from the connection road _ goblin -- 【宝死体12】　接続路からの通路_ゴブリンに食べられている
-10326120 Treasure corpse 13: Cliff outside Basilisk's nest -- 【宝死体13】　バジリスクの巣外の崖
-10326130 【Treasure corpse 15】 Ruins of the bridge_Upper part of the front -- 【宝死体15】　橋の遺跡_手前上部
-10326140 【Treasure Corpse】Basilisk's Nest_Small Nest Hole 3 -- 【宝死体16】　バジリスクの巣_小巣穴3
-10326150 【Treasure Corpse】House in front of manscorpion's residence -- 【宝死体17】　マンスコーピオンの住処手前の家
-10326160 【Treasure Corpse】Basilisk's Nest_Small Nest Hole 2 -- 【宝死体18】　バジリスクの巣_小巣穴2
-10326170 【Treasure Corpse 19】 Connection to Anne Deal_Pond -- 【宝死体19】　アン・ディールへの接続_池
-10326180 【Treasure Corpse】Gate ruins in front of the boss -- 【宝死体20】　ボス前のゲート遺跡
-10326190 【Treasure Corpse】The Depths of The Great Pitfall -- 【宝死体21】　大落とし穴奥
-10326200 【Treasure Corpse】Boss Room -- 【宝死体22】　ボス部屋
-10326210 【Treasure corpse 14】 The back of the house on the left of the ruins of the bridge -- 【宝死体14】　橋の遺跡左の家_大樽の裏
-10326220 【Treasure Corpse】Connection to The Castle_Gate -- 【宝死体23】　王城への接続_ゲート奥
-10326230 【Treasure Corpse 24】 Scorpion's Residence_Entrance -- 【宝死体24】　スコーピオンの住処_入口
-10326240 【Treasure Corpse】The Ruins of The Lost Forest Durahan -- 【宝死体25】　迷いの森_デュラハンの遺跡_外側
-10326250 【Treasure Corpse 26】 The Road to The Castle_Wandering -- 【宝死体26】　王城への道_彷徨い手前
-10326260 【Treasure Corpse 27】 The Road to The Castle -- 【宝死体27】　王城への道_彷徨い奥
+10325000 [Chest] Treasure
+10325010 [Chest] Treasure
+10325020 [Chest] Treasure
+10325030 [Chest] Treasure
+10325040 [Chest] Treasure
+10325050 [Chest] Treasure
+10325060 [Chest] Treasure
+10325080 [Chest] Treasure
+10325100 [Chest] Treasure
+10325110 [Chest] Treasure
+10325120 [Chest] Treasure
+10326000 [Corpse] Treasure
+10326010 [Corpse] Treasure
+10326020 [Corpse] Treasure
+10326030 [Corpse] Treasure
+10326040 [Corpse] Treasure
+10326050 [Corpse] Treasure
+10326060 [Corpse] Treasure
+10326070 [Corpse] Treasure
+10326080 [Corpse] Treasure
+10326090 [Corpse] Treasure
+10326100 [Corpse] Treasure
+10326110 [Corpse] Treasure
+10326120 [Corpse] Treasure
+10326130 [Corpse] Treasure
+10326140 [Corpse] Treasure
+10326150 [Corpse] Treasure
+10326160 [Corpse] Treasure
+10326170 [Corpse] Treasure
+10326180 [Corpse] Treasure
+10326190 [Corpse] Treasure
+10326200 [Corpse] Treasure
+10326210 [Corpse] Treasure
+10326220 [Corpse] Treasure
+10326230 [Corpse] Treasure
+10326240 [Corpse] Treasure
+10326250 [Corpse] Treasure
+10326260 [Corpse] Treasure
+10326270 [Corpse] Treasure
+10326280 [Corpse] Treasure

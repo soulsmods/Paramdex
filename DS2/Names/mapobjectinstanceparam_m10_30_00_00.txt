@@ -13,7 +13,9 @@
 10303921 [Mimetic OBJ: Normal] 【General purpose】Barrel 1 -- 【擬態OBJ：通常】【汎用】樽1
 10303922 [Mimetic OBJ: Normal] 【General purpose】Barrel 1 -- 【擬態OBJ：通常】【汎用】樽1
 10303923 [Mimetic OBJ: Normal] 【General purpose】Barrel 1 -- 【擬態OBJ：通常】【汎用】樽1
-10305010 [Iron treasure chest 02] port side _upper floor_elevator side -- 【鉄宝箱02】　港側_上の階_昇降機側
-10306000 [Treasure corpse 01] upper floor_butt right_grumbling -- 【宝死体01】　上の階_突き当り右_うつぶせ
-10306010 【Treasure Corpse 02】 Upper floor_ railing at the end -- 【宝死体02】　上の階_突き当りの手すり
-10306020 [Treasure corpse 03] upper floor_right_wall rest -- 【宝死体03】　上の階_突き当り右_壁もたれ
+10305010 [Chest] Treasure
+10305020 [Chest] Treasure
+10306000 [Corpse] Treasure
+10306010 [Corpse] Treasure
+10306020 [Corpse] Treasure
+10306030 [Corpse] Treasure

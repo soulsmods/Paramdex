@@ -1,0 +1,42 @@
+1 Main Menu
+2 Map
+100 Movement Control
+101 Move Forwards
+102 Move Backwards
+103 Move Left
+104 Move Right
+105 Surge Sprint
+106 Backstep, Dodge Roll, Dash
+107 Jump
+108 Move Camera / Change Target (Up)
+109 Move Camera / Change Target (Down)
+110 Move Camera / Change Target (Left)
+111 Move Camera / Change Target (Right)
+112 Reset Camera, Lock-On/Remove Target
+113 Use Item
+114 Switch Item
+115 Switch Right-Hand Armament
+116 Switch Left-Hand Armament
+117 Attack (RH & Two-Handed Armament)
+118 Strong Attack (RH & 2H Armament)
+119 Guard (LH Armament)
+120 Skill
+121 Use Flask
+122 Event Action (Examine, Open, etc.)
+124 Two-Hand RH Armament/Cancel
+125 Two-Hand LH Armament/Cancel
+126 Ultimate Art
+127 Character Skill
+128 Display Location of Self/Item
+129 Use Item Immediately
+130 Toggle Item Order
+131 Cycle Contextual Action Button (Right)
+132 Cycle Contextual Action Button (Left)
+300 Zoom In Map
+301 Zoom Out Map
+306 Change Level: Up
+307 Change Level: Down
+308 Detailed View On/Off
+309 Switch Pin (Next)
+310 Switch Pin (Previous)
+311 Show Position

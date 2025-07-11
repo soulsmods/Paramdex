@@ -1,0 +1,18 @@
+0 A dummy to keep the "individual ID" displayed above. You can erase this dummy when adding an individual ID.
+46430000 Bonfire flag
+46430050 Initialization flag
+46430100 System flag
+46430200 Character flag (do not reset)
+46430500 Object flag (do not reset)
+46430700 Conversation flag
+46430800 Boss flag (do not reset)
+46430900 For debugging/testing
+46431200 Character flag (do not reset) (Do not reset)
+46431500 Object flag (do not reset)
+46432100 System flag
+46432200 Character flag (reset)
+46432500 Object flag (reset)
+46432700 Conversation flag
+46432800 Boss flag (reset)
+46432900 For debugging/testing
+46438500 Object act flag

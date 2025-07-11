@@ -1,67 +1,94 @@
-10800000 [Rogue (deceased): Dagger x 2】 Standing -- 【ローグ（亡者）：短剣×２】立ち
-10800002 [Rogue (deceased): Dagger × 2] Standing _ Surprise Attack -- 【ローグ（亡者）：短剣×２】立ち_奇襲
-10800003 [Rogue (deceased) dagger × 2] jump to the upper stage -- 【ローグ（亡者）：短剣×２】ジャンプして上の段へ
-10800004 [Rogue (deceased): Dagger x 2】 Fushimi -- 【ローグ（亡者）：短剣×２】伏兵
-10800005 [Rogue (deceased): One hand mallet × 2] standing -- 【ローグ（亡者）：片手槌×２】立ち
-10800007 [Rogue (deceased): One hand mallet × 2] standing _ surprise attack -- 【ローグ（亡者）：片手槌×２】立ち_奇襲
-10800008 [Rogue (deceased): One hand mallet × 2] fusilier -- 【ローグ（亡者）：片手槌×２】伏兵
-10800010 [Rogue (deceased): Two-handed bow × 2] standing -- 【ローグ（亡者）：両手弓×２】立ち
-10800013 [Rogue (deceased): Two-handed bow × 2] standing _ change in the area -- 【ローグ（亡者）：両手弓×２】立ち_領域で持ち替え
-10800014 [Rogue (deceased): Two-handed bow × 2] fushia _ crouching -- 【ローグ（亡者）：両手弓×２】伏兵_しゃがみ
-10800015 [Rogue (deceased): Two-handed bow × 2] crouch _ surprise attack -- 【ローグ（亡者）：両手弓×２】しゃがみ_奇襲
-10800016 [Rogue (deceased): Two-handed bow × 2] standing -- 【ローグ（亡者）：両手弓×２】伏兵_立ち
-10800021 [Rogue (deceased): Dagger x 2】 Crouch _ Blade Dash -- 【ローグ（亡者）：短剣×２】しゃがみ_ブレードダッシュ
-10800030 [Rogue (deceased): Dagger × 2] with tension _ surprise attack -- 【ローグ（亡者）：短剣×２】張り付き_奇襲
-10800031 [Rogue (deceased): One hand mallet × 2] crouch _ blade dash -- 【ローグ（亡者）：片手槌×２】しゃがみ_ブレードダッシュ
-11800000 [Dark Wizard ( deceased ] color (1)】 Long-distance combat -- 【ダークウィザード（亡者）：色①】遠距離戦闘
-11800001 【Dark Wizard(Deceased): Color (1)】Boss Attendant -- 【ダークウィザード（亡者）：色①】ボスお供
-12700001 [Workers of the dead] bare hands: Noding sitting -- 【死者の労働者：素手】うなだれ座り
-12700052 [Workers of the dead] bare hands] sound reaction _Agura -- 【死者の労働者：素手】音反応_あぐら
-13200003 [Skeleton: One-handed bent sword] neck filling start -- 【スケルトン：片手曲剣】首埋め起動
-13200010 [Skeleton: Bow] standing start -- 【スケルトン：弓】立ち起動
-13200032 [Skeleton] one-handed stabbing] neck filling start -- 【スケルトン：片手刺突】首埋め起動
-13202235 [Skeleton stabbing] appeared at the time of boss death -- 【スケルトン：片手刺突】ボス死亡時に出現
-13209000 [Skeleton for poly play] -- 【ポリ劇用スケルトン】
-13300101 [Wheel skeleton ] bare hands] appeared at the time of boss death -- 【車輪スケルトン：素手】ボス死亡時に出現
-13800000 [Torture man] fall from the stick -- 【拷問人：拷問器具】棒から落下
-13800001 [Torture person] [torture device] round trip -- 【拷問人：拷問器具】往復
-13800002 [Tortureman: Whip] fallfrom the stick 2 -- 【拷問人：鞭】棒から落下２
-13800004 [Tortureman: Torture Device: Soul Black] Falling from a Stick -- 【拷問人：拷問器具：ソウルブラック】棒から落下
-13800005 [Tortureman: Whip: Soul Black] falling from the stick 2 -- 【拷問人：鞭：ソウルブラック】棒から落下２
-13900000 [Man-made immortal son of the immortal] wandering -- 【人造不死人（不死人）】徘徊
-13900001 [Man-made immortal (immortal)]Stand -- 【人造不死人（不死人）】立ち
-13900900 [Man-made Immortal: Sickle: Soul Black] Standing -- 【人造不死人：鎌：ソウルブラック】立ち
-13900901 [Man-made Immortal: Sickle: Soul Black] Roar -- 【人造不死人：鎌：ソウルブラック】咆哮
-15400000 [Skeleton aristocracy: axe spear] boss -- 【スケルトン貴族：斧槍】ボス
-15400001 [Skeleton aristocracy: sickle] boss -- 【スケルトン貴族：鎌】ボス
-15400002 [Skeleton aristocracy: cane] boss -- 【スケルトン貴族：杖】ボス
-15600000 [Helmet skeleton × 2] standing start -- 【兜スケルトン：曲剣×２】立ち起動
-15700012 [Armor skeleton : no armor : no head equipped : stabbing sword] standing start -- 【鎧スケルトン：鎧なし：頭装備無し：刺突剣】立ち起動
-15700014 [Armor skeleton : no armor : no head equipped : stabbing sword] neck filling start -- 【鎧スケルトン：鎧なし：頭装備無し：刺突剣】首埋め起動
-15700020 [Armor skeleton : no armor : Bandana × 2] stand start -- 【鎧スケルトン：鎧なし：バンダナ：曲剣×２ 】立ち起動
-15700022 [Armor skeleton : No armor ] helmet - stabbing sword ] standing start -- 【鎧スケルトン：鎧なし：兜：刺突剣 】立ち起動
-15700023 [Armor skeleton: armor: crown: two-handed bow] standing start -- 【鎧スケルトン：鎧あり：王冠：両手弓】立ち起動
-15700500 [Skeleton: Two-sword style] for bosses -- 【スケルトン：二刀流】ボス用
-15700600 [Skeleton: Two-sword style: helmet] for bosses -- 【スケルトン：二刀流：兜】ボス用
-15701400 [Skeleton: Song sword] for the boss -- 【スケルトン：曲剣】ボス用
-15701500 [Skeleton: Curved sword: helmet] for the boss -- 【スケルトン：曲剣：兜】ボス用
-15702300 [Skeleton: Stabbing sword] for the boss -- 【スケルトン：刺突剣】ボス用
-15702600 [Skeleton: Stabbing sword: helmet] for the boss -- 【スケルトン：刺突剣：兜】ボス用
-15703300 [Skeleton: Bow: Helmet] for boss -- 【スケルトン：弓：兜】ボス用
-15705800 [Armor skeleton] armor with a crown × 2] appeared at the time of boss death -- 【鎧スケルトン：鎧あり：王冠：曲剣×２ 】ボス死亡時に出現
-15706802 [Armor skeleton] armor with armor : Helmet - Bent sword - shield ] appeared at the time of boss death -- 【鎧スケルトン：鎧あり：兜：曲剣＆盾 】ボス死亡時に出現
-20400000 [Great Moss] battle -- 【グレートモス】戦闘
-21300000 【Ishimori】 -- 【石守】
-32700010 [Amazing Dead: Torch] Battle -- 【すごい亡者：松明】戦闘
-32700020 [Amazing Dead: Sword] Battle -- 【すごい亡者：剣】戦闘
-32700021 [Amazing dead: sword] Agura -- 【すごい亡者：剣】あぐら
-32700024 [Amazing dead man: sword] face down -- 【すごい亡者：剣】うつ伏せ
-61910000 [Silver Chariot: Coalescence] Boss -- 【シルバーチャリオット：合体】ボス
-74200000 [Wandering Warrior] (Born) -- 【放浪する戦士】（生者）
-74200001 [Wandering Warrior] (deceased) -- 【放浪する戦士】（亡者）
-77000000 【Dark Art Shop】 (Born) -- 【闇術屋】（生者）
-77000001 【Dark Art Shop】 (deceased) -- 【闇術屋】（亡者）
-78300000 [Black Phantom Shop] (Raw) Pledge NPC -- 【黒ファントム屋】（生者）誓約用NPC
-78300001 [Black Phantom Shop] NPC for pledge -- 【黒ファントム屋】（亡者）誓約用NPC
-82100000 【NPC for Multi: God of Death (Female)]】 Black Spirit -- 【マルチ用NPC：死神（女）】黒霊
-85200000 【Red Spirit】Hunting Forest: Red Spirit Level 3NPC -- 【赤霊】狩猟の森：赤霊レベル３NPC
+10800000 [REG:10800000] Hollow Rogue
+10800001 [REG:10800001] Hollow Rogue
+10800002 [REG:10800002] Hollow Rogue
+10800003 [REG:10800003] Hollow Rogue
+10800004 [REG:10800004] Hollow Rogue
+10800005 [REG:10800005] Hollow Rogue
+10800006 [REG:10800006] Hollow Rogue
+10800007 [REG:10800007] Hollow Rogue
+10800008 [REG:10800008] Hollow Rogue
+10800010 [REG:10800010] Hollow Rogue
+10800013 [REG:10800013] Hollow Rogue
+10800014 [REG:10800014] Hollow Rogue
+10800015 [REG:10800015] Hollow Rogue
+10800016 [REG:10800016] Hollow Rogue
+10800021 [REG:10800021] Hollow Rogue
+10800030 [REG:10800030] Hollow Rogue
+10800031 [REG:10800031] Hollow Rogue
+10800050 [REG:10800050] Hollow Rogue
+10800051 [REG:10800051] Hollow Rogue
+10800055 [REG:10800055] Hollow Rogue
+11800000 [REG:11800000] Black Hollow Mage
+11800001 [REG:11800001] Black Hollow Mage
+12700000 [REG:12700000] Undead Laborer
+12700001 [REG:12700001] Undead Laborer
+12700002 [REG:12700002] Undead Laborer
+12700003 [REG:12700003] Undead Laborer
+12700009 [REG:12700009] Undead Laborer
+12700050 [REG:12700050] Undead Laborer
+12700051 [REG:12700051] Undead Laborer
+12700052 [REG:12700052] Undead Laborer
+12700099 [REG:12700099] Undead Laborer
+12701009 [REG:12701009] Undead Laborer
+13200003 [REG:13200003] Armored Skeleton
+13200010 [REG:13200010] Armored Skeleton
+13200032 [REG:13200032] Armored Skeleton
+13202235 [REG:13202235] Armored Skeleton
+13205000 [REG:13205000] Armored Skeleton
+13209000 [REG:13209000] Skeleton
+13300101 [REG:13300101] Bonewheel Skeleton
+13800000 [REG:13800000] Torturer
+13800001 [REG:13800001] Torturer
+13800002 [REG:13800002] Torturer
+13800004 [REG:13800004] Torturer
+13800005 [REG:13800005] Torturer
+13800010 [REG:13800010] Torturer
+13900000 [REG:13900000] Artificial Undead
+13900001 [REG:13900001] Artificial Undead
+13900900 [REG:13900900] Artificial Undead
+13900901 [REG:13900901] Artificial Undead
+15300000 [REG:15300000] Syan Knight
+15400000 [REG:15400000] Skeleton Lord
+15400001 [REG:15400001] Skeleton Lord
+15400002 [REG:15400002] Skeleton Lord
+15600000 [REG:15600000] Armored Skeleton
+15700012 [REG:15700012] Armored Skeleton
+15700014 [REG:15700014] Armored Skeleton
+15700020 [REG:15700020] Armored Skeleton
+15700022 [REG:15700022] Armored Skeleton
+15700023 [REG:15700023] Armored Skeleton
+15700500 [REG:15700500] Armored Skeleton
+15700600 [REG:15700600] Armored Skeleton
+15701400 [REG:15701400] Armored Skeleton
+15701500 [REG:15701500] Armored Skeleton
+15702300 [REG:15702300] Armored Skeleton
+15702600 [REG:15702600] Armored Skeleton
+15703300 [REG:15703300] Armored Skeleton
+15705800 [REG:15705800] Armored Skeleton
+15706802 [REG:15706802] Armored Skeleton
+20400000 [REG:20400000] Poison Moth
+21300000 [REG:21300000] Crystal Lizard
+22200000 [REG:22200000] Giant Basilisk
+22700000 [REG:22700000] Stray Dog
+32700010 [REG:32700010] Captive Undead
+32700020 [REG:32700020] Captive Undead
+32700021 [REG:32700021] Captive Undead
+32700022 [REG:32700022] Captive Undead
+32700023 [REG:32700023] Captive Undead
+32700024 [REG:32700024] Captive Undead
+32700031 [REG:32700031] Captive Undead
+32700033 [REG:32700033] Captive Undead
+32700039 [REG:32700039] Captive Undead
+61910000 [REG:61910000] Executioner's Chariot [Boss]
+69400000 [REG:69400000] Forlorn
+69600000 [REG:69600000] Invisible Hollow
+74200000 [REG:74200000] Creighton the Wanderer
+74200001 [REG:74200001] Creighton the Wanderer
+77000000 [REG:77000000] Felkin the Outcast
+77000001 [REG:77000001] Felkin the Outcast
+78300000 [REG:78300000] Titchy Gren
+78300001 [REG:78300001] Titchy Gren
+82100000 [REG:82100000] Merciless Roenna
+85200000 [REG:85200000] Greatsword Phantom
+90000000 [REG:90000000] Creighton the Wanderer
+90000100 [REG:90000100] Bashful Ray

@@ -1,0 +1,8 @@
+0 B0基本
+20 B1基本
+58 scn120000_End
+59 scn120000_customC
+60 scn120000_customS_pv
+61 scn120000_customB
+62 scn120000_customA
+63 scn120000
