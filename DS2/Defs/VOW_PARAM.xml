@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PARAMDEF XmlVersion="0">
+  <ParamType>VOW_PARAM</ParamType>
+  <DataVersion>0</DataVersion>
+  <BigEndian>False</BigEndian>
+  <Unicode>True</Unicode>
+  <FormatVersion>201</FormatVersion>
+  <Fields>
+    <Field Def="u16 rank_1_requirement" />
+    <Field Def="u16 rank_2_requirement" />
+    <Field Def="u16 rank_3_requirement" />
+    <Field Def="u16 Unk00" />
+  </Fields>
+</PARAMDEF>

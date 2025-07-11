@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PARAMDEF XmlVersion="0">
+  <ParamType>DAMAGE_STYLE_RATE_PARAM</ParamType>
+  <DataVersion>0</DataVersion>
+  <BigEndian>False</BigEndian>
+  <Unicode>True</Unicode>
+  <FormatVersion>201</FormatVersion>
+  <Fields>
+    <Field Def="f32 Unk00" />
+    <Field Def="f32 Unk01" />
+  </Fields>
+</PARAMDEF>

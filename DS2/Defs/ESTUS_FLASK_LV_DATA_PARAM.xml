@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PARAMDEF XmlVersion="0">
+  <ParamType>ESTUS_FLASK_LV_DATA_PARAM</ParamType>
+  <DataVersion>0</DataVersion>
+  <BigEndian>False</BigEndian>
+  <Unicode>True</Unicode>
+  <FormatVersion>201</FormatVersion>
+  <Fields>
+    <Field Def="s32 estus_item_id" />
+    <Field Def="s32 estus_held_count" />
+  </Fields>
+</PARAMDEF>
