@@ -1,29 +1,29 @@
 0 dummy data -- ダミーデータ
-30200000 c3020 Communist general purpose MT thruster -- c3020 共産汎用MT　スラスター
-30201000 c3020 Communist general purpose MT double machine gun -- c3020 共産汎用MT　ダブルマシンガン
-30500000 c3050 regular army MT missile -- c3050 正規軍MT　ミサイル
-30501000 c3050 Regular Army MT Upper Grellan -- c3050 正規軍MT　上位グレラン
-31000000 c3100 flight MT -- c3100 飛行MT
-31001000 c3100 flight MT EN machine gun -- c3100 飛行MT　ENマシンガン
-31002000 c3100 flight MT EN shotgun -- c3100 飛行MT　ENショットガン
-31500000 c3150 assault type Bst -- c3150 突撃型Bst
-32000100 c3200 Avalanche (Support A) -- c3200 アバランチ（サポートA）
-32000300 c3200 Avalanche (Support A2) -- c3200 アバランチ（サポートA2）
-32500100 c3250 regular army AC (heavy firepower) diffusion buzz -- c3250 正規軍AC（重火力）拡散バズ
-32500200 c3250 regular army AC (heavy firepower) grenade -- c3250 正規軍AC（重火力）グレネード
-32500600 c3250 regular army AC (enhanced heavy firepower) -- c3250 正規軍AC（強化重火力）
-32500900 c3250 regular army AC (base) -- c3250 正規軍AC（ベース）
-32600110 c3260 missile pod -- c3260 ミサイルポッド
-32600120 c3260 AI missile pod -- c3260 AIミサイルポッド
-32600130 c3260 pulse cannon -- c3260 パルスキャノン
-32600300 c3260 double gatling gun -- c3260 ダブルガトリングガン
-34000000 c3400 quadruped MT normal -- c3400 四脚MT　ノーマル
-34001000 c3400 quadruped MT heavy equipment -- c3400 四脚MT　重装
-34002000 c3400 Quadruped MT Grenade -- c3400 四脚MT　グレネード
-34003000 c3400 quadruped MT sniper -- c3400 四脚MT　スナイパー
-36000000 c3600 construction machine spider double rocket -- c3600 建機クモ　ダブルロケット
-42010000 c4201 Next Generation Prototype AC (C-end) Old -- c4201 次世代プロトタイプAC（Cエンド）旧
-42010001 c4201 Next generation prototype AC (C-end) shoulder -- c4201 次世代プロトタイプAC（Cエンド）肩
-42010002 c4201 Next generation prototype AC (C-end) arm -- c4201 次世代プロトタイプAC（Cエンド）腕
+30200000 BAWS Bipedal MT
+30201000 BAWS Bipedal MT - Dual Machine Guns
+30500000 PCA Subject Guard MT - Laser Gun + Back Missiles
+30501000 PCA Subject Guard MT - Laser Gun + Back Bazooka
+31000000 Xylem Flying MT
+31001000 Xylem Flying MT - Plasma Gun
+31002000 Xylem Flying MT - Laser Blades
+31500000 JUGGERNAUT
+32000100 PCA SP EKDROMOI - Dual Tommy Gun
+32000300 PCA SP EKDROMOI - Dual SMG
+32500100 PCA LIGHT CAVALRY (LC) - Shotgun
+32500200 PCA LIGHT CAVALRY (LC) - Bazooka
+32500600 PCA LIGHT CAVALRY (LC) - Heavily Armed
+32500900 PCA LIGHT CAVALRY (LC) - All Weapons
+32600110 PCA HEAVY CAVALRY (HC) - Laser Gun
+32600120 PCA HEAVY CAVALRY (HC) - Plasma Gun
+32600130 PCA HEAVY CAVALRY (HC) - Laser Blade
+32600300 PCA HEAVY CAVALRY (HC) - Dual Heavy Guns
+34000000 BAWS Tetrapod MT
+34001000 BAWS Tetrapod MT - Dual Chainguns
+34002000 BAWS Tetrapod MT
+34003000 BAWS Tetrapod MT - Laser Blade
+36000000 RaD Spider MT - Shield
+42010000 ALLMIND (IB-07: SOL 644)
+42010001 ALLMIND (IB-07: SOL 644)
+42010002 ALLMIND (IB-07: SOL 644)
 81110000 c8111 Colorless MT Test Booster -- c8111 無色MT テストブースター
 81119000 c8111 Colorless MT Test Booster -- c8111 無色MT テストブースター

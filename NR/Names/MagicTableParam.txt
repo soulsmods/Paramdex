@@ -1,0 +1,2347 @@
+0 (0% weight)
+10 Sorcery: Glintstone Pebble
+10 Sorcery: Glintstone Arc
+20 Sorcery: Glintstone Pebble
+20 Sorcery: Glintstone Arc
+4000 Sorcery: Glintstone Pebble
+4001 Sorcery: Great Glintstone Shard
+4010 Sorcery: Swift Glintstone Shard
+4020 Sorcery: Glintstone Cometshard
+4021 Sorcery: Comet
+4030 Sorcery: Shard Spiral
+4040 Sorcery: Glintstone Stars
+4050 Sorcery: Star Shower
+4060 Sorcery: Crystal Barrage
+4070 Sorcery: Glintstone Arc
+4080 Sorcery: Cannon of Haima
+4090 Sorcery: Crystal Burst
+4100 Sorcery: Shatter Earth
+4110 Sorcery: Rock Blaster
+4120 Sorcery: Gavel of Haima
+4130 Sorcery: Terra Magicus
+4200 Sorcery: Comet Azur
+4210 Sorcery: Founding Rain of Stars
+4220 Sorcery: Stars of Ruin
+4300 Sorcery: Glintblade Phalanx
+4301 Sorcery: Carian Phalanx
+4302 Sorcery: Greatblade Phalanx
+4360 Sorcery: Rennala's Full Moon
+4361 Sorcery: Ranni's Dark Moon
+4370 Sorcery: Magic Downpour
+4380 Sorcery: Loretta's Greatbow
+4381 Sorcery: Loretta's Mastery
+4390 Sorcery: Magic Glintblade
+4400 Sorcery: Glintstone Icecrag
+4410 Sorcery: Zamor Ice Storm
+4420 Sorcery: Freezing Mist
+4430 Sorcery: Carian Greatsword
+4431 Sorcery: Adula's Moonblade
+4440 Sorcery: Carian Slicer
+4450 Sorcery: Carian Piercer
+4460 Sorcery: Scholar's Armament
+4470 Sorcery: Scholar's Shield
+4490 Sorcery: Frozen Armament
+4500 Sorcery: Shattering Crystal
+4510 Sorcery: Crystal Release
+4520 Sorcery: Crystal Torrent
+4600 Sorcery: Ambush Shard
+4610 Sorcery: Night Shard
+4620 Sorcery: Night Comet
+4630 Sorcery: Thops's Barrier
+4640 Sorcery: Carian Retaliation
+4641 Sorcery: Carian Retaliation (Unused 1)
+4642 Sorcery: Carian Retaliation (Unused 2)
+4650 Sorcery: Eternal Darkness
+4700 Sorcery: Meteorite
+4701 Sorcery: Meteorite of Astel
+4710 Sorcery: Rock Sling
+4720 Sorcery: Gravity Well
+4721 Sorcery: Collapsing Stars
+4800 Sorcery: Magma Shot
+4810 Sorcery: Gelmir's Fury
+4820 Sorcery: Roiling Magma
+4830 Sorcery: Rykard's Rancor
+4900 Sorcery: Briars of Sin
+4910 Sorcery: Briars of Punishment
+5000 Sorcery: Rancorcall
+5001 Sorcery: Ancient Death Rancor
+5010 Sorcery: Explosive Ghostflame
+5030 Sorcery: Tibia's Summons
+5040 Sorcery: Death Lightning
+5100 Sorcery: Oracle Bubbles
+5110 Sorcery: Great Oracular Bubble
+6000 Incantation: Catch Flame
+6001 Incantation: O, Flame!
+6010 Incantation: Flame Sling
+6020 Incantation: Flame Fall Upon Them
+6030 Incantation: Whirl, O Flame
+6050 Incantation: Flame Grant Me Strength
+6060 Incantation: Flame Protect Me
+6100 Incantation: Giantsflame Take Thee
+6110 Incantation: Flame of The Fell God
+6120 Incantation: Burn, O Flame!
+6210 Incantation: Black Flame
+6220 Incantation: Surge, O Flame
+6230 Incantation: Scouring Black Flame
+6240 Incantation: Black Flame Ritual
+6250 Incantation: Black Flame Blade
+6260 Incantation: Black Flame's Protection
+6270 Incantation: Noble Presence
+6300 Incantation: Bloodflame Talons
+6310 Incantation: Bloodboon
+6320 Incantation: Bloodflame Blade
+6330 Incantation: Barrier of Gold
+6340 Incantation: Protection of The Erdtree
+6400 Incantation: Rejection
+6410 Incantation: Wrath of Gold
+6420 Incantation: Urgent Heal
+6421 Incantation: Heal
+6422 Incantation: Great Heal
+6423 Incantation: Lord's Heal
+6424 Incantation: Erdtree Heal
+6430 Incantation: Blessing's Boon
+6431 Incantation: Blessing of The Erdtree
+6450 Incantation: Flame Fortification
+6460 Incantation: Magic Fortification
+6470 Incantation: Lightning Fortification
+6480 Incantation: Divine Fortification
+6490 Incantation: Lord's Divine Fortification
+6500 Incantation: Night Maiden's Mist
+6520 Incantation: Shadow Bait
+6530 Incantation: Darkness
+6600 Incantation: Golden Vow
+6700 Incantation: Discus of Light
+6701 Incantation: Triple Rings of Light
+6710 Incantation: Radagon's Rings of Light
+6720 Incantation: Elden Stars
+6730 Incantation: Law of Regression
+6740 Incantation: Immutable Shield
+6750 Incantation: Litany of Proper Death
+6760 Incantation: Law of Causality
+6770 Incantation: Order's Blade
+6800 Incantation: Bestial Sling
+6810 Incantation: Stone of Gurranq
+6820 Incantation: Beast Claw
+6830 Incantation: Gurranq's Beast Claw
+6840 Incantation: Bestial Vitality
+6900 Incantation: Lightning Spear
+6910 Incantation: Ancient Dragons' Light Strike
+6920 Incantation: Lightning Strike
+6921 Incantation: Frozen Lightning Spear
+6930 Incantation: Honed Bolt
+6940 Incantation: Ancient Dragons' Light Spear
+6941 Incantation: Fortissax's Light Spear
+6950 Incantation: Lansseax's Glaive
+6960 Incantation: Electrify Armament
+6971 Incantation: Dragonbolt Blessing
+7000 Incantation: Dragonfire
+7001 Incantation: Agheel's Flame
+7010 Incantation: Magma Breath
+7011 Incantation: Theodorix's Magma
+7020 Incantation: Dragonice
+7021 Incantation: Borealis's Mist
+7030 Incantation: Rotten Breath
+7031 Incantation: Ekzykes's Decay
+7040 Incantation: Glintstone Breath
+7041 Incantation: Smarag's Glint Breath
+7050 Incantation: Placidusax's Ruin
+7060 Incantation: Dragonclaw
+7080 Incantation: Dragonmaw
+7090 Incantation: Greyoll's Roar
+7200 Incantation: Pest Threads
+7210 Incantation: Swarm of Flies
+7220 Incantation: Poison Mist
+7230 Incantation: Poison Armament
+7240 Incantation: Scarlet Aeonia
+7310 Incantation: The Flame of Frenzy
+7311 Incantation: Unendurable Frenzy
+7320 Incantation: Frenzied Burst
+7330 Incantation: Howl of Shabriri
+7500 Incantation: Aspects of the Crucible: Tail
+7510 Incantation: Aspects of the Crucible: Horns
+7520 Incantation: Aspects of the Crucible: Breath
+7530 Incantation: Black Blade
+7900 Incantation: Fire's Deadly Sin
+7903 Incantation: Golden Light Fortification
+1000000 Sorcery: Glintstone Pebble
+1000000 Sorcery: Great Glintstone Shard
+1000000 Sorcery: Swift Glintstone Shard
+1000000 Sorcery: Glintstone Stars
+1000000 Sorcery: Crystal Barrage
+1000000 Sorcery: Glintstone Arc
+1000000 Sorcery: Crystal Burst
+1000000 Sorcery: Scholar's Armament
+1000000 Sorcery: Scholar's Shield
+1000000 Sorcery: Glintstone Icecrag
+1000000 Sorcery: Frozen Armament
+1000000 Sorcery: Ambush Shard
+1000000 Incantation: Night Maiden's Mist
+1000000 Sorcery: Oracle Bubbles
+1000100 Sorcery: Glintstone Cometshard
+1000100 Sorcery: Comet
+1000100 Sorcery: Shard Spiral
+1000100 Sorcery: Star Shower
+1000100 Sorcery: Cannon of Haima
+1000100 Sorcery: Gavel of Haima
+1000100 Sorcery: Terra Magicus
+1000100 Sorcery: Thops's Barrier
+1000100 Sorcery: Founding Rain of Stars
+1000100 Sorcery: Magic Downpour
+1000100 Sorcery: Loretta's Greatbow
+1000100 Sorcery: Loretta's Mastery
+1000100 Sorcery: Zamor Ice Storm
+1000100 Sorcery: Freezing Mist
+1000100 Sorcery: Carian Retaliation
+1000100 Sorcery: Eternal Darkness
+1000100 Sorcery: Great Oracular Bubble
+2000000 Incantation: Catch Flame
+2000000 Incantation: Flame Sling
+2000000 Incantation: Flame Grant Me Strength
+2000000 Incantation: Poison Armament
+2000000 Incantation: Black Flame's Protection
+2000000 Incantation: Bloodflame Blade
+2000000 Incantation: Swarm of Flies
+2000000 Incantation: Rejection
+2000000 Incantation: Urgent Heal
+2000000 Incantation: Heal
+2000000 Incantation: Flame Fortification
+2000000 Incantation: Magic Fortification
+2000000 Incantation: Lightning Fortification
+2000000 Incantation: Divine Fortification
+2000000 Incantation: Shadow Bait
+2000000 Incantation: Golden Vow
+2000000 Incantation: Blessing's Boon
+2000000 Incantation: Order's Blade
+2000000 Incantation: Bestial Vitality
+2000000 Incantation: Poison Armament
+2000000 Incantation: Electrify Armament
+2000000 Incantation: Pest Threads
+2000000 Incantation: Poison Mist
+2000000 Incantation: Poison Armament
+2000100 Incantation: Flame Protect Me
+2000100 Incantation: Noble Presence
+2000100 Incantation: Bloodflame Talons
+2000100 Incantation: Bloodboon
+2000100 Incantation: Great Heal
+2000100 Incantation: Lord's Heal
+2000100 Incantation: Lord's Divine Fortification
+2000100 Incantation: Darkness
+2000100 Incantation: Barrier of Gold
+2000100 Incantation: Wrath of Gold
+2000100 Incantation: Golden Light Fortification
+2000100 Incantation: Protection of The Erdtree
+2000100 Incantation: Erdtree Heal
+2000100 Incantation: Blessing of The Erdtree
+2000100 Incantation: Elden Stars
+2000100 Incantation: Aspects of the Crucible: Tail
+2000100 Incantation: Aspects of the Crucible: Horns
+2000100 Incantation: Aspects of the Crucible: Breath
+2000100 Incantation: Black Blade
+2000100 Incantation: Fire's Deadly Sin
+2000100 Incantation: Law of Regression
+2000100 Incantation: Immutable Shield
+2000100 Incantation: Law of Causality
+2000100 Incantation: Dragonbolt Blessing
+2000100 Incantation: Placidusax's Ruin
+2000100 Incantation: Scarlet Aeonia
+3300000 Sorcery: Glintstone Pebble
+3300100 (0% weight)
+3300100 Sorcery: Great Glintstone Shard
+3300100 Sorcery: Swift Glintstone Shard
+3300100 Sorcery: Glintstone Cometshard
+3300100 Sorcery: Comet
+3300100 Sorcery: Shard Spiral
+3300100 Sorcery: Glintstone Stars
+3300100 Sorcery: Star Shower
+3300100 Sorcery: Crystal Barrage
+3300100 Sorcery: Glintstone Arc
+3300100 Sorcery: Cannon of Haima
+3300100 Sorcery: Crystal Burst
+3300100 Sorcery: Shatter Earth
+3300100 Sorcery: Rock Blaster
+3300100 Sorcery: Gavel of Haima
+3300100 Sorcery: Terra Magicus
+3300100 Sorcery: Comet Azur
+3300100 Sorcery: Founding Rain of Stars
+3300100 Sorcery: Stars of Ruin
+3300100 Sorcery: Glintblade Phalanx
+3300100 Sorcery: Carian Phalanx
+3300100 Sorcery: Greatblade Phalanx
+3300100 Sorcery: Rennala's Full Moon
+3300100 Sorcery: Ranni's Dark Moon
+3300100 Sorcery: Magic Downpour
+3300100 Sorcery: Loretta's Greatbow
+3300100 Sorcery: Loretta's Mastery
+3300100 Sorcery: Magic Glintblade
+3300100 Sorcery: Glintstone Icecrag
+3300100 Sorcery: Zamor Ice Storm
+3300100 Sorcery: Freezing Mist
+3300100 Sorcery: Carian Greatsword
+3300100 Sorcery: Adula's Moonblade
+3300100 Sorcery: Carian Slicer
+3300100 Sorcery: Carian Piercer
+3300100 Sorcery: Scholar's Armament
+3300100 Sorcery: Scholar's Shield
+3300100 Sorcery: Frozen Armament
+3300100 Sorcery: Shattering Crystal
+3300100 Sorcery: Crystal Release
+3300100 Sorcery: Crystal Torrent
+3300100 Sorcery: Ambush Shard
+3300100 Sorcery: Night Shard
+3300100 Sorcery: Night Comet
+3300100 Sorcery: Thops's Barrier
+3300100 Sorcery: Carian Retaliation
+3300100 Sorcery: Eternal Darkness
+3300100 Sorcery: Meteorite
+3300100 Sorcery: Meteorite of Astel
+3300100 Sorcery: Rock Sling
+3300100 Sorcery: Gravity Well
+3300100 Sorcery: Collapsing Stars
+3300100 Sorcery: Magma Shot
+3300100 Sorcery: Gelmir's Fury
+3300100 Sorcery: Roiling Magma
+3300100 Sorcery: Rykard's Rancor
+3300100 Sorcery: Briars of Sin
+3300100 Sorcery: Briars of Punishment
+3300100 Sorcery: Rancorcall
+3300100 Sorcery: Ancient Death Rancor
+3300100 Sorcery: Explosive Ghostflame
+3300100 Sorcery: Tibia's Summons
+3300100 Sorcery: Oracle Bubbles
+3300100 Sorcery: Great Oracular Bubble
+3300100 Incantation: Night Maiden's Mist
+3304000 Sorcery: Shattering Crystal
+3304100 Sorcery: Glintstone Pebble
+3304100 Sorcery: Great Glintstone Shard
+3304100 Sorcery: Swift Glintstone Shard
+3304100 Sorcery: Glintstone Cometshard
+3304100 Sorcery: Comet
+3304100 Sorcery: Shard Spiral
+3304100 Sorcery: Glintstone Stars
+3304100 Sorcery: Star Shower
+3304100 Sorcery: Crystal Barrage
+3304100 Sorcery: Glintstone Arc
+3304100 Sorcery: Cannon of Haima
+3304100 Sorcery: Crystal Burst
+3304100 Sorcery: Shatter Earth
+3304100 Sorcery: Rock Blaster
+3304100 Sorcery: Gavel of Haima
+3304100 Sorcery: Terra Magicus
+3304100 Sorcery: Comet Azur
+3304100 Sorcery: Founding Rain of Stars
+3304100 Sorcery: Stars of Ruin
+3304100 Sorcery: Glintblade Phalanx
+3304100 Sorcery: Carian Phalanx
+3304100 Sorcery: Greatblade Phalanx
+3304100 Sorcery: Rennala's Full Moon
+3304100 Sorcery: Ranni's Dark Moon
+3304100 Sorcery: Magic Downpour
+3304100 Sorcery: Loretta's Greatbow
+3304100 Sorcery: Loretta's Mastery
+3304100 Sorcery: Magic Glintblade
+3304100 Sorcery: Glintstone Icecrag
+3304100 Sorcery: Zamor Ice Storm
+3304100 Sorcery: Freezing Mist
+3304100 Sorcery: Carian Greatsword
+3304100 Sorcery: Adula's Moonblade
+3304100 Sorcery: Carian Slicer
+3304100 Sorcery: Carian Piercer
+3304100 Sorcery: Scholar's Armament
+3304100 Sorcery: Scholar's Shield
+3304100 Sorcery: Frozen Armament
+3304100 (0% weight)
+3304100 Sorcery: Crystal Release
+3304100 Sorcery: Crystal Torrent
+3304100 Sorcery: Ambush Shard
+3304100 Sorcery: Night Shard
+3304100 Sorcery: Night Comet
+3304100 Sorcery: Thops's Barrier
+3304100 Sorcery: Carian Retaliation
+3304100 Sorcery: Eternal Darkness
+3304100 Sorcery: Meteorite
+3304100 Sorcery: Meteorite of Astel
+3304100 Sorcery: Rock Sling
+3304100 Sorcery: Gravity Well
+3304100 Sorcery: Collapsing Stars
+3304100 Sorcery: Magma Shot
+3304100 Sorcery: Gelmir's Fury
+3304100 Sorcery: Roiling Magma
+3304100 Sorcery: Rykard's Rancor
+3304100 Sorcery: Briars of Sin
+3304100 Sorcery: Briars of Punishment
+3304100 Sorcery: Rancorcall
+3304100 Sorcery: Ancient Death Rancor
+3304100 Sorcery: Explosive Ghostflame
+3304100 Sorcery: Tibia's Summons
+3304100 Sorcery: Oracle Bubbles
+3304100 Sorcery: Great Oracular Bubble
+3304100 Incantation: Night Maiden's Mist
+3305000 Sorcery: Magma Shot
+3305100 Sorcery: Glintstone Pebble
+3305100 Sorcery: Great Glintstone Shard
+3305100 Sorcery: Swift Glintstone Shard
+3305100 Sorcery: Glintstone Cometshard
+3305100 Sorcery: Comet
+3305100 Sorcery: Shard Spiral
+3305100 Sorcery: Glintstone Stars
+3305100 Sorcery: Star Shower
+3305100 Sorcery: Crystal Barrage
+3305100 Sorcery: Glintstone Arc
+3305100 Sorcery: Cannon of Haima
+3305100 Sorcery: Crystal Burst
+3305100 Sorcery: Shatter Earth
+3305100 Sorcery: Rock Blaster
+3305100 Sorcery: Gavel of Haima
+3305100 Sorcery: Terra Magicus
+3305100 Sorcery: Comet Azur
+3305100 Sorcery: Founding Rain of Stars
+3305100 Sorcery: Stars of Ruin
+3305100 Sorcery: Glintblade Phalanx
+3305100 Sorcery: Carian Phalanx
+3305100 Sorcery: Greatblade Phalanx
+3305100 Sorcery: Rennala's Full Moon
+3305100 Sorcery: Ranni's Dark Moon
+3305100 Sorcery: Magic Downpour
+3305100 Sorcery: Loretta's Greatbow
+3305100 Sorcery: Loretta's Mastery
+3305100 Sorcery: Magic Glintblade
+3305100 Sorcery: Glintstone Icecrag
+3305100 Sorcery: Zamor Ice Storm
+3305100 Sorcery: Freezing Mist
+3305100 Sorcery: Carian Greatsword
+3305100 Sorcery: Adula's Moonblade
+3305100 Sorcery: Carian Slicer
+3305100 Sorcery: Carian Piercer
+3305100 Sorcery: Scholar's Armament
+3305100 Sorcery: Scholar's Shield
+3305100 Sorcery: Frozen Armament
+3305100 Sorcery: Shattering Crystal
+3305100 Sorcery: Crystal Release
+3305100 Sorcery: Crystal Torrent
+3305100 Sorcery: Ambush Shard
+3305100 Sorcery: Night Shard
+3305100 Sorcery: Night Comet
+3305100 Sorcery: Thops's Barrier
+3305100 Sorcery: Carian Retaliation
+3305100 Sorcery: Eternal Darkness
+3305100 Sorcery: Meteorite
+3305100 Sorcery: Meteorite of Astel
+3305100 Sorcery: Rock Sling
+3305100 Sorcery: Gravity Well
+3305100 Sorcery: Collapsing Stars
+3305100 (0% weight)
+3305100 Sorcery: Gelmir's Fury
+3305100 Sorcery: Roiling Magma
+3305100 Sorcery: Rykard's Rancor
+3305100 Sorcery: Briars of Sin
+3305100 Sorcery: Briars of Punishment
+3305100 Sorcery: Rancorcall
+3305100 Sorcery: Ancient Death Rancor
+3305100 Sorcery: Explosive Ghostflame
+3305100 Sorcery: Tibia's Summons
+3305100 Sorcery: Oracle Bubbles
+3305100 Sorcery: Great Oracular Bubble
+3305100 Incantation: Night Maiden's Mist
+3306000 Sorcery: Glintstone Pebble
+3306100 (0% weight)
+3306100 Sorcery: Great Glintstone Shard
+3306100 Sorcery: Swift Glintstone Shard
+3306100 Sorcery: Glintstone Cometshard
+3306100 Sorcery: Comet
+3306100 Sorcery: Shard Spiral
+3306100 Sorcery: Glintstone Stars
+3306100 Sorcery: Star Shower
+3306100 Sorcery: Crystal Barrage
+3306100 Sorcery: Glintstone Arc
+3306100 Sorcery: Cannon of Haima
+3306100 Sorcery: Crystal Burst
+3306100 Sorcery: Shatter Earth
+3306100 Sorcery: Rock Blaster
+3306100 Sorcery: Gavel of Haima
+3306100 Sorcery: Terra Magicus
+3306100 Sorcery: Comet Azur
+3306100 Sorcery: Founding Rain of Stars
+3306100 Sorcery: Stars of Ruin
+3306100 Sorcery: Glintblade Phalanx
+3306100 Sorcery: Carian Phalanx
+3306100 Sorcery: Greatblade Phalanx
+3306100 Sorcery: Rennala's Full Moon
+3306100 Sorcery: Ranni's Dark Moon
+3306100 Sorcery: Magic Downpour
+3306100 Sorcery: Loretta's Greatbow
+3306100 Sorcery: Loretta's Mastery
+3306100 Sorcery: Magic Glintblade
+3306100 Sorcery: Glintstone Icecrag
+3306100 Sorcery: Zamor Ice Storm
+3306100 Sorcery: Freezing Mist
+3306100 Sorcery: Carian Greatsword
+3306100 Sorcery: Adula's Moonblade
+3306100 Sorcery: Carian Slicer
+3306100 Sorcery: Carian Piercer
+3306100 Sorcery: Scholar's Armament
+3306100 Sorcery: Scholar's Shield
+3306100 Sorcery: Frozen Armament
+3306100 Sorcery: Shattering Crystal
+3306100 Sorcery: Crystal Release
+3306100 Sorcery: Crystal Torrent
+3306100 Sorcery: Ambush Shard
+3306100 Sorcery: Night Shard
+3306100 Sorcery: Night Comet
+3306100 Sorcery: Thops's Barrier
+3306100 Sorcery: Carian Retaliation
+3306100 Sorcery: Eternal Darkness
+3306100 Sorcery: Meteorite
+3306100 Sorcery: Meteorite of Astel
+3306100 Sorcery: Rock Sling
+3306100 Sorcery: Gravity Well
+3306100 Sorcery: Collapsing Stars
+3306100 Sorcery: Magma Shot
+3306100 Sorcery: Gelmir's Fury
+3306100 Sorcery: Roiling Magma
+3306100 Sorcery: Rykard's Rancor
+3306100 Sorcery: Briars of Sin
+3306100 Sorcery: Briars of Punishment
+3306100 Sorcery: Rancorcall
+3306100 Sorcery: Ancient Death Rancor
+3306100 Sorcery: Explosive Ghostflame
+3306100 Sorcery: Tibia's Summons
+3306100 Sorcery: Oracle Bubbles
+3306100 Sorcery: Great Oracular Bubble
+3306100 Incantation: Night Maiden's Mist
+3309000 Sorcery: Rennala's Full Moon
+3309100 Sorcery: Glintstone Pebble
+3309100 Sorcery: Great Glintstone Shard
+3309100 Sorcery: Swift Glintstone Shard
+3309100 Sorcery: Glintstone Cometshard
+3309100 Sorcery: Comet
+3309100 Sorcery: Shard Spiral
+3309100 Sorcery: Glintstone Stars
+3309100 Sorcery: Star Shower
+3309100 Sorcery: Crystal Barrage
+3309100 Sorcery: Glintstone Arc
+3309100 Sorcery: Cannon of Haima
+3309100 Sorcery: Crystal Burst
+3309100 Sorcery: Shatter Earth
+3309100 Sorcery: Rock Blaster
+3309100 Sorcery: Gavel of Haima
+3309100 Sorcery: Terra Magicus
+3309100 Sorcery: Comet Azur
+3309100 Sorcery: Founding Rain of Stars
+3309100 Sorcery: Stars of Ruin
+3309100 Sorcery: Glintblade Phalanx
+3309100 Sorcery: Carian Phalanx
+3309100 Sorcery: Greatblade Phalanx
+3309100 (0% weight)
+3309100 Sorcery: Ranni's Dark Moon
+3309100 Sorcery: Magic Downpour
+3309100 Sorcery: Loretta's Greatbow
+3309100 Sorcery: Loretta's Mastery
+3309100 Sorcery: Magic Glintblade
+3309100 Sorcery: Glintstone Icecrag
+3309100 Sorcery: Zamor Ice Storm
+3309100 Sorcery: Freezing Mist
+3309100 Sorcery: Carian Greatsword
+3309100 Sorcery: Adula's Moonblade
+3309100 Sorcery: Carian Slicer
+3309100 Sorcery: Carian Piercer
+3309100 Sorcery: Scholar's Armament
+3309100 Sorcery: Scholar's Shield
+3309100 Sorcery: Frozen Armament
+3309100 Sorcery: Shattering Crystal
+3309100 Sorcery: Crystal Release
+3309100 Sorcery: Crystal Torrent
+3309100 Sorcery: Ambush Shard
+3309100 Sorcery: Night Shard
+3309100 Sorcery: Night Comet
+3309100 Sorcery: Thops's Barrier
+3309100 Sorcery: Carian Retaliation
+3309100 Sorcery: Eternal Darkness
+3309100 Sorcery: Meteorite
+3309100 Sorcery: Meteorite of Astel
+3309100 Sorcery: Rock Sling
+3309100 Sorcery: Gravity Well
+3309100 Sorcery: Collapsing Stars
+3309100 Sorcery: Magma Shot
+3309100 Sorcery: Gelmir's Fury
+3309100 Sorcery: Roiling Magma
+3309100 Sorcery: Rykard's Rancor
+3309100 Sorcery: Briars of Sin
+3309100 Sorcery: Briars of Punishment
+3309100 Sorcery: Rancorcall
+3309100 Sorcery: Ancient Death Rancor
+3309100 Sorcery: Explosive Ghostflame
+3309100 Sorcery: Tibia's Summons
+3309100 Sorcery: Oracle Bubbles
+3309100 Sorcery: Great Oracular Bubble
+3309100 Incantation: Night Maiden's Mist
+3312000 Sorcery: Shatter Earth
+3312100 Sorcery: Glintstone Pebble
+3312100 Sorcery: Great Glintstone Shard
+3312100 Sorcery: Swift Glintstone Shard
+3312100 Sorcery: Glintstone Cometshard
+3312100 Sorcery: Comet
+3312100 Sorcery: Shard Spiral
+3312100 Sorcery: Glintstone Stars
+3312100 Sorcery: Star Shower
+3312100 Sorcery: Crystal Barrage
+3312100 Sorcery: Glintstone Arc
+3312100 Sorcery: Cannon of Haima
+3312100 Sorcery: Crystal Burst
+3312100 (0% weight)
+3312100 Sorcery: Rock Blaster
+3312100 Sorcery: Gavel of Haima
+3312100 Sorcery: Terra Magicus
+3312100 Sorcery: Comet Azur
+3312100 Sorcery: Founding Rain of Stars
+3312100 Sorcery: Stars of Ruin
+3312100 Sorcery: Glintblade Phalanx
+3312100 Sorcery: Carian Phalanx
+3312100 Sorcery: Greatblade Phalanx
+3312100 Sorcery: Rennala's Full Moon
+3312100 Sorcery: Ranni's Dark Moon
+3312100 Sorcery: Magic Downpour
+3312100 Sorcery: Loretta's Greatbow
+3312100 Sorcery: Loretta's Mastery
+3312100 Sorcery: Magic Glintblade
+3312100 Sorcery: Glintstone Icecrag
+3312100 Sorcery: Zamor Ice Storm
+3312100 Sorcery: Freezing Mist
+3312100 Sorcery: Carian Greatsword
+3312100 Sorcery: Adula's Moonblade
+3312100 Sorcery: Carian Slicer
+3312100 Sorcery: Carian Piercer
+3312100 Sorcery: Scholar's Armament
+3312100 Sorcery: Scholar's Shield
+3312100 Sorcery: Frozen Armament
+3312100 Sorcery: Shattering Crystal
+3312100 Sorcery: Crystal Release
+3312100 Sorcery: Crystal Torrent
+3312100 Sorcery: Ambush Shard
+3312100 Sorcery: Night Shard
+3312100 Sorcery: Night Comet
+3312100 Sorcery: Thops's Barrier
+3312100 Sorcery: Carian Retaliation
+3312100 Sorcery: Eternal Darkness
+3312100 Sorcery: Meteorite
+3312100 Sorcery: Meteorite of Astel
+3312100 Sorcery: Rock Sling
+3312100 Sorcery: Gravity Well
+3312100 Sorcery: Collapsing Stars
+3312100 Sorcery: Magma Shot
+3312100 Sorcery: Gelmir's Fury
+3312100 Sorcery: Roiling Magma
+3312100 Sorcery: Rykard's Rancor
+3312100 Sorcery: Briars of Sin
+3312100 Sorcery: Briars of Punishment
+3312100 Sorcery: Rancorcall
+3312100 Sorcery: Ancient Death Rancor
+3312100 Sorcery: Explosive Ghostflame
+3312100 Sorcery: Tibia's Summons
+3312100 Sorcery: Oracle Bubbles
+3312100 Sorcery: Great Oracular Bubble
+3312100 Incantation: Night Maiden's Mist
+3313000 Sorcery: Glintstone Pebble
+3313100 (0% weight)
+3313100 Sorcery: Great Glintstone Shard
+3313100 Sorcery: Swift Glintstone Shard
+3313100 Sorcery: Glintstone Cometshard
+3313100 Sorcery: Comet
+3313100 Sorcery: Shard Spiral
+3313100 Sorcery: Glintstone Stars
+3313100 Sorcery: Star Shower
+3313100 Sorcery: Crystal Barrage
+3313100 Sorcery: Glintstone Arc
+3313100 Sorcery: Cannon of Haima
+3313100 Sorcery: Crystal Burst
+3313100 Sorcery: Shatter Earth
+3313100 Sorcery: Rock Blaster
+3313100 Sorcery: Gavel of Haima
+3313100 Sorcery: Terra Magicus
+3313100 Sorcery: Comet Azur
+3313100 Sorcery: Founding Rain of Stars
+3313100 Sorcery: Stars of Ruin
+3313100 Sorcery: Glintblade Phalanx
+3313100 Sorcery: Carian Phalanx
+3313100 Sorcery: Greatblade Phalanx
+3313100 Sorcery: Rennala's Full Moon
+3313100 Sorcery: Ranni's Dark Moon
+3313100 Sorcery: Magic Downpour
+3313100 Sorcery: Loretta's Greatbow
+3313100 Sorcery: Loretta's Mastery
+3313100 Sorcery: Magic Glintblade
+3313100 Sorcery: Glintstone Icecrag
+3313100 Sorcery: Zamor Ice Storm
+3313100 Sorcery: Freezing Mist
+3313100 Sorcery: Carian Greatsword
+3313100 Sorcery: Adula's Moonblade
+3313100 Sorcery: Carian Slicer
+3313100 Sorcery: Carian Piercer
+3313100 Sorcery: Scholar's Armament
+3313100 Sorcery: Scholar's Shield
+3313100 Sorcery: Frozen Armament
+3313100 Sorcery: Shattering Crystal
+3313100 Sorcery: Crystal Release
+3313100 Sorcery: Crystal Torrent
+3313100 Sorcery: Ambush Shard
+3313100 Sorcery: Night Shard
+3313100 Sorcery: Night Comet
+3313100 Sorcery: Thops's Barrier
+3313100 Sorcery: Carian Retaliation
+3313100 Sorcery: Eternal Darkness
+3313100 Sorcery: Meteorite
+3313100 Sorcery: Meteorite of Astel
+3313100 Sorcery: Rock Sling
+3313100 Sorcery: Gravity Well
+3313100 Sorcery: Collapsing Stars
+3313100 Sorcery: Magma Shot
+3313100 Sorcery: Gelmir's Fury
+3313100 Sorcery: Roiling Magma
+3313100 Sorcery: Rykard's Rancor
+3313100 Sorcery: Briars of Sin
+3313100 Sorcery: Briars of Punishment
+3313100 Sorcery: Rancorcall
+3313100 Sorcery: Ancient Death Rancor
+3313100 Sorcery: Explosive Ghostflame
+3313100 Sorcery: Tibia's Summons
+3313100 Sorcery: Oracle Bubbles
+3313100 Sorcery: Great Oracular Bubble
+3313100 Incantation: Night Maiden's Mist
+3317000 Sorcery: Magic Glintblade
+3317100 Sorcery: Glintstone Pebble
+3317100 Sorcery: Great Glintstone Shard
+3317100 Sorcery: Swift Glintstone Shard
+3317100 Sorcery: Glintstone Cometshard
+3317100 Sorcery: Comet
+3317100 Sorcery: Shard Spiral
+3317100 Sorcery: Glintstone Stars
+3317100 Sorcery: Star Shower
+3317100 Sorcery: Crystal Barrage
+3317100 Sorcery: Glintstone Arc
+3317100 Sorcery: Cannon of Haima
+3317100 Sorcery: Crystal Burst
+3317100 Sorcery: Shatter Earth
+3317100 Sorcery: Rock Blaster
+3317100 Sorcery: Gavel of Haima
+3317100 Sorcery: Terra Magicus
+3317100 Sorcery: Comet Azur
+3317100 Sorcery: Founding Rain of Stars
+3317100 Sorcery: Stars of Ruin
+3317100 Sorcery: Glintblade Phalanx
+3317100 Sorcery: Carian Phalanx
+3317100 Sorcery: Greatblade Phalanx
+3317100 Sorcery: Rennala's Full Moon
+3317100 Sorcery: Ranni's Dark Moon
+3317100 Sorcery: Magic Downpour
+3317100 Sorcery: Loretta's Greatbow
+3317100 Sorcery: Loretta's Mastery
+3317100 (0% weight)
+3317100 Sorcery: Glintstone Icecrag
+3317100 Sorcery: Zamor Ice Storm
+3317100 Sorcery: Freezing Mist
+3317100 Sorcery: Carian Greatsword
+3317100 Sorcery: Adula's Moonblade
+3317100 Sorcery: Carian Slicer
+3317100 Sorcery: Carian Piercer
+3317100 Sorcery: Scholar's Armament
+3317100 Sorcery: Scholar's Shield
+3317100 Sorcery: Frozen Armament
+3317100 Sorcery: Shattering Crystal
+3317100 Sorcery: Crystal Release
+3317100 Sorcery: Crystal Torrent
+3317100 Sorcery: Ambush Shard
+3317100 Sorcery: Night Shard
+3317100 Sorcery: Night Comet
+3317100 Sorcery: Thops's Barrier
+3317100 Sorcery: Carian Retaliation
+3317100 Sorcery: Eternal Darkness
+3317100 Sorcery: Meteorite
+3317100 Sorcery: Meteorite of Astel
+3317100 Sorcery: Rock Sling
+3317100 Sorcery: Gravity Well
+3317100 Sorcery: Collapsing Stars
+3317100 Sorcery: Magma Shot
+3317100 Sorcery: Gelmir's Fury
+3317100 Sorcery: Roiling Magma
+3317100 Sorcery: Rykard's Rancor
+3317100 Sorcery: Briars of Sin
+3317100 Sorcery: Briars of Punishment
+3317100 Sorcery: Rancorcall
+3317100 Sorcery: Ancient Death Rancor
+3317100 Sorcery: Explosive Ghostflame
+3317100 Sorcery: Tibia's Summons
+3317100 Sorcery: Oracle Bubbles
+3317100 Sorcery: Great Oracular Bubble
+3317100 Incantation: Night Maiden's Mist
+3318000 Sorcery: Rancorcall
+3318100 Sorcery: Glintstone Pebble
+3318100 Sorcery: Great Glintstone Shard
+3318100 Sorcery: Swift Glintstone Shard
+3318100 Sorcery: Glintstone Cometshard
+3318100 Sorcery: Comet
+3318100 Sorcery: Shard Spiral
+3318100 Sorcery: Glintstone Stars
+3318100 Sorcery: Star Shower
+3318100 Sorcery: Crystal Barrage
+3318100 Sorcery: Glintstone Arc
+3318100 Sorcery: Cannon of Haima
+3318100 Sorcery: Crystal Burst
+3318100 Sorcery: Shatter Earth
+3318100 Sorcery: Rock Blaster
+3318100 Sorcery: Gavel of Haima
+3318100 Sorcery: Terra Magicus
+3318100 Sorcery: Comet Azur
+3318100 Sorcery: Founding Rain of Stars
+3318100 Sorcery: Stars of Ruin
+3318100 Sorcery: Glintblade Phalanx
+3318100 Sorcery: Carian Phalanx
+3318100 Sorcery: Greatblade Phalanx
+3318100 Sorcery: Rennala's Full Moon
+3318100 Sorcery: Ranni's Dark Moon
+3318100 Sorcery: Magic Downpour
+3318100 Sorcery: Loretta's Greatbow
+3318100 Sorcery: Loretta's Mastery
+3318100 Sorcery: Magic Glintblade
+3318100 Sorcery: Glintstone Icecrag
+3318100 Sorcery: Zamor Ice Storm
+3318100 Sorcery: Freezing Mist
+3318100 Sorcery: Carian Greatsword
+3318100 Sorcery: Adula's Moonblade
+3318100 Sorcery: Carian Slicer
+3318100 Sorcery: Carian Piercer
+3318100 Sorcery: Scholar's Armament
+3318100 Sorcery: Scholar's Shield
+3318100 Sorcery: Frozen Armament
+3318100 Sorcery: Shattering Crystal
+3318100 Sorcery: Crystal Release
+3318100 Sorcery: Crystal Torrent
+3318100 Sorcery: Ambush Shard
+3318100 Sorcery: Night Shard
+3318100 Sorcery: Night Comet
+3318100 Sorcery: Thops's Barrier
+3318100 Sorcery: Carian Retaliation
+3318100 Sorcery: Eternal Darkness
+3318100 Sorcery: Meteorite
+3318100 Sorcery: Meteorite of Astel
+3318100 Sorcery: Rock Sling
+3318100 Sorcery: Gravity Well
+3318100 Sorcery: Collapsing Stars
+3318100 Sorcery: Magma Shot
+3318100 Sorcery: Gelmir's Fury
+3318100 Sorcery: Roiling Magma
+3318100 Sorcery: Rykard's Rancor
+3318100 Sorcery: Briars of Sin
+3318100 Sorcery: Briars of Punishment
+3318100 (0% weight)
+3318100 Sorcery: Ancient Death Rancor
+3318100 Sorcery: Explosive Ghostflame
+3318100 Sorcery: Tibia's Summons
+3318100 Sorcery: Oracle Bubbles
+3318100 Sorcery: Great Oracular Bubble
+3318100 Incantation: Night Maiden's Mist
+3319000 Sorcery: Glintstone Pebble
+3319100 (0% weight)
+3319100 Sorcery: Great Glintstone Shard
+3319100 Sorcery: Swift Glintstone Shard
+3319100 Sorcery: Glintstone Cometshard
+3319100 Sorcery: Comet
+3319100 Sorcery: Shard Spiral
+3319100 Sorcery: Glintstone Stars
+3319100 Sorcery: Star Shower
+3319100 Sorcery: Crystal Barrage
+3319100 Sorcery: Glintstone Arc
+3319100 Sorcery: Cannon of Haima
+3319100 Sorcery: Crystal Burst
+3319100 Sorcery: Shatter Earth
+3319100 Sorcery: Rock Blaster
+3319100 Sorcery: Gavel of Haima
+3319100 Sorcery: Terra Magicus
+3319100 Sorcery: Comet Azur
+3319100 Sorcery: Founding Rain of Stars
+3319100 Sorcery: Stars of Ruin
+3319100 Sorcery: Glintblade Phalanx
+3319100 Sorcery: Carian Phalanx
+3319100 Sorcery: Greatblade Phalanx
+3319100 Sorcery: Rennala's Full Moon
+3319100 Sorcery: Ranni's Dark Moon
+3319100 Sorcery: Magic Downpour
+3319100 Sorcery: Loretta's Greatbow
+3319100 Sorcery: Loretta's Mastery
+3319100 Sorcery: Magic Glintblade
+3319100 Sorcery: Glintstone Icecrag
+3319100 Sorcery: Zamor Ice Storm
+3319100 Sorcery: Freezing Mist
+3319100 Sorcery: Carian Greatsword
+3319100 Sorcery: Adula's Moonblade
+3319100 Sorcery: Carian Slicer
+3319100 Sorcery: Carian Piercer
+3319100 Sorcery: Scholar's Armament
+3319100 Sorcery: Scholar's Shield
+3319100 Sorcery: Frozen Armament
+3319100 Sorcery: Shattering Crystal
+3319100 Sorcery: Crystal Release
+3319100 Sorcery: Crystal Torrent
+3319100 Sorcery: Ambush Shard
+3319100 Sorcery: Night Shard
+3319100 Sorcery: Night Comet
+3319100 Sorcery: Thops's Barrier
+3319100 Sorcery: Carian Retaliation
+3319100 Sorcery: Eternal Darkness
+3319100 Sorcery: Meteorite
+3319100 Sorcery: Meteorite of Astel
+3319100 Sorcery: Rock Sling
+3319100 Sorcery: Gravity Well
+3319100 Sorcery: Collapsing Stars
+3319100 Sorcery: Magma Shot
+3319100 Sorcery: Gelmir's Fury
+3319100 Sorcery: Roiling Magma
+3319100 Sorcery: Rykard's Rancor
+3319100 Sorcery: Briars of Sin
+3319100 Sorcery: Briars of Punishment
+3319100 Sorcery: Rancorcall
+3319100 Sorcery: Ancient Death Rancor
+3319100 Sorcery: Explosive Ghostflame
+3319100 Sorcery: Tibia's Summons
+3319100 Sorcery: Oracle Bubbles
+3319100 Sorcery: Great Oracular Bubble
+3319100 Incantation: Night Maiden's Mist
+3320000 Sorcery: Glintstone Pebble
+3320100 (0% weight)
+3320100 Sorcery: Great Glintstone Shard
+3320100 Sorcery: Swift Glintstone Shard
+3320100 Sorcery: Glintstone Cometshard
+3320100 Sorcery: Comet
+3320100 Sorcery: Shard Spiral
+3320100 Sorcery: Glintstone Stars
+3320100 Sorcery: Star Shower
+3320100 Sorcery: Crystal Barrage
+3320100 Sorcery: Glintstone Arc
+3320100 Sorcery: Cannon of Haima
+3320100 Sorcery: Crystal Burst
+3320100 Sorcery: Shatter Earth
+3320100 Sorcery: Rock Blaster
+3320100 Sorcery: Gavel of Haima
+3320100 Sorcery: Terra Magicus
+3320100 Sorcery: Comet Azur
+3320100 Sorcery: Founding Rain of Stars
+3320100 Sorcery: Stars of Ruin
+3320100 Sorcery: Glintblade Phalanx
+3320100 Sorcery: Carian Phalanx
+3320100 Sorcery: Greatblade Phalanx
+3320100 Sorcery: Rennala's Full Moon
+3320100 Sorcery: Ranni's Dark Moon
+3320100 Sorcery: Magic Downpour
+3320100 Sorcery: Loretta's Greatbow
+3320100 Sorcery: Loretta's Mastery
+3320100 Sorcery: Magic Glintblade
+3320100 Sorcery: Glintstone Icecrag
+3320100 Sorcery: Zamor Ice Storm
+3320100 Sorcery: Freezing Mist
+3320100 Sorcery: Carian Greatsword
+3320100 Sorcery: Adula's Moonblade
+3320100 Sorcery: Carian Slicer
+3320100 Sorcery: Carian Piercer
+3320100 Sorcery: Scholar's Armament
+3320100 Sorcery: Scholar's Shield
+3320100 Sorcery: Frozen Armament
+3320100 Sorcery: Shattering Crystal
+3320100 Sorcery: Crystal Release
+3320100 Sorcery: Crystal Torrent
+3320100 Sorcery: Ambush Shard
+3320100 Sorcery: Night Shard
+3320100 Sorcery: Night Comet
+3320100 Sorcery: Thops's Barrier
+3320100 Sorcery: Carian Retaliation
+3320100 Sorcery: Eternal Darkness
+3320100 Sorcery: Meteorite
+3320100 Sorcery: Meteorite of Astel
+3320100 Sorcery: Rock Sling
+3320100 Sorcery: Gravity Well
+3320100 Sorcery: Collapsing Stars
+3320100 Sorcery: Magma Shot
+3320100 Sorcery: Gelmir's Fury
+3320100 Sorcery: Roiling Magma
+3320100 Sorcery: Rykard's Rancor
+3320100 Sorcery: Briars of Sin
+3320100 Sorcery: Briars of Punishment
+3320100 Sorcery: Rancorcall
+3320100 Sorcery: Ancient Death Rancor
+3320100 Sorcery: Explosive Ghostflame
+3320100 Sorcery: Tibia's Summons
+3320100 Sorcery: Oracle Bubbles
+3320100 Sorcery: Great Oracular Bubble
+3320100 Incantation: Night Maiden's Mist
+3321000 Sorcery: Carian Slicer
+3321100 Sorcery: Glintstone Pebble
+3321100 Sorcery: Great Glintstone Shard
+3321100 Sorcery: Swift Glintstone Shard
+3321100 Sorcery: Glintstone Cometshard
+3321100 Sorcery: Comet
+3321100 Sorcery: Shard Spiral
+3321100 Sorcery: Glintstone Stars
+3321100 Sorcery: Star Shower
+3321100 Sorcery: Crystal Barrage
+3321100 Sorcery: Glintstone Arc
+3321100 Sorcery: Cannon of Haima
+3321100 Sorcery: Crystal Burst
+3321100 Sorcery: Shatter Earth
+3321100 Sorcery: Rock Blaster
+3321100 Sorcery: Gavel of Haima
+3321100 Sorcery: Terra Magicus
+3321100 Sorcery: Comet Azur
+3321100 Sorcery: Founding Rain of Stars
+3321100 Sorcery: Stars of Ruin
+3321100 Sorcery: Glintblade Phalanx
+3321100 Sorcery: Carian Phalanx
+3321100 Sorcery: Greatblade Phalanx
+3321100 Sorcery: Rennala's Full Moon
+3321100 Sorcery: Ranni's Dark Moon
+3321100 Sorcery: Magic Downpour
+3321100 Sorcery: Loretta's Greatbow
+3321100 Sorcery: Loretta's Mastery
+3321100 Sorcery: Magic Glintblade
+3321100 Sorcery: Glintstone Icecrag
+3321100 Sorcery: Zamor Ice Storm
+3321100 Sorcery: Freezing Mist
+3321100 Sorcery: Carian Greatsword
+3321100 Sorcery: Adula's Moonblade
+3321100 (0% weight)
+3321100 Sorcery: Carian Piercer
+3321100 Sorcery: Scholar's Armament
+3321100 Sorcery: Scholar's Shield
+3321100 Sorcery: Frozen Armament
+3321100 Sorcery: Shattering Crystal
+3321100 Sorcery: Crystal Release
+3321100 Sorcery: Crystal Torrent
+3321100 Sorcery: Ambush Shard
+3321100 Sorcery: Night Shard
+3321100 Sorcery: Night Comet
+3321100 Sorcery: Thops's Barrier
+3321100 Sorcery: Carian Retaliation
+3321100 Sorcery: Eternal Darkness
+3321100 Sorcery: Meteorite
+3321100 Sorcery: Meteorite of Astel
+3321100 Sorcery: Rock Sling
+3321100 Sorcery: Gravity Well
+3321100 Sorcery: Collapsing Stars
+3321100 Sorcery: Magma Shot
+3321100 Sorcery: Gelmir's Fury
+3321100 Sorcery: Roiling Magma
+3321100 Sorcery: Rykard's Rancor
+3321100 Sorcery: Briars of Sin
+3321100 Sorcery: Briars of Punishment
+3321100 Sorcery: Rancorcall
+3321100 Sorcery: Ancient Death Rancor
+3321100 Sorcery: Explosive Ghostflame
+3321100 Sorcery: Tibia's Summons
+3321100 Sorcery: Oracle Bubbles
+3321100 Sorcery: Great Oracular Bubble
+3321100 Incantation: Night Maiden's Mist
+3323000 Sorcery: Comet Azur
+3323100 Sorcery: Glintstone Pebble
+3323100 Sorcery: Great Glintstone Shard
+3323100 Sorcery: Swift Glintstone Shard
+3323100 Sorcery: Glintstone Cometshard
+3323100 Sorcery: Comet
+3323100 Sorcery: Shard Spiral
+3323100 Sorcery: Glintstone Stars
+3323100 Sorcery: Star Shower
+3323100 Sorcery: Crystal Barrage
+3323100 Sorcery: Glintstone Arc
+3323100 Sorcery: Cannon of Haima
+3323100 Sorcery: Crystal Burst
+3323100 Sorcery: Shatter Earth
+3323100 Sorcery: Rock Blaster
+3323100 Sorcery: Gavel of Haima
+3323100 Sorcery: Terra Magicus
+3323100 (0% weight)
+3323100 Sorcery: Founding Rain of Stars
+3323100 Sorcery: Stars of Ruin
+3323100 Sorcery: Glintblade Phalanx
+3323100 Sorcery: Carian Phalanx
+3323100 Sorcery: Greatblade Phalanx
+3323100 Sorcery: Rennala's Full Moon
+3323100 Sorcery: Ranni's Dark Moon
+3323100 Sorcery: Magic Downpour
+3323100 Sorcery: Loretta's Greatbow
+3323100 Sorcery: Loretta's Mastery
+3323100 Sorcery: Magic Glintblade
+3323100 Sorcery: Glintstone Icecrag
+3323100 Sorcery: Zamor Ice Storm
+3323100 Sorcery: Freezing Mist
+3323100 Sorcery: Carian Greatsword
+3323100 Sorcery: Adula's Moonblade
+3323100 Sorcery: Carian Slicer
+3323100 Sorcery: Carian Piercer
+3323100 Sorcery: Scholar's Armament
+3323100 Sorcery: Scholar's Shield
+3323100 Sorcery: Frozen Armament
+3323100 Sorcery: Shattering Crystal
+3323100 Sorcery: Crystal Release
+3323100 Sorcery: Crystal Torrent
+3323100 Sorcery: Ambush Shard
+3323100 Sorcery: Night Shard
+3323100 Sorcery: Night Comet
+3323100 Sorcery: Thops's Barrier
+3323100 Sorcery: Carian Retaliation
+3323100 Sorcery: Eternal Darkness
+3323100 Sorcery: Meteorite
+3323100 Sorcery: Meteorite of Astel
+3323100 Sorcery: Rock Sling
+3323100 Sorcery: Gravity Well
+3323100 Sorcery: Collapsing Stars
+3323100 Sorcery: Magma Shot
+3323100 Sorcery: Gelmir's Fury
+3323100 Sorcery: Roiling Magma
+3323100 Sorcery: Rykard's Rancor
+3323100 Sorcery: Briars of Sin
+3323100 Sorcery: Briars of Punishment
+3323100 Sorcery: Rancorcall
+3323100 Sorcery: Ancient Death Rancor
+3323100 Sorcery: Explosive Ghostflame
+3323100 Sorcery: Tibia's Summons
+3323100 Sorcery: Oracle Bubbles
+3323100 Sorcery: Great Oracular Bubble
+3323100 Incantation: Night Maiden's Mist
+3324000 Sorcery: Stars of Ruin
+3324100 Sorcery: Glintstone Pebble
+3324100 Sorcery: Great Glintstone Shard
+3324100 Sorcery: Swift Glintstone Shard
+3324100 Sorcery: Glintstone Cometshard
+3324100 Sorcery: Comet
+3324100 Sorcery: Shard Spiral
+3324100 Sorcery: Glintstone Stars
+3324100 Sorcery: Star Shower
+3324100 Sorcery: Crystal Barrage
+3324100 Sorcery: Glintstone Arc
+3324100 Sorcery: Cannon of Haima
+3324100 Sorcery: Crystal Burst
+3324100 Sorcery: Shatter Earth
+3324100 Sorcery: Rock Blaster
+3324100 Sorcery: Gavel of Haima
+3324100 Sorcery: Terra Magicus
+3324100 Sorcery: Comet Azur
+3324100 Sorcery: Founding Rain of Stars
+3324100 (0% weight)
+3324100 Sorcery: Glintblade Phalanx
+3324100 Sorcery: Carian Phalanx
+3324100 Sorcery: Greatblade Phalanx
+3324100 Sorcery: Rennala's Full Moon
+3324100 Sorcery: Ranni's Dark Moon
+3324100 Sorcery: Magic Downpour
+3324100 Sorcery: Loretta's Greatbow
+3324100 Sorcery: Loretta's Mastery
+3324100 Sorcery: Magic Glintblade
+3324100 Sorcery: Glintstone Icecrag
+3324100 Sorcery: Zamor Ice Storm
+3324100 Sorcery: Freezing Mist
+3324100 Sorcery: Carian Greatsword
+3324100 Sorcery: Adula's Moonblade
+3324100 Sorcery: Carian Slicer
+3324100 Sorcery: Carian Piercer
+3324100 Sorcery: Scholar's Armament
+3324100 Sorcery: Scholar's Shield
+3324100 Sorcery: Frozen Armament
+3324100 Sorcery: Shattering Crystal
+3324100 Sorcery: Crystal Release
+3324100 Sorcery: Crystal Torrent
+3324100 Sorcery: Ambush Shard
+3324100 Sorcery: Night Shard
+3324100 Sorcery: Night Comet
+3324100 Sorcery: Thops's Barrier
+3324100 Sorcery: Carian Retaliation
+3324100 Sorcery: Eternal Darkness
+3324100 Sorcery: Meteorite
+3324100 Sorcery: Meteorite of Astel
+3324100 Sorcery: Rock Sling
+3324100 Sorcery: Gravity Well
+3324100 Sorcery: Collapsing Stars
+3324100 Sorcery: Magma Shot
+3324100 Sorcery: Gelmir's Fury
+3324100 Sorcery: Roiling Magma
+3324100 Sorcery: Rykard's Rancor
+3324100 Sorcery: Briars of Sin
+3324100 Sorcery: Briars of Punishment
+3324100 Sorcery: Rancorcall
+3324100 Sorcery: Ancient Death Rancor
+3324100 Sorcery: Explosive Ghostflame
+3324100 Sorcery: Tibia's Summons
+3324100 Sorcery: Oracle Bubbles
+3324100 Sorcery: Great Oracular Bubble
+3324100 Incantation: Night Maiden's Mist
+3325000 Sorcery: Gravity Well
+3325100 Sorcery: Glintstone Pebble
+3325100 Sorcery: Great Glintstone Shard
+3325100 Sorcery: Swift Glintstone Shard
+3325100 Sorcery: Glintstone Cometshard
+3325100 Sorcery: Comet
+3325100 Sorcery: Shard Spiral
+3325100 Sorcery: Glintstone Stars
+3325100 Sorcery: Star Shower
+3325100 Sorcery: Crystal Barrage
+3325100 Sorcery: Glintstone Arc
+3325100 Sorcery: Cannon of Haima
+3325100 Sorcery: Crystal Burst
+3325100 Sorcery: Shatter Earth
+3325100 Sorcery: Rock Blaster
+3325100 Sorcery: Gavel of Haima
+3325100 Sorcery: Terra Magicus
+3325100 Sorcery: Comet Azur
+3325100 Sorcery: Founding Rain of Stars
+3325100 Sorcery: Stars of Ruin
+3325100 Sorcery: Glintblade Phalanx
+3325100 Sorcery: Carian Phalanx
+3325100 Sorcery: Greatblade Phalanx
+3325100 Sorcery: Rennala's Full Moon
+3325100 Sorcery: Ranni's Dark Moon
+3325100 Sorcery: Magic Downpour
+3325100 Sorcery: Loretta's Greatbow
+3325100 Sorcery: Loretta's Mastery
+3325100 Sorcery: Magic Glintblade
+3325100 Sorcery: Glintstone Icecrag
+3325100 Sorcery: Zamor Ice Storm
+3325100 Sorcery: Freezing Mist
+3325100 Sorcery: Carian Greatsword
+3325100 Sorcery: Adula's Moonblade
+3325100 Sorcery: Carian Slicer
+3325100 Sorcery: Carian Piercer
+3325100 Sorcery: Scholar's Armament
+3325100 Sorcery: Scholar's Shield
+3325100 Sorcery: Frozen Armament
+3325100 Sorcery: Shattering Crystal
+3325100 Sorcery: Crystal Release
+3325100 Sorcery: Crystal Torrent
+3325100 Sorcery: Ambush Shard
+3325100 Sorcery: Night Shard
+3325100 Sorcery: Night Comet
+3325100 Sorcery: Thops's Barrier
+3325100 Sorcery: Carian Retaliation
+3325100 Sorcery: Eternal Darkness
+3325100 Sorcery: Meteorite
+3325100 Sorcery: Meteorite of Astel
+3325100 (0% weight)
+3325100 Sorcery: Gravity Well
+3325100 Sorcery: Collapsing Stars
+3325100 Sorcery: Magma Shot
+3325100 Sorcery: Gelmir's Fury
+3325100 Sorcery: Roiling Magma
+3325100 Sorcery: Rykard's Rancor
+3325100 Sorcery: Briars of Sin
+3325100 Sorcery: Briars of Punishment
+3325100 Sorcery: Rancorcall
+3325100 Sorcery: Ancient Death Rancor
+3325100 Sorcery: Explosive Ghostflame
+3325100 Sorcery: Tibia's Summons
+3325100 Sorcery: Oracle Bubbles
+3325100 Sorcery: Great Oracular Bubble
+3325100 Incantation: Night Maiden's Mist
+3326000 Sorcery: Briars of Punishment
+3326100 Sorcery: Glintstone Pebble
+3326100 Sorcery: Great Glintstone Shard
+3326100 Sorcery: Swift Glintstone Shard
+3326100 Sorcery: Glintstone Cometshard
+3326100 Sorcery: Comet
+3326100 Sorcery: Shard Spiral
+3326100 Sorcery: Glintstone Stars
+3326100 Sorcery: Star Shower
+3326100 Sorcery: Crystal Barrage
+3326100 Sorcery: Glintstone Arc
+3326100 Sorcery: Cannon of Haima
+3326100 Sorcery: Crystal Burst
+3326100 Sorcery: Shatter Earth
+3326100 Sorcery: Rock Blaster
+3326100 Sorcery: Gavel of Haima
+3326100 Sorcery: Terra Magicus
+3326100 Sorcery: Comet Azur
+3326100 Sorcery: Founding Rain of Stars
+3326100 Sorcery: Stars of Ruin
+3326100 Sorcery: Glintblade Phalanx
+3326100 Sorcery: Carian Phalanx
+3326100 Sorcery: Greatblade Phalanx
+3326100 Sorcery: Rennala's Full Moon
+3326100 Sorcery: Ranni's Dark Moon
+3326100 Sorcery: Magic Downpour
+3326100 Sorcery: Loretta's Greatbow
+3326100 Sorcery: Loretta's Mastery
+3326100 Sorcery: Magic Glintblade
+3326100 Sorcery: Glintstone Icecrag
+3326100 Sorcery: Zamor Ice Storm
+3326100 Sorcery: Freezing Mist
+3326100 Sorcery: Carian Greatsword
+3326100 Sorcery: Adula's Moonblade
+3326100 Sorcery: Carian Slicer
+3326100 Sorcery: Carian Piercer
+3326100 Sorcery: Scholar's Armament
+3326100 Sorcery: Scholar's Shield
+3326100 Sorcery: Frozen Armament
+3326100 Sorcery: Shattering Crystal
+3326100 Sorcery: Crystal Release
+3326100 Sorcery: Crystal Torrent
+3326100 Sorcery: Ambush Shard
+3326100 Sorcery: Night Shard
+3326100 Sorcery: Night Comet
+3326100 Sorcery: Thops's Barrier
+3326100 Sorcery: Carian Retaliation
+3326100 Sorcery: Eternal Darkness
+3326100 Sorcery: Meteorite
+3326100 Sorcery: Meteorite of Astel
+3326100 Sorcery: Rock Sling
+3326100 Sorcery: Gravity Well
+3326100 Sorcery: Collapsing Stars
+3326100 Sorcery: Magma Shot
+3326100 Sorcery: Gelmir's Fury
+3326100 Sorcery: Roiling Magma
+3326100 Sorcery: Rykard's Rancor
+3326100 Sorcery: Briars of Sin
+3326100 (0% weight)
+3326100 Sorcery: Rancorcall
+3326100 Sorcery: Ancient Death Rancor
+3326100 Sorcery: Explosive Ghostflame
+3326100 Sorcery: Tibia's Summons
+3326100 Sorcery: Oracle Bubbles
+3326100 Sorcery: Great Oracular Bubble
+3326100 Incantation: Night Maiden's Mist
+3327000 Sorcery: Shattering Crystal
+3327100 Sorcery: Glintstone Pebble
+3327100 Sorcery: Great Glintstone Shard
+3327100 Sorcery: Swift Glintstone Shard
+3327100 Sorcery: Glintstone Cometshard
+3327100 Sorcery: Comet
+3327100 Sorcery: Shard Spiral
+3327100 Sorcery: Glintstone Stars
+3327100 Sorcery: Star Shower
+3327100 Sorcery: Crystal Barrage
+3327100 Sorcery: Glintstone Arc
+3327100 Sorcery: Cannon of Haima
+3327100 Sorcery: Crystal Burst
+3327100 Sorcery: Shatter Earth
+3327100 Sorcery: Rock Blaster
+3327100 Sorcery: Gavel of Haima
+3327100 Sorcery: Terra Magicus
+3327100 Sorcery: Comet Azur
+3327100 Sorcery: Founding Rain of Stars
+3327100 Sorcery: Stars of Ruin
+3327100 Sorcery: Glintblade Phalanx
+3327100 Sorcery: Carian Phalanx
+3327100 Sorcery: Greatblade Phalanx
+3327100 Sorcery: Rennala's Full Moon
+3327100 Sorcery: Ranni's Dark Moon
+3327100 Sorcery: Magic Downpour
+3327100 Sorcery: Loretta's Greatbow
+3327100 Sorcery: Loretta's Mastery
+3327100 Sorcery: Magic Glintblade
+3327100 Sorcery: Glintstone Icecrag
+3327100 Sorcery: Zamor Ice Storm
+3327100 Sorcery: Freezing Mist
+3327100 Sorcery: Carian Greatsword
+3327100 Sorcery: Adula's Moonblade
+3327100 Sorcery: Carian Slicer
+3327100 Sorcery: Carian Piercer
+3327100 Sorcery: Scholar's Armament
+3327100 Sorcery: Scholar's Shield
+3327100 Sorcery: Frozen Armament
+3327100 (0% weight)
+3327100 Sorcery: Crystal Release
+3327100 Sorcery: Crystal Torrent
+3327100 Sorcery: Ambush Shard
+3327100 Sorcery: Night Shard
+3327100 Sorcery: Night Comet
+3327100 Sorcery: Thops's Barrier
+3327100 Sorcery: Carian Retaliation
+3327100 Sorcery: Eternal Darkness
+3327100 Sorcery: Meteorite
+3327100 Sorcery: Meteorite of Astel
+3327100 Sorcery: Rock Sling
+3327100 Sorcery: Gravity Well
+3327100 Sorcery: Collapsing Stars
+3327100 Sorcery: Magma Shot
+3327100 Sorcery: Gelmir's Fury
+3327100 Sorcery: Roiling Magma
+3327100 Sorcery: Rykard's Rancor
+3327100 Sorcery: Briars of Sin
+3327100 Sorcery: Briars of Punishment
+3327100 Sorcery: Rancorcall
+3327100 Sorcery: Ancient Death Rancor
+3327100 Sorcery: Explosive Ghostflame
+3327100 Sorcery: Tibia's Summons
+3327100 Sorcery: Oracle Bubbles
+3327100 Sorcery: Great Oracular Bubble
+3327100 Incantation: Night Maiden's Mist
+3328000 Sorcery: Night Comet
+3328100 Sorcery: Glintstone Pebble
+3328100 Sorcery: Great Glintstone Shard
+3328100 Sorcery: Swift Glintstone Shard
+3328100 Sorcery: Glintstone Cometshard
+3328100 Sorcery: Comet
+3328100 Sorcery: Shard Spiral
+3328100 Sorcery: Glintstone Stars
+3328100 Sorcery: Star Shower
+3328100 Sorcery: Crystal Barrage
+3328100 Sorcery: Glintstone Arc
+3328100 Sorcery: Cannon of Haima
+3328100 Sorcery: Crystal Burst
+3328100 Sorcery: Shatter Earth
+3328100 Sorcery: Rock Blaster
+3328100 Sorcery: Gavel of Haima
+3328100 Sorcery: Terra Magicus
+3328100 Sorcery: Comet Azur
+3328100 Sorcery: Founding Rain of Stars
+3328100 Sorcery: Stars of Ruin
+3328100 Sorcery: Glintblade Phalanx
+3328100 Sorcery: Carian Phalanx
+3328100 Sorcery: Greatblade Phalanx
+3328100 Sorcery: Rennala's Full Moon
+3328100 Sorcery: Ranni's Dark Moon
+3328100 Sorcery: Magic Downpour
+3328100 Sorcery: Loretta's Greatbow
+3328100 Sorcery: Loretta's Mastery
+3328100 Sorcery: Magic Glintblade
+3328100 Sorcery: Glintstone Icecrag
+3328100 Sorcery: Zamor Ice Storm
+3328100 Sorcery: Freezing Mist
+3328100 Sorcery: Carian Greatsword
+3328100 Sorcery: Adula's Moonblade
+3328100 Sorcery: Carian Slicer
+3328100 Sorcery: Carian Piercer
+3328100 Sorcery: Scholar's Armament
+3328100 Sorcery: Scholar's Shield
+3328100 Sorcery: Frozen Armament
+3328100 Sorcery: Shattering Crystal
+3328100 Sorcery: Crystal Release
+3328100 Sorcery: Crystal Torrent
+3328100 Sorcery: Ambush Shard
+3328100 Sorcery: Night Shard
+3328100 (0% weight)
+3328100 Sorcery: Thops's Barrier
+3328100 Sorcery: Carian Retaliation
+3328100 Sorcery: Eternal Darkness
+3328100 Sorcery: Meteorite
+3328100 Sorcery: Meteorite of Astel
+3328100 Sorcery: Rock Sling
+3328100 Sorcery: Gravity Well
+3328100 Sorcery: Collapsing Stars
+3328100 Sorcery: Magma Shot
+3328100 Sorcery: Gelmir's Fury
+3328100 Sorcery: Roiling Magma
+3328100 Sorcery: Rykard's Rancor
+3328100 Sorcery: Briars of Sin
+3328100 Sorcery: Briars of Punishment
+3328100 Sorcery: Rancorcall
+3328100 Sorcery: Ancient Death Rancor
+3328100 Sorcery: Explosive Ghostflame
+3328100 Sorcery: Tibia's Summons
+3328100 Sorcery: Oracle Bubbles
+3328100 Sorcery: Great Oracular Bubble
+3328100 Incantation: Night Maiden's Mist
+3400000 Incantation: Rejection
+3400100 Sorcery: Death Lightning
+3400100 Incantation: Catch Flame
+3400100 Incantation: O, Flame!
+3400100 Incantation: Flame Sling
+3400100 Incantation: Flame Fall Upon Them
+3400100 Incantation: Whirl, O Flame
+3400100 Incantation: Flame Grant Me Strength
+3400100 Incantation: Flame Protect Me
+3400100 Incantation: Giantsflame Take Thee
+3400100 Incantation: Flame of The Fell God
+3400100 Incantation: Burn, O Flame!
+3400100 Incantation: Black Flame
+3400100 Incantation: Surge, O Flame
+3400100 Incantation: Scouring Black Flame
+3400100 Incantation: Black Flame Ritual
+3400100 Incantation: Black Flame Blade
+3400100 Incantation: Black Flame's Protection
+3400100 Incantation: Noble Presence
+3400100 Incantation: Bloodflame Talons
+3400100 Incantation: Bloodboon
+3400100 Incantation: Bloodflame Blade
+3400100 Incantation: Barrier of Gold
+3400100 Incantation: Protection of The Erdtree
+3400100 (0% weight)
+3400100 Incantation: Wrath of Gold
+3400100 Incantation: Urgent Heal
+3400100 Incantation: Heal
+3400100 Incantation: Great Heal
+3400100 Incantation: Lord's Heal
+3400100 Incantation: Erdtree Heal
+3400100 Incantation: Blessing's Boon
+3400100 Incantation: Blessing of The Erdtree
+3400100 Incantation: Flame Fortification
+3400100 Incantation: Magic Fortification
+3400100 Incantation: Lightning Fortification
+3400100 Incantation: Divine Fortification
+3400100 Incantation: Lord's Divine Fortification
+3400100 Incantation: Shadow Bait
+3400100 Incantation: Darkness
+3400100 Incantation: Golden Vow
+3400100 Incantation: Discus of Light
+3400100 Incantation: Triple Rings of Light
+3400100 Incantation: Radagon's Rings of Light
+3400100 Incantation: Elden Stars
+3400100 Incantation: Law of Regression
+3400100 Incantation: Immutable Shield
+3400100 Incantation: Litany of Proper Death
+3400100 Incantation: Law of Causality
+3400100 Incantation: Order's Blade
+3400100 Incantation: Bestial Sling
+3400100 Incantation: Stone of Gurranq
+3400100 Incantation: Beast Claw
+3400100 Incantation: Gurranq's Beast Claw
+3400100 Incantation: Bestial Vitality
+3400100 Incantation: Lightning Spear
+3400100 Incantation: Ancient Dragons' Light Strike
+3400100 Incantation: Lightning Strike
+3400100 Incantation: Frozen Lightning Spear
+3400100 Incantation: Honed Bolt
+3400100 Incantation: Ancient Dragons' Light Spear
+3400100 Incantation: Fortissax's Light Spear
+3400100 Incantation: Lansseax's Glaive
+3400100 Incantation: Electrify Armament
+3400100 Incantation: Dragonbolt Blessing
+3400100 Incantation: Dragonfire
+3400100 Incantation: Agheel's Flame
+3400100 Incantation: Magma Breath
+3400100 Incantation: Theodorix's Magma
+3400100 Incantation: Dragonice
+3400100 Incantation: Borealis's Mist
+3400100 Incantation: Rotten Breath
+3400100 Incantation: Ekzykes's Decay
+3400100 Incantation: Glintstone Breath
+3400100 Incantation: Smarag's Glint Breath
+3400100 Incantation: Placidusax's Ruin
+3400100 Incantation: Dragonclaw
+3400100 Incantation: Dragonmaw
+3400100 Incantation: Greyoll's Roar
+3400100 Incantation: Pest Threads
+3400100 Incantation: Swarm of Flies
+3400100 Incantation: Poison Mist
+3400100 Incantation: Poison Armament
+3400100 Incantation: Scarlet Aeonia
+3400100 Incantation: The Flame of Frenzy
+3400100 Incantation: Unendurable Frenzy
+3400100 Incantation: Frenzied Burst
+3400100 Incantation: Howl of Shabriri
+3400100 Incantation: Aspects of the Crucible: Tail
+3400100 Incantation: Aspects of the Crucible: Horns
+3400100 Incantation: Aspects of the Crucible: Breath
+3400100 Incantation: Black Blade
+3400100 Incantation: Fire's Deadly Sin
+3400100 Incantation: Golden Light Fortification
+3401000 Incantation: Black Flame
+3401100 Sorcery: Death Lightning
+3401100 Incantation: Catch Flame
+3401100 Incantation: O, Flame!
+3401100 Incantation: Flame Sling
+3401100 Incantation: Flame Fall Upon Them
+3401100 Incantation: Whirl, O Flame
+3401100 Incantation: Flame Grant Me Strength
+3401100 Incantation: Flame Protect Me
+3401100 Incantation: Giantsflame Take Thee
+3401100 Incantation: Flame of The Fell God
+3401100 Incantation: Burn, O Flame!
+3401100 (0% weight)
+3401100 Incantation: Surge, O Flame
+3401100 Incantation: Scouring Black Flame
+3401100 Incantation: Black Flame Ritual
+3401100 Incantation: Black Flame Blade
+3401100 Incantation: Black Flame's Protection
+3401100 Incantation: Noble Presence
+3401100 Incantation: Bloodflame Talons
+3401100 Incantation: Bloodboon
+3401100 Incantation: Bloodflame Blade
+3401100 Incantation: Barrier of Gold
+3401100 Incantation: Protection of The Erdtree
+3401100 Incantation: Rejection
+3401100 Incantation: Wrath of Gold
+3401100 Incantation: Urgent Heal
+3401100 Incantation: Heal
+3401100 Incantation: Great Heal
+3401100 Incantation: Lord's Heal
+3401100 Incantation: Erdtree Heal
+3401100 Incantation: Blessing's Boon
+3401100 Incantation: Blessing of The Erdtree
+3401100 Incantation: Flame Fortification
+3401100 Incantation: Magic Fortification
+3401100 Incantation: Lightning Fortification
+3401100 Incantation: Divine Fortification
+3401100 Incantation: Lord's Divine Fortification
+3401100 Incantation: Shadow Bait
+3401100 Incantation: Darkness
+3401100 Incantation: Golden Vow
+3401100 Incantation: Discus of Light
+3401100 Incantation: Triple Rings of Light
+3401100 Incantation: Radagon's Rings of Light
+3401100 Incantation: Elden Stars
+3401100 Incantation: Law of Regression
+3401100 Incantation: Immutable Shield
+3401100 Incantation: Litany of Proper Death
+3401100 Incantation: Law of Causality
+3401100 Incantation: Order's Blade
+3401100 Incantation: Bestial Sling
+3401100 Incantation: Stone of Gurranq
+3401100 Incantation: Beast Claw
+3401100 Incantation: Gurranq's Beast Claw
+3401100 Incantation: Bestial Vitality
+3401100 Incantation: Lightning Spear
+3401100 Incantation: Ancient Dragons' Light Strike
+3401100 Incantation: Lightning Strike
+3401100 Incantation: Frozen Lightning Spear
+3401100 Incantation: Honed Bolt
+3401100 Incantation: Ancient Dragons' Light Spear
+3401100 Incantation: Fortissax's Light Spear
+3401100 Incantation: Lansseax's Glaive
+3401100 Incantation: Electrify Armament
+3401100 Incantation: Dragonbolt Blessing
+3401100 Incantation: Dragonfire
+3401100 Incantation: Agheel's Flame
+3401100 Incantation: Magma Breath
+3401100 Incantation: Theodorix's Magma
+3401100 Incantation: Dragonice
+3401100 Incantation: Borealis's Mist
+3401100 Incantation: Rotten Breath
+3401100 Incantation: Ekzykes's Decay
+3401100 Incantation: Glintstone Breath
+3401100 Incantation: Smarag's Glint Breath
+3401100 Incantation: Placidusax's Ruin
+3401100 Incantation: Dragonclaw
+3401100 Incantation: Dragonmaw
+3401100 Incantation: Greyoll's Roar
+3401100 Incantation: Pest Threads
+3401100 Incantation: Swarm of Flies
+3401100 Incantation: Poison Mist
+3401100 Incantation: Poison Armament
+3401100 Incantation: Scarlet Aeonia
+3401100 Incantation: The Flame of Frenzy
+3401100 Incantation: Unendurable Frenzy
+3401100 Incantation: Frenzied Burst
+3401100 Incantation: Howl of Shabriri
+3401100 Incantation: Aspects of the Crucible: Tail
+3401100 Incantation: Aspects of the Crucible: Horns
+3401100 Incantation: Aspects of the Crucible: Breath
+3401100 Incantation: Black Blade
+3401100 Incantation: Fire's Deadly Sin
+3401100 Incantation: Golden Light Fortification
+3402000 Incantation: Flame Sling
+3402100 Sorcery: Death Lightning
+3402100 Incantation: Catch Flame
+3402100 Incantation: O, Flame!
+3402100 (0% weight)
+3402100 Incantation: Flame Fall Upon Them
+3402100 Incantation: Whirl, O Flame
+3402100 Incantation: Flame Grant Me Strength
+3402100 Incantation: Flame Protect Me
+3402100 Incantation: Giantsflame Take Thee
+3402100 Incantation: Flame of The Fell God
+3402100 Incantation: Burn, O Flame!
+3402100 Incantation: Black Flame
+3402100 Incantation: Surge, O Flame
+3402100 Incantation: Scouring Black Flame
+3402100 Incantation: Black Flame Ritual
+3402100 Incantation: Black Flame Blade
+3402100 Incantation: Black Flame's Protection
+3402100 Incantation: Noble Presence
+3402100 Incantation: Bloodflame Talons
+3402100 Incantation: Bloodboon
+3402100 Incantation: Bloodflame Blade
+3402100 Incantation: Barrier of Gold
+3402100 Incantation: Protection of The Erdtree
+3402100 Incantation: Rejection
+3402100 Incantation: Wrath of Gold
+3402100 Incantation: Urgent Heal
+3402100 Incantation: Heal
+3402100 Incantation: Great Heal
+3402100 Incantation: Lord's Heal
+3402100 Incantation: Erdtree Heal
+3402100 Incantation: Blessing's Boon
+3402100 Incantation: Blessing of The Erdtree
+3402100 Incantation: Flame Fortification
+3402100 Incantation: Magic Fortification
+3402100 Incantation: Lightning Fortification
+3402100 Incantation: Divine Fortification
+3402100 Incantation: Lord's Divine Fortification
+3402100 Incantation: Shadow Bait
+3402100 Incantation: Darkness
+3402100 Incantation: Golden Vow
+3402100 Incantation: Discus of Light
+3402100 Incantation: Triple Rings of Light
+3402100 Incantation: Radagon's Rings of Light
+3402100 Incantation: Elden Stars
+3402100 Incantation: Law of Regression
+3402100 Incantation: Immutable Shield
+3402100 Incantation: Litany of Proper Death
+3402100 Incantation: Law of Causality
+3402100 Incantation: Order's Blade
+3402100 Incantation: Bestial Sling
+3402100 Incantation: Stone of Gurranq
+3402100 Incantation: Beast Claw
+3402100 Incantation: Gurranq's Beast Claw
+3402100 Incantation: Bestial Vitality
+3402100 Incantation: Lightning Spear
+3402100 Incantation: Ancient Dragons' Light Strike
+3402100 Incantation: Lightning Strike
+3402100 Incantation: Frozen Lightning Spear
+3402100 Incantation: Honed Bolt
+3402100 Incantation: Ancient Dragons' Light Spear
+3402100 Incantation: Fortissax's Light Spear
+3402100 Incantation: Lansseax's Glaive
+3402100 Incantation: Electrify Armament
+3402100 Incantation: Dragonbolt Blessing
+3402100 Incantation: Dragonfire
+3402100 Incantation: Agheel's Flame
+3402100 Incantation: Magma Breath
+3402100 Incantation: Theodorix's Magma
+3402100 Incantation: Dragonice
+3402100 Incantation: Borealis's Mist
+3402100 Incantation: Rotten Breath
+3402100 Incantation: Ekzykes's Decay
+3402100 Incantation: Glintstone Breath
+3402100 Incantation: Smarag's Glint Breath
+3402100 Incantation: Placidusax's Ruin
+3402100 Incantation: Dragonclaw
+3402100 Incantation: Dragonmaw
+3402100 Incantation: Greyoll's Roar
+3402100 Incantation: Pest Threads
+3402100 Incantation: Swarm of Flies
+3402100 Incantation: Poison Mist
+3402100 Incantation: Poison Armament
+3402100 Incantation: Scarlet Aeonia
+3402100 Incantation: The Flame of Frenzy
+3402100 Incantation: Unendurable Frenzy
+3402100 Incantation: Frenzied Burst
+3402100 Incantation: Howl of Shabriri
+3402100 Incantation: Aspects of the Crucible: Tail
+3402100 Incantation: Aspects of the Crucible: Horns
+3402100 Incantation: Aspects of the Crucible: Breath
+3402100 Incantation: Black Blade
+3402100 Incantation: Fire's Deadly Sin
+3402100 Incantation: Golden Light Fortification
+3403000 Incantation: Lightning Spear
+3403100 Sorcery: Death Lightning
+3403100 Incantation: Catch Flame
+3403100 Incantation: O, Flame!
+3403100 Incantation: Flame Sling
+3403100 Incantation: Flame Fall Upon Them
+3403100 Incantation: Whirl, O Flame
+3403100 Incantation: Flame Grant Me Strength
+3403100 Incantation: Flame Protect Me
+3403100 Incantation: Giantsflame Take Thee
+3403100 Incantation: Flame of The Fell God
+3403100 Incantation: Burn, O Flame!
+3403100 Incantation: Black Flame
+3403100 Incantation: Surge, O Flame
+3403100 Incantation: Scouring Black Flame
+3403100 Incantation: Black Flame Ritual
+3403100 Incantation: Black Flame Blade
+3403100 Incantation: Black Flame's Protection
+3403100 Incantation: Noble Presence
+3403100 Incantation: Bloodflame Talons
+3403100 Incantation: Bloodboon
+3403100 Incantation: Bloodflame Blade
+3403100 Incantation: Barrier of Gold
+3403100 Incantation: Protection of The Erdtree
+3403100 Incantation: Rejection
+3403100 Incantation: Wrath of Gold
+3403100 Incantation: Urgent Heal
+3403100 Incantation: Heal
+3403100 Incantation: Great Heal
+3403100 Incantation: Lord's Heal
+3403100 Incantation: Erdtree Heal
+3403100 Incantation: Blessing's Boon
+3403100 Incantation: Blessing of The Erdtree
+3403100 Incantation: Flame Fortification
+3403100 Incantation: Magic Fortification
+3403100 Incantation: Lightning Fortification
+3403100 Incantation: Divine Fortification
+3403100 Incantation: Lord's Divine Fortification
+3403100 Incantation: Shadow Bait
+3403100 Incantation: Darkness
+3403100 Incantation: Golden Vow
+3403100 Incantation: Discus of Light
+3403100 Incantation: Triple Rings of Light
+3403100 Incantation: Radagon's Rings of Light
+3403100 Incantation: Elden Stars
+3403100 Incantation: Law of Regression
+3403100 Incantation: Immutable Shield
+3403100 Incantation: Litany of Proper Death
+3403100 Incantation: Law of Causality
+3403100 Incantation: Order's Blade
+3403100 Incantation: Bestial Sling
+3403100 Incantation: Stone of Gurranq
+3403100 Incantation: Beast Claw
+3403100 Incantation: Gurranq's Beast Claw
+3403100 Incantation: Bestial Vitality
+3403100 (0% weight)
+3403100 Incantation: Ancient Dragons' Light Strike
+3403100 Incantation: Lightning Strike
+3403100 Incantation: Frozen Lightning Spear
+3403100 Incantation: Honed Bolt
+3403100 Incantation: Ancient Dragons' Light Spear
+3403100 Incantation: Fortissax's Light Spear
+3403100 Incantation: Lansseax's Glaive
+3403100 Incantation: Electrify Armament
+3403100 Incantation: Dragonbolt Blessing
+3403100 Incantation: Dragonfire
+3403100 Incantation: Agheel's Flame
+3403100 Incantation: Magma Breath
+3403100 Incantation: Theodorix's Magma
+3403100 Incantation: Dragonice
+3403100 Incantation: Borealis's Mist
+3403100 Incantation: Rotten Breath
+3403100 Incantation: Ekzykes's Decay
+3403100 Incantation: Glintstone Breath
+3403100 Incantation: Smarag's Glint Breath
+3403100 Incantation: Placidusax's Ruin
+3403100 Incantation: Dragonclaw
+3403100 Incantation: Dragonmaw
+3403100 Incantation: Greyoll's Roar
+3403100 Incantation: Pest Threads
+3403100 Incantation: Swarm of Flies
+3403100 Incantation: Poison Mist
+3403100 Incantation: Poison Armament
+3403100 Incantation: Scarlet Aeonia
+3403100 Incantation: The Flame of Frenzy
+3403100 Incantation: Unendurable Frenzy
+3403100 Incantation: Frenzied Burst
+3403100 Incantation: Howl of Shabriri
+3403100 Incantation: Aspects of the Crucible: Tail
+3403100 Incantation: Aspects of the Crucible: Horns
+3403100 Incantation: Aspects of the Crucible: Breath
+3403100 Incantation: Black Blade
+3403100 Incantation: Fire's Deadly Sin
+3403100 Incantation: Golden Light Fortification
+3404000 Incantation: Bestial Sling
+3404100 Sorcery: Death Lightning
+3404100 Incantation: Catch Flame
+3404100 Incantation: O, Flame!
+3404100 Incantation: Flame Sling
+3404100 Incantation: Flame Fall Upon Them
+3404100 Incantation: Whirl, O Flame
+3404100 Incantation: Flame Grant Me Strength
+3404100 Incantation: Flame Protect Me
+3404100 Incantation: Giantsflame Take Thee
+3404100 Incantation: Flame of The Fell God
+3404100 Incantation: Burn, O Flame!
+3404100 Incantation: Black Flame
+3404100 Incantation: Surge, O Flame
+3404100 Incantation: Scouring Black Flame
+3404100 Incantation: Black Flame Ritual
+3404100 Incantation: Black Flame Blade
+3404100 Incantation: Black Flame's Protection
+3404100 Incantation: Noble Presence
+3404100 Incantation: Bloodflame Talons
+3404100 Incantation: Bloodboon
+3404100 Incantation: Bloodflame Blade
+3404100 Incantation: Barrier of Gold
+3404100 Incantation: Protection of The Erdtree
+3404100 Incantation: Rejection
+3404100 Incantation: Wrath of Gold
+3404100 Incantation: Urgent Heal
+3404100 Incantation: Heal
+3404100 Incantation: Great Heal
+3404100 Incantation: Lord's Heal
+3404100 Incantation: Erdtree Heal
+3404100 Incantation: Blessing's Boon
+3404100 Incantation: Blessing of The Erdtree
+3404100 Incantation: Flame Fortification
+3404100 Incantation: Magic Fortification
+3404100 Incantation: Lightning Fortification
+3404100 Incantation: Divine Fortification
+3404100 Incantation: Lord's Divine Fortification
+3404100 Incantation: Shadow Bait
+3404100 Incantation: Darkness
+3404100 Incantation: Golden Vow
+3404100 Incantation: Discus of Light
+3404100 Incantation: Triple Rings of Light
+3404100 Incantation: Radagon's Rings of Light
+3404100 Incantation: Elden Stars
+3404100 Incantation: Law of Regression
+3404100 Incantation: Immutable Shield
+3404100 Incantation: Litany of Proper Death
+3404100 Incantation: Law of Causality
+3404100 Incantation: Order's Blade
+3404100 (0% weight)
+3404100 Incantation: Stone of Gurranq
+3404100 Incantation: Beast Claw
+3404100 Incantation: Gurranq's Beast Claw
+3404100 Incantation: Bestial Vitality
+3404100 Incantation: Lightning Spear
+3404100 Incantation: Ancient Dragons' Light Strike
+3404100 Incantation: Lightning Strike
+3404100 Incantation: Frozen Lightning Spear
+3404100 Incantation: Honed Bolt
+3404100 Incantation: Ancient Dragons' Light Spear
+3404100 Incantation: Fortissax's Light Spear
+3404100 Incantation: Lansseax's Glaive
+3404100 Incantation: Electrify Armament
+3404100 Incantation: Dragonbolt Blessing
+3404100 Incantation: Dragonfire
+3404100 Incantation: Agheel's Flame
+3404100 Incantation: Magma Breath
+3404100 Incantation: Theodorix's Magma
+3404100 Incantation: Dragonice
+3404100 Incantation: Borealis's Mist
+3404100 Incantation: Rotten Breath
+3404100 Incantation: Ekzykes's Decay
+3404100 Incantation: Glintstone Breath
+3404100 Incantation: Smarag's Glint Breath
+3404100 Incantation: Placidusax's Ruin
+3404100 Incantation: Dragonclaw
+3404100 Incantation: Dragonmaw
+3404100 Incantation: Greyoll's Roar
+3404100 Incantation: Pest Threads
+3404100 Incantation: Swarm of Flies
+3404100 Incantation: Poison Mist
+3404100 Incantation: Poison Armament
+3404100 Incantation: Scarlet Aeonia
+3404100 Incantation: The Flame of Frenzy
+3404100 Incantation: Unendurable Frenzy
+3404100 Incantation: Frenzied Burst
+3404100 Incantation: Howl of Shabriri
+3404100 Incantation: Aspects of the Crucible: Tail
+3404100 Incantation: Aspects of the Crucible: Horns
+3404100 Incantation: Aspects of the Crucible: Breath
+3404100 Incantation: Black Blade
+3404100 Incantation: Fire's Deadly Sin
+3404100 Incantation: Golden Light Fortification
+3406000 Incantation: Discus of Light
+3406100 Sorcery: Death Lightning
+3406100 Incantation: Catch Flame
+3406100 Incantation: O, Flame!
+3406100 Incantation: Flame Sling
+3406100 Incantation: Flame Fall Upon Them
+3406100 Incantation: Whirl, O Flame
+3406100 Incantation: Flame Grant Me Strength
+3406100 Incantation: Flame Protect Me
+3406100 Incantation: Giantsflame Take Thee
+3406100 Incantation: Flame of The Fell God
+3406100 Incantation: Burn, O Flame!
+3406100 Incantation: Black Flame
+3406100 Incantation: Surge, O Flame
+3406100 Incantation: Scouring Black Flame
+3406100 Incantation: Black Flame Ritual
+3406100 Incantation: Black Flame Blade
+3406100 Incantation: Black Flame's Protection
+3406100 Incantation: Noble Presence
+3406100 Incantation: Bloodflame Talons
+3406100 Incantation: Bloodboon
+3406100 Incantation: Bloodflame Blade
+3406100 Incantation: Barrier of Gold
+3406100 Incantation: Protection of The Erdtree
+3406100 Incantation: Rejection
+3406100 Incantation: Wrath of Gold
+3406100 Incantation: Urgent Heal
+3406100 Incantation: Heal
+3406100 Incantation: Great Heal
+3406100 Incantation: Lord's Heal
+3406100 Incantation: Erdtree Heal
+3406100 Incantation: Blessing's Boon
+3406100 Incantation: Blessing of The Erdtree
+3406100 Incantation: Flame Fortification
+3406100 Incantation: Magic Fortification
+3406100 Incantation: Lightning Fortification
+3406100 Incantation: Divine Fortification
+3406100 Incantation: Lord's Divine Fortification
+3406100 Incantation: Shadow Bait
+3406100 Incantation: Darkness
+3406100 Incantation: Golden Vow
+3406100 (0% weight)
+3406100 Incantation: Triple Rings of Light
+3406100 Incantation: Radagon's Rings of Light
+3406100 Incantation: Elden Stars
+3406100 Incantation: Law of Regression
+3406100 Incantation: Immutable Shield
+3406100 Incantation: Litany of Proper Death
+3406100 Incantation: Law of Causality
+3406100 Incantation: Order's Blade
+3406100 Incantation: Bestial Sling
+3406100 Incantation: Stone of Gurranq
+3406100 Incantation: Beast Claw
+3406100 Incantation: Gurranq's Beast Claw
+3406100 Incantation: Bestial Vitality
+3406100 Incantation: Lightning Spear
+3406100 Incantation: Ancient Dragons' Light Strike
+3406100 Incantation: Lightning Strike
+3406100 Incantation: Frozen Lightning Spear
+3406100 Incantation: Honed Bolt
+3406100 Incantation: Ancient Dragons' Light Spear
+3406100 Incantation: Fortissax's Light Spear
+3406100 Incantation: Lansseax's Glaive
+3406100 Incantation: Electrify Armament
+3406100 Incantation: Dragonbolt Blessing
+3406100 Incantation: Dragonfire
+3406100 Incantation: Agheel's Flame
+3406100 Incantation: Magma Breath
+3406100 Incantation: Theodorix's Magma
+3406100 Incantation: Dragonice
+3406100 Incantation: Borealis's Mist
+3406100 Incantation: Rotten Breath
+3406100 Incantation: Ekzykes's Decay
+3406100 Incantation: Glintstone Breath
+3406100 Incantation: Smarag's Glint Breath
+3406100 Incantation: Placidusax's Ruin
+3406100 Incantation: Dragonclaw
+3406100 Incantation: Dragonmaw
+3406100 Incantation: Greyoll's Roar
+3406100 Incantation: Pest Threads
+3406100 Incantation: Swarm of Flies
+3406100 Incantation: Poison Mist
+3406100 Incantation: Poison Armament
+3406100 Incantation: Scarlet Aeonia
+3406100 Incantation: The Flame of Frenzy
+3406100 Incantation: Unendurable Frenzy
+3406100 Incantation: Frenzied Burst
+3406100 Incantation: Howl of Shabriri
+3406100 Incantation: Aspects of the Crucible: Tail
+3406100 Incantation: Aspects of the Crucible: Horns
+3406100 Incantation: Aspects of the Crucible: Breath
+3406100 Incantation: Black Blade
+3406100 Incantation: Fire's Deadly Sin
+3406100 Incantation: Golden Light Fortification
+3407000 Incantation: Wrath of Gold
+3407100 Sorcery: Death Lightning
+3407100 Incantation: Catch Flame
+3407100 Incantation: O, Flame!
+3407100 Incantation: Flame Sling
+3407100 Incantation: Flame Fall Upon Them
+3407100 Incantation: Whirl, O Flame
+3407100 Incantation: Flame Grant Me Strength
+3407100 Incantation: Flame Protect Me
+3407100 Incantation: Giantsflame Take Thee
+3407100 Incantation: Flame of The Fell God
+3407100 Incantation: Burn, O Flame!
+3407100 Incantation: Black Flame
+3407100 Incantation: Surge, O Flame
+3407100 Incantation: Scouring Black Flame
+3407100 Incantation: Black Flame Ritual
+3407100 Incantation: Black Flame Blade
+3407100 Incantation: Black Flame's Protection
+3407100 Incantation: Noble Presence
+3407100 Incantation: Bloodflame Talons
+3407100 Incantation: Bloodboon
+3407100 Incantation: Bloodflame Blade
+3407100 Incantation: Barrier of Gold
+3407100 Incantation: Protection of The Erdtree
+3407100 Incantation: Rejection
+3407100 (0% weight)
+3407100 Incantation: Urgent Heal
+3407100 Incantation: Heal
+3407100 Incantation: Great Heal
+3407100 Incantation: Lord's Heal
+3407100 Incantation: Erdtree Heal
+3407100 Incantation: Blessing's Boon
+3407100 Incantation: Blessing of The Erdtree
+3407100 Incantation: Flame Fortification
+3407100 Incantation: Magic Fortification
+3407100 Incantation: Lightning Fortification
+3407100 Incantation: Divine Fortification
+3407100 Incantation: Lord's Divine Fortification
+3407100 Incantation: Shadow Bait
+3407100 Incantation: Darkness
+3407100 Incantation: Golden Vow
+3407100 Incantation: Discus of Light
+3407100 Incantation: Triple Rings of Light
+3407100 Incantation: Radagon's Rings of Light
+3407100 Incantation: Elden Stars
+3407100 Incantation: Law of Regression
+3407100 Incantation: Immutable Shield
+3407100 Incantation: Litany of Proper Death
+3407100 Incantation: Law of Causality
+3407100 Incantation: Order's Blade
+3407100 Incantation: Bestial Sling
+3407100 Incantation: Stone of Gurranq
+3407100 Incantation: Beast Claw
+3407100 Incantation: Gurranq's Beast Claw
+3407100 Incantation: Bestial Vitality
+3407100 Incantation: Lightning Spear
+3407100 Incantation: Ancient Dragons' Light Strike
+3407100 Incantation: Lightning Strike
+3407100 Incantation: Frozen Lightning Spear
+3407100 Incantation: Honed Bolt
+3407100 Incantation: Ancient Dragons' Light Spear
+3407100 Incantation: Fortissax's Light Spear
+3407100 Incantation: Lansseax's Glaive
+3407100 Incantation: Electrify Armament
+3407100 Incantation: Dragonbolt Blessing
+3407100 Incantation: Dragonfire
+3407100 Incantation: Agheel's Flame
+3407100 Incantation: Magma Breath
+3407100 Incantation: Theodorix's Magma
+3407100 Incantation: Dragonice
+3407100 Incantation: Borealis's Mist
+3407100 Incantation: Rotten Breath
+3407100 Incantation: Ekzykes's Decay
+3407100 Incantation: Glintstone Breath
+3407100 Incantation: Smarag's Glint Breath
+3407100 Incantation: Placidusax's Ruin
+3407100 Incantation: Dragonclaw
+3407100 Incantation: Dragonmaw
+3407100 Incantation: Greyoll's Roar
+3407100 Incantation: Pest Threads
+3407100 Incantation: Swarm of Flies
+3407100 Incantation: Poison Mist
+3407100 Incantation: Poison Armament
+3407100 Incantation: Scarlet Aeonia
+3407100 Incantation: The Flame of Frenzy
+3407100 Incantation: Unendurable Frenzy
+3407100 Incantation: Frenzied Burst
+3407100 Incantation: Howl of Shabriri
+3407100 Incantation: Aspects of the Crucible: Tail
+3407100 Incantation: Aspects of the Crucible: Horns
+3407100 Incantation: Aspects of the Crucible: Breath
+3407100 Incantation: Black Blade
+3407100 Incantation: Fire's Deadly Sin
+3407100 Incantation: Golden Light Fortification
+3408000 Incantation: Dragonfire
+3408100 Sorcery: Death Lightning
+3408100 Incantation: Catch Flame
+3408100 Incantation: O, Flame!
+3408100 Incantation: Flame Sling
+3408100 Incantation: Flame Fall Upon Them
+3408100 Incantation: Whirl, O Flame
+3408100 Incantation: Flame Grant Me Strength
+3408100 Incantation: Flame Protect Me
+3408100 Incantation: Giantsflame Take Thee
+3408100 Incantation: Flame of The Fell God
+3408100 Incantation: Burn, O Flame!
+3408100 Incantation: Black Flame
+3408100 Incantation: Surge, O Flame
+3408100 Incantation: Scouring Black Flame
+3408100 Incantation: Black Flame Ritual
+3408100 Incantation: Black Flame Blade
+3408100 Incantation: Black Flame's Protection
+3408100 Incantation: Noble Presence
+3408100 Incantation: Bloodflame Talons
+3408100 Incantation: Bloodboon
+3408100 Incantation: Bloodflame Blade
+3408100 Incantation: Barrier of Gold
+3408100 Incantation: Protection of The Erdtree
+3408100 Incantation: Rejection
+3408100 Incantation: Wrath of Gold
+3408100 Incantation: Urgent Heal
+3408100 Incantation: Heal
+3408100 Incantation: Great Heal
+3408100 Incantation: Lord's Heal
+3408100 Incantation: Erdtree Heal
+3408100 Incantation: Blessing's Boon
+3408100 Incantation: Blessing of The Erdtree
+3408100 Incantation: Flame Fortification
+3408100 Incantation: Magic Fortification
+3408100 Incantation: Lightning Fortification
+3408100 Incantation: Divine Fortification
+3408100 Incantation: Lord's Divine Fortification
+3408100 Incantation: Shadow Bait
+3408100 Incantation: Darkness
+3408100 Incantation: Golden Vow
+3408100 Incantation: Discus of Light
+3408100 Incantation: Triple Rings of Light
+3408100 Incantation: Radagon's Rings of Light
+3408100 Incantation: Elden Stars
+3408100 Incantation: Law of Regression
+3408100 Incantation: Immutable Shield
+3408100 Incantation: Litany of Proper Death
+3408100 Incantation: Law of Causality
+3408100 Incantation: Order's Blade
+3408100 Incantation: Bestial Sling
+3408100 Incantation: Stone of Gurranq
+3408100 Incantation: Beast Claw
+3408100 Incantation: Gurranq's Beast Claw
+3408100 Incantation: Bestial Vitality
+3408100 Incantation: Lightning Spear
+3408100 Incantation: Ancient Dragons' Light Strike
+3408100 Incantation: Lightning Strike
+3408100 Incantation: Frozen Lightning Spear
+3408100 Incantation: Honed Bolt
+3408100 Incantation: Ancient Dragons' Light Spear
+3408100 Incantation: Fortissax's Light Spear
+3408100 Incantation: Lansseax's Glaive
+3408100 Incantation: Electrify Armament
+3408100 Incantation: Dragonbolt Blessing
+3408100 (0% weight)
+3408100 Incantation: Agheel's Flame
+3408100 Incantation: Magma Breath
+3408100 Incantation: Theodorix's Magma
+3408100 Incantation: Dragonice
+3408100 Incantation: Borealis's Mist
+3408100 Incantation: Rotten Breath
+3408100 Incantation: Ekzykes's Decay
+3408100 Incantation: Glintstone Breath
+3408100 Incantation: Smarag's Glint Breath
+3408100 Incantation: Placidusax's Ruin
+3408100 Incantation: Dragonclaw
+3408100 Incantation: Dragonmaw
+3408100 Incantation: Greyoll's Roar
+3408100 Incantation: Pest Threads
+3408100 Incantation: Swarm of Flies
+3408100 Incantation: Poison Mist
+3408100 Incantation: Poison Armament
+3408100 Incantation: Scarlet Aeonia
+3408100 Incantation: The Flame of Frenzy
+3408100 Incantation: Unendurable Frenzy
+3408100 Incantation: Frenzied Burst
+3408100 Incantation: Howl of Shabriri
+3408100 Incantation: Aspects of the Crucible: Tail
+3408100 Incantation: Aspects of the Crucible: Horns
+3408100 Incantation: Aspects of the Crucible: Breath
+3408100 Incantation: Black Blade
+3408100 Incantation: Fire's Deadly Sin
+3408100 Incantation: Golden Light Fortification
+3409000 Incantation: The Flame of Frenzy
+3409100 Sorcery: Death Lightning
+3409100 Incantation: Catch Flame
+3409100 Incantation: O, Flame!
+3409100 Incantation: Flame Sling
+3409100 Incantation: Flame Fall Upon Them
+3409100 Incantation: Whirl, O Flame
+3409100 Incantation: Flame Grant Me Strength
+3409100 Incantation: Flame Protect Me
+3409100 Incantation: Giantsflame Take Thee
+3409100 Incantation: Flame of The Fell God
+3409100 Incantation: Burn, O Flame!
+3409100 Incantation: Black Flame
+3409100 Incantation: Surge, O Flame
+3409100 Incantation: Scouring Black Flame
+3409100 Incantation: Black Flame Ritual
+3409100 Incantation: Black Flame Blade
+3409100 Incantation: Black Flame's Protection
+3409100 Incantation: Noble Presence
+3409100 Incantation: Bloodflame Talons
+3409100 Incantation: Bloodboon
+3409100 Incantation: Bloodflame Blade
+3409100 Incantation: Barrier of Gold
+3409100 Incantation: Protection of The Erdtree
+3409100 Incantation: Rejection
+3409100 Incantation: Wrath of Gold
+3409100 Incantation: Urgent Heal
+3409100 Incantation: Heal
+3409100 Incantation: Great Heal
+3409100 Incantation: Lord's Heal
+3409100 Incantation: Erdtree Heal
+3409100 Incantation: Blessing's Boon
+3409100 Incantation: Blessing of The Erdtree
+3409100 Incantation: Flame Fortification
+3409100 Incantation: Magic Fortification
+3409100 Incantation: Lightning Fortification
+3409100 Incantation: Divine Fortification
+3409100 Incantation: Lord's Divine Fortification
+3409100 Incantation: Shadow Bait
+3409100 Incantation: Darkness
+3409100 Incantation: Golden Vow
+3409100 Incantation: Discus of Light
+3409100 Incantation: Triple Rings of Light
+3409100 Incantation: Radagon's Rings of Light
+3409100 Incantation: Elden Stars
+3409100 Incantation: Law of Regression
+3409100 Incantation: Immutable Shield
+3409100 Incantation: Litany of Proper Death
+3409100 Incantation: Law of Causality
+3409100 Incantation: Order's Blade
+3409100 Incantation: Bestial Sling
+3409100 Incantation: Stone of Gurranq
+3409100 Incantation: Beast Claw
+3409100 Incantation: Gurranq's Beast Claw
+3409100 Incantation: Bestial Vitality
+3409100 Incantation: Lightning Spear
+3409100 Incantation: Ancient Dragons' Light Strike
+3409100 Incantation: Lightning Strike
+3409100 Incantation: Frozen Lightning Spear
+3409100 Incantation: Honed Bolt
+3409100 Incantation: Ancient Dragons' Light Spear
+3409100 Incantation: Fortissax's Light Spear
+3409100 Incantation: Lansseax's Glaive
+3409100 Incantation: Electrify Armament
+3409100 Incantation: Dragonbolt Blessing
+3409100 Incantation: Dragonfire
+3409100 Incantation: Agheel's Flame
+3409100 Incantation: Magma Breath
+3409100 Incantation: Theodorix's Magma
+3409100 Incantation: Dragonice
+3409100 Incantation: Borealis's Mist
+3409100 Incantation: Rotten Breath
+3409100 Incantation: Ekzykes's Decay
+3409100 Incantation: Glintstone Breath
+3409100 Incantation: Smarag's Glint Breath
+3409100 Incantation: Placidusax's Ruin
+3409100 Incantation: Dragonclaw
+3409100 Incantation: Dragonmaw
+3409100 Incantation: Greyoll's Roar
+3409100 Incantation: Pest Threads
+3409100 Incantation: Swarm of Flies
+3409100 Incantation: Poison Mist
+3409100 Incantation: Poison Armament
+3409100 Incantation: Scarlet Aeonia
+3409100 (0% weight)
+3409100 Incantation: Unendurable Frenzy
+3409100 Incantation: Frenzied Burst
+3409100 Incantation: Howl of Shabriri
+3409100 Incantation: Aspects of the Crucible: Tail
+3409100 Incantation: Aspects of the Crucible: Horns
+3409100 Incantation: Aspects of the Crucible: Breath
+3409100 Incantation: Black Blade
+3409100 Incantation: Fire's Deadly Sin
+3409100 Incantation: Golden Light Fortification
+4000000 Sorcery: Glintstone Pebble
+4000100 (0% weight)
+4000100 Sorcery: Great Glintstone Shard
+4000100 Sorcery: Swift Glintstone Shard
+4000100 Sorcery: Glintstone Cometshard
+4000100 Sorcery: Comet
+4000100 Sorcery: Shard Spiral
+4000100 Sorcery: Glintstone Stars
+4000100 Sorcery: Star Shower
+4000100 Sorcery: Crystal Barrage
+4000100 Sorcery: Glintstone Arc
+4000100 Sorcery: Cannon of Haima
+4000100 Sorcery: Crystal Burst
+4000100 Sorcery: Shatter Earth
+4000100 Sorcery: Rock Blaster
+4000100 Sorcery: Gavel of Haima
+4000100 Sorcery: Terra Magicus
+4000100 Sorcery: Comet Azur
+4000100 Sorcery: Founding Rain of Stars
+4000100 Sorcery: Stars of Ruin
+4000100 Sorcery: Glintblade Phalanx
+4000100 Sorcery: Carian Phalanx
+4000100 Sorcery: Greatblade Phalanx
+4000100 Sorcery: Rennala's Full Moon
+4000100 Sorcery: Ranni's Dark Moon
+4000100 Sorcery: Magic Downpour
+4000100 Sorcery: Loretta's Greatbow
+4000100 Sorcery: Loretta's Mastery
+4000100 Sorcery: Magic Glintblade
+4000100 Sorcery: Glintstone Icecrag
+4000100 Sorcery: Zamor Ice Storm
+4000100 Sorcery: Freezing Mist
+4000100 Sorcery: Carian Greatsword
+4000100 Sorcery: Adula's Moonblade
+4000100 Sorcery: Carian Slicer
+4000100 Sorcery: Carian Piercer
+4000100 Sorcery: Scholar's Armament
+4000100 Sorcery: Scholar's Shield
+4000100 Sorcery: Frozen Armament
+4000100 Sorcery: Shattering Crystal
+4000100 Sorcery: Crystal Release
+4000100 Sorcery: Crystal Torrent
+4000100 Sorcery: Ambush Shard
+4000100 Sorcery: Night Shard
+4000100 Sorcery: Night Comet
+4000100 Sorcery: Thops's Barrier
+4000100 Sorcery: Carian Retaliation
+4000100 Sorcery: Eternal Darkness
+4000100 Sorcery: Meteorite
+4000100 Sorcery: Meteorite of Astel
+4000100 Sorcery: Rock Sling
+4000100 Sorcery: Gravity Well
+4000100 Sorcery: Collapsing Stars
+4000100 Sorcery: Magma Shot
+4000100 Sorcery: Gelmir's Fury
+4000100 Sorcery: Roiling Magma
+4000100 Sorcery: Rykard's Rancor
+4000100 Sorcery: Briars of Sin
+4000100 Sorcery: Briars of Punishment
+4000100 Sorcery: Rancorcall
+4000100 Sorcery: Ancient Death Rancor
+4000100 Sorcery: Explosive Ghostflame
+4000100 Sorcery: Tibia's Summons
+4000100 Sorcery: Oracle Bubbles
+4000100 Sorcery: Great Oracular Bubble
+4000100 Incantation: Night Maiden's Mist
+999999999 (0% weight)

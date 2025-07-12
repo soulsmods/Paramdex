@@ -51,38 +51,3 @@
 81000 Play Seed Fire 02_Map Entrance Tent -- 再生の種火02_マップ入口のテント
 82000 Reclaim edicave after fire 03_ church -- 再生の種火03_教会後の洞窟
 90000 Trophy_ Bright Stone Light -- トロフィー_輝石の灯火
-111014 OBJ: Neckless Durahan: Death Judgment -- ＯＢＪ：首なしデュラハン：死亡判定
-111230 NPC: Wandering Warrior -- ＮＰＣ：放浪の戦士
-111231 NPC: Wandering Warrior: Specter -- ＮＰＣ：放浪の戦士：亡霊
-111232 OBJ: Wandering Warrior: Tomb -- ＯＢＪ：放浪の戦士：墓
-111233 OBJ: Wandering Warrior: Key Guide -- ＯＢＪ：放浪の戦士：キーガイド
-111234 OBJ: Wandering Warrior: Death Verdict -- ＯＢＪ：放浪の戦士：死亡判定
-111235 OBJ: Wandering Warrior: Combat Event: Appearance Judgment -- ＯＢＪ：放浪の戦士：戦闘イベント：出現判定
-111246 OBJ: Tsukiko Grandfather: White Phantom Sign Display -- OBJ：月光爺：白ファントムサイン表示
-111247 OBJ: Moonlight: White Phantom -- OBJ：月光爺：白ファントム
-111250 NPC: Patch -- ＮＰＣ：パッチ
-111251 NPC: Patch: Ghosts -- ＮＰＣ：パッチ：亡霊
-111252 OBJ: Patch: Tomb -- ＯＢＪ：パッチ：墓
-111253 OBJ: Patch: Key Guide -- ＯＢＪ：パッチ：キーガイド
-111254 OBJ: Patch: Death Judgment -- ＯＢＪ：パッチ：死亡判定
-111255 OBJ: Patch & Wandering Warrior: Victory or Defeat -- ＯＢＪ：パッチ＆放浪の戦士：勝敗判定
-111256 OBJ: Patch: Appearance Judgment -- ＯＢＪ：パッチ：出現判定
-111260 Wandering & Patch Trap Conversations -- 放浪＆パッチのトラップ会話
-111330 NPC: Wandering Warrior (after patch death) -- ＮＰＣ：放浪の戦士（パッチ死亡後）
-111331 NPC: Wandering Warrior (After Patch Death): Specter -- ＮＰＣ：放浪の戦士（パッチ死亡後）：亡霊
-111332 OBJ: Wandering Warrior (after patch death): Grave -- ＯＢＪ：放浪の戦士（パッチ死亡後）：墓
-111333 OBJ: Wandering Warrior (After Patch Death): Key Guide -- ＯＢＪ：放浪の戦士（パッチ死亡後）：キーガイド
-111334 OBJ: Wandering Warrior (after patch death): Death judgment -- ＯＢＪ：放浪の戦士（パッチ死亡後）：死亡判定
-111335 OBJ: Wandering Warrior (Patch Death): Appearance Judgment -- ＯＢＪ：放浪の戦士（パッチ死亡）：出現判定
-111435 OBJ: The Enclosed Man: The Appearance of the Black Phantom -- ＯＢＪ：封じられた人：黒ファントム出現
-111450 NPC: Top Weapons Store (Gerdra) -- ＮＰＣ：上位武器屋（ジェルドラ）
-111451 NPC: Top Weapon Shop (Gerdra): Ghosts -- ＮＰＣ：上位武器屋（ジェルドラ）：亡霊
-111452 OBJ: Top Weapons Store (Gerdra): Tomb -- ＯＢＪ：上位武器屋（ジェルドラ）：墓
-111453 OBJ: Top Weapons Store (Gerdra): Key Guide -- ＯＢＪ：上位武器屋（ジェルドラ）：キーガイド
-111454 OBJ: Top Weapons Store (Gerdra): Death Judgment -- ＯＢＪ：上位武器屋（ジェルドラ）：死亡判定
-111480 NPC: The Teacher of The Sin -- ＮＰＣ：免罪の教戒師
-111481 NPC: The Teacher of The Sin: The Ghost -- ＮＰＣ：免罪の教戒師：亡霊
-111482 OBJ: The Sin-Free Preacher: Tomb -- ＯＢＪ：免罪の教戒師：墓
-111483 OBJ: The Teacher of The Sin: Key Guide -- ＯＢＪ：免罪の教戒師：キーガイド
-111484 OBJ: The Teacher of The Sin: Shop List -- ＯＢＪ：免罪の教戒師：ショップリスト
-118120 NPC for Multi: Sage (Female): White Phantom Sign Display -- マルチ用NPC：賢者（女）：白ファントムサイン表示

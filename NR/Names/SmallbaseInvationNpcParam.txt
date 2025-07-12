@@ -1,0 +1,8 @@
+100 Night Assassin
+200 Night Fallen
+300 Night Hunter
+400 Night Thief
+500 Night Raider
+600 Night Idol
+700 Night Witch
+800 Night Executor

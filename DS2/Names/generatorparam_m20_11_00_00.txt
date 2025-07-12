@@ -1,102 +1,131 @@
-20 [NPC Ginse poet Girl 1] NPC Bard Girl 1 Milfari -- 【NPC吟遊詩人の少女１】 NPC吟遊詩人の少女１　ミルファリー
-21 [NPC Ginse poet Girl 1] NPC Bard Girl 1 Milfari (Ghost) -- 【NPC吟遊詩人の少女１】 NPC吟遊詩人の少女１　ミルファリー(亡霊）
-25 [NPC Ginse poet Girl 2] NPC Bard Girl 2 Nina -- 【NPC吟遊詩人の少女２】 NPC吟遊詩人の少女２　ニナ
-26 [NPC Ginse poet Girl 2] NPC Ginse poet Girl 2 Nina (Ghost) -- 【NPC吟遊詩人の少女２】 NPC吟遊詩人の少女２　ニナ（亡霊）
-660 【Black Spirit】NPC for Multi: Magician (Male) -- 【黒霊】マルチ用NPC：魔導士（男）
-666 [Tower 1, Kojima_ White Spirit of the Left Hand] NPC for Multi: Lancer (Female) -- 【塔1外左手の小島_白霊】マルチ用NPC：ランサー（女）
-802 Beautiful Voice Frog  -- 美声カエル 
-1200 [Tower 1_Subroute 1_Chest] Poison Horn worm -- 【塔1_サブルート1_宝箱の裏】 毒角虫
-1300 [Underwater battle in the basement of the tower 1] lizard man -- 【塔1地階の水中_戦闘】トカゲ人
-1400 [Tower 1 out right hand _ combat] lizard man -- 【塔1出て右手_戦闘】トカゲ人
-1410 [Battle of the tower 1 out] cleric -- 【塔１出てすぐの戦闘】クレリック
-1500 [House 1 front right _ battle] lizard man -- 【家１手前右_戦闘】トカゲ人
-1501 [House 1 front left _ Battle] lizard man -- 【家１手前左_戦闘】トカゲ人
-1600 [Girl 1's house front water place left hand] lizard man -- 【少女1の家前水場左手】トカゲ人
-1700 [Girl 1's house front water place right hand] lizard man -- 【少女１の家前水場右手】トカゲ人
-1810 [Left hand of girl 1 house _ course block2] lizard man -- 【少女1の家の左手_進路塞ぎ2】トカゲ人
-2000 [House tip_ right shallow water] lizard man -- 【家の先_右浅瀬】トカゲ人
-2100 [House 1 destination _ battle] lizard man -- 【家1の先_戦闘】トカゲ人
-2200 [Right back in front of the cave _ Battle] lizard man -- 【洞窟前右奥_戦闘】トカゲ人
-2302 [Cave left side hole _ treasure chest] lizard man -- 【洞窟左の横穴_宝箱】トカゲ人
-2303 [Cave left side hole _ treasure chest] lizard man -- 【洞窟左の横穴_宝箱】トカゲ人
-2304 [Cave left side hole _ treasure chest] lizard man -- 【洞窟左の横穴_宝箱】トカゲ人
-2305 [Cave left side hole _ treasure chest] lizard man -- 【洞窟左の横穴_宝箱】トカゲ人
-2310 【1st cave_oemen】Poisonous hornworm (acid) -- 【１つ目の洞窟_予兆】毒角虫（酸）
-2400 [Blue light grass area_right hand bonfire side_combat] lizard man -- 【青光草エリア_右手篝火側_戦闘】トカゲ人
-2410 [Blue light grass area_right hand bonfire side_combat] lizard man -- 【青光草エリア_右手篝火側_戦闘】トカゲ人
-2500 [Blue light grass area_left hand side_ combat] lizard man -- 【青光草エリア_左手側_戦闘】トカゲ人
-2700 [Blue Light Grass Area_ Deep to the right hip _ Battle] Fairy Shrine Maiden: Cane -- 【青光草エリア_右手奥腰まで深いところ_戦闘】妖精の巫女：杖
-2800 [Aomitsugrass area _ center back both sides road _ battle] fairy shrine maiden -- 【青光草エリア_中央奥両側が道_戦闘】妖精の巫女
-2810 [Blue light grass area _ center back both sides road _ battle] lizard people -- 【青光草エリア_中央奥両側が道_戦闘】トカゲ人
-2900 [Blue Light Grass Area_Galeki's Back_Battle】 Lizard -- 【青光草エリア_ガレキの裏手_戦闘】トカゲ人
-3000 [In a broken building _ Battle] lizard man -- 【壊れた建物の中_戦闘】トカゲ人
-3100 [Aomitsugrass Area Oku_ Red Spirit] Cannibal Leader -- 【青光草エリア奥_赤霊】人食い番長
-3110 【[Aomitsugrass Area Back] Fairy Shrine Maiden: Cane -- 【【青光草エリア奥】妖精の巫女：杖
-3200 [Submarine 3_ Long-distance attack from front of the treasure chest] fairy shrine maiden: cane -- 【サブルート3_宝箱前から遠距離攻撃】妖精の巫女：杖
-3201 【Subroute 3】Fairy Shrine Maiden: Cane -- 【サブルート3】妖精の巫女：杖
-3210 [Subroute 3] Lizard man -- 【サブルート3】トカゲ人
-3300 [House 2 left hand front shallow water _ battle] lizard man -- 【家2左手前浅瀬あたり_戦闘】トカゲ人
-3311 【[Aomitsugrass Area Back] Fairy Shrine Maiden: Cane -- 【【青光草エリア奥】妖精の巫女：杖
-3320 [House 2 left hand front shallow water _ battle] lizard man -- 【家2左手前浅瀬あたり_戦闘】トカゲ人
-3321 [House 2 left hand front shallow water _ battle] lizard man -- 【家2左手前浅瀬あたり_戦闘】トカゲ人
-3322 [House 2 left hand front shallow water _ battle] lizard man -- 【家2左手前浅瀬あたり_戦闘】トカゲ人
-3340 【The nest of the inner part of the submerged bridge_Auga】Auger (raw person): Color (1): General purpose -- 【水没橋の奥_オーガの巣】オーガ（生者）：色①：汎用
-3400 [House 2 right hand _ combat] lizard man -- 【家2右手_戦闘】トカゲ人
-3600 [Submerged bridge_ course block] lizard man -- 【水没した橋_進路塞ぎ】トカゲ人
-3650 [Scaffolding in the depths of the house 2 destination_ hole] fairy shrine maiden: cane -- 【家2先_穴奥の足場】妖精の巫女：杖
-3670 [The second cave_before the bonfire] poison horn worm -- 【２つ目の洞窟_篝火手前】毒角虫
-3671 [The second cave_before the bonfire] poison horn worm -- 【２つ目の洞窟_篝火手前】毒角虫
-3672 [The second cave_before the bonfire] poison horn worm -- 【２つ目の洞窟_篝火手前】毒角虫
-3673 [The second cave_before the bonfire] poison horn worm -- 【２つ目の洞窟_篝火手前】毒角虫
-3680 [The second cave_ beyond the bonfire] poison horn worm -- 【２つ目の洞窟_篝火の先】毒角虫
-3681 [The second cave_ beyond the bonfire] poison horn worm -- 【２つ目の洞窟_篝火の先】毒角虫
-3682 [The second cave_ beyond the bonfire] poison horn worm -- 【２つ目の洞窟_篝火の先】毒角虫
-3683 [The second cave_ beyond the bonfire] poison horn worm -- 【２つ目の洞窟_篝火の先】毒角虫
-3684 [The second cave_ beyond the bonfire] poisonous horn worm huge -- 【２つ目の洞窟_篝火の先】毒角虫　巨大
-3700 [Destination of the submerged bridge] lizard man -- 【水没橋の先_戦闘】トカゲ人
-3710 【Battle on the end of the submerged bridge】Fairy Shrine Maiden: Cane -- 【水没橋の先_戦闘】妖精の巫女：杖
-3800 【The nest of the inner part of the submerged bridge_Auga】Auger (raw person): Color (1): General purpose -- 【水没橋の奥_オーガの巣】オーガ（生者）：色①：汎用
-3900 【Parent Tree Cave Front_Battle】Fairy Shrine Maiden: Cane -- 【親木洞窟前_戦闘】妖精の巫女：杖
-4000 【Parent tree cave out left】Fairy shrine maiden: cane: prayer -- 【親木洞窟出て左】妖精の巫女：杖：祈り
-4100 [Parent tree cave out and looking at the treasure] Banshee (deceased) scary face 2/3 -- 【親木洞窟出て右_宝を見ている】バンシー（亡者）：怖い顔　2/3
-4200 [Parent tree _light worm_battle】 lizard man -- 【親木_光虫だまり_戦闘】トカゲ人
-4210 [Parent tree _light worm_battle】 lizard man -- 【親木_光虫だまり_戦闘】トカゲ人
-4220 [Parent tree _light worm_battle】 lizard man -- 【親木_光虫だまり_戦闘】トカゲ人
-4230 [Parent tree _light worm_battle】 lizard man -- 【親木_光虫だまり_戦闘】トカゲ人
-4240 [Parent tree _light worm_battle】 lizard man -- 【親木_光虫だまり_戦闘】トカゲ人
-4250 [Parent tree _light worm_battle】 lizard man -- 【親木_光虫だまり_戦闘】トカゲ人
-4260 【Parent Tree】Fairy Shrine Maiden: Cane -- 【親木】妖精の巫女：杖
-4270 【Parent Tree】Fairy Shrine Maiden: Cane -- 【親木】妖精の巫女：杖
-4280 [Parent tree _light worm samari_outside course blocked] lizard man -- 【親木_光虫だまり_外回りの進路塞ぎ】トカゲ人
-4300 【Light worm samari_road block】 Fairy shrine maiden: cane -- 【光虫だまりの先_道塞ぎ】妖精の巫女：杖
-5000 [Where the door of the deceased was opened climbing the tower] the clothes of the deceased: the sick ♂ -- 【塔を登って亡者扉開けたところ】亡者：病人の服♂
-5001 [Where the door of the deceased was opened climbing the tower] the clothes of the deceased: the sick ♂ -- 【塔を登って亡者扉開けたところ】亡者：病人の服♂
-5002 [Where the door of the deceased was opened climbing the tower] the clothes of the deceased: the sick ♂ -- 【塔を登って亡者扉開けたところ】亡者：病人の服♂
-5010 【Before the altar】Necromancer -- 【祭壇手前】ネクロマンサー
-8033 [Waterside around tower 1 _ Battle] lizard man -- 【塔1周辺水辺_戦闘】トカゲ人
-8051 【House 1 ahead Kojima_Combat】Fairy Shrine Maiden: Bare Hands -- 【家1先小島_戦闘】妖精の巫女：素手
-8052 [House 1 destination Kojima _ battle] lizard man -- 【家1先小島_戦闘】トカゲ人
-8053 [House 1 destination Kojima _ battle] lizard man -- 【家1先小島_戦闘】トカゲ人
-8055 [House 1 destination Kojima _ battle] lizard man -- 【家1先小島_戦闘】トカゲ人
-8056 [House 1 destination Kojima _ battle] lizard man -- 【家1先小島_戦闘】トカゲ人
-8057 [House 1 destination Kojima _ combat] for cleric_2 laps or later -- 【家1先小島_戦闘】クレリック_2周目以降用
-8058 [House 1 destination Kojima _ combat] for cleric_2 laps or later -- 【家1先小島_戦闘】クレリック_2周目以降用
-8059 [House 1 destination Kojima _ combat] for cleric_2 laps or later -- 【家1先小島_戦闘】クレリック_2周目以降用
-8060 [Treasure chest rock front _ battle] lizard man -- 【宝箱岩前_戦闘】トカゲ人
-8061 [House 1 destination Kojima _ battle] for the first lap of the cleric_ -- 【家1先小島_戦闘】クレリック_1周目用
-8062 [House 1 destination Kojima _ battle] for the first lap of the cleric_ -- 【家1先小島_戦闘】クレリック_1周目用
-8063 [House 1 destination Kojima _ battle] for the first lap of the cleric_ -- 【家1先小島_戦闘】クレリック_1周目用
-8500 [Arch back_ battle] lizard man -- 【アーチ裏_戦闘】トカゲ人
-8501 [Arch front _ battle] lizard man -- 【アーチ前_戦闘】トカゲ人
-8520 [Red Fan Kojima _ Battle] Lizard Man -- 【赤ファン小島_戦闘】トカゲ人
-8521 [Red Fan Kojima] Lizard Man -- 【赤ファン小島】トカゲ人
-8530 [House 2 right hand _ combat] lizard man -- 【家２右手_戦闘】トカゲ人
-8531 [House 2 right hand _ combat] lizard man -- 【家２右手_戦闘】トカゲ人
-8532 [House 2 right hand _ combat] lizard man -- 【家２右手_戦闘】トカゲ人
-8540 [White door 2 front _ battle] cleric _2 laps -- 【白扉２前_戦闘】クレリック_２周目
-8541 [White door 2 front _ battle] cleric _2 laps -- 【白扉２前_戦闘】クレリック_２周目
-8542 [White door 2 front _ battle] cleric -- 【白扉２前_戦闘】クレリック
-8543 [White door 2 front _ battle] cleric -- 【白扉２前_戦闘】クレリック
-8544 [White door 2 front _ battle] fairy shrine maiden: bare hands -- 【白扉２前_戦闘】妖精の巫女：素手
-8550 [Hole outside house 2 _ battle] fairy shrine maiden: cane -- 【家２外の穴_戦闘】妖精の巫女：杖
-8551 [Hole outside house 2 _ battle] cleric -- 【家２外の穴_戦闘】クレリック
+20 [GEN:20] Milfanito
+21 [GEN:21] Milfanito
+25 [GEN:25] Milfanito
+26 [GEN:26] Milfanito
+660 [GEN:660] Peculiar Kindalur
+666 [GEN:666] Felicia the Brave
+667 [GEN:667] Lone Hunter Schmidt
+802 [GEN:802] Demon of Song
+965 [GEN:965] Forlorn
+1300 [GEN:1300] Amana Aberration
+1400 [GEN:1400] Amana Aberration
+1410 [GEN:1410] Lindelt Cleric
+1500 [GEN:1500] Amana Aberration
+1501 [GEN:1501] Amana Aberration
+1600 [GEN:1600] Amana Aberration
+1700 [GEN:1700] Amana Aberration
+1810 [GEN:1810] Amana Aberration
+2000 [GEN:2000] Amana Aberration
+2100 [GEN:2100] Amana Aberration
+2200 [GEN:2200] Amana Aberration
+2302 [GEN:2302] Amana Aberration
+2303 [GEN:2303] Amana Aberration
+2304 [GEN:2304] Amana Aberration
+2305 [GEN:2305] Amana Aberration
+2310 [GEN:2310] Acid Horn Beetle
+2400 [GEN:2400] Amana Aberration
+2410 [GEN:2410] Amana Aberration
+2800 [GEN:2800] Amana Shrine Maiden
+2810 [GEN:2810] Amana Aberration
+2900 [GEN:2900] Amana Aberration
+2901 [GEN:2901] Amana Aberration
+2902 [GEN:2902] Amana Aberration
+2910 [GEN:2910] Amana Aberration
+2911 [GEN:2911] Amana Aberration
+3000 [GEN:3000] Amana Aberration
+3001 [GEN:3001] Amana Aberration
+3002 [GEN:3002] Amana Aberration
+3003 [GEN:3003] Amana Aberration
+3010 [GEN:3010] Amana Shrine Maiden
+3100 [GEN:3100] Butcher Phantom
+3110 [GEN:3110] Amana Shrine Maiden
+3200 [GEN:3200] Amana Shrine Maiden
+3201 [GEN:3201] Amana Shrine Maiden
+3210 [GEN:3210] Amana Aberration
+3300 [GEN:3300] Amana Aberration
+3311 [GEN:3311] Amana Shrine Maiden
+3320 [GEN:3320] Amana Aberration
+3321 [GEN:3321] Amana Aberration
+3323 [GEN:3323] Amana Aberration
+3324 [GEN:3324] Amana Aberration
+3325 [GEN:3325] Amana Aberration
+3340 [GEN:3340] Ogre
+3400 [GEN:3400] Amana Aberration
+3500 [GEN:3500] Amana Shrine Maiden
+3501 [GEN:3501] Amana Shrine Maiden
+3502 [GEN:3502] Amana Shrine Maiden
+3503 [GEN:3503] Amana Shrine Maiden
+3504 [GEN:3504] Amana Shrine Maiden
+3650 [GEN:3650] Amana Shrine Maiden
+3651 [GEN:3651] Lindelt Cleric
+3670 [GEN:3670] Acid Horn Beetle
+3671 [GEN:3671] Acid Horn Beetle
+3672 [GEN:3672] Acid Horn Beetle
+3673 [GEN:3673] Acid Horn Beetle
+3680 [GEN:3680] Acid Horn Beetle
+3681 [GEN:3681] Acid Horn Beetle
+3682 [GEN:3682] Acid Horn Beetle
+3683 [GEN:3683] Acid Horn Beetle
+3684 [GEN:3684] Giant Acid Horn Beetle
+3710 [GEN:3710] Amana Shrine Maiden
+3800 [GEN:3800] Ogre
+3900 [GEN:3900] Amana Shrine Maiden
+4000 [GEN:4000] Amana Shrine Maiden
+4100 [GEN:4100] Injured Milfanito
+4210 [GEN:4210] Amana Aberration
+4220 [GEN:4220] Amana Aberration
+4250 [GEN:4250] Amana Aberration
+4260 [GEN:4260] Amana Shrine Maiden
+4270 [GEN:4270] Amana Shrine Maiden
+4280 [GEN:4280] Amana Aberration
+4300 [GEN:4300] Amana Shrine Maiden
+4400 [GEN:4400] Lindelt Cleric
+4401 [GEN:4401] Lindelt Cleric
+4410 [GEN:4410] Amana Shrine Maiden
+5000 [GEN:5000] Undead Supplicant
+5001 [GEN:5001] Undead Supplicant
+5002 [GEN:5002] Undead Supplicant
+5300 [GEN:5300] Undead Traveler
+6010 [GEN:6010] Syan Knight
+6020 [GEN:6020] Pyromancer
+6021 [GEN:6021] Pyromancer
+6022 [GEN:6022] Pyromancer
+6110 [GEN:6110] Old Knight
+6200 [GEN:6200] Basilisk
+6210 [GEN:6210] Lindelt Cleric
+6300 [GEN:6300] Amana Aberration
+6301 [GEN:6301] Amana Aberration
+6302 [GEN:6302] Amana Aberration
+6303 [GEN:6303] Amana Aberration
+6310 [GEN:6310] Basilisk
+6311 [GEN:6311] Basilisk
+6312 [GEN:6312] Basilisk
+6400 [GEN:6400] Poison Moth
+6402 [GEN:6402] Poison Moth
+6403 [GEN:6403] Poison Moth
+6500 [GEN:6500] Dragonrider
+6600 [GEN:6600] Invisible Hollow
+6601 [GEN:6601] Invisible Hollow
+8033 [GEN:8033] Amana Aberration
+8051 [GEN:8051] Amana Shrine Maiden
+8052 [GEN:8052] Amana Aberration
+8053 [GEN:8053] Amana Aberration
+8055 [GEN:8055] Amana Aberration
+8056 [GEN:8056] Amana Aberration
+8057 [GEN:8057] Lindelt Cleric	
+8058 [GEN:8058] Lindelt Cleric	
+8059 [GEN:8059] Lindelt Cleric	
+8060 [GEN:8060] Amana Aberration
+8061 [GEN:8061] Lindelt Cleric	
+8062 [GEN:8062] Lindelt Cleric	
+8063 [GEN:8063] Lindelt Cleric
+8500 [GEN:8500] Amana Aberration
+8521 [GEN:8521] Amana Aberration
+8531 [GEN:8531] Amana Aberration
+8532 [GEN:8532] Amana Aberration
+8540 [GEN:8540] Lindelt Cleric
+8541 [GEN:8541] Lindelt Cleric
+8542 [GEN:8542] Lindelt Cleric
+8543 [GEN:8543] Lindelt Cleric
+8544 [GEN:8544] Amana Shrine Maiden
+8551 [GEN:8551] Lindelt Cleric

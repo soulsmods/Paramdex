@@ -1,30 +1,30 @@
-0 No setting -- 設定なし
-1 pattern 1 -- パターン1
-2 pattern 2 -- パターン2
-3 pattern 3 -- パターン3
-4 pattern 4 -- パターン4
-5 pattern 5 -- パターン5
-6 pattern 6 -- パターン6
-7 pattern 7 -- パターン7
-8 pattern 8 -- パターン8
-9 pattern 9 -- パターン9
-10 pattern 10 -- パターン10
-11 pattern 11 -- パターン11
-12 pattern 12 -- パターン12
-13 pattern 13 -- パターン13
-14 pattern 14 -- パターン14
-15 pattern 15 -- パターン15
-16 pattern 16 -- パターン16
-17 pattern 17 -- パターン17
-18 pattern 18 -- パターン18
-19 pattern 19 -- パターン19
-20 pattern 20 -- パターン20
-21 pattern 21 -- パターン21
-22 pattern 22 -- パターン22
-23 pattern 23 -- パターン23
-24 pattern 24 -- パターン24
-25 pattern 25 -- パターン25
-26 pattern 26 -- パターン26
-27 pattern 27 -- パターン27
-28 pattern 28 -- パターン28
-29 pattern 29 -- パターン29
+0 None 
+1 Pattern 1
+2 Pattern 2
+3 Pattern 3
+4 Pattern 4
+5 Pattern 5
+6 Pattern 6
+7 Pattern 7
+8 Pattern 8
+9 Pattern 9
+10 Pattern 10
+11 Pattern 11
+12 Pattern 12
+13 Pattern 13
+14 Pattern 14
+15 Pattern 15
+16 Pattern 16
+17 Pattern 17
+18 Pattern 18
+19 Pattern 19
+20 Pattern 20
+21 Pattern 21
+22 Pattern 22
+23 Pattern 23
+24 Pattern 24
+25 Pattern 25
+26 Pattern 26
+27 Pattern 27
+28 Pattern 28
+29 Pattern 29

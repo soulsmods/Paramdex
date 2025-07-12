@@ -7,52 +7,10 @@
 10160706 Brazier
 10160707 Brazier
 10160708 Brazier
-10160709 Brazier
-10160710 Brazier
-10160711 Brazier
-10160712 Brazier
-10160713 Brazier
-10160714 Brazier
-10160715 Brazier
-10160716 Brazier
-10160717 Brazier
-10160718 Brazier
-10160719 Brazier
-10160720 Brazier
-10160721 Brazier
-10160722 Brazier
-10160723 Brazier
-10160724 Brazier
-10160725 Brazier
-10160726 Brazier
-10160727 Brazier
-10160728 Brazier
-10160729 Brazier
-10160730 Brazier
-10160731 Brazier
-10160732 Brazier
-10160733 Brazier
-10160734 Brazier
-10160735 Brazier
-10160736 Brazier
-10160737 Brazier
-10160738 Brazier
-10160739 Brazier
-10160740 Brazier
-10160741 Brazier
-10160742 Brazier
-10160743 Brazier
-10160744 Brazier
-10160745 Brazier
-10160746 Brazier
-10160747 Brazier
-10160748 Brazier
-10160749 Brazier
 10160750 Brazier
 10160751 Brazier
 10160752 Brazier
 10160753 Brazier
-10163003 Poison Pool Test
 10165000 [Chest] Treasure
 10165010 [Chest] Treasure
 10165020 [Chest] Treasure

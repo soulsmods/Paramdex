@@ -1,0 +1,42 @@
+0 B0室内
+3 B0ボス部屋
+4 B0室内
+5 B2樹内
+10 B0屋外
+12 B0地底
+13 B1屋外
+14 B1暗部
+18 B2屋外
+19 B2座禅
+20 PolyG-scn130110(50番)
+21 PolyG-scn130000(51番)
+22 PolyG-scn130000(52番)
+23 PolyG-scn130000(53番)
+24 PolyG-scn130020(54番)
+25 PolyG-scn130020(55番)
+26 PolyG-scn130120(56番)
+27 B1鍾乳洞
+28 B1ボス
+30 B0室内
+33 B0ボス部屋
+34 B0室内
+35 B2樹内
+40 B0屋外
+42 B0地底
+43 B1屋外
+44 B1暗部
+48 B2屋外
+49 B2座禅
+50 PolyG-scn130110,130111
+51 PolyG-scn130000-c3
+52 PolyG-scn130000
+53 PolyG-scn130000-<祭壇>-cut1st
+54 PolyG-scn130020 小
+55 PolyG-scn130020 大
+56 PolyG-scn130120 小
+57 B1鍾乳洞
+58 B1ボス
+60 PolyG-scn130000-c2-3
+61 PolyG-scn130000-<祭壇>-cutAll
+62 PolyG-scn130000-<祭壇>-cutAll-暗い(pv使用)
+63 PolyG-scn130100-<ライティング>(pvLast)

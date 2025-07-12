@@ -1,39 +1,76 @@
-205 NPC: Sinalot -- NPC：シャナロット
-600 Enclosed Man: Black Spirit -- 封じられた人：黒霊
-601 NPC for Multi: Koryu Swordsman (Male): Black Spirit -- マルチ用NPC：古龍剣士（男）：黒霊
-602 Dragon Knight: Black Spirit -- 竜騎士：黒霊
-603 Painting Guard (Man): Black Spirit -- 絵画守（男）：黒霊
-604 Painting Guard (Woman): Black Spirit -- 絵画守（女）：黒霊
-606 Durahan (White Spirit) -- デュラハン（白霊）
-607 NPC for Multi: Flesh-breaking (Female): White Spirit -- マルチ用NPC：肉断ち（女）：白霊
-800 Koryu -- 古龍
-1100 【Egg Area】Wyvern 01 -- 【卵エリア】ワイバーン01
-1101 【Egg Area】Wyvern 02 -- 【卵エリア】ワイバーン02
-1102 [Nest 2 sleeping] Wyvern -- 【巣2寝ている】ワイバーン
-1200 【Near nest 1 egg】Ishimori_1 -- 【巣1卵付近】石守_1
-1210 【Nest 1】Andet Citizen_1 -- 【巣1つ目】アンデット市民_1
-1211 【Nest 1】Andet Citizen_2 -- 【巣1つ目】アンデット市民_2
-1212 【Nest 1st Entrance】Andet Citizen_3 -- 【巣1つ目入り口】アンデット市民_3
-1300 【Nest 2】Ishimori_1 -- 【巣2つ目】石守_1
+205 [GEN:205] Emerald Herald
+600 [GEN:600] Royal Sorcerer Navlaan
+601 [GEN:601] Dragonfang Villard
+602 [GEN:602] Black Dragon Knight
+603 [GEN:603] Black Dragon Knight
+604 [GEN:604] Bashful Ray
+606 [GEN:606] Vengarl
+607 [GEN:607] Melinda the Butcher
+608 [GEN:608] Transcendent Edde
+609 [GEN:609] Fencer Sharron
+800 [GEN:800] Ancient Dragon
+916 [GEN:916] Aldia- Scholar of the First Sin
+950 [GEN:950] Invisible Hollow
+1100 [GEN:1100] Guardian Dragon
+1101 [GEN:1101] Guardian Dragon
+1102 [GEN:1102] Guardian Dragon
+1200 [GEN:1200] Crystal Lizard
+1210 [GEN:1210] Rupturing Hollow
+1211 [GEN:1211] Rupturing Hollow
+1212 [GEN:1212] Rupturing Hollow
+1300 [GEN:1300] Crystal Lizard
 1310 【Nest】Andet Citizen_1 -- 【巣2つ目】アンデット市民_1
-1400 【Nest 1 Cave】Ishimori_1 -- 【巣1洞窟】石守_1
-1401 【Nest 1 Hill】Ishimori_2 -- 【巣1高台】石守_2
-1402 【Nest 1 Near Wyburn】Ishimori_3 -- 【巣1ワイバーン付近】石守_3
-1403 【Nest 1 Near Wyburn】Ishimori_4 -- 【巣1ワイバーン付近】石守_4
-1404 【Nest 1 Near Wyburn】Ishimori_5 -- 【巣1ワイバーン付近】石守_5
-1500 【Nest Wyburn Side】Ishimori_1 -- 【巣ワイバーン横】石守_1
-1501 【Nest Wyburn Side】Ishimori_2 -- 【巣ワイバーン横】石守_2
-1600 【Nest Cliff】Stone Mori_1 -- 【巣崖】石守_1
-1601 【Nest Cliff】Stone Mori_2 -- 【巣崖】石守_2
-2005 [Stair landing next to the second bonfire _ battle] Demon heavy soldiers - two-handed sword -- 【2つ目の篝火横の階段踊り場_戦闘】デーモン重兵士：両手剣＆中盾
-2010 [Second bonfire next to the stairs _ battle] Demon heavy soldiers: two-handed mallet -- 【2つ目の篝火横の階段先_戦闘】デーモン重兵士：両手槌
-2030 [Before the tunnel stairs _ Course blocked] Demon heavy soldier: two hands mallet -- 【トンネル階段前_進路塞ぎ】デーモン重兵士：両手槌
-2031 [Before the tunnel stairs _ Course block] Demon heavy soldiers - both hands sword -- 【トンネル階段前_進路塞ぎ】デーモン重兵士：両手剣＆中盾
-2033 [Hidden Route] Demon Heavy Soldier: One Hand Mallet -- 【隠しルート】デーモン重兵士：片手槌
-2035 [Battle before the grand staircase] Demon heavy soldiers: oversized sword_1 -- 【大階段手前_戦闘】デーモン重兵士：特大剣_1
-2036 [Battle before the grand staircase] Demon heavy soldiers: oversized sword_2 -- 【大階段手前_戦闘】デーモン重兵士：特大剣_2
-2040 [White door front _ combat] Demon heavy soldiers: one hand mallet _1 -- 【白扉前_戦闘】デーモン重兵士：片手槌_1
-2041 [White door front _ combat] Demon heavy soldiers: one hand mallet_2 -- 【白扉前_戦闘】デーモン重兵士：片手槌_2
-3001 [Treasure chest in front of the castle area_ bridge] Demon heavy soldiers -- 【城エリア_橋の上前の宝箱】デーモン重兵士：両手剣＆中盾
-3005 【Castle Area_Hill】Dark Priest: Color (3) -- 【城エリア_高台】ダークプリースト：色③
-5000 [Hidden Route_ Random Appearance] [] [Mimic] -- 【隠しルート_ランダム出現】ν-ミミック
+1400 [GEN:1400] Crystal Lizard
+1401 [GEN:1401] Crystal Lizard
+1402 [GEN:1402] Crystal Lizard
+1403 [GEN:1403] Crystal Lizard
+1404 [GEN:1404] Crystal Lizard
+1500 [GEN:1500] Crystal Lizard
+1501 [GEN:1501] Crystal Lizard
+1600 [GEN:1600] Crystal Lizard
+1601 [GEN:1601] Crystal Lizard
+2005 [GEN:2005] Drakekeeper
+2010 [GEN:2010] Drakekeeper
+2030 [GEN:2030] Drakekeeper
+2033 [GEN:2033] Drakekeeper
+4000 [GEN:4000] Black Dragon Knight
+4001 [GEN:4001] Black Dragon Knight
+4005 [GEN:4005] Black Dragon Knight
+4009 [GEN:4009] Black Dragon Knight
+4010 [GEN:4010] Black Dragon Knight
+4011 [GEN:4011] Black Dragon Knight
+4020 [GEN:4020] Black Dragon Knight
+4030 [GEN:4030] Black Dragon Knight
+4031 [GEN:4031] Black Dragon Knight
+4032 [GEN:4032] Black Dragon Knight
+4033 [GEN:4033] Black Dragon Knight
+4036 [GEN:4036] Black Dragon Knight
+4037 [GEN:4037] Black Dragon Knight
+4038 [GEN:4038] Black Dragon Knight
+4039 [GEN:4039] Black Dragon Knight
+4040 [GEN:4040] Black Dragon Knight
+4041 [GEN:4041] Black Dragon Knight
+4042 [GEN:4042] Black Dragon Knight
+6000 [GEN:6000] Undead Traveler
+6100 [GEN:6100] Dark Priestess
+7000 [GEN:7000] Rupturing Hollow
+7001 [GEN:7001] Rupturing Hollow
+7002 [GEN:7002] Rupturing Hollow
+7003 [GEN:7003] Rupturing Hollow
+7004 [GEN:7004] Rupturing Hollow
+7010 [GEN:7010] Rupturing Hollow
+7011 [GEN:7011] Rupturing Hollow
+7012 [GEN:7012] Rupturing Hollow
+7013 [GEN:7013] Rupturing Hollow
+7014 [GEN:7014] Rupturing Hollow
+7020 [GEN:7020] Rupturing Hollow
+7021 [GEN:7021] Rupturing Hollow
+7022 [GEN:7022] Rupturing Hollow
+7023 [GEN:7023] Rupturing Hollow
+7030 [GEN:7030] Rupturing Hollow
+7031 [GEN:7031] Rupturing Hollow
+7032 [GEN:7032] Rupturing Hollow
+7033 [GEN:7033] Rupturing Hollow
+7040 [GEN:7040] Rupturing Hollow
+7041 [GEN:7041] Rupturing Hollow
+7042 [GEN:7042] Rupturing Hollow

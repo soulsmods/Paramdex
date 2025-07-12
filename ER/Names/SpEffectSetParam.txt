@@ -1,0 +1,2 @@
+109000 Enemy: Fade After Death (Boss)
+109010 Enemy: Fade After Death

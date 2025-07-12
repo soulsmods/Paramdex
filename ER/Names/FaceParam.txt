@@ -1,0 +1,565 @@
+0 0: Test Male
+1 1: Test Male
+2 2: Test Male
+3 3: Test Male
+4 4: Test Female
+5 5: Test Male
+6 6: Test Female
+7 7: Test Male
+8 8: Test Female
+9 9: Test Male
+10 10: Test Silly
+11 11: Test Silly
+12 12: Test Silly
+13 13: Test Silly
+14 14: Test Male
+20 15: Network Test Male
+21 16: Network Test Female
+22 17: Network Test Male
+23 18: Network Test Female
+24 19: Network Test Male
+25 20: Network Test Female
+26 21: Network Test Male
+27 22: Network Test Female
+28 23: Network Test Male
+29 24: Network Test Female
+342 25: ???
+1000 26: Warrior Male
+1001 27: Truth-Seeker Male
+1002 28: Aristocrat Male
+1003 29: Loner Male
+1004 30: Northerner Male
+1005 31: Seafarer Male
+1006 32: Reedlander Male
+1007 33: Draconian Male
+1008 34: Nightfolk Male
+1009 35: Numen Male
+2000 36: Warrior Female
+2001 37: Truth-Seeker Female
+2002 38: Aristocrat Female
+2003 39: Loner Female
+2004 40: Northerner Female
+2005 41: Seafarer Female
+2006 42: Reedlander Female
+2007 43: Draconian Female
+2008 44: Nightfolk Female
+2009 45: Numen Female
+3100 46: Warrior Male
+3101 47: Warrior Female
+3102 48: Warrior Male
+3103 49: Warrior Female
+3104 50: Warrior Male
+3105 51: Warrior Female
+3106 52: Warrior Male
+3107 53: Warrior Female
+3108 54: Warrior Male
+3109 55: Warrior Female
+3110 56: Warrior Male
+3111 57: Warrior Female
+3112 58: Warrior Male
+3113 59: Warrior Female
+3114 60: Warrior Male
+3115 61: Warrior Female
+3116 62: Warrior Male
+3117 63: Warrior Female
+3118 64: Warrior Male
+3119 65: Warrior Female
+9999 66: Eyes
+10000 67: Prototype Scruffy Man?
+10001 68: Prototype Seluvis?
+10002 69: Prototype Irina?
+10003 70: Prototype Male?
+10004 71: Prototype Old Man Istvan?
+10005 72: Prototype Tanith?
+10006 73: Prototype Tanith?
+10007 74: Prototype Red-haired Male?
+10008 75: Prototype D?
+10009 76: Prototype Dung Eater?
+10010 77: Prototype Brown-haired Male?
+10011 78: Prototype Millicent?
+10012 79: Prototype Mustache Male?
+10013 80: Prototype Male?
+10014 81: Prototype Rot Sister?
+10015 82: Prototype Brown-haired Female?
+10016 83: Placeholder White-haired Old man
+10017 84: Placeholder White-haired Old man
+10018 85: Placeholder White-haired Old man
+10019 86: Placeholder White-haired Old man
+10020 87: Prototype Gideon?
+10021 88: Prototype Gideon?
+10022 89: Prototype Gideon?
+10023 90: Prototype Gideon?
+10024 91: Prototype Gideon?
+10025 92: Prototype Gideon?
+10026 93: Prototype Gideon?
+10027 94: Placeholder White-haired Old man
+10028 95: Placeholder White-haired Old man
+10029 96: Placeholder White-haired Old man
+10030 97: Prototype Grey-skinned Male?
+10031 98: Prototype Grey-haired Male?
+10032 99: Prototype Grey-haired Female?
+10033 100: Prototype D?
+10034 101: Prototype D with facial hair?
+10035 102: Prototype Old Man Istvan?
+10036 103: Placeholder White-haired Old man
+10037 104: Placeholder White-haired Old man
+10038 105: Placeholder White-haired Old man
+10039 106: Placeholder White-haired Old man
+10040 107: Prototype Red-haired Female?
+10041 108: Prototype Bald Man?
+10042 109: Prototype Red-haired Butcher?
+10043 110: Placeholder White-haired Old man
+10044 111: Placeholder White-haired Old man
+10045 112: Placeholder White-haired Old man
+10046 113: Placeholder White-haired Old man
+10047 114: Placeholder White-haired Old man
+10048 115: Placeholder White-haired Old man
+10049 116: Placeholder White-haired Old man
+10050 117: Placeholder White-haired Old man
+10051 118: Prototype Okina's Disciple?
+10052 119: Prototype Vyke?
+10053 120: Prototype Bearded Male?
+10054 121: Prototype Okina?
+10055 122: Prototype Pale Female?
+10056 123: Prototype Blue-haired Female?
+10057 124: Prototype Black-haired Female?
+10058 125: Placeholder White-haired Old man
+10059 126: Placeholder White-haired Old man
+10060 127: Placeholder White-haired Old man
+10061 128: Prototype Millicent
+10062 129: Prototype Side-cut Male?
+10063 130: Prototype Anastacia?
+10064 131: Prototype Anastacia?
+10065 132: Prototype Okina?
+10066 133: Prototype Silver Tear?
+10067 134: Prototype Grey-haired Male?
+10068 135: Prototype Ensha?
+10069 136: Prototype Eyepatch Male?
+10070 137: Placeholder White-haired Old man
+10071 138: Placeholder White-haired Old man
+10072 139: Placeholder White-haired Old man
+10073 140: Placeholder White-haired Old man
+10074 141: Placeholder White-haired Old man
+10075 142: Placeholder White-haired Old man
+10076 143: Prototype D?
+10077 144: Prototype Jerren?
+10078 145: Prototype Sellen?
+10079 146: Prototype Sellen Male?
+10080 147: Placeholder White-haired Old man
+10081 148: Placeholder White-haired Old man
+10082 149: Placeholder White-haired Old man
+10083 150: Placeholder White-haired Old man
+10084 151: Placeholder White-haired Old man
+10085 152: Placeholder White-haired Old man
+10086 153: Placeholder White-haired Old man
+10087 154: Placeholder White-haired Old man
+10088 155: Prototype Stubble Male?
+10089 156: Prototype Mascara Male?
+10090 157: Placeholder White-haired Old man
+10091 158: Placeholder White-haired Old man
+10092 159: Placeholder White-haired Old man
+10093 160: Placeholder White-haired Old man
+10094 161: Placeholder White-haired Old man
+10095 162: Placeholder White-haired Old man
+10096 163: Placeholder White-haired Old man
+10097 164: Placeholder White-haired Old man
+10098 165: Placeholder White-haired Old man
+10099 166: Placeholder White-haired Old man
+10100 167: Placeholder White-haired Old man
+10101 168: Prototype Warrior Male?
+10102 169: Prototype Truth-Seeker Male?
+10103 170: Prototype Gold-haired Male?
+10104 171: Prototype Aristocrat Male?
+10105 172: Prototype Loner?
+10106 173: Prototype Black-haired Male?
+10107 174: Prototype Pale Male?
+10108 175: Prototype Northerner Male?
+10109 176: Prototype Reedlander Male?
+10110 177: Prototype Seafarer Male?
+10111 178: Prototype Warrior Female?
+10112 179: Prototype Truth-Seeker Female?
+10113 180: Prototype Gold-haired Female?
+10114 181: Prototype Aristocrat Female?
+10115 182: Prototype Loner Female
+10116 183: Prototype Black-haired Female?
+10117 184: Prototype Pale Female?
+10118 185: Prototype Northerner Female?
+10119 186: Prototype Reedlander Female?
+10120 187: Prototype Seafarer Female?
+10121 188: Tattoo test Male?
+10122 189: Tattoo test Male?
+10123 190: Prototype Dark-haired Gold-eyed Female?
+10124 191: Prototype Dark-haired Gold-eyed Male?
+10125 192: Prototype Old Asian Male?
+10126 193: Prototype Brown-haired Female?
+10127 194: Tattoo test Female?
+10128 195: Prototype Brown-haired Gold-eyed Male?
+10129 196: Placeholder White-haired Old man
+10130 197: Prototype Black-haired Gold-eyed Male?
+10131 198: Prototype Black-haired Gold-eyed Female?
+10132 199: Prototype Black-haired Gold-eyed Female?
+10133 200: Prototype Gold-haired Female?
+10134 201: Prototype Dark-haired Female?
+10135 202: Prototype Ginger-haired Female?
+10136 203: Prototype Red-eyed Female?
+10137 204: Prototype Reedlander Female?
+10138 205: Prototype Seafarer Female?
+10139 206: Prototype Gold-haired Female?
+10140 207: Prototype Loner Male?
+10141 208: Prototype Truth-Seeker Male?
+10142 209: Prototype Warrior Male?
+10143 210: Prototype Warrior Female?
+10144 211: Prototype Warrior Female?
+10145 212: Prototype Numen Male?
+10146 213: Prototype Numen Female?
+10147 214: Prototype ??? Female?
+10148 215: Prototype Nightfolk Female?
+10149 216: Prototype Nightfolk Male?
+10150 217: Prototype Auburn-haired Male?
+10151 218: Prototype Auburn-haired Female?
+10152 219: Prototype Greyscale Male?
+10153 220: Prototype Draconian Male?
+10154 221: Prototype Numen Female?
+10155 222: Prototype Rotten Male?
+10156 223: Tattoo test Kintsugi Male?
+10157 224: Tattoo test Kintsugi Male?
+10158 225: Prototype Draconian Male?
+10159 226: Prototype Numen Male?
+10160 227: Tattoo test Kintsugi Male?
+10161 228: Tattoo test Kintsugi Male?
+10162 229: Prototype Nightfolk Female?
+10163 230: Prototype Nightfolk Female?
+10164 231: Prototype Nightfolk Female?
+10165 232: Prototype Nightfolk Male?
+10166 233: Prototype Nightfolk Male?
+10167 234: Prototype Nightfolk Male?
+10168 235: Prototype Nightfolk Female?
+10169 236: Prototype Nightfolk Male?
+10170 237: Prototype Numen Female?
+10171 238: Prototype Numen Male?
+10172 239: Prototype Numen Male?
+10173 240: Prototype Gold-haired Female?
+10174 241: Prototype Reedlander Male?
+10175 242: Prototype Draconian Male?
+10176 243: Prototype Numen Female?
+10177 244: Prototype Numen Male?
+10178 245: Prototype Northerner Male?
+10179 246: Prototype Northerner Female?
+10180 247: Prototype Bald Female?
+10181 248: Prototype ??? Female?
+10182 249: Prototype ??? Female?
+10183 250: Prototype ??? Female?
+10184 251: Prototype ??? Female?
+10185 252: Prototype ??? Female?
+10186 253: Prototype ??? Female?
+10187 254: Prototype ??? Male?
+10188 255: Prototype Nightfolk Male?
+10189 256: Prototype Scarred Male?
+10190 257: Prototype White-haired Male?
+10191 258: Prototype Ginger Female?
+10192 259: Prototype Brown-haired Female?
+10193 260: Prototype Black-haired Female?
+10194 261: Prototype Ginger Male?
+10195 262: Placeholder White-haired Old man
+10196 263: Placeholder White-haired Old man
+10197 264: Placeholder White-haired Old man
+10198 265: Placeholder White-haired Old man
+10199 266: Placeholder White-haired Old man
+10200 267: Placeholder White-haired Old man
+10201 268: Placeholder White-haired Old man
+10202 269: Placeholder White-haired Old man
+10203 270: Placeholder White-haired Old man
+10204 271: Placeholder White-haired Old man
+10205 272: Placeholder White-haired Old man
+10206 273: Placeholder White-haired Old man
+10207 274: Placeholder White-haired Old man
+10208 275: Placeholder White-haired Old man
+10209 276: Placeholder White-haired Old man
+10210 277: Placeholder White-haired Old man
+10211 278: Placeholder White-haired Old man
+10212 279: Placeholder White-haired Old man
+10213 280: Placeholder White-haired Old man
+10214 281: Placeholder White-haired Old man
+10215 282: Placeholder White-haired Old man
+10216 283: Placeholder White-haired Old man
+10217 284: Placeholder White-haired Old man
+10218 285: Placeholder White-haired Old man
+10219 286: Placeholder White-haired Old man
+10220 287: Placeholder White-haired Old man
+23000 288: Tanith
+23010 289: White Mask Varré
+23020 290: Unused NPC
+23030 291: Unused NPC
+23040 292: Festering Fingerprint Vyke
+23050 293: Unused NPC
+23060 294: Unused NPC
+23070 295: Preceptor Seluvis
+23080 296: Unused NPC
+23090 297: Patches
+23100 298: Irina of Morne
+23110 299: Castellan Edgar
+23120 300: Castellan Jerren
+23130 301: Rya the Scout
+23140 302: Knight Diallos
+23150 303: Lanya
+23160 304: Sorceress Sellen
+23162 305: Sorceress Sellen
+23170 306: Unused NPC
+23180 307: Yura
+23190 308: D
+23192 309: D's Younger Sibling
+23200 310: Roderika
+23210 311: Kenneth Haight
+23220 312: Fia
+23230 313: Dung Eater
+23240 314: Sir Gideon Ofnir
+23250 315: Sorcerer Rogier
+23260 316: Knight Bernahl
+23270 317: Eleonora
+23280 318: Unused NPC
+23290 319: Lionel the Lionhearted
+23300 320: Unused NPC
+23310 321: Blackguard
+23320 322: Gelmir Spirit
+23330 323: Sorcerer Thops
+23340 324: Nepheli Loux
+23350 325: Reeling Rico
+23360 326: Vyke's Finger Maiden
+23370 327: Unused NPC
+23380 328: Finger Maiden
+23390 329: Ensha of the Royal Remains
+23400 330: Bloody Finger Ravenmount
+23410 331: Unused NPC
+23420 332: Human Boc
+23430 333: Bloody Finger Nerijus
+23440 334: Great Horned Tragoth
+23450 335: Old Knight Istvan
+23460 336: Rileigh the Idle
+23470 337: Juno Hoslow
+23480 338: Millicent
+23481 339: Millicent
+23490 340: Sage Gowry
+23500 341: Unused NPC
+23510 342: Brother Corhyn
+23520 343: Preceptor Miriam
+23530 344: Anastasia
+23540 345: Unused NPC
+23550 346: Bloody Figner Okina
+23560 347: Adan
+23570 348: Unused NPC
+23580 349: Unused NPC
+23590 350: Moongrum
+23600 351: Vargram
+23610 352: Fia's Champion
+23611 353: Fia's Champion
+23612 354: Fia's Champion
+23620 355: Unused NPC
+23630 356: Finger Maiden Therolina
+23640 357: Dolores the Sleeping Arrow
+23650 358: Jarwight
+23660 359: Unused NPC
+23670 360: Inaba
+23680 361: Silver Tear
+23681 362: Silver Tear
+23682 363: Silver Tear
+23683 364: Silver Tear
+23690 365: Recusant Henricus
+23700 366: Unused NPC
+23710 367: Unused NPC
+23720 "368: Maleigh Marais
+23730 369: Knight of the Great Jar
+23740 370: Knight of the Great Jar
+23750 371: Knight of the Great Jar
+23760 372: Necromancer Garris
+23770 373: Nameless White Mask
+23780 374: Unused NPC
+23790 375: Unused NPC
+23800 376: Errant Sorcerer Wilhelm
+23810 377: Unused NPC
+23820 378: Chief Guardian Arganthy
+23830 379: Flame Guardian
+23840 380: Inquisitor Ghiza
+23850 381: Mad Tongue Alberich
+23860 382: Esgar
+23870 383: Mary
+23880 384: Maureen
+23890 385: Amy
+23900 386: Polyanna
+23910 387: Brave
+27000 388: Carian
+27001 389: Brave (Altered)
+27002 390: Vagabond
+27003 391: Guilty
+27900 392: Placeholder Female
+30000 393: Ghoul
+30001 394: Placeholder White-haired Old man
+30019 395: Placeholder Male
+30020 396: Placeholder Male
+30021 397: Placeholder Male
+30022 398: Placeholder Male
+30023 399: Placeholder Male
+30024 400: Placeholder Male
+30025 401: Placeholder Male
+30026 402: Placeholder Male
+30027 403: Placeholder Male
+30028 404: Placeholder Male
+30029 405: Placeholder Male
+30030 406: Placeholder Male
+30031 407: Placeholder Male
+30032 408: Placeholder Male
+30033 409: Placeholder Male
+30034 410: Placeholder Male
+30035 411: Placeholder Male
+30036 412: Placeholder Male
+30037 413: Placeholder Male
+30038 414: Placeholder Male
+30039 415: Placeholder Male
+30040 416: Placeholder Male
+30041 417: Placeholder Male
+30042 418: Placeholder Male
+30043 419: Placeholder Male
+30044 420: Placeholder Male
+30045 421: Placeholder Male
+30046 422: Placeholder Male
+30047 423: Placeholder Male
+30048 424: Placeholder Male
+30049 425: Placeholder Male
+30050 426: Placeholder Male
+30051 427: Placeholder Male
+30052 428: Placeholder Male
+30053 429: Placeholder Male
+30054 430: Placeholder Male
+30055 431: Placeholder Male
+30056 432: Placeholder Male
+30057 433: Placeholder Male
+30058 434: Placeholder Male
+30059 435: Placeholder Male
+30060 436: Placeholder Male
+30061 437: Placeholder Male
+30062 438: Placeholder Male
+30063 439: Placeholder Male
+30064 440: Placeholder Male
+30065 441: Placeholder Male
+30066 442: Placeholder Male
+30067 443: Placeholder Male
+30068 444: Placeholder Male
+30069 445: Placeholder Female
+30070 446: Placeholder Male
+30071 447: Placeholder Male
+30072 448: Placeholder Male
+30073 449: Placeholder Male
+30074 450: Placeholder Male
+30075 451: Placeholder Male
+30076 452: Placeholder Male
+30077 453: Placeholder Male
+30078 454: Placeholder Male
+30079 455: Placeholder Female
+30080 456: Placeholder Male
+30081 457: Placeholder Male
+30082 458: Placeholder Male
+30083 459: Placeholder Male
+30084 460: Placeholder Male
+30085 461: Placeholder Male
+30086 462: Placeholder Male
+30087 463: Placeholder Male
+30088 464: Placeholder Male
+30089 465: Placeholder Male
+30090 466: Placeholder Male
+30091 467: Placeholder Male
+30092 468: Placeholder Male
+30093 469: Placeholder Male
+30094 470: Placeholder Male
+30095 471: Placeholder Male
+30096 472: Placeholder Male
+30097 473: Placeholder Male
+30098 474: Placeholder Male
+30099 475: Placeholder Blonde Male
+30100 476: Placeholder Blonde Female
+30101 477: Placeholder Female
+30102 478: Placeholder Scarred Male
+30103 479: Placeholder Short-haired Male
+30104 480: Placeholder Black-haired Female
+30105 481: Placeholder Brown-haired Female
+30106 482: Placeholder Brown-haired Millicent?
+30107 483: Placeholder Black-haired Female
+30108 484: Placeholder Brown-haired Female
+30109 485: Placeholder Male
+30110 486: Placeholder Male
+30111 487: Placeholder Male
+30112 488: Placeholder Male
+30113 489: Placeholder Male
+30114 490: Placeholder Male
+30115 491: Placeholder Male
+30116 492: Placeholder Male
+30117 493: Placeholder Dark-skinned Male
+30118 494: Placeholder Dark-skinned Male
+30119 495: Placeholder Dark-skinned Female
+30120 496: Placeholder Dark-skinned Female
+30121 497: Placeholder Dark-skinned Female
+30122 498: Placeholder Dark-skinned Female
+30123 499: Placeholder Dark-skinned Female
+30124 500: Placeholder Dark-skinned Female
+30125 501: Placeholder Male
+30126 502: Placeholder Male
+30127 503: Placeholder Dark-skinned White-haired Female
+30128 504: Placeholder Dark-skinned White-haired Female
+30129 505: Placeholder Dark-skinned White-haired Female
+30130 506: Placeholder Dark-skinned White-haired Female
+30131 507: Placeholder Dark-skinned White-haired Female
+30132 508: Placeholder Dark-skinned White-haired Female
+30133 509: Placeholder Asian Male
+30134 510: Placeholder Asian Male
+30135 511: Placeholder Asian Male
+30136 512: Placeholder Male
+30137 513: Placeholder Burnt Body Male
+80000 514: Placeholder Frenzied Male
+81000 515: Placeholder Eyeless Male
+81001 516: Placeholder Dragon Male
+81002 517: Placeholder Silver-Eyed Male
+81003 518: Placeholder Eyeless Male
+90000 519: Placeholder Eyeless Male
+90001 520: Placeholder Eyeless Male
+90002 521: Placeholder Eyeless Male
+90003 522: Placeholder Eyeless Male
+90004 523: Placeholder Eyeless Male
+90005 524: Placeholder Bald Male
+91000 525: Placeholder Bald Male
+91001 526: Placeholder Bald Male
+91002 527: Placeholder Bald Male
+91003 528: Placeholder Bald Male
+91004 529: Placeholder Bald Male
+91005 530: Placeholder Bald Male
+91006 531: Placeholder Bald Male
+91007 532: Placeholder Bald Male
+91008 533: Placeholder Bald Male
+91009 534: Placeholder Bald Male
+91010 535: Placeholder Bald Male
+91011 536: Placeholder Bald Male
+99991 537: Placeholder Bald Male
+99992 538: Placeholder Bald Male
+2024030 539: Igon
+2024032 540: Igon
+2024060 541: Dragon Communion Priestess
+2024070 542: Ancient Dragon-Man
+2024090 543: Swordhand of Night Jolán
+2024120 544: Swordhand of Night Anna
+2024130 545: Fire Knight Queelign
+2024140 546: Hornsent
+2024150 547: Moore
+2024160 548: Sir Ansbach
+2024170 549: Redmane Freyja
+2024180 550: Needle Knight Leda
+2024190 551: Thiollier
+2024200 552: Count Ymir
+2024201 553: Count Ymir
+2024210 554: Red Bear
+2024220 555: Dancer of Ranah
+2024230 556: Rakshasa
+2024240 557: Knight of the Solitary Gaol
+2024250 558: Dryleaf Dane
+2024260 559: Sanguine Noble Nataan
+2024270 560: Lamenter
+2024280 561: Greater Potentate
+2024290 562: Madding Hand
+2024310 563: Logur
+2024320 564: Moonrithyll

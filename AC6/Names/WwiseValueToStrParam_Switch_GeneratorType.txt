@@ -1,3 +1,3 @@
-0 usually -- 通常
-1 EN(Blue) -- EN(青)
-2 coral -- コーラル
+0 Normal
+1 Energy
+2 Coral

@@ -1,126 +1,126 @@
-0 R1 attack, R1 attack combo -- R1攻撃、R1攻撃コンボ
-1 Bow + magic reservoir -- 弓＋魔法溜め
-2 R2 attack, R2 attack combo -- R2攻撃、R2攻撃コンボ
-3 Bow + magic reservoir -- 弓＋魔法溜め
-4 L1 attack, L1 attack combo -- L1攻撃、L1攻撃コンボ
-6 Bow + magic reservoir -- 弓＋魔法溜め
-7 Parry, Arts: Ax -- パリィ、アーツ：斧
-8 Arts: stance -- アーツ：構え
-9 spare -- 予備
-10 kick -- キック
-11 jump attack -- ジャンプアタック
-12 One-handed/two-handed switching -- 片手/両手切り替え
-13 item use -- アイテム使用
-14 spare -- 予備
-15 back step -- バックステップ
-16 left weapon switch -- 左武器切り替え
-17 Switch right weapon -- 右武器切り替え
-18 Move ↑ -- 移動　↑
-19 Move ↑← -- 移動　↑←
-20 Move ↑→ -- 移動　↑→
-21 Move ← -- 移動　←
-22 Move → -- 移動　→
-23 Move ↓ -- 移動　↓
-24 Move ↓← -- 移動　↓←
-25 Move ↓→ -- 移動　↓→
-26 Guard movement ↑ -- ガード移動　↑
-27 Guard movement ↑← -- ガード移動　↑←
-28 Guard movement ↑→ -- ガード移動　↑→
-29 Guard movement ← -- ガード移動　←
-30 Guard movement → -- ガード移動　→
-31 Guard movement ↓ -- ガード移動　↓
-32 Guard movement ↓← -- ガード移動　↓←
-33 Guard movement ↓→ -- ガード移動　↓→
-34 dash move -- ダッシュ移動
-35 Guard dash move -- ガードダッシュ移動
-36 Rolling ↑ -- ローリング　↑
-37 Rolling ↑← -- ローリング　↑←
-38 Rolling ↑→ -- ローリング　↑→
-39 Rolling ← -- ローリング　←
-40 Rolling → -- ローリング　→
-41 Rolling ↓ -- ローリング　↓
-42 Rolling ↓← -- ローリング　↓←
-43 Rolling ↓→ -- ローリング　↓→
-48 Arts R1 attack -- アーツR1攻撃
-49 Arts R2 attack -- アーツR2攻撃
-50 Lockstep ↑ -- ロックステップ　↑
-51 Lock step ↑← -- ロックステップ　↑←
-52 Lockstep ↑→ -- ロックステップ　↑→
-53 Lockstep ← -- ロックステップ　←
-54 Lockstep → -- ロックステップ　→
-55 Lock step ↓ -- ロックステップ　↓
-56 Lock step ↓← -- ロックステップ　↓←
-57 Lock step ↓→ -- ロックステップ　↓→
-58 Arts stance movement ↑ -- アーツ構え移動　↑
-59 Arts stance movement ↑← -- アーツ構え移動　↑←
-60 Arts stance movement ↑→ -- アーツ構え移動　↑→
-61 Arts stance movement ← -- アーツ構え移動　←
-62 Arts stance movement → -- アーツ構え移動　→
-63 Arts stance movement ↓ -- アーツ構え移動　↓
-64 Arts stance movement ↓← -- アーツ構え移動　↓←
-65 Arts stance movement ↓→ -- アーツ構え移動　↓→
-66 Arts stance R1 attack ↑ -- アーツ構えR1攻撃　↑
-67 Arts stance R1 attack ↑← -- アーツ構えR1攻撃　↑←
-68 Arts stance R1 attack ↑→ -- アーツ構えR1攻撃　↑→
-69 Arts stance R1 attack ← -- アーツ構えR1攻撃　←
-70 Arts stance R1 attack → -- アーツ構えR1攻撃　→
-71 Arts stance R1 attack ↓ -- アーツ構えR1攻撃　↓
-72 Arts stance R1 attack ↓← -- アーツ構えR1攻撃　↓←
-73 Arts stance R1 attack ↓→ -- アーツ構えR1攻撃　↓→
-74 Arts stance R2 attack ↑ -- アーツ構えR2攻撃　↑
-75 Arts stance R2 attack ↑← -- アーツ構えR2攻撃　↑←
-76 Arts stance R2 attack ↑→ -- アーツ構えR2攻撃　↑→
-77 Arts stance R2 attack ← -- アーツ構えR2攻撃　←
-78 Arts stance R2 attack → -- アーツ構えR2攻撃　→
-79 Arts stance R2 attack ↓ -- アーツ構えR2攻撃　↓
-80 Arts stance R2 attack ↓← -- アーツ構えR2攻撃　↓←
-81 Arts stance R2 attack ↓→ -- アーツ構えR2攻撃　↓→
-82 Shield Chiku R1 attack -- 盾チクR1攻撃
-83 Shield Chiku R2 attack (reserve) -- 盾チクR2攻撃(予備)
-90 ladder, up -- はしご、上り
-91 ladder, down -- はしご、下り
+0 NPC_ATK_R1 
+1 NPC_ATK_R1_Hold 
+2 NPC_ATK_R2 
+3 NPC_ATK_R2_Hold 
+4 NPC_ATK_L1 
+6 NPC_ATK_L1Hold 
+7 NPC_ATK_L2 
+8 NPC_ATK_L2Hold 
+9 NPC_ATK_L3 
+10 NPC_ATK_Up_R1 
+11 NPC_ATK_Up_R2 
+12 NPC_ATK_ButtonTriangle 
+13 NPC_ATK_ButtonSquare 
+14 NPC_ATK_ButtonCircle 
+15 NPC_ATK_ButtonXmark 
+16 NPC_ATK_ArrowKeyLeft 
+17 NPC_ATK_ArrowKeyRight 
+18 NPC_ATK_Up 
+19 NPC_ATK_UpLeft 
+20 NPC_ATK_UpRight 
+21 NPC_ATK_Left 
+22 NPC_ATK_Right 
+23 NPC_ATK_Down 
+24 NPC_ATK_DownLeft 
+25 NPC_ATK_DownRight 
+26 NPC_ATK_Up_L1Hold 
+27 NPC_ATK_UpLeft_L1Hold 
+28 NPC_ATK_UpRight_L1Hold 
+29 NPC_ATK_Left_L1Hold 
+30 NPC_ATK_Right_L1Hold 
+31 NPC_ATK_Down_L1Hold 
+32 NPC_ATK_DownLeft_L1Hold 
+33 NPC_ATK_DownRight_L1Hold 
+34 NPC_ATK_UpHold_ButtonXmarkHold 
+35 NPC_ATK_UpHold_ButtonXmarkHold_L2Hold 
+36 NPC_ATK_Up_ButtonXmark 
+37 NPC_ATK_UpLeft_ButtonXmark 
+38 NPC_ATK_UpRight_ButtonXmark 
+39 NPC_ATK_Left_ButtonXmark 
+40 NPC_ATK_Right_ButtonXmark 
+41 NPC_ATK_Down_ButtonXmark 
+42 NPC_ATK_DownLeft_ButtonXmark 
+43 NPC_ATK_DownRight_ButtonXmark 
+48 NPC_ATK_L2Hold_R1 
+49 NPC_ATK_L2Hold_R2 
+50 NPC_ATK_Up_L2 
+51 NPC_ATK_UpLeft_L2 
+52 NPC_ATK_UpRight_L2 
+53 NPC_ATK_Left_L2 
+54 NPC_ATK_Right_L2 
+55 NPC_ATK_Down_L2 
+56 NPC_ATK_DownLeft_L2 
+57 NPC_ATK_DownRight_L2 
+58 NPC_ATK_UpHold_L2Hold 
+59 NPC_ATK_UpLeftHold_L2Hold 
+60 NPC_ATK_UpRightHold_L2Hold 
+61 NPC_ATK_LeftHold_L2Hold 
+62 NPC_ATK_RightHold_L2Hold 
+63 NPC_ATK_DownHold_L2Hold 
+64 NPC_ATK_DownLeftHold_L2Hold 
+65 NPC_ATK_DownRightHold_L2Hold 
+66 NPC_ATK_UpHold_L2Hold_R1 
+67 NPC_ATK_UpLeftHold_L2Hold_R1 
+68 NPC_ATK_UpRightHold_L2Hold_R1 
+69 NPC_ATK_LeftHold_L2Hold_R1 
+70 NPC_ATK_RightHold_L2Hold_R1 
+71 NPC_ATK_DownHold_L2Hold_R1 
+72 NPC_ATK_DownLeftHold_L2Hold_R1 
+73 NPC_ATK_DownRightHold_L2Hold_R1 
+74 NPC_ATK_UpHold_L2Hold_R2 
+75 NPC_ATK_UpLeftHold_L2Hold_R2 
+76 NPC_ATK_UpRightHold_L2Hold_R2 
+77 NPC_ATK_LeftHold_L2Hold_R2 
+78 NPC_ATK_RightHold_L2Hold_R2 
+79 NPC_ATK_DownHold_L2Hold_R2 
+80 NPC_ATK_DownLeftHold_L2Hold_R2 
+81 NPC_ATK_DownRightHold_L2Hold_R2 
+82 NPC_ATK_L1Hold_R1 
+83 NPC_ATK_L1Hold_R2 
+90 NPC_ATK_LadderUp 
+91 NPC_ATK_LadderDown 
 92 left handed weapon two handed -- 左手武器両手持ち
-93 get on -- 乗る
-94 get off -- 降りる
-100 Gesture ID00 -- ジェスチャID00
-101 Gesture ID01 -- ジェスチャID01
-102 Gesture ID02 -- ジェスチャID02
-103 Gesture ID03 -- ジェスチャID03
-104 Gesture ID04 -- ジェスチャID04
-105 Gesture ID05 -- ジェスチャID05
-106 Gesture ID06 -- ジェスチャID06
-107 Gesture ID07 -- ジェスチャID07
-108 Gesture ID08 -- ジェスチャID08
-109 Gesture ID09 -- ジェスチャID09
-110 Gesture ID10 -- ジェスチャID10
-111 Gesture ID11 -- ジェスチャID11
-112 Gesture ID12 -- ジェスチャID12
-113 Gesture ID13 -- ジェスチャID13
-114 Gesture ID14 -- ジェスチャID14
-115 Gesture ID15 -- ジェスチャID15
-116 Gesture ID16 -- ジェスチャID16
-117 Gesture ID17 -- ジェスチャID17
-118 Gesture ID18 -- ジェスチャID18
-119 Gesture ID19 -- ジェスチャID19
-120 Gesture ID20 -- ジェスチャID20
-121 Gesture ID21 -- ジェスチャID21
-122 Gesture ID22 -- ジェスチャID22
-123 Gesture ID23 -- ジェスチャID23
-124 Gesture ID24 -- ジェスチャID24
-125 Gesture ID25 -- ジェスチャID25
-126 Gesture ID26 -- ジェスチャID26
-127 Gesture ID27 -- ジェスチャID27
-128 Gesture ID28 -- ジェスチャID28
-129 Gesture ID29 -- ジェスチャID29
-130 Gesture ID30 -- ジェスチャID30
-131 Gesture ID31 -- ジェスチャID31
-132 Gesture ID32 -- ジェスチャID32
-133 Gesture ID33 -- ジェスチャID33
-134 Gesture ID34 -- ジェスチャID34
-135 Gesture ID35 -- ジェスチャID35
-136 Gesture ID36 -- ジェスチャID36
-137 Gesture ID37 -- ジェスチャID37
-138 Gesture ID38 -- ジェスチャID38
-139 Gesture ID39 -- ジェスチャID39
+93 NPC_ATK_RideMount 
+94 NPC_ATK_RideDismount 
+100 NPC_ATK_Gesture00 
+101 NPC_ATK_Gesture01 
+102 NPC_ATK_Gesture02 
+103 NPC_ATK_Gesture03 
+104 NPC_ATK_Gesture04 
+105 NPC_ATK_Gesture05 
+106 NPC_ATK_Gesture06 
+107 NPC_ATK_Gesture07 
+108 NPC_ATK_Gesture08 
+109 NPC_ATK_Gesture09 
+110 NPC_ATK_Gesture10 
+111 NPC_ATK_Gesture11 
+112 NPC_ATK_Gesture12 
+113 NPC_ATK_Gesture13 
+114 NPC_ATK_Gesture14 
+115 NPC_ATK_Gesture15 
+116 NPC_ATK_Gesture16 
+117 NPC_ATK_Gesture17 
+118 NPC_ATK_Gesture18 
+119 NPC_ATK_Gesture19 
+120 NPC_ATK_Gesture20 
+121 NPC_ATK_Gesture21 
+122 NPC_ATK_Gesture22 
+123 NPC_ATK_Gesture23 
+124 NPC_ATK_Gesture24 
+125 NPC_ATK_Gesture25 
+126 NPC_ATK_Gesture26 
+127 NPC_ATK_Gesture27 
+128 NPC_ATK_Gesture28 
+129 NPC_ATK_Gesture29 
+130 NPC_ATK_Gesture30 
+131 NPC_ATK_Gesture31 
+132 NPC_ATK_Gesture32 
+133 NPC_ATK_Gesture33 
+134 NPC_ATK_Gesture34 
+135 NPC_ATK_Gesture35 
+136 NPC_ATK_Gesture36 
+137 NPC_ATK_Gesture37 
+138 NPC_ATK_Gesture38 
+139 NPC_ATK_Gesture39 
 140 Gesture ID40 -- ジェスチャID40
 141 Non-input -- 非入力

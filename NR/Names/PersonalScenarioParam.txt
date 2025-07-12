@@ -1,0 +1,186 @@
+1000 Wylder: Chapter 1
+1001 Wylder: Chapter 2
+1002 Wylder: Chapter 3
+1010 Wylder: [Obj] Talk to the Iron Menial
+1020 Wylder: [Obj] Find a whetstone in Limveld
+1030 Wylder: [Obj] Give slate whetstone to Iron Menial
+1040 Wylder: [Obj] Look at the mended finery offered by the Iron Menial
+1050 Wylder: [Obj] Hold both earrings up to light
+1060 Wylder: [Obj] Return the mended earring to
+the Duchess
+1061 Wylder: Chapter 4
+1062 Wylder: Chapter 5
+1070 Wylder: [Obj] Find the change to the Roundtable Hold
+1080 Wylder: [Obj] Talk to the Iron Menial
+1090 Wylder: [Obj] Talk to the Duchess
+1091 Wylder: Chapter 6
+1092 Wylder: Chapter 7
+1100 Wylder: [Obj] Examine letter
+1101 Wylder: [Obj] Find the chest that the key will fit
+1110 Wylder: [Obj] Talk to the Recluse
+1120 Wylder: [Obj] Talk to the Iron Menial about finding a silver tear
+1130 Wylder: [Obj] Find a silver tear in Limveld
+1131 Wylder: [Obj] Talk to the Iron Menial about finding a silver tear
+1132 Wylder: Chapter 8
+1140 Wylder: 
+1170 Wylder: Chapter 9
+2000 Duchess: Chapter 1
+2001 Duchess: Chapter 2
+2009 Duchess: Chapter 3
+2010 Duchess: [Obj] Talk to the Raider
+2020 Duchess: [Obj] Talk to the Wylder
+2030 Duchess: [Obj] Talk to the Raider
+2040 Duchess: [Obj] Find armament maintenance materials in Limveld
+2050 Duchess: [Obj] Give golden dew to the Wylder
+2060 Duchess: [Obj] Talk to the Raider
+2070 Duchess: [Obj] Talk to the Revenant
+2080 Duchess: [Obj] Talk to the Iron Menial about the Wylder
+2081 Duchess: Chapter 4
+2082 Duchess: Chapter 5
+2090 Duchess: [Obj] Find the Wylder
+2100 Duchess: [Obj] Talk to the Iron Menial about pita bread
+2101 Duchess: Chapter 6
+2110 Duchess: [Obj] Talk to the Raider or the Revenant
+2120 Duchess: [Obj] Find the message in Limveld
+2130 Duchess: [Obj] Talk to the Raider or the Revenant
+2135 Duchess: [Obj] Talk to the Revenant
+2140 Duchess: [Obj] Confront the Revenant
+2141 Duchess: Chapter 7
+2142 Duchess: Chapter 8
+2150 Duchess: [Obj] Bless the iron coin
+2160 Duchess: [Obj] Talk to the Iron Menial
+2170 Duchess: [Obj] Give the blessed iron coin to the Iron Menial
+2180 Duchess: [Obj] Talk to the Wylder
+2190 Duchess: [Obj] Talk to the Iron Menial
+2191 Duchess: Chapter 9
+3000 Raider: Chapter 1
+3010 Raider: Chapter 2
+3011 Raider:
+3020 Raider: [Obj] Talk to the Iron Menial
+3030 Raider: [Obj] Touch the stone monument
+3040 Raider: [Obj] Talk to the Iron Menial
+3050 Raider: [Obj] Touch the stone monument
+3060 Raider: [Obj] Talk to the Iron Menial
+3061 Raider: [Obj] Touch the stone monument
+3062 Raider: [Obj] Talk to the Iron Menial
+3070 Raider: Chapter 3
+3080 Raider: Chapter 4
+3090 Raider: 
+3100 Raider: [Obj] Talk to the Iron Menial
+3110 Raider: [Obj] Touch the stone monument
+3120 Raider: [Obj] Talk to the Iron Menial
+3130 Raider: Chapter 5
+3140 Raider: Chapter 6
+3150 Raider: Chapter 7
+3160 Raider: 
+3170 Raider: [Obj] Head to the shore
+3180 Raider: [Obj] Talk to the Iron Menial
+3190 Raider: [Obj] Touch the stone monument
+3200 Raider: [Obj] Talk to the Iron Menial
+3201 Raider: [Obj] Make an offering at the White Horn's grave
+3202 Raider: Chapter 8
+4000 Executor: Chapter 1
+4001 Executor: Chapter 2
+4010 Executor: [Obj] Talk to the Guardian
+4020 Executor: [Obj] Talk to the Priestess
+4030 Executor: [Obj] Find flowers in Limveld
+4040 Executor: [Obj] Talk to the Priestess
+4050 Executor: [Obj] Give the blessed flowers to the Iron Menial
+4060 Executor: [Obj] Paint a picture
+4070 Executor: [Obj] Conclude the remembrance
+4071 Executor: Chapter 3
+4072 Executor: Chapter 4
+4073 Executor: Chapter 5
+4074 Executor: Chapter 6
+4080 Executor: [Obj] Talk to the Priestess
+4090 Executor: [Obj] Find a golden sprout in Limveld
+4100 Executor: [Obj] Talk to the Priestess
+4110 Executor: [Obj] Conclude the remembrance
+4111 Executor: Chapter 7
+5000 Recluse: Chapter 1
+5001 Recluse: Chapter 2
+5010 Recluse: [Obj] Talk to the Iron Menial
+5020 Recluse: [Obj] Vanquish Night-tainted foes in Limveld and take evidence of the deed
+5030 Recluse: [Obj] Talk to the Iron Menial
+5040 Recluse: [Obj] Ask the Iron Menial for help
+5041 Recluse: Chapter 3
+5042 Recluse: Chapter 4
+5050 Recluse: [Obj] Take the Night Shard from the Iron Menial
+5060 Recluse: [Obj] Take the Night Shard from the Iron Menial
+5070 Recluse: [Obj] Find Vestige of Night
+5071 Recluse: Chapter 5
+5072 Recluse: Chapter 6
+5080 Recluse: [Obj] Find the person lurking in the Roundtable Hold
+5090 Recluse: [Obj] Talk to the Witch of the Wheel
+5100 Recluse: [Obj] Find the Iron Menial
+5110 Recluse: [Obj] Talk to the Iron Menial about the Witch of the Wheel
+5121 Recluse: Chapter 7
+5130 Recluse: [Obj] Perform a relic rite upon the bone-like stone and defeat the latest Nightlord
+5140 Recluse: [Obj] Talk to the Witch of the Wheel
+5150 Recluse: [Obj] Examine the robe left by the Witch of the Wheel
+5160 Recluse: Chapter 8
+6000 Ironeye: Chapter 1
+6001 Ironeye: Chapter 2
+6002 Ironeye: Chapter 3
+6003 Ironeye: Chapter 4
+6010 Ironeye: [Obj] Talk to the Priestess about the task
+6020 Ironeye: [Obj] Defeat the other Ironeye who has appeared in a cataclysm in Limveld
+6030 Ironeye: [Obj] Talk to the Priestess
+6031 Ironeye: Chapter 5
+6032 Ironeye: Chapter 6
+6040 Ironeye: [Obj] Talk to the Priestess
+6050 Ironeye: [Obj] Talk to the traitor
+6060 Ironeye: [Obj] Talk to the traitor
+6070 Ironeye: [Obj] Defeat the Darkdrift Knight in Limveld
+6080 Ironeye: [Obj] Execute the traitor
+6090 Ironeye: [Obj] Talk to the Priestess
+6091 Ironeye: Chapter 7
+6100 Ironeye: [Obj] Conclude the remembrance
+6101 Ironeye: Chapter 8
+7000 Guardian: Chapter 1
+7001 Guardian: Chapter 2
+7002 Guardian: Chapter 3
+7003 Guardian: Chapter 4
+7010 Guardian: [Obj] Talk to the Iron Menial
+7030 Guardian: [Obj] Defeat the Guardian Golem in Limveld
+7040 Guardian: [Obj] Talk to the Iron Menial
+7050 Guardian: [Obj] Talk to the Iron Menial
+7051 Guardian: Chapter 5
+7052 Guardian: Chapter 6
+7060 Guardian: [Obj] Speak to the visitor
+7070 Guardian: [Obj] Speak to the visitor
+7080 Guardian: [Obj] Look around the Roundtable Hold
+7090 Guardian: [Obj] Speak to the visitor
+7091 Guardian: Chapter 7
+7100 Guardian: [Obj] Talk to the Iron Menial
+7110 Guardian: [Obj] Find the demon merchant in Limveld
+7120 Guardian: [Obj] Talk to the Iron Menial
+7130 Guardian: [Obj] Talk to the Iron Menial
+7140 Guardian: [Obj] Talk to the Iron Menial
+7141 Guardian: Chapter 8
+7142 Guardian: Chapter 9
+7150 Guardian: [Obj] Investigate the study bookshelf
+7160 Guardian: [Obj] Investigate the study bookshelf
+7170 Guardian: [Obj] Talk to the Recluse
+7180 Guardian: [Obj] Punish or forgive the Recluse
+7190 Guardian: [Obj] Punish or forgive the Recluse
+7200 Guardian: [Obj] Conclude the remembrance
+7201 Guardian: Chapter 10
+8000 Revenant: Chapter 1
+8010 Revenant: [Obj] Talk to the Duchess
+8020 Revenant: [Obj] Talk to the Guardian
+8030 Revenant: [Obj] Defeat the Tricephalos or the
+Darkdrift Knight in Limveld
+8040 Revenant: [Obj] Talk to the Guardian
+8041 Revenant: Chapter 2
+8042 Revenant: Chapter 3
+8043 Revenant: Chapter 4
+8044 Revenant: Chapter 5
+8050 Revenant: [Obj] Talk to the Duchess
+8060 Revenant: [Obj] Talk to the Recluse
+8070 Revenant: [Obj] Sit upon the bench and face yourself
+8071 Revenant: Chapter 6
+8072 Revenant: Chapter 7
+8080 Revenant: [Obj] Talk to the Recluse
+8090 Revenant: [Obj] Sit upon the bench and face yourself
+8091 Revenant: Chapter 8

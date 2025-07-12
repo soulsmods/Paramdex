@@ -11,6 +11,10 @@
 10150602 [Black door] map start point -- 【黒扉】マップ開始地点
 10150650 In front of the building -- 【篝火】館の前
 10150655 【Bonfire】Basement Stairs Hidden Door Room -- 【篝火】地下室階段隠し扉部屋
+10150700 Brazier
+10150701 Brazier
+10150702 Brazier
+10150703 Brazier
 10151001 【Other】 The first organ destruction wall in the front of the insect key passage -- 【その他】 虫鍵通路正面奥のオーガ破壊壁１つ目
 10151002 【Other】 Oga destruction wall of the worm key passage side way -- 【その他】 虫鍵通路横道のオーガ破壊壁
 10151012 【Other】 Lantern_03 lit with insect key -- 【その他】 虫鍵で点灯するランタン_03
@@ -75,26 +79,28 @@
 10154000 【NPC】Tomb_Female Knight -- 【NPC】墓_女騎士
 10154001 【NPC】Tomb_Enclosed Man -- 【NPC】墓_封じられた人
 10154900 Insect Keys -- 虫鍵
-10155000 【Iron Treasure Chest 03】 The back of the passage between mirror knights -- 【鉄宝箱03】　ミラーナイトの間の通路奥
-10155010 【Iron Treasure Chest】 Lobby Top Floor Aisle -- 【鉄宝箱01】　ロビー最上階通路奥
-10155020 [Iron treasure chest 02] the back of the wall to be destroyed in the auger passage_Auga -- 【鉄宝箱02】　オーガ通路_オーガに壊させる壁の奥
-10156000 【Treasure Corpse 01】 Entrance Lobby_Bone Dragon Front -- 【宝死体01】　エントランスロビー_骨ドラゴン前
-10156010 【Treasure Corpse 02】 Between Mirror Night -- 【宝死体02】　ミラーナイトの間
-10156020 【Treasure Corpse 03】 Outside the Building -- 【宝死体03】　館の外_篝火小屋の脇
-10156030 【Treasure Corpse 04】 Auger Passage_Hanging Cage -- 【宝死体04】　オーガ通路_宙吊りの檻手前
-10156040 【Treasure Corpse】Cage room next to the auger passage -- 【宝死体08】　オーガ通路横の檻部屋
-10156050 [Treasure corpse] in front of the wall destruction auger of the body eye -- 【宝死体09】　2体目の壁破壊オーガ手前
-10156060 [Treasure corpse 10_human bone_whole body] in front of the giant basilrisk -- 【宝死体10_人骨_全身】　巨大バジリスクの前
-10156070 [Treasure corpse 05_ human bone_whole body] dungeon_right hand -- 【宝死体05_人骨_全身】　地下牢_右手前
-10156080 【Treasure Corpse】Outside the Building -- 【宝死体11】　館の外_篝火小屋脇
-10156090 【Treasure Corpse 12】 Outside the Building -- 【宝死体12】　館の外_左奥
-10156100 [Treasure corpse 06_ human bone_whole body] dungeon_wall -- 【宝死体06_人骨_全身】　地下牢_壁際
-10156110 [Treasure corpse 07_ human bone_whole body] dungeon_door back -- 【宝死体07_人骨_全身】　地下牢_扉奥
-10156120 [Treasure corpse 13_cow bone_head] dungeon -- 【宝死体13_牛骨_頭】　地下牢
-10156130 【Treasure corpse 14】 the back of the room in front of the dungeon_ shelf -- 【宝死体14】　地下牢手前の部屋_棚の裏
-10156140 【Treasure Corpse 15】 On the Experimental Room_Anatomy Table -- 【宝死体15】　実験部屋_解剖台の上
-10156150 【Treasure Corpse】Before lift to the guard dragon -- 【宝死体16】　守り竜へのリフト手前
-10156160 [Treasure corpse 17_human bone_whole body] dungeon_left hand wall -- 【宝死体17_人骨_全身】　地下牢_左手の壁
-10156170 【Treasure corpse 18】 Outside the building, the root of the tree on the left side -- 【宝死体18】　館の外_左脇の木の根元
-10156180 【Treasure Corpse 19】 Outside the Museum -- 【宝死体19】　館の外_水場
-10156190 【Treasure Corpse 20】 Left side of the entrance outside the building -- 【宝死体20】　館の外_入口の左脇
+10155000 [Chest] Treasure
+10155010 [Chest] Treasure
+10155020 [Chest] Treasure
+10155030 [Chest] Treasure
+10156000 [Corpse] Treasure
+10156010 [Corpse] Treasure
+10156020 [Corpse] Treasure
+10156030 [Corpse] Treasure
+10156040 [Corpse] Treasure
+10156050 [Corpse] Treasure
+10156060 [Corpse] Treasure
+10156070 [Corpse] Treasure
+10156080 [Corpse] Treasure
+10156090 [Corpse] Treasure
+10156100 [Corpse] Treasure
+10156110 [Corpse] Treasure
+10156120 [Corpse] Treasure
+10156130 [Corpse] Treasure
+10156140 [Corpse] Treasure
+10156150 [Corpse] Treasure
+10156160 [Corpse] Treasure
+10156170 [Corpse] Treasure
+10156180 [Corpse] Treasure
+10156190 [Corpse] Treasure
+10156200 [Corpse] Treasure

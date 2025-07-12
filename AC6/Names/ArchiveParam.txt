@@ -3,55 +3,55 @@
 102 Test archive_Garage acquisition_tips -- テスト用アーカイブ_ガレージ入手_tips
 110 Test archive_mission_log -- テスト用アーカイブ_ミッション_ログ
 120 Test Archive_Mission_Term -- テスト用アーカイブ_ミッション_用語
-13021500 thomas kirk -- トーマス・カーク
-13021510 monkey gord -- モンキー・ゴード
-13021520 G7 Harkler -- G7 ハークラー
-13021525 Raven -- レイヴン
-13021530 one-sided battle -- 一方的な戦闘
-13021540 deserted soldier -- 脱走した兵士
-13021550 steel haze -- スティールヘイズ
-13021560 BAWS 2nd Arsenal -- BAWS第2工廠
-13021570 encrypted communication -- 暗号化された通信
-13021580 soldier's dictation -- 兵士の口述筆記
-13021590 Communication to enemy aircraft -- 敵機への通信
-13021600 Communication with colleagues -- 同僚との通信
-13021610 Event archive_Encounter with the organization_00 -- イベント用アーカイブ_組織との出会い_00
-13021620 Event archive_Encounter with the organization_01 -- イベント用アーカイブ_組織との出会い_01
-13021630 Event archive_Encounter with the organization_02 -- イベント用アーカイブ_組織との出会い_02
-13021640 Event archive_Encounter with the organization_03 -- イベント用アーカイブ_組織との出会い_03
-13021650 Placement Archive_Mission 165 -- 配置用アーカイブ_ミッション165
-13021660 Placement Archive_Mission 166 -- 配置用アーカイブ_ミッション166
-13021670 Event Archive_Dolmayan's Essays_00 -- イベント用アーカイブ_ドルマヤンの随想録_00
-13021680 Event Archive_Dolmayan's Essays_01 -- イベント用アーカイブ_ドルマヤンの随想録_01
-13021690 Event Archive_Dolmayan's Essays_02 -- イベント用アーカイブ_ドルマヤンの随想録_02
-13021700 Event Archive_Dolmayan's Essays_03 -- イベント用アーカイブ_ドルマヤンの随想録_03
-13021710 Event Archive_Dolmayan's Essays_04 -- イベント用アーカイブ_ドルマヤンの随想録_04
-13021720 Event archive_Professor Nagai's dictation_00 -- イベント用アーカイブ_ナガイ教授の口述筆記_00
-13021730 Event archive_Professor Nagai's dictation_01 -- イベント用アーカイブ_ナガイ教授の口述筆記_01
-13021740 Event archive_Professor Nagai's dictation_02 -- イベント用アーカイブ_ナガイ教授の口述筆記_02
-13021750 Event archive_Professor Nagai's dictation_03 -- イベント用アーカイブ_ナガイ教授の口述筆記_03
-13021760 Event archive_Professor Nagai's dictation_04 -- イベント用アーカイブ_ナガイ教授の口述筆記_04
-13021770 Event archive_FNF's drawing_00 -- イベント用アーカイブ_FNFの画稿_00
-13021780 Event archive_FNF sketch_01 -- イベント用アーカイブ_FNFの画稿_01
-13021790 Event archive_FNF sketch_02 -- イベント用アーカイブ_FNFの画稿_02
-13021800 Event archive_FNF sketch_03 -- イベント用アーカイブ_FNFの画稿_03
-13021810 Event archive_FNF sketch_04 -- イベント用アーカイブ_FNFの画稿_04
-13021820 Event archive_FNF sketch_05 -- イベント用アーカイブ_FNFの画稿_05
-13021830 Event archive_FNF sketch_06 -- イベント用アーカイブ_FNFの画稿_06
-13021840 Observation data: Offshore city Xylem -- 観測データ：洋上都市ザイレム
-13021850 Audio recording: The end of G4 -- 音声記録：G4の最期
-13021860 Document data: Re-education center -- 文書データ：再教育センター
-13021870 Audio recording: researcher's dictation -- 音声記録：研究員の口述筆記
-13021880 Video recording: Parts performance test -- 映像記録：部品性能試験
-13021890 Placement Archive_Mission 189 -- 配置用アーカイブ_ミッション189
-13021900 Placement Archive_Mission 190 -- 配置用アーカイブ_ミッション190
-13021910 Placement Archive_Mission 191 -- 配置用アーカイブ_ミッション191
-13021920 Placement Archive_Mission 192 -- 配置用アーカイブ_ミッション192
-13021930 Placement Archive_Mission 193 -- 配置用アーカイブ_ミッション193
-13021940 Placement Archive_Mission 194 -- 配置用アーカイブ_ミッション194
-13021950 Placement Archive_Mission 195 -- 配置用アーカイブ_ミッション195
-13021960 Placement Archive_Mission 196 -- 配置用アーカイブ_ミッション196
-13021970 Placement Archive_Mission 197 -- 配置用アーカイブ_ミッション197
-13021980 Placement Archive_Mission 198 -- 配置用アーカイブ_ミッション198
-13021990 Placement Archive_Mission 199 -- 配置用アーカイブ_ミッション199
+13021500 License Code: Thomas Kirk
+13021510 License Code: Monkey Gordo
+13021520 License Code: G7 Hakra
+13021525 License Code: Raven
+13021530 System Log: One-Sided Engagement
+13021540 System Log: The Deserter
+13021550 Video Record: STEEL HAZE
+13021560 Video Record: BAWS Arsenal No. 2
+13021570 Comms Record: Rusty's Encoded Comms
+13021580 Text Data: The Well Dries
+13021590 Video Record: Communication Attempt
+13021600 Comms Record: Friendly Comms
+13021610 Observation Data: Coral Density Survey
+13021620 Observation Data: Terrain Survey
+13021630 Observation Data: Installations Survey
+13021640 Observation Data: Offshore Survey
+13021650 Video Record: Rubiconian Invective
+13021660 Comms Record: Doser Ravings
+13021670 Text Data: Dolmayan's Writings (1)
+13021680 Text Data: Dolmayan's Writings (2)
+13021690 Text Data: Dolmayan's Writings (3)
+13021700 Text Data: Dolmayan's Writings (4)
+13021710 Text Data: Dolmayan's Writings (5)
+13021720 Text Data: Professor Nagai's Log (1)
+13021730 Text Data: Professor Nagai's Log (2)
+13021740 Text Data: Professor Nagai's Log (3)
+13021750 Text Data: Professor Nagai's Log (4)
+13021760 Video Record: The Fires of Ibis
+13021770 Image Data: STV Sketch (3)
+13021780 Image Data: STV Sketch (4)
+13021790 Image Data: STV Sketch (1)
+13021800 Image Data: STV Sketch (2)
+13021810 Image Data: STV Sketch (6)
+13021820 Image Data: STV Sketch (5)
+13021830 Image Data: STK Sketch
+13021840 Observation Data: The City of Xylem
+13021850 Video Record: G4's Last Words
+13021860 Text Data: The Re-education Center
+13021870 Audio Record: Researcher's Log
+13021880 Video Record: Testing New Components
+13021890 Video Record: BAWS Guard's Last Words
+13021900 Video Record: The Collector's Last Words
+13021910 Comms Record: Message for Uncle
+13021920 Comms Record: Doser Chatter
+13021930 Comms Record: Coyote Chatter
+13021940 Comms Record: Independent Merc Comms
+13021950 Comms Record: Enforcement Squad Comms
+13021960 Observation Data: Wave Mutation Detected
+13021970 Observation Data: Blind Spots
+13021980 Observation Data: The Enforcement System
+13021990 Text Data: Professor Nagai's Log (5)
 13022000 Placement Archive_Mission 200 -- 配置用アーカイブ_ミッション200

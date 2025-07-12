@@ -1,0 +1,12 @@
+1 Wylder
+2 Guardian
+3 Ironeye
+4 Duchess / Priestess
+5 Raider
+6 Revenant
+7 Recluse
+8 Executor
+10 Iron Menial
+11 Witch of the Wheel
+12 Wandering Merchant
+13 Traitor

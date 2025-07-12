@@ -1,0 +1,20 @@
+0 A dummy to keep the "individual ID" displayed above. You can erase this dummy when adding an individual ID.
+1044380000 Bonfire flag
+1044380050 Initialization flag
+1044380100 System flag
+1044380200 Character flag (do not reset)
+1044380400 Character flag: Small exploration (do not reset)
+1044380500 Object flag (do not reset)
+1044380700 Conversation flag
+1044380800 Boss flag (do not reset)
+1044380900 For debugging/testing
+1044382100 System flag
+1044382200 Character flag (reset)
+1044382400 Character flag: Small exploration (reset)
+1044382500 Object flag (reset)
+1044382700 Conversation flag
+1044382800 Boss flag (reset)
+1044382900 For debugging/testing
+1044388500 Object act flag
+1048204350 For fixing respawn point: In front of Lava Mole
+1048204351 For fixing respawn point: Gunmen passage

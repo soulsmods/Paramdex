@@ -1,35 +1,38 @@
 0 test -- テスト
-3020000 Permanently resident -- 常駐
-3020001 Attenuation low 1 -- 減衰低め1
-3020002 low damping 2 -- 減衰低め2
-3020003 High damping 1 -- 減衰高め1
-3020004 High damping 2 -- 減衰高め2
-3050000 Permanently resident -- 常駐
-3100000 Permanently resident -- 常駐
-3150000 Permanently resident -- 常駐
-3150001 Permanently resident -- 常駐
-3200000 Permanently resident -- 常駐
-3400000 Permanently resident -- 常駐
-3600000 Permanently resident -- 常駐
-3700000 Permanently resident -- 常駐
-3700001 Permanently resident -- 常駐
-5020000 Permanently resident -- 常駐
-5020001 Permanently resident -- 常駐
-5020002 Permanently resident -- 常駐
-5100000 For transportation_light_01 -- 運搬用_軽_01
-5100001 For transportation_light_02 -- 運搬用_軽_02
-5100002 For transportation_light_03 -- 運搬用_軽_03
-5100003 For transportation_light_04 -- 運搬用_軽_04
-5100004 For transportation_heavy_01 -- 運搬用_重_01
-5100005 For transportation_heavy_02 -- 運搬用_重_02
-5300000 front left tentacle -- 左前触手
-5300001 right front tentacle -- 右前触手
-5300002 left rear tentacle -- 左後ろ触手
-5300003 right rear tentacle -- 右後ろ触手
-5500000 Permanently resident -- 常駐
-6100000 shin cover parts -- スネカバーパーツ
-6100001 Ankle cover parts 2 -- 足首カバーパーツ2
-7390000 Cable A -- ケーブルA
+3020000 Light MT
+3020001 Light MT
+3020002 Light MT
+3020003 Light MT
+3020004 Light MT
+3050000 PCA Subject Guard MT
+3100000 Xylem Wing Drone
+3150000 Juggernaut
+3150001 Juggernaut
+3200000 Ekdromoi
+3400000 BAWS Tetrapod MT
+3600000 RaD Tetrapod MT
+3700000 PCA Heavy MT
+3700001 PCA Heavy MT
+5020000 Smart Cleaner
+5020001 Smart Cleaner
+5020002 Smart Cleaner
+5100000 Quadcopter
+5100001 Quadcopter
+5100002 Quadcopter
+5100003 Quadcopter
+5100004 Quadcopter
+5100005 Quadcopter
+5300000 Tiny Laser Drone
+5300001 Tiny Laser Drone
+5300002 Tiny Laser Drone
+5300003 Tiny Laser Drone
+5500000 Mealworm
+6100000 Sea Spider
+6100001 Sea Spider
+7390000 Nepenthes
+8135000 Enforcer
+8145000 Enforcer (Flight Mode)
+8145001 Enforcer (Flight Mode)
 21400000 Shoulder weapon attachment for dummy poly -- 肩武器アタッチダミポリ用
 44000000 tank leg test -- タンク脚テスト
 21080000 Hecatoncheir torso test -- ヘカトンケイル胴体テスト

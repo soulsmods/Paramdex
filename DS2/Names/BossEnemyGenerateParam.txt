@@ -1,2 +1,3 @@
-504000 [Mirror Night] -- 【ミラーナイト】
-506100 [Alter ego of Agadulan] -- 【アガドゥランの分身】
+1 UNKNOWN
+504000 Looking Glass Knight
+506100 Darklurker

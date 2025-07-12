@@ -1,28 +1,40 @@
-10300000 [Lower soldier (deceased)]one-handed sword -- 【下級兵士（亡者）】片手剣
-10300010 [Lower soldier (deceased)]two-handed bow -- 【下級兵士（亡者）】両手弓
-10300034 [Lower class soldier (deceased)]One-handed sword: Aomue -- 【下級兵士（亡者）】片手剣：あおむけ
-10300041 [Lower soldier (deceased)]one-handed axe -- 【下級兵士（亡者）】片手斧：うつぶせ
-11300000 【Sailor(Dead)]Song Sword -- 【水兵（亡者）】曲剣
-11300003 [Sailor ( dead] is lying down on the desk -- 【水兵（亡者）】曲剣：机に突っ伏している
-11300005 【Sailor(Deceased)]Song Sword: Water Secret -- 【水兵（亡者）】曲剣：水ひそみ
-11300010 【Sailor(Dead)]Bow -- 【水兵（亡者）】弓
-11300020 [Sailor ( deceased] one-handed sword : small shield -- 【水兵（亡者）】片手剣：小盾
-11300022 [Sailor sei-sei- dead] one-handed sword - small shield - lying face down on the desk -- 【水兵（亡者）】片手剣：小盾：机に突っ伏している
-11300023 [Sailor (deceased)]One-handed sword: Small shield: Erdo -- 【水兵（亡者）】片手剣：小盾：エルード
-11300024 【Sailor(deceased)]One-handed sword: Small shield: Cabin -- 【水兵（亡者）】片手剣：小盾：船室
-11300025 【Sailor(deceased)]Song sword: Cabin -- 【水兵（亡者）】曲剣：船室
-11300051 [Sailor (deceased)]Song ken: Pier blockade 107 stairs fall surprise 104 -- 【水兵（亡者）】曲剣：桟橋封鎖107階段落下奇襲104
-12300200 [Shadow of the deformed person] Mask A:2 sword claw: hidden port] -- 【異形の影（生者）：仮面A：２刀爪：隠れ港】
-12302200 [Shadow of the deformed person] Mask B:2 Sword claw: Hidden Port] -- 【異形の影（生者）：仮面B：２刀爪：隠れ港】
-21300000 【Ishimori】 -- 【石守】
-21700000 [Hide in the Darkness] -- 【闇に隠れし者】
-22700000 【Wild Dog】 -- 【野犬】
-30330000 [Two-sided warrior: snake head] boss -- 【両面戦士：ヘビ頭】ボス
-72600000 NPC: Dwarf -- NPC：ドワーフ
-72600001 NPC: Dwarf -- NPC：ドワーフ（亡霊）
-75200000 NPC: Female Knight -- NPC：女騎士
-75200001 NPC: Female Knight (Ghost) -- NPC：女騎士（亡霊）
-75200002 NPC: Female Knight: White Spirit -- NPC：女騎士：白霊
-76600000 NPC: Sorcerer -- NPC：魔術屋
-76600001 NPC: Sorcerer (Ghost) -- NPC：魔術屋（亡霊）
-82000000 NPC Red Spirit -- NPC赤霊
+10300000 [REG:10300000] Hollow Infantry
+10300010 [REG:10300010] Hollow Infantry
+10300034 [REG:10300034] Hollow Infantry
+10300041 [REG:10300041] Hollow Infantry
+11300000 [REG:11300000] Varangian Sailor
+11300003 [REG:11300003] Varangian Sailor
+11300005 [REG:11300005] Varangian Sailor
+11300010 [REG:11300010] Varangian Sailor
+11300020 [REG:11300020] Varangian Sailor
+11300022 [REG:11300022] Varangian Sailor
+11300023 [REG:11300023] Varangian Sailor
+11300024 [REG:11300024] Varangian Sailor
+11300025 [REG:11300025] Varangian Sailor
+11300026 [REG:11300026] Varangian Sailor
+11300051 [REG:11300051] Varangian Sailor
+11300100 [REG:11300100] Varangian Sailor
+11300103 [REG:11300103] Varangian Sailor
+11300105 [REG:11300105] Varangian Sailor
+11300120 [REG:11300120] Varangian Sailor
+11300122 [REG:11300122] Varangian Sailor
+11300123 [REG:11300123] Varangian Sailor
+12300200 [REG:12300200] Suspicious Shadow
+12302200 [REG:12302200] Suspicious Shadow
+12701100 [REG:12701100] Undead Laborer
+21300000 [REG:21300000] Crystal Lizard
+21700000 [REG:21700000] Dark Stalker
+22700000 [REG:22700000] Stray Dog
+30200000 [REG:30200000] Undead Jailer
+30330000 [REG:30330000] Flexile Sentry [Boss]
+69400000 [REG:69400000] Forlorn
+69600000 [REG:69600000] Invisible Hollow
+72600000 [REG:72600000] Lonesome Gavlan
+72600001 [REG:72600001] Lonesome Gavlan
+75200000 [REG:75200000] Lucatiel of Mirrah
+75200001 [REG:75200001] Lucatiel of Mirrah
+75200002 [REG:75200002] Lucatiel of Mirrah
+76600000 [REG:76600000] Carhillion of the Fold
+76600001 [REG:76600001] Carhillion of the Fold
+80000000 [REG:80000000] Bradley of the Old Guard
+82000000 [REG:82000000] Aurous Knight Phantom

@@ -1,0 +1,50 @@
+0 基本
+1 ボス部屋
+2 封印の間
+3 白い通路
+4 白い通路と砂漠のつなぎ
+5 B0 封印の間 松明
+7 boss_torch
+8 torch
+9 PolyG-(39番)
+10 PolyG-scn180000(40番)
+11 PolyG-scn180015(41番)
+12 PolyG-scn180001(42番)
+13 PolyG-scn180001(43番)
+14 PolyG-scn180001(44番)
+15 B1松明　小
+16 B1松明　大
+17 フリューテッド天井
+18 gate_light
+20 B1室内
+21 B1室外
+22 B1下水
+23 B1教会
+24 B1つなぎ
+25 B1カラス降り場
+27 altar_light
+30 基本
+31 ボス部屋
+39 PolyG-PCPoint
+40 PolyG-scn180000
+41 PolyG-scn180015_器の光 強
+42 PolyG-scn180001
+43 PolyG-scn180001
+44 PolyG-scn180000-L
+45 B1松明　小
+46 B1松明　大
+47 フリューテッド天井
+50 B1室内
+51 B1室外
+52 B1下水
+53 B1教会
+54 B1つなぎ
+55 B1カラス降り場
+56 PolyG-scn180040,50-c0000
+57 PolyG-scn180015_器の光
+58 PolyG-scn180101_1stRoom
+59 PolyG-scn180101Room-Low
+60 PolyG-scn180101FaceUp
+61 PolyG-scn180101Room2
+62 PolyG-scn180101Room1
+63 PolyG-scn180101_fire

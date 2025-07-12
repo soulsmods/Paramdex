@@ -1,0 +1,119 @@
+290000 Revenant: Spirit Summon Spawn
+10030000 Fire Pot
+10032000 Lightning Pot
+10033000 Fetid Pot
+10034000 Swarm Pot
+10035000 Holy Water Pot
+10036000 Freezing Pot
+10037000 Poison Pot
+10039000 Alluring Pot
+10039100 Beastlure Pot
+10060000 Volcano Pot
+10064000 Sleep Pot
+10065000 Rancor Pot
+10066000 Magic Pot
+10067000 Rot Pot
+10170000 Throwing Dagger
+10172000 Poisonbone Dart
+10173000 Kukri
+10174000 Crystal Dart
+10175000 Fan Daggers
+10300000 Ancestral Infant's Head
+10301000 Omen Bairn
+10301100 Regal Omen Bairn
+10303000 Cuckoo Glintstone
+10305000 Glintstone Scrap
+10305100 Large Glintstone Scrap
+10306000 Gravity Stone Fan
+10307000 Gravity Stone Chunk
+10308000 Wraith Calling Bell
+10331000 Warming Stone
+10335000 Bewitching Branch
+10350000 Uplifting Aromatic
+10351000 Spark Aromatic
+10352000 Ironjar Aromatic
+10355000 Bloodboil Aromatic
+10358000 Poison Spraymist
+10361000 Acid Spraymist
+10800000 Recluse: Whirlwind of Flame
+10800001 Recluse: Whirlwind of Flame [Hit]
+10800002 Recluse: Whirlwind of Flame [Hit]
+10800003 Recluse: Whirlwind of Flame [Hit]
+10800100 Recluse: Magic Kernel
+10800101 Recluse: Magic Kernel [Hit]
+10800102 Recluse: Magic Kernel [Hit]
+10800103 Recluse: Magic Kernel [Hit]
+10800104 Recluse: Magic Kernel [Hit]
+10800105 Recluse: Magic Kernel [Hit]
+10800106 Recluse: Magic Kernel [Hit]
+10800107 Recluse: Magic Kernel [Hit]
+10800108 Recluse: Magic Kernel [Hit]
+10800200 Recluse: Lightning Step
+10800201 Recluse: Lightning Step [Hit]
+10800202 Recluse: Lightning Step [Hit]
+10800203 Recluse: Lightning Step [Hit]
+10800204 Recluse: Lightning Step [Hit]
+10800205 Recluse: Lightning Step [Hit]
+10800206 Recluse: Lightning Step [Hit]
+10800207 Recluse: Lightning Step [Hit]
+10800208 Recluse: Lightning Step [Hit]
+10801000 Recluse: Homing Wraith Flame
+10801001 Recluse: Homing Wraith Flame [Hit]
+10801002 Recluse: Homing Wraith Flame [Hit]
+10801003 Recluse: Homing Wraith Flame [Hit]
+10801004 Recluse: Homing Wraith Flame [Hit]
+10801005 Recluse: Homing Wraith Flame [Hit]
+10801006 Recluse: Homing Wraith Flame [Hit]
+10801007 Recluse: Homing Wraith Flame [Hit]
+10801008 Recluse: Homing Wraith Flame [Hit]
+10801009 Recluse: Homing Wraith Flame [Hit]
+10801010 Recluse: Homing Wraith Flame [Hit]
+10801011 Recluse: Homing Wraith Flame [Hit]
+10801012 Recluse: Homing Wraith Flame [Hit]
+10801013 Recluse: Homing Wraith Flame [Hit]
+10801014 Recluse: Homing Wraith Flame [Hit]
+10801015 Recluse: Homing Wraith Flame [Hit]
+10801016 Recluse: Homing Wraith Flame [Hit]
+10801017 Recluse: Homing Wraith Flame [Hit]
+10801100 Recluse: Magic Blade
+10801200 Recluse: Cerulean Veil
+10801201 Recluse: Cerulean Veil
+10801202 Recluse: Cerulean Veil
+10801300 Recluse: Flamebolt
+10801301 Recluse: Flamebolt
+10801400 Recluse: Warming Torch
+10801500 Recluse: Lightning Parry
+10802000 Recluse: Gravity Explosion
+10802001 Recluse: Gravity Explosion [Hit]
+10802002 Recluse: Gravity Explosion [Hit]
+10802003 Recluse: Gravity Explosion [Hit]
+10802004 Recluse: Gravity Explosion [Hit]
+10802005 Recluse: Gravity Explosion [Hit]
+10802007 Recluse: Gravity Explosion [Hit]
+10802008 Recluse: Gravity Explosion [Hit]
+10802009 Recluse: Gravity Explosion [Hit]
+10802100 Recluse: Elemental Breath
+10802101 Recluse: Elemental Breath
+10802200 Recluse: Ice Cacoon
+10802201 Recluse: Ice Cacoon
+10802202 Recluse: Ice Cacoon
+10802203 Recluse: Ice Cacoon
+10802204 Recluse: Ice Cacoon
+10802205 Recluse: Ice Cacoon
+10802206 Recluse: Ice Cacoon
+10802207 Recluse: Ice Cacoon
+10802208 Recluse: Ice Cacoon
+10802209 Recluse: Ice Cacoon
+10802210 Recluse: Ice Cacoon
+10802211 Recluse: Ice Cacoon
+10802212 Recluse: Ice Cacoon
+10802213 Recluse: Ice Cacoon
+10802214 Recluse: Ice Cacoon
+10802215 Recluse: Ice Cacoon
+10802216 Recluse: Ice Cacoon
+10802217 Recluse: Ice Cacoon
+10802218 Recluse: Ice Cacoon
+10802219 Recluse: Ice Cacoon
+10802300 Recluse: Lightning Rod
+10802301 Recluse: Lightning Rod
+11101600 Ruptured Crystal Tear

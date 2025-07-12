@@ -1,0 +1,15 @@
+0 Tricephalos
+1 Gaping Jaw
+2 Sentient Pest
+3 Augur
+4 Equilibrious Beast
+5 Darkdrift Knight
+6 Fissure in the Fog
+7 Night Aspect
+10 Tricephalos [Enhanced]
+11 Gaping Jaw [Enhanced]
+12 Sentient Pest [Enhanced]
+13 Augur [Enhanced]
+14 Equilibrious Beast [Enhanced]
+15 Darkdrift Knight [Enhanced]
+16 Fissure in the Fog [Enhanced]

@@ -1,0 +1,60 @@
+0 B0室内
+1 B0室内外つなぎ
+2 B0屋上部強ディフューズ
+3 B0ボス部屋
+4 B1室内
+5 B1樹内
+6 かまど
+7 B2巨樹内
+8 B2遠景
+9 B2遠景溶岩
+10 B0屋外
+11 B0屋外強スペキュラ
+12 B0屋外地底
+13 B2屋外上層
+14 B1暗部
+15 B0滝
+16 B0水面
+17 B2水面
+18 B2外下層
+19 B2座禅
+20 B2天球
+21 B2遠景霧
+22 B1霧
+23 B2天井霧
+24 B2 樹内　キャラ
+25 B2 ドラゴン樹　キャラ
+26 B2　地底　キャラ
+27 B1鍾乳洞
+28 B1地底湖
+29 B1地底湖水
+30 B1ボス
+31 B3屋内
+32 B1鍾乳洞　キャラ
+35 B1ボス　キャラ
+36 B3キャラ（屋内）
+37 B3キャラ（日陰）
+38 B0キャラ　ボス
+39 B2切り替え1
+40 B2切り替え2
+41 sky_new
+42 characters_from_id_5
+45 PolyG-scn130100-<MAP_Obj>
+46 PolyG-scn130100-<Chr>-faceup
+47 PolyG-scn130100-lstA
+48 PolyG-scn130100-lstB
+49 PolyG-scn130000-1影描写用
+50 PolyG-scn130000-2全景
+51 PolyG-scn130000-<CHR_OBJ_MAP>-cutAll-通常(pv)
+52 PolyG-scn130000-<c3320>-下と上から
+53 PolyG-scn130000-<c3320>-棺全景ショット
+54 PolyG-scn130000-三人羽織.・強
+55 PolyG-scn130000-三人羽織.ラストカット
+56 PolyG-scn130000-<CHR_OBJ_MAP>-cutAll-通常(pv)
+57 PolyG-
+58 PolyG-
+59 PolyG-
+60 PolyG-scn130020,130021,130120,130121-c0000
+61 PolyG-scn130010_MAP
+62 PolyG-scn130010
+63 PolyG-scn130010

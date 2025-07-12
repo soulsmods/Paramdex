@@ -1,7 +1,7 @@
 245 [GEN:245] Lonesome Gavlan
 246 [GEN:246] Lonesome Gavlan
-285 [GEN:285] Corpse Rat
-286 [GEN:286] Corpse Rat
+285 [GEN:285] Corpse Rat (Rat King)
+286 [GEN:286] Corpse Rat (Rat King)
 630 [GEN:630] Bowman Guthry
 631 [GEN:631] Bowman Guthry
 852 [GEN:852] Royal Rat Authority
@@ -18,6 +18,7 @@
 1800 [GEN:1800] Gyrm
 1900 [GEN:1900] Mongrel Rat
 2000 [GEN:2000] Hollow Primal Knight
+2100 [GEN:2100] NO MATCH
 2110 [GEN:2110] Mongrel Rat
 2120 [GEN:2120] Mongrel Rat
 2200 [GEN:2200] Gyrm

@@ -113,29 +113,34 @@
 20214000 【NPC】Tomb_Pilgrims in the Abyss -- 【NPC】墓_深淵の巡礼者
 20214200 【NPC】Tomb_Tsukimitsu Grandfather -- 【NPC】墓_月光爺
 20214300 【NPC】Tomb_Captive Girl -- 【NPC】墓_虜囚の少女
-20215000 【Iron Treasure Chest】Acid Pool -- 【鉄宝箱03】酸溜り上
-20215010 【Wooden Treasure Chest】Acid Pool -- 【木宝箱02】酸溜り奥
-20215020 【Wooden Treasure Chest】Golem Room Destination -- 【木宝箱05】 ゴーレム部屋先
-20215040 【Wooden Treasure Chest】Large Saloon -- 【木宝箱04_トラップ】大広間上
-20215050 [Iron Treasure Chest 02] Golem Door Back _Right Back -- 【鉄宝箱02】ゴーレム扉奥_右奥
-20215060 【Iron Treasure Chest】The Key of the Corridor -- 【鉄宝箱05】回廊の鍵
-20215070 【Iron Treasure Chest】One-way door room -- 【鉄宝箱01】一方通行扉の部屋
-20215080 【Iron Treasure Chest 03】 Right Side of The Main Gate -- 【鉄宝箱03】　正門右側
-20215090 【Iron Treasure Chest】Large Saloon -- 【鉄宝箱04】大広間上
-20215100 【Iron Treasure Chest】On the Corridor -- 【鉄宝箱06】回廊上
-20215110 【Iron Treasure Chest】On the Corridor -- 【鉄宝箱07】回廊上
-20215120 【Iron Treasure Chest 11】 Machine Room_Right -- 【鉄宝箱11】　機械室先_右
-20215130 [Iron Treasure Chest 08] Golem Door Back_Right Center -- 【鉄宝箱08】　ゴーレム扉奥_右中央
-20215140 [Iron treasure box 12] machine room destination_left -- 【鉄宝箱12】　機械室先_左
-20215150 [Iron treasure chest 10] lifting to Amana side -- 【鉄宝箱10】　アマナへの昇降機脇
-20216000 [Treasure corpse 01_human bone_whole body] golem door room_left center door back -- 【宝死体01_人骨_全身】　ゴーレム扉部屋_左中央の扉奥
-20216010 [Treasure corpse 02_human bone_whole body] cave of abyss NPC -- 【宝死体02_人骨_全身】　深淵NPCの洞窟
-20216020 [Treasure corpse 03_human bone_whole body] under the stairs of the golem door -- 【宝死体03_人骨_全身】　ゴーレム扉先の階段下
-20216030 [Treasure corpse 04_ human bone_whole body】 acid reservoir_stairs side -- 【宝死体04_人骨_全身】　酸溜り_階段脇
-20216040 [Treasure corpse 05_human bone_whole body] between masks -- 【宝死体05_人骨_全身】　仮面の間
-20216050 [Treasure corpse 10_human bone_whole body] outside the hidden bonfire room -- 【宝死体10_人骨_全身】　隠し篝火部屋の外
-20216060 [Treasure corpse 08_ human bone _whole body] corridor to mirror night_left -- 【宝死体08_人骨_全身】　ミラーナイトへの回廊_左
-20216070 [Treasure corpse 09_ human bone _ whole body] corridor to mirror night _ right -- 【宝死体09_人骨_全身】　ミラーナイトへの回廊_右
-20216080 [Treasure corpse 07_ human bone _ skull] corridor to mirror night -- 【宝死体07_人骨_頭骸骨】　ミラーナイトへの回廊手前
-20216090 【Treasure Corpse 11】 The shadow of the slope to The Castle of The Rock -- 【宝死体11】　王城への坂道_岩の陰
-20216100 【Treasure Corpse 06】 One-way door room -- 【宝死体06】　一方通行扉の部屋
+20215000 [Chest] Treasure
+20215010 [Chest] Treasure
+20215020 [Chest] Treasure
+20215050 [Chest] Treasure
+20215060 [Chest] Treasure
+20215070 [Chest] Treasure
+20215080 [Chest] Treasure
+20215090 [Chest] Treasure
+20215100 [Chest] Treasure
+20215110 [Chest] Treasure
+20215120 [Chest] Treasure
+20215130 [Chest] Treasure
+20215140 [Chest] Treasure
+20215150 [Chest] Treasure
+20215160 [Chest] Treasure
+20215170 [Chest] Treasure
+20216000 [Corpse] Treasure
+20216010 [Corpse] Treasure
+20216020 [Corpse] Treasure
+20216030 [Corpse] Treasure
+20216040 [Corpse] Treasure
+20216050 [Corpse] Treasure
+20216060 [Corpse] Treasure
+20216070 [Corpse] Treasure
+20216080 [Corpse] Treasure
+20216090 [Corpse] Treasure
+20216100 [Corpse] Treasure
+20216110 [Corpse] Treasure
+20216120 [Corpse] Treasure
+20216130 [Corpse] Treasure
+20216140 [Corpse] Treasure

@@ -1,0 +1,43 @@
+1000 Wylder's Urn
+1001 Wylder's Goblet
+1002 Wylder's Chalice
+1003 Soot-Covered Wylder's Urn
+1004 Sealed Wylder's Urn
+2000 Guardian's Urn
+2001 Guardian's Goblet
+2002 Guardian's Chalice
+2003 Soot-Covered Guardian's Urn
+2004 Sealed Guardian's Urn
+3000 Ironeye's Urn
+3001 Ironeye's Goblet
+3002 Ironeye's Chalice
+3003 Soot-Covered Ironeye's Urn
+3004 Sealed Ironeye's Urn
+4000 Duchess' Urn
+4001 Duchess' Goblet
+4002 Duchess' Chalice
+4003 Soot-Covered Duchess' Urn
+4004 Sealed Duchess' Urn
+5000 Raider's Urn
+5001 Raider's Goblet
+5002 Raider's Chalice
+5003 Soot-Covered Raider's Urn
+5004 Sealed Raider's Urn
+6000 Revenant's Urn
+6001 Revenant's Goblet
+6002 Revenant's Chalice
+6003 Soot-Covered Revenant's Urn
+6004 Sealed Revenant's Urn
+7000 Recluse's Urn
+7001 Recluse's Goblet
+7002 Recluse's Chalice
+7003 Soot-Covered Recluse's Urn
+7004 Sealed Recluse's Urn
+8000 Executor's Urn
+8001 Executor's Goblet
+8002 Executor's Chalice
+8003 Soot-Covered Executor's Urn
+8004 Sealed Executor's Urn
+19000 Sacred Erdtree Grail
+19001 Spirit Shelter Grail
+19002 Giant's Cradle Grail

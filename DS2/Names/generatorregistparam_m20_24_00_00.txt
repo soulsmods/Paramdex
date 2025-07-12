@@ -1,21 +1,34 @@
-12700100 Dead Workers Standing -- 死者の労働者（亡者）：立っている
-12700107 Dead workers ( dead): Tomb area coming out of the ground -- 死者の労働者（亡者）：地中から出てくる_墓エリア
-12700108 Dead workers( dead): Bell area coming out of the ground -- 死者の労働者（亡者）：地中から出てくる_鐘エリア
-12700109 Dead Workers ( Dead): Bell Aim The Room in Front of the Boss -- 死者の労働者（亡者）：鐘ねらい　ボス前の部屋
-12701100 Dead Workers (Dead): Tracking with Torches -- 死者の労働者（亡者）：松明を持って追尾
-15300300 [Kingdom Soldier Escort: Axe Spear] -- 【王国兵護衛兵：斧槍】
-15301300 [Kingdom soldier escort: extra large sword] -- 【王国兵護衛兵：特大剣】
-21600000 Door possessed -- 扉憑き
-31200100 [Immortal Senior Soldier (Immortal): Sickle: Robe] -- 【イモータル上級兵士（イモータル）：鎌：ローブ】
-31202100 [Immortal Senior Soldier (Immortal): Sickle: Armor] -- 【イモータル上級兵士（イモータル）：鎌：鎧】
-31203200 [Immortal Senior Soldier (Immortal): Spear: Armor] -- 【イモータル上級兵士（イモータル）：槍：鎧】
-33300000 [Queen Knight B] Boss -- 【王妃の騎士B】ボス
-50650000 【Tomb Amulet】 Npc -- 【墓守】NPC
-50650100 【Tomb Amulet】 NPC (Ghost) -- 【墓守】NPC（亡霊）
-50650900 【Tomb Amulet】 NPC_ White Phantom -- 【墓守】NPC_白ファントム
-50900000 Dark Bishop -- ダークビショップ
-51100001 [Phantom Knight (Spirit)] (Guard) -- 【ファントムナイト（霊体）】（ガード）
-51200003 Phantom Mage: Launch State 0 -- ファントムメイジ：起動ステート0
-51460000 Old King Npc -- 【年老いた王】NPC
-70050300 【Dragon Shrine Maiden】 Npc -- 【龍の巫女】NPC
-84900100 Tomb of Immortality: Dark Spirit 1 (Ghost) -- 不死廟：闇霊１（亡霊）
+12700100 [REG:12700100] Undead Laborer
+12700103 [REG:12700103] Undead Laborer
+12700105 [REG:12700105] Undead Laborer
+12700106 [REG:12700106] Undead Laborer
+12700107 [REG:12700107] Undead Laborer
+12700108 [REG:12700108] Undead Laborer
+12700109 [REG:12700109] Undead Laborer
+12701100 [REG:12701100] Undead Laborer
+13200000 [REG:13200000] Skeleton
+13200001 [REG:13200001] Skeleton
+15300300 [REG:15300300] Syan Knight
+15301300 [REG:15301300] Syan Knight
+20400000 [REG:20400000] Poison Moth
+21600000 [REG:21600000] Wall Ghost
+31200100 [REG:31200100] Grave Warden
+31202100 [REG:31202100] Grave Warden
+31203200 [REG:31203200] Grave Warden
+33300000 [REG:33300000] Velstadt [Boss]
+50650000 [REG:50650000] Grave Warden Agdayne
+50650100 [REG:50650100] Grave Warden Agdayne
+50650900 [REG:50650900] Grave Warden Agdayne
+50900000 [REG:50900000] Leydia Witch
+51100001 [REG:51100001] Imperious Knight
+51200003 [REG:51200003] Leydia Pyromancer
+51460000 [REG:51460000] Vendrick [Boss]
+61150000 [REG:61150000] Dragonrider
+69300000 [REG:69300000] Aldia- Scholar of the First Sin
+69400000 [REG:69400000] Forlorn (Scythe)
+69600000 [REG:69600000] Invisible Hollow
+69600100 [REG:69600100] Invisible Hollow
+70050300 [REG:70050300] Emerald Herald
+84900100 [REG:84900100] Nameless Usurper
+89150000 [REG:89150000] Devotee Scarlett
+91000000 [REG:91000000] Insolent Knight

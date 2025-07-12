@@ -1,0 +1,42 @@
+1 Character-specific: Wylder
+2 Character-specific: Guardian
+3 Character-specific: Ironeye
+4 Character-specific: Duchess
+5 Character-specific: Raider
+6 Character-specific: Revenant
+7 Character-specific: Recluse
+8 Character-specific: Executor
+50 Armament-specific: Dagger
+51 Armament-specific: Straight Sword
+52 Armament-specific: Greatsword
+53 Armament-specific: Colossal Sword
+54 Armament-specific: Curved Sword
+55 Armament-specific: Curved Greatsword
+56 Armament-specific: Katana
+57 Armament-specific: Twinblade
+58 Armament-specific: Thrusting Sword
+59 Armament-specific: Heavy Thrusting Sword
+60 Armament-specific: Axe
+61 Armament-specific: Greataxe
+62 Armament-specific: Hammer
+63 Armament-specific: Greathammer
+64 Armament-specific: Flail
+65 Armament-specific: Spear
+66 Armament-specific: Great Spear
+67 Armament-specific: Halberd
+68 Armament-specific: Reaper
+69 Armament-specific: Fist
+70 Armament-specific: Claw
+71 Armament-specific: Whip
+72 Armament-specific: Colossal Weapon
+73 Armament-specific: Bow
+74 Armament-specific: Staff
+75 Armament-specific: Seal
+76 Armament-specific: Small Shield
+77 Armament-specific: Medium Shield
+78 Armament-specific: Greatshield
+100 General: Stats
+101 General: Weapons and Skills
+102 General: Starting Equipment
+103 General: Affects Allies
+104 General: Permanent Effect

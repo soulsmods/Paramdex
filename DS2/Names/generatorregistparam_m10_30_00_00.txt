@@ -1,11 +1,17 @@
-10300020 [Lower soldier (deceased)]for one-handed sword_memory reading -- 【下級兵士（亡者）】片手剣_メモリ読み込み用
-10300030 [Lower soldier (deceased)]one-handed axe_memory reading -- 【下級兵士（亡者）】片手斧_メモリ読み込み用
-10300040 [Lower soldier (deceased)]for both hands bow_memory reading -- 【下級兵士（亡者）】両手弓_メモリ読み込み用
-11300000 [Sailor (deceased)]One-handed sword: Small shield_ for memory reading -- 【水兵（亡者）】片手剣：小盾_メモリ読み込み用
-11300010 [Sailor (deceased)]for reading song sword_memory -- 【水兵（亡者）】曲剣_メモリ読み込み用
-11300020 [Sailor (deceased)]for reading bow_memory -- 【水兵（亡者）】弓_メモリ読み込み用
-33000000 [Ancient Warrior] two-handed sword -- 【古代の戦士】両手剣＆中盾
-33000010 [Ancient Warrior] Oversized Sword -- 【古代の戦士】特大剣
-75200000 NPC: Female Knight_ For Memory Reading -- NPC：女騎士_メモリ読み込み用
-75200001 NPC: Female Knight (Ghost) _ For Memory Reading -- NPC：女騎士（亡霊）_メモリ読み込み用
-75200002 NPC: Female Knight: White Spirit_ For Memory Reading -- NPC：女騎士：白霊_メモリ読み込み用
+10300003 [REG:10300003] Hollow Infantry
+10300013 [REG:10300013] Hollow Infantry
+10300014 [REG:10300014] Hollow Infantry
+10300020 [REG:10300020] Hollow Infantry
+10300030 [REG:10300030] Hollow Infantry
+10300040 [REG:10300040] Hollow Infantry
+11300000 [REG:11300000] Varangian Sailor
+11300010 [REG:11300010] Varangian Sailor
+11300020 [REG:11300020] Varangian Sailor
+11500000 [REG:11500000] Undead Traveler
+15300000 [REG:15300000] Syan Knight
+21000000 [REG:21000000] Basilisk
+31400000 [REG:31400000] Hollow Primal Knight
+33000010 [REG:33000010] Old Knight
+75200000 [REG:75200000] Lucatiel of Mirrah
+75200001 [REG:75200001] Lucatiel of Mirrah
+75200002 [REG:75200002] Lucatiel of Mirrah

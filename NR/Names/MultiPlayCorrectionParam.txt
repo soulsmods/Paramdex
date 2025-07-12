@@ -1,0 +1,80 @@
+7700 Minimal Threat
+7701 Minimal Threat
+7702 Minimal Threat
+7703 Minimal Threat
+7704 Minimal Threat
+7705 Minimal Threat
+7706 Minimal Threat
+7707 Minimal Threat
+7708 Minimal Threat
+7709 Minimal Threat
+7710 Small Threat
+7711 Small Threat
+7712 Small Threat
+7713 Small Threat
+7714 Small Threat
+7715 Small Threat
+7716 Small Threat
+7717 Small Threat
+7718 Small Threat
+7719 Small Threat
+7720 Medium Threat
+7721 Medium Threat
+7722 Medium Threat
+7723 Medium Threat
+7724 Medium Threat
+7725 Medium Threat
+7726 Medium Threat
+7727 Medium Threat
+7728 Medium Threat
+7729 Medium Threat
+7730 Large Threat
+7731 Large Threat
+7732 Large Threat
+7733 Large Threat
+7734 Large Threat
+7735 Large Threat
+7736 Large Threat
+7737 Large Threat
+7738 Large Threat
+7739 Large Threat
+7740 Field Boss Threat
+7741 Field Boss Threat
+7742 Field Boss Threat
+7743 Field Boss Threat
+7744 Field Boss Threat
+7745 Field Boss Threat
+7746 Field Boss Threat
+7747 Field Boss Threat
+7748 Field Boss Threat
+7749 Field Boss Threat
+7750 Night Boss Threat
+7751 Night Boss Threat
+7752 Night Boss Threat
+7753 Night Boss Threat
+7754 Night Boss Threat
+7755 Night Boss Threat
+7756 Night Boss Threat
+7757 Night Boss Threat
+7758 Night Boss Threat
+7759 Night Boss Threat
+7760 Final Boss Threat
+7761 Final Boss Threat
+7762 Final Boss Threat
+7763 Final Boss Threat
+7764 Final Boss Threat
+7765 Final Boss Threat
+7766 Final Boss Threat
+7767 Final Boss Threat
+7768 Final Boss Threat
+7769 Final Boss Threat
+7770 Spirit Creatures
+7771 Spirit Creatures
+7772 Spirit Creatures
+7773 Spirit Creatures
+7774 Spirit Creatures
+7775 Spirit Creatures
+7776 Spirit Creatures
+7777 Spirit Creatures
+7778 Spirit Creatures
+7779 Spirit Creatures

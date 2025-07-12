@@ -427,7 +427,7 @@
 99992 [Test] Left Communist MT Spotlight -- 【テスト】左共産MTスポットライト
 315000 Juggernaut Damage Hit Back -- ジャガーノート　ダメージヒット　背面
 315001 Juggernaut resident light -- ジャガーノート　常駐ライト
-625000 Sandworm Damage Hit Mouth -- サンドワーム　ダメージヒット　口
+625000 ICE WORM - NPC Part
 625001 Sandworm Damage Hit Body_01 -- サンドワーム　ダメージヒット　体_01
 625002 Sandworm Damage Hit Body_02 -- サンドワーム　ダメージヒット　体_02
 625003 Sandworm Damage Hit Body_03 -- サンドワーム　ダメージヒット　体_03

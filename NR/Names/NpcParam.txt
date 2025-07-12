@@ -1,0 +1,2013 @@
+20400000 Juvenile Scholar
+20401000 Juvenile Scholar
+20402000 Juvenile Scholar
+20402100 Juvenile Scholar
+20402200 Juvenile Scholar
+20403000 Juvenile Scholar
+20404000 Juvenile Scholar
+20410000 Larva of Rot
+20410010 Larva of Rot
+21000000 Black Knife Assassin
+21000020 Black Knife Assassin (Field Boss)
+21000030 Black Knife Assassin (Castle)
+21000040 Black Knife Assassin (Noklateo)
+21300000 Morgott
+21300010 Morgott (Random Encounter)
+21300030 Morgott
+21300500 Morgott
+21300510 Morgott (Night Boss)
+21300520 Morgott (Tutorial)
+21309000 Morgott
+21400000 Omen
+21400020 Omen (Night's Cavalry Entourage)
+21400030 Omen
+21400100 Omen
+21400200 Omen
+21400210 Omen (Evergaol)
+21400220 Omen (Morgott Entourage)
+21400300 Omen
+21400400 Omen
+21400600 Omen
+21400900 Omen
+21401000 Omen
+21401020 Omen (Night's Cavalry Entourage)
+21401030 Omen
+21401100 Omen
+21401200 Omen
+21401210 Omen (Morgott Entourage)
+21401300 Omen
+21401400 Omen
+21401410 Omen
+21401600 Omen
+21401900 Omen
+21403000 Omen
+21403100 Omen
+21409000 Omen
+21500000 Lightning Ball
+21500100 Lightning Ball
+21500200 Lightning Ball
+21500300 Lightning Ball
+21500310 Lightning Ball
+21500400 Lightning Ball
+21500500 Lightning Ball
+22700000 Giant Crab
+22700010 Giant Crab
+22700100 Giant Crab
+22710000 Crab
+22710010 Crab
+22710014 Crab
+22760000 Giant Death Crab
+22761000 Giant Death Crab
+22761010 Giant Death Crab
+22761020 Giant Death Crab
+22769000 Giant Death Crab
+25000000 Crucible Knight
+25000010 Crucible Knight
+25000020 Crucible Knight (Night Boss)
+25000030 Crucible Knight (Evergaol, Sword)
+25000040 Crucible Knight (Castle, Sword)
+25000100 Crucible Knight
+25001000 Crucible Knight
+25001010 Crucible Knight
+25001020 Crucible Knight (Evergaol, Treespear)
+25001030 Crucible Knight (Castle, Treespear)
+25001100 Crucible Knight
+25001110 Crucible Knight
+25006000 Crucible Knight
+25006100 Crucible Knight
+25007000 Crucible Knight
+25007100 Crucible Knight
+25008000 Crucible Knight
+25008100 Crucible Knight
+25009000 Crucible Knight
+25009999 Crucible Knight
+30000000 Exile Soldier
+30000010 Exile Soldier
+30000020 Exile Soldier
+30000030 Exile Soldier
+30000100 Exile Soldier
+30000110 Exile Soldier
+30000120 Exile Soldier
+30000130 Exile Soldier
+30000200 Exile Soldier
+30000300 Exile Soldier
+30000600 Exile Soldier
+30000700 Exile Soldier
+30000800 Exile Soldier
+30001000 Exile Soldier
+30001010 Exile Soldier
+30001020 Exile Soldier
+30001030 Exile Soldier
+30001100 Exile Soldier
+30001200 Exile Soldier
+30001300 Exile Soldier
+30002000 Exile Soldier
+30002010 Exile Soldier
+30002020 Exile Soldier
+30002030 Exile Soldier
+30003000 Exile Soldier
+30003010 Exile Soldier
+30003200 Exile Soldier
+30003210 Exile Soldier
+30003500 Exile Soldier
+30004000 Exile Soldier
+30004010 Exile Soldier
+30004020 Exile Soldier
+30004100 Exile Soldier
+30004110 Exile Soldier
+30004120 Exile Soldier
+30004200 Exile Soldier
+30004300 Exile Soldier
+30005000 Exile Soldier
+30005010 Exile Soldier
+30005020 Exile Soldier
+30005030 Exile Soldier
+30006000 Exile Soldier
+30006010 Exile Soldier
+30006020 Exile Soldier
+30006030 Exile Soldier
+30007000 Exile Soldier
+30008000 Exile Soldier
+30008010 Exile Soldier
+30008020 Exile Soldier
+30009900 Exile Soldier
+30009999 Exile Soldier
+30100000 Banished Knight
+30100010 Banished Knight (Castle, Shield)
+30100030 Banished Knight
+30100040 Banished Knight
+30100100 Banished Knight
+30100110 Banished Knight
+30100120 Banished Knight
+30100190 Banished Knight (Evergaol, Shield)
+30100200 Banished Knight
+30100210 Banished Knight
+30100250 Banished Knight
+30100260 Banished Knight
+30100270 Banished Knight (Encampment, Shield)
+30100275 Banished Knight
+30100280 Banished Knight (Castle, Red Eyes, Shield)
+30100400 Banished Knight
+30100410 Banished Knight
+30100420 Banished Knight
+30100430 Banished Knight
+30100500 Banished Knight
+30100510 Banished Knight
+30100520 Banished Knight
+30100600 Banished Knight
+30100610 Banished Knight
+30100620 Banished Knight
+30100800 Banished Knight
+30101000 Banished Knight
+30101010 Banished Knight (Castle, Dual Swords)
+30101030 Banished Knight
+30101040 Banished Knight
+30101100 Banished Knight
+30101110 Banished Knight (Evergaol, Dual Swords)
+30101120 Banished Knight
+30101130 Banished Knight
+30101200 Banished Knight
+30101210 Banished Knight
+30101230 Banished Knight
+30101240 Banished Knight
+30101250 Banished Knight (Encampment, Dual Swords)
+30101260 Banished Knight (Castle, Red Eyes, Dual Swords)
+30101400 Banished Knight
+30101410 Banished Knight
+30101420 Banished Knight
+30101500 Banished Knight
+30101510 Banished Knight
+30101520 Banished Knight
+30101600 Banished Knight
+30101610 Banished Knight
+30101620 Banished Knight
+30102000 Banished Knight
+30102010 Banished Knight (Castle, Halberd)
+30102020 Banished Knight
+30102040 Banished Knight
+30102100 Banished Knight
+30102110 Banished Knight
+30102120 Banished Knight
+30102130 Banished Knight (Evergaol, Halberd)
+30102200 Banished Knight
+30102210 Banished Knight
+30102220 Banished Knight
+30102230 Banished Knight
+30102240 Banished Knight (Encampment, Halberd)
+30102250 Banished Knight
+30102400 Banished Knight
+30102410 Banished Knight
+30102420 Banished Knight
+30102500 Banished Knight
+30102510 Banished Knight
+30102520 Banished Knight
+30102600 Banished Knight
+30102610 Banished Knight
+30102620 Banished Knight
+30106000 Banished Knight
+30106010 Banished Knight
+30106020 Banished Knight
+30107000 Banished Knight
+30107010 Banished Knight
+30107020 Banished Knight
+30108000 Banished Knight
+30108010 Banished Knight
+30108020 Banished Knight
+30200000 Exile Soldier (Large)
+30200010 Exile Soldier (Large)
+30200020 Exile Soldier (Large)
+30200030 Exile Soldier (Large)
+30200100 Exile Soldier (Large)
+30200110 Exile Soldier (Large)
+30200120 Exile Soldier (Large)
+30208000 Exile Soldier (Large)
+30208010 Exile Soldier (Large)
+30208020 Exile Soldier (Large)
+30500000 Battlefield Commander
+30500010 Outland Commander (Night Boss)
+30500100 Battlefield Commander
+30500110 Battlefield Commander (Night Boss)
+30600000 Giant Skeleton
+30600010 Giant Skeleton
+30600020 Giant Skeleton
+30600030 Giant Skeleton
+30600040 Giant Skeleton
+30601000 Giant Skeleton
+30601010 Giant Skeleton
+30601020 Giant Skeleton
+30601030 Giant Skeleton
+30601040 Giant Skeleton
+30800000 Imp
+30800010 Imp
+30800020 Imp
+30800100 Imp
+30801000 Imp
+30801010 Imp
+30801020 Imp
+30801100 Imp
+30801200 Imp
+30802000 Imp
+30802010 Imp
+30806000 Imp
+30806010 Imp
+30807000 Imp
+30807010 Imp
+30807020 Imp
+30808000 Imp
+30808010 Imp
+31000000 Bell Bearing Hunter
+31000010 Bell Bearing Hunter (Field Boss)
+31000020 Bell Bearing Hunter (Night Boss)
+31000030 Bell Bearing Hunter (Castle)
+31500000 Night's Cavalry
+31500010 Night's Cavalry (Field Boss; Glaive)
+31500020 Night's Cavalry (Night Boss; Glaive)
+31501000 Night's Cavalry
+31501010 Night's Cavalry
+31501020 Night's Cavalry (Night Boss; Flail)
+31600000 Funeral Steed
+31600010 Funeral Steed (Field Boss)
+31600020 Funeral Steed (Night Boss)
+31700000 Albinauric Archer
+31700010 Albinauric Archer
+31700020 Albinauric Archer (Mountaintop Ruins Boss)
+31700030 Albinauric Archer
+31700040 Albinauric Archer (Ruins Boss)
+31701000 Albinauric Archer
+31709000 Albinauric Archer
+31800000 Albinauric Archer's Wolf
+31800010 Albinauric Archer's Wolf
+31800020 Albinauric Archer's Wolf (Mountaintop Ruins Boss)
+31800030 Albinauric Archer's Wolf (Ruins Boss)
+31809000 Albinauric Archer's Wolf
+31810000 Red Wolf of Radagon
+31810010 Red Wolf of Radagon (Field Boss)
+31810020 Red Wolf of Radagon (Castle)
+31810030 Red Wolf of Radagon
+31811000 Red Wolf of Radagon
+32000000 Nomadic Merchant
+32008900 Nomadic Merchant
+32009000 Nomadic Merchant
+32009100 Nomadic Merchant
+32009200 Nomadic Merchant
+32009210 Nomadic Merchant
+32009300 Nomadic Merchant
+32009400 Nomadic Merchant
+32009500 Nomadic Merchant
+32009600 Nomadic Merchant
+32009700 Nomadic Merchant
+32009800 Nomadic Merchant
+32009900 Nomadic Merchant
+32009910 Nomadic Merchant
+32500000 Draconic Tree Sentinel
+32500010 Draconic Tree Sentinel
+32500090 Draconic Tree Sentinel (Field Boss)
+32500100 Draconic Tree Sentinel
+32500110 Draconic Tree Sentinel (Night Boss)
+32510000 Tree Sentinel
+32510020 Tree Sentinel (Field Boss)
+32510030 Tree Sentinel
+32510100 Tree Sentinel
+32510110 Tree Sentinel (Night Boss)
+32511000 Tree Sentinel
+32520000 Loretta
+32520010 Royal Carian Knight (Field Boss)
+32520020 Loretta
+32520100 Loretta
+33000000 Nox Swordstress/Monk/Nightmaiden
+33000010 Nox Swordstress/Monk/Nightmaiden (Dragonkin Soldier Entourage)
+33000020 Nox Monk (Evergaol)
+33000022 Nox Swordstress/Monk/Nightmaiden
+33001000 Nox Swordstress/Monk/Nightmaiden
+33001010 Nox Swordstress/Monk/Nightmaiden (Dancer Entourage)
+33001020 Nox Swordstress (Evergaol)
+33001100 Nox Swordstress/Monk/Nightmaiden
+33002000 Nox Swordstress/Monk/Nightmaiden
+33002010 Nox Swordstress/Monk/Nightmaiden (Dancer Entourage)
+33200000 Silver Tear
+33200010 Silver Tear
+33200100 Silver Tear
+33200110 Silver Tear
+33200200 Silver Tear
+33200210 Silver Tear
+33201000 Silver Tear
+33201100 Silver Tear
+33202000 Silver Tear
+33202010 Silver Tear
+33202100 Silver Tear
+33202110 Silver Tear
+33202200 Silver Tear
+33202210 Silver Tear
+33209000 Silver Tear
+33500000 Crystalian
+33500010 Crystalian (Evergaol, Ringblade)
+33500020 Crystalian (Fort)
+33500030 Crystalian
+33500500 Crystalian
+33501000 Crystalian
+33501010 Crystalian (Evergaol, Spear)
+33501020 Crystalian
+33501500 Crystalian
+33502000 Crystalian
+33502010 Crystalian (Evergaol, Staff)
+33502500 Crystalian
+33507000 Crystalian
+33507100 Crystalian
+33507200 Crystalian
+33507300 Crystalian
+33509000 Crystalian
+33600000 Ancestral Follower
+33600100 Ancestral Follower
+33600200 Ancestral Follower
+33600300 Ancestral Follower
+33600500 Ancestral Follower
+33600600 Ancestral Follower
+33600700 Ancestral Follower
+33601000 Ancestral Follower
+33601100 Ancestral Follower
+33601200 Ancestral Follower
+33601300 Ancestral Follower
+33602000 Ancestral Follower
+33602100 Ancestral Follower
+33602200 Ancestral Follower
+33602300 Ancestral Follower
+33605000 Ancestral Follower
+33605200 Ancestral Follower
+33605500 Ancestral Follower
+33605700 Ancestral Follower
+33606000 Ancestral Follower
+33606200 Ancestral Follower
+33607000 Ancestral Follower
+33607200 Ancestral Follower
+33610000 Putrid Ancestral Follower
+33610010 Putrid Ancestral Follower
+33610200 Putrid Ancestral Follower
+33610300 Putrid Ancestral Follower
+33610500 Putrid Ancestral Follower
+33610510 Putrid Ancestral Follower
+33610700 Putrid Ancestral Follower
+33611000 Putrid Ancestral Follower
+33611010 Putrid Ancestral Follower
+33611200 Putrid Ancestral Follower
+33611300 Putrid Ancestral Follower
+33612000 Putrid Ancestral Follower
+33612010 Putrid Ancestral Follower
+33612200 Putrid Ancestral Follower
+33612300 Putrid Ancestral Follower
+33619000 Putrid Ancestral Follower
+33700000 Ancestral Follower Shaman
+33700100 Ancestral Follower Shaman
+33700200 Ancestral Follower Shaman
+33710000 Putrid Ancestral Follower Shaman
+33710010 Putrid Ancestral Follower Shaman
+33710100 Putrid Ancestral Follower Shaman
+33710110 Putrid Ancestral Follower Shaman
+34000000 Grave Warden Duelist
+34000100 Grave Warden Duelist
+34000200 Grave Warden Duelist
+34000300 Grave Warden Duelist
+34000700 Grave Warden Duelist
+34000800 Grave Warden Duelist
+34000900 Grave Warden Duelist
+34001000 Grave Warden Duelist
+34001010 Grave Warden Duelist (Evergaol)
+34001100 Grave Warden Duelist
+34001200 Grave Warden Duelist
+34001300 Grave Warden Duelist
+34001800 Grave Warden Duelist
+34500000 Misbegotten
+34500010 Misbegotten
+34500030 Misbegotten
+34500040 Misbegotten (Evergaol)
+34500050 Misbegotten
+34500100 Misbegotten
+34500200 Misbegotten
+34501000 Misbegotten
+34501010 Misbegotten
+34501020 Misbegotten
+34501030 Misbegotten
+34501040 Misbegotten (Evergaol, Winged)
+34501050 Misbegotten
+34501100 Misbegotten
+34502000 Misbegotten
+34502100 Misbegotten
+34509000 Misbegotten
+34509100 Misbegotten
+34510000 Scaly Misbegotten
+34510010 Scaly Misbegotten
+34510030 Scaly Misbegotten
+34510040 Scaly Misbegotten (Evergaol)
+34510050 Scaly Misbegotten
+34510100 Scaly Misbegotten
+34510200 Scaly Misbegotten
+34519000 Scaly Misbegotten
+34600000 Leonine Misbegotten
+34600010 Leonine Misbegotten (Encampment)
+34600020 Leonine Misbegotten (Field Boss)
+34600030 Leonine Misbegotten
+34600040 Leonine Misbegotten (Castle)
+34601000 Leonine Misbegotten
+34700000 Albinauric
+34700100 Albinauric
+34700200 Albinauric
+34700300 Albinauric
+34700310 Albinauric
+34700400 Albinauric
+34700410 Albinauric
+34701000 Albinauric
+34701100 Albinauric
+34701200 Albinauric
+34701300 Albinauric
+34701400 Albinauric
+34701500 Albinauric
+34701510 Albinauric
+34701600 Albinauric
+34701610 Albinauric
+34702000 Albinauric
+34702100 Albinauric
+34702200 Albinauric
+34702300 Albinauric
+34702400 Albinauric
+34702500 Albinauric
+34702510 Albinauric
+34703000 Albinauric
+34703100 Albinauric
+34703200 Albinauric
+34703210 Albinauric
+34704000 Albinauric
+34704100 Albinauric
+34704200 Albinauric
+34704300 Albinauric
+34704310 Albinauric
+34715000 Large Albinauric
+34715100 Large Albinauric
+34715200 Large Albinauric
+34715300 Large Albinauric
+34715310 Large Albinauric (Ruins)
+34715315 Large Albinauric (Ruins, healthbar)
+35000000 Skeletal Militiaman/Bandit/Knight/Grave Warden
+35000010 Skeletal Militiaman/Bandit/Knight/Grave Warden
+35000020 Skeletal Militiaman/Bandit/Knight/Grave Warden
+35000030 Skeletal Militiaman/Bandit/Knight/Grave Warden
+35000100 Skeletal Militiaman/Bandit/Knight/Grave Warden
+35000110 Skeletal Militiaman/Bandit/Knight/Grave Warden
+35000120 Skeletal Militiaman/Bandit/Knight/Grave Warden
+35000300 Skeletal Militiaman/Bandit/Knight/Grave Warden
+35000400 Skeletal Militiaman/Bandit/Knight/Grave Warden
+35000500 Skeletal Militiaman/Bandit/Knight/Grave Warden
+35000700 Skeletal Militiaman/Bandit/Knight/Grave Warden
+35001000 Skeletal Militiaman/Bandit/Knight/Grave Warden
+35001010 Skeletal Militiaman/Bandit/Knight/Grave Warden
+35001020 Skeletal Militiaman/Bandit/Knight/Grave Warden
+35001100 Skeletal Militiaman/Bandit/Knight/Grave Warden
+35001110 Skeletal Militiaman/Bandit/Knight/Grave Warden
+35001120 Skeletal Militiaman/Bandit/Knight/Grave Warden
+35001700 Skeletal Militiaman/Bandit/Knight/Grave Warden
+35002000 Skeletal Militiaman/Bandit/Knight/Grave Warden
+35002010 Skeletal Militiaman/Bandit/Knight/Grave Warden
+35002020 Skeletal Militiaman/Bandit/Knight/Grave Warden
+35002030 Skeletal Militiaman/Bandit/Knight/Grave Warden
+35002100 Skeletal Militiaman/Bandit/Knight/Grave Warden
+35002110 Skeletal Militiaman/Bandit/Knight/Grave Warden
+35002120 Skeletal Militiaman/Bandit/Knight/Grave Warden
+35002700 Skeletal Militiaman/Bandit/Knight/Grave Warden
+35003000 Skeletal Militiaman/Bandit/Knight/Grave Warden
+35003010 Skeletal Militiaman/Bandit/Knight/Grave Warden
+35003020 Skeletal Militiaman/Bandit/Knight/Grave Warden
+35003100 Skeletal Militiaman/Bandit/Knight/Grave Warden
+35003110 Skeletal Militiaman/Bandit/Knight/Grave Warden
+35003120 Skeletal Militiaman/Bandit/Knight/Grave Warden
+35003700 Skeletal Militiaman/Bandit/Knight/Grave Warden
+35004000 Skeletal Militiaman/Bandit/Knight/Grave Warden
+35004010 Skeletal Militiaman/Bandit/Knight/Grave Warden
+35004020 Skeletal Militiaman/Bandit/Knight/Grave Warden
+35004100 Skeletal Militiaman/Bandit/Knight/Grave Warden
+35004110 Skeletal Militiaman/Bandit/Knight/Grave Warden
+35004120 Skeletal Militiaman/Bandit/Knight/Grave Warden
+35004700 Skeletal Militiaman/Bandit/Knight/Grave Warden
+35005000 Skeletal Militiaman/Bandit/Knight/Grave Warden
+35005010 Skeletal Militiaman/Bandit/Knight/Grave Warden
+35005500 Skeletal Militiaman/Bandit/Knight/Grave Warden
+35005510 Skeletal Militiaman/Bandit/Knight/Grave Warden
+35006000 Skeletal Militiaman/Bandit/Knight/Grave Warden
+35006010 Skeletal Militiaman/Bandit/Knight/Grave Warden
+35007000 Skeletal Militiaman/Bandit/Knight/Grave Warden
+35007010 Skeletal Militiaman/Bandit/Knight/Grave Warden
+35008000 Skeletal Militiaman/Bandit/Knight/Grave Warden
+35008010 Skeletal Militiaman/Bandit/Knight/Grave Warden
+35009000 Skeletal Militiaman/Bandit/Knight/Grave Warden
+35009010 Skeletal Militiaman/Bandit/Knight/Grave Warden
+35500000 Sanguine Noble
+35500010 Sanguine Noble (Ruins)
+35500015 Sanguine Noble
+35600000 Godskin Apostle
+35600010 Godskin Apostle (Duo Night Boss)
+35600020 Godskin Apostle (Evergaol)
+35600100 Godskin Apostle
+35600110 Godskin Apostle (The Oldest Gaol)
+35600900 Godskin Apostle
+35609000 Godskin Apostle
+35700000 Godskin Noble
+35700010 Godskin Noble (Duo Night Boss)
+35700020 Godskin Noble (Evergaol)
+35700030 Godskin Noble
+35700100 Godskin Noble
+35700110 Godskin Noble (The Oldest Gaol)
+35709000 Godskin Noble
+36000000 Alabaster Lord
+36000010 Alabaster Lord (Fallingstar Beast Entourage)
+36000020 Alabaster Lord (Evergaol)
+36001000 Alabaster Lord
+36001010 Alabaster Lord (Fallingstar Beast Entourage)
+36001020 Onyx Lord (Evergaol)
+36100000 Oracle Envoy
+36100010 Oracle Envoy
+36100011 Oracle Envoy
+36100020 Oracle Envoy
+36200000 Oracle Envoy (Large)
+36200010 Oracle Envoy (Large; Cathedral)
+36200015 Oracle Envoy (Large)
+36500000 Erdtree Guardian
+36500010 Erdtree Guardian
+36500020 Erdtree Guardian
+36501000 Erdtree Guardian
+36501010 Erdtree Guardian
+36501020 Erdtree Guardian
+36501100 Erdtree Guardian
+36501110 Erdtree Guardian
+36502000 Erdtree Guardian
+36503000 Erdtree Guardian
+36600000 Commoner
+36600010 Commoner
+36600020 Commoner
+36600030 Commoner
+36600100 Commoner
+36600600 Commoner
+36600610 Commoner
+36600620 Commoner
+36600700 Commoner
+36600800 Commoner
+36601000 Commoner
+36601010 Commoner
+36601020 Commoner
+36601200 Commoner
+36601210 Commoner
+36601220 Commoner
+36601300 Commoner
+36601400 Commoner
+36602000 Commoner
+36602010 Commoner
+36602100 Commoner
+36602200 Commoner
+36602300 Commoner
+36603000 Commoner
+36603100 Commoner
+36608000 Commoner
+36609000 Commoner
+36609100 Commoner
+36609200 Commoner
+36609500 Commoner
+36609800 Commoner
+36610000 Putrid Corpse
+36610010 Putrid Corpse
+36610020 Putrid Corpse
+36610100 Putrid Corpse
+36610700 Putrid Corpse
+36610710 Putrid Corpse
+36611000 Putrid Corpse
+36611100 Putrid Corpse
+36612000 Putrid Corpse
+36612010 Putrid Corpse
+36612200 Putrid Corpse
+36613000 Putrid Corpse
+36613100 Putrid Corpse
+36613200 Putrid Corpse
+36614000 Putrid Corpse
+36615000 Putrid Corpse
+36615010 Putrid Corpse
+36616000 Putrid Corpse
+36616010 Putrid Corpse
+36616020 Putrid Corpse
+36619000 Putrid Corpse
+36620000 Putrid Corpse (Large)
+36620010 Putrid Corpse (Large)
+36620020 Putrid Corpse (Large)
+36620030 Putrid Corpse (Large)
+36620040 Putrid Corpse (Large)
+36620100 Putrid Corpse (Large)
+36620110 Putrid Corpse (Large)
+36620120 Putrid Corpse (Large)
+36621000 Putrid Corpse (Large)
+36621100 Putrid Corpse (Large)
+36622000 Putrid Corpse (Large)
+36622010 Putrid Corpse (Large)
+36622200 Putrid Corpse (Large)
+36623000 Putrid Corpse (Large)
+36623100 Putrid Corpse (Large)
+36623200 Putrid Corpse (Large)
+36624000 Putrid Corpse (Large)
+36625000 Putrid Corpse (Large)
+36626000 Putrid Corpse (Large)
+36629000 Putrid Corpse (Large)
+36629010 Putrid Corpse (Large)
+36640000 Cemetery Shade
+36640010 Cemetery Shade
+36640020 Cemetery Shade
+37000000 Depraved Perfumer
+37000010 Depraved Perfumer (Ruins)
+37000030 Depraved Perfumer
+37000092 Depraved Perfumer
+37000093 Depraved Perfumer
+37001000 Depraved Perfumer
+37010000 Perfumer
+37010010 Perfumer
+37010020 Perfumer
+37010030 Perfumer (Ruins)
+37011000 Perfumer
+37011010 Perfumer
+37011020 Perfumer
+37020000 Glintstone Sorcerer
+37020010 Glintstone Sorcerer
+37020020 Glintstone Sorcerer
+37020030 Glintstone Sorcerer (Fort Boss)
+37021000 Glintstone Sorcerer
+37022000 Glintstone Sorcerer
+37022010 Glintstone Sorcerer
+37023000 Glintstone Sorcerer
+37023010 Glintstone Sorcerer
+37024000 Glintstone Sorcerer
+37024010 Glintstone Sorcerer
+37030000 Page
+37030010 Page
+37030020 Page
+37030100 Page
+37030110 Page
+37031000 Page
+37031010 Page
+37031020 Page
+37031100 Page
+37031110 Page
+37040000 Battlemage
+37040020 Battlemage (Ruins)
+37040025 Battlemage (Ruins, healthbar)
+37040092 Battlemage
+37040093 Battlemage
+38000000 Cleanrot Knight
+38001000 Cleanrot Knight
+38100000 Kindred of Rot
+38100010 Kindred of Rot
+38101000 Kindred of Rot
+38101010 Kindred of Rot
+38102000 Kindred of Rot
+38102010 Kindred of Rot
+38103000 Kindred of Rot
+38103010 Kindred of Rot
+38109000 Kindred of Rot
+38500000 Marionette Soldier
+38500010 Marionette Soldier
+38501000 Marionette Soldier
+38501010 Marionette Soldier
+38501100 Marionette Soldier
+38501200 Marionette Soldier
+38502000 Marionette Soldier
+38502010 Marionette Soldier
+38502100 Marionette Soldier
+38503000 Marionette Soldier
+38503100 Marionette Soldier
+38503110 Marionette Soldier
+39000000 Fire Monk
+39000010 Fire Monk
+39000020 Fire Monk (Cathedral)
+39000030 Fire Monk (Crater by fog gate)
+39001000 Fire Monk
+39001010 Fire Monk
+39001030 Fire Monk (Crater by fog gate)
+39010000 Blackflame Monk
+39010010 Blackflame Monk
+39011000 Blackflame Monk
+39011010 Blackflame Monk
+39100000 Fire Prelate
+39100010 Fire Prelate
+39100100 Fire Prelate
+39100110 Fire Prelate
+39100120 Fire Prelate
+39100130 Fire Prelate (Crater by fog gate)
+39100140 Fire Prelate (Crater)
+39101000 Fire Prelate
+39101100 Fire Prelate
+39101110 Fire Prelate
+39101120 Fire Prelate (Crater)
+39500000 Man-Serpent
+39500010 Man-Serpent
+39500100 Man-Serpent
+39500110 Man-Serpent
+39501000 Man-Serpent
+39501010 Man-Serpent
+39501100 Man-Serpent
+39501110 Man-Serpent
+39501200 Man-Serpent
+39501210 Man-Serpent
+39502000 Man-Serpent
+39502010 Man-Serpent
+39502100 Man-Serpent
+39503000 Man-Serpent
+39503010 Man-Serpent
+39503100 Man-Serpent
+39503200 Man-Serpent
+39503210 Man-Serpent
+39504000 Man-Serpent
+39504010 Man-Serpent
+39509000 Man-Serpent
+39700000 Azula Beastman
+39700010 Azula Beastman
+39700020 Azula Beastman
+39700100 Azula Beastman
+39700110 Azula Beastman
+39700120 Azula Beastman
+39700200 Azula Beastman
+39700210 Azula Beastman
+39700300 Azula Beastman
+39700310 Azula Beastman
+39700400 Azula Beastman
+39700500 Azula Beastman
+39701000 Azula Beastman
+39701010 Azula Beastman
+39701020 Azula Beastman
+39701100 Azula Beastman
+39701110 Azula Beastman (Evergaol, Cleaver)
+39701120 Azula Beastman (Ruins Boss)
+39701125 Azula Beastman (Ruins, healthbar)
+39701130 Azula Beastman
+39701200 Azula Beastman
+39702000 Azula Beastman
+39702010 Azula Beastman
+39702100 Azula Beastman
+39702200 Azula Beastman
+39702210 Azula Beastman
+39702300 Azula Beastman
+39702310 Azula Beastman (Evergaol, Shield)
+39702320 Azula Beastman
+39703000 Azula Beastman
+39703010 Azula Beastman (Evergaol, Curved Sword)
+39703020 Azula Beastman
+39703030 Azula Beastman
+39703100 Azula Beastman
+39703110 Azula Beastman
+39709000 Azula Beastman
+39709010 Azula Beastman
+40000000 Revenant Follower
+40000010 Revenant Follower
+40000100 Revenant Follower
+40000110 Revenant Follower
+40001000 Revenant Follower
+40001010 Revenant Follower
+40001020 Revenant Follower (Night Horde)
+40200000 Royal Revenant
+40200010 Royal Revenant
+40200020 Royal Revenant
+40200030 Royal Revenant (Noklateo)
+40200100 Royal Revenant
+40210000 Royal Revenant
+40210010 Royal Revenant (Field Boss)
+40210020 Royal Revenant (Night Boss)
+40210030 Royal Revenant (Castle)
+40210700 Royal Revenant
+40219000 Royal Revenant
+40400000 Slug
+40400010 Slug
+40400020 Slug
+40401000 Slug
+40401010 Slug
+40402000 Slug
+40403000 Slug
+40409000 Slug
+40500000 Kaiden Sellsword
+40500010 Kaiden Sellsword
+40500020 Kaiden Sellsword
+40500100 Kaiden Sellsword
+40500110 Kaiden Sellsword
+40500120 Kaiden Sellsword
+40509500 Kaiden Sellsword
+40600000 Kaiden Sellsword's Horse
+40600010 Kaiden Sellsword's Horse
+40700000 Wolf
+40700010 Wolf
+40700020 Wolf
+40700030 Wolf
+40700100 Wolf
+40700900 Wolf
+40701000 Wolf
+40701010 Wolf
+40702000 Wolf
+40708000 Wolf
+40709000 Wolf
+40710000 White Wolf
+40710010 White Wolf
+40800000 Rat
+40800010 Rat
+40800020 Rat
+40800030 Rat
+40800040 Rat
+40800100 Rat
+40800300 Rat
+40809000 Rat
+40900000 Giant Rat
+40900010 Giant Rat
+40900020 Giant Rat
+40900030 Giant Rat
+40900040 Giant Rat
+40900300 Giant Rat
+40909000 Giant Rat
+41000000 Demi-Human
+41000010 Demi-Human
+41000020 Demi-Human
+41000030 Demi-Human
+41000040 Demi-Human (Field Boss)
+41000200 Demi-Human
+41001000 Demi-Human
+41001010 Demi-Human
+41001020 Demi-Human
+41001030 Demi-Human
+41001040 Demi-Human (Field Boss)
+41001200 Demi-Human
+41002000 Demi-Human
+41002010 Demi-Human
+41002020 Demi-Human
+41002030 Demi-Human
+41002040 Demi-Human (Field Boss)
+41002200 Demi-Human
+41010000 Demi-Human (Large)
+41010010 Demi-Human (Large)
+41010020 Demi-Human (Large)
+41010030 Demi-Human (Large)
+41100000 Demi-Human Shaman
+41100010 Demi-Human Shaman
+41100020 Demi-Human Shaman
+41100030 Demi-Human Shaman
+41109000 Demi-Human Shaman
+41109100 Demi-Human Shaman
+41200000 Demi-Human Chief
+41200010 Demi-Human Chief
+41200020 Demi-Human Chief
+41200030 Demi-Human Chief
+41200100 Demi-Human Chief
+41300000 Demi-Human Queen
+41300020 Demi-Human Queen (Field Boss)
+41300030 Demi-Human Queen (Crater)
+41301000 Demi-Human Queen
+41301010 Demi-Human Queen (Night Boss)
+41500000 Basilisk
+41500010 Basilisk
+41500100 Basilisk
+41600000 Stray (Large)
+41600010 Stray (Large)
+41600020 Stray (Large)
+41600030 Stray (Large)
+41601000 Stray (Large)
+41601010 Stray (Large)
+41602000 Stray (Large)
+41610000 Stray
+41610010 Stray
+41610020 Stray
+41610030 Stray
+41610200 Stray
+41610210 Stray
+41610220 Stray
+41610300 Stray
+41640000 Bloodbane Stray (Large)
+41640010 Bloodbane Stray (Large)
+41650000 Bloodbane Stray
+41650010 Bloodbane Stray
+41660000 Rotten Stray (Large)
+41660010 Rotten Stray (Large)
+41700000 Putrid Flesh
+41700100 Putrid Flesh
+41700110 Putrid Flesh
+41700120 Putrid Flesh
+41700200 Putrid Flesh
+41700300 Putrid Flesh
+41710000 Putrid Flesh (Large)
+41710010 Putrid Flesh (Large)
+41800000 Spirit Jellyfish
+41800010 Spirit Jellyfish
+41800100 Spirit Jellyfish
+41800200 Spirit Jellyfish
+41800300 Spirit Jellyfish
+41801000 Spirit Jellyfish
+41809000 Spirit Jellyfish
+41810000 Spirit Jellyfish
+41810010 Spirit Jellyfish
+41810020 Spirit Jellyfish
+41810100 Spirit Jellyfish
+41810110 Spirit Jellyfish
+41900000 Large Scarab
+41901000 Large Scarab
+41902000 Large Scarab
+41902100 Large Scarab
+41902200 Large Scarab
+41903000 Large Scarab
+41903100 Large Scarab
+41903200 Large Scarab
+41904000 Large Scarab
+41904100 Large Scarab
+41904200 Large Scarab
+41905000 Large Scarab
+41905100 Large Scarab
+41905200 Large Scarab
+41910000 Scarab
+41911000 Scarab
+41912000 Scarab
+41912010 Scarab
+41912020 Scarab
+41912100 Scarab
+41912200 Scarab
+41913000 Scarab
+41913100 Scarab
+41913200 Scarab
+41914000 Scarab
+41914100 Scarab
+41914200 Scarab
+41915000 Scarab
+41915100 Scarab
+41915200 Scarab
+42000000 Man-Bat
+42000010 Man-Bat
+42000100 Man-Bat
+42000110 Man-Bat
+42000200 Man-Bat
+42001000 Man-Bat
+42001010 Man-Bat
+42001100 Man-Bat
+42001110 Man-Bat
+42001200 Man-Bat
+42010000 Operatic Bat
+42010100 Operatic Bat
+42010110 Operatic Bat
+42010120 Operatic Bat
+42011000 Operatic Bat
+42011100 Operatic Bat
+42011110 Operatic Bat
+42300000 Land Octopus (Small)
+42300010 Land Octopus (Small)
+42400000 Fingercreeper
+42400010 Fingercreeper
+42400020 Fingercreeper
+42400030 Fingercreeper (Night Horde)
+42400100 Fingercreeper
+42400200 Fingercreeper
+42410000 Fingercreeper (Large)
+42410010 Fingercreeper (Night Horde, Large)
+42410020 Fingercreeper (Large)
+42410100 Fingercreeper (Large)
+42500000 Fingercreeper (Small)
+42500010 Fingercreeper (Small)
+42500020 Fingercreeper (Small)
+42500030 Fingercreeper (Night Horde, Small)
+42500100 Fingercreeper (Small)
+42600000 Erdtree Burial Watchdog
+42600010 Erdtree Burial Watchdog
+42600100 Erdtree Burial Watchdog
+42600110 Erdtree Burial Watchdog (Smelter Demon Entourage)
+42600500 Erdtree Burial Watchdog
+42600600 Erdtree Burial Watchdog
+42600610 Erdtree Burial Watchdog (Ruins, Sword)
+42600615 Erdtree Burial Watchdog
+42601000 Erdtree Burial Watchdog
+42601100 Erdtree Burial Watchdog
+42601110 Erdtree Burial Watchdog
+42601500 Erdtree Burial Watchdog
+42601600 Erdtree Burial Watchdog
+42601610 Erdtree Burial Watchdog (Ruins, Staff)
+42602000 Erdtree Burial Watchdog
+42602100 Erdtree Burial Watchdog
+42602500 Erdtree Burial Watchdog
+42602600 Erdtree Burial Watchdog
+42603000 Erdtree Burial Watchdog
+42603100 Erdtree Burial Watchdog
+42603500 Erdtree Burial Watchdog
+42603600 Erdtree Burial Watchdog
+42604000 Erdtree Burial Watchdog
+42604100 Erdtree Burial Watchdog
+42604500 Erdtree Burial Watchdog
+42604600 Erdtree Burial Watchdog
+42605000 Erdtree Burial Watchdog
+42605100 Erdtree Burial Watchdog
+42605500 Erdtree Burial Watchdog
+42605600 Erdtree Burial Watchdog
+42700000 Elder Lion
+42700010 Elder Lion
+42700020 Elder Lion (Field Boss)
+42700030 Elder Lion (Encampment)
+42700035 Elder Lion
+42700040 Elder Lion (Castle)
+42700700 Elder Lion
+42701000 Elder Lion
+42800000 Giant Ant
+42800010 Giant Ant
+42800020 Giant Ant (Night Horde)
+42800100 Giant Ant
+42800110 Giant Ant
+42800200 Giant Ant
+42800210 Giant Ant
+42800300 Giant Ant
+42800310 Giant Ant
+42800400 Giant Ant
+42800410 Giant Ant
+42800500 Giant Ant
+42800510 Giant Ant
+42800520 Giant Ant (Night Horde, Winged)
+42801100 Giant Ant
+42810000 Giant Ant (Skull Plate)
+42810010 Giant Ant (Night Horde, Skull Plate)
+42900000 Bloodhound Knight
+42900010 Bloodhound Knight (Evergaol)
+42900020 Bloodhound Knight (Crater)
+42901000 Bloodhound Knight
+42909000 Bloodhound Knight
+43000000 Wandering Noble
+43000010 Wandering Noble
+43000020 Wandering Noble
+43000030 Wandering Noble
+43000100 Wandering Noble
+43000200 Wandering Noble
+43000300 Wandering Noble
+43000410 Wandering Noble
+43000600 Wandering Noble
+43001000 Wandering Noble
+43001010 Wandering Noble
+43001100 Wandering Noble
+43001200 Wandering Noble
+43002000 Wandering Noble
+43002010 Wandering Noble
+43002020 Wandering Noble
+43002100 Wandering Noble
+43002110 Wandering Noble
+43002200 Wandering Noble
+43002300 Wandering Noble
+43002400 Wandering Noble
+43002410 Wandering Noble
+43003000 Wandering Noble
+43003010 Wandering Noble
+43004000 Wandering Noble
+43004010 Wandering Noble
+43004020 Wandering Noble
+43005000 Wandering Noble
+43005010 Wandering Noble
+43005100 Wandering Noble
+43005200 Wandering Noble
+43006000 Wandering Noble
+43006010 Wandering Noble
+43006100 Wandering Noble
+43006200 Wandering Noble
+43006300 Wandering Noble
+43006600 Wandering Noble
+43006700 Wandering Noble
+43006800 Wandering Noble
+43007000 Wandering Noble
+43009000 Wandering Noble
+43009100 Wandering Noble
+43009200 Wandering Noble
+43009300 Wandering Noble
+43009400 Wandering Noble
+43110000 Godrick Soldier
+43110010 Godrick Soldier
+43110020 Godrick Soldier
+43110030 Godrick Soldier
+43111100 Godrick Soldier
+43111110 Godrick Soldier
+43111200 Godrick Soldier
+43111210 Godrick Soldier
+43111300 Godrick Soldier
+43111310 Godrick Soldier
+43111320 Godrick Soldier
+43111400 Godrick Soldier
+43111410 Godrick Soldier
+43112000 Godrick Soldier
+43112010 Godrick Soldier
+43112100 Godrick Soldier
+43112110 Godrick Soldier
+43112200 Godrick Soldier
+43112210 Godrick Soldier
+43112300 Godrick Soldier
+43112310 Godrick Soldier
+43112400 Godrick Soldier
+43112410 Godrick Soldier
+43113000 Godrick Soldier
+43113010 Godrick Soldier
+43114000 Godrick Soldier
+43114010 Godrick Soldier
+43120000 Raya Lucaria Soldier
+43120100 Raya Lucaria Soldier
+43120200 Raya Lucaria Soldier
+43120300 Raya Lucaria Soldier
+43121000 Raya Lucaria Soldier
+43121100 Raya Lucaria Soldier
+43121200 Raya Lucaria Soldier
+43121300 Raya Lucaria Soldier
+43122000 Raya Lucaria Soldier
+43123000 Raya Lucaria Soldier
+43130000 Leyndell Soldier
+43130010 Leyndell Soldier
+43130020 Leyndell Soldier
+43130030 Leyndell Soldier
+43130100 Leyndell Soldier
+43130110 Leyndell Soldier
+43130120 Leyndell Soldier
+43130200 Leyndell Soldier
+43130210 Leyndell Soldier
+43130220 Leyndell Soldier
+43130300 Leyndell Soldier
+43130310 Leyndell Soldier
+43130320 Leyndell Soldier
+43130330 Leyndell Soldier
+43130400 Leyndell Soldier
+43130410 Leyndell Soldier
+43130420 Leyndell Soldier
+43130500 Leyndell Soldier
+43130510 Leyndell Soldier
+43130520 Leyndell Soldier
+43131000 Leyndell Soldier
+43131010 Leyndell Soldier
+43131020 Leyndell Soldier
+43131030 Leyndell Soldier
+43131100 Leyndell Soldier
+43131110 Leyndell Soldier
+43131120 Leyndell Soldier
+43131200 Leyndell Soldier
+43131210 Leyndell Soldier
+43131220 Leyndell Soldier
+43131300 Leyndell Soldier
+43131310 Leyndell Soldier
+43131320 Leyndell Soldier
+43132000 Leyndell Soldier
+43132010 Leyndell Soldier
+43132020 Leyndell Soldier
+43132030 Leyndell Soldier
+43133000 Leyndell Soldier
+43133010 Leyndell Soldier
+43133020 Leyndell Soldier
+43133030 Leyndell Soldier
+43133100 Leyndell Soldier
+43133110 Leyndell Soldier
+43133120 Leyndell Soldier
+43134000 Leyndell Soldier
+43134010 Leyndell Soldier
+43134030 Leyndell Soldier (Night Horde)
+43134100 Leyndell Soldier
+43134200 Leyndell Soldier
+43134300 Leyndell Soldier
+43135000 Leyndell Soldier
+43135020 Leyndell Soldier
+43135100 Leyndell Soldier
+43136000 Leyndell Soldier
+43136020 Leyndell Soldier
+43137000 Leyndell Soldier
+43140000 Radahn Soldier
+43140010 Radahn Soldier
+43140100 Radahn Soldier
+43140110 Radahn Soldier
+43140200 Radahn Soldier
+43140300 Radahn Soldier
+43140500 Radahn Soldier
+43141000 Radahn Soldier
+43141010 Radahn Soldier
+43141100 Radahn Soldier
+43141110 Radahn Soldier
+43141200 Radahn Soldier
+43141300 Radahn Soldier
+43141400 Radahn Soldier
+43142000 Radahn Soldier
+43142010 Radahn Soldier
+43142100 Radahn Soldier
+43143000 Radahn Soldier
+43143100 Radahn Soldier
+43150000 Mausoleum Soldier
+43150010 Mausoleum Soldier
+43150200 Mausoleum Soldier
+43150300 Mausoleum Soldier
+43150310 Mausoleum Soldier
+43151000 Mausoleum Soldier
+43151010 Mausoleum Soldier
+43151200 Mausoleum Soldier
+43151300 Mausoleum Soldier
+43151310 Mausoleum Soldier
+43152000 Mausoleum Soldier
+43152010 Mausoleum Soldier
+43153000 Mausoleum Soldier
+43153010 Mausoleum Soldier
+43210000 Vulgar Militia
+43210010 Vulgar Militia
+43210100 Vulgar Militia
+43211000 Vulgar Militia
+43211010 Vulgar Militia
+43211100 Vulgar Militia
+43212000 Vulgar Militia
+43212010 Vulgar Militia
+43212100 Vulgar Militia
+43400000 Mad Pumpkin Head
+43400100 Mad Pumpkin Head
+43400200 Mad Pumpkin Head
+43400300 Mad Pumpkin Head
+43400400 Mad Pumpkin Head
+43400500 Mad Pumpkin Head
+43400600 Mad Pumpkin Head
+43400610 Mad Pumpkin Head
+43401000 Mad Pumpkin Head
+43401010 Mad Pumpkin Head
+43401100 Mad Pumpkin Head
+43401110 Mad Pumpkin Head
+43401120 Mad Pumpkin Head (Mine)
+43401600 Mad Pumpkin Head
+43401610 Mad Pumpkin Head
+43408000 Mad Pumpkin Head
+43510000 Godrick Knight
+43510010 Godrick Knight
+43510020 Lordsworn Knight (Fort)
+43510030 Lordsworn Knight (Mountaintop)
+43510040 Lordsworgn Knight (Crater?)
+43510100 Godrick Knight
+43510110 Godrick Knight
+43511100 Godrick Knight
+43511110 Godrick Knight
+43511120 Lordsworn Knight (Mine)
+43512000 Godrick Knight
+43512010 Godrick Knight
+43520000 Cuckoo Knight
+43521000 Cuckoo Knight
+43521100 Cuckoo Knight
+43522000 Cuckoo Knight
+43530000 Leyndell Knight
+43530010 Leyndell Knight
+43530020 Leyndell Knight (Night Boss Entourage)
+43530030 Leyndell Knight (Encampment, by tower)
+43530035 Leyndell Knight (Encampment, healthbar)
+43530100 Leyndell Knight
+43530110 Leyndell Knight
+43530130 Leyndell Knight (Night Horde)
+43530190 Leyndell Knight
+43530200 Leyndell Knight
+43530500 Leyndell Knight
+43531000 Leyndell Knight
+43531010 Leyndell Knight
+43531020 Leyndell Knight
+43531030 Leyndell Knight (Encampment, middle)
+43531100 Leyndell Knight
+43531110 Leyndell Knight (Night Boss)
+43531200 Leyndell Knight
+43531210 Leyndell Knight
+43531300 Leyndell Knight
+43531400 Leyndell Knight (Night Boss Spirit)
+43531500 Leyndell Knight
+43532000 Leyndell Knight
+43532010 Leyndell Knight
+43532020 Leyndell Knight
+43532030 Leyndell Knight (Encampment, by catapult)
+43532100 Leyndell Knight
+43540000 Redmane Knight
+43540010 Redmane Knight
+43540015 Redmane Knight (Encampment, healthbar)
+43540200 Redmane Knight
+43541000 Redmane Knight
+43541010 Redmane Knight (Encampment, by catapult)
+43541100 Redmane Knight
+43541200 Redmane Knight
+43542000 Redmane Knight
+43542010 Redmane Knight (Encampment, in tower)
+43542200 Redmane Knight
+43550000 Mausoleum Knight
+43550010 Mausoleum Knight
+43550020 Mausoleum Knight (Cathedral)
+43550030 Mausoleum Knight
+43551000 Mausoleum Knight
+43551010 Mausoleum Knight
+43551020 Mausoleum Knight (Noklateo, Flaming Sword)
+43551100 Mausoleum Knight
+43552000 Mausoleum Knight
+43630000 Lordsworn Knight's Horse
+43630010 Lordsworn Knight's Horse (Night Boss)
+43630100 Lordsworn Knight's Horse
+43630400 Lordsworn Knight's Horse (Night Boss Spirit)
+43710000 Godrick Foot Soldier
+43710010 Godrick Foot Soldier
+43710020 Godrick Foot Soldier
+43710030 Godrick Foot Soldier
+43710500 Godrick Foot Soldier
+43710510 Godrick Foot Soldier
+43711000 Godrick Foot Soldier
+43711010 Godrick Foot Soldier
+43711400 Godrick Foot Soldier
+43711500 Godrick Foot Soldier
+43711600 Godrick Foot Soldier
+43711700 Godrick Foot Soldier
+43711710 Godrick Foot Soldier
+43711800 Godrick Foot Soldier
+43712000 Godrick Foot Soldier
+43712010 Godrick Foot Soldier
+43712500 Godrick Foot Soldier
+43712510 Godrick Foot Soldier
+43713000 Godrick Foot Soldier
+43713010 Godrick Foot Soldier
+43714000 Godrick Foot Soldier
+43714010 Godrick Foot Soldier
+43714020 Godrick Foot Soldier
+43716000 Godrick Foot Soldier
+43716010 Godrick Foot Soldier
+43716020 Godrick Foot Soldier
+43717000 Godrick Foot Soldier
+43717010 Godrick Foot Soldier
+43720000 Raya Lucaria Foot Soldier
+43720010 Raya Lucaria Foot Soldier
+43720500 Raya Lucaria Foot Soldier
+43721000 Raya Lucaria Foot Soldier
+43721400 Raya Lucaria Foot Soldier
+43721500 Raya Lucaria Foot Soldier
+43721600 Raya Lucaria Foot Soldier
+43721700 Raya Lucaria Foot Soldier
+43721800 Raya Lucaria Foot Soldier
+43722000 Raya Lucaria Foot Soldier
+43722500 Raya Lucaria Foot Soldier
+43723000 Raya Lucaria Foot Soldier
+43724000 Raya Lucaria Foot Soldier
+43726000 Raya Lucaria Foot Soldier
+43726010 Raya Lucaria Foot Soldier
+43727000 Raya Lucaria Foot Soldier
+43728000 Raya Lucaria Foot Soldier
+43728100 Raya Lucaria Foot Soldier
+43728200 Raya Lucaria Foot Soldier
+43728300 Raya Lucaria Foot Soldier
+43728400 Raya Lucaria Foot Soldier
+43730000 Leyndell Foot Soldier
+43730010 Leyndell Foot Soldier
+43730020 Leyndell Foot Soldier
+43730030 Leyndell Foot Soldier
+43730500 Leyndell Foot Soldier
+43730510 Leyndell Foot Soldier
+43730520 Leyndell Foot Soldier
+43731000 Leyndell Foot Soldier
+43731010 Leyndell Foot Soldier
+43731400 Leyndell Foot Soldier
+43731500 Leyndell Foot Soldier
+43731600 Leyndell Foot Soldier
+43731700 Leyndell Foot Soldier
+43731800 Leyndell Foot Soldier
+43732000 Leyndell Foot Soldier
+43732010 Leyndell Foot Soldier
+43732020 Leyndell Foot Soldier
+43732030 Leyndell Foot Soldier
+43732500 Leyndell Foot Soldier
+43732510 Leyndell Foot Soldier
+43732520 Leyndell Foot Soldier
+43733000 Leyndell Foot Soldier
+43733010 Leyndell Foot Soldier
+43734000 Leyndell Foot Soldier
+43734010 Leyndell Foot Soldier
+43734020 Leyndell Foot Soldier
+43734030 Leyndell Foot Soldier
+43734500 Leyndell Foot Soldier
+43736000 Leyndell Foot Soldier
+43736010 Leyndell Foot Soldier
+43736020 Leyndell Foot Soldier
+43736030 Leyndell Foot Soldier
+43737000 Leyndell Foot Soldier
+43737010 Leyndell Foot Soldier
+43738000 Leyndell Foot Soldier
+43738010 Leyndell Foot Soldier
+43738030 Leyndell Foot Soldier (Night Horde)
+43738100 Leyndell Foot Soldier
+43738110 Leyndell Foot Soldier
+43738130 Leyndell Foot Soldier (Night Horde)
+43738200 Leyndell Foot Soldier
+43738300 Leyndell Foot Soldier
+43738310 Leyndell Foot Soldier
+43738400 Leyndell Foot Soldier
+43740000 Radahn Foot Soldier
+43740010 Radahn Foot Soldier
+43740500 Radahn Foot Soldier
+43740510 Radahn Foot Soldier
+43741000 Radahn Foot Soldier
+43741400 Radahn Foot Soldier
+43741500 Radahn Foot Soldier
+43741600 Radahn Foot Soldier
+43741700 Radahn Foot Soldier
+43741800 Radahn Foot Soldier
+43742000 Radahn Foot Soldier
+43742010 Radahn Foot Soldier
+43742500 Radahn Foot Soldier
+43742510 Radahn Foot Soldier
+43743000 Radahn Foot Soldier
+43744000 Radahn Foot Soldier
+43746000 Radahn Foot Soldier
+43746010 Radahn Foot Soldier
+43747000 Radahn Foot Soldier
+43747010 Radahn Foot Soldier
+43750000 Mausoleum Foot Soldier
+43750010 Mausoleum Foot Soldier
+43750500 Mausoleum Foot Soldier
+43750510 Mausoleum Foot Soldier
+43751000 Mausoleum Foot Soldier
+43752000 Mausoleum Foot Soldier
+43752010 Mausoleum Foot Soldier
+43752500 Mausoleum Foot Soldier
+43753000 Mausoleum Foot Soldier
+43754000 Mausoleum Foot Soldier
+43754010 Mausoleum Foot Soldier
+43756000 Mausoleum Foot Soldier
+43756010 Mausoleum Foot Soldier
+43770000 Highwayman
+43770010 Highwayman
+43770500 Highwayman
+43770510 Highwayman
+43771000 Highwayman
+43771400 Highwayman
+43771500 Highwayman
+43771600 Highwayman
+43771700 Highwayman
+43771800 Highwayman
+43772000 Highwayman
+43772010 Highwayman
+43772500 Highwayman
+43773000 Highwayman
+43776000 Highwayman
+43777000 Highwayman
+43800000 Starcaller
+43800100 Starcaller
+43800110 Starcaller
+43800120 Starcaller
+43810000 Guilty
+43810010 Guilty
+43810100 Guilty
+43810110 Guilty
+43810200 Guilty
+43810300 Guilty
+43811000 Guilty
+43811010 Guilty
+43811100 Guilty
+43820000 Stonedigger
+43820100 Stonedigger
+43820110 Stonedigger
+43821000 Stonedigger
+43821010 Stonedigger
+43821100 Stonedigger
+43822000 Stonedigger
+43822100 Stonedigger
+43823000 Stonedigger
+43823100 Stonedigger
+43823110 Stonedigger
+43824000 Stonedigger
+43824010 Stonedigger
+43824100 Stonedigger
+43825000 Stonedigger
+43825100 Stonedigger
+43826000 Stonedigger
+43826100 Stonedigger
+43827000 Stonedigger
+43827100 Stonedigger
+43828000 Stonedigger
+43828100 Stonedigger
+43829000 Stonedigger
+43829100 Stonedigger
+43830000 Glintstone Digger
+43830010 Glintstone Digger
+43831000 Glintstone Digger
+43831010 Glintstone Digger
+43831020 Glintstone Digger
+43840000 Glintstone Digger (Small Sack)
+43840010 Glintstone Digger (Small Sack)
+43840020 Glintstone Digger (Small Sack)
+44400000 Land Squirt
+44400010 Land Squirt
+44400020 Land Squirt
+44500000 Walking Mausoleum
+44501000 Walking Mausoleum
+44600000 Flame Chariot
+44600010 Flame Chariot (Encampment)
+44600015 Flame Chariot (Encampment, healthbar)
+44600020 Flame Chariot
+44601000 Flame Chariot
+44601010 Flame Chariot
+44700000 Abductor Virgin
+44700010 Abductor Virgin (Fort)
+44700020 Abductor Virgin
+44701000 Abductor Virgin
+44701100 Abductor Virgin
+44702000 Abductor Virgin
+44800000 Miranda Blossom
+44800010 Miranda Blossom
+44800020 Miranda Blossom (Field Boss)
+44800100 Miranda Blossom
+44800200 Miranda Blossom
+44800300 Miranda Blossom
+44800400 Miranda Blossom
+44800410 Miranda Blossom
+44810000 Miranda Sprout
+44810010 Miranda Sprout
+44810020 Miranda Sprout (Field Boss)
+44810100 Miranda Sprout
+44810200 Miranda Sprout
+44810300 Miranda Sprout
+44810400 Miranda Sprout
+44810410 Miranda Sprout
+44810830 Miranda Sprout
+44811000 Miranda Sprout
+44811100 Miranda Sprout
+44811200 Miranda Sprout
+44811300 Miranda Sprout
+44811400 Miranda Sprout
+44811410 Miranda Sprout
+44900000 Living Jar Warrior
+44900010 Living Jar Warrior
+44900100 Living Jar Warrior
+44900200 Living Jar Warrior
+44900210 Living Jar Warrior
+44910000 Living Jar
+44910100 Living Jar
+44910200 Living Jar
+44910300 Living Jar
+44910400 Living Jar
+44910500 Living Jar
+44910600 Living Jar
+45000000 Flying Dragon
+45000010 Flying Dragon (Field Boss)
+45001000 Flying Dragon
+45008000 Flying Dragon
+45010000 Decaying Ekzykes
+45010010 Decaying Ekzykes
+45030000 Borealis the Freezing Fog
+45030010 Mountaintop Ice Dragon (Boss)
+45030020 Borealis the Freezing Fog
+45050000 Flying Dragon (Small)
+45050010 Flying Dragon (Night Horde, Small)
+45050020 Flying Dragon (Small; Nameless King Entourage)
+45050030 Flying Dragon (Small)
+45050040 Flying Dragon (Small; Mountaintop)
+45050050 Flying Dragon (Small; Crater)
+45100000 Ancient Dragon
+45100010 Ancient Dragon
+45100020 Ancient Dragon
+45101000 Ancient Dragon
+45101100 Ancient Dragon
+45101110 Ancient Dragon (Night Boss)
+45101200 Ancient Dragon
+45102000 Ancient Dragon
+45102010 Ancient Dragon (The Oldest Gaol)
+45102100 Ancient Dragon
+45102200 Ancient Dragon
+45500000 Giant Dog
+45500010 Giant Dog
+45500030 Giant Dog (Night Horde)
+45501000 Giant Dog
+45502000 Giant Dog
+45503000 Giant Dog
+45504000 Giant Dog
+45505000 Giant Dog
+45506000 Giant Dog
+45506010 Giant Dog
+45506020 Giant Dog
+45506200 Giant Dog
+45506400 Giant Dog
+45506600 Giant Dog
+45508000 Giant Dog
+45508100 Giant Dog
+45600000 Giant Crow
+45600010 Giant Crow
+45600030 Giant Crow (Night Horde)
+45601000 Giant Crow
+45601010 Giant Crow
+45601020 Giant Crowd (healthbar)
+45609000 Giant Crow
+45700000 Wormface
+45700010 Wormface
+45701000 Wormface
+45702000 Wormface
+45800000 Large Wormface
+45800010 Large Wormface
+45801000 Large Wormface
+45802000 Large Wormface
+45803000 Large Wormface
+45803010 Large Wormface (Night Boss)
+45803020 Large Wormface (Ruins)
+45803030 Large Wormface
+45809000 Large Wormface
+46000000 Troll
+46000010 Troll
+46000030 Troll (Castle)
+46000099 Troll
+46000100 Troll
+46000110 Troll (Mine)
+46000200 Troll
+46000210 Troll
+46000220 Troll
+46000230 Headless Troll (Noklateo)
+46001000 Troll
+46003000 Troll
+46004000 Troll
+46004010 Frenzied Flame Troll (Encampment)
+46004080 Troll (Night Horde)
+46004100 Troll
+46004110 Troll
+46008000 Troll
+46020000 Snowfield Troll
+46020010 Snowfield Troll
+46020020 Snowfield Troll
+46020030 Snowfield Troll (Mountaintop, Duo)
+46020040 Snowfield Troll
+46020050 Snowfield Troll (Mountaintop)
+46021000 Snowfield Troll
+46022000 Snowfield Troll
+46200000 Astel, Naturalborn of the Void
+46200010 Naturalborn of the Void (Noklateo)
+46200020 Astel, Naturalborn of the Void
+46201000 Astel, Naturalborn of the Void
+46202000 Astel, Naturalborn of the Void
+46202010 Astel, Naturalborn of the Void
+46209000 Astel, Naturalborn of the Void
+46209100 Astel, Naturalborn of the Void
+46209200 Astel, Naturalborn of the Void
+46209300 Astel, Naturalborn of the Void
+46300000 Runebear
+46300010 Runebear (Ruins, Brown)
+46300020 Runebear
+46300100 Runebear
+46300200 Runebear
+46300210 Runebear (Ruins, Silver)
+46400000 Ulcerated Tree Spirit
+46400010 Ulcerated Tree Spirit (Field Boss)
+46400020 Ulcerated Tree Spirit (Night Boss)
+46400030 Ulcerated Tree Spirit
+46400700 Ulcerated Tree Spirit (Remembrance)
+46500000 Dragonkin Soldier
+46500010 Dragonkin Soldier (Night Boss)
+46500100 Dragonkin Soldier
+46500200 Dragonkin Soldier
+46500210 Dragonkin Soldier (Evergaol)
+46500220 Dragonkin Soldier
+46500230 Dragonkin Soldier (Noklateo)
+46500300 Dragonkin Soldier
+46500900 Dragonkin Soldier
+46600000 Guardian Golem
+46600010 Guardian Golem (Night Horde)
+46600020 Guardian Golem (Remembrance?)
+46600030 Guardian Golem (Cathedral)
+46600100 Guardian Golem
+46601000 Guardian Golem
+46601010 Guardian Golem (Fort)
+46601100 Guardian Golem
+46602000 Guardian Golem
+46602100 Guardian Golem
+46603000 Guardian Golem
+46603100 Guardian Golem
+46604000 Guardian Golem
+46604100 Guardian Golem
+46605000 Guardian Golem
+46605100 Guardian Golem
+46606000 Guardian Golem
+46607000 Guardian Golem
+46608000 Guardian Golem
+46609000 Guardian Golem
+46700000 Ancestor Spirit
+46700010 Ancestor Spirit (Field Boss)
+46700020 Ancestor Spirit
+46700100 Ancestor Spirit
+46700200 Ancestor Spirit
+46700300 Ancestor Spirit
+46700400 Ancestor Spirit
+46705000 Ancestor Spirit
+46705010 Ancestor Spirit
+46800000 Fallingstar Beast
+46801000 Fallingstar Beast
+46801010 Fallingstar Beast (Random Encounter)
+46801020 Fallingstar Beast (Crater)
+46809000 Fallingstar Beast
+46809010 Fallingstar Beast (Night Boss)
+46900000 Grafted Scion
+46900010 Grafted Scion (Field Boss)
+46900020 Grafted Scion (Castle)
+47500000 Godrick the Grafted
+47501000 Godrick the Grafted
+47509000 Godrick the Grafted
+47509010 Grafted Monarch (Night Boss)
+47700000 Valiant Gargoyle
+47700010 Valiant Gargoyle
+47700020 Valiant Gargoyle (Night Boss)
+47700100 Valiant Gargoyle
+47700200 Valiant Gargoyle
+47701000 Valiant Gargoyle
+47701010 Valiant Gargoyle
+47701020 Valiant Gargoyle
+47701030 Valiant Gargoyle (Crater)
+47701100 Valiant Gargoyle
+47701200 Valiant Gargoyle
+47701210 Black Blade Kindred (Field Boss)
+47702000 Valiant Gargoyle
+47709900 Valiant Gargoyle
+48100000 Erdtree Avatar
+48100010 Erdtree Avatar (Field Boss)
+48100020 Erdtree Avatar (Mountaintop)
+48100030 Erdtree Avatar
+48100100 Erdtree Avatar
+49000000 Caligo - Miasma of Night
+49000010 Caligo - Miasma of Night (Boss)
+49009000 Caligo - Miasma of Night
+49010000 Caligo - Miasma of Night
+49010010 Caligo - Miasma of Night (Enhanced Boss)
+49019000 Caligo - Miasma of Night
+49100000 Magma Wyrm
+49100100 Magma Wyrm
+49100110 Magma Wyrm
+49100120 Magma Wyrm (Crater)
+49100190 Magma Wyrm (Field Boss)
+49110000 Great Wyrm
+49110010 Great Wyrm (Night Boss)
+49500000 Tibia Mariner
+49500010 Tibia Mariner (Night Boss)
+49600000 Giant Skeleton Torso
+49600010 Giant Skeleton Torso (Tibia Mariner Torso)
+49610000 Giant Skeleton Torso
+49800000 Death Rite Bird
+49800010 Death Rite Bird
+49800020 Death Rite Bird
+49801000 Death Rite Bird
+49801010 Death Rite Bird (Night Boss)
+49801020 Death Rite Bird (Field Boss)
+49801030 Death Rite Bird (The Oldest Gaol)
+49801100 Death Rite Bird
+49801110 Death Rite Bird (Tibia Mariner Summon) 
+50100000 Golden Hippopotamus
+50110000 Golden Hippopotamus (Golden Wings)
+50110010 Golden Hippopotamus (Field Boss)
+50110020 Golden Hippopotamus (Night Boss)
+50110030 Golden Hippopotamus (???)
+50110040 Golden Hippopotamus (Noklateo)
+51100000 Spirit Eel
+51108000 Spirit Eel
+51108010 Spirit Eel
+58100000 Demi-Human Swordmaster
+58100900 Demi-Human Swordmaster
+58100910 Demi-Human Swordmaster (Night Boss)
+58100920 Demi-Human Swordmaster (Mountaintop)
+60010000 Eagle
+60019000 Eagle
+70000000 Fallen Hawks Soldier
+70000100 Fallen Hawks Soldier
+70000110 Fallen Hawks Soldier
+70001000 Fallen Hawks Soldier
+70001100 Fallen Hawks Soldier
+70001110 Fallen Hawks Soldier
+70002000 Fallen Hawks Soldier
+70002100 Fallen Hawks Soldier
+70002110 Fallen Hawks Soldier
+70003000 Fallen Hawks Soldier
+70003100 Fallen Hawks Soldier
+70003110 Fallen Hawks Soldier
+70004000 Fallen Hawks Soldier
+70004100 Fallen Hawks Soldier
+70004110 Fallen Hawks Soldier
+70005000 Fallen Hawks Soldier
+70005100 Fallen Hawks Soldier
+70005110 Fallen Hawks Soldier
+71000000 Ancient Hero
+71000010 Ancient Hero (Field Boss)
+71000020 Ancient Hero (Castle)
+71000100 Ancient Hero
+71000110 Ancient Hero (Ruins)
+71000115 Ancient Hero (Ruins, healthbar)
+75000000 Gladius - Beast of Night
+75000010 Gladius - Beast of Night
+75000020 Gladius - Beast of Night (Boss)
+75000100 Gladius - Beast of Night
+75001000 Gladius - Beast of Night
+75001010 Gladius - Beast of Night
+75001020 Gladius - Beast of Night
+75002000 Gladius - Beast of Night
+75002010 Gladius - Beast of Night
+75002020 Gladius - Beast of Night (Single Dog)
+75003000 Gladius - Beast of Night
+75003010 Gladius - Beast of Night
+75003020 Gladius - Beast of Night (Single Dog)
+75009000 Gladius - Beast of Night
+75009100 Gladius - Beast of Night
+75009200 Gladius - Beast of Night
+75009900 Gladius - Beast of Night
+75100000 Adel - Baron of Night
+75100010 Adel - Baron of Night
+75100020 Adel - Baron of Night (Boss)
+75109000 Adel - Baron of Night
+75110000 Adel - Baron of Night (Lightning Fang)
+75110010 Adel - Baron of Night (Enhanced Boss)
+75119000 Adel - Baron of Night (Lightning Fang)
+75200000 Gnoster - Wisdom of Night
+75200010 Gnoster - Wisdom of Night (Random Encounter)
+75200020 Gnoster - Wisdom of Night (Boss Phase 1)
+75200030 Gnoster - Wisdom of Night (Everdark Sovereign Phase 2)
+75200110 Gnoster - Wisdom of Night (Boss Phase 2)
+75200120 Gnoster - Wisdom of Night (Everdark Sovereign Phase 1)
+75210000 Animus - Ascendant Light
+75210010 Animus - Ascendant Light (Everdark Sovereign)
+75300000 Faurtis Stoneshield
+75300010 Faurtis Stoneshield (Boss Phase 1)
+75300020 Faurtis Stoneshield (Everdark Sovereign Phase 2)
+75300110 Faurtis Stoneshield (Boss Phase 2)
+75300120 Faurtis Stoneshield (Everdark Sovereign Phase 1)
+75400000 Maris - Fathom of Night
+75400010 Maris - Fathom of Night (Random Encounter)
+75400020 Maris - Fathom of Night (Boss)
+75401000 Maris - Fathom of Night
+75409000 Maris - Fathom of Night
+75600000 Libra - Creature of Night
+75600010 Libra - Creature of Night
+75600020 Libra - Creature of Night (Boss)
+75600100 Libra - Creature of Night
+75600110 Libra - Creature of Night (Random Encounter)
+75600120 Libra - Creature of Night
+75600130 Libra - Creature of Night
+75609000 Libra - Creature of Night
+75610000 Libra - Creature of Night
+75610010 Libra - Creature of Night (Enhanced Boss)
+75619000 Libra - Creature of Night
+75700000 Libra - Creature of Night (Shrouded)
+75700010 Libra - Creature of Night (Shrouded)
+75700020 Libra - Creature of Night (Shrouded; Random Encounter)
+75700030 Libra - Creature of Night (Shrouded)
+75800000 Heolstor the Nightlord
+75800010 Heolstor the Nightlord (Boss Phase 1)
+75801000 Heolstor the Nightlord
+75802000 Heolstor the Nightlord
+75802010 Heolstor the Nightlord (Boss Phase 2)
+75809000 Heolstor the Nightlord
+75809100 Heolstor the Nightlord
+75809200 Heolstor the Nightlord
+76000000 Fulghor - Champion of Nightglow
+76000010 Fulghor - Champion of Nightglow (Boss)
+76001000 Fulghor - Champion of Nightglow
+76001010 Fulghor - Champion of Nightglow (Enhanced Boss)
+76002000 Fulghor - Champion of Nightglow
+76009000 Fulghor - Champion of Nightglow
+77000000 Gaping Dragon
+77000010 Gaping Dragon (Night Boss)
+77009000 Gaping Dragon
+77009010 Gaping Dragon
+77100000 Centipede Demon
+77100010 Centipede Demon (Night Boss)
+77109000 Centipede Demon
+77110000 Centipede Grub
+77110010 Centipede Grub (Night Boss)
+77119000 Centipede Grub
+77120000 Centipede Grub
+77120010 Centipede Grub (Night Boss)
+77129000 Centipede Grub
+78000000 Duke's Dear Freja
+78000010 Duke's Dear Freja (Night Boss)
+78009000 Duke's Dear Freja
+78100000 Freja Spiderling
+78100010 Freja Spiderling
+78100020 Freja Spiderling
+78109000 Freja Spiderling
+78200000 Smelter Demon
+78200010 Smelter Demon (Night Boss)
+78209000 Smelter Demon
+79000000 Nameless King
+79000010 Nameless King (Night Boss)
+79000020 Nameless King
+79009000 Nameless King
+79100000 Nameless King (Mount)
+79100010 Nameless King (Mount; Night Boss)
+79100020 Nameless King (Mount)
+79109000 Nameless King (Mount)
+79200000 Dancer of the Boreal Valley
+79200010 Dancer of the Boreal Valley (Night Boss)
+79209000 Dancer of the Boreal Valley
+80000000 Torrent
+81300000 Unknown
+81310000 Unknown
+81320000 Unknown
+89100000 Human Man
+89110000 Long-limbed Man
+137030000 Revenant: Depraved Perfumer
+137030010 Revenant: Depraved Perfumer
+137030020 Revenant: Depraved Perfumer
+143400000 Revenant: Mad Pumpkin Head
+143400010 Revenant: Mad Pumpkin Head
+143400020 Revenant: Mad Pumpkin Head
+149610000 Revenant: Giant Skeleton Torso
+149610010 Revenant: Giant Skeleton Torso
+149610020 Revenant: Giant Skeleton Torso
+500010400 Collector Signboard
+521010000 Wylder
+521020000 Guardian
+521030000 Ironeye
+521030100 Traitor
+521030700 Night Hunter
+521040000 Duchess
+521040010 Duchess
+521050000 Raider
+521050700 Night Raider
+521060000 Revenant
+521060200 Revenant
+521070000 Recluse
+521080000 Executor
+523090000 Priestess
+523120000 Witch of the Wheel
+600030000 Night Assassin
+600030010 Night Assassin (Invader)
+600030100 Night Fallen
+600030110 Night Fallen (Invader)
+600030200 Night Hunter
+600030210 Night Hunter (Invader)
+600030300 Night Thief
+600030310 Night Thief (Invader)
+600030400 Night Raider
+600030410 Night Raider (Invader)
+600030500 Night Idol
+600030510 Night Idol (Invader)
+600030600 Night Witch
+600030610 Night Witch
+600030700 Night Executor
+600030710 Night Executor
+700035000 Night Assassin
+700035001 Night Assassin
+700035002 Night Assassin
+700035003 Night Assassin
+700035004 Night Assassin
+700035005 Night Assassin
+700035100 Night Fallen
+700035101 Night Fallen
+700035102 Night Fallen
+700035103 Night Fallen
+700035104 Night Fallen
+700035105 Night Fallen
+700035200 Night Hunter
+700035201 Night Hunter
+700035202 Night Hunter
+700035203 Night Hunter
+700035204 Night Hunter
+700035205 Night Hunter
+700035300 Night Thief
+700035301 Night Thief
+700035302 Night Thief
+700035303 Night Thief
+700035304 Night Thief
+700035305 Night Thief
+700035400 Night Raider
+700035401 Night Raider
+700035402 Night Raider
+700035403 Night Raider
+700035404 Night Raider
+700035405 Night Raider
+700035500 Night Idol
+700035501 Night Idol
+700035502 Night Idol
+700035503 Night Idol
+700035504 Night Idol
+700035505 Night Idol
+700035600 Night Witch
+700035601 Night Witch
+700035602 Night Witch
+700035603 Night Witch
+700035604 Night Witch
+700035605 Night Witch
+700035700 Night Executor
+700035701 Night Executor
+700035702 Night Executor
+700035703 Night Executor
+700035704 Night Executor
+700035705 Night Executor

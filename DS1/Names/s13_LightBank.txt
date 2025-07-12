@@ -1,0 +1,56 @@
+0 B0_Indoor
+1 B0_Indoor and outdoor
+2 B0_Roof top strong diffuse
+3 B0_Boss room
+4 B1_Indoor
+5 B1_In tree
+6 Kilometers
+7 B2_In a big tree
+8 B2_Distant view
+9 B2_Landscape Lava
+10 B0_Outdoors
+11 B0_Outdoor High Specular
+12 B0_Outdoor ground
+13 B2_Outdoor upper layer
+14 B1_Dark part
+15 B0_Waterfall
+16 B0_Water surface
+17 B2_Water surface
+18 B2_Outer lower layer
+19 B2_Zen meditation
+20 B2_Spherical ball
+21 B2_Distant view fog
+22 B1_Fog
+23 B2_Ceiling fog
+25 B2_Amber
+27 B1_Limestone cave
+28 B1_Underground lake
+29 B1_Underground lake
+30 B3_Basic
+31 B3_Indoor
+35 B3_Character (basic)
+36 B3_Character (indoor)
+37 B3_Character (shade)
+39 B2_Switch 1
+40 B2_Switch 2
+42 characters_in_tree
+44 PolyG-scn130100-<MAP_Obj>Ming
+45 PolyG-scn130100-<MAP_Obj>
+46 PolyG-scn130100-<Chr>
+47 PolyG-scn130100-<Chr>Ming
+48 PolyG-
+49 PolyG-
+50 PolyG-scn130000-<CHR_OBJ_MAP>-cutAll-For shadow depiction
+51 PolyG-scn130000-<CHR_OBJ_MAP>-cutAll-Normal(pv)
+52 PolyG-scn130000-<c3320>-From below and above
+53 PolyG-scn130000-<c3320>-Coffin Full Shot Shot
+54 PolyG-scn130000-Threesome coat
+55 PolyG-scn130000-Three-person haori. Last cut
+56 PolyG-scn130000-<CHR_OBJ_MAP>-cutAll-Normal(pv)
+57 PolyG-
+58 PolyG-
+59 PolyG-
+60 PolyG-
+61 PolyG-scn130010_MAP
+62 PolyG-scn130010
+63 PolyG-scn130010

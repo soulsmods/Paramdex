@@ -1,0 +1,13 @@
+1000 Expeditions
+1010 Character Selection
+1020 Change Garb
+1030 Relic Rites
+1040 Visual Codex
+1050 Journal
+1060 Small Jar Bazaar
+1065 Collector Signboard
+1070 Garden
+1080 Shore
+1090 Waiting Room
+1100 Crypt
+1110 Sparring Grounds

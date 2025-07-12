@@ -1,0 +1,8 @@
+0 B0_Outdoors
+1 B0_In a cave
+2 B0_indoor
+3 B0_Boss room
+5 B0_plant
+10 B0_Character (outdoor)
+11 B0_Character (indoor)
+45 gate_water_fx

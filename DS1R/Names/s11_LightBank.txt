@@ -1,0 +1,15 @@
+0 B0_Basic
+1 B0_Indoor
+2 B0_Underground
+3 B0_Suspension bridge
+4 B0_Tree
+5 B0_Tombstone
+6 No light map Building
+7 No light map indoor
+8 B0_Character (dark)
+10 B0_Character (basic)
+11 B0_Character (shade)
+12 B0_Character (indoor)
+13 B0_Character (underground)
+14 B0_Character (boss)
+15 B0_Character (Dragon Zombie)

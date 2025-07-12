@@ -8,22 +8,22 @@
 9540 [FNR] Eleventh End Item for Exploration Mission 03 -- 【FNR】十一末用アイテム　探索ミッション用　03
 9550 [FNR] Eleventh End Item for Exploration Mission 04 -- 【FNR】十一末用アイテム　探索ミッション用　04
 9560 [FNR] Eleventh End Item for Exploration Mission 05 -- 【FNR】十一末用アイテム　探索ミッション用　05
-9980 [FNR] For checking treasure container behavior_01 -- 【FNR】宝コンテナ挙動確認用_01
-9985 [FNR] For checking treasure container behavior_02 -- 【FNR】宝コンテナ挙動確認用_02
-9990 [FNR] For checking treasure container behavior_03 -- 【FNR】宝コンテナ挙動確認用_03
-2100703300 treasure container -- 宝コンテナ
-2100703310 Found Items Outside Scaffolding -- 拾得物 外足場
+9980 HEAD - IA-C01H: EPHEMERA
+9985 CORE - IA-C01C: EPHEMERA
+9990 ARMS - IA-C01A: EPHEMERA
+2100703300 CORE - IA-C01C: EPHEMERA [Mission: Watchpoint Alpha - Underground Exploration - Depth 3] 
+2100703310 IA-C01F: OCELLUS [Mission: Watchpoint Alpha - Underground Exploration - Depth 3]
 2100803000 Large exchange item -- 換金アイテム大
-2101003000 Treasure container | Part 1 -- 宝コンテナ | パーツ1
+2101003000 CORAL SHIELD - IB-C03W4: NGI 028
 2101503900 ID tag_Patrick -- IDタグ_パトリック
 2101503910 ID tag_Yoffe -- IDタグ_ヨッフェ
 2101503920 ID tag_swing -- IDタグ_ブランコ
-2102303000 Treasure container | Part 1 -- 宝コンテナ | パーツ1
+2102303000 PLASMA RIFLE - IA-C01W1: NEBULA (Right) 
 2102403000 Acquisition Test Weapon -- 取得テスト 武器
-2102403010 Acquisition test armor -- 取得テスト 防具
-2102403020 acquisition test booster -- 取得テスト ブースター
-2102403030 Acquisition test generator -- 取得テスト ジェネレーター
-2102403040 Acquisition test FCS -- 取得テスト FCS
+2102403010 LEGS - LG-011 MELANDER
+2102403020 BST-G2/P06SPD
+2102403030 AG-J-098 JOSO
+2102403040 FCS-G1/P01
 2102403050 acquisition test decoration -- 取得テスト 装飾
 2102403060 Acquisition Test Archive -- 取得テスト アーカイブ
 2102403070 Acquisition test Redemption items -- 取得テスト 換金アイテム
@@ -31,21 +31,21 @@
 2102403100 Crunchy acquisition test -- ザクザク取得テスト
 2102403200 Simultaneous acquisition test A of multiple items -- 複数アイテムの同時取得テストA
 2102403201 Simultaneous acquisition test A of multiple items -- 複数アイテムの同時取得テストA
-2102403202 Simultaneous acquisition test A of multiple items -- 複数アイテムの同時取得テストA
+2102403202 BST-G2/P06SPD
 2102603000 Insider's memo -- 内通者のメモ
 2102603001 security code -- セキュリティコード
 2103503000 Treasure that cannot be taken -- 取れない宝
 2103303000 garbage scraps -- ゴミくず
-2103703000 Treasure container | Part 1 -- 宝コンテナ | パーツ1
-2103703010 Treasure container | Part 1 -- 宝コンテナ | パーツ1
+2103703000 LIGHT WAVE CANNON - IA-C01W3: AURORA (Right)
+2103703010 LIGHT WAVE BLADE - IA-C01W2: MOONLIGHT
 2103903000 Large exchange item -- 換金アイテム大
 2104603000 daisy's note -- デイジーのメモ
 2104603010 Mike and Daisy Crypto Assets -- マイクとデイジーの暗号資産
 2104603020 setA 1/2 Bandit Event｜Cashing in progress -- setA 1/2 野盗イベ｜換金 中
 2104603021 setA 2/2 Bandit Event｜Archive -- setA 2/2 野盗イベ｜アーカイブ
-2104603030 laser naginata -- レーザーナギナタ
-2104603040 Degraded uranium bazooka rifle -- 劣化ウランバズーカライフル
-2104603050 iqbal booster -- イクバールブースター
+2104603030 LASER SLICER - Vvc-774LS [Mission: Grid 086 - Stop the Secret Data Breach] 
+2104603040 DENONATING BAZOOKA - 44-141 JVLN ALPHA (Right)
+2104603050 BST-G2/P06SPD
 2104603060 Treasure Wreck｜Strong 01 -- 宝 残骸｜強01
 2104603070 Treasure Wreck｜Weak 01 -- 宝 残骸｜弱01
 2104603080 Treasure Wreck｜Weak 02 -- 宝 残骸｜弱02
@@ -64,27 +64,27 @@
 2104603210 ID tag_Patrick (wall search) -- IDタグ_パトリック（壁前探索）
 2104603220 ID tag_Yoffe (wall search) -- IDタグ_ヨッフェ（壁前探索
 2104603230 Hint W bonus cash exchange items -- ヒントWのおまけ 換金アイテム
-2104703100 Treasure remains｜Ocean city -- 宝残骸｜洋上の都市
-2105303000 Treasure container | Part 1 -- 宝コンテナ | パーツ1
-2106103100 Treasure Remains｜Control Room -- 宝残骸｜制御部屋
+2104703100 IA-CO1G: AORTA
+2105303000 CORAL MISSLE LAUNCHER - IB-C03W3: NGI 006 (Right)
+2106103100 LEGS - IA-CO1L: EPHEMERA [Mission: Watchpoint Alpha - Underground Exploration - Depth 1] 
 2106203100 Treasure remains｜Cask room 1 lower floor -- 宝残骸｜キャスク部屋1 下層
-2106203110 Treasure remains｜Slope, behind the bridge girder towards the entrance -- 宝残骸｜斜面 入口方面橋桁裏
+2106203110 ARMS - IA-CO1A: EPHEMERA [Mission: Watchpoint Alpha - Underground Exploration - Depth 2] 
 2106203120 Treasure remains | Crevasse Bridge -- 宝残骸｜クレバス 橋
 2106203130 Treasure remains｜Railway 2 Next to the lock door -- 宝残骸｜線路2 ロック扉横
 2106203140 Treasure remains｜Crevasse, midway point towards heat exhaust vent -- 宝残骸｜クレバス 排熱口方面 中間地点
 2106203150 Treasure Remains｜Cask Room 2 Lower Back -- 宝残骸｜キャスク部屋2 下層奥
-2106203160 Treasure Container｜Crevasses Under the second bridge -- 宝コンテナ｜クレバス 2つ目の橋下
+2106203160 IA-CO1B: GILLS [Mission: Watchpoint Alpha - Underground Exploration - Depth 2] 
 2106203300 Tag NPAC defeat reward -- タグ NPAC撃破報酬
 2106303300 Tag NPAC defeat reward -- タグ NPAC撃破報酬
-2106303310 Treasure remains｜3 cave valley -- 宝残骸｜3洞窟 谷間
-2106403000 Treasure container | Part 1 -- 宝コンテナ | パーツ1
-2106403010 Treasure container | Part 2 -- 宝コンテナ | パーツ2
-2106403020 Treasure container | Part 3 -- 宝コンテナ | パーツ3
-2106403030 Treasure container | Part 4 -- 宝コンテナ | パーツ4
+2106303310 HEAD - IA-CO1H: EPHEMERA [Mission: Watchpoint Alpha - Unknown Territory Survey] 
+2106403000 HEAD - HC-3000 WRECKER
+2106403010 CORE - CC-3000 WRECKER
+2106403020 ARMS - AC-3000 WRECKER
+2106403030 LEGS - 2C-3000 WRECKER
 2106403060 For treasure remains -- 宝残骸用
-2107203000 Treasure Container | Beyond the Broken Scaffold -- 宝コンテナ | 壊れた足場の先
-2107203010 Treasure Container | Subroot -- 宝コンテナ |サブルート
-2107203020 Treasure Container | Indoor -- 宝コンテナ | 室内
+2107203000 BC-0600 12345
+2107203010 FLAMETHROWER - WB-0000 BAD COOK (Right)
+2107203020 CHAINSAW - WB-0010 DOUBLE TROUBLE
 2109003300 Tag NPAC defeat reward -- タグ NPAC撃破報酬
 2109003310 Tag NPAC defeat reward -- タグ NPAC撃破報酬
 2140090000 [FNR] Archive_Mission placement -- 【FNR】アーカイブ_ミッション配置
@@ -237,55 +237,55 @@
 2140091470 [FNR] Archive_Mission placement -- 【FNR】アーカイブ_ミッション配置
 2140091480 [FNR] Archive_Mission placement -- 【FNR】アーカイブ_ミッション配置
 2140091490 [FNR] Archive_Mission placement -- 【FNR】アーカイブ_ミッション配置
-2140091500 Event Archive_Prologue_Hack 01 -- イベント用アーカイブ_プロローグ_ハック用01
-2140091510 Event Archive_Prologue_Hack 02 -- イベント用アーカイブ_プロローグ_ハック用02
-2140091520 Event Archive_Prologue_Hack 03 -- イベント用アーカイブ_プロローグ_ハック用03
-2140091525 Event Archive_Prologue_Hack 04 -- イベント用アーカイブ_プロローグ_ハック用04
-2140091530 [FNR] Archive_Mission placement -- 【FNR】アーカイブ_ミッション配置
-2140091540 [FNR] Archive_Mission placement -- 【FNR】アーカイブ_ミッション配置
-2140091550 [FNR] Archive_Mission placement -- 【FNR】アーカイブ_ミッション配置
-2140091560 [FNR] Archive_Mission placement -- 【FNR】アーカイブ_ミッション配置
-2140091570 [FNR] Archive_Mission placement -- 【FNR】アーカイブ_ミッション配置
-2140091580 [FNR] Archive_Mission placement -- 【FNR】アーカイブ_ミッション配置
-2140091590 [FNR] Archive_Mission placement -- 【FNR】アーカイブ_ミッション配置
-2140091600 [FNR] Archive_Mission placement -- 【FNR】アーカイブ_ミッション配置
-2140091610 Event archive_Encounter with organization_Hack 01 -- イベント用アーカイブ_組織との出会い_ハック用01
-2140091620 Event archive_Encounter with organization_Hack 02 -- イベント用アーカイブ_組織との出会い_ハック用02
-2140091630 Event archive_Encounter with organization_Hack 03 -- イベント用アーカイブ_組織との出会い_ハック用03
-2140091640 Event archive_Encounter with organization_Hack 04 -- イベント用アーカイブ_組織との出会い_ハック用04
-2140091650 Exterminate Behind the Wall_NPAC Engagement Archive_Video Record: Condemnation of Rubiconian -- 壁裏殲滅_NPAC接敵用アーカイブ_映像記録：ルビコニアンの糾弾
-2140091660 [FNR] Archive_Big Bridge_Audio recording: Dozer's nonsense -- 【FNR】アーカイブ_ビッグブリッジ_音声記録：ドーザーの妄言
-2140091670 Beyond the wall_Archive_East side remains -- 壁越え_アーカイブ_東側残骸
-2140091680 Event archive_Damage revisit_Hack_Dolmayan's Essays 2 -- イベント用アーカイブ_坑道再訪_ハック用_ドルマヤンの随想録2
-2140091690 [FNR] Archive_Mission placement -- 【FNR】アーカイブ_ミッション配置
-2140091700 [FNR] Archive_Mission placement -- 【FNR】アーカイブ_ミッション配置
-2140091710 [FNR] Archive_Mission placement -- 【FNR】アーカイブ_ミッション配置
-2140091720 Document data: Professor Nagai's dictation (1) -- 文書データ：ナガイ教授の口述筆記（1）
-2140091730 Event Archives_Pane Revisited_Hack_Professor Nagai's Dictation 02 -- イベント用アーカイブ_坑道再訪_ハック用_ナガイ教授の口述筆記02
-2140091740 A layer indoor search_Archive_Dead-end room -- A層屋内捜索_アーカイブ_行き止まり部屋
-2140091750 Event Archives_Pane Revisited_Hack_Professor Nagai's Dictation 04 -- イベント用アーカイブ_坑道再訪_ハック用_ナガイ教授の口述筆記04
-2140091760 Ruins_Archive_On the building -- 廃墟_アーカイブ_ビル上
-2140091770 Image data: STV draft (3) -- 画像データ：STVの画稿（3）
-2140091780 [FNR] Archive_Mission placement -- 【FNR】アーカイブ_ミッション配置
-2140091790 [FNR] Archive_Annihilation behind the wall_Image data: STV draft (1) -- 【FNR】アーカイブ_壁裏殲滅_画像データ：STVの画稿（1）
-2140091800 Image data: STV draft (2) -- 画像データ：STVの画稿（2）
-2140091810 Fuel base explosion_Archive Hashimoto -- 燃料基地爆破_アーカイブ　橋下
-2140091820 Image data: STV draft (5) -- 画像データ：STVの画稿（5）
-2140091830 Ruins_Archive_Swamp_Ghost -- 廃墟_アーカイブ_沼_ゴースト
-2140091840 [FNR] Archive_Mission placement -- 【FNR】アーカイブ_ミッション配置
-2140091850 Beyond the Wall_Archive_Volta Remnants -- 壁越え_アーカイブ_ヴォルタ残骸
-2140091860 [FNR] Archive_Mission placement -- 【FNR】アーカイブ_ミッション配置
-2140091870 [FNR] Archive_Mission placement -- 【FNR】アーカイブ_ミッション配置
-2140091880 Jailbreak_Archive_Sewer quadruped -- 脱獄_アーカイブ_下水四脚
-2140091890 [FNR] Archive_Mission placement -- 【FNR】アーカイブ_ミッション配置
-2140091900 [FNR] Archive_Big Bridge_Video record: The final moments of a debt collector -- 【FNR】アーカイブ_ビッグブリッジ_映像記録：債権回収業者の最期
-2140091910 Audio recording: Report to Marshal -- 音声記録：帥叔への報告
-2140091920 Audio recording: Dozer chat -- 音声記録：ドーザーの雑談
-2140091930 [FNR] Archive_Mission placement -- 【FNR】アーカイブ_ミッション配置
-2140091940 [FNR] Archive_Mission placement -- 【FNR】アーカイブ_ミッション配置
-2140091950 Fuel base explosion_archive behind the plant -- 燃料基地爆破_アーカイブ　プラント裏
-2140091960 [FNR] Archive_Mission placement -- 【FNR】アーカイブ_ミッション配置
-2140091970 [FNR] Archive_Mission placement -- 【FNR】アーカイブ_ミッション配置
-2140091980 Observation data: Enforcement system -- 観測データ：強制執行システム
-2140091990 Document data: Professor Nagai's dictation (5) -- 文書データ：ナガイ教授の口述筆記（5）
+2140091500 License Code: Thomas Kirk
+2140091510 License Code: Monkey Gordo
+2140091520 License Code: G7 Hakra
+2140091525 License Code: Raven
+2140091530 System Log: One-Sided Engagement
+2140091540 System Log: The Deserter
+2140091550 Video Record: STEEL HAZE
+2140091560 Video Record: BAWS Arsenal No. 2
+2140091570 Comms Record: Rusty's Encoded Comms
+2140091580 Text Data: The Well Dries
+2140091590 Video Record: Communication Attempt
+2140091600 Comms Record: Friendly Comms
+2140091610 Observation Data: Coral Density Survey
+2140091620 Observation Data: Terrain Survey
+2140091630 Observation Data: Installations Survey
+2140091640 Observation Data: Offshore Survey
+2140091650 Video Record: Rubiconian Invective [Mission: The Wall - Eliminate the Enforcement Squads] 
+2140091660 Comms Record: Doser Ravings [Mission: Grid 086 - Infiltrate Grid 086] 
+2140091670 Text Data: Dolmayan's Writings (1)
+2140091680 Text Data: Dolmayan's Writings (2)
+2140091690 Text Data: Dolmayan's Writings (3)
+2140091700 Text Data: Dolmayan's Writings (4)
+2140091710 Text Data: Dolmayan's Writings (5)
+2140091720 Text Data: Professor Nagai's Log (1)
+2140091730 Text Data: Professor Nagai's Log (2)
+2140091740 Text Data: Professor Nagai's Log (3) [Mission: Grid 086 - Stop the Secret Data Breach] 
+2140091750 Text Data: Professor Nagai's Log (4)
+2140091760 Video Record: The Fires of Ibis
+2140091770 Image Data: STV Sketch (3)
+2140091780 Image Data: STV Sketch (4)
+2140091790 Image Data: STV Sketch (1) [Mission: The Wall - Eliminate the Enforcement Squads] 
+2140091800 Image Data: STV Sketch (2)
+2140091810 Image Data: STV Sketch (6)
+2140091820 Image Data: STV Sketch (5)
+2140091830 Image Data: STK Sketch
+2140091840 Observation Data: The City of Xylem
+2140091850 Video Record: G4's Last Words
+2140091860 Text Data: The Re-education Center
+2140091870 Unknown
+2140091880 Video Record: Testing New Components
+2140091890 Video Record: BAWS Guard's Last Words
+2140091900 Video Record: The Collector's Last Words [Mission: Grid 086 - Infiltrate Grid 086] 
+2140091910 Comms Record: Message for Uncle
+2140091920 Comms Record: Doser Chatter
+2140091930 Comms Record: Coyote Chatter
+2140091940 Comms Record: Independant Merc Comms
+2140091950 Comms Record: Enforcement Squad Comms
+2140091960 Observation Data: Wave Mutation Detected
+2140091970 Observation Data: Blind Spots
+2140091980 Observation Data: The Enforcement System
+2140091990 Text Data: Professor Nagai's Log (5)
 2140092000 [FNR] Archive_Mission placement -- 【FNR】アーカイブ_ミッション配置

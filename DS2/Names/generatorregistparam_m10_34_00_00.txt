@@ -1,12 +1,13 @@
-12500000 Undead Citizen: Saint's Tomb: Battle -- 【アンデッド市民：聖人墓所】戦闘
-21300000 【Ishimori】 -- 【石守】
-22600000 【Dog Mouse】 BOSS -- 【犬ネズミ】BOSS
-22600010 [Dog rat] Zako_ combat -- 【犬ネズミ】ザコ_戦闘
-22600060 [Dog rat] boss's companion _ battle -- 【犬ネズミ】ボスのお供_戦闘
-22620000 [King of rats] Npc -- 【ネズミの王】NPC
-22620001 [King of rats] NPC (Ghost) -- 【ネズミの王】NPC（亡霊）
-33700015 [Amazing dead man: sword] laughing -- 【すごい亡者：剣】笑ってる
-33700020 [Amazing dead man: sword] hitting the wall -- 【すごい亡者：剣】壁叩く
-81100000 Saint's Tomb: Abandoned Saint -- 聖人墓所：捨てられた聖女
-81110000 Saint's Tomb: Knight of the Saint -- 聖人墓所：聖女の騎士
-84920000 【NPC Ash Spirit】NPC for Multi: Transparent Armor -- 【NPC灰霊】マルチ用NPC：透明鎧
+12500000 [REG:12500000] Rupturing Hollow
+15301400 [REG:15301400] Syan Knight
+21300000 [REG:21300000] Crystal Lizard
+22600000 [REG:22600000] Corpse Rat
+22600010 [REG:22600010] Corpse Rat
+22600060 [REG:22600060] Corpse Rat
+22620000 [REG:22620000] Corpse Rat (Rat King)
+22620001 [REG:22620001] Corpse Rat (Rat King)
+33700015 [REG:33700015] Captive Undead
+33700020 [REG:33700020] Captive Undead
+81100000 [REG:81100000] Dingy Cleric Phantom
+81110000 [REG:81110000] Faraam Knight Phantom
+84920000 [REG:84920000] Rhoy the Explorer

@@ -1,0 +1,19 @@
+0 A dummy to keep the "individual ID" displayed above. You can erase this dummy when adding an individual ID.
+34100000 Bonfire flag
+34100050 Initialization flag
+34100100 System flag
+34100200 Character flag (do not reset)
+34100500 Magic floor unlock
+34100500 Magic floor unlock
+34100700 Conversation flag
+34100800 Boss flag (do not reset)
+34100900 For debugging/testing
+34101200 Character flag (do not reset)
+34101500 Object flag (do not reset)
+34102100 System flag
+34102200 Character flag (reset)
+34102500 Object flag (reset)
+34102700 Conversation flag
+34102800 Boss flag (reset)
+34102900 For debugging/testing
+34108500 Object act flag

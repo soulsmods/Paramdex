@@ -1,532 +1,749 @@
-0 Dummy (no use) _ Item lottery (character) -- ダミー（使用禁止）_アイテム抽選（キャラ）
-10 No Drop - Ghosts -- ドロップなし-幽霊
-20 No Drop - Cut Scene -- ドロップなし-カットシーン
-30 No Drop - Boss -- ドロップなし-ボス
-40 Drop - None -- ドロップ-なし
-1020000 Granny - Old Woman's House -- 老婆-老婆の家
-1020100 Player NPC - Tutorial Stage -- プレイヤーNPC-チュートリアルステージ
-1020200 Auga - Sandy Beach -- オーガ-砂浜
-1040000 Skeleton-A's house basement -- スケルトン-Aさん宅地下
-1040100 Piglet-A's House -- 子豚-Aさん宅横
-1040200 Miracle Man - Black Spirit: No Drop -- 奇跡の人-黒霊：ドロップなし
-1100000 Salamander - Boss After-Treasure Room -- サラマンダー-ボス後宝部屋
-1100100 Kingdom Soldier (Dead) - Spear: Knock ing and Mosimoshi -- 王国兵士（亡者）-槍：ノックしてモシモシ奥
-1100200 Wandering Knight (Dead) - One Hand Sword: The Forest of Decaying Giants -- 彷徨える騎士（亡者）-片手剣：朽ちた巨人の森
-1100201 Wandering Knight (Dead) - One Hand Sword: The Forest of Decaying Giants: The Second Lap -- 彷徨える騎士（亡者）-片手剣：朽ちた巨人の森：2周目
-1100500 Bay Grant - Zako: The Forest of Giants -- ベイグラント-ザコ：巨人の森
-1101000 Ishimori-gen5000 -- 石守-gen5000
-1105000 Lower-class soldier (deceased): Shizuku stone and throwing knife - bare hands -- 下級兵士（亡者）：雫石と投げナイフ-素手
-1105100 Lower-class soldier (deceased): Shizuku stone and throwing knife - dagger -- 下級兵士（亡者）：雫石と投げナイフ-短剣
-1105200 Lower-class soldier (deceased): Shizuku stone and throwing knife - one-handed sword: Small shield -- 下級兵士（亡者）：雫石と投げナイフ-片手剣：小盾
-1105300 Lower-class soldier (deceased): Shizuku stone and throwing knife - one-handed axe -- 下級兵士（亡者）：雫石と投げナイフ-片手斧
-1105400 Lower-class soldier (deceased): Shizuku stone and throwing knife - two-handed bow -- 下級兵士（亡者）：雫石と投げナイフ-両手弓
-1140000 Zako of the boss fight - no drop -- ボス戦のザコ-ドロップなし
-1140100 Parent Pig - Tent Square -- 親豚-テント広場
-1140200 Piglet - Tent Square -- 子豚-テント広場
-1140300 ♂ the clothes of the wealthy - keys and incense drops -- 富裕層の服♂-鍵と香木ドロップ
-1140400 Farmer's Clothing ♂-Torch: Head Part 1 -- 農民の服♂-松明：頭パーツ１
-1140500 Farmer's Clothing ♂- Torch: Head Part 2 -- 農民の服♂-松明：頭パーツ２
-1141000 Ishimori-gen1240 -- 石守-gen1240
-1141100 Ishimori-gen1360 -- 石守-gen1360
-1141200 Stone Defense (Explosion)-gen1361 -- 石守（爆発）-gen1361
-1150000 Petrified Auger-gen2500 -- 石化オーガ-gen2500
-1151000 Stone Defense (Explosion) -gen1700 -- 石守（爆発）-gen1700
-1153000 η-mic-gen1850 -- ν-ミミック-gen1850
-1160000 Undead citizen of cage pulling up from well - wandering series drop -- 井戸から引き上げる檻のアンデッド市民-放浪シリーズドロップ
-1164000 【Oblivion】Usually: Zako Bell Guard - Prison of Oblivion -- 【忘却：通常】ザコ鐘守-忘却の牢
-1164100 【Oblivion】Normal】 Dark Spirit Bell Defense - Prison of Oblivion -- 【忘却：通常】闇霊鐘守-忘却の牢
-1171000 Ishimori-gen2403 -- 石守-gen2403
-1173000 η-mic-gen3304 -- ν-ミミック-gen3304
-1181000 Ishimori-gen4850 -- 石守-gen4850
-1190000 Damon Armor (Dead) Captain - Fountain of Recovery -- デーモン鎧（亡者）_隊長-回復の泉
-1190001 Damon Armor (Dead) _ Captain - Round 2: Bow Drop -- デーモン鎧（亡者）_隊長-2周目：弓ドロップ
-1190500 Bay Grant - Zako: Molten Iron Castle -- ベイグラント-ザコ：熔鉄城
-1191000 Ishimori-gen4039 -- 石守-gen4039
-1193000 η-mic-gen4035 -- ν-ミミック-gen4035
-1194100 Zako Bell Mori - Molten Iron Castle -- ザコ鐘守-熔鉄城
-1230000 Wandering Knight (Dead) - Spear C: Forest of Hunting -- 彷徨える騎士（亡者）-槍C：狩猟の森
-1230001 Wandering Knight (Dead) - Spear C: Hunting Forest: Second lap -- 彷徨える騎士（亡者）-槍C：狩猟の森：2周目
-1231000 Ishimori-gen4112 -- 石守-gen4112
-1250000 Poisonless Poison Hornworm - Poison-Extinguishing Drop -- 毒なし毒角虫-毒消しドロップ
-1270000 Wyburn - Dragon's Nest -- ワイバーン-竜の巣
-1271000 Ishimori-gen1200 -- 石守-gen1200
-1271100 Ishimori-gen1300 -- 石守-gen1300
-1271200 Ishimori-gen1400 -- 石守-gen1400
-1271300 Ishimori-gen1401 -- 石守-gen1401
-1271400 Ishimori-gen1402 -- 石守-gen1402
-1271500 Ishimori-gen1403 -- 石守-gen1403
-1271600 Ishimori-gen1404 -- 石守-gen1404
-1271700 Ishimori-gen1500 -- 石守-gen1500
-1271800 Ishimori-gen1501 -- 石守-gen1501
-1271900 Ishimori-gen1600 -- 石守-gen1600
-1272000 Ishimori-gen1601 -- 石守-gen1601
-1273000 η-mic-gen5000 -- ν-ミミック-gen5000
-1273001 []-mic-gen5000:2 laps -- ν-ミミック-gen5000：2周目
-1310000 Ancient Warrior - Two-Handed Sword & Shield_Heide -- 古代の戦士-両手剣＆中盾_ハイデ
-1310100 Ancient Warriors - Oversized Sword_Heide -- 古代の戦士-特大剣_ハイデ
-1310200 Ancient Warriors - Axe Spears & Great Shields_Heide -- 古代の戦士-斧槍＆大盾_ハイデ
-1310300 Ancient Warrior - Two-Handed Ax_Heide -- 古代の戦士-両手長斧_ハイデ
-1310400 Ancient Warriors - Both Hands Mallet_Heide -- 古代の戦士-両手槌_ハイデ
-1310500 Ancient Warrior (Blue Spirit) - Bone Powder Drop -- 古代の戦士（青霊）-骨粉ドロップ
-1320000 Petrified Lion Warrior-gen2041 -- 石化獅子戦士-gen2041
-1320500 Double-Sided Warrior - Zako -- 両面戦士-ザコ
-1321000 Stone Defense - The Forest of Shadows -- 石守-虚ろの影の森
-1331000 Ishimori-gen1400: Faros -- 石守-gen1400：ファロス
-1333000 η-mic-gen1100 -- ν-ミミック-gen1100
-1341000 Ishimori-gen1910 -- 石守-gen1910
-2110000 Necromancer (Immortal) - Cane -- ネクロマンサー（イモータル）-杖
-2210501 [King's Castle: Normal] Bay Grant - Zako: Ring Drop -- 【王城：通常】ベイグラント-ザコ：指輪ドロップ
-2210601 【King's Castle】Bagrant-Zako: Wedge Stone Drop -- 【王城：通常】ベイグラント-ザコ：楔石ドロップ
-2210602 【King's Castle】Usually: Bay Grant- Zako: Wedge Stone Drop: After Week 3 -- 【王城：通常】ベイグラント-ザコ：楔石ドロップ：3週目以降
-2210700 [King's Castle: Normal] Warrior in the Mirror - Zako -- 【王城：通常】鏡の中の戦士-ザコ
-2211000 【King's Castle】Ishimori-gen1098 -- 【王城：通常】石守-gen1098
-2240000 NPC Black Witch - Hats and Veils -- NPC黒魔女-帽子とベール
-2240001 NPC Black Witch - Hat and Veil: Lap 2 -- NPC黒魔女-帽子とベール：2周目
-4030000 NPC- Entire map -- NPC-マップ全体
-4030001 NPC-2 Lap_Entire Map -- NPC-2周目_マップ全体
-4030002 NPC-3 Lap_Entire Map -- NPC-3周目_マップ全体
-4030003 NPC-4 Lap_Entire Map -- NPC-4周目_マップ全体
-4030004 NPC-5 Lap_Entire Map -- NPC-5周目_マップ全体
-4030005 NPC-6 Laps_Entire Map -- NPC-6周目_マップ全体
-4030006 NPC-7 Lap_Entire Map -- NPC-7周目_マップ全体
-4030007 NPC-8 lap_entire map -- NPC-8周目_マップ全体
-5000000 Drop-1 for Guest Players -- ゲストプレイヤー用ドロップ-1
-5001000 Drop-2 for Guest Players -- ゲストプレイヤー用ドロップ-2
-5002000 Drop-3 for Guest Players -- ゲストプレイヤー用ドロップ-3
-5003000 Drop-4 for Guest Players -- ゲストプレイヤー用ドロップ-4
-5004000 Drop-5 for Guest Players -- ゲストプレイヤー用ドロップ-5
-5005000 Drop-6 for Guest Players -- ゲストプレイヤー用ドロップ-6
-5006000 Drop-7 for Guest Players -- ゲストプレイヤー用ドロップ-7
-5007000 Drop-8 for Guest Players -- ゲストプレイヤー用ドロップ-8
-5008000 Drop-9 for Guest Players -- ゲストプレイヤー用ドロップ-9
-5009000 Drop-10 for Guest Players -- ゲストプレイヤー用ドロップ-10
-6000000 Strong er drop - the entire map -- 強者用ドロップ-マップ全体
-10000000 Goblins - Bare Hands: The Forest of Shadows of The Shadows -- ゴブリン（生者）-素手：虚ろの影の森
-10000100 Goblins - Bare Hands: A Gap's Cave -- ゴブリン（生者）-素手：隙間の洞
-10001000 Goblins - Sword -- ゴブリン（生者）-剣
-10002000 Goblins - Sling -- ゴブリン（生者）-スリング
-10100000 Cobold - Gap Sinus -- コボルト-隙間の洞
-10100100 Kobold-Anne Deal's House -- コボルト-アン・ディールの館
-10200000 Kingdom Soldier (Dead) - Spear: Medium Shield -- 王国兵士（亡者）-槍：中盾
-10201000 Kingdom Soldier (Dead) - Two-Handed Sword -- 王国兵士（亡者）-両手剣
-10202000 Kingdom Soldier (Dead) - Two-Handed Long Axe -- 王国兵士（亡者）-両手長斧
-10203000 Kingdom Soldier (Dead) - Stabbing Sword: Medium Shield -- 王国兵士（亡者）-刺突剣：中盾
-10204000 Kingdom Soldier (Dead) - Bow -- 王国兵士（亡者）-弓
-10205000 Kingdom Soldier (Dead) - Bare Hands -- 王国兵士（亡者）-素手
-10210000 Kingdom Soldier (Living) - Spear: Medium Shield -- 王国兵士（生者）-槍：中盾
-10211000 Kingdom Soldier (Living) - Two-Handed Sword -- 王国兵士（生者）-両手剣
-10213000 Kingdom Soldier (Living) - Dying -- 王国兵士（生者）-瀕死
-10214000 Kingdom Soldier (Raw) - Bow -- 王国兵士（生者）-弓
-10300000 Lower Soldier (Dead) - Bare Hands: The Forest of Decayed Giants -- 下級兵士（亡者）-素手：朽ちた巨人の森
-10300100 Lower-class soldiers (dead) - bare hands: Valley of the reservoir -- 下級兵士（亡者）-素手：溜りの谷
-10301000 Lower Soldier (Dead) - Dagger: The Forest of Decaying Giants -- 下級兵士（亡者）-短剣：朽ちた巨人の森
-10301100 Lower Soldier (Dead) - Dagger: Valley of The Reservoir -- 下級兵士（亡者）-短剣：溜りの谷
-10302000 Lower Soldier (Deceased) - One Hand Sword: Small Shield: The Forest of Decaying Giants -- 下級兵士（亡者）-片手剣：小盾：朽ちた巨人の森
-10302100 Lower-class soldier (deceased) - One-handed sword: Small shield: Valley of the reservoir -- 下級兵士（亡者）-片手剣：小盾：溜りの谷
-10302200 Lower-class soldier (dead) - one-handed sword: small shield: hidden port -- 下級兵士（亡者）-片手剣：小盾：隠れ港
-10303000 Lower Soldier (Dead) - One-Handed Axe: The Decaying Giant Forest -- 下級兵士（亡者）-片手斧：朽ちた巨人の森
-10303100 Lower Soldier (Dead) - One-Handed Axe: Valley of The Reservoir -- 下級兵士（亡者）-片手斧：溜りの谷
-10303200 Lower Soldier (Dead) - One-Handed Axe: Hidden Port -- 下級兵士（亡者）-片手斧：隠れ港
-10304000 Lower Soldier (Dead) - Two-Handed Bow: The Forest of Decaying Giants -- 下級兵士（亡者）-両手弓：朽ちた巨人の森
-10304100 Lower Soldier (Dead) - Two-Handed Bow: Valley of The Reservoir -- 下級兵士（亡者）-両手弓：溜りの谷
-10305000 Lower Soldier (Deceased) - Two-Handed Bow (Fire arrow): Valley of the Reservoir -- 下級兵士（亡者）-両手弓（火矢）：溜りの谷
-10305100 Lower-class soldiers (dead) - two-handed bow (fire and arrow): Hidden port -- 下級兵士（亡者）-両手弓（火矢）：隠れ港
-10310000 Lower Soldier (Raw) - Dagger: Hidden Port -- 下級兵士（生者）-短剣：隠れ港
-10310100 Lower Soldier (Raw) - Dagger: Memories of giants -- 下級兵士（生者）-短剣：巨人の記憶
-10311000 Lower Soldier (Raw) - One Hand Sword: Hidden Port -- 下級兵士（生者）-片手剣：隠れ港
-10311100 Lower Soldier (Raw) - One Hand Sword: The Memory of the Giant -- 下級兵士（生者）-片手剣：巨人の記憶
-10312000 Lower Soldier (Raw) - One-Handed Axe: Hidden Port -- 下級兵士（生者）-片手斧：隠れ港
-10312100 Lower Soldier (Raw) - One Hand Axe: The Memory of the Giant -- 下級兵士（生者）-片手斧：巨人の記憶
-10313000 Lower Soldier (Raw) - Bow: Hidden Port -- 下級兵士（生者）-弓：隠れ港
-10313100 Lower Soldier (Raw) - Bow: Memories of giants -- 下級兵士（生者）-弓：巨人の記憶
-10500000 Fairy Shrine Maiden - Bare Hands -- 妖精の巫女-素手
-10501000 Fairy Shrine Maiden - Cane -- 妖精の巫女-杖
-10600000 Dark Priest (Dead) - Color (1)_No Mask -- ダークプリースト（亡者）-色①_仮面無し
-10620000 Dark Priest (Deceased) - Color (3) _ Head c -- ダークプリースト（亡者）-色③_頭部c
-10700000 Parasite Spider (Parasitic) - -- パラサイトスパイダー（寄生）-
-10800000 Rogue (Dead) - Dagger x 2 -- ローグ（亡者）-短剣×２
-10801000 Rogue (dead) - one hand mallet × 2 -- ローグ（亡者）-片手槌×２
-10802000 Rogue (Dead) - Two Bows x 2 -- ローグ（亡者）-両手弓×２
-11300000 Sailor (dead) - One-handed sword: Small shield -- 水兵（亡者）-片手剣：小盾
-11301000 Sailor (dead) - Song sword × 2 -- 水兵（亡者）-曲剣×２
-11302000 Sailor (Dead) - Two-Handed Bow -- 水兵（亡者）-両手弓
-11500000 Traveler's Clothing ♂- Bare Hands: Madura -- 旅人の服♂-素手：マデューラ
-11500100 Traveler's Clothing ♂- Bare Hands: Gap ing Sinus -- 旅人の服♂-素手：隙間の洞
-11501000 Traveler's Clothes ♂ - Dagger -- 旅人の服♂-短剣
-11700000 Statue_Pawn-Spear: Shield -- スタチュー_ポーン-槍：盾
-11800000 Dark Wizard (Deceased) - Color (1): Head A -- ダークウィザード（亡者）-色①：頭部A
-11800100 Dark Wizard (Deceased) - Color (1): Head A: Death penalty -- ダークウィザード（亡者）-色①：頭部A：不死刑場
-11820000 Dark Wizard (Deceased) - Color (3): Head B -- ダークウィザード（亡者）-色③：頭部B
-11900000 Lion Black Mage (Born) - -- 獅子黒魔道士（生者）-
-12100000 Giant Lower Soldier (Giant) - Bare Hands -- 巨人下級兵士（巨人）-素手
-12101000 Giant Lower Soldier (Giant) - Two-Handed Club -- 巨人下級兵士（巨人）-両手棍棒
-12102000 Giant Lower Soldier Poison (Giant) - Bare Hands -- 巨人下級兵士 毒（巨人）-素手
-12103000 Giant Lower Soldier Fire (Giant) - Bare Hands -- 巨人下級兵士 火（巨人）-素手
-12300000 Deformed Shadow (Born) - Mask A:2 Swordnails -- 異形の影（生者）-仮面A：２刀爪
-12300001 Deformed Shadow (Born) - Mask A:2 Sword Claw: 2nd Lap -- 異形の影（生者）-仮面A：２刀爪：2周目
-12301000 Deformed Shadow (Born) - Mask A: Dagger: Stabbing Sword -- 異形の影（生者）-仮面A：短剣：刺突剣
-12302000 Deformed Shadow (Born) - Mask B:2 Swordnails -- 異形の影（生者）-仮面B：２刀爪
-12303000 Deformed Shadow (Born) - Mask B: Dagger: Stabbing Sword -- 異形の影（生者）-仮面B：短剣：刺突剣
-12400000 Assassin (Born) - Mask A: 2 Swords -- 暗殺者（生者）-仮面A：２刀爪
-12401000 Assassin (Born) - Mask A: Dagger -- 暗殺者（生者）-仮面A：短剣
-12402000 Assassin (Born) - Mask A: Curved Sword -- 暗殺者（生者）-仮面A：曲剣
-12403000 Assassin (Born) - Mask A: Bow -- 暗殺者（生者）-仮面A：弓
-12500000 Undead Citizen - Explosion: The Tomb of the Saints -- アンデッド市民-爆発：聖人墓所
-12500100 Undead Citizen - Explosion: Prison of Oblivion -- アンデッド市民-爆発：忘却の牢
-12500200 Undead Citizen - Explosion: Scum Bottom -- アンデッド市民-爆発：クズ底
-12501000 Undead Citizens - Poison -- アンデッド市民-毒
-12502000 Undead Citizens - Acid -- アンデッド市民-酸
-12503000 Undead Citizens - Petrified -- アンデッド市民-石化
-12504000 Undead Citizen - Normal: Prison of Oblivion -- アンデッド市民-ノーマル：忘却の牢
-12504100 Undead Citizen - Normal: Kuzbottom -- アンデッド市民-ノーマル：クズ底
-12505000 Trapping After Undead Citizen-Boss -- アンデッド市民-ボス後トラップ
-12700000 Dead Workers (Dead) - Bare Hands: Hunting Forest -- 死者の労働者（亡者）-素手：狩猟の森
-12700100 The Workerof the Dead - Bare Hands: The Tomb of Immortality -- 死者の労働者（亡者）-素手：不死廟
-12700200 Dead Workers (Dead) - Bare Hands: Gerdra -- 死者の労働者（亡者）-素手：ジェルドラ
-12700300 Dead Workers (Dead) - Bare Hands: Valley of The Reservoir -- 死者の労働者（亡者）-素手：溜りの谷
-12700400 The Workers of the Dead - Bare Hands: The Tomb of the Saints -- 死者の労働者（亡者）-素手：聖人墓所
-12700500 The Workerof the Dead - Bare Hands: The Old Dark Hole -- 死者の労働者（亡者）-素手：古き闇の穴
-12701000 Dead Workers (Dead) - Torch: Hunting Forest -- 死者の労働者（亡者）-松明：狩猟の森
-12701100 The Workers of the Dead - Torch: The Tomb of Immortality -- 死者の労働者（亡者）-松明：不死廟
-12702000 Workers of the Dead - Broken Straight Sword -- 死者の労働者（亡者）-折れた直剣
-12900000 The Keeper of the Forest - Cane -- 森の番人-杖
-12901000 The Keeper of the Forest - Bell -- 森の番人-ベル
-13100000 Cleric - War -- クレリック-戦鎚
-13101000 Cleric-Bell -- クレリック-ベル
-13102000 Cleric- Cane -- クレリック-杖
-13200000 Skeleton-2 Sword Style: Valley of The Reservoir -- スケルトン-２刀流：溜りの谷
-13200100 Skeleton-2 Sword Style: Hunting Forest -- スケルトン-２刀流：狩猟の森
-13201000 Skeleton - One Hand Bent Sword -- スケルトン-片手曲剣
-13202000 Skeleton - One-handed sting -- スケルトン-片手刺突
-13203000 Skeleton - Bow -- スケルトン-弓
-13300000 Wheel Skeleton - Bare Hands -- 車輪スケルトン-素手
-13301000 Wheel Skeleton - Song Sword -- 車輪スケルトン-曲剣
-13302000 Wheel Skeleton - The Great Sword -- 車輪スケルトン-大曲剣
-13400000 Dwarf- -- ドワーフ-
-13500000 Heavy Dwarf - Two-Handed Axe x 2: Head A -- 重ドワーフ-両手斧×２：頭部A
-13501000 Heavy Dwarf - Mallet: Head A -- 重ドワーフ-両手槌：頭部A
-13502000 Heavy Dwarf- Bow: Head A -- 重ドワーフ-弓：頭部A
-13503000 Heavy Dwarf - Two-Handed Axe x 2: Head B -- 重ドワーフ-両手斧×２：頭部B
-13504000 Heavy Dwarf - Mallet: Head B -- 重ドワーフ-両手槌：頭部B
-13505000 Heavy Dwarf-Bow: Head B -- 重ドワーフ-弓：頭部B
-13701000 Necromancer (Immortal) - Shield: Wand -- ネクロマンサー（イモータル）-盾：杖
-13800000 TortureMen - Torture Instruments -- 拷問人-拷問器具
-13801000 TortureMan - Whip -- 拷問人-鞭
-13900000 Man-made Immortal - Sickle: Hunting Forest -- 人造不死人-鎌：狩猟の森
-13900100 Man-made Immortal - Sickle: Valley of the Reservoir -- 人造不死人-鎌：溜りの谷
-13901000 Man-made Immortal - Bare Hands -- 人造不死人-素手
-14100000 Strengthened Immortals - Anne Deal's House -- 強化不死人-アン・ディールの館
-14100100 Strengthening The Immortals - Prisons of Oblivion -- 強化不死人-忘却の牢
-14600000 The Clothes of the Wealthy♂ - Dagger -- 富裕層の服♂-短剣
-14601000 The Clothes of the Wealthy ♂ - Stabbing Sword -- 富裕層の服♂-刺突剣
-14602000 ♂ the clothes of the wealthy - Dagger & Torch -- 富裕層の服♂-短剣＆松明
-14700000 Sick people's clothes ♂- -- 病人の服♂-
-14800000 Farmer's Clothes ♂- Mallet: Head Part 1 -- 農民の服♂-両手槌：頭パーツ１
-14801000 Farmer's Clothes ♂- Mallet: Head Part 2 -- 農民の服♂-両手槌：頭パーツ２
-14802000 Farmer's Clothing ♂- Two-Handed Sickle: Head Part 1 -- 農民の服♂-両手鎌：頭パーツ１
-14803000 Farmer's Clothing ♂ - Two-Handed Sickle: Head Part 2 -- 農民の服♂-両手鎌：頭パーツ２
-14900000 Steelworkers without aprons- -- 製鉄所員_エプロン無し-
-15000000 Statue_Night- -- スタチュー_ナイト-
-15100000 Kingdom Soldier Heavy Warrior - Color (1): Two-Handed Hammer -- 王国兵重戦士-色①：両手戦槌
-15120000 Kingdom Soldier Heavy Warrior - Color (3): Two-Handed Battle Hammer: The Decaying Giant Forest -- 王国兵重戦士-色③：両手戦槌：朽ちた巨人の森
-15120100 Kingdom Soldier Heavy Warrior - Color (3): Two-Handed Mallet: Gerdra -- 王国兵重戦士-色③：両手戦槌：ジェルドラ
-15121000 Kingdom Soldier Heavy Warrior - Color (3): One Hand Club -- 王国兵重戦士-色③：片手棍棒
-15200000 Kingdom Soldier Warrior - Two-Handed Sword: Drang Greig -- 王国兵戦士-両手剣：ドラングレイグ
-15200100 Kingdom Soldier Warrior - Two-Handed Sword: Prison of Oblivion -- 王国兵戦士-両手剣：忘却の牢
-15200101 Kingdom Soldier Warrior - Two-Handed Sword: Prison of Oblivion: Lap 2 -- 王国兵戦士-両手剣：忘却の牢：2周目
-15201000 Kingdom Soldier Warrior - Crossbow: Drang Greig -- 王国兵戦士-クロスボウ：ドラングレイグ
-15201100 Kingdom Soldier Warrior - Crossbow: Prison of Oblivion -- 王国兵戦士-クロスボウ：忘却の牢
-15201101 Kingdom Soldier Warrior - Crossbow: Prison of Oblivion: Lap 2 -- 王国兵戦士-クロスボウ：忘却の牢：2周目
-15300000 Royal Guard Escort - Axe Spear: Drang Greig -- 王国兵護衛兵-斧槍：ドラングレイグ
-15300100 Guardian of the Kingdom - Axe Spear: The Nest of the Guard Dragon -- 王国兵護衛兵-斧槍：守り竜の巣
-15300200 Royal Guard Escort - Axe Spear: Amana -- 王国兵護衛兵-斧槍：アマナ
-15300300 Royal Guard Guards - Axe Spear: Tomb of Immortality -- 王国兵護衛兵-斧槍：不死廟
-15301000 Royal Guard Escort - Oversized Sword: Drang Greig -- 王国兵護衛兵-特大剣：ドラングレイグ
-15301100 Royal Guard Escorts - Oversized Sword: The Nest of The Guard dragon -- 王国兵護衛兵-特大剣：守り竜の巣
-15301200 Royal Guard Escort - Extra Large Sword: Amana -- 王国兵護衛兵-特大剣：アマナ
-15301300 Royal Guard Escort - Extra Large Sword: Tomb of Immortality -- 王国兵護衛兵-特大剣：不死廟
-15400000 Skeleton aristocracy - -- スケルトン貴族-
-15500000 Lizard man - -- トカゲ人-
-15700000 Armor Skeleton-2 Sword Style: Death penalty -- 鎧スケルトン-２刀流：不死刑場
-15701000 Armor Skeleton - One Hand Bent Sword: Death penalty -- 鎧スケルトン-片手曲剣：不死刑場
-15702000 Armor Skeleton - One Hand Stabbing: Death Penalty -- 鎧スケルトン-片手刺突：不死刑場
-15703000 Armor Skeleton - Bow: Death penalty -- 鎧スケルトン-弓：不死刑場
-20300000 Parasite Spider - -- パラサイトスパイダー-
-20300001 Parasite Spider -Lap 2 -- パラサイトスパイダー-2周目
-20400000 Great Moss - -- グレートモス-
-20500000 Poison Hornworm - Poison: Valley of The Reservoir -- 毒角虫-毒：溜りの谷
-20500100 Poison Hornworm - Poison: Scum Bottom -- 毒角虫-毒：クズ底
-20510000 Poison Hornworm- Acid: Gerdra -- 毒角虫-酸：ジェルドラ
-20510100 Poison Hornworm - Acid: Anne Deal's House -- 毒角虫-酸：アン・ディールの館
-20510200 Poison Hornworm- Acid: Amana -- 毒角虫-酸：アマナ
-20600000 Needle maggots - -- 針ウジ虫-
-20900000 Hunting Dog - Color (1): Anne Deal's House -- 狩猟犬-色①：アン・ディールの館
-20900100 Hunting Dog - Color (1): Forest of Shadows -- 狩猟犬-色①：虚ろの影の森
-20900200 Hunting Dog - Color (1): Scum Bottom -- 狩猟犬-色①：クズ底
-21000000 Basilisk - Color (1): Forest of Shadows -- バジリスク-色①：虚ろの影の森
-21000100 Basilisk - Color (1): Scum Bottom -- バジリスク-色①：クズ底
-21000200 Basilisk - Color (1): Anne Deal's House -- バジリスク-色①：アン・ディールの館
-21000300 Basilisk-Color (1): The Tomb of the Saints -- バジリスク-色①：聖人墓所
-21000400 Basilisk - Color (1): Eyeball Crush -- バジリスク-色①：目玉潰れ
-21200000 Wyburn- -- ワイバーン-
-21300000 Stone Mori- -- 石守-
-21400000 Fang Beast - -- 牙獣-
-21600000 Door possessed - -- 扉憑き-
-21700000 The Hermit in the Darkness- -- 闇に隠れし者-
-22000000 Giant VenomOus Worm- Acid: Valley of The Reservoir -- 巨大毒角虫-酸：溜りの谷
-22000100 Giant Venomous Horned Worm - Acid: The House of Anne Deal -- 巨大毒角虫-酸：アン・ディールの館
-22000200 Giant VenomOus Worm- Acid: Amana -- 巨大毒角虫-酸：アマナ
-22200000 Giant Basilisk - Color (2): Anne Deal's House -- 巨大バジリスク-色②：アン・ディールの館
-22200100 Giant Basilisk - Color (2): Forest of Shadows -- 巨大バジリスク-色②：虚ろの影の森
-22300000 Corpse Asse Rat - Color (1) -- 死体あさりネズミ-色①
-22400000 Coal Tar - -- コールタール-
-22600000 Dog Rat - -- 犬ネズミ-
-22610000 Dog Mouse - Color (2) -- 犬ネズミ-色②
-22620000 The King of Rats- -- ネズミの王-
-22700000 Wild Dogs - Prisons of Oblivion -- 野犬-忘却の牢
-22700100 Wild Dogs - Hidden Harbor -- 野犬-隠れ港
-30000000 Auger -Color (1): Gap Sinus -- オーガ（生者）-色①：隙間の洞
-30000100 Auger (Raw) - Color (1): Amana -- オーガ（生者）-色①：アマナ
-30000200 Auger (Born) - Color (1): Anne Deal's House -- オーガ（生者）-色①：アン・ディールの館
-30100000 Wandering Knight (Dead) - One-handed Sword -- 彷徨える騎士（亡者）-片手剣
-30100001 Wandering Knight (Dead) - One-handed sword: Second lap -- 彷徨える騎士（亡者）-片手剣：2周目
-30101000 Wandering Knight (Dead) - Spear A -- 彷徨える騎士（亡者）-槍A
-30101001 Wandering Knight (Dead) - Spear A: Lap 2 -- 彷徨える騎士（亡者）-槍A：2周目
-30102000 Wandering Knight (Dead) - Spear B -- 彷徨える騎士（亡者）-槍B
-30102001 Wandering Knight (Dead) - Spear B: Lap 2 -- 彷徨える騎士（亡者）-槍B：2周目
-30103000 Wandering Knight (Dead) - Spear C -- 彷徨える騎士（亡者）-槍C
-30103001 Wandering Knight (Dead) - Spear C: Lap 2 -- 彷徨える騎士（亡者）-槍C：2周目
-30200000 Prison man (dead) - -- 獄吏（亡者）-
-30330000 Double-Sided Warrior - Snake Head -- 両面戦士-ヘビ頭
-30400000 Banshee_Monster- -- バンシー（亡者）_怪物-
-30401000 Banshee (Deceased) _Beauty- -- バンシー（亡者）_美女-
-30500000 Damon Knight (Dead) - -- デーモンナイト（亡者）-
-30600000 Damon Armor (Dead) _ Captain - Sword -- デーモン鎧（亡者）_隊長-刀
-30601000 Damon Armor (Dead) _ Captain - Bow: Molten Castle -- デーモン鎧（亡者）_隊長-弓：熔鉄城
-30601100 Damon Armor (Dead) _ Captain - Bow: Dran Greig -- デーモン鎧（亡者）_隊長-弓：ドラングレイグ
-30700000 Durahan (deceased) - -- デュラハン（亡者）-
-30710000 Durahan (born) - -- デュラハン（生者）-
-30711000 Durahan (raw) - only head -- デュラハン（生者）-頭だけ
-30800000 Lion Warrior - -- 獅子戦士-
-30810000 Lion Warrior (2) - -- 獅子戦士②-
-30900000 Giant Senior Soldier (Giant) - Memories of Giants -- 巨人上級兵士（巨人）-巨人の記憶
-30900100 Giant Senior Soldier (Giant) - Kuzbottom -- 巨人上級兵士（巨人）-クズ底
-30960000 New Giant Senior Soldier (Dead) - -- 新・巨人上級兵士（亡者）-
-30970000 New Giant Senior Soldier (Live) - -- 新・巨人上級兵士（生者）-
-31100000 Cavalry - Cavalry Soldiers -- 騎人兵-騎乗兵士
-31200000 Immortal Senior Soldier (Immortal) - Sickle: Robe -- イモータル上級兵士（イモータル）-鎌：ローブ
-31201000 Immortal Senior Soldier (Immortal) - Spear: Robe: The Nest of the Guarddragon -- イモータル上級兵士（イモータル）-槍：ローブ：守り竜の巣
-31201100 Immortal Senior Soldier (Immortal) - Spear: Robe: Valley of The Reservoir -- イモータル上級兵士（イモータル）-槍：ローブ：溜りの谷
-31202000 Immortal Senior Soldier (Immortal) - Sickle: Armor: The Nest of the Guard Dragon -- イモータル上級兵士（イモータル）-鎌：鎧：守り竜の巣
-31202100 Immortal Senior Soldier (Immortal) - Sickle: Armor: The Tomb of Immortality -- イモータル上級兵士（イモータル）-鎌：鎧：不死廟
-31203000 Immortal Advanced Soldier (Immortal) - Spear: Armor: Defending Dragon's Nest -- イモータル上級兵士（イモータル）-槍：鎧：守り竜の巣
-31203100 Immortal Senior Soldier (Immortal) - Spear: Armor: Valley of The Reservoir -- イモータル上級兵士（イモータル）-槍：鎧：溜りの谷
-31203200 Immortal Senior Soldier (Immortal) - Spear: Armor: Immortal Mausoleum -- イモータル上級兵士（イモータル）-槍：鎧：不死廟
-31204000 Immortal Senior Soldier (Immortal) - Sickle: Naked -- イモータル上級兵士（イモータル）-鎌：裸
-31205000 Immortal Senior Soldier (Immortal) - Spear: Naked -- イモータル上級兵士（イモータル）-槍：裸
-31300000 Falcon Warrior - Direct Sword - Shield - No Hawk -- 鷹匠戦士-直剣＆盾：鷹なし
-31301000 Falcon Warrior - Sashimi Sword - Shield : No Hawk -- 鷹匠戦士-刺剣＆盾：鷹なし
-31302000 Falcon Warrior - Sashimi & Hawk -- 鷹匠戦士-刺剣＆鷹
-31303000 Falcon Warrior - Bow: No Hawk -- 鷹匠戦士-弓：鷹なし
-31400000 Elephant (dead) - -- 象人（亡者）-
-31500000 Elephant Man (Born) - -- 象人（生者）-
-31600000 Captured Magician (Born) - -- 捕らわれた魔導士（生者）-
-31700000 Dragon Professor - -- 龍の教授-
-31800000 Bay Grant - No Luggage -- ベイグラント-荷物なし
-31801000 Bay Grant - Luggage Available -- ベイグラント-荷物あり
-31900000 Damon Armor (Dead) _Mass-Produced-Sword -- デーモン鎧（亡者）_量産型-刀
-31901000 Damon Armor (Dead) _Mass Production Type-Bow -- デーモン鎧（亡者）_量産型-弓
-32100000 [] Mimic_Wooden- -- ν－ミミック_木製-
-32101000 []-mimic_iron- -- ν－ミミック_鉄製-
-32400000 Gargoil - -- ガーゴイル-
-32500000 Warrior in the Mirror - -- 鏡の中の戦士-
-32600000 Butcher- -- ブッチャー-
-32700000 Bone Dragon - -- 骨ドラゴン-
-33000000 Ancient Warriors - Two-Handed Sword & Medium Shield -- 古代の戦士-両手剣＆中盾
-33001000 Ancient Warriors - Oversized Sword -- 古代の戦士-特大剣
-33002000 Ancient Warriors - Axe Spears & Great Shields -- 古代の戦士-斧槍＆大盾
-33003000 Ancient Warrior - Two-Handed Axe -- 古代の戦士-両手長斧
-33004000 Ancient Warrior - Two Hands Mallet -- 古代の戦士-両手槌
-33100000 Demon Heavy Soldier - Two-Handed Sword & Medium Shield -- デーモン重兵士-両手剣＆中盾
-33101000 Demon Heavy Soldier - Oversized Sword -- デーモン重兵士-特大剣
-33102000 Damon Heavy Soldier - Two-Handed Long Axe -- デーモン重兵士-両手長斧
-33103000 Damon Heavy Soldier - Both Hands Mallet -- デーモン重兵士-両手槌
-33104000 Damon Heavy Soldier - One Hand Mallet -- デーモン重兵士-片手槌
-33200000 Queen Knight A- -- 王妃の騎士A-
-33300000 Queen Knight B- -- 王妃の騎士B-
-33400000 Queen Knight C- -- 王妃の騎士C-
-33700000 Amazing Dead - Bare Hands: Hunting Forest -- すごい亡者-素手：狩猟の森
-33700100 Amazing Dead - Bare Hands: Valley of The Reservoir -- すごい亡者-素手：溜りの谷
-33700200 Amazing Dead - Bare Hands: Scum Bottom -- すごい亡者-素手：クズ底
-33700300 Great Dead - Bare Hands: The Tomb of the Saints -- すごい亡者-素手：聖人墓所
-33700400 The Great Dead - Bare Hands: The Prison of Oblivion -- すごい亡者-素手：忘却の牢
-33700500 Amazing Dead - Bare Hands: Heide Great Fire Tower -- すごい亡者-素手：ハイデ大火塔
-33700600 Amazing Dead - Bare Hands: Amana -- すごい亡者-素手：アマナ
-33701000 Amazing Dead - Torch: Hunting Forest -- すごい亡者-松明：狩猟の森
-33701100 Amazing Dead - Torch: Scum Bottom -- すごい亡者-松明：クズ底
-33702000 Amazing Dead - Sword: Hunting Forest -- すごい亡者-剣：狩猟の森
-33702100 Amazing Dead - Sword: Scum Bottom -- すごい亡者-剣：クズ底
-33702200 Great Dead - Sword: The Tomb of the Saints -- すごい亡者-剣：聖人墓所
-33702300 Amazing Dead - Sword: Amana -- すごい亡者-剣：アマナ
-50000000 Javaza Hat - -- ジャバザハット-
-50100000 Naga- -- ナーガ-
-50200000 Manscorpion ♂- -- マンスコーピオン♂-
-50300000 Manscorpion ♀- -- マンスコーピオン♀-
-50400000 Mirror Night - -- ミラーナイト-
-50610000 Agaduran Stand - -- アガドゥランのスタンド-
-50620000 Wormhole - -- ワームホール-
-50650000 Tomb Guard - -- 墓守-
-50700000 Rich- -- リッチ-
-50800000 Reis- -- レイス-
-50900000 Dark Bishop - -- ダークビショップ-
-51100000 Phantom Knight (Spirit) - -- ファントムナイト（霊体）-
-51200000 Phantom Mage (Spirit) - -- ファントムメイジ（霊体）-
-51460000 Old King- -- 年老いた王-
-60000000 Old Dragon - -- 古の龍-
-60100000 Salamander - -- サラマンダー-
-60200000 Beautiful Voice Frog - -- 美声カエル-
-60300000 Spider Queen - -- 蜘蛛の女王-
-60310000 Spider Queen (Cliff) - -- 蜘蛛の女王（崖）-
-60700000 Molten Iron Daemon - -- 熔鉄デーモン-
-60800000 Corrosive insects - outer shells -- 腐食虫-外殻
-61100000 Heavy Cavalry - -- 重騎馬兵-
-61911000 Silver Chariot- -- シルバーチャリオット-
-62500000 Ornstein - -- オーンスタイン-
-62600000 Forgotten Sinners - -- 忘れられた罪人-
-62700000 Queen's Armor Form - -- 王妃の鎧形態-
-62800000 Giant rat- -- 巨大ネズミ-
-70050000 Dragon's Shrine Maiden for In-Game - -- 龍の巫女＿インゲーム用-
-70150000 Dragon Shrine Maiden (Child) For In-Game - -- 龍の巫女（子供）＿インゲーム用-
-70360000 New Queen- -- 新王妃-
-70450000 Ladder shop_in for games - -- 梯子屋＿インゲーム用-
-70550000 Retired Fire Protection Woman 1_In For Game - -- 退役の火防女１＿インゲーム用-
-70560000 Retired Fire Protection Woman 2_In For Game- -- 退役の火防女２＿インゲーム用-
-70580000 Retired Fire Protection Woman 3_In For Game - -- 退役の火防女３＿インゲーム用-
-72110000 The Spirit of the Prime Minister - -- 宰相の霊-
-72300000 Housekeeper- -- 家政婦-
-72400000 Captain of the Kingdom - -- 王国隊長-
-72500000 Pilgrims in the abyss - -- 深淵の巡礼者-
-72600000 Dwarf Gabalance - -- ドワーフ・ガバランス -
-73000000 Mirror Night Under Me 1_Oversized Sword- -- ミラーナイトの下僕１_特大剣-
-73101000 Mirror Night Under Me 2_Two-Handed Ax- -- ミラーナイトの下僕２_両手長斧-
-73200000 Sorcerer Sinner 1- -- 呪術師の罪人１-
-73300000 Sorcerer Sinner 2- -- 呪術師の罪人２-
-74100000 Heartbroken Blue Warrior - -- 心折れた青教戦士-
-74200000 Wandering Warrior - One Hand Axe -- 放浪の戦士-片手斧
-74201000 Wandering Warrior - The Great Sword -- 放浪の戦士-大剣
-74300000 Tsukiko Ya- -- 月光爺-
-74400000 Patch - -- パッチ-
-75100000 Atlas - -- 地図書き-
-75200000 Female Knight Akertilla - -- 女騎士アーケルティーラ-
-75300000 Bell Guard - -- 鐘守-
-75400000 Yorozu Babaa - -- よろずババア-
-75500000 Stalker Warrior - -- ストーカー戦士-
-76000000 Girl 1 of the Bard - -- 吟遊詩人の少女１ -
-76010000 Bard Girl 2- -- 吟遊詩人の少女２-
-76020000 Captive Girl - -- 虜囚の少女-
-76100000 Armor shop - -- 防具屋-
-76200000 Material shop - -- 素材屋-
-76300000 Sorcerer- -- 呪術屋-
-76400000 Blacksmith - Tonkachi & Fire Scissors -- 鍛冶屋-トンカチ＆火鋏
-76401000 Blacksmith - Otsuchi -- 鍛冶屋-大槌
-76430000 EX Blacksmith - -- ＥＸ鍛冶屋-
-76600000 Sorcerer- -- 魔術屋-
-76800000 Spell Mania - -- スペルマニア-
-76900000 Miracle Man Leash - -- 奇跡の人リーシュ-
-77000000 Dark Man - Cane -- 闇術屋-杖
-77001000 Dark Man - Sting Sword -- 闇術屋-刺剣
-77100000 The Enclosed Man - -- 封じられた人-
-77200000 A curiosity shop- -- 珍品屋-
-77600000 Top Weapon: Bird Goal - -- 上位武器屋：バードゴール-
-77700000 Cat - -- 猫-
-78300000 Black Phantom Shop - -- 黒ファントム屋-
-78400000 The Teacher of The Sin - -- 免罪の教戒師-
-78500000 Guardian Knight - Two-Handed Ax & Medium Shield -- 守護の騎士-両手長斧＆中盾
-78501000 Guardian Knight - Two-Handed Axe & Bell -- 守護の騎士-両手長斧＆ベル
-78600000 Glitter Girl - -- キラキラ娘-
-81000000 NPC for Multi: Swordsman (Man) - Red Spirit: Hunting Forest -- マルチ用NPC：剣士（男）-赤霊：狩猟の森
-81000100 NPC for Multi: Swordsman (Male) - White Spirit: Valley of The Reservoir -- マルチ用NPC：剣士（男）-白霊：溜りの谷
-81000200 NPC for Multi: Swordsman (Male) - Bell Guard Area -- マルチ用NPC：剣士（男）-鐘守エリア
-81000300 NPC for Multi: Swordsman (Male) - White Spirit: Heide Great Fire Tower -- マルチ用NPC：剣士（男）-白霊：ハイデ大火塔
-81000400 NPC for Multi: Swordsman (Man) - White Spirit: Altar of Amana -- マルチ用NPC：剣士（男）-白霊：アマナの祭壇
-81100000 NPC for Multi: Archer (Man) - White Spirit: Scum Bottom -- マルチ用NPC：弓兵（男）-白霊：クズ底
-81200000 NPC for Multi: Sages (Female) - White Spirit: Prison of Oblivion -- マルチ用NPC：賢者（女）-白霊：忘却の牢
-81200100 NPC for Multi: Sages (Female) - White Spirit: Kiseki-gai Gerdra -- マルチ用NPC：賢者（女）-白霊：輝石街ジェルドラ
-81300000 NPC for Multi: Lancer (Female) - Altar of Amana -- マルチ用NPC：ランサー（女）-アマナの祭壇
-81400000 NPC for Multi: Flesh Cutting (Female) - White Spirit: The Nest of The Guarded Dragon -- マルチ用NPC：肉断ち（女）-白霊：守り竜の巣
-81400800 NPC for Multi: Flesh breaking (female) - Black Spirit: King's Castle Drangreig -- マルチ用NPC：肉断ち（女）-黒霊：王城ドラングレイグ
-81400900 NPC for Multi: Meat Cutting (Female) - Black Spirit: Scum Bottom -- マルチ用NPC：肉断ち（女）-黒霊：クズ底
-82000000 NPC for Multi: Spearsoldier (Man) - Dark Spirit: Prison of Oblivion -- マルチ用NPC：槍兵（男）-闇霊：忘却の牢
-82000100 NPC for Multi: Spearsoldier (Male) - Dark Spirit: Kiseki Street Gerdra -- マルチ用NPC：槍兵（男）-闇霊：輝石街ジェルドラ
-82000200 NPC for Multi: Spearsoldier (Man) - Dark Spirit: Forest of Shadows of The Shadows -- マルチ用NPC：槍兵（男）-闇霊：虚ろの影の森
-82100000 NPC for Multi: Reaper (Female) - Hunting Forest -- マルチ用NPC：死神（女）-狩猟の森
-82100100 NPC for Multi: The God of Death (Woman) - Dark Spirit: Anne Deal's House -- マルチ用NPC：死神（女）-闇霊：アン・ディールの館
-82200000 NPC for Multi: The Magician (Male) - Dark Spirit: The Door way of Faros -- マルチ用NPC：魔導士（男）-闇霊：ファロスの扉道
-82200100 NPC for Multi: Magician (Male) - Ashes: Saint's Tomb -- マルチ用NPC：魔導士（男）-灰霊：聖人墓所
-82200200 NPC for Multi: Magician (Man) - Dark Spirit: The Tomb of Immortality -- マルチ用NPC：魔導士（男）-闇霊：不死廟
-82200300 NPC for Multi: Magician (Male) - Dark Spirit: Altar of Amana -- マルチ用NPC：魔導士（男）-闇霊：アマナの祭壇
-82300000 NPC for Multi: Koryu Swordsman (Male) - The Nest of The Guard Dragon -- マルチ用NPC：古龍剣士（男）-守り竜の巣
-82400000 NPC for Multi: The Older Brother of a Female Swordsman - -- マルチ用NPC：女剣士の兄-
-82400001 NPC for Multi: Female Swordsman's Brother -Round 2 -- マルチ用NPC：女剣士の兄-2周目
-83100000 Saint's Tomb: Abandoned Saint- -- 聖人墓所：捨てられた聖女-
-83110000 Saint's Tomb: Knight of the Saint - -- 聖人墓所：聖女の騎士-
-83200000 Old Dark Hole: Abyss 1: Sniper - -- 古き闇の穴：深淵霊１：スナイパー-
-83210000 Old Dark Hole: Abyss 2: Axeman - -- 古き闇の穴：深淵霊２：アックスマン-
-83220000 The Old Dark Hole: The Abyss 3: Huang Yi-o- -- 古き闇の穴：深淵霊３：黄衣夫-
-83230000 The Old Dark Hole: The Abyss 4: Huang Yi Wife - -- 古き闇の穴：深淵霊４：黄衣妻-
-83240000 Old Dark Hole: Abyss 5: Traveler - -- 古き闇の穴：深淵霊５：旅人-
-83250000 Old Dark Hole: Abyss 6: Knight - -- 古き闇の穴：深淵霊６：騎士-
-83260000 Old Dark Hole: Abyss 7: Heavy Warrior - -- 古き闇の穴：深淵霊７：重戦士-
-83270000 Old Dark Hole: Abyss 8: Queen - -- 古き闇の穴：深淵霊８：女王様-
-83300000 Amana's Shrine: Cannibal Sit-In- -- アマナの祠：人食い番長-
-83400000 Prison of Oblivion: Sorcerer - -- 忘却の牢：呪術師-
-83410000 Prison of Oblivion: Dark Knight - -- 忘却の牢：闇騎士-
-83500000 Enshrinement Hall: Dragon Knight - Two-Sword Style -- 祭祀場：竜騎士-二刀流
-83505000 Enshrinement Hall: Painting Guard (Man) - -- 祭祀場：絵画守（男）-
-83510000 Ritual Hall: Dragon Knight - One Hand Mallet -- 祭祀場：竜騎士-片手槌
-83520000 Ritual Hall: Dragon Knight - One Hand Sword -- 祭祀場：竜騎士-片手剣
-83600000 Molten Castle: Samurai Saucer- -- 熔鉄城：侍ソーサラー-
-83600001 Molten Castle: Samurai Saucer -Round 2 -- 熔鉄城：侍ソーサラー-2周目
-83610000 Ming-iron castle: Bell Guard 1:- -- 熔鉄城：鐘守１：-
-83620000 Ming-iron castle: Bell Guard 2:- -- 熔鉄城：鐘守２：-
-83630000 Ming-iron castle: Bell Guard 3:- -- 熔鉄城：鐘守３：-
-83640000 Molten Iron Castle: Light Heavy Soldiers - -- 熔鉄城：軽快重兵士-
-83700000 Gap cave: second lap hunting - -- 隙間の洞：２周目狩り-
-83700001 Gap sinus: Second lap hunting - second lap -- 隙間の洞：２周目狩り-2周目
-83710000 Creus sinus: proximity - -- 隙間の洞：近接-
-83720000 Gap Sinus: Shooting - -- 隙間の洞：射撃-
-83730000 Gap sinus: Undecided - -- 隙間の洞：未定-
-83800000 Forest of Shadows: Phantom Enemy 1- -- 虚ろの影の森：幻影敵１-
-83810000 Forest of Shadows: Phantom Enemy 2- -- 虚ろの影の森：幻影敵２-
-84000000 Dummy NPC for the pledge of the champion- -- 覇者の誓約用ダミーNPC-
-84100000 Dummy NPC for Sun Pledge- -- 太陽の誓約用ダミーNPC-
-84200000 Decaying Giant Forest: In front of the king's door - 2 laps red spirit 1 -- 朽ちた巨人の森：王の扉前-２周目赤霊１
-84300000 Decaying Giant Forest: In front of the king's door - 2 laps red spirit 2 -- 朽ちた巨人の森：王の扉前-２周目赤霊２
-84400000 Decayed Giant Forest: Ground Cracking Square - Round 2 Red Spirit 3 -- 朽ちた巨人の森：地割れ広場-２周目赤霊３
-84400001 Decayed Giant Forest: Ground Cracking Square - Round 2 Red Spirit 3:2 -- 朽ちた巨人の森：地割れ広場-２周目赤霊３：2周目
-84500000 Decaying Giant Forest - The Dark Spirit -- 朽ちた巨人の森-２周目闇霊
-84600000 Kiseki-gai Gerdra - The Dark Spirit -- 輝石街ジェルドラ-闇霊
-84700000 Heide Great Fire Tower - Round 2 Dark Spirit 1 -- ハイデ大火塔-２周目闇霊１
-84710000 Heide Great Fire Tower - 2 Laps Dark Spirit 2 -- ハイデ大火塔-２周目闇霊２
-84800000 Tomb of Immortality- Round 2 Dark Spirit 1 -- 不死廟-２周目闇霊１
-84810000 Tomb of Immortality - Dark Spirit 2 (Ghost) -- 不死廟-闇霊２（亡霊）
-84900000 King's Castle D'Angheig - Dark Spirit 1 (Ghost) -- 王城ドラングレイグ-闇霊１（亡霊）
-84900001 King's Castle D'Angheig - Dark Spirit 1 (Ghost): Lap 2 -- 王城ドラングレイグ-闇霊１（亡霊）：2周目
-84910000 King's Castle D'Angheig - Dark Spirit 2 -- 王城ドラングレイグ-闇霊２
-84920000 King's Castle D'Angheig - Dark Spirit 3 -- 王城ドラングレイグ-闇霊３
-85000000 Anne Deal's House - The Second Lap Dark Spirit -- アン・ディールの館-２周目闇霊
-85000001 Anne Deal's House - Second Lap Dark Spirit: Lap 2 -- アン・ディールの館-２周目闇霊：2周目
-85100000 Valley of The Reservoir - The Dark Spirit -- 溜まりの谷-闇霊
-85200000 Hunting Forest - Red Spirit Level 3 -- 狩猟の森-赤霊レベル３
-85300000 King's Castle D'Angheig - Two-Sword Avelin -- 王城ドラングレイグ-二刀流アヴェリン
-85310000 King's Castle D'Angheig-Leroy -- 王城ドラングレイグ-リロイ
-85320000 King's Castle D'Angheig-2 Lap 1 Dark Spirit 1 -- 王城ドラングレイグ-２周目闇霊１
-85330000 King's Castle D'Angheig-2 Lap 2 Dark Spirit 2 -- 王城ドラングレイグ-２周目闇霊２
-85340000 King's Castle D'Angheig-Round 2 Dark Spirit 3 -- 王城ドラングレイグ-２周目闇霊３
-85340001 King's Castle Doran Greig-2 Lap 2 Dark Spirit 3:2 Laps -- 王城ドラングレイグ-２周目闇霊３：2周目
-85350000 King's Castle D'Angheig - Dark Spirit Key number -- 王城ドラングレイグ-闇霊鍵番
-85400000 Hidden Harbor - Dark Spirit (Darth Mall) -- 隠れ港-闇霊（ダースモール）
-85400001 Hidden Harbor - Dark Spirit (Darth Mall): Second lap -- 隠れ港-闇霊（ダースモール）：2周目
-99900000 Test-based -- テスト-ベース
-99990000 Ito Test 1 -- 伊東テスト１
-99990001 Ito Test 2 -- 伊東テスト２
+0 UNKNOWN
+10 UNKNOWN
+20 UNKNOWN
+30 UNKNOWN
+40 UNKNOWN
+1020000 [Unknown] Fading Soul
+1020100 [Unknown] None
+1020200 [Unknown] None
+1020300 [Unknown] Petrified Something
+1040000 [Unknown] Human Effigy
+1040100 [Unknown] Cracked Red Eye Orb
+1040200 [Unknown] None
+1040300 [Unknown] Cracked Red Eye Orb
+1040400 [Unknown] Cracked Red Eye Orb
+1040500 [Unknown] Rusted Coin
+1100000 [Unknown] Cracked Red Eye Orb
+1100100 [Unknown] Hollow Soldier Set- Winged Spear- Hollow Soldier Shield- Firebomb
+1100200 [Unknown] Heide Knight Sword
+1100201 [Unknown] Heide Knight Set- Heide Knight Sword
+1100500 [Unknown] None
+1101000 [Unknown] Titanite Shard
+1105000 [Unknown] Hollow Infantry Set- Lifegem- Throwing Knife
+1105100 [Unknown] Hollow Infantry Set- Bandit's Knife- Lifegem- Throwing Knife
+1105200 [Unknown] Hollow Infantry Set- Foot Soldier Sword- Foot Soldier Shield- Lifegem- Throwing Knife
+1105300 [Unknown] Hollow Infantry Set- Infantry Axe- Lifegem- Throwing Knife
+1105400 [Unknown] Hollow Infantry Set- Bandit's Knife- Short Bow- Lifegem- Throwing Knife
+1106000 [Unknown] Human Effigy
+1107000 [Unknown] Titanite Shard- Soul of a Proud Knight
+1140000 [Unknown] None
+1140100 [Unknown] Smooth & Silky Stone- Green Blossom
+1140200 [Unknown] Cracked Red Eye Orb
+1140300 [Unknown] Brightstone Key- Fragrant Branch of Yore- Dark Quartz Ring+1
+1140400 [Unknown] Peasant Set- Small Smooth & Silky Stone- Flame Butterfly- Torch
+1140500 [Unknown] Peasant Set- Titanite Shard- Large Titanite Shard- Titanite Chunk- Torch
+1141000 [Unknown] Titanite Chunk- Twinkling Titanite
+1141100 [Unknown] Titanite Chunk- Petrified Dragon Bone
+1141200 [Unknown] None
+1143000 [Unknown] Staff of Wisdom- Dark Leggings
+1148000 [Unknown] Radiant Lifegem- Old Radiant Lifegem- Twilight Herb- Wilted Dusk Herb
+1150000 [Unknown] Dragon Acolyte Mask
+1151000 [Unknown] None
+1153000 [Unknown] Malformed Skull- Dark Mask
+1153100 [Mimic - Aldia's Keep] Fragrant Branch of Yore
+1153200 [Unknown] Black Witch's Staff
+1153300 [Mimic - Aldia's Keep] Bonfire Ascetic
+1153400 [Mimic - Aldia's Keep] Cracked Red Eye Orb
+1153500 [Unknown] Wilted Dusk Herb
+1154000 [Unknown] Twinkling Titanite
+1154100 [Unknown] Warlock Mask- Cursed Bone Shield- Wilted Dusk Herb
+1154200 [Unknown] Twinkling Titanite
+1154300 [Unknown] Raw Stone- Faintstone- Boltstone- Firedrake Stone- Darknight Stone- Poison Stone- Bleed Stone
+1154400 [Unknown] Corrosive Urn
+1156000 [Unknown] Human Effigy
+1156100 [Unknown] Human Effigy
+1156200 [Unknown] Human Effigy
+1157000 [Unknown] Human Effigy
+1157100 [Unknown] Elizabeth Mushroom- Wilted Dusk Herb
+1158000 [Unknown] Radiant Lifegem- Old Radiant Lifegem- Twilight Herb- Wilted Dusk Herb
+1160000 [Unknown] Wanderer Set
+1164000 [Unknown] Rusted Coin- Bell Keeper Bow- Bell Keeper Shield
+1164100 [Unknown] Large Titanite Shard
+1165000 [Unknown] Titanite Chunk- Twinkling Titanite
+1165100 [Unknown] Twinkling Titanite
+1165200 [Unknown] Twinkling Titanite
+1165300 [Unknown] Twinkling Titanite
+1165400 [Unknown] Twinkling Titanite
+1166000 [Unknown] Human Effigy
+1166100 [Unknown] Human Effigy
+1166200 [Unknown] Human Effigy
+1168000 [Unknown] Radiant Lifegem- Old Radiant Lifegem- Twilight Herb- Wilted Dusk Herb
+1171000 [Unknown] Titanite Shard- Large Titanite Shard- Palestone
+1171100 [Unknown] Titanite Shard- Large Titanite Shard- Palestone
+1171200 [Unknown] Titanite Shard- Large Titanite Shard- Palestone
+1173000 [Unknown] Work Hook- Dark Gauntlets
+1178000 [Unknown] Radiant Lifegem- Old Radiant Lifegem- Twilight Herb- Wilted Dusk Herb
+1181000 [Unknown] Titanite Shard- Large Titanite Shard
+1186000 [Unknown] Human Effigy
+1190000 [Unknown] Alonne Captain Set- Alonne Greatbow- Destructive Greatarrow- Monastery Charm
+1190001 [Unknown] Alonne Greatbow
+1190500 [Unknown] Ring of Blades+1
+1191000 [Unknown] Large Titanite Shard- Titanite Chunk- Firedrake Stone
+1193000 [Unknown] Thunder Quartz Ring+1
+1194100 [Unknown] Rusted Coin- Flame Swathe- Fire Whip- Bell Keeper Bow- Bell Keeper Shield
+1230000 [Unknown] Soul of a Great Hero
+1230001 [Unknown] Heide Knight Set- Heide Greatlance
+1230200 [Unknown] None
+1230500 [Unknown] Lifegem- Amber Herb- Repair Powder- Smooth & Silky Stone- Cracked Red Eye Orb
+1231000 [Unknown] Titanite Shard- Large Titanite Shard- Titanite Chunk
+1236000 [Unknown] Human Effigy
+1238000 [Unknown] Radiant Lifegem- Old Radiant Lifegem- Twilight Herb- Wilted Dusk Herb
+1238100 [Unknown] Radiant Lifegem- Old Radiant Lifegem- Twilight Herb- Wilted Dusk Herb
+1238200 [Unknown] Radiant Lifegem- Old Radiant Lifegem- Twilight Herb- Wilted Dusk Herb
+1238300 [Unknown] Radiant Lifegem- Old Radiant Lifegem- Twilight Herb- Wilted Dusk Herb
+1238400 [Unknown] Radiant Lifegem- Old Radiant Lifegem- Twilight Herb- Wilted Dusk Herb
+1250000 [Unknown] Poison Moss- Firestorm
+1250500 [Unknown] Heide Knight Iron Mask- Heide Lance
+1250501 [Unknown] Heide Knight Iron Mask- Heide Knight Set- Heide Greatlance
+1253000 [Unknown] Winged Spear- Dark Armor
+1256000 [Unknown] Human Effigy
+1256100 [Unknown] Human Effigy
+1256200 [Unknown] Human Effigy
+1256300 [Unknown] Human Effigy
+1256400 [Unknown] Human Effigy
+1270000 [Unknown] Petrified Something- Twinkling Titanite- Petrified Dragon Bone
+1270100 [Unknown] Flame Quartz Ring+2
+1270200 [Unknown] Fire Tempest
+1271000 [Unknown] Large Titanite Shard- Titanite Chunk- Petrified Dragon Bone
+1271100 [Unknown] Titanite Shard- Twinkling Titanite- Faintstone
+1271200 [Unknown] Large Titanite Shard- Twinkling Titanite- Palestone
+1271300 [Unknown] Large Titanite Shard- Petrified Dragon Bone- Raw Stone
+1271400 [Unknown] Titanite Chunk- Petrified Dragon Bone- Old Mundane Stone
+1271500 [Unknown] Titanite Chunk- Twinkling Titanite- Darknight Stone
+1271600 [Unknown] Titanite Shard- Large Titanite Shard- Titanite Slab
+1271700 [Unknown] Titanite Shard- Twinkling Titanite- Magic Stone
+1271800 [Unknown] Large Titanite Shard- Titanite Chunk- Petrified Dragon Bone
+1271900 [Unknown] Twinkling Titanite- Boltstone- Palestone
+1272000 [Unknown] Titanite Shard- Large Titanite Shard- Titanite Slab
+1310000 [Unknown] Old Knight Set- Old Knight Greatsword- Old Knight's Shield- Cracked Blue Eye Orb- Palestone
+1310100 [Unknown] Old Knight Set- Old Knight Ultra Greatsword- Cracked Blue Eye Orb- Palestone
+1310200 [Unknown] Old Knight Set- Old Knight Pike- Old Knight Greatshield- Cracked Blue Eye Orb- Palestone
+1310300 [Unknown] Old Knight Set- Old Knight Halberd- Cracked Blue Eye Orb- Palestone
+1310400 [Unknown] Old Knight Set- Old Knight Hammer- Cracked Blue Eye Orb- Palestone
+1310500 [Unknown] Sublime Bone Dust
+1311000 [Unknown] Petrified Dragon Bone- Watchdragon Parma
+1320000 [Unknown] None
+1320100 [Unknown] Warlock Mask
+1320200 [Unknown] Lion Warrior Set- Lion Greataxe- Lion Clan Shield- Triclops Snake Troches
+1320500 [Unknown] Twinkling Titanite
+1321000 [Unknown] Titanite Shard- Titanite Chunk- Boltstone
+1328000 [Unknown] Radiant Lifegem- Old Radiant Lifegem- Twilight Herb- Wilted Dusk Herb
+1328100 [Unknown] Radiant Lifegem- Old Radiant Lifegem- Twilight Herb- Wilted Dusk Herb
+1328200 [Unknown] Radiant Lifegem- Old Radiant Lifegem- Twilight Herb- Wilted Dusk Herb
+1330000 [Unknown] Gyrm Warrior Set- Gyrm Greataxe- Old Mundane Stone- Magic Stone- Titanite Chunk
+1330100 [Unknown] Gyrm Warrior Set- Gyrm Great Hammer- Gyrm Greatshield- Old Mundane Stone- Magic Stone- Titanite Chunk
+1330200 [Unknown] Gyrm Warrior Greathelm- Gyrm Warrior Set- Gyrm Greataxe- Old Mundane Stone- Magic Stone- Titanite Chunk
+1330300 [Unknown] Gyrm Warrior Greathelm- Gyrm Warrior Set- Gyrm Great Hammer- Gyrm Greatshield- Old Mundane Stone- Magic Stone- Titanite Chunk
+1331000 [Unknown] Large Titanite Shard- Raw Stone
+1333000 [Unknown] Black Scorpion Stinger- Dark Leggings
+1336000 [Unknown] Human Effigy
+1341000 [Unknown] Titanite Shard- Titanite Shard- Darknight Stone
+2110000 [Unknown] Warlock Mask- Cursed Bone Shield- Wilted Dusk Herb
+2115000 [Unknown] Titanite Slab- Petrified Dragon Bone
+2115100 [Unknown] Bonfire Ascetic
+2116000 [Unknown] Human Effigy
+2118000 [Unknown] Radiant Lifegem- Old Radiant Lifegem- Twilight Herb- Wilted Dusk Herb
+2118100 [Unknown] Radiant Lifegem- Old Radiant Lifegem- Twilight Herb- Wilted Dusk Herb
+2118200 [Unknown] Radiant Lifegem- Old Radiant Lifegem- Twilight Herb- Wilted Dusk Herb
+2210501 [Unknown] Ring of Blades+2
+2210601 [Unknown] Twinkling Titanite
+2210602 [Unknown] Washing Pole- Twinkling Titanite
+2210700 [Unknown] Ruin Set
+2211000 [Unknown] Titanite Chunk- Titanite Slab
+2213000 [Unknown] Washing Pole- Petrified Dragon Bone
+2213001 [Unknown] Petrified Something- Petrified Dragon Bone
+2214000 [Unknown] Twinkling Titanite
+2214100 [Unknown] Gower's Ring of Protection
+2216000 [Unknown] Human Effigy
+2216100 [Unknown] Human Effigy
+2216200 [Unknown] Human Effigy
+2240000 [Unknown] None
+2240001 [Unknown] None
+2240100 [Unknown] Fragrant Branch of Yore
+2240200 [Unknown] Insolent Set- Shield of the Insolent- Simpleton's Spice- Skeptic's Spice- Twinkling Titanite- Bonfire Ascetic
+2240500 [Unknown] Titanite Slab- Petrified Dragon Bone
+2246000 [Unknown] Human Effigy
+2246100 [Unknown] Human Effigy
+2246200 [Unknown] Human Effigy
+2246300 [Unknown] Human Effigy
+2246400 [Unknown] Human Effigy
+2246500 [Unknown] Human Effigy
+2246600 [Unknown] Human Effigy
+2246700 [Unknown] Human Effigy
+2246800 [Unknown] Human Effigy
+2246900 [Unknown] Human Effigy
+2247000 [Unknown] Human Effigy
+2247100 [Unknown] Human Effigy
+2247200 [Unknown] Human Effigy
+2247300 [Unknown] Human Effigy
+2247400 [Unknown] Human Effigy
+2248000 [Unknown] Radiant Lifegem- Old Radiant Lifegem- Twilight Herb- Wilted Dusk Herb
+4030000 [Unknown] Bonfire Ascetic
+4030001 [Unknown] Bonfire Ascetic
+4030002 [Unknown] Bonfire Ascetic
+4030003 [Unknown] Bonfire Ascetic
+4030004 [Unknown] Bonfire Ascetic
+4030005 [Unknown] Bonfire Ascetic
+4030006 [Unknown] Bonfire Ascetic
+4030007 [Unknown] Bonfire Ascetic
+5000000 [Unknown] Lifegem
+5001000 [Unknown] Lifegem
+5002000 [Unknown] Lifegem
+5003000 [Unknown] Lifegem
+5004000 [Unknown] Lifegem
+5005000 [Unknown] Lifegem
+5006000 [Unknown] Lifegem
+5007000 [Unknown] Lifegem
+5008000 [Unknown] Lifegem
+5009000 [Unknown] Lifegem
+5035000 [Unknown] Twinkling Titanite- Faintstone
+5035100 [Unknown] Titanite Slab- Firedrake Stone
+5035200 [Unknown] Twinkling Titanite- Old Mundane Stone
+5035300 [Unknown] Petrified Dragon Bone- Titanite Chunk- Raw Stone
+5036000 [Unknown] Twinkling Titanite- Titanite Chunk- Titanite Slab
+5037100 [Unknown] Catarina Armor
+5037200 [Unknown] Symbol of Avarice
+5037300 [Unknown] Dried Root- Retainer Robe
+5037400 [Unknown] Dried Root- Retainer Robe
+5037500 [Unknown] Torch
+6000000 [Unknown] Awestone
+10000000 [Forest Grotesque] Lifegem- Battle Axe- Spear- Caestus
+10000100 [Forest Grotesque] Lifegem
+10001000 [Forest Grotesque] Lifegem- Longsword- Broadsword- Estoc- Rapier- Falchion
+10002000 [Forest Grotesque] Lifegem- Club- Mace- Wood Arrow
+10100000 [Kobold] Shotel- Black Knight Greatsword- Crescent Axe- Black Knight Greataxe- Drakekeeper's Greataxe- Black Knight Halberd- Black Knight Ultra Greatsword
+10100100 [Kobold] Shotel- Black Knight Greatsword- Crescent Axe- Black Knight Greataxe- Drakekeeper's Greataxe- Black Knight Halberd- Black Knight Ultra Greatsword
+10200000 [Hollow Soldier] Hollow Soldier Set- Winged Spear- Hollow Soldier Shield- Lifegem- Radiant Lifegem
+10201000 [Hollow Soldier] Hollow Soldier Set- Bastard Sword- Firebomb
+10202000 [Hollow Soldier] Hollow Soldier Set- Halberd- Lifegem- Radiant Lifegem
+10203000 [Hollow Soldier] Hollow Soldier Set- Estoc- Hollow Soldier Shield- Lifegem- Radiant Lifegem
+10204000 [Hollow Soldier] Hollow Soldier Set- Bastard Sword- Long Bow- Wood Arrow
+10205000 [Hollow Soldier] Hollow Soldier Set- Lifegem- Radiant Lifegem
+10210000 [Royal Soldier] Royal Soldier Set- Winged Spear- Hollow Soldier Shield
+10211000 [Royal Soldier] Royal Soldier Set- Bastard Sword
+10213000 [Royal Soldier] Royal Soldier Set
+10214000 [Royal Soldier] Royal Soldier Set- Bastard Sword- Long Bow
+10300000 [Hollow Infantry] Hollow Infantry Set- Throwing Knife
+10300100 [Hollow Infantry] Hollow Infantry Set- Throwing Knife
+10301000 [Hollow Infantry] Hollow Infantry Set- Bandit's Knife- Throwing Knife
+10301100 [Hollow Infantry] Hollow Infantry Set- Bandit's Knife
+10302000 [Hollow Infantry] Hollow Infantry Set- Foot Soldier Sword- Foot Soldier Shield
+10302100 [Hollow Infantry] Hollow Infantry Set- Foot Soldier Sword- Foot Soldier Shield
+10302200 [Hollow Infantry] Hollow Infantry Set- Foot Soldier Sword- Foot Soldier Shield
+10303000 [Hollow Infantry] Hollow Infantry Set- Infantry Axe- Throwing Knife
+10303100 [Hollow Infantry] Hollow Infantry Set- Infantry Axe- Throwing Knife
+10303200 [Hollow Infantry] Hollow Infantry Set- Infantry Axe- Throwing Knife
+10304000 [Hollow Infantry] Hollow Infantry Set- Bandit's Knife- Short Bow- Wood Arrow
+10304100 [Hollow Infantry] Hollow Infantry Set- Bandit's Knife- Short Bow- Wood Arrow
+10305000 [Hollow Infantry] Hollow Infantry Set- Bandit's Knife- Short Bow- Fire Arrow
+10305100 [Hollow Infantry] Hollow Infantry Set- Bandit's Knife- Short Bow- Fire Arrow
+10310000 [Infantry] Infantry Set- Bandit's Knife
+10310100 [Infantry] Infantry Set- Bandit's Knife
+10311000 [Infantry] Infantry Set- Foot Soldier Sword- Foot Soldier Shield
+10311100 [Infantry] Infantry Set- Foot Soldier Sword- Foot Soldier Shield
+10312000 [Infantry] Infantry Set- Infantry Axe
+10312100 [Infantry] Infantry Set- Infantry Axe
+10313000 [Infantry] Infantry Set- Bandit's Knife- Short Bow
+10313100 [Infantry] Infantry Set- Bandit's Knife- Short Bow
+10500000 [Amana Shrine Maiden] Radiant Lifegem- Crimson Water- Dragon Charm- Holy Water Urn- Twinkling Titanite
+10501000 [Amana Shrine Maiden] Staff of Amana- Radiant Lifegem- Crimson Water- Dragon Charm- Holy Water Urn- Twinkling Titanite
+10600000 [Hollow Priest] White Priest Set- Cleric's Sacred Chime- Cleric's Small Shield- Twilight Herb- Human Effigy
+10620000 [Dark Priestess] Priestess Set- Priest's Chime- Cleric's Parma- Silver Talisman
+10700000 [Parasitized Undead] Human Effigy- Prism Stone- Tseldora Set- Large Titanite Shard
+10800000 [Hollow Rogue] Rogue Set- Broken Thief Sword- Thief Dagger- Throwing Knife- Flame Butterfly
+10801000 [Hollow Rogue] Rogue Set- Club- Throwing Knife- Flame Butterfly
+10802000 [Hollow Rogue] Rogue Set- Short Bow- Broken Thief Sword- Thief Dagger- Poison Arrow- Flame Butterfly
+11300000 [Varangian Sailor] Varangian Set- Varangian Sword- Varangian Shield- Iron Arrow
+11301000 [Varangian Sailor] Varangian Set- Scimitar- Iron Arrow
+11302000 [Varangian Sailor] Varangian Set- Sea Bow- Varangian Sword- Varangian Shield- Iron Arrow
+11500000 [Undead Traveler] None
+11500100 [Undead Traveler] None
+11501000 [Undead Traveler] Dagger
+11700000 [Stone Soldier] Stone Soldier Spear- Titanite Slab- Llewellyn Shield
+11800000 [Black Hollow Mage] Black Hollow Mage Set- Lizard Staff- Amber Herb
+11800100 [Black Hollow Mage] Black Hollow Mage Set- Lizard Staff- Amber Herb
+11820000 [White Hollow Mage] White Hollow Mage Set- Bat Staff- Dark Troches- Rouge Water- Skeptic's Spice
+11900000 [Lion Clan Mage] Lion Mage Set- Amber Herb- Wilted Dusk Herb
+12100000 [Giant] None
+12101000 [Giant] Giant Warrior Club
+12102000 [Giant] None
+12103000 [Giant] None
+12300000 [Suspicious Shadow] Shadow Set- Shadow Dagger- Malformed Claws
+12300001 [Suspicious Shadow] Shadow Set- Shadow Dagger- Malformed Claws
+12300100 [Suspicious Shadow] Shadow Set- Shadow Dagger- Malformed Claws
+12300200 [Suspicious Shadow] Shadow Set- Shadow Dagger- Malformed Claws
+12300300 [Suspicious Shadow] Shadow Set- Shadow Dagger- Malformed Claws
+12301000 [Suspicious Shadow] Shadow Set- Shadow Dagger- Malformed Claws
+12302000 [Suspicious Shadow] Shadow Set- Shadow Dagger- Malformed Claws
+12303000 [Suspicious Shadow] Shadow Set- Shadow Dagger- Malformed Claws
+12400000 [Manikin] Manikin Set- Manikin Claws- Poison Throwing Knife
+12400100 [Manikin] Manikin Set- Manikin Claws- Poison Throwing Knife
+12401000 [Manikin] Manikin Set- Manikin Knife- Manikin Shield- Poison Throwing Knife
+12402000 [Manikin] Manikin Set- Manikin Sabre- Manikin Shield- Poison Throwing Knife
+12403000 [Manikin] Manikin Set- Manikin Knife- Short Bow- Poison Arrow- Iron Arrow
+12500000 [Rupturing Hollow] Charcoal Pine Resin- Flame Butterfly
+12500100 [Rupturing Hollow] Alluring Skull
+12500200 [Rupturing Hollow] Rotten Pine Resin
+12501000 [Rupturing Hollow] Rotten Pine Resin
+12502000 [Rupturing Hollow] Gold Pine Resin- Dark Pine Resin
+12503000 [Rupturing Hollow] Alluring Skull
+12504000 [Rupturing Hollow] Alluring Skull
+12504100 [Rupturing Hollow] Rotten Pine Resin
+12505000 [Rupturing Hollow] None
+12700000 [Abandoned Hollow] Prisoner Set- Small Blue Burr- Small Yellow Burr- Small Orange Burr- Lifegem
+12700100 [Abandoned Hollow] Prisoner Set- Triclops Snake Troches
+12700200 [Abandoned Hollow] Prisoner Set- Small Blue Burr- Small Yellow Burr- Small Orange Burr- Soul of a Lost Undead
+12700300 [Abandoned Hollow] Prisoner Set- Red Leech Troches
+12700400 [Abandoned Hollow] Prisoner Set- Small Blue Burr- Small Yellow Burr- Small Orange Burr- Soul of a Lost Undead
+12700500 [Abandoned Hollow] Prisoner Set- Small Blue Burr- Small Yellow Burr- Small Orange Burr- Soul of a Lost Undead
+12701000 [Abandoned Hollow] Prisoner Set- Torch- Lifegem
+12701100 [Abandoned Hollow] Prisoner Set- Torch
+12702000 [Abandoned Hollow] Prisoner Set- Broken Straight Sword- Small Blue Burr- Small Yellow Burr- Small Orange Burr- Soul of a Lost Undead
+12900000 [Forest Spirit] Witchtree Branch
+12901000 [Forest Spirit] Witchtree Bellvine
+13100000 [Lindelt Cleric] Archdrake Set- Archdrake Mace- Slumbering Dragon Shield- Old Radiant Lifegem- Twinkling Titanite
+13101000 [Lindelt Cleric] Archdrake Set- Archdrake Chime- Archdrake Shield- Old Radiant Lifegem- Twinkling Titanite
+13102000 [Lindelt Cleric] Archdrake Set- Archdrake Staff- Archdrake Shield- Old Radiant Lifegem- Twinkling Titanite
+13200000 [Skeleton] Falchion- Titanite Shard- Human Effigy
+13200100 [Skeleton] Falchion- Alluring Skull- Human Effigy
+13200600 [Skeleton] Falchion- Alluring Skull- Human Effigy
+13200700 [Skeleton] Falchion- Titanite Shard- Human Effigy
+13201000 [Skeleton] Falchion- Foot Soldier Shield- Alluring Skull- Human Effigy
+13201500 [Skeleton] Falchion- Foot Soldier Shield- Alluring Skull- Human Effigy
+13202000 [Skeleton] Mail Breaker- Foot Soldier Shield- Alluring Skull- Human Effigy
+13203000 [Skeleton] Falchion- Foot Soldier Shield- Long Bow- Alluring Skull- Wood Arrow- Human Effigy
+13300000 [Skeleton] None
+13301000 [Skeleton] Falchion
+13302000 [Skeleton] Murakumo
+13400000 [Gyrm] Gyrm Set- Large Titanite Shard
+13500000 [Gyrm Warrior] Gyrm Warrior Set- Gyrm Greataxe- Old Mundane Stone- Magic Stone- Titanite Chunk
+13501000 [Gyrm Warrior] Gyrm Warrior Set- Gyrm Great Hammer- Gyrm Greatshield- Old Mundane Stone- Magic Stone- Titanite Chunk
+13502000 [Gyrm Warrior] Gyrm Warrior Set- Gyrm Greataxe- Heavy Crossbow- Old Mundane Stone- Magic Stone- Titanite Chunk
+13503000 [Gyrm Warrior] Gyrm Set- Gyrm Greataxe- Old Mundane Stone- Magic Stone- Titanite Chunk
+13504000 [Gyrm Warrior] Gyrm Set- Gyrm Great Hammer- Gyrm Greatshield- Old Mundane Stone- Magic Stone- Titanite Chunk
+13505000 [Gyrm Warrior] Gyrm Set- Gyrm Greataxe- Heavy Crossbow- Old Mundane Stone- Magic Stone- Titanite Chunk
+13701000 [Dragon Acolyte] Warlock Mask- Cursed Bone Shield- Wilted Dusk Herb
+13800000 [Torturer] Cracked Red Eye Orb
+13801000 [Torturer] Bloodied Whip- Cracked Red Eye Orb
+13900000 [Artificial Undead] Full Moon Sickle- Soul of a Nameless Soldier- Lifegem
+13900100 [Artificial Undead] Full Moon Sickle- Dark Pine Resin- Rotten Pine Resin
+13900200 [Artificial Undead] Full Moon Sickle- Dark Pine Resin- Rotten Pine Resin
+13901000 [Artificial Undead] Soul of a Nameless Soldier- Lifegem
+14100000 [Undead Aberration] Malformed Skull- Chaos Rapier- Chaos Shield
+14100100 [Undead Aberration] Twinkling Titanite- Malformed Skull
+14600000 [Headless Vengarl] Tseldora Set- Bandit's Knife- Silver Talisman
+14601000 [Headless Vengarl] Tseldora Set- Estoc- Silver Talisman
+14602000 [Headless Vengarl] Tseldora Set- Bandit's Knife- Silver Talisman
+14700000 [Undead with Head Bandage] Poison Stone- Bleed Stone
+14700100 [Undead with Head Bandage] Poison Stone- Bleed Stone
+14800000 [Undead Peasant] Peasant Set- Small Smooth & Silky Stone- Flame Butterfly
+14801000 [Undead Peasant] Peasant Set- Titanite Shard- Large Titanite Shard- Titanite Chunk
+14802000 [Undead Peasant] Peasant Set- Titanite Shard- Large Titanite Shard- Titanite Chunk
+14803000 [Undead Peasant] Peasant Set- Titanite Shard- Large Titanite Shard- Titanite Chunk
+14900000 [Undead Steelworker] Titanite Shard- Old Mundane Stone- Small Smooth & Silky Stone
+15000000 [Stone Knight] Stone Twinblade- Stone Parma- Titanite Slab
+15100000 [Ironclad Soldier] Ironclad Set- Firedrake Stone- Large Titanite Shard
+15120000 [Ironclad Soldier] Old Ironclad Set- Human Effigy
+15120100 [Ironclad Soldier] Old Ironclad Set- Human Effigy
+15121000 [Ironclad Soldier] Old Ironclad Set- Human Effigy
+15200000 [Royal Soldier] Royal Swordsman Set- Royal Greatsword
+15200100 [Royal Soldier] Royal Swordsman Set- Royal Greatsword- Lifegem- Common Fruit
+15200101 [Royal Soldier] Royal Swordsman Set- Royal Greatsword- Radiant Lifegem- Common Fruit
+15201000 [Royal Soldier] Royal Swordsman Set- Royal Greatsword- Heavy Crossbow
+15201100 [Royal Soldier] Royal Swordsman Set- Royal Greatsword- Heavy Crossbow- Lifegem- Common Fruit
+15201101 [Royal Soldier] Royal Swordsman Set- Royal Greatsword- Heavy Crossbow- Radiant Lifegem- Common Fruit
+15300000 [Syan Knight] Syan Set- Syan's Halberd- Tower Shield- Green Blossom- Monastery Charm
+15300100 [Syan Knight] Syan Set- Syan's Halberd- Tower Shield- Green Blossom- Monastery Charm
+15300200 [Syan Knight] Syan Set- Syan's Halberd- Tower Shield- Green Blossom- Monastery Charm
+15300300 [Syan Knight] Syan Set- Syan's Halberd- Tower Shield- Green Blossom- Monastery Charm
+15300900 [Syan Knight] Syan Set- Syan's Halberd- Tower Shield- Green Blossom- Monastery Charm
+15301000 [Syan Knight] Syan Set- Greatsword- Tower Shield- Green Blossom- Monastery Charm
+15301100 [Syan Knight] Syan Set- Greatsword- Tower Shield- Green Blossom- Monastery Charm
+15301200 [Syan Knight] Syan Set- Greatsword- Tower Shield- Green Blossom- Monastery Charm
+15301300 [Syan Knight] Syan Set- Greatsword- Tower Shield- Green Blossom- Monastery Charm
+15301900 [Syan Knight] Syan Set- Greatsword- Tower Shield- Green Blossom- Monastery Charm
+15400000 [Skeleton Lord] None
+15500000 [Amana Aberration] Human Effigy- Red Leech Troches- Bleeding Serum- Bleed Stone- Smooth & Silky Stone
+15500100 [Amana Aberration] Human Effigy- Red Leech Troches- Bleeding Serum- Bleed Stone- Smooth & Silky Stone
+15700000 [Skeleton Lords - Skeleton] Falchion- Alluring Skull
+15701000 [Skeleton Lords - Skeleton] Falchion- Foot Soldier Shield- Alluring Skull
+15702000 [Skeleton Lords - Skeleton] Mail Breaker- Foot Soldier Shield- Alluring Skull
+15703000 [Skeleton Lords - Skeleton] Falchion- Foot Soldier Shield- Long Bow- Alluring Skull- Wood Arrow
+20300000 [Parasite Spider] Mail Breaker- Parrying Dagger- Ricard's Rapier- Mastodon Greatsword- Bandit Axe- Great Scythe- Zweihander
+20300001 [Parasite Spider] Mail Breaker- Parrying Dagger- Ricard's Rapier- Mastodon Greatsword- Bandit Axe- Great Scythe- Zweihander
+20400000 [Poison Moth] Poison Moss
+20500000 [Poison Horn Beetle] Lifegem- Green Blossom
+20500100 [Poison Horn Beetle] Lifegem- Smooth & Silky Stone- Firestorm
+20510000 [Acid Horn Beetle] None
+20510100 [Acid Horn Beetle] None
+20510200 [Acid Horn Beetle] Lifegem
+20600000 [Razorback Nightcrawler] Poison Stone- Dead Again
+20600100 [Razorback Nightcrawler] Puzzling Stone Sword- Twinkling Titanite
+20600200 [Razorback Nightcrawler] Puzzling Stone Sword- Twinkling Titanite
+20900000 [Hunting Dog] Aromatic Ooze
+20900100 [Hunting Dog] None
+20900200 [Hunting Dog] Aromatic Ooze
+21000000 [Basilisk] Raw Stone- Faintstone- Boltstone- Firedrake Stone- Darknight Stone- Poison Stone- Bleed Stone
+21000100 [Basilisk] Human Effigy
+21000200 [Basilisk] Raw Stone- Faintstone- Boltstone- Firedrake Stone- Darknight Stone- Poison Stone- Bleed Stone
+21000300 [Basilisk] Human Effigy
+21000400 [Basilisk] Raw Stone- Faintstone- Boltstone- Firedrake Stone- Darknight Stone- Poison Stone- Bleed Stone
+21000500 [Basilisk] Raw Stone- Faintstone- Boltstone- Firedrake Stone- Darknight Stone- Poison Stone- Bleed Stone
+21000600 [Basilisk] Raw Stone- Faintstone- Boltstone- Firedrake Stone- Darknight Stone- Poison Stone- Bleed Stone
+21200000 [Guardian Dragon] None
+21300000 [Crystal Lizard] None
+21400000 [Giant Undead Boar] Divine Blessing
+21600000 [Wall Ghost] None
+21700000 [Dark Stalker] Tattered Cloth Set- Radiant Lifegem- Longsword- Broadsword
+21700100 [Dark Stalker] Judgment Set- Radiant Lifegem- Longsword- Broadsword
+22000000 [Giant Acid Horn Beetle] None
+22000100 [Giant Acid Horn Beetle] Corrosive Urn
+22000200 [Giant Acid Horn Beetle] Corrosive Urn
+22200000 [Giant Basilisk] Magic Stone- Dragon Sage Hood
+22200100 [Giant Basilisk] Petrified Dragon Bone
+22200200 [Giant Basilisk] Large Titanite Shard
+22300000 [Mongrel Rat] Pharros' Lockstone- Old Radiant Lifegem- Rat Tail
+22400000 [Darksucker] Large Titanite Shard- Titanite Chunk
+22600000 [Corpse Rat] Old Radiant Lifegem- Poison Moss- Repair Powder- Warmth- Rat Tail
+22610000 [Corpse Rat] None
+22620000 [Corpse Rat] Pharros' Lockstone
+22700000 [Stray Dog] Soul of a Nameless Soldier- Soul of a Lost Undead- Human Effigy
+22700100 [Stray Dog] Soul of a Nameless Soldier- Soul of a Lost Undead- Human Effigy
+22700200 [Stray Dog] Soul of a Nameless Soldier- Soul of a Lost Undead- Human Effigy
+30000000 [Ogre] Stone Ring
+30000100 [Ogre] Common Fruit- Soul of a Brave Warrior
+30000200 [Ogre] Old Radiant Lifegem
+30100000 [Heide Knight] Heide Lance
+30100001 [Heide Knight] Heide Knight Set- Heide Lance- Heide Greatlance
+30100100 [Heide Knight] Heide Knight Set- Heide Knight Sword
+30101000 [Heide Knight] Heide Spear
+30101001 [Heide Knight] Heide Knight Set- Heide Spear
+30101100 [Heide Knight] Heide Knight Set- Heide Spear
+30102000 [Heide Knight] Soul of a Great Hero
+30102001 [Heide Knight] Heide Knight Set- Heide Lance
+30103000 [Heide Knight] Soul of a Great Hero
+30103001 [Heide Knight] Heide Knight Set- Heide Greatlance
+30200000 [Undead Jailer] Great Machete- Twilight Herb- Lingering Flame
+30330000 [Flexile Sentry] None
+30400000 [Milfanito] None
+30401000 [Milfanito] None
+30500000 [Smelter Demon] None
+30501000 [Smelter Demon] None
+30600000 [Alonne Captain] Alonne Captain Set- Monastery Charm
+30601000 [Alonne Captain] Alonne Captain Set- Alonne Greatbow- Destructive Greatarrow- Monastery Charm
+30601100 [Alonne Captain] Alonne Captain Set- Alonne Greatbow- Iron Greatarrow
+30700000 [Headless Vengarl] Vengarl's Armor- Vengarl's Gloves- Vengarl's Boots
+30710000 [Vengarl] Vengarl's Set
+30711000 [Vengarl] Vengarl's Helm
+30800000 [Lion Clan Warrior] Lion Warrior Cape- Lion Warrior Cuffs- Lion Warrior Skirt- Lion Greataxe- Lion Clan Shield- Triclops Snake Troches
+30810000 [Lion Clan Warrior] Lion Warrior Set- Lion Greataxe- Triclops Snake Troches
+30900000 [Forgotten Giant] None
+30900100 [Forgotten Giant] None
+30960000 [Last Giant] None
+30970000 [Giant Lord] None
+31100000 [Mounted Overseer] Smooth & Silky Stone- Sunlight Medal
+31200000 [Grave Warden] Grave Warden Set- Silverblack Sickle- Repair Powder
+31201000 [Grave Warden] Grave Warden Set- Silverblack Spear- Silverblack Shield- Large Soul of a Nameless Soldier
+31201100 [Grave Warden] Grave Warden Set- Silverblack Spear- Silverblack Shield- Large Soul of a Nameless Soldier
+31202000 [Grave Warden] Grave Warden Set- Silverblack Sickle- Large Soul of a Nameless Soldier
+31202100 [Grave Warden] Grave Warden Set- Silverblack Sickle- Repair Powder
+31203000 [Grave Warden] Grave Warden Set- Silverblack Spear- Silverblack Shield- Large Soul of a Nameless Soldier
+31203100 [Grave Warden] Grave Warden Set- Silverblack Spear- Silverblack Shield- Large Soul of a Nameless Soldier
+31203200 [Grave Warden] Grave Warden Set- Silverblack Spear- Silverblack Shield- Large Soul of a Nameless Soldier
+31204000 [Grave Warden] Grave Warden Mask- Grave Warden Cuffs- Silverblack Sickle- Large Soul of a Nameless Soldier
+31205000 [Grave Warden] Grave Warden Mask- Grave Warden Cuffs- Silverblack Spear- Silverblack Shield- Large Soul of a Nameless Soldier
+31300000 [Hollow Falconer] Falconer Set- Golden Falcon Shield- Sunlight Medal
+31300100 [Hollow Falconer] Falconer Set- Golden Falcon Shield- Sunlight Medal
+31300200 [Hollow Falconer] Falconer Set- Golden Falcon Shield- Sunlight Medal
+31301000 [Hollow Falconer] Falconer Set- Golden Falcon Shield- Rapier- Sunlight Medal
+31301100 [Hollow Falconer] Falconer Set- Golden Falcon Shield- Rapier- Sunlight Medal
+31301200 [Hollow Falconer] Falconer Set- Golden Falcon Shield- Rapier- Sunlight Medal
+31302000 [Hollow Falconer] Falconer Set- Rapier- Sunlight Medal
+31303000 [Hollow Falconer] Falconer Set- Golden Falcon Shield- Short Bow- Sunlight Medal
+31303100 [Hollow Falconer] Falconer Set- Golden Falcon Shield- Short Bow- Sunlight Medal
+31303200 [Hollow Falconer] Falconer Set- Golden Falcon Shield- Short Bow- Sunlight Medal
+31400000 [Hollow Primal Knight] Rusted Mastodon Set- Mastodon Halberd- Mastodon Greatshield- Radiant Lifegem
+31400100 [Hollow Primal Knight] Rusted Mastodon Set- Mastodon Halberd- Mastodon Greatshield- Radiant Lifegem
+31500000 [Primal Knight] Mastodon Set- Mastodon Halberd- Mastodon Greatshield- Old Mundane Stone
+31600000 [Desert Sorceress] Desert Sorceress Set- Dragon Charm- Wilted Dusk Herb- Magic Stone- Lingering Dragoncrest Ring+1
+31600100 [Desert Sorceress] Desert Sorceress Set- Dragon Charm- Wilted Dusk Herb- Magic Stone- Lingering Dragoncrest Ring+1
+31700000 [Dragon Acolyte] Dragon Acolyte Set- Aldia Hammer- Bone Shield- Petrified Dragon Bone- Elizabeth Mushroom
+31800000 [The Pursuer] None
+31801000 [The Pursuer] None
+31900000 [Alonne Knight] Alonne Knight Set- Blacksteel Katana
+31901000 [Alonne Knight] Alonne Knight Set- Alonne Greatbow- Blacksteel Katana- Iron Greatarrow
+32100000 [Mimic] None
+32101000 [Mimic] None
+32400000 [Belfry Gargoyle] None
+32500000 [Ruin Sentinel] None
+32600000 [The Rotten] None
+32700000 [Dragon Skeleton] None
+33000000 [Old Knight] Old Knight Set- Old Knight Greatsword- Old Knight's Shield- Human Effigy- Amber Herb- Green Blossom
+33001000 [Old Knight] Old Knight Set- Old Knight Ultra Greatsword- Human Effigy- Amber Herb- Green Blossom
+33001100 [Old Knight] Old Knight Set- Old Knight Ultra Greatsword- Human Effigy- Amber Herb- Green Blossom
+33002000 [Old Knight] Old Knight Set- Human Effigy- Amber Herb- Green Blossom
+33003000 [Old Knight] Old Knight Set- Human Effigy- Amber Herb- Green Blossom
+33004000 [Old Knight] Old Knight Set- Old Knight Hammer- Human Effigy- Amber Herb- Green Blossom
+33004100 [Old Knight] Old Knight Set- Old Knight Hammer- Human Effigy- Amber Herb- Green Blossom
+33004200 [Old Knight] Old Knight Set- Old Knight Hammer- Human Effigy- Amber Herb- Green Blossom
+33100000 [Drakekeeper] Drakekeeper Set- Drakekeeper's Sword- Drakekeeper's Shield- Dragon Charm
+33101000 [Drakekeeper] Drakekeeper Set- Drakekeeper's Ultra Greatsword- Dragon Charm
+33102000 [Drakekeeper] Drakekeeper Set- Dragon Charm
+33103000 [Drakekeeper] Drakekeeper Set- Drakekeeper's Great Hammer- Dragon Charm
+33104000 [Drakekeeper] Drakekeeper Set- Drakekeeper's Warpick- Greatshield of Glory- Dragon Charm
+33200000 [Throne Defender] None
+33300000 [Velstadt] None
+33400000 [Throne Watcher] None
+33700000 [Abandoned Hollow] Prisoner's Set- Small Blue Burr- Small Yellow Burr- Small Orange Burr- Lifegem
+33700100 [Abandoned Hollow] Prisoner's Set- Small Blue Burr- Small Yellow Burr- Small Orange Burr- Soul of a Lost Undead
+33700200 [Abandoned Hollow] Prisoner's Set- Poison Throwing Knife
+33700300 [Abandoned Hollow] Prisoner's Set- Simpleton's Spice- Homeward Bone
+33700400 [Abandoned Hollow] Prisoner's Set- Small Blue Burr- Small Yellow Burr- Small Orange Burr- Soul of a Lost Undead
+33700500 [Abandoned Hollow] Prisoner's Set- Small Blue Burr- Small Yellow Burr- Small Orange Burr- Soul of a Lost Undead
+33700600 [Abandoned Hollow] Prisoner's Set- Small Blue Burr- Small Yellow Burr- Small Orange Burr- Soul of a Lost Undead
+33701000 [Abandoned Hollow] Prisoner's Set- Torch- Lifegem
+33701100 [Abandoned Hollow] Prisoner's Set- Poison Throwing Knife- Torch
+33702000 [Abandoned Hollow] Prisoner's Set- Broken Straight Sword- Small Blue Burr- Small Yellow Burr- Small Orange Burr- Lifegem
+33702100 [Abandoned Hollow] Prisoner's Set- Broken Straight Sword- Poison Throwing Knife
+33702200 [Abandoned Hollow] Prisoner's Set- Broken Straight Sword- Simpleton's Spice- Homeward Bone
+33702300 [Abandoned Hollow] Prisoner's Set- Broken Straight Sword- Small Blue Burr- Small Yellow Burr- Small Orange Burr- Soul of a Lost Undead
+50000000 [Covetous Demon] None
+50001000 [Covetous Demon] Ivory Warrior Ring
+50100000 [Mytha- the Baneful Queen] None
+50200000 [Manscorpion Tark] Black Scorpion Stinger- Second Dragon Ring
+50300000 [Scorpioness Najka] None
+50400000 [Looking Glass Knight] None
+50610000 [Darklurker] None
+50620000 [Unknown] None
+50650000 [Grave Warden Agdayne] None
+50700000 [Unknown] None
+50800000 [Unknown] None
+50900000 [Leydia Witch] Leydia Black Set- Black Witch's Staff- Simpleton's Spice- Skeptic's Spice- Magic Stone- Dark Quartz Ring+2
+51100000 [Imperious Knight] Imperious Set- Orma's Greatshield- Reeve's Greatshield
+51200000 [Leydia Pyromancer] Leydia White Set- Blue Flame- Magic Shield- Faintstone- Darknight Stone
+51460000 [Vendrick - Hollow] None
+60000000 [Ancient Dragon] None
+60100000 [Flame Lizard] Cracked Red Eye Orb- Fireball- Fire Orb- Great Fireball
+60101000 [Flame Lizard] Cracked Red Eye Orb- Titanite Slab- Petrified Dragon Bone
+60200000 [Rampart Hedgehog] None
+60300000 [The Duke's Dear Freja] None
+60310000 [The Duke's Dear Freja] None
+60700000 [Old Iron King] None
+60800000 [Rotten Vermin] Poison Moss
+61100000 [Dragonrider] None
+61911000 [Executioner's Chariot] None
+62500000 [Old Dragonslayer] None
+62600000 [Lost Sinner] None
+62700000 [Nashandra] Ring of Lords
+62800000 [Royal Rat Authority] None
+65000000 [Iron Warrior] Smelter Hammer- Firedrake Stone- Titanite Slab- Minotaur Helm
+65000100 [Iron Warrior] Smelter Hammer- Firedrake Stone- Titanite Slab- Minotaur Helm
+65100000 [Fume Sorcerer] Blue Dagger- Umbral Dagger- Fume Sorcerer Set
+65100100 [Fume Sorcerer] Blue Dagger- Umbral Dagger- Fume Sorcerer Set
+65300000 [Ashen Warrior] Battle Axe- Charcoal Pine Resin- Small Orange Burr
+65300100 [Ashen Warrior] Battle Axe- Charcoal Pine Resin- Small Orange Burr
+65301000 [Ashen Warrior] Ashen Warrior Sword- Charcoal Pine Resin- Small Orange Burr
+65301100 [Ashen Warrior] Ashen Warrior Sword- Charcoal Pine Resin- Small Orange Burr
+65302000 [Ashen Warrior] Halberd- Charcoal Pine Resin- Small Orange Burr
+65302100 [Ashen Warrior] Halberd- Charcoal Pine Resin- Small Orange Burr
+65303000 [Ashen Warrior] Ashen Warrior Sword- Charcoal Pine Resin- Small Orange Burr
+65303100 [Ashen Warrior] Ashen Warrior Sword- Charcoal Pine Resin- Small Orange Burr
+65400000 [Ashen Crawler] Bonfire Ascetic- Wilted Dusk Herb- Dung Pie
+65600000 [Possessed Armor] Possessed Armor Sword- Possessed Armor Greatbow- Titanite Chunk
+65600100 [Possessed Armor] Possessed Armor Sword- Possessed Armor Greatbow- Titanite Chunk
+65700000 [Barrel Carrier] Human Effigy- Black Firebomb
+65900000 [Rampart Golem] Rampart Golem Lance- Rampart Golem Shield- Rampart Golem Set
+65901000 [Rampart Golem] Rampart Golem Lance- Rampart Golem Shield- Rampart Golem Set
+66000000 [Crystal Golem] Wilted Dusk Herb- Old Radiant Lifegem
+66100000 [Frozen Reindeer] Old Radiant Lifegem- Petrified Dragon Bone
+66101000 [Frozen Reindeer] Old Radiant Lifegem- Petrified Dragon Bone- Bone Fist
+66200000 [Rampart Hedgehog] Human Effigy
+66300000 [Rampart Spearman] Ice Rapier- Radiant Lifegem- Amber Herb
+66301000 [Rampart Spearman] Ice Rapier- Radiant Lifegem- Amber Herb
+66500000 [Sanctum Knight] Sanctum Knight Set- Repair Powder
+66501000 [Sanctum Knight] Sanctum Knight Set- Sanctum Crossbow- Sanctum Repeating Crossbow- Repair Powder
+66600000 [Sanctum Soldier] Sanctum Soldier Gauntlet- Sanctum Mace- Poison Moss- Poison Stone
+66600100 [Sanctum Soldier] Sanctum Mace- Dragon Charm- Poison Stone- Dried Root
+66601000 [Sanctum Soldier] Sanctum Soldier Gauntlet- Poison Moss- Old Growth Balm
+66602000 [Sanctum Soldier] Sanctum Soldier Gauntlet- Poison Moss- Old Growth Balm
+66604000 [Sanctum Soldier] Sanctum Soldier Gauntlet- Sanctum Mace- Dragon Charm- Poison Stone
+66604100 [Sanctum Soldier] Sanctum Mace- Dragon Charm- Poison Stone- Dried Root
+66605000 [Sanctum Soldier] Sanctum Soldier Gauntlet- Dragon Charm- Vine Balm
+66606000 [Sanctum Soldier] Sanctum Soldier Gauntlet- Dragon Charm- Vine Balm
+67000000 [Sanctum Priestess] Sanctum Priestess Tiara- Dragon Charm- Crimson Water
+67100000 [Poison Statue Cluster] Human Effigy- Twinkling Titanite- Common Fruit
+67100100 [Poison Statue Cluster] Human Effigy- Twinkling Titanite- Common Fruit
+67110000 [Poison Statue Cluster] Human Effigy- Twinkling Titanite- Triclops Snake Troches- Promised Walk of Peace- Lightning Clutch Ring
+67110100 [Poison Statue Cluster] Human Effigy- Twinkling Titanite- Triclops Snake Troches- Promised Walk of Peace- Lightning Clutch Ring
+67200000 [Rotten Vermin] Blackweed Balm- Goldenfruit Balm
+67400000 [Pagan Tree] Dried Root
+67500000 [Fume Knight] None
+67700000 [Retainer Sorcerer] Retainer's Short Sword- Retainer Robe
+67701000 [Retainer Sorcerer] Retainer Staff- Retainer Robe
+67800000 [Ice Golem] Human Effigy- Twinkling Titanite
+68000000 [Sir Alonne] None
+68000100 [Sir Alonne] Alonne's Set
+68100000 [Sinh- the Slumbering Dragon] None
+68100100 [Sinh- the Slumbering Dragon] None
+68200000 [Elana- Squalid Queen] None
+68300000 [Imperfect] Petrified Dragon Bone- Titanite Slab- Dragon Scale
+68400000 [Vendrick] None
+68800000 [Loyce Knight] None
+68900000 [Charred Loyce Knight] Charred Loyce Greatsword- Charred Loyce Set- Charred Loyce Shield- Loyce Soul
+68901000 [Charred Loyce Knight] Charred Loyce Greatsword- Charred Loyce Set- Charred Loyce Shield- Loyce Soul
+69600000 [Unknown] Small Smooth & Silky Stone- Smooth & Silky Stone- Petrified Something
+70050000 [Shanalotte] Aged Feather
+70150000 [Unknown] None
+70360000 [Human Nashandra] None
+70450000 [Laddersmith Gilligan] Melu Scimitar- Ladder Miniature
+70550000 [Strowen] Human Effigy
+70560000 [Morrel] None
+70580000 [Griant] None
+72110000 [Chancellor Wellager] None
+72300000 [Milibeth] Human Effigy
+72400000 [Captain Drummond] Drangleic Helm
+72500000 [Darkdiver Grandahl] Dragon Chime
+72600000 [Unknown] Gyrm Greataxe
+73000000 [Unknown] None
+73101000 [Unknown] None
+73200000 [Unknown] None
+73300000 [Unknown] None
+74100000 [Unknown] Ring of Steel Protection
+74200000 [Creighton the Wanderer] Creighton's Steel Mask
+74201000 [Creighton the Wanderer] Creighton's Steel Mask
+74300000 [Benhart of Jugo] Bluemoon Greatsword
+74400000 [Mild Mannered Pate] Pate's Spear
+75100000 [Cale the Cartographer] Cale's Helm
+75200000 [Lucatiel of Mirrah] Lucatiel's Mask
+75300000 [Bell Keeper] Rusted Coin
+75400000 [Merchant Hag Melentia] Covetous Silver Serpent Ring+1
+75500000 [Unknown] None
+76000000 [Milfanito] None
+76010000 [Milfanito] None
+76020000 [Milfanito] Ring of the Dead
+76100000 [Maughlin the Armourer] Tseldora Set
+76200000 [Stone Trader Chloanne] Palestone
+76300000 [Rosabeth of Melfia] Fire Seed
+76400000 [Blacksmith Lenigrast] Blacksmith's Hammer
+76401000 [Blacksmith Lenigrast] Blacksmith's Hammer
+76430000 [Steady Hand McDuff] Titanite Slab
+76600000 [Carhillion of the Fold] Northern Ritual Band+1
+76800000 [Straid of Olaphis] Black Hood
+76900000 [Licia of Lindeldt] Idol's Chime
+77000000 [Felkin the Outcast] Sunset Staff
+77001000 [Felkin the Outcast] None
+77100000 [Royal Sorcerer Navlaan] Chaos Hood
+77200000 [Magerold of Lanafir] Covetous Gold Serpent Ring+1
+77600000 [Unknown] None
+77700000 [Sweet Shalquoir] None
+78300000 [Titchy Gren] Nahr Alma Hood
+78400000 [Cromwell the Pardoner] Ring of Resistance
+78500000 [Blue Sentinel Targray] Blue Knight's Halberd
+78501000 [Blue Sentinel Targray] Blue Knight's Halberd
+78600000 [Unknown] None
+81000000 [Unknown] Hollow Soldier Set- Zweihander- Varangian Shield
+81000100 [Unknown] None
+81000200 [Unknown] Hollow Soldier Set- Zweihander- Varangian Shield
+81000300 [Unknown] None
+81000400 [Unknown] None
+81100000 [Unknown] None
+81200000 [Unknown] None
+81200100 [Unknown] None
+81300000 [Unknown] None
+81400000 [Unknown] None
+81400800 [Unknown] Prisoner's Hood- Prisoner's Tatters- Prisoner's Gloves- Greataxe
+81400900 [Unknown] Greataxe
+82000000 [Unknown] Winged Spear
+82000100 [Unknown] Hollow Soldier Set- Winged Spear- Hollow Soldier Shield
+82000200 [Unknown] Hollow Soldier Set- Winged Spear- Hollow Soldier Shield
+82100000 [Unknown] Warlock Mask- Priestess Robe- Priestess Gloves- Priestess Skirt- Cursed Bone Shield
+82100100 [Unknown] Warlock Mask- Priestess Robe- Priestess Gloves- Priestess Skirt- Cursed Bone Shield
+82200000 [Unknown] Leydia Black Hood- Leydia Black Robe- Priestess Gloves- Priestess Skirt- Black Witch's Staff- Cleric's Parma
+82200100 [Unknown] Leydia Black Hood- Leydia Black Robe- Priestess Gloves- Priestess Skirt- Black Witch's Staff- Cleric's Parma
+82200200 [Unknown] Leydia Black Hood- Leydia Black Robe- Priestess Gloves- Priestess Skirt- Black Witch's Staff- Cleric's Parma
+82200300 [Unknown] Leydia Black Hood- Leydia Black Robe- Priestess Gloves- Priestess Skirt- Black Witch's Staff- Cleric's Parma
+82300000 [Unknown] Dragon Scale
+82400000 [Unknown] Old Mirrah Greatsword
+82400001 [Unknown] Old Mirrah Greatsword
+83100000 [Unknown] Dingy Set
+83110000 [Unknown] Soul of a Great Hero
+83200000 [Unknown] Wood Arrow
+83210000 [Unknown] Wood Arrow
+83220000 [Unknown] Wood Arrow
+83230000 [Unknown] Wood Arrow
+83240000 [Unknown] Wood Arrow
+83250000 [Unknown] Wood Arrow
+83260000 [Unknown] Wood Arrow
+83270000 [Unknown] Wood Arrow
+83300000 [Unknown] Tattered Cloth Set
+83400000 [Unknown] Jester's Set
+83410000 [Unknown] Aurous Set- Stone Twinblade- Old Knight's Shield
+83500000 [Unknown] Black Dragon Greataxe
+83505000 [Unknown] Monastery Scimitar- Monastery- Set
+83510000 [Unknown] Black Dragon Warpick- Black Dragon Shield
+83520000 [Unknown] Black Dragon Sword- Black Dragon Shield
+83600000 [Unknown] Mad Warrior Set- Berserker Blade
+83600001 [Unknown] Mad Warrior Set- Berserker Blade
+83610000 [Unknown] Orma's Greatshield
+83620000 [Unknown] Black Witch Domino Mask
+83630000 [Unknown] Black Witch Veil
+83640000 [Unknown] Ironclad Helm- Ironclad Armor- Drakekeeper's Great Hammer
+83700000 [Unknown] Imported Set- Shortsword- Heavy Crossbow
+83700001 [Unknown] Imported Set- Shortsword- Heavy Crossbow
+83710000 [Unknown] Wood Arrow
+83720000 [Unknown] Wood Arrow
+83730000 [Unknown] Wood Arrow
+83800000 [Unknown] None
+83810000 [Unknown] None
+84000000 [Unknown] Wood Arrow
+84100000 [Unknown] Wood Arrow
+84200000 [Unknown] Syan's Set- Mastodon Greatsword- Mastodon Greatshield
+84300000 [Unknown] Knight Set- Heide Knight Sword- Dagger
+84400000 [Unknown] Catarina Set- Broadsword- Heavy Crossbow
+84400001 [Unknown] Catarina Set- Broadsword- Heavy Crossbow
+84500000 [Unknown] Falconer Set- Scimitar
+84600000 [Unknown] Peasant Set
+84700000 [Unknown] Token of Spite- Cracked Red Eye Orb
+84710000 [Unknown] Token of Fidelity- Cracked Blue Eye Orb
+84800000 [Unknown] Leydia White Set- Imperious Leggings- Blue Flame
+84810000 [Unknown] None
+84900000 [Unknown] None
+84900001 [Unknown] None
+84910000 [Unknown] None
+84920000 [Unknown] Aurous Set- Shotel- Heavy Crossbow
+85000000 [Unknown] Monastery Set- Monastery Scimitar
+85000001 [Unknown] Monastery Set- Monastery Scimitar
+85100000 [Unknown] Brigand Set- Full Moon Sickle
+85200000 [Unknown] Greatsword- Orma's Greatshield
+85300000 [Unknown] Royal Swordsman Set- Avelyn
+85310000 [Unknown] None
+85320000 [Unknown] Drakekeeper Set- Drakekeeper's Warpick
+85330000 [Unknown] Elite Knight Set- Longsword
+85340000 [Unknown] Durgo's Hat
+85340001 [Unknown] Durgo's Hat
+85350000 [Unknown] Syan's Set- Tower Shield
+85400000 [Unknown] Aurous Set- Stone Twinblade- Old Knight's Shield
+85400001 [Unknown] Aurous Set- Stone Twinblade- Old Knight's Shield
+86200000 [Unknown] Puzzling Stone Sword
+86300000 [Unknown] Puzzling Stone Sword
+86400000 [Unknown] Puzzling Stone Sword
+87110000 [Unknown] Alva Set- Human Effigy
+87200000 [Unknown] Black Hollow Mage Set- Caitha's Chime
+87300000 [Unknown] Wanderer Set- Notched Whip- Crimson Parma
+87900000 [Unknown] None
+88100000 [Unknown] Mad Warrior Set- Berserker Blade
+88200000 [Unknown] Mad Warrior Set- Berserker Blade
+88300000 [Unknown] Knight Set- Divine Blessing
+88310000 [Unknown] Elite Knight Set- Divine Blessing
+88320000 [Unknown] Elite Knight Set- Divine Blessing
+88500000 [Unknown] Faraam Set- Radiant Lifegem
+88510000 [Unknown] Archdrake Helm- Twilight Herb
+88700000 [Unknown] Black Witch Set
+89600000 [Unknown] Orma's Greatshield
+89650000 [Unknown] Orma's Greatshield
+89700000 [Unknown] Sanctum Priestess Tiara
+89750000 [Unknown] Clear Bluestone Ring+2
+89800000 [Unknown] Minotaur Helm
+99900000 UNKNOWN
+99990000 UNKNOWN
+99990001 UNKNOWN

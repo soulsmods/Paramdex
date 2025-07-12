@@ -1,14 +1,14 @@
-0 No 00 -- 00なし
-12 shield -- 盾(シールド)(shield)
-15 Rifle -- ライフル（Rifle）
-16 Shotgun -- ショットガン（Shotgun）
-17 Machine gun -- マシンガン（Machinegun）
-18 Bazooka -- バズーカ（Bazooka）
-19 Handgun -- ハンドガン（Handgun）
-20 Sniper -- スナ（Sniper）
-21 Cannon -- キャノン（Cannon）
-22 Missile -- ミサイル（Missile）
-23 Bayonet -- 銃剣（Bayonet）
-24 Laser Rifle -- レーザーライフル(LaserRifle)
-25 Laser Cannon -- レーザーキャノン(LaserCannon)
-255 item -- アイテム
+0 None
+12 Shield
+15 Rifle
+16 Shotgun
+17 Machine Gun
+18 Bazooka
+19 Hand Gun
+20 Sniper
+21 Cannon
+22 Missile
+23 Bayonet
+24 Laser Rifle
+25 Laser Cannon
+255 Item

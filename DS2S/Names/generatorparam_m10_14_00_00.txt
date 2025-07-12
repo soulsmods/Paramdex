@@ -15,18 +15,13 @@
 528 [GEN:528] Manhunter O'Harrah
 529 [GEN:529] Bashful Ray
 803 [GEN:803] The Duke's Dear Freja
-911 [GEN:911] Aldia, Scholar of the First Sin
+911 [GEN:911] Aldia- Scholar of the First Sin
 926 [GEN:926] Forlorn
 1000 [GEN:1000] The Duke's Dear Freja
 1110 [GEN:1110] Hollow Falconer
 1111 [GEN:1111] Hollow Falconer
 1112 [GEN:1112] Hollow Falconer
 1113 [GEN:1113] Hollow Falconer
-1115 [GEN] Undead Boar
-1116 [GEN] Hollow Falconer
-1117 [GEN] Hollow Falconer
-1118 [GEN] Hollow Falconer
-1119 [GEN] Hollow Falconer
 1120 [GEN:1120] Undead Boar
 1121 [GEN:1121] Undead Boar
 1122 [GEN:1122] Small Boar
@@ -34,9 +29,6 @@
 1160 [GEN:1160] Hollow Falconer
 1161 [GEN:1161] Hollow Falconer
 1162 [GEN:1162] Hollow Falconer
-1165 [GEN] Hollow Falconer
-1166 [GEN] Hollow Falconer
-1167 [GEN] Hollow Falconer
 1180 [GEN:1180] Giant Undead Boar
 1181 [GEN:1181] Giant Undead Boar
 1190 [GEN:1190] Undead Boar
@@ -76,11 +68,11 @@
 2520 [GEN:2520] Undead Supplicant
 2521 [GEN:2521] Undead Supplicant
 2522 [GEN:2522] Undead Supplicant
-2530 [GEN:2530] Captive Undead
-2531 [GEN:2531] Captive Undead
-2532 [GEN:2532] Captive Undead
-2533 [GEN:2533] Captive Undead
-2534 [GEN:2534] Captive Undead
+2530 [GEN:2530] Undead Laborer
+2531 [GEN:2531] Undead Laborer
+2532 [GEN:2532] Undead Laborer
+2533 [GEN:2533] Undead Laborer
+2534 [GEN:2534] Undead Laborer
 2700 [GEN:2700] Parasite Spider
 2720 [GEN:2720] Parasite Spider
 3000 [GEN:3000] White Hollow Mage
@@ -99,9 +91,13 @@
 3200 [GEN:3200] Parasite Spider
 3500 [GEN:3500] White Hollow Mage
 3510 [GEN:3510] White Hollow Mage
+3551 [GEN:3551] Parasite Spider
 3552 [GEN:3552] Parasite Spider
 3553 [GEN:3553] Parasite Spider
+3554 [GEN:3554] Parasite Spider
+3556 [GEN:3556] Parasite Spider
 3557 [GEN:3557] Parasite Spider
+3558 [GEN:3558] Parasite Spider
 3590 [GEN:3590] Parasite Spider
 3591 [GEN:3591] Parasite Spider
 4000 [GEN:4000] Basilisk

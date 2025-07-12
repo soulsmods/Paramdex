@@ -1,0 +1,1587 @@
+10000 Character Relic: FP Restoration upon Successive Attacks
+10001 Character Relic: Taking attacks improves attack power
+10002 Character Relic: Switching Weapons Boosts Attack Power
+11000 Character Relic: +1 additional Character Skill use
+11001 Character Relic: Flask Also Heals Allies
+11002 Character Relic: Art gauge greatly filled when ability is
+12000 Character Relic: Increased duration for Character Skill
+12001 Character Relic: Art gauge charged from successful guarding
+12002 Character Relic: Slowly restores nearby allies' HP
+12003 Character Relic: Slowly restores nearby allies' HP
+13000 Character Relic: Attack power increases after using grease items
+13001 Character Relic: Critical Hits Earn Runes
+13002 Character Relic: Improved Attack Power with 3+ Bows Equipped
+14000 Character Relic: Dagger chain attack reprises event upon
+14001 Character Relic: Become difficult to spot and silence
+14002 Character Relic: Slowly restore HP for self and nearby allies when HP is low
+15000 Character Relic: Duration of Ultimate Art extended
+15001 Character Relic: Damage taken while using Character Skill improves attack power and stamina
+15002 Character Relic: Defeating enemies near Totem Stela restores HP
+16000 Character Relic: Strengthens family and allies when Ultimate Art is activated
+16001 Character Relic: Increased rune acquisition for self and allies
+16002 Character Relic: Expend own HP to fully heal nearby allies when activating Art
+17000 Character Relic: Attack power permanently increased for each evergaol prisoner defeated
+17001 Character Relic: Max FP Up with 3+ Staves Equipped
+17002 Character Relic: Recluse: Suffer blood loss and increase attack power upon Art activation
+18000 Character Relic: HP restored when using cured meats, medicinal boluses, etc.
+18001 Character Relic: Art gauge fills moderately upon critical hit
+18002 Character Relic: Roaring restores HP while Art is active
+310000 Talisman: Increased Maximum HP
+310100 Talisman: Increased Maximum FP
+310200 Talisman: Increased Maximum Stamina
+310400 Talisman: Increased Maximum HP
+310401 Talisman: Increased Maximum Stamina
+311000 Talisman: Improved Item Discovery
+311100 Talisman: More Runes From Defeated Enemies
+311500 Talisman: Improved Stamina Recovery
+311600 Talisman: Improved Blood Loss Resistance
+311601 Talisman: Improved Frost Resistance
+311700 Talisman: Improved Poison Resistance
+311701 Talisman: Improved Rot Resistance
+311800 Talisman: Improved Sleep Resistance
+311801 Talisman: Improved Madness Resistance
+311900 Talisman: Improved Death Blight Resistance
+312000 Talisman: Improved Poison & Rot Resistance
+312001 Talisman: Improved Blood Loss & Frost Resistance
+312002 Talisman: Improved Sleep & Madness Resistance
+312100 Talisman: Improved Poise
+312300 Talisman: Improved Skill Attack Power
+312500 Talisman: Improved Dexterity
+312501 Talisman: Successive Attacks Boost Attack Power
+320000 Talisman: Improved Magic Attack Power
+320001 Talisman: Impaired Physical Damage Negation
+320100 Talisman: Improved Lightning Attack Power
+320101 Talisman: Impaired Physical Damage Negation
+320200 Talisman: Improved Fire Attack Power
+320201 Talisman: Impaired Physical Damage Negation
+320300 Talisman: Improved Holy Attack Power
+320301 Talisman: Impaired Physical Damage Negation
+320400 Talisman: Improved Attack Power at Low HP
+320500 Talisman: Improved Attack Power at Full HP
+320600 Talisman: Improved Thrusting Counterattack
+320700 Talisman: Improved Guard Breaking
+320800 Talisman: Successive Attacks Boost Attack Power
+320801 Talisman: Successive Attacks Boost Attack Power
+320900 Talisman: Improved Critical Hits
+321000 Talisman: Projectile Damage Drop-Off Reduced
+321200 Talisman: Improved Chain Attack Finishers
+321300 Talisman: Improved Charge Attacks
+321500 Talisman: Improved Ranged Weapon Attacks
+321600 Talisman: Blood Loss in Vicinity Increases Attack Power
+321700 Talisman: Poison & Rot Improves Attack Power
+321800 Talisman: Improved Jump Attacks
+321900 Talisman: Improved Roar & Breath Attacks
+322000 Talisman: Improved Guard Counters
+322100 Talisman: Improved Throwing Pots
+322200 Talisman: Improved Perfuming Arts
+330000 Talisman: Improved Sorceries
+330400 Talisman: Improved Incantations
+330600 Talisman: Extended Spell Duration
+330700 Talisman: Improved Spell Casting Speed
+330800 Talisman: Reduced Spell FP Cost
+330801 Talisman: Maximum HP Down
+330900 Talisman: Improved Charged Spells & Skills
+340000 Talisman: Improved Physical Damage Negation
+340100 Talisman: Improved Magic Damage Negation
+340200 Talisman: Improved Fire Damage Negation
+340300 Talisman: Improved Lightning Damage Negation
+340400 Talisman: Improved Holy Damage Negation
+340500 Talisman: Improved Non-Physical Damage Negation
+340700 Talisman: Improved Dodging
+340701 Talisman: Impaired Damage Negation
+340800 Talisman: Improved Damage Negation at Low HP
+340900 Talisman: Improved Damage Negation at Full HP
+341000 Talisman: Improved Guarding Ability
+350000 Talisman: Improved Flask HP Restoration
+350200 Talisman: Continuous HP Recovery
+350300 Talisman: Defeating Enemies Restores HP
+350400 Talisman: Successive Attack HP Restoration
+350500 Talisman: Critical Hit HP Restoration
+350600 Talisman: Critical Hit FP Restoration
+360200 Talisman: Reduced Skill FP Cost
+360700 Talisman: No Rune Loss or Level Down Upon Death
+361100 Talisman: Defeating Enemies Restores FP
+370000 Talisman: Improved Item Discovery
+370001 Talisman: More Runes From Defeated Enemies
+370002 Talisman: Continuous HP Loss
+7000000 Relic: Vigor +1
+7000001 Relic: Vigor +2
+7000002 Relic: Vigor +3
+7000090 Relic: Increased Maximum HP
+7000100 Relic: Mind +1
+7000101 Relic: Mind +2
+7000102 Relic: Mind +3
+7000190 Relic: Increased Maximum FP
+7000200 Relic: Endurance +1
+7000201 Relic: Endurance +2
+7000202 Relic: Endurance +3
+7000290 Relic: Increased Maximum Stamina
+7000300 Relic: Strength +1
+7000301 Relic: Strength +2
+7000302 Relic: Strength +3
+7000400 Relic: Dexterity +1
+7000401 Relic: Dexterity +2
+7000402 Relic: Dexterity +3
+7000500 Relic: Intelligence +1
+7000501 Relic: Intelligence +2
+7000502 Relic: Intelligence +3
+7000600 Relic: Faith +1
+7000601 Relic: Faith +2
+7000602 Relic: Faith +3
+7000700 Relic: Arcane +1
+7000701 Relic: Arcane +2
+7000702 Relic: Arcane +3
+7000800 Relic: Character Skill Cooldown Reduction +1
+7000801 Relic: Character Skill Cooldown Reduction +2
+7000802 Relic: Character Skill Cooldown Reduction +3
+7000900 Relic: Ultimate Art Gauge +1
+7000901 Relic: Ultimate Art Gauge +2
+7000902 Relic: Ultimate Art Gauge +3
+7001000 Relic: Poise +1
+7001001 Relic: Poise +2
+7001002 Relic: Poise +3
+7001100 Relic: HP Restoration
+7001400 Relic: Physical Attack Up
+7001401 Relic: Physical Attack Up +1
+7001402 Relic: Physical Attack Up +2
+7001500 Relic: Magic Attack Power Up
+7001501 Relic: Magic Attack Power Up +1
+7001502 Relic: Magic Attack Power Up +2
+7001600 Relic: Fire Attack Power Up
+7001601 Relic: Fire Attack Power Up +1
+7001602 Relic: Fire Attack Power Up +2
+7001700 Relic: Lightning Attack Power Up
+7001701 Relic: Lightning Attack Power Up +1
+7001702 Relic: Lightning Attack Power Up +2
+7001800 Relic: Holy Attack Power Up
+7001801 Relic: Holy Attack Power Up +1
+7001802 Relic: Holy Attack Power Up +2
+7002600 Relic: Magic Damage Negation Up
+7002700 Relic: Fire Damage Negation Up
+7002800 Relic: Lightning Damage Negation Up
+7002900 Relic: Holy Damage Negation Up
+7003000 Relic: Improved Poison Resistance
+7003100 Relic: Improved Blood Loss Resistance
+7003200 Relic: Improved Sleep Resistance
+7003300 Relic: Improved Death Blight Resistance
+7003400 Relic: Improved Rot Resistance
+7003500 Relic: Improved Frost Resistance
+7003600 Relic: Improved Madness Resistance
+7005600 Relic: Partial HP Restoration upon Post-Damage Attacks
+7006000 Relic: Improved Stance-Breaking when Two-Handing
+7006001 Relic: Improved Stance-Breaking when Two-Handing
+7006100 Relic: Improved Stance-Breaking when Wielding Two Armaments
+7006101 Relic: Improved Stance-Breaking when Wielding Two Armaments
+7006200 Relic: Improved Physical Damage Negation
+7010200 Relic: Flask Also Heals Allies
+7010500 Relic: Wylder: Art activation spreads fire in area
+7010700 Relic: Duchess: Dagger chain attack reprises event upon nearby enemies
+7010900 Relic: Revenant: Expend own HP to fully heal nearby allies when activating Art
+7011000 Relic: Guardian: Increased duration for Character Skill
+7011200 Relic: Revenant: Trigger ghostflame explosion during Ultimate Art activation
+7011600 Relic: Guardian: Creates whirlwind when charging halberd attacks
+7011700 Relic: Executor: Roaring restores HP while Art is active
+7012000 Relic: Guardian: Slowly restores nearby allies' HP while Art is active
+7012200 Relic: Slowly restore HP for self and nearby allies when HP is low
+7012300 Relic: Improved Damage Negation at Low HP
+7020000 Relic: Wylder: Follow-up attacks possible when using Character Skill (greatsword only)
+7030000 Relic: Raider: Improved Poise Near Totem Stela
+7030200 Relic: HP restored when using cured meats, medicinal boluses, etc.
+7030600 Relic: Art gauge charged from successful guarding
+7030700 Relic: Draw enemy attention while guarding
+7030800 Relic: Art gauge fills moderately upon critical hit
+7030900 Relic: Attack power increases after using grease items
+7031200 Relic: Revenant: Strengthens family and allies when Ultimate Art is activated
+7031300 Relic: Raider: Damage taken while using Character Skill improves attack power and stamina
+7031800 Relic: Duchess: Become difficult to spot and silence footsteps after landing critical from behind
+7031900 Relic: Critical Hits Earn Runes
+7032200 Relic: Taking attacks improves attack power
+7032400 Relic: Wylder: Art gauge greatly filled when ability is activated
+7032700 Relic: Duchess: Defeating enemies while Art is active ups attack power
+7032800 Relic: Recluse: Collecting affinity residue activates Terra Magica
+7032900 Relic: Recluse: Suffer blood loss and increase attack power upon Art activation
+7033200 Relic: Wylder: +1 additional Character Skill use
+7033300 Relic: Guardian: Become the target of enemy aggression when ability is activated
+7033400 Relic: Guardian: Reflect a portion of damage received when ability is activated
+7034100 Relic: Recluse: Activating Ultimate Art raises Max HP
+7034400 Relic: Executor: Character Skill Boosts Attack but Attacking Drains HP
+7034500 Relic: Executor: While Character Skill is active, unlocking use of cursed sword restores HP
+7034600 Relic: Ironeye: Art Charge Activation Adds Poison Effect
+7034700 Relic: Ironeye: Boosts thrusting counterattacks after executing Art
+7035100 Relic: Critical Hit Boosts Stamina Recovery Speed
+7035400 Relic: Gesture "Crossed Legs" Builds Up Madness
+7035410 Relic: Gesture "Crossed Legs" Builds Up Madness
+7035500 Relic: Madness Continually Recovers FP
+7035510 Relic: Madness Continually Recovers FP
+7035700 Relic: Switching Weapons Adds an Affinity Attack
+7035800 Relic: Boosts Attack Power of Added Affinity Attacks
+7035900 Relic: Switching Weapons Boosts Attack Power
+7036000 Relic: FP Restoration upon Successive Attacks
+7036100 Relic: HP Recovery From Successful Guarding
+7040000 Relic: Improved Initial Standard Attack
+7040100 Relic: Improved Guard Counters
+7040200 Relic: Improved Critical Hits
+7040201 Relic: Improved Critical Hits
+7040300 Relic: Improved Throwing Pot Damage
+7040400 Relic: Improved Throwing Knife Damage
+7040500 Relic: Improved Throwing Stone Damage
+7043000 Relic: Improved Roar & Breath Attacks
+7043100 Relic: Improved Perfuming Arts
+7043200 Relic: Improved Stonedigger Sorcery
+7043300 Relic: Improved Carian Sword Sorcery
+7043400 Relic: Improved Glintblade Sorcery
+7043500 Relic: Improved Invisibility Sorcery
+7043600 Relic: Improved Crystalian sorcery
+7043700 Relic: Improved Gravity Sorcery
+7043800 Relic: Improved Thorn Sorcery
+7044000 Relic: Improved Fundamentalist Incantations
+7044100 Relic: Improved Dragon Cult Incantations
+7044200 Relic: Improved Giants' Flame Incantations
+7044300 Relic: Improved Godslayer Incantations
+7044400 Relic: Improved Bestial Incantations
+7044500 Relic: Improved Frenzied Flame Incantations
+7044600 Relic: Improved Dragon Communion Incantations
+7050000 Relic: Raised stamina recovery for nearby allies, but not for self
+7050100 Relic: Items confer effect to all nearby allies
+7060000 Relic: Attack power permanently increased for each evergaol prisoner defeated
+7060100 Relic: Max FP permanently increased after releasing Sorcerer's Rise mechanism
+7060200 Relic: Attack power up after defeating a Night Invader
+7070000 Relic: Treasure marked upon map
+7080000 Relic: Improved Attack Power with 3+ Daggers Equipped
+7080100 Relic: Improved Attack Power with 3+ Straight Swords Equipped
+7080200 Relic: Improved Attack Power with 3+ Greatswords Equipped
+7080300 Relic: Improved Attack Power with 3+ Colossal Swords Equipped
+7080400 Relic: Improved Attack Power with 3+ Curved Swords Equipped
+7080500 Relic: Improved Attack Power with 3+ Curved Greatswords Equipped
+7080600 Relic: Improved Attack Power with 3+ Katana Equipped
+7080700 Relic: Improved Attack Power with 3+ Twinblades Equipped
+7080800 Relic: Improved Attack Power with 3+ Thrusting Swords Equipped
+7080900 Relic: Improved Attack Power with 3+ Heavy Thrusting Swords Equipped
+7081000 Relic: Improved Attack Power with 3+ Axes Equipped
+7081100 Relic: Improved Attack Power with 3+ Greataxes Equipped
+7081200 Relic: Improved Attack Power with 3+ Hammers Equipped
+7081300 Relic: Improved Attack Power with 3+ Great Hammers Equipped
+7081400 Relic: Improved Attack Power with 3+ Flails Equipped
+7081500 Relic: Improved Attack Power with 3+ Spears Equipped
+7081700 Relic: Improved Attack Power with 3+ Great Spears Equipped
+7081800 Relic: Improved Attack Power with 3+ Halberds Equipped
+7081900 Relic: Improved Attack Power with 3+ Reapers Equipped
+7082000 Relic: Improved Attack Power with 3+ Fists Equipped
+7082100 Relic: Improved Attack Power with 3+ Claws Equipped
+7082200 Relic: Improved Attack Power with 3+ Whips Equipped
+7082300 Relic: Improved Attack Power with 3+ Colossal Weapons Equipped
+7082400 Relic: Improved Attack Power with 3+ Bows Equipped
+7082500 Relic: Max FP Up with 3+ Staves Equipped
+7082600 Relic: Max FP Up with 3+ Sacred Seals Equipped
+7082700 Relic: Max HP Up with 3+ Small Shields Equipped
+7082800 Relic: Max HP Up with 3+ Medium Shields Equipped
+7082900 Relic: Max HP Up with 3+ Greatshields Equipped
+7090000 Relic: Defeating enemies fills more of the Art gauge
+7090100 Relic: Defeating enemies restores HP for allies but not for self
+7090300 Relic: Raider: Defeating enemies near Totem Stela restores HP
+7100100 Relic: Stamina recovers with each successful attack
+7100110 Relic: Night of the Beast: Recover Stamina on Attack
+7110000 Relic: Increased rune acquisition for self and allies
+7120000 Relic: Starting armament deals magic damage
+7120100 Relic: Starting armament deals fire damage
+7120200 Relic: Starting armament deals lightning damage
+7120300 Relic: Starting armament deals holy damage
+7120400 Relic: Starting armament inflicts frost
+7120500 Relic: Starting armament inflicts poison
+7120600 Relic: Starting armament inflicts blood loss
+7120900 Relic: Stonesword Key in possession at start of expedition
+7121000 Relic: Small Pouch in possession at start of expedition
+7121100 Relic: Fire Pots in possession at start of expedition
+7121200 Relic: Magic Pots in possession at start of expedition
+7121300 Relic: Lightning Pots in possession at start of expedition
+7121400 Relic: Holy Water Pots in possession at start of expedition
+7121500 Relic: Poisonbone Darts in possession at start of expedition
+7121600 Relic: Crystal Darts in possession at start of expedition
+7121700 Relic: Throwing Daggers in possession at start of expedition
+7121800 Relic: Glintstone Scraps in possession at start of expedition
+7121900 Relic: Gravity Stone Chunks in possession at start of expedition
+7122000 Relic: Bewitching Branches in possession at start of expedition
+7122100 Relic: Wraith Calling Bell in possession at start of expedition
+7122200 Relic: Fire Grease in possession at start of expedition
+7122300 Relic: Magic Grease in possession at start of expedition
+7122400 Relic: Lightning Grease in possession at start of expedition
+7122500 Relic: Holy Grease in possession at start of expedition
+7122600 Relic: Shield Grease in possession at start of expedition
+7122700 Relic: Changes compatible armament's skill to Glintblade Phalanx at start of expedition
+7122800 Relic: Changes compatible armament's skill to Gravitas at start of expedition
+7122900 Relic: Changes compatible armament's skill to Flaming Strike at start of expedition
+7123000 Relic: Changes compatible armament's skill to Eruption at start of expedition
+7123100 Relic: Changes compatible armament's skill to Thunderbolt at start of expedition
+7123200 Relic: Changes compatible armament's skill to Lightning Slash at start of expedition
+7123300 Relic: Changes compatible armament's skill to Sacred Blade at start of expedition
+7123400 Relic: Changes compatible armament's skill to Prayerful Strike at start of expedition
+7123500 Relic: Changes compatible armament's skill to Poisonous Mist at start of expedition
+7123600 Relic: Changes compatible armament's skill to Poison Moth Flight at start of expedition
+7123700 Relic: Changes compatible armament's skill to Blood Blade at start of expedition
+7123800 Relic: Changes compatible armament's skill to Seppuku at start of expedition
+7123900 Relic: Changes compatible armament's skill to Chilling Mist at start of expedition
+7124000 Relic: Changes compatible armament's skill to Hoarfrost Stomp at start of expedition
+7124100 Relic: Changes compatible armament's skill to White Shadow's Lure at start of expedition
+7124300 Relic: Changes compatible armament's skill to Endure at start of expedition
+7124400 Relic: Changes compatible armament's skill to Quickstep at start of expedition
+7124500 Relic: Changes compatible armament's skill to Storm Stomp at start of expedition
+7124600 Relic: Changes compatible armament's skill to Determination at start of expedition
+7124700 Relic: Changes compatible armament's skill to Rain of Arrows at start of expedition
+7126000 Relic: Starlight Shards in possession at start of expedition
+7126001 Relic: Starlight Shards in possession at start of expedition
+7126002 Relic: Starlight Shards in possession at start of expedition
+7150000 Relic: Guard counter is given a boost based on current HP
+7160000 Relic: HP Restoration upon Thrusting Counterattack
+7220000 Relic: Revenant: Power up while fighting alongside family
+7230000 Relic: Rune discount for shop purchases while on expedition
+7230001 Relic: Huge rune discount for shop purchases while on expedition
+7240000 Relic: Improved Poise & Damage Negation When Knocked Back by Damage
+7260000 Relic: Attack power up when facing poison-afflicted enemy
+7260300 Relic: Attack power up when facing scarlet rot-afflicted enemy
+7260400 Relic: Attack power up when facing frostbite-afflicted enemy
+7260700 Relic: Nearby Frostbite Conceals Self
+7260800 Relic: Poison & Rot in Vicinity Increases Attack Power
+7270100 Relic: Ironeye: +1 additional Character Skill use
+7280000 Relic: Ironeye: Extends duration of weak point
+7290000 Relic: Duchess: Improved Character Skill Attack Power
+7310000 Relic: Raider: Duration of Ultimate Art extended
+7330000 Relic: Improved Dagger Attack Power
+7330100 Relic: Improved Straight Sword Attack Power
+7330200 Relic: Improved Greatsword Attack Power
+7330300 Relic: Improved Colossal Sword Attack Power
+7330400 Relic: Improved Curved Sword Attack Power
+7330500 Relic: Improved Curved Greatsword Attack Power
+7330600 Relic: Improved Katana Attack Power
+7330700 Relic: Improved Twinblade Attack Power
+7330800 Relic: Improved Thrusting Sword Attack Power
+7330900 Relic: Improved Heavy Thrusting Sword Attack Power
+7331000 Relic: Improved Axe Attack Power
+7331100 Relic: Improved Greataxe Attack Power
+7331200 Relic: Improved Hammer Attack Power
+7331300 Relic: Improved Great Hammer Attack Power
+7331400 Relic: Improved Flail Attack Power
+7331500 Relic: Improved Spear Attack Power
+7331700 Relic: Improved Great Spear Attack Power
+7331800 Relic: Improved Halberd Attack Power
+7331900 Relic: Improved Reaper Attack Power
+7332000 Relic: Improved Fist Attack Power
+7332100 Relic: Improved Claw Attack Power
+7332200 Relic: Improved Whip Attack Power
+7332300 Relic: Improved Colossal Weapon Attack Power
+7332400 Relic: Improved Bow Attack Power
+7340000 Relic: HP Restoration upon Dagger Attacks
+7340100 Relic: HP Restoration upon Straight Sword Attacks
+7340200 Relic: HP Restoration upon Greatsword Attacks
+7340300 Relic: HP Restoration upon Colossal Sword Attacks
+7340400 Relic: HP Restoration upon Curved Sword Attacks
+7340500 Relic: HP Restoration upon Curved Greatsword Attacks
+7340600 Relic: HP Restoration upon Katana Attacks
+7340700 Relic: HP Restoration upon Twinblade Attacks
+7340800 Relic: HP Restoration upon Thrusting Sword Attacks
+7340900 Relic: HP Restoration upon Heavy Thrusting Sword Attacks
+7341000 Relic: HP Restoration upon Axe Attacks
+7341100 Relic: HP Restoration upon Greataxe Attacks
+7341200 Relic: HP Restoration upon Hammer Attacks
+7341300 Relic: HP Restoration upon Great Hammer Attacks
+7341400 Relic: HP Restoration upon Flail Attacks
+7341500 Relic: HP Restoration upon Spear Attacks
+7341700 Relic: HP Restoration upon Great Spear Attacks
+7341800 Relic: HP Restoration upon Halberd Attacks
+7341900 Relic: HP Restoration upon Reaper Attacks
+7342000 Relic: HP Restoration upon Fist Attacks
+7342100 Relic: HP Restoration upon Claw Attacks
+7342200 Relic: HP Restoration upon Whip Attacks
+7342300 Relic: HP Restoration upon Colossal Weapon Attacks
+7342400 Relic: HP Restoration upon Bow Attacks
+7350000 Relic: FP Restoration upon Dagger Attacks
+7350100 Relic: FP Restoration upon Straight Sword Attacks
+7350200 Relic: FP Restoration upon Greatsword Attacks
+7350300 Relic: FP Restoration upon Colossal Sword Attacks
+7350400 Relic: FP Restoration upon Curved Sword Attacks
+7350500 Relic: FP Restoration upon Curved Greatsword Attacks
+7350600 Relic: FP Restoration upon Katana Attacks
+7350700 Relic: FP Restoration upon Twinblade Attacks
+7350800 Relic: FP Restoration upon Thrusting Sword Attacks
+7350900 Relic: FP Restoration upon Heavy Thrusting Sword Attacks
+7351000 Relic: FP Restoration upon Axe Attacks
+7351100 Relic: FP Restoration upon Greataxe Attacks
+7351200 Relic: FP Restoration upon Hammer Attacks
+7351300 Relic: FP Restoration upon Great Hammer Attacks
+7351400 Relic: FP Restoration upon Flail Attacks
+7351500 Relic: FP Restoration upon Spear Attacks
+7351700 Relic: FP Restoration upon Great Spear Attacks
+7351800 Relic: FP Restoration upon Halberd Attacks
+7351900 Relic: FP Restoration upon Reaper Attacks
+7352000 Relic: FP Restoration upon Fist Attacks
+7352100 Relic: FP Restoration upon Claw Attacks
+7352200 Relic: FP Restoration upon Whip Attacks
+7352300 Relic: FP Restoration upon Colossal Weapon Attacks
+7352400 Relic: FP Restoration upon Bow Attacks
+8000000 Weapon Effect: Increased Maximum HP: 1
+8000001 Weapon Effect: Increased Maximum HP: 2
+8010000 Weapon Effect: Increased Maximum FP: 1
+8010001 Weapon Effect: Increased Maximum FP: 2
+8010100 Weapon Effect: Reduced FP Consumption: 1
+8010101 Weapon Effect: Reduced FP Consumption: 2
+8020000 Weapon Effect: Increased Maximum Stamina: 1
+8020001 Weapon Effect: Increased Maximum Stamina: 2
+8020200 Weapon Effect: Improved Stamina Recovery: 1
+8020201 Weapon Effect: Improved Stamina Recovery: 2
+8100000 Weapon Effect: Improved Physical Attack Power: 1
+8100001 Weapon Effect: Improved Physical Attack Power: 2
+8100100 Weapon Effect: Improved Magic Attack Power: 1
+8100101 Weapon Effect: Improved Magic Attack Power: 2
+8100102 Weapon Effect: Improved Magic Attack Power: 3
+8100200 Weapon Effect: Improved Fire Attack Power: 1
+8100201 Weapon Effect: Improved Fire Attack Power: 2
+8100202 Weapon Effect: Improved Fire Attack Power: 3
+8100300 Weapon Effect: Improved Lightning Attack Power: 1
+8100301 Weapon Effect: Improved Lightning Attack Power: 2
+8100302 Weapon Effect: Improved Lightning Attack Power: 3
+8100400 Weapon Effect: Improved Holy Attack Power: 1
+8100401 Weapon Effect: Improved Holy Attack Power: 2
+8100402 Weapon Effect: Improved Holy Attack Power: 3
+8100500 Weapon Effect: 
+8100501 Weapon Effect: 
+8110000 Weapon Effect: Attacks Inflict Poison
+8110001 Weapon Effect: Attacks Inflict Poison
+8110002 Weapon Effect: Attacks Inflict Poison
+8110010 Weapon Effect: Attacks Inflict Poison
+8110011 Weapon Effect: Attacks Inflict Poison
+8110012 Weapon Effect: Attacks Inflict Poison
+8110100 Weapon Effect: Attacks Inflict Blood Loss
+8110101 Weapon Effect: Attacks Inflict Blood Loss
+8110102 Weapon Effect: Attacks Inflict Blood Loss
+8110110 Weapon Effect: Attacks Inflict Blood Loss
+8110111 Weapon Effect: Attacks Inflict Blood Loss
+8110112 Weapon Effect: Attacks Inflict Blood Loss
+8110200 Weapon Effect: Attacks Inflict Sleep
+8110201 Weapon Effect: Attacks Inflict Sleep
+8110202 Weapon Effect: Attacks Inflict Sleep
+8110210 Weapon Effect: Attacks Inflict Sleep
+8110211 Weapon Effect: Attacks Inflict Sleep
+8110212 Weapon Effect: Attacks Inflict Sleep
+8110400 Weapon Effect: Attacks Inflict Rot
+8110401 Weapon Effect: Attacks Inflict Rot
+8110402 Weapon Effect: Attacks Inflict Rot
+8110410 Weapon Effect: Attacks Inflict Rot
+8110411 Weapon Effect: Attacks Inflict Rot
+8110412 Weapon Effect: Attacks Inflict Rot
+8110500 Weapon Effect: Attacks Inflict Frost
+8110501 Weapon Effect: Attacks Inflict Frost
+8110502 Weapon Effect: Attacks Inflict Frost
+8110510 Weapon Effect: Attacks Inflict Frost
+8110511 Weapon Effect: Attacks Inflict Frost
+8110512 Weapon Effect: Attacks Inflict Frost
+8110700 Weapon Effect: Add Fire to Weapon
+8110701 Weapon Effect: Add Fire to Weapon
+8110702 Weapon Effect: Add Fire to Weapon
+8110703 Weapon Effect: Add Fire to Weapon
+8110705 Weapon Effect: Add Fire to Weapon
+8110706 Weapon Effect: Add Fire to Weapon
+8110707 Weapon Effect: Add Fire to Weapon
+8110710 Weapon Effect: Add Fire to Weapon
+8110711 Weapon Effect: Add Fire to Weapon
+8110712 Weapon Effect: Add Fire to Weapon
+8110715 Weapon Effect: Add Fire to Weapon
+8110716 Weapon Effect: Add Fire to Weapon
+8110800 Weapon Effect: Add Magic to Weapon
+8110801 Weapon Effect: Add Magic to Weapon
+8110802 Weapon Effect: Add Magic to Weapon
+8110803 Weapon Effect: Add Magic to Weapon
+8110805 Weapon Effect: Add Magic to Weapon
+8110806 Weapon Effect: Add Magic to Weapon
+8110807 Weapon Effect: Add Magic to Weapon
+8110810 Weapon Effect: Add Magic to Weapon
+8110811 Weapon Effect: Add Magic to Weapon
+8110812 Weapon Effect: Add Magic to Weapon
+8110815 Weapon Effect: Add Magic to Weapon
+8110816 Weapon Effect: Add Magic to Weapon
+8110900 Weapon Effect: Add Lightning to Weapon
+8110901 Weapon Effect: Add Lightning to Weapon
+8110902 Weapon Effect: Add Lightning to Weapon
+8110903 Weapon Effect: Add Lightning to Weapon
+8110905 Weapon Effect: Add Lightning to Weapon
+8110906 Weapon Effect: Add Lightning to Weapon
+8110907 Weapon Effect: Add Lightning to Weapon
+8110910 Weapon Effect: Add Lightning to Weapon
+8110911 Weapon Effect: Add Lightning to Weapon
+8110912 Weapon Effect: Add Lightning to Weapon
+8110915 Weapon Effect: Add Lightning to Weapon
+8110916 Weapon Effect: Add Lightning to Weapon
+8111000 Weapon Effect: Add Holy to Weapon
+8111001 Weapon Effect: Add Holy to Weapon
+8111002 Weapon Effect: Add Holy to Weapon
+8111003 Weapon Effect: Add Holy to Weapon
+8111005 Weapon Effect: Add Holy to Weapon
+8111006 Weapon Effect: Add Holy to Weapon
+8111007 Weapon Effect: Add Holy to Weapon
+8111010 Weapon Effect: Add Holy to Weapon
+8111011 Weapon Effect: Add Holy to Weapon
+8111012 Weapon Effect: Add Holy to Weapon
+8111015 Weapon Effect: Add Holy to Weapon
+8111016 Weapon Effect: Add Holy to Weapon
+8120000 Weapon Effect: Improved Stance-Breaking
+8120001 Weapon Effect: Improved Stance-Breaking
+8130000 Weapon Effect: Improved Critical Hits
+8130001 Weapon Effect: Improved Critical Hits
+8130002 Weapon Effect: Improved Critical Hits
+8140000 Weapon Effect: Improved Guard Breaking
+8140001 Weapon Effect: Improved Guard Breaking
+8140002 Weapon Effect: Improved Guard Breaking
+8200000 Weapon Effect: Improved Physical Damage Negation
+8200001 Weapon Effect: Improved Physical Damage Negation
+8200100 Weapon Effect: Improved Magic Damage Negation
+8200101 Weapon Effect: Improved Magic Damage Negation
+8200102 Weapon Effect: Improved Magic Damage Negation
+8200200 Weapon Effect: Improved Fire Damage Negation
+8200201 Weapon Effect: Improved Fire Damage Negation
+8200202 Weapon Effect: Improved Fire Damage Negation
+8200300 Weapon Effect: Improved Lightning Damage Negation
+8200301 Weapon Effect: Improved Lightning Damage Negation
+8200302 Weapon Effect: Improved Lightning Damage Negation
+8200400 Weapon Effect: Improved Holy Damage Negation
+8200401 Weapon Effect: Improved Holy Damage Negation
+8200402 Weapon Effect: Improved Holy Damage Negation
+8200500 Weapon Effect: Improved Non-Physical Damage Negation
+8200501 Weapon Effect: Improved Non-Physical Damage Negation
+8210000 Weapon Effect: Improved Poison Resistance
+8210001 Weapon Effect: Improved Poison Resistance
+8210002 Weapon Effect: Improved Poison Resistance
+8210100 Weapon Effect: Improved Blood Loss Resistance
+8210101 Weapon Effect: Improved Blood Loss Resistance
+8210102 Weapon Effect: Improved Blood Loss Resistance
+8210200 Weapon Effect: Improved Sleep Resistance
+8210201 Weapon Effect: Improved Sleep Resistance
+8210202 Weapon Effect: Improved Sleep Resistance
+8210300 Weapon Effect: Improved Death Blight Resistance
+8210301 Weapon Effect: Improved Death Blight Resistance
+8210302 Weapon Effect: Improved Death Blight Resistance
+8210400 Weapon Effect: Improved Rot Resistance
+8210401 Weapon Effect: Improved Rot Resistance
+8210402 Weapon Effect: Improved Rot Resistance
+8210500 Weapon Effect: Improved Frost Resistance
+8210501 Weapon Effect: Improved Frost Resistance
+8210502 Weapon Effect: Improved Frost Resistance
+8210600 Weapon Effect: Improved Madness Resistance
+8210601 Weapon Effect: Improved Madness Resistance
+8210602 Weapon Effect: Improved Madness Resistance
+8210700 Weapon Effect: 
+8210701 Weapon Effect: 
+8220000 Weapon Effect: Improved Guarding Ability
+8220001 Weapon Effect: Improved Guarding Ability
+8220002 Weapon Effect: Improved Guarding Ability
+8230000 Weapon Effect: Improved Poise
+8230001 Weapon Effect: Improved Poise
+8300000 Weapon Effect: Improved Attack Power when Two-Handing
+8300001 Weapon Effect: Improved Attack Power when Two-Handing
+8300002 Weapon Effect: Improved Attack Power when Two-Handing
+8310000 Weapon Effect: Attack Up when Wielding Two Armaments
+8310001 Weapon Effect: Attack Up when Wielding Two Armaments
+8310002 Weapon Effect: Attack Up when Wielding Two Armaments
+8320000 Weapon Effect: Improved Chain Attack Finishers
+8320001 Weapon Effect: Improved Chain Attack Finishers
+8320002 Weapon Effect: Improved Chain Attack Finishers
+8320100 Weapon Effect: Improved Charge Attacks
+8320101 Weapon Effect: Improved Charge Attacks
+8320102 Weapon Effect: Improved Charge Attacks
+8320300 Weapon Effect: Improved Jump Attacks
+8320301 Weapon Effect: Improved Jump Attacks
+8320302 Weapon Effect: Improved Jump Attacks
+8320400 Weapon Effect: Dmg Negation Up while Charging Attacks
+8320410 Weapon Effect: Dmg Negation Up while Charging Attacks
+8320420 Weapon Effect: Dmg Negation Up while Charging Attacks
+8330000 Weapon Effect: Improved Sorceries
+8330001 Weapon Effect: Improved Sorceries
+8330002 Weapon Effect: Improved Sorceries
+8330100 Weapon Effect: Improved Incantations
+8330101 Weapon Effect: Improved Incantations
+8330102 Weapon Effect: Improved Incantations
+8330103 Weapon Effect: 
+8330104 Weapon Effect: 
+8330200 Weapon Effect: Improved Charged Sorceries
+8330201 Weapon Effect: Improved Charged Sorceries
+8330202 Weapon Effect: Improved Charged Sorceries
+8330300 Weapon Effect: Improved Charged Incantation
+8330301 Weapon Effect: Improved Charged Incantation
+8330302 Weapon Effect: Improved Charged Incantation
+8330400 Weapon Effect: Improved Spell Casting Speed
+8330401 Weapon Effect: Improved Spell Casting Speed
+8330500 Weapon Effect: Extended Spell Duration
+8330600 Weapon Effect: Reduced Spell FP Cost
+8330601 Weapon Effect: Reduced Spell FP Cost
+8330602 Weapon Effect: Reduced Spell FP Cost
+8330700 Weapon Effect: Communion Grants Anti-Dragon Effect
+8330900 Weapon Effect: Dmg Negation Up While Casting Spells
+8330910 Weapon Effect: Dmg Negation Up While Casting Spells
+8330920 Weapon Effect: Dmg Negation Up While Casting Spells
+8340000 Weapon Effect: Improved Ranged Weapon Attacks
+8340001 Weapon Effect: Improved Ranged Weapon Attacks
+8340002 Weapon Effect: Improved Ranged Weapon Attacks
+8340100 Weapon Effect: Projectile Damage Drop-Off Reduced
+8340101 Weapon Effect: Projectile Damage Drop-Off Reduced
+8340102 Weapon Effect: Projectile Damage Drop-Off Reduced
+8350000 Weapon Effect: Improved Skill Attack Power
+8350001 Weapon Effect: Improved Skill Attack Power
+8350002 Weapon Effect: Improved Skill Attack Power
+8350200 Weapon Effect: Reduced Skill FP Cost
+8350201 Weapon Effect: Reduced Skill FP Cost
+8350202 Weapon Effect: Reduced Skill FP Cost
+8350400 Weapon Effect: Parries Activate Golden Retaliation
+8360000 Weapon Effect: Ultimate Art Gauge Charge Speed Up
+8370000 Weapon Effect: Character Skill Cooldown Reduction
+8410000 Weapon Effect: Improved Dodging
+8410100 Weapon Effect: Lightning upon Dodging
+8420000 Weapon Effect: Improved Guard Counters
+8420001 Weapon Effect: Improved Guard Counters
+8420002 Weapon Effect: Improved Guard Counters
+8420100 Weapon Effect: Guard Counters Activate Holy Attacks
+8420200 Weapon Effect: Guard Counters Launch Summoning Attack
+8430000 Weapon Effect: Improved Thrusting Counterattack
+8440000 Weapon Effect: Improved Flask HP Restoration
+8440001 Weapon Effect: Improved Flask HP Restoration
+8440200 Weapon Effect: Gradual Restoration by Flask
+8450000 Weapon Effect: Magma Surge Sprint
+8450100 Weapon Effect: Ice Storm Surge Sprint
+8460100 Weapon Effect: Savage Flames Roar While Walking
+8460200 Weapon Effect: Flame of Frenzy While Walking
+8460300 Weapon Effect: Wraiths While Walking
+8460400 Weapon Effect: Vicious Star Rain Pours While Walking
+8460500 Weapon Effect: Storm of Red Lightning While Walking
+8500000 Weapon Effect: More Runes From Defeated Enemies
+8500100 Weapon Effect: 
+8500101 Weapon Effect: 
+8500102 Weapon Effect: 
+8510000 Weapon Effect: Improved Item Discovery
+8510001 Weapon Effect: Improved Item Discovery
+8510002 Weapon Effect: Improved Item Discovery
+8520000 Weapon Effect: Less Likely to Be Targeted
+8520001 Weapon Effect: Less Likely to Be Targeted
+8520002 Weapon Effect: Less Likely to Be Targeted
+8530000 Weapon Effect: Multiple Periodical Glintblades
+8530100 Weapon Effect: Many Periodical Glintblades
+8530200 Weapon Effect: Periodical Giant Glintblades
+8540000 Weapon Effect: Continuous HP Recovery
+8600100 Weapon Effect: HP Restoration upon Attacks
+8600101 Weapon Effect: HP Restoration upon Attacks
+8600102 Weapon Effect: HP Restoration upon Attacks
+8600200 Weapon Effect: FP Restoration upon Attacks
+8600201 Weapon Effect: FP Restoration upon Attacks
+8600202 Weapon Effect: FP Restoration upon Attacks
+8600300 Weapon Effect: Sudden Enemy Death upon Attacks
+8610000 Weapon Effect: HP Restoration upon Successive Attacks
+8610100 Weapon Effect: FP Restoration upon Successive Attacks
+8610300 Weapon Effect: Magic Attack Follows Charge Attacks
+8610400 Weapon Effect: Fire Attack Follows Charge Attacks
+8610500 Weapon Effect: Lightning Follows Charge Attacks
+8610600 Weapon Effect: Holy Attack Follows Charge Attacks
+8610700 Weapon Effect: Successive Attacks Negate Damage
+8610710 Weapon Effect: Successive Attacks Negate Damage
+8610720 Weapon Effect: Successive Attacks Negate Damage
+8620000 Weapon Effect: Taking Damage Restores FP
+8620010 Weapon Effect: Taking Damage Restores FP
+8620020 Weapon Effect: Taking Damage Restores FP
+8620100 Weapon Effect: Taking Damage Boosts Damage Negation
+8620110 Weapon Effect: Taking Damage Boosts Damage Negation
+8620120 Weapon Effect: Taking Damage Boosts Damage Negation
+8630000 Weapon Effect: Defeating Enemies Restores HP
+8630010 Weapon Effect: Defeating Enemies Restores HP
+8630020 Weapon Effect: Defeating Enemies Restores HP
+8630100 Weapon Effect: Defeating Enemies Restores FP
+8630110 Weapon Effect: Defeating Enemies Restores FP
+8630120 Weapon Effect: Defeating Enemies Restores FP
+8630200 Weapon Effect: Defeating Group Summons Wraiths
+8630300 Weapon Effect: Defeating Group Releases Mist of Charm
+8630400 Weapon Effect: Defeating Group Calls Vengeful Spirits
+8630500 Weapon Effect: Magma upon Defeating Multiple Enemies
+8630600 Weapon Effect: Defeating Group Releases Mist of Frost
+8630700 Weapon Effect: Defeating Group Unleashes Lightning
+8630800 Weapon Effect: Defeating Group Fires Golden Shockwave
+8640000 Weapon Effect: Critical Hit HP Restoration
+8640100 Weapon Effect: Critical Hit FP Restoration
+8642000 Weapon Effect: Damage Boosted after Critical Hit
+8650000 Weapon Effect: HP Recovery From Successful Guarding
+8650100 Weapon Effect: FP Recovery From Successful Guarding
+8652000 Weapon Effect: Successful Guarding Ups Poise
+8652010 Weapon Effect: Successful Guarding Ups Poise
+8652020 Weapon Effect: Successful Guarding Ups Poise
+8652100 Weapon Effect: Successful Guarding Ups Dmg Negation
+8652110 Weapon Effect: Successful Guarding Ups Dmg Negation
+8652120 Weapon Effect: Successful Guarding Ups Dmg Negation
+8660000 Weapon Effect: Improved Attack Power at Low HP
+8660001 Weapon Effect: Improved Attack Power at Low HP
+8660002 Weapon Effect: Improved Attack Power at Low HP
+8660100 Weapon Effect: Improved Damage Negation at Low HP
+8660101 Weapon Effect: Improved Damage Negation at Low HP
+8660102 Weapon Effect: Improved Damage Negation at Low HP
+8660200 Weapon Effect: Critical Hits Inflict Blood Loss
+8660300 Weapon Effect: Creates Holy Ground at Low HP
+8670000 Weapon Effect: Improved Attack Power at Full HP
+8670001 Weapon Effect: Improved Attack Power at Full HP
+8670002 Weapon Effect: Improved Attack Power at Full HP
+8670100 Weapon Effect: Improved Damage Negation at Full HP
+8670101 Weapon Effect: Improved Damage Negation at Full HP
+8670102 Weapon Effect: Improved Damage Negation at Full HP
+8690000 Weapon Effect: Poison Produces a Mist of Poison
+8690100 Weapon Effect: Madness Produces a Flame of Frenzy
+8690200 Weapon Effect: Rot Produces a Mist of Scarlet Rot
+8690300 Weapon Effect: Frostbite Produces a Mist of Frost
+8690400 Weapon Effect: Sleep Produces a Mist of Sleep
+8700002 Weapon Effect: Poison Increases Attack Power
+8710002 Weapon Effect: Blood Loss Increases Attack Power
+8880000 Weapon Effect: Ice Storm upon Charged Slash
+8880100 Weapon Effect: Ring of Light upon Charged Slash
+8880200 Weapon Effect: Black Flames upon Charged Slash
+8880300 Weapon Effect: Phantom Attack upon Charged Slash
+8880400 Weapon Effect: Roaring Flames upon Charged Slash
+8881000 Weapon Effect: Holy Shockwave upon Charged Strike
+8881100 Weapon Effect: Projectiles upon Charged Strike
+8881200 Weapon Effect: Luring Enemies upon Charged Strike
+8881300 Weapon Effect: Shockwave upon Charged Strike
+8881400 Weapon Effect: Phantom Attack upon Charged Strike
+8881500 Weapon Effect: Magma upon Charged Strike
+8881600 Weapon Effect: Magic Bubbles upon Charged Strike
+8882000 Weapon Effect: Phantom Attack upon Charged Thrust
+8882100 Weapon Effect: Lightning upon Charged Thrust
+8882200 Weapon Effect: Acid Mist upon Charged Thrust
+8882300 Weapon Effect: Pest Threads upon Charged Thrust
+8882400 Weapon Effect: Poison Mist upon Charged Thrust
+8882500 Weapon Effect: Charged Thrust Invokes Sleep Mist
+8883000 Weapon Effect: Projectiles Launched upon Attacks
+8883100 Weapon Effect: Lightning upon Precision Aiming
+8883200 Weapon Effect: Poison Mist upon Precision Aiming
+8883300 Weapon Effect: Rot Mist upon Precision Aiming
+8883400 Weapon Effect: Bloodflies upon Precision Aiming
+8884000 Weapon Effect: Shielding Improves Damage Negation
+8884100 Weapon Effect: Shielding Invokes Indomitable Vow
+8884200 Weapon Effect: Shielding Creates Holy Ground
+8884300 Weapon Effect: Broken Stance Activates Endure
+8885000 Weapon Effect: Flask Healing Also Restores FP
+8885100 Weapon Effect: Failing to Cast Sorcery Restores FP
+8885200 Weapon Effect: Guarding Ups Attack & Casting Speeds
+9021400 Power of Night and Flame
+9030900 Power of Dark Moon
+9031000 Power of the Greater Will
+9031400 Power of the Blasphemous
+9031500 Power of House Marais
+9031700 Power of the Golden Order
+9040200 Power of Destined Death
+9040500 Power of the Starscourge
+9040800 Power of Destruction
+9041000 Power of Vengeance
+9060400 Power of the Dragonlord
+9071000 Power of Despair
+9081000 Power of the Omen King
+9090200 Power of the Undefeated
+9111500 Power of the Queen
+9122000 Power of the Blasphemous
+9130300 Power of the Lightless Void
+9150400 Power of the Golden Lineage
+9151100 Power of the Ancestral Spirit
+9160900 Power of the Great Ancient Dragon
+9170100 Power of the Blood Lord
+9200600 Power of the Giant
+9210600 Power of the Flying Dragon
+9230500 Power of the First Lord
+9330900 Power of Full Moon
+9420000 Power of the General
+9990100 The Wylder's Grief
+9990101 The Wylder's Grief
+9990102 The Wylder's Grief
+9990103 The Wylder's Grief
+9990104 The Wylder's Grief
+9990105 The Wylder's Grief
+9990106 The Wylder's Grief
+9990107 The Wylder's Grief
+9990108 The Wylder's Grief
+9990109 The Wylder's Grief
+9990110 The Wylder's Grief
+9990111 The Wylder's Grief
+9990112 The Wylder's Grief
+9990113 The Wylder's Grief
+9990114 The Wylder's Grief
+9990115 The Wylder's Grief
+9990116 The Wylder's Grief
+9990117 The Wylder's Grief
+9990118 The Wylder's Grief
+9990119 The Wylder's Grief
+9990120 The Wylder's Grief
+9990121 The Wylder's Grief
+9990122 The Wylder's Grief
+9990123 The Wylder's Grief
+9990124 The Wylder's Grief
+9990125 The Wylder's Grief
+9990126 The Wylder's Grief
+9990127 The Wylder's Grief
+9990128 The Wylder's Grief
+9990129 The Wylder's Grief
+9990130 The Wylder's Grief
+9990131 The Wylder's Grief
+9990132 The Wylder's Grief
+9990133 The Wylder's Grief
+9990134 The Wylder's Grief
+9990135 The Wylder's Grief
+9990136 The Wylder's Grief
+9990137 The Wylder's Grief
+9990138 The Wylder's Grief
+9990139 The Wylder's Grief
+9990140 The Wylder's Grief
+9990141 The Wylder's Grief
+9990142 The Wylder's Grief
+9990143 The Wylder's Grief
+9990144 The Wylder's Grief
+9990145 The Wylder's Grief
+9990146 The Wylder's Grief
+9990147 The Wylder's Grief
+9990148 The Wylder's Grief
+9990149 The Wylder's Grief
+9990150 The Wylder's Grief
+9990151 The Wylder's Grief
+9990152 The Wylder's Grief
+9990153 The Wylder's Grief
+9990154 The Wylder's Grief
+9990155 The Wylder's Grief
+9990156 The Wylder's Grief
+9990157 The Wylder's Grief
+9990158 The Wylder's Grief
+9990159 The Wylder's Grief
+9990160 The Wylder's Grief
+9990161 The Wylder's Grief
+9990162 The Wylder's Grief
+9990163 The Wylder's Grief
+9990164 The Wylder's Grief
+9990165 The Wylder's Grief
+9990166 The Wylder's Grief
+9990167 The Wylder's Grief
+9990168 The Wylder's Grief
+9990169 The Wylder's Grief
+9990170 The Wylder's Grief
+9990171 The Wylder's Grief
+9990172 The Wylder's Grief
+9990173 The Wylder's Grief
+9990174 The Wylder's Grief
+9990175 The Wylder's Grief
+9990176 The Wylder's Grief
+9990177 The Wylder's Grief
+9990178 The Wylder's Grief
+9990179 The Wylder's Grief
+9990180 The Wylder's Grief
+9990181 The Wylder's Grief
+9990182 The Wylder's Grief
+9990183 The Wylder's Grief
+9990184 The Wylder's Grief
+9990185 The Wylder's Grief
+9990186 The Wylder's Grief
+9990187 The Wylder's Grief
+9990188 The Wylder's Grief
+9990189 The Wylder's Grief
+9990190 The Wylder's Grief
+9990191 The Wylder's Grief
+9990192 The Wylder's Grief
+9990193 The Wylder's Grief
+9990194 The Wylder's Grief
+9990195 The Wylder's Grief
+9990196 The Wylder's Grief
+9990197 The Wylder's Grief
+9990198 The Wylder's Grief
+9990199 The Wylder's Grief
+9990200 The Guardian's Grief
+9990201 The Guardian's Grief
+9990202 The Guardian's Grief
+9990203 The Guardian's Grief
+9990204 The Guardian's Grief
+9990205 The Guardian's Grief
+9990206 The Guardian's Grief
+9990207 The Guardian's Grief
+9990208 The Guardian's Grief
+9990209 The Guardian's Grief
+9990210 The Guardian's Grief
+9990211 The Guardian's Grief
+9990212 The Guardian's Grief
+9990213 The Guardian's Grief
+9990214 The Guardian's Grief
+9990215 The Guardian's Grief
+9990216 The Guardian's Grief
+9990217 The Guardian's Grief
+9990218 The Guardian's Grief
+9990219 The Guardian's Grief
+9990220 The Guardian's Grief
+9990221 The Guardian's Grief
+9990222 The Guardian's Grief
+9990223 The Guardian's Grief
+9990224 The Guardian's Grief
+9990225 The Guardian's Grief
+9990226 The Guardian's Grief
+9990227 The Guardian's Grief
+9990228 The Guardian's Grief
+9990229 The Guardian's Grief
+9990230 The Guardian's Grief
+9990231 The Guardian's Grief
+9990232 The Guardian's Grief
+9990233 The Guardian's Grief
+9990234 The Guardian's Grief
+9990235 The Guardian's Grief
+9990236 The Guardian's Grief
+9990237 The Guardian's Grief
+9990238 The Guardian's Grief
+9990239 The Guardian's Grief
+9990240 The Guardian's Grief
+9990241 The Guardian's Grief
+9990242 The Guardian's Grief
+9990243 The Guardian's Grief
+9990244 The Guardian's Grief
+9990245 The Guardian's Grief
+9990246 The Guardian's Grief
+9990247 The Guardian's Grief
+9990248 The Guardian's Grief
+9990249 The Guardian's Grief
+9990250 The Guardian's Grief
+9990251 The Guardian's Grief
+9990252 The Guardian's Grief
+9990253 The Guardian's Grief
+9990254 The Guardian's Grief
+9990255 The Guardian's Grief
+9990256 The Guardian's Grief
+9990257 The Guardian's Grief
+9990258 The Guardian's Grief
+9990259 The Guardian's Grief
+9990260 The Guardian's Grief
+9990261 The Guardian's Grief
+9990262 The Guardian's Grief
+9990263 The Guardian's Grief
+9990264 The Guardian's Grief
+9990265 The Guardian's Grief
+9990266 The Guardian's Grief
+9990267 The Guardian's Grief
+9990268 The Guardian's Grief
+9990269 The Guardian's Grief
+9990270 The Guardian's Grief
+9990271 The Guardian's Grief
+9990272 The Guardian's Grief
+9990273 The Guardian's Grief
+9990274 The Guardian's Grief
+9990275 The Guardian's Grief
+9990276 The Guardian's Grief
+9990277 The Guardian's Grief
+9990278 The Guardian's Grief
+9990279 The Guardian's Grief
+9990280 The Guardian's Grief
+9990281 The Guardian's Grief
+9990282 The Guardian's Grief
+9990283 The Guardian's Grief
+9990284 The Guardian's Grief
+9990285 The Guardian's Grief
+9990286 The Guardian's Grief
+9990287 The Guardian's Grief
+9990288 The Guardian's Grief
+9990289 The Guardian's Grief
+9990290 The Guardian's Grief
+9990291 The Guardian's Grief
+9990292 The Guardian's Grief
+9990293 The Guardian's Grief
+9990294 The Guardian's Grief
+9990295 The Guardian's Grief
+9990296 The Guardian's Grief
+9990297 The Guardian's Grief
+9990298 The Guardian's Grief
+9990299 The Guardian's Grief
+9990300 The Ironeye's Grief
+9990301 The Ironeye's Grief
+9990302 The Ironeye's Grief
+9990303 The Ironeye's Grief
+9990304 The Ironeye's Grief
+9990305 The Ironeye's Grief
+9990306 The Ironeye's Grief
+9990307 The Ironeye's Grief
+9990308 The Ironeye's Grief
+9990309 The Ironeye's Grief
+9990310 The Ironeye's Grief
+9990311 The Ironeye's Grief
+9990312 The Ironeye's Grief
+9990313 The Ironeye's Grief
+9990314 The Ironeye's Grief
+9990315 The Ironeye's Grief
+9990316 The Ironeye's Grief
+9990317 The Ironeye's Grief
+9990318 The Ironeye's Grief
+9990319 The Ironeye's Grief
+9990320 The Ironeye's Grief
+9990321 The Ironeye's Grief
+9990322 The Ironeye's Grief
+9990323 The Ironeye's Grief
+9990324 The Ironeye's Grief
+9990325 The Ironeye's Grief
+9990326 The Ironeye's Grief
+9990327 The Ironeye's Grief
+9990328 The Ironeye's Grief
+9990329 The Ironeye's Grief
+9990330 The Ironeye's Grief
+9990331 The Ironeye's Grief
+9990332 The Ironeye's Grief
+9990333 The Ironeye's Grief
+9990334 The Ironeye's Grief
+9990335 The Ironeye's Grief
+9990336 The Ironeye's Grief
+9990337 The Ironeye's Grief
+9990338 The Ironeye's Grief
+9990339 The Ironeye's Grief
+9990340 The Ironeye's Grief
+9990341 The Ironeye's Grief
+9990342 The Ironeye's Grief
+9990343 The Ironeye's Grief
+9990344 The Ironeye's Grief
+9990345 The Ironeye's Grief
+9990346 The Ironeye's Grief
+9990347 The Ironeye's Grief
+9990348 The Ironeye's Grief
+9990349 The Ironeye's Grief
+9990350 The Ironeye's Grief
+9990351 The Ironeye's Grief
+9990352 The Ironeye's Grief
+9990353 The Ironeye's Grief
+9990354 The Ironeye's Grief
+9990355 The Ironeye's Grief
+9990356 The Ironeye's Grief
+9990357 The Ironeye's Grief
+9990358 The Ironeye's Grief
+9990359 The Ironeye's Grief
+9990360 The Ironeye's Grief
+9990361 The Ironeye's Grief
+9990362 The Ironeye's Grief
+9990363 The Ironeye's Grief
+9990364 The Ironeye's Grief
+9990365 The Ironeye's Grief
+9990366 The Ironeye's Grief
+9990367 The Ironeye's Grief
+9990368 The Ironeye's Grief
+9990369 The Ironeye's Grief
+9990370 The Ironeye's Grief
+9990371 The Ironeye's Grief
+9990372 The Ironeye's Grief
+9990373 The Ironeye's Grief
+9990374 The Ironeye's Grief
+9990375 The Ironeye's Grief
+9990376 The Ironeye's Grief
+9990377 The Ironeye's Grief
+9990378 The Ironeye's Grief
+9990379 The Ironeye's Grief
+9990380 The Ironeye's Grief
+9990381 The Ironeye's Grief
+9990382 The Ironeye's Grief
+9990383 The Ironeye's Grief
+9990384 The Ironeye's Grief
+9990385 The Ironeye's Grief
+9990386 The Ironeye's Grief
+9990387 The Ironeye's Grief
+9990388 The Ironeye's Grief
+9990389 The Ironeye's Grief
+9990390 The Ironeye's Grief
+9990391 The Ironeye's Grief
+9990392 The Ironeye's Grief
+9990393 The Ironeye's Grief
+9990394 The Ironeye's Grief
+9990395 The Ironeye's Grief
+9990396 The Ironeye's Grief
+9990397 The Ironeye's Grief
+9990398 The Ironeye's Grief
+9990399 The Ironeye's Grief
+9990400 The Duchess' Grief
+9990401 The Duchess' Grief
+9990402 The Duchess' Grief
+9990403 The Duchess' Grief
+9990404 The Duchess' Grief
+9990405 The Duchess' Grief
+9990406 The Duchess' Grief
+9990407 The Duchess' Grief
+9990408 The Duchess' Grief
+9990409 The Duchess' Grief
+9990410 The Duchess' Grief
+9990411 The Duchess' Grief
+9990412 The Duchess' Grief
+9990413 The Duchess' Grief
+9990414 The Duchess' Grief
+9990415 The Duchess' Grief
+9990416 The Duchess' Grief
+9990417 The Duchess' Grief
+9990418 The Duchess' Grief
+9990419 The Duchess' Grief
+9990420 The Duchess' Grief
+9990421 The Duchess' Grief
+9990422 The Duchess' Grief
+9990423 The Duchess' Grief
+9990424 The Duchess' Grief
+9990425 The Duchess' Grief
+9990426 The Duchess' Grief
+9990427 The Duchess' Grief
+9990428 The Duchess' Grief
+9990429 The Duchess' Grief
+9990430 The Duchess' Grief
+9990431 The Duchess' Grief
+9990432 The Duchess' Grief
+9990433 The Duchess' Grief
+9990434 The Duchess' Grief
+9990435 The Duchess' Grief
+9990436 The Duchess' Grief
+9990437 The Duchess' Grief
+9990438 The Duchess' Grief
+9990439 The Duchess' Grief
+9990440 The Duchess' Grief
+9990441 The Duchess' Grief
+9990442 The Duchess' Grief
+9990443 The Duchess' Grief
+9990444 The Duchess' Grief
+9990445 The Duchess' Grief
+9990446 The Duchess' Grief
+9990447 The Duchess' Grief
+9990448 The Duchess' Grief
+9990449 The Duchess' Grief
+9990450 The Duchess' Grief
+9990451 The Duchess' Grief
+9990452 The Duchess' Grief
+9990453 The Duchess' Grief
+9990454 The Duchess' Grief
+9990455 The Duchess' Grief
+9990456 The Duchess' Grief
+9990457 The Duchess' Grief
+9990458 The Duchess' Grief
+9990459 The Duchess' Grief
+9990460 The Duchess' Grief
+9990461 The Duchess' Grief
+9990462 The Duchess' Grief
+9990463 The Duchess' Grief
+9990464 The Duchess' Grief
+9990465 The Duchess' Grief
+9990466 The Duchess' Grief
+9990467 The Duchess' Grief
+9990468 The Duchess' Grief
+9990469 The Duchess' Grief
+9990470 The Duchess' Grief
+9990471 The Duchess' Grief
+9990472 The Duchess' Grief
+9990473 The Duchess' Grief
+9990474 The Duchess' Grief
+9990475 The Duchess' Grief
+9990476 The Duchess' Grief
+9990477 The Duchess' Grief
+9990478 The Duchess' Grief
+9990479 The Duchess' Grief
+9990480 The Duchess' Grief
+9990481 The Duchess' Grief
+9990482 The Duchess' Grief
+9990483 The Duchess' Grief
+9990484 The Duchess' Grief
+9990485 The Duchess' Grief
+9990486 The Duchess' Grief
+9990487 The Duchess' Grief
+9990488 The Duchess' Grief
+9990489 The Duchess' Grief
+9990490 The Duchess' Grief
+9990491 The Duchess' Grief
+9990492 The Duchess' Grief
+9990493 The Duchess' Grief
+9990494 The Duchess' Grief
+9990495 The Duchess' Grief
+9990496 The Duchess' Grief
+9990497 The Duchess' Grief
+9990498 The Duchess' Grief
+9990499 The Duchess' Grief
+9990500 The Raider's Grief
+9990501 The Raider's Grief
+9990502 The Raider's Grief
+9990503 The Raider's Grief
+9990504 The Raider's Grief
+9990505 The Raider's Grief
+9990506 The Raider's Grief
+9990507 The Raider's Grief
+9990508 The Raider's Grief
+9990509 The Raider's Grief
+9990510 The Raider's Grief
+9990511 The Raider's Grief
+9990512 The Raider's Grief
+9990513 The Raider's Grief
+9990514 The Raider's Grief
+9990515 The Raider's Grief
+9990516 The Raider's Grief
+9990517 The Raider's Grief
+9990518 The Raider's Grief
+9990519 The Raider's Grief
+9990520 The Raider's Grief
+9990521 The Raider's Grief
+9990522 The Raider's Grief
+9990523 The Raider's Grief
+9990524 The Raider's Grief
+9990525 The Raider's Grief
+9990526 The Raider's Grief
+9990527 The Raider's Grief
+9990528 The Raider's Grief
+9990529 The Raider's Grief
+9990530 The Raider's Grief
+9990531 The Raider's Grief
+9990532 The Raider's Grief
+9990533 The Raider's Grief
+9990534 The Raider's Grief
+9990535 The Raider's Grief
+9990536 The Raider's Grief
+9990537 The Raider's Grief
+9990538 The Raider's Grief
+9990539 The Raider's Grief
+9990540 The Raider's Grief
+9990541 The Raider's Grief
+9990542 The Raider's Grief
+9990543 The Raider's Grief
+9990544 The Raider's Grief
+9990545 The Raider's Grief
+9990546 The Raider's Grief
+9990547 The Raider's Grief
+9990548 The Raider's Grief
+9990549 The Raider's Grief
+9990550 The Raider's Grief
+9990551 The Raider's Grief
+9990552 The Raider's Grief
+9990553 The Raider's Grief
+9990554 The Raider's Grief
+9990555 The Raider's Grief
+9990556 The Raider's Grief
+9990557 The Raider's Grief
+9990558 The Raider's Grief
+9990559 The Raider's Grief
+9990560 The Raider's Grief
+9990561 The Raider's Grief
+9990562 The Raider's Grief
+9990563 The Raider's Grief
+9990564 The Raider's Grief
+9990565 The Raider's Grief
+9990566 The Raider's Grief
+9990567 The Raider's Grief
+9990568 The Raider's Grief
+9990569 The Raider's Grief
+9990570 The Raider's Grief
+9990571 The Raider's Grief
+9990572 The Raider's Grief
+9990573 The Raider's Grief
+9990574 The Raider's Grief
+9990575 The Raider's Grief
+9990576 The Raider's Grief
+9990577 The Raider's Grief
+9990578 The Raider's Grief
+9990579 The Raider's Grief
+9990580 The Raider's Grief
+9990581 The Raider's Grief
+9990582 The Raider's Grief
+9990583 The Raider's Grief
+9990584 The Raider's Grief
+9990585 The Raider's Grief
+9990586 The Raider's Grief
+9990587 The Raider's Grief
+9990588 The Raider's Grief
+9990589 The Raider's Grief
+9990590 The Raider's Grief
+9990591 The Raider's Grief
+9990592 The Raider's Grief
+9990593 The Raider's Grief
+9990594 The Raider's Grief
+9990595 The Raider's Grief
+9990596 The Raider's Grief
+9990597 The Raider's Grief
+9990598 The Raider's Grief
+9990599 The Raider's Grief
+9990600 The Revenant's Grief
+9990601 The Revenant's Grief
+9990602 The Revenant's Grief
+9990603 The Revenant's Grief
+9990604 The Revenant's Grief
+9990605 The Revenant's Grief
+9990606 The Revenant's Grief
+9990607 The Revenant's Grief
+9990608 The Revenant's Grief
+9990609 The Revenant's Grief
+9990610 The Revenant's Grief
+9990611 The Revenant's Grief
+9990612 The Revenant's Grief
+9990613 The Revenant's Grief
+9990614 The Revenant's Grief
+9990615 The Revenant's Grief
+9990616 The Revenant's Grief
+9990617 The Revenant's Grief
+9990618 The Revenant's Grief
+9990619 The Revenant's Grief
+9990620 The Revenant's Grief
+9990621 The Revenant's Grief
+9990622 The Revenant's Grief
+9990623 The Revenant's Grief
+9990624 The Revenant's Grief
+9990625 The Revenant's Grief
+9990626 The Revenant's Grief
+9990627 The Revenant's Grief
+9990628 The Revenant's Grief
+9990629 The Revenant's Grief
+9990630 The Revenant's Grief
+9990631 The Revenant's Grief
+9990632 The Revenant's Grief
+9990633 The Revenant's Grief
+9990634 The Revenant's Grief
+9990635 The Revenant's Grief
+9990636 The Revenant's Grief
+9990637 The Revenant's Grief
+9990638 The Revenant's Grief
+9990639 The Revenant's Grief
+9990640 The Revenant's Grief
+9990641 The Revenant's Grief
+9990642 The Revenant's Grief
+9990643 The Revenant's Grief
+9990644 The Revenant's Grief
+9990645 The Revenant's Grief
+9990646 The Revenant's Grief
+9990647 The Revenant's Grief
+9990648 The Revenant's Grief
+9990649 The Revenant's Grief
+9990650 The Revenant's Grief
+9990651 The Revenant's Grief
+9990652 The Revenant's Grief
+9990653 The Revenant's Grief
+9990654 The Revenant's Grief
+9990655 The Revenant's Grief
+9990656 The Revenant's Grief
+9990657 The Revenant's Grief
+9990658 The Revenant's Grief
+9990659 The Revenant's Grief
+9990660 The Revenant's Grief
+9990661 The Revenant's Grief
+9990662 The Revenant's Grief
+9990663 The Revenant's Grief
+9990664 The Revenant's Grief
+9990665 The Revenant's Grief
+9990666 The Revenant's Grief
+9990667 The Revenant's Grief
+9990668 The Revenant's Grief
+9990669 The Revenant's Grief
+9990670 The Revenant's Grief
+9990671 The Revenant's Grief
+9990672 The Revenant's Grief
+9990673 The Revenant's Grief
+9990674 The Revenant's Grief
+9990675 The Revenant's Grief
+9990676 The Revenant's Grief
+9990677 The Revenant's Grief
+9990678 The Revenant's Grief
+9990679 The Revenant's Grief
+9990680 The Revenant's Grief
+9990681 The Revenant's Grief
+9990682 The Revenant's Grief
+9990683 The Revenant's Grief
+9990684 The Revenant's Grief
+9990685 The Revenant's Grief
+9990686 The Revenant's Grief
+9990687 The Revenant's Grief
+9990688 The Revenant's Grief
+9990689 The Revenant's Grief
+9990690 The Revenant's Grief
+9990691 The Revenant's Grief
+9990692 The Revenant's Grief
+9990693 The Revenant's Grief
+9990694 The Revenant's Grief
+9990695 The Revenant's Grief
+9990696 The Revenant's Grief
+9990697 The Revenant's Grief
+9990698 The Revenant's Grief
+9990699 The Revenant's Grief
+9990700 The Recluse's Grief
+9990701 The Recluse's Grief
+9990702 The Recluse's Grief
+9990703 The Recluse's Grief
+9990704 The Recluse's Grief
+9990705 The Recluse's Grief
+9990706 The Recluse's Grief
+9990707 The Recluse's Grief
+9990708 The Recluse's Grief
+9990709 The Recluse's Grief
+9990710 The Recluse's Grief
+9990711 The Recluse's Grief
+9990712 The Recluse's Grief
+9990713 The Recluse's Grief
+9990714 The Recluse's Grief
+9990715 The Recluse's Grief
+9990716 The Recluse's Grief
+9990717 The Recluse's Grief
+9990718 The Recluse's Grief
+9990719 The Recluse's Grief
+9990720 The Recluse's Grief
+9990721 The Recluse's Grief
+9990722 The Recluse's Grief
+9990723 The Recluse's Grief
+9990724 The Recluse's Grief
+9990725 The Recluse's Grief
+9990726 The Recluse's Grief
+9990727 The Recluse's Grief
+9990728 The Recluse's Grief
+9990729 The Recluse's Grief
+9990730 The Recluse's Grief
+9990731 The Recluse's Grief
+9990732 The Recluse's Grief
+9990733 The Recluse's Grief
+9990734 The Recluse's Grief
+9990735 The Recluse's Grief
+9990736 The Recluse's Grief
+9990737 The Recluse's Grief
+9990738 The Recluse's Grief
+9990739 The Recluse's Grief
+9990740 The Recluse's Grief
+9990741 The Recluse's Grief
+9990742 The Recluse's Grief
+9990743 The Recluse's Grief
+9990744 The Recluse's Grief
+9990745 The Recluse's Grief
+9990746 The Recluse's Grief
+9990747 The Recluse's Grief
+9990748 The Recluse's Grief
+9990749 The Recluse's Grief
+9990750 The Recluse's Grief
+9990751 The Recluse's Grief
+9990752 The Recluse's Grief
+9990753 The Recluse's Grief
+9990754 The Recluse's Grief
+9990755 The Recluse's Grief
+9990756 The Recluse's Grief
+9990757 The Recluse's Grief
+9990758 The Recluse's Grief
+9990759 The Recluse's Grief
+9990760 The Recluse's Grief
+9990761 The Recluse's Grief
+9990762 The Recluse's Grief
+9990763 The Recluse's Grief
+9990764 The Recluse's Grief
+9990765 The Recluse's Grief
+9990766 The Recluse's Grief
+9990767 The Recluse's Grief
+9990768 The Recluse's Grief
+9990769 The Recluse's Grief
+9990770 The Recluse's Grief
+9990771 The Recluse's Grief
+9990772 The Recluse's Grief
+9990773 The Recluse's Grief
+9990774 The Recluse's Grief
+9990775 The Recluse's Grief
+9990776 The Recluse's Grief
+9990777 The Recluse's Grief
+9990778 The Recluse's Grief
+9990779 The Recluse's Grief
+9990780 The Recluse's Grief
+9990781 The Recluse's Grief
+9990782 The Recluse's Grief
+9990783 The Recluse's Grief
+9990784 The Recluse's Grief
+9990785 The Recluse's Grief
+9990786 The Recluse's Grief
+9990787 The Recluse's Grief
+9990788 The Recluse's Grief
+9990789 The Recluse's Grief
+9990790 The Recluse's Grief
+9990791 The Recluse's Grief
+9990792 The Recluse's Grief
+9990793 The Recluse's Grief
+9990794 The Recluse's Grief
+9990795 The Recluse's Grief
+9990796 The Recluse's Grief
+9990797 The Recluse's Grief
+9990798 The Recluse's Grief
+9990799 The Recluse's Grief
+9990800 The Executor's Grief
+9990801 The Executor's Grief
+9990802 The Executor's Grief
+9990803 The Executor's Grief
+9990804 The Executor's Grief
+9990805 The Executor's Grief
+9990806 The Executor's Grief
+9990807 The Executor's Grief
+9990808 The Executor's Grief
+9990809 The Executor's Grief
+9990810 The Executor's Grief
+9990811 The Executor's Grief
+9990812 The Executor's Grief
+9990813 The Executor's Grief
+9990814 The Executor's Grief
+9990815 The Executor's Grief
+9990816 The Executor's Grief
+9990817 The Executor's Grief
+9990818 The Executor's Grief
+9990819 The Executor's Grief
+9990820 The Executor's Grief
+9990821 The Executor's Grief
+9990822 The Executor's Grief
+9990823 The Executor's Grief
+9990824 The Executor's Grief
+9990825 The Executor's Grief
+9990826 The Executor's Grief
+9990827 The Executor's Grief
+9990828 The Executor's Grief
+9990829 The Executor's Grief
+9990830 The Executor's Grief
+9990831 The Executor's Grief
+9990832 The Executor's Grief
+9990833 The Executor's Grief
+9990834 The Executor's Grief
+9990835 The Executor's Grief
+9990836 The Executor's Grief
+9990837 The Executor's Grief
+9990838 The Executor's Grief
+9990839 The Executor's Grief
+9990840 The Executor's Grief
+9990841 The Executor's Grief
+9990842 The Executor's Grief
+9990843 The Executor's Grief
+9990844 The Executor's Grief
+9990845 The Executor's Grief
+9990846 The Executor's Grief
+9990847 The Executor's Grief
+9990848 The Executor's Grief
+9990849 The Executor's Grief
+9990850 The Executor's Grief
+9990851 The Executor's Grief
+9990852 The Executor's Grief
+9990853 The Executor's Grief
+9990854 The Executor's Grief
+9990855 The Executor's Grief
+9990856 The Executor's Grief
+9990857 The Executor's Grief
+9990858 The Executor's Grief
+9990859 The Executor's Grief
+9990860 The Executor's Grief
+9990861 The Executor's Grief
+9990862 The Executor's Grief
+9990863 The Executor's Grief
+9990864 The Executor's Grief
+9990865 The Executor's Grief
+9990866 The Executor's Grief
+9990867 The Executor's Grief
+9990868 The Executor's Grief
+9990869 The Executor's Grief
+9990870 The Executor's Grief
+9990871 The Executor's Grief
+9990872 The Executor's Grief
+9990873 The Executor's Grief
+9990874 The Executor's Grief
+9990875 The Executor's Grief
+9990876 The Executor's Grief
+9990877 The Executor's Grief
+9990878 The Executor's Grief
+9990879 The Executor's Grief
+9990880 The Executor's Grief
+9990881 The Executor's Grief
+9990882 The Executor's Grief
+9990883 The Executor's Grief
+9990884 The Executor's Grief
+9990885 The Executor's Grief
+9990886 The Executor's Grief
+9990887 The Executor's Grief
+9990888 The Executor's Grief
+9990889 The Executor's Grief
+9990890 The Executor's Grief
+9990891 The Executor's Grief
+9990892 The Executor's Grief
+9990893 The Executor's Grief
+9990894 The Executor's Grief
+9990895 The Executor's Grief
+9990896 The Executor's Grief
+9990897 The Executor's Grief
+9990898 The Executor's Grief
+9990899 The Executor's Grief

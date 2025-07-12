@@ -48,27 +48,6 @@
 10250765 Brazier
 10250766 Brazier
 10250767 Brazier
-10250800 Brazier
-10250801 Brazier
-10250802 Brazier
-10250803 Brazier
-10250804 Brazier
-10250805 Brazier
-10250806 Brazier
-10250807 Brazier
-10250808 Brazier
-10250809 Brazier
-10250810 Brazier
-10250811 Brazier
-10250812 Brazier
-10250813 Brazier
-10250814 Brazier
-10250815 Brazier
-10250816 Brazier
-10250817 Brazier
-10250818 Brazier
-10250819 Brazier
-10250820 Brazier
 10255010 [Chest] Treasure
 10255030 [Chest] Treasure
 10255040 [Chest] Treasure

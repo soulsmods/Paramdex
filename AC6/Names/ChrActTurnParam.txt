@@ -56,7 +56,7 @@
 9901 AC - Quadruped_QB movement -- AC - 四脚_QB移動時
 9910 AC - Reverse joint charging attack_charging stage -- AC - 逆関節溜め攻撃_溜め段階
 9911 AC - Reverse joint charge attack_stepping -- AC - 逆関節溜め攻撃_踏み込み
-10000000 Bipod_Basic - Normal time -- 二脚_基本 - 通常時
+10000000 Bi-pedal Leg Part
 10000001 Bipod_Basic - Normal time_Cannot rotate -- 二脚_基本 - 通常時_旋回不可
 10000009 Bipod_Basic - Normal time_Rapid turning -- 二脚_基本 - 通常時_急速旋回
 10000010 Bipod_Basics - Walking/running -- 二脚_基本 - 歩行・走行時
@@ -113,7 +113,7 @@
 10200052 Bipod_weight - quick turn rotation_camera QT -- 二脚_重量 - クイックターン旋回_カメラQT
 10200080 Bipod_weight - Whole body attack turning brake -- 二脚_重量 - 全身攻撃旋回ブレーキ
 10200090 Bipod_weight - cannot rotate -- 二脚_重量 - 旋回不可
-11000000 Reverse joint_basics - normal time -- 逆関節_基本 - 通常時
+11000000 Reverse Joint Leg Part
 11000001 Reverse joint_basic - Normal time_unable to rotate -- 逆関節_基本 - 通常時_旋回不可
 11000009 Reverse joint_Basics - Normal time_Rapid turning -- 逆関節_基本 - 通常時_急速旋回
 11000010 Reverse joint_basics - Walking/running -- 逆関節_基本 - 歩行・走行時
@@ -132,7 +132,7 @@
 11000052 Reverse joint_Basics - Quick turn rotation_Camera QT -- 逆関節_基本 - クイックターン旋回_カメラQT
 11000080 Reverse joint_basics - whole body attack turning brake -- 逆関節_基本 - 全身攻撃旋回ブレーキ
 11000090 Reverse joint_basics - cannot rotate -- 逆関節_基本 - 旋回不可
-12000000 Quadruped_Basic - Normal time -- 四脚_基本 - 通常時
+12000000 Tetrapod Leg Part
 12000001 Quadruped_Basic - Normal time_Cannot turn -- 四脚_基本 - 通常時_旋回不可
 12000009 Quadruped_Basics - Normal_Rapid turning -- 四脚_基本 - 通常時_急速旋回
 12000010 Quadruped_Basics - Walking/running -- 四脚_基本 - 歩行・走行時
@@ -152,7 +152,7 @@
 12000053 Quadruped_Basics - Quick turn turning_Spot turning -- 四脚_基本 - クイックターン旋回_その場旋回
 12000080 Quadruped_Basic - Whole body attack turning brake -- 四脚_基本 - 全身攻撃旋回ブレーキ
 12000090 Quadruped_Basic - Cannot rotate -- 四脚_基本 - 旋回不可
-13000000 Tank_Basic - Normal time -- タンク_基本 - 通常時
+13000000 Tank Leg Part: LG-022T BORNEMISSZA
 13000001 Tank_Basic - Normal time_Cannot turn -- タンク_基本 - 通常時_旋回不可
 13000009 Tank_Basics-Normal_Rapid turning -- タンク_基本 - 通常時_急速旋回
 13000010 Tank_Basics - Walking/running -- タンク_基本 - 歩行・走行時
@@ -174,7 +174,7 @@
 13000100 Tank_Basics - Drift -- タンク_基本 - ドリフト
 13000101 Tank_Basic - Drift_Cannot turn -- タンク_基本 - ドリフト_旋回不可
 13000109 Tank_Basics - Drift_Rapid turning -- タンク_基本 - ドリフト_急速旋回
-13100000 Tank_Hover - Normal -- タンク_ホバー - 通常時
+13100000 Tank Leg Part: VE-42B
 13100001 Tank_Hover - Normal time_Cannot turn -- タンク_ホバー - 通常時_旋回不可
 13100009 Tank_Hover - Normal_Rapid turning -- タンク_ホバー - 通常時_急速旋回
 13100010 Tank_Hover - When walking/running -- タンク_ホバー - 歩行・走行時
@@ -196,7 +196,7 @@
 13100100 Tank_Hover - Drift -- タンク_ホバー - ドリフト
 13100101 Tank_Hover - Drift_Cannot turn -- タンク_ホバー - ドリフト_旋回不可
 13100109 Tank_Hover - Drift_Rapid Turn -- タンク_ホバー - ドリフト_急速旋回
-13200000 Tank_Wheelchair - Normal time -- タンク_車椅子 - 通常時
+13200000 Tank Leg Part: EL-TL-11 FORTALEZA
 13200001 Tank_Wheelchair - Normal time_Cannot turn -- タンク_車椅子 - 通常時_旋回不可
 13200009 Tank_Wheelchair - Normal time_Rapid turning -- タンク_車椅子 - 通常時_急速旋回
 13200010 Tank_Wheelchair - Walking/running -- タンク_車椅子 - 歩行・走行時

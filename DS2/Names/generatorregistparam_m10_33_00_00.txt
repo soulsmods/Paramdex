@@ -1,18 +1,18 @@
-13400000 [Dwarf] Standard -- 【ドワーフ】標準
-13400001 【Dwarf】Fishing -- 【ドワーフ】漁る
-13400002 [Dwarf] Agura -- 【ドワーフ】あぐら
-13500000 [Heavy Dwarf: Two-Handed Axe × 2: Head A] -- 【重ドワーフ：両手斧×２：頭部A】
-13501000 [Heavy dwarf: two hands mallet: head A] -- 【重ドワーフ：両手槌：頭部A】
-13503000 [Heavy Dwarf: Two-Handed Axe × 2: Head B] -- 【重ドワーフ：両手斧×２：頭部B】
-13504000 [Heavy dwarf: two hands mallet: head B] -- 【重ドワーフ：両手槌：頭部B】
-21300000 Stone Defense -- 石守
-22300000 [Corpse hunt rat] the man of the king of rats -- 【死体あさりネズミ】ネズミの王の部下
-22300010 [Corpse assrat] -- 【死体あさりネズミ】
-22350000 【BOSS】Giant Rat -- 【BOSS】巨大ネズミ
-22620000 [King of rats] Npc -- 【ネズミの王】NPC
-22620001 [King of rats] NPC (Ghost) -- 【ネズミの王】NPC（亡霊）
-31400000 [Elephant man (deceased): Spear Axe] -- 【象人（亡者）：槍斧】
-32100000 [[[]-Mimick】 Battle -- 【ν-ミミック】戦闘
-72600000 [Dwarf] Npc -- 【ドワーフ】NPC
-72600001 [Dwarf] NPC (Ghost) -- 【ドワーフ】NPC（亡霊）
-85300000 NPC for Multi: Two-Sword Averin -- マルチ用NPC：二刀アヴェリン
+13400000 [REG:13400000] Gyrm
+13400001 [REG:13400001] Gyrm
+13400002 [REG:13400002] Gyrm
+13500000 [REG:13500000] Gyrm Warrior
+13501000 [REG:13501000] Gyrm Warrior
+13503000 [REG:13503000] Gyrm Warrior
+13504000 [REG:13504000] Gyrm Warrior
+21300000 [REG:21300000] Crystal Lizard
+22300000 [REG:22300000] Mongrel Rat
+22300010 [REG:22300010] Mongrel Rat
+22350000 [REG:22350000] Royal Rat Authority [Boss]
+22620000 [REG:22620000] Corpse Rat (Rat King)
+22620001 [REG:22620001] Corpse Rat (Rat King)
+31400000 [REG:31400000] Hollow Primal Knight
+69600000 [REG:69600000] Invisible Hollow
+72600000 [REG:72600000] Lonesome Gavlan
+72600001 [REG:72600001] Lonesome Gavlan
+85300000 [REG:85300000] Bowman Guthry

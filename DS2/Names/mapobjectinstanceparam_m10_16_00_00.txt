@@ -57,19 +57,19 @@
 10160655 【Bonfire】06_Dining Room -- 【篝火】06_食堂
 10160656 【Bonfire】07_The back of the wall that collapses in a flame barrel -- 【篝火】07_火炎樽で崩れる壁の奥
 10160658 【Bonfire】09_Boss Room Front Elevator -- 【篝火】09_ボス部屋前昇降機
-10160700 【Light stand】Near the dungeon elevator -- 【灯火台】地下牢昇降機付近
-10160701 [Light stand] always on_01 -- 【灯火台】常時点灯_01
-10160702 【Light stand】The place that went through the dungeon -- 【灯火台】地下牢を抜けた所
-10160703 【Light stand】Wooden board room -- 【灯火台】木板部屋
-10160704 The room leading to the tower away from the lamp stand -- 【灯火台】離れの塔へ続く部屋
-10160705 【Lamp stand】Outdoor tower away -- 【灯火台】離れの塔の屋外
-10160706 【Lamp stand】2F of the tower with a ladder on the outer wall -- 【灯火台】外壁に梯子がある塔の２F
-10160707 [Light stand] jump ing shortcut room -- 【灯火台】飛び降りショートカット部屋
-10160708 【Light stand】Blacksmith's lamp stand -- 【灯火台】鍛冶屋の灯火台
-10160750 【Light stand】For boss room_right -- 【灯火台】ボス部屋用_右
-10160751 【Light stand】For boss room_left -- 【灯火台】ボス部屋用_左
-10160752 【Light stand】For boss room_left -- 【灯火台】ボス部屋用_左
-10160753 【Light stand】For boss room_left -- 【灯火台】ボス部屋用_左
+10160700 Brazier
+10160701 Brazier
+10160702 Brazier
+10160703 Brazier
+10160704 Brazier
+10160705 Brazier
+10160706 Brazier
+10160707 Brazier
+10160708 Brazier
+10160750 Brazier
+10160751 Brazier
+10160752 Brazier
+10160753 Brazier
 10161000 【Other】DamiPoli_Right Back for Boss Room Lighting -- 【その他】ボス部屋照明用ダミポリ_右奥
 10161001 【Other】DamiPoli_Left Back for Boss Room Lighting -- 【その他】ボス部屋照明用ダミポリ_左奥
 10161002 【Other】Damipoli for boss room lighting_Right hand -- 【その他】ボス部屋照明用ダミポリ_右手前
@@ -160,71 +160,76 @@
 10164200 【NPC】Tomb_Bell Mori Sancho -- 【NPC】墓_鐘守サンチョ
 10164300 【NPC】Tomb_Spell Mania -- 【NPC】墓_スペルマニア
 10164900 Rolling flame barrels -- 転がってくる火炎樽
-10165000 [Iron treasure chest 10] insect key room_right back -- 【鉄宝箱10】　虫鍵部屋_右奥
-10165010 【Wooden Treasure Chest】The Back of the Insect Key Hidden Door -- 【木宝箱10】　虫鍵隠し扉の奥
-10165020 [Iron treasure chest 12] insect key room_left -- 【鉄宝箱12】　虫鍵部屋_左
-10165040 [Wooden treasure chest 06] warrior room in the mirror _ hidden door of the stairs -- 【木宝箱06】　鏡の中の戦士部屋_階段の隠し扉奥
-10165050 【Iron Treasure Chest】 Between the Walls and Buildings -- 【鉄宝箱02】　城壁と建物の間
-10165070 【Iron Treasure Chest】Insect Key Room_Right Hand -- 【鉄宝箱11】　虫鍵部屋_右手前
-10165080 [Wooden treasure chest 05] warrior room in the mirror _ hidden door back -- 【木宝箱05】　鏡の中の戦士部屋_隠し扉奥
-10165110 【Iron Treasure Chest】 The Back of the Insect Key Hidden Door -- 【鉄宝箱01】　虫鍵隠し扉の奥
-10165120 [Iron Treasure Chest 03] Boss Postwar Treasure Room_Front -- 【鉄宝箱03】　ボス戦後宝部屋_正面
-10165130 【Iron Treasure Chest 06】 Dining Room_Underground -- 【鉄宝箱06】　食堂_地下
-10165140 [Iron Treasure Chest 04] Warrior room in the mirror _ hidden door back -- 【鉄宝箱04】　鏡の中の戦士部屋_隠し扉奥
-10165150 【Iron Treasure Chest】The Treasure Chest where the blacksmith sits -- 【鉄宝箱05】　鍛冶屋が座ってる宝箱
-10165160 【Kiho-bin 12】 Blacksmith's room_Gold bed next to the left -- 【木宝箱12】　鍛冶屋の部屋_金床の左隣
-10165170 【Kiho-ho-bin】Right next to the blacksmith's room_gold floor -- 【木宝箱13】　鍛冶屋の部屋_金床の右隣
-10165180 【Kiho-ho-bin】In front of the blacksmith's room_ blacksmith -- 【木宝箱14】　鍛冶屋の部屋_鍛冶屋の前
-10165190 【Wooden treasure chest 15】 Between the entrance of the blacksmith's room -- 【木宝箱15】　鍛冶屋の部屋_入口の間
-10165200 【Kihoho-bin】Bell Guard Area_Under the Bell -- 【木宝箱16】　鐘守エリア_鐘の下
-10165210 [Iron Treasure Chest 07] Warrior war in the mirror _ hidden door back _2F -- 【鉄宝箱07】　鏡の中の戦士戦_隠し扉奥_2F
-10165220 【Iron Treasure Chest】Room that falls from the top of the bell guard area_ -- 【鉄宝箱08】　鐘守エリア_上から落ちて入る部屋
-10165230 [Iron Treasure Chest 09] In the tower after the gargoyle war -- 【鉄宝箱09】　ガーゴイル戦後_塔の中
-10166000 [Treasure corpse 13] Warrior room in the mirror -- 【宝死体13】　鏡の中の戦士部屋2F
-10166010 【Treasure corpse 03】 Fall ing on the wooden set _ destruction -- 【宝死体03】　木組みの上_破壊で落下
-10166020 【Treasure Corpse】Outside the Dining Room -- 【宝死体40】　食堂外_扉の陰
-10166030 【Treasure Corpse】The outer wall of the start_ the back of the collapsed wall -- 【宝死体02】　スタートの外壁_崩れた壁の奥
-10166040 【Treasure Corpse】 On the _EX smith's room on the wall -- 【宝死体41】　城壁の上_EX鍛冶屋の部屋の上
-10166050 【Treasure corpse 06】 Flame barrel room_ lattice on ladder -- 【宝死体06】　火炎樽部屋_梯子上の格子
-10166060 [Treasure corpse 42] collapsed floor on the tower of the distance -- 【宝死体42】　離れの塔_上の崩れた床
-10166070 [Treasure corpse 08] side road that can be a rolling shortcut to the door -- 【宝死体08】　扉への転がりショートカットが出来る脇道
-10166080 [Treasure corpse 10] stuck to the wall outside the window of the collapsed stair room -- 【宝死体10】　崩れ階段部屋_窓の外の壁にひっかかり
-10166090 [Treasure corpse 43] dungeon_ right second -- 【宝死体43】　地下牢_右の2番目
-10166100 [Treasure corpse 14] warrior room in the mirror _ hidden door back -- 【宝死体14】　鏡の中の戦士部屋_隠し扉奥
-10166110 【Treasure corpse 26】 Scaffolding to jump on the way to the underground waterway -- 【宝死体26】　地下水路へのリフト_途中で飛び乗る足場
-10166120 【Treasure corpse 30】 Dungeon_Left room -- 【宝死体30】　地下牢_左1部屋目
-10166130 【Treasure corpse 23】 The back of the door of the room leading to the tower away -- 【宝死体23】　離れの塔へ続く部屋_扉の奥
-10166140 【Treasure Corpse】Pledge Area _2F -- 【宝死体15】　誓約エリア_2F
-10166150 Treasure corpse 35: Prison beside the passage after the warrior in the mirror -- 【宝死体35】　鏡の中の戦士後の通路脇の牢
-10166160 【Treasure corpse 16】 The room which enters by the pledge area _ fall -- 【宝死体16】　誓約エリア_落下で入る部屋
-10166170 【Treasure Corpse】Pledge Area_Rooftop -- 【宝死体17】　誓約エリア_屋上
-10166180 【Treasure Corpse】Collapsed Wall in the Dining Room -- 【宝死体19】　食堂先の崩れた城壁
-10166190 【Treasure Corpse】Bridge leading to the tower away -- 【宝死体25】　離れの塔へ続く橋
-10166200 【Treasure Corpse】Return road from hidden passage -- 【宝死体22】　隠し通路からの復帰路
-10166210 【Treasure Corpse】Outside the Dungeon -- 【宝死体27】　地下牢の外
-10166220 【Treasure Corpse】Outside the Dungeon -- 【宝死体29】　地下牢の外
-10166230 【Treasure Corpse】Outside the Dungeon -- 【宝死体28】　地下牢の外
-10166240 【Treasure Corpse】Dungeon_Right Room -- 【宝死体31】　地下牢_右3部屋目
-10166250 [Treasure corpse 18] 【Key to the prison】 Down the stairs after gargoyle -- 【宝死体18】【牢の鍵】　ガーゴイル後の階段下
-10166260 【Treasure Corpse】Hidden Passage Away Scaffolding -- 【宝死体21】　隠し通路先の離れ足場
-10166270 【Treasure Corpse】In front of both broken doors -- 【宝死体12】　壊れた両扉前
-10166280 【Treasure Corpse】Dungeon_Left Room -- 【宝死体32】　地下牢_左4部屋目
-10166290 【Treasure Corpse】Roof on Well Square -- 【宝死体44】　井戸広場上の屋根
-10166300 [Treasure corpse 01_ human bone _ whole body] start passage prison -- 【宝死体01_人骨_全身】　スタート通路の牢屋
-10166310 [Treasure corpse 05_ human bone _ whole body] room to go out to well plaza_ prison -- 【宝死体05_人骨_全身】　井戸広場へ出る部屋_牢屋
-10166320 [Treasure corpse 24_ human bone _whole body] before the warrior war in the mirror _ right prison _ the third from the back -- 【宝死体24_人骨_全身】　鏡の中の戦士戦手前_右の牢屋_奥から3番目
-10166330 [Treasure corpse 33_ human bone_ whole body] dungeon_ upper left room second room -- 【宝死体33_人骨_全身】　地下牢_左上2部屋目
-10166340 [Treasure corpse 34_ human bone_ whole body] dungeon_ upper right room 1st room -- 【宝死体34_人骨_全身】　地下牢_右上1部屋目
-10166350 [Treasure corpse 45] room before the forgotten sinner war_right -- 【宝死体45】　忘れられた罪人戦手前の部屋_右
-10166360 [Treasure corpse 46] the side of the stairs before the forgotten sinner war_ left -- 【宝死体46】　忘れられた罪人戦手前の階段の脇_左
-10166370 【Treasure corpse 47】 Well plaza_ Roof of the destination -- 【宝死体47】　井戸広場_飛び移り先の屋根
-10166380 【Treasure Corpse】 Under the Dining Room -- 【宝死体48】　食堂下
-10166390 【Treasure Corpse 49】 Gargoil Post-War _ On the Stairs -- 【宝死体49】　ガーゴイル戦後_階段の上
-10166400 [Treasure corpse 50] Gargoil war _left back -- 【宝死体50】　ガーゴイル戦_左奥
-10166410 【Treasure Corpse】Lift Landing -- 【宝死体51】　リフト乗り場_上奥
-10166420 【Treasure corpse 52】 The window of the outer wall tower_2floor -- 【宝死体52】　外壁の塔_2階の窓辺
-10166430 【Treasure corpse 53】 Flame barrel room_Hidden door back -- 【宝死体53】　火炎樽部屋_隠し扉奥
-10166440 【Treasure Corpse】Room leading to the tower away _ top floor jail -- 【宝死体54】　離れの塔へ続く部屋_最上階の牢
-10166450 【Treasure Corpse】Tower of The Distance -- 【宝死体55】　離れの塔_崩れた階段
-10166460 【Treasure corpse】The prison of the lift landing to the hidden port -- 【宝死体56】　隠れ港へのリフト乗り場の牢
-10166470 【Treasure corpse 57】 horizontal hole entering from the lift to the hidden port _ ceiling -- 【宝死体57】　隠れ港へのリフト_天井から入る横穴
+10165000 [Chest] Treasure
+10165010 [Chest] Treasure
+10165020 [Chest] Treasure
+10165040 [Chest] Treasure
+10165050 [Chest] Treasure
+10165070 [Chest] Treasure
+10165080 [Chest] Treasure
+10165110 [Chest] Treasure
+10165120 [Chest] Treasure
+10165130 [Chest] Treasure
+10165140 [Chest] Treasure
+10165150 [Chest] Treasure
+10165160 [Chest] Treasure
+10165170 [Chest] Treasure
+10165180 [Chest] Treasure
+10165190 [Chest] Treasure
+10165200 [Chest] Treasure
+10165210 [Chest] Treasure
+10165220 [Chest] Treasure
+10165230 [Chest] Treasure
+10165240 [Chest] Treasure
+10165250 [Chest] Treasure
+10165260 [Chest] Treasure
+10166000 [Corpse] Treasure
+10166010 [Corpse] Treasure
+10166020 [Corpse] Treasure
+10166030 [Corpse] Treasure
+10166040 [Corpse] Treasure
+10166050 [Corpse] Treasure
+10166060 [Corpse] Treasure
+10166070 [Corpse] Treasure
+10166080 [Corpse] Treasure
+10166090 [Corpse] Treasure
+10166100 [Corpse] Treasure
+10166110 [Corpse] Treasure
+10166120 [Corpse] Treasure
+10166130 [Corpse] Treasure
+10166140 [Corpse] Treasure
+10166150 [Corpse] Treasure
+10166160 [Corpse] Treasure
+10166170 [Corpse] Treasure
+10166180 [Corpse] Treasure
+10166190 [Corpse] Treasure
+10166200 [Corpse] Treasure
+10166210 [Corpse] Treasure
+10166220 [Corpse] Treasure
+10166230 [Corpse] Treasure
+10166240 [Corpse] Treasure
+10166250 [Corpse] Treasure
+10166260 [Corpse] Treasure
+10166270 [Corpse] Treasure
+10166280 [Corpse] Treasure
+10166290 [Corpse] Treasure
+10166300 [Corpse] Treasure
+10166310 [Corpse] Treasure
+10166320 [Corpse] Treasure
+10166330 [Corpse] Treasure
+10166340 [Corpse] Treasure
+10166350 [Corpse] Treasure
+10166360 [Corpse] Treasure
+10166370 [Corpse] Treasure
+10166380 [Corpse] Treasure
+10166390 [Corpse] Treasure
+10166400 [Corpse] Treasure
+10166410 [Corpse] Treasure
+10166420 [Corpse] Treasure
+10166430 [Corpse] Treasure
+10166440 [Corpse] Treasure
+10166450 [Corpse] Treasure
+10166460 [Corpse] Treasure
+10166470 [Corpse] Treasure
+10166480 [Corpse] Treasure
+10166490 [Corpse] Treasure

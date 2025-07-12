@@ -1,9 +1,10 @@
-10000000 [Goblin: Bare Hands] -- 【ゴブリン：素手】
-10000010 【Goblin: Sword】 -- 【ゴブリン：剣】
-10000020 【Goblin: Sling】 -- 【ゴブリン：スリング】
-21000000 【Basilisk】 -- 【バジリスク】
-74300000 【Tsukiko Grandfather】NPC -- 【月光爺】ＮＰＣ
-74300001 【Tsukiko Grandfather】NPC -- 【月光爺】ＮＰＣ(亡霊）
-76300000 【Sorcerer's Shop】NPC -- 【呪術屋】ＮＰＣ
-76300001 【Sorcerer's Shop】NPC -- 【呪術屋】ＮＰＣ（亡霊）
-76300002 【Sorcerer's Shop】NPC (after moving) -- 【呪術屋】ＮＰＣ（移動後）
+10000000 [REG:10000000] Forest Grotesque
+10000010 [REG:10000010] Forest Grotesque
+10000020 [REG:10000020] Forest Grotesque
+13400000 [REG:13400000] Gyrm
+21000000 [REG:21000000] Basilisk
+74300000 [REG:74300000] Benhart of Jugo
+74300001 [REG:74300001] Benhart of Jugo
+76300000 [REG:76300000] Rosabeth of Melfia
+76300001 [REG:76300001] Rosabeth of Melfia
+76300002 [REG:76300002] Rosabeth of Melfia

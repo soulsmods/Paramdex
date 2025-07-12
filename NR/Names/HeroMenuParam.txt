@@ -1,0 +1,8 @@
+1000 Wylder
+1001 Guardian
+1002 Ironeye
+1003 Duchess
+1004 Raider
+1005 Revenant
+1006 Recluse
+1007 Executor

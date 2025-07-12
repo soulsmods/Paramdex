@@ -1,24 +1,3 @@
-20240720 Brazier
-20240721 Brazier
-20240722 Brazier
-20240723 Brazier
-20240724 Brazier
-20240725 Brazier
-20240726 Brazier
-20240727 Brazier
-20240728 Brazier
-20240729 Brazier
-20240730 Brazier
-20240731 Brazier
-20240732 Brazier
-20240733 Brazier
-20240734 Brazier
-20240735 Brazier
-20240736 Brazier
-20240737 Brazier
-20240738 Brazier
-20240739 Brazier
-20240740 Brazier
 20245000 [Chest] Treasure
 20245010 [Chest] Treasure
 20245020 [Chest] Treasure

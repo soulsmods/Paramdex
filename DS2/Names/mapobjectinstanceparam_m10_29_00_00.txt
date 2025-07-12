@@ -30,7 +30,7 @@
 10293923 [Mimetic OBJ: Normal] 【General purpose】Barrel 1 -- 【擬態OBJ：通常】【汎用】樽1
 10294000 【NPC】Tomb_Tsukimitsu Grandfather -- 【NPC】墓_月光爺
 10294100 【NPC】Tomb_Sorcerer -- 【NPC】墓_呪術屋
-10295000 【Iron Treasure Chest】 Room in front of the left hand side of the emptiness -- 【鉄宝箱01】　虚ろ側左手前の部屋
-10296000 【Treasure Corpse 01】 Madura Side Right Back Room -- 【宝死体01】　マデューラ側右奥の部屋
-10296010 【Treasure Corpse 02】 Madura Side _Entrance Front -- 【宝死体02】　マデューラ側_入口手前
-10296020 【Treasure corpse 03】 imaginary side_left hand -- 【宝死体03】　虚ろ側_左手前
+10295000 [Chest] Treasure
+10296000 [Corpse] Treasure
+10296010 [Corpse] Treasure
+10296020 [Corpse] Treasure

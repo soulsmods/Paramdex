@@ -1,21 +1,34 @@
-10500000 Fairy Shrine Maiden: Bare Hands: General Purpose -- 妖精の巫女：素手：汎用
-10501000 Fairy Shrine Maiden: Cane: General Purpose -- 妖精の巫女：杖：汎用
-10501002 Fairy Shrine Maiden: Cane: Prayer -- 妖精の巫女：杖：祈り
-13100000 [Cleric (deceased)]] -- 【クレリック（亡者）】
-13702200 【Necromancer】 -- 【ネクロマンサー】
-14700100 [Deceased: The ♂ of the Clothes of the Sick: The Altar of Amana] -- 【亡者：病人の服♂：アマナの祭壇】
-15300200 [Kingdom Soldier Escort: Axe Spear] -- 【王国兵護衛兵：斧槍】
-15500000 [Lizard man] -- 【トカゲ人】
-20510200 [Poison hornworm: acid] -- 【毒角虫：酸】
-20510201 【Poison hornworm: Acid_gas simultaneous injection suppression logi】 -- 【毒角虫：酸＿ガス同時噴射抑制ロジ】
-22000200 [Giant venomous horn: acid] -- 【巨大毒角虫：酸】
-30000100 Auger (raw): Color (1): General purpose -- オーガ（生者）：色①：汎用
-30401000 [Banshee ( deceased ] Beautiful face : Physical education seat] -- 【バンシー（亡者）：美女顔：体育座り】
-60200000 Beautiful Voice Frog -- 美声カエル
-76000000 NPC Bard Girl 1  -- NPC吟遊詩人の少女１ 
-76000100 NPC Ginse poet Girl 1 (Ghost) -- NPC吟遊詩人の少女１（亡霊）
-76010000 NPC Bard Girl 2 -- NPC吟遊詩人の少女２
-76010100 NPC Ginse poet Girl 2 (Ghost) -- NPC吟遊詩人の少女２（亡霊）
-81000000 【NPC for Multi:Lancer (Female)]: White Spirit -- 【マルチ用NPC：ランサー（女）】白霊
-82200300 【NPC for Multi: The Devil's Man】Black Spirit -- 【マルチ用NPC：魔導士（男）】黒霊
-83300000 【NPC】The Length of The Cannibal】 The Black Spirit -- 【NPC:人食い番長】黒霊
+10500000 [REG:10500000] Amana Shrine Maiden
+10501000 [REG:10501000] Amana Shrine Maiden
+10501002 [REG:10501002] Amana Shrine Maiden
+11500000 [REG:11500000] Undead Traveler
+13100000 [REG:13100000] Lindelt Cleric
+13702200 [REG:13702200] Prowling Magus
+14700100 [REG:14700100] Undead Supplicant
+15300200 [REG:15300200] Syan Knight
+15301200 [REG:15301200] Syan Knight
+15500000 [REG:15500000] Amana Aberration
+20400200 [REG:20400200] Poison Moth
+20510200 [REG:20510200] Acid Horn Beetle
+20510201 [REG:20510201] Acid Horn Beetle
+21000000 [REG:21000000] Basilisk
+21000010 [REG:21000010] Basilisk
+22000200 [REG:22000200] Giant Acid Horn Beetle
+30000100 [REG:30000100] Ogre
+30401000 [REG:30401000] Injured Milfanito
+33004900 [REG:33004900] Old Knight
+50900000 [REG:50900000] Leydia Witch
+60200000 [REG:60200000] Demon of Song
+61150000 [REG:61150000] Dragonrider
+69500200 [REG:69500200] Forlorn
+69600000 [REG:69600000] Invisible Hollow
+76000000 [REG:76000000] Milfanito
+76000100 [REG:76000100] Milfanito
+76010000 [REG:76010000] Milfanito
+76010100 [REG:76010100] Milfanito
+81000000 [REG:81000000] Felicia the Brave
+82200300 [REG:82200300] Peculiar Kindalur
+83300000 [REG:83300000] Butcher Phantom
+88800000 [REG:88800000] Pyromancer
+89000000 [REG:89000000] Drakeblood Knight
+90000000 [REG:90000000] Lone Hunter Schmidt

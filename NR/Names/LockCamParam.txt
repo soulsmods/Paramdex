@@ -1,0 +1,76 @@
+2151 Lightning Ball
+3015 Banished Knight
+3050 Commander Niall/O'Neill
+3181 Red Wolf of Radagon
+3250 Draconic Tree Sentinel
+3251 Tree Sentinel
+3252 Loretta
+3470 Large Albinauric
+3560 Godskin Apostle
+3570 Godskin Noble
+3600 Alabaster Lord
+3620 Oracle Envoy (Large)
+3664 Cemetery Shade
+3704 Battlemage
+3810 Kindred of Rot
+3910 Fire Prelate
+3950 Man-Serpent
+4020 Royal Revenant
+4021 Royal Revenant
+4060 Kaiden Sellsword's Horse
+4120 Demi-Human Chief
+4130 Demi-Human Queen
+4189 Spirit Jellyfish
+4190 Large Scarab
+4191 Scarab
+4240 Fingercreeper
+4241 Fingercreeper (Large)
+4260 Erdtree Burial Watchdog
+4280 Giant Ant
+4320 Vulgar Militia
+4460 Flame Chariot
+4470 Abductor Virgin
+4490 Living Jar Warrior
+4500 Borealis the Freezing Fog
+4505 Flying Dragon (Small)
+4510 Ancient Dragon
+4550 Giant Dog
+4570 Wormface
+4580 Large Wormface
+4620 Astel, Naturalborn of the Void
+4640 Ulcerated Tree Spirit
+4650 Dragonkin Soldier
+4660 Guardian Golem
+4670 Ancestor Spirit
+4680 Fallingstar Beast
+4690 Grafted Scion
+4750 Godrick the Grafted
+4770 Valiant Gargoyle
+4775 Valiant Gargoyle
+4810 Erdtree Avatar
+4900 Unknown
+4910 Magma Wyrm
+4912 Great Wyrm Theodorix
+4950 Tibia Mariner
+4980 Death Rite Bird
+5010 Golden Hippopotamus (Golden Wings)
+5119 Spirit Eel
+5240 Runebear
+7100 Ancient Hero
+7500 Gladius - Beast of Night
+7510 Adel - Baron of Night (Lightning Fang)
+7520 Gnoster - Wisdom of Night
+7530 Faurtis Stoneshield
+7560 Libra - Creature of Night
+7580 Heolstor the Nightlord
+7600 Fulghor - Champion of Nightglow
+7700 Gaping Dragon
+7710 Centipede Demon
+7711 Centipede Grub
+7712 Centipede Grub
+7800 Duke's Dear Freja
+7810 Freja Spiderling
+7820 Smelter Demon
+7900 Nameless King
+7910 Nameless King (Mount)
+7920 Dancer of the Boreal Valley

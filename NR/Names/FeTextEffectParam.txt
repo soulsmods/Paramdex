@@ -1,0 +1,53 @@
+1000 DEMIGOD FELLED
+1010 LEGEND FELLED
+1020 GREAT ENEMY FELLED
+1030 ENEMY FELLED
+1040 NIGHTLORD SLAIN
+1050 NIGHT REPULSED
+1051 NIGHTLORD FELLED
+1060 RIVAL FELLED
+1061 DARKNESS BANISHED
+1070 VICTORY ACHIEVED
+1080 HEIR OF FIRE DESTROYED
+1100 INVADER VANQUISHED
+1200 COMMENCE
+1201 VICTORY
+2000 LOST GRACE DISCOVERED
+2200 POWER GAINED
+2210 LEGEND FORGED
+2300 OBJECTIVE ACHIEVED
+3000 YOU DIED
+3010 YOU DIED
+3100 POISON
+3101 SCARLET ROT
+3102 BLOOD LOSS
+3103 FROSTBITE
+3104 SLEEP
+3105 MADNESS
+3106 DEATH BLIGHTED
+3107 LEVEL LOST
+3108 LEVEL ABSORBED
+4000 VICTORY
+4010 DEFEAT
+4099 DAY I
+4100 DAY II
+4101 DAY III
+4200 The Night's tide grows stronger
+4201 Rains gather,
+portending the tide of Night
+4300 The threat of Night emerges
+5000 Matchmaking...
+5001 Preparing...
+5100 Matchmaking complete
+5101 Ready to commence expedition
+5102 Matchmaking cancelled
+6010 A Fell Omen arrives
+6020 Giant bubbles are forming
+6030 A demon casts its curse
+6040 A plague of locusts befalls the land
+6050 The Night threatens us anew
+6060 A meteorite has fallen
+6070 The Night hordes multiply...
+6071 Other worlds spur the hordes
+6080 A flame of frenzy appears
+10000 <?playerName1?>

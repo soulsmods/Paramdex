@@ -1,0 +1,31 @@
+0 B0基本
+1 B0屋内
+2 B0ボス部屋
+19 PolyG-NonDOF
+20 PolyG-
+21 PolyG-
+22 PolyG-
+23 PolyG-
+24 PolyG-
+25 PolyG-
+26 PolyG-
+27 PolyG-
+28 PolyG-
+29 PolyG-
+30 PolyG-
+31 PolyG-
+32 PolyG-
+33 PolyG-
+34 PolyG-
+35 PolyG-
+36 PolyG-
+37 PolyG-
+38 PolyG-
+40 ポリ劇 cut0000
+41 ポリ劇 cut0010
+42 ポリ劇 cut0020_1
+43 ポリ劇 cut0020_2
+44 ポリ劇 cut0030_1
+45 ポリ劇 cut0030_2
+58 PolyG-test_scn110099A
+59 PolyG-test_scn110099B

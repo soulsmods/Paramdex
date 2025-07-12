@@ -1,0 +1,8 @@
+1 Wylder
+2 Guardian
+3 Ironeye
+4 Duchess
+5 Raider
+6 Revenant
+7 Recluse
+8 Executor

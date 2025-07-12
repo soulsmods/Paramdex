@@ -1,0 +1,111 @@
+100 Guide
+200 Team Expeditions
+1000 Move
+1010 Using the Sacred Flask
+1020 Battle
+1021 Battle
+1030 Setting a Target
+1040 Jump
+1050 Guarding and Dodging
+1070 Dash
+1080 Surge Sprint
+1090 Wall Jump
+1095 Wall Jump
+1100 Using Items
+1110 Wielding Armaments
+1120 Skills
+1125 Activating and Switching Skills
+1130 Character Skills
+1135 Character Skills
+1140 Rescuing from Near Death
+1145 Rescuing from Near Death
+1150 Death and Revival
+1160 Ultimate Arts
+1165 Ultimate Arts
+1170 Near Death
+1180 Sites of Grace
+1190 Using the Map
+1195 Using the Map
+1200 Night's Tide
+1210 Rarity and Passive Effects
+1215 Changing Equipment
+1220 Pins
+1900 Roundtable Hold
+1905 Sparring Grounds
+1930 Change Garb
+1940 Relic Rites
+1960 New Character: The Duchess
+1970 New Character: The Revenant
+1980 When the Earth Shifts
+2000 Partial Remembrances
+2010 Realm of Remembrance
+2020 Concluding Remembrances
+2030 Personal Objectives
+2040 The World After Finishing the Game
+2060 Sovereign Sigil
+2070 Helpful Hints
+2520 Guard Counters
+2570 Sorceries and Incantations
+2571 Sorceries and Incantations
+2580 Bows
+2581 Bows
+2590 Nearby Item Shortcuts
+2591 Using Items
+2595 Wielding Armaments
+2600 Stance-Breaking
+2610 Status Ailments
+2620 Attack Affinities
+2640 HP
+2650 Stamina
+2660 FP
+2670 Attributes
+2680 Passive Abilities
+2681 Character Skills
+2682 Ultimate Arts
+2690 Movement
+2700 The Camera
+2710 Jumping
+2720 The Sacred Flask
+2730 Attacking
+2740 Dodging
+2750 Guarding
+2900 Magic Cocktail: Single
+2903 Magic Cocktail: Double 1
+2904 Magic Cocktail: Double 2
+2907 Magic Cocktail: Mixed
+3000 Equipment Menu
+3010 Status Menu
+3030 Level Up Menu
+3040 Shops
+3050 Strengthen Armament Menu
+3060 Special Smithing Table
+3070 Expeditions
+3080 Character Selection
+3090 Change Garb Menu
+3100 Relic Rites Menu
+3110 Visual Codex Menu
+3120 Journal
+3130 Small Jar Bazaar
+3180 Map Menu
+3190 Map: Key Locations [1]
+3191 Map: Key Locations [2]
+3192 Map: Key Locations [3]
+3200 Map: Environmental Information
+3201 Map: Other Information
+3210 Map: Finding Armaments and Items
+3220 Sparring Equipment Menu
+3230 Sparring Settings Menu
+3250 Armament Replication Menu
+3260 Victor's Record Menu 
+3270 Gestures
+3280 Runes and Murk
+3290 Cataclysms
+3300 Item Pins
+3310 Material Effects
+3320 Ties to Other Worlds
+3340 Map: Show Tunnel
+3350 Using Pins
+3400 Shifting Earth: Rotted Woods
+3410 Shifting Earth: Noklateo, the Shrouded City
+3420 Shifting Earth: Mountaintop
+3430 Shifting Earth: The Crater

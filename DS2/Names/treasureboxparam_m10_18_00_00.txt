@@ -1,2 +1,2 @@
-10185000 No trap -- トラップなし
-10185010 With trap -- トラップあり
+10185000 UNKNOWN
+10185010 UNKNOWN

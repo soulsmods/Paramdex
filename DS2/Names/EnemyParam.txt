@@ -1,562 +1,976 @@
-10 【Data Test】 -- 【データテスト】
-9400 For damage testing -- ダメージテスト用
-100000 Goblin: Bare hands: The Forest of Shadows of The Shadows -- ゴブリン（生者）：素手：虚ろの影の森
-100008 Goblin :Bare hands: Forest of Shadows: Soul Black -- ゴブリン（生者）：素手：虚ろの影の森：ソウルブラック
-100009 Goblin (Live): Bare Hands: Gap's Cave: Soul Black -- ゴブリン（生者）：素手：隙間の洞：ソウルブラック
-100010 Goblin :Sword: Forest of Shadows of Emptiness -- ゴブリン（生者）：剣：虚ろの影の森
-100020 Goblin :Sling: Forest of Shadows -- ゴブリン（生者）：スリング：虚ろの影の森
-101000 Cobold: Gap Cave -- コボルト：隙間の洞
-101001 Kobold: Anne Deal's House -- コボルト：アン・ディールの館
-102000 Kingdom Soldier (Deceased): Spear: Medium Shield: The Forest of Decaying Giants -- 王国兵士（亡者）：槍：中盾：朽ちた巨人の森
-102010 Kingdom Soldier (Deceased): Two-Handed Sword: The Forest of Decaying Giants -- 王国兵士（亡者）：両手剣：朽ちた巨人の森
-102011 Kingdom Soldier (Deceased): Two-Handed Sword: Soul Black: The Forest of Decaying Giants -- 王国兵士（亡者）：両手剣：ソウルブラック：朽ちた巨人の森
-102020 Kingdom Soldier (Deceased): Two-Handed Axe: The Decaying Giant Forest -- 王国兵士（亡者）：両手長斧：朽ちた巨人の森
-102030 Kingdom Soldier (Deceased): Stabbing Sword: Medium Shield: The Forest of Decayed Giants -- 王国兵士（亡者）：刺突剣：中盾：朽ちた巨人の森
-102040 Kingdom Soldier (Deceased): Bow: The Forest of Decayed Giants -- 王国兵士（亡者）：弓：朽ちた巨人の森
-102100 Kingdom Soldier (Alive): Spear: Medium Shield: The Memory of the Giant -- 王国兵士（生者）：槍：中盾：巨人の記憶
-102110 Kingdom Soldier (Living Man): Two-Handed Sword: Bow: Memory of giant -- 王国兵士（生者）：両手剣：弓：巨人の記憶
-102140 Kingdom Soldier (Born): Bow: Memories of giants -- 王国兵士（生者）：弓：巨人の記憶
-103000 Lower Soldier (Deceased): Bare hands: The Forest of Decayed Giants -- 下級兵士（亡者）：素手：朽ちた巨人の森
-103010 Lower Soldier (Deceased): Dagger: The Forest of Decayed Giants -- 下級兵士（亡者）：短剣：朽ちた巨人の森
-103020 Lower Soldier (Deceased): One-handed sword: Small shield: The Forest of Decaying Giants -- 下級兵士（亡者）：片手剣：小盾：朽ちた巨人の森
-103022 Lower Soldier (Deceased): One-handed sword: Small shield: Hidden Port -- 下級兵士（亡者）：片手剣：小盾：隠れ港
-103030 Lower Soldier (Deceased): One-handed axe: The Forest of Decaying Giants -- 下級兵士（亡者）：片手斧：朽ちた巨人の森
-103032 Lower Soldier (Deceased): One-handed axe: Hidden Port -- 下級兵士（亡者）：片手斧：隠れ港
-103040 Lower Soldier (Deceased): Two-Handed Bow: The Forest of Decaying Giants -- 下級兵士（亡者）：両手弓：朽ちた巨人の森
-103051 Lower-class soldier (deceased): Two-handed bow (fire and arrow): Hidden port -- 下級兵士（亡者）：両手弓（火矢）：隠れ港
-103111 Lower Soldier (Raw Man): One Hand Sword: The Memory of the Giant -- 下級兵士（生者）：片手剣：巨人の記憶
-103121 Lower Soldier (Raw): One Hand Axe: The Memory of the Giant -- 下級兵士（生者）：片手斧：巨人の記憶
-103131 Lower Soldier (Raw): Bow: Memories of giants -- 下級兵士（生者）：弓：巨人の記憶
-105000 Fairy Shrine Maiden: Bare Hands: Altar of Amana -- 妖精の巫女：素手：アマナの祭壇
-105010 Fairy Shrine Maiden: Cane: Altar of Amana -- 妖精の巫女：杖：アマナの祭壇
-106001 Dark Priest (Dead): Color (1)_Maskless Against GerdrazaCobos -- ダークプリースト（亡者）：色①_仮面無し　ジェルドラザコボス戦
-106009 Dark Priest (Deceased): Color (1): Soul Black: Kiseki Street Gerdra -- ダークプリースト（亡者）：色①：ソウルブラック：輝石街ジェルドラ
-106021 Dark Priest (Deceased): Color (1)_Masked: Tomb of Immortality -- ダークプリースト（亡者）：色①_仮面有り：不死廟
-106200 Dark Priest (Deceased): Color (3) _ Head C: The Nest of The Guarded Dragon -- ダークプリースト（亡者）：色③_頭部Ｃ：守り竜の巣
-107000 Parasite Spider (Parasitic): Kiseki Street Gerdra -- パラサイトスパイダー（寄生）：輝石街ジェルドラ
-107001 Parasite Spider (Parasitic): Poison: Kiseki Town Gerdra -- パラサイトスパイダー（寄生）：毒：輝石街ジェルドラ
-108000 Rogue :Dagger x 2: Hunting Forest -- ローグ（亡者）：短剣×２：狩猟の森
-108010 Rogue (deceased): One hand mallet × 2: Hunting Forest -- ローグ（亡者）：片手槌×２：狩猟の森
-108020 Rogue (Deceased): Two Bows x 2: Hunting Forest -- ローグ（亡者）：両手弓×２：狩猟の森
-113000 Sailor (deceased): One-handed sword: Small shield: Hidden Port -- 水兵（亡者）：片手剣：小盾：隠れ港
-113010 Sailor (deceased): Song sword x 2: Hidden Port -- 水兵（亡者）：曲剣×２：隠れ港
-113020 Sailor (deceased): Two-handed bow: Hidden Port -- 水兵（亡者）：両手弓：隠れ港
-115000 Deceased: Traveler's Clothing ♂: Bare hands: Maduro (modern) -- 亡者：旅人の服♂：素手：マデューラ（現代）
-115006 Deceased: Traveler's Clothing ♂: Bare Hands: Gap's Cave -- 亡者：旅人の服♂：素手：隙間の洞
-115014 The Dead: Traveler's Clothes ♂: Dagger: The City of Spiders -- 亡者：旅人の服♂：短剣：蜘蛛の街
-115015 Deceased: Traveler's Clothing ♂: Dagger: Cave -- 亡者：旅人の服♂：短剣：隙間の洞
-117000 Statue: Pawn: Spear: Shield: King's Castle D'Angreig -- スタチュー：ポーン：槍：盾：王城ドラングレイグ
-117010 Statue: Pawn: Spear: Castle of The King D'Angreig -- スタチュー：ポーン：槍：王城ドラングレイグ
-118000 Dark Wizard (Deceased): Color (1): Head A: Hunting Forest -- ダークウィザード（亡者）：色①：頭部A：狩猟の森
-118001 Dark Wizard (Deceased): Color (1): Head A: Death penalty -- ダークウィザード（亡者）：色①：頭部A：不死刑場
-118201 Dark Wizard (Deceased): Color (3): Head B: Kiseki Street Gerdra -- ダークウィザード（亡者）：色③：頭部B：輝石街ジェルドラ
-119000 Lion Black Mage: Kokeshi Back Demonstration -- 獅子黒魔道士：こけし背負いデモ
-119001 Lion Black Mage: Knight demonstration of armor spitting flames -- 獅子黒魔道士：炎を吐く鎧の騎士デモ
-121000 Giant Lower Soldier (Giant): Bare Hands: Memories of giants -- 巨人下級兵士（巨人）：素手：巨人の記憶
-121001 Giant Lower Soldier (Giant): Bare hands: Flying: Memories of giants -- 巨人下級兵士（巨人）：素手：飛んできて登場：巨人の記憶
-121010 Giant Lower Soldier (Giant): Two-Handed Club: The Memory of the Giant -- 巨人下級兵士（巨人）：両手棍棒：巨人の記憶
-121020 Giant Lower Soldier Poison (Giant): Bare Hands: Memories of giants -- 巨人下級兵士 毒（巨人）：素手：巨人の記憶
-121030 Giant Lower Soldier Fire (Giant): Bare Hands: Memories of giants -- 巨人下級兵士 火（巨人）：素手：巨人の記憶
-123002 The Shadow of the Metamorphosis (Born): Mask A:2 Swordclaw: Hidden Port -- 異形の影（生者）：仮面A：２刀爪：隠れ港
-123010 The Shadow of the Metamorphosis (Born): Mask A: Dagger: Stabbing Sword: Forest of Shadows of The Shadows -- 異形の影（生者）：仮面A：短剣：刺突剣：虚ろの影の森
-123022 The Shadow of the Metamorphosis (Born): Mask B:2 Swordclaw: Hidden Port -- 異形の影（生者）：仮面B：２刀爪：隠れ港
-124000 Assassin (Born): Mask A:2 Swordclaw: Valley of The Reservoir -- 暗殺者（生者）：仮面A：２刀爪：溜まりの谷
-124010 Assassin (Born): Mask A: Dagger: Valley of The Reservoir -- 暗殺者（生者）：仮面A：短剣：溜まりの谷
-124020 Assassin (Live Man): Mask A: Song Sword: Valley of The Reservoir -- 暗殺者（生者）：仮面A：曲剣：溜まりの谷
-124030 Assassin (Born): Mask A: Bow: Valley of The Reservoir -- 暗殺者（生者）：仮面A：弓：溜まりの谷
-124040 Assassin (Born): Mask B:2 Swordclaw: Valley of The Reservoir -- 暗殺者（生者）：仮面B：２刀爪：溜まりの谷
-124050 Assassin (Born): Mask B: Dagger: Valley of The Reservoir -- 暗殺者（生者）：仮面B：短剣：溜まりの谷
-124060 Assassin (Born): Mask B: Song Sword: Valley of The Reservoir -- 暗殺者（生者）：仮面B：曲剣：溜まりの谷
-124070 Assassin (Born): Mask B: Bow: Valley of The Reservoir -- 暗殺者（生者）：仮面B：弓：溜まりの谷
-125004 Undead Citizen: Explosion: Saint's Tomb -- アンデッド市民：爆発：聖人墓所
-125009 Undead Citizens: Explosion: Soul Black: Prison of Oblivion -- アンデッド市民：爆発：ソウルブラック：忘却の牢
-125010 Undead Citizen: Explosion: Trap After Boss -- アンデッド市民：爆発：ボス後トラップ
-125011 Undead Citizens: Normal: Prison of Oblivion -- アンデッド市民：ノーマル：忘却の牢
-125012 Undead Citizen: Normal: Prison of Oblivion (Tower of Sinners) -- アンデッド市民：ノーマル：忘却の牢（罪人の塔）
-125013 Undead Citizen: Normal: Kuzbottom -- アンデッド市民：ノーマル：クズ底
-125014 Undead Citizen: Acid: The Nest of The Guarded Dragon -- アンデッド市民：酸：守り竜の巣
-125015 Undead Citizens: Petrified: Prisons of Oblivion -- アンデッド市民：石化：忘却の牢
-125016 Undead Citizen: Explosion: Soul Black: Kuz Bottom -- アンデッド市民：爆発：ソウルブラック：クズ底
-127000 Dead Workers (Dead): Bare Hands: Hunting Forest -- 死者の労働者（亡者）：素手：狩猟の森
-127001 Dead Workers (Dead): Bare Hands: The Tomb of Immortality -- 死者の労働者（亡者）：素手：不死廟
-127002 Dead Workers (Dead): Bare hands: Gerdraza Kobos -- 死者の労働者（亡者）：素手：ジェルドラザコボス戦
-127003 Dead Workers (Dead): Bare Hands: Valley of The Reservoir -- 死者の労働者（亡者）：素手：溜まりの谷
-127004 Dead Workers (Dead): Bare hands: The Tomb of the Saints -- 死者の労働者（亡者）：素手：聖人墓所
-127005 The Worker of the Dead :Bare hands: The Old Dark Hole -- 死者の労働者（亡者）：素手：古き闇の穴
-127010 Dead Workers (Dead): Torch: Hunting Forest -- 死者の労働者（亡者）：松明：狩猟の森
-127011 Dead Workers (Dead): Torch: The Tomb of Immortality -- 死者の労働者（亡者）：松明：不死廟
-127020 Dead Workers (Dead): Broken Sword: Hunting Forest -- 死者の労働者（亡者）：折れた直剣：狩猟の森
-127030 Dead Workers (Dead): Bare Hands (Equipment 4): Valley of The Reservoir -- 死者の労働者（亡者）：素手（装備４）：溜まりの谷
-129000 The Keeper of the Forest: Cane: The Old Dark Hole -- 森の番人：杖：古き闇の穴
-129010 The Keeper of the Forest: Bell: The Old Dark Hole -- 森の番人：ベル：古き闇の穴
-131000 Cleric: War: Altar of Amana -- クレリック：戦鎚：アマナの祭壇
-131010 Cleric: Bell: Altar of Amana -- クレリック：ベル：アマナの祭壇
-131020 Cleric: Cane: Altar of Amana -- クレリック：杖：アマナの祭壇
-132003 Skeleton: 2 Swords: Reservoir Valley *Death -- スケルトン：２刀流：溜まりの谷　※死亡する
-132013 Skeleton: One-handed sword: Maduro * Dead -- スケルトン：片手曲剣：マデューラ　※死亡する
-132020 Skeleton: One-handed stabbing: Hunting Forest *Immortality -- スケルトン：片手刺突：狩猟の森　※不死
-132022 Skeleton: One-handed stabbing: Hunting forest ※ dead, skeleton aristocratic war version -- スケルトン：片手刺突：狩猟の森　※死亡する・スケルトン貴族戦版
-132030 Skeleton: Bow: Hunting Forest *Immortality -- スケルトン：弓：狩猟の森　※不死
-132090 Skeleton: For cut scenes: Hunting Forest -- スケルトン：カットシーン用：狩猟の森
-133001 Wheel skeleton: bare hands: hunting forest, skeleton aristocratic war version -- 車輪スケルトン：素手：狩猟の森・スケルトン貴族戦版
-133010 Wheel Skeleton: Song Sword: Hunting Forest -- 車輪スケルトン：曲剣：狩猟の森
-133020 Wheel Skeleton: The Great Sword: Hunting Forest -- 車輪スケルトン：大曲剣：狩猟の森
-134000 Dwarf: The Door way of Faros -- ドワーフ：ファロスの扉道
-135000 Heavy Dwarf: Two-Handed Axe x 2: Head A: Faros's Doorway -- 重ドワーフ：両手斧×２：頭部A：ファロスの扉道
-135010 Heavy Dwarf: Two-Handed Mallet: Head A: The Door Way of Faros -- 重ドワーフ：両手槌：頭部A：ファロスの扉道
-135020 Heavy Dwarf: Bow: Head A: The Door way of Faros -- 重ドワーフ：弓：頭部A：ファロスの扉道
-135030 Heavy Dwarf: Two-Handed Axe x 2: Head B: Faros Door Way -- 重ドワーフ：両手斧×２：頭部B：ファロスの扉道
-135040 Heavy Dwarf: Two-Handed Mallet: Head B: The Door Way of Faros -- 重ドワーフ：両手槌：頭部B：ファロスの扉道
-135050 Heavy Dwarf: Bow: Head B: The Door way of Faros -- 重ドワーフ：弓：頭部B：ファロスの扉道
-137010 Necromancer (Immortal): Shield: Cane: Anne Deal's House -- ネクロマンサー（イモータル）：盾：杖：アン・ディールの館
-137021 Necromancer (Immortal): Shield: Cane: Boss: Kiseki Street Gerdra -- ネクロマンサー（イモータル）：盾：杖：ボス戦用：輝石街ジェルドラ
-137022 Necromancer (Immortal): Shield: Cane: Altar of Amana  -- ネクロマンサー（イモータル）：盾：杖：アマナの祭壇 
-138000 Tortureman: Torture Instruments: Hunting Forest -- 拷問人：拷問器具：狩猟の森
-138001 Tortureman: Torture Instruments: Soul Black: The Forest of Hunting -- 拷問人：拷問器具：ソウルブラック：狩猟の森
-138010 Tortureman: Whip: Hunting Forest -- 拷問人：鞭：狩猟の森
-138011 Tortureman: Whip: Soul Black: Hunting Forest -- 拷問人：鞭：ソウルブラック：狩猟の森
-139000 Man-made Immortal: Sickle: Hunting Forest -- 人造不死人：鎌：狩猟の森
-139001 Man-made Immortal: Sickle: Valley of The Reservoir -- 人造不死人：鎌：溜まりの谷
-139008 Man-made Immortals: Sickle: Soul Black: Hunting Forest -- 人造不死人：鎌：ソウルブラック：狩猟の森
-139009 Man-made Immortal: Sickle: Soul Black: Valley of The Reservoir -- 人造不死人：鎌：ソウルブラック：溜まりの谷
-139010 Man-made Immortal: Bare Hands: Valley of The Reservoir -- 人造不死人：素手：溜まりの谷
-141000 Reinforced Immortals: Anne Deal's House -- 強化不死人：アン・ディールの館
-141002 Strengthening Immortals: Prison of Oblivion -- 強化不死人：忘却の牢
-146000 Deceased: The Clothes of the Rich♂: Dagger: The Bright Stone Town Gerdra -- 亡者：富裕層の服♂：短剣：輝石街ジェルドラ
-146010 Deceased: The Clothes of the Wealthy ♂: Stabbing Sword: Kiseki Street Gerdra -- 亡者：富裕層の服♂：刺突剣：輝石街ジェルドラ
-147001 Deceased: Sick ♂: Altar of Amana -- 亡者：病人の服♂：アマナの祭壇
-147004 Dead: Sick ♂: Gerdraza Kobos -- 亡者：病人の服♂：ジェルドラザコボス戦
-148000 Deceased: Farmer's Clothes ♂: Two Hands Mallet: Head Part 1: Kiseki Street Gerdra -- 亡者：農民の服♂：両手槌：頭パーツ１：輝石街ジェルドラ
-148010 Deceased: Farmer's Clothes ♂: Two Hands Mallet: Head Part 2: Kiseki Street Gerdra -- 亡者：農民の服♂：両手槌：頭パーツ２：輝石街ジェルドラ
-148020 Deceased: Farmer's Clothes ♂: Two-Handed Sickle: Head Part 1: Kiseki Street Gerdra -- 亡者：農民の服♂：両手鎌：頭パーツ１：輝石街ジェルドラ
-148030 Dead: Farmer's Clothes ♂: Two-Handed Sickle: Head Part 2: Kiseki Street Gerdra -- 亡者：農民の服♂：両手鎌：頭パーツ２：輝石街ジェルドラ
-148040 Deceased: Farmer's Clothes ♂: Torch: Head Part 1: Kiseki Street Gerdra -- 亡者：農民の服♂：松明：頭パーツ１：輝石街ジェルドラ
-148041 Deceased: Farmer's Clothing ♂: Torch: Head Part 2: Kiseki Street Gerdra -- 亡者：農民の服♂：松明：頭パーツ２：輝石街ジェルドラ
-149010 Deceased: Steelman_ No Apron: Valley of The Reservoir -- 亡者：製鉄所員_エプロン無し：溜まりの谷
-150000 Statue: Knight: Castle of The King D'Angheig -- スタチュー：ナイト：王城ドラングレイグ
-151000 Kingdom Soldier Heavy Warrior: Color (1): Two-Handed Mallet: Molten Castle -- 王国兵重戦士：色①：両手戦槌：熔鉄城
-151200 Kingdom Soldier Warrior: Color (3): Two-Handed Battle Hammer: The Forest of Decayed Giants -- 王国兵重戦士：色③：両手戦槌：朽ちた巨人の森
-151208 Kingdom Soldier Warrior: Color (3): Two-Handed Mallet: Soul Black: Kiseki-gai Gerdra -- 王国兵重戦士：色③：両手戦槌：ソウルブラック：輝石街ジェルドラ
-151209 Kingdom Soldier Warrior: Color (3): Two-Handed Mallet: Soul Black: The Forest of Decaying Giants -- 王国兵重戦士：色③：両手戦槌：ソウルブラック：朽ちた巨人の森
-151210 Kingdom Soldier Warrior: Color (3): One-handed club: Kiseki-gai Gerdra -- 王国兵重戦士：色③：片手棍棒：輝石街ジェルドラ
-152000 Kingdom Soldier Warrior: Two-Handed Sword: Castle of The King D'Anggreig -- 王国兵戦士：両手剣：王城ドラングレイグ
-152001 Kingdom Soldier Warrior: Two-Handed Sword: King's Castle D'Angreig: Infinite Springing Spirit -- 王国兵戦士：両手剣：王城ドラングレイグ：無限湧き霊体
-152002 Kingdom Soldier Warrior: Two-Handed Sword: Prison of Oblivion -- 王国兵戦士：両手剣：忘却の牢
-152010 Kingdom Warrior: Crossbow: Castle of The King D'Angreig -- 王国兵戦士：クロスボウ：王城ドラングレイグ
-152011 Kingdom Soldier Warrior: Crossbow: Prison of Oblivion -- 王国兵戦士：クロスボウ：忘却の牢
-153000 Royal Guard: Axe Spear: Castle of the King D'Angreig -- 王国兵護衛兵：斧槍：王城ドラングレイグ
-153002 Royal Guard: Axe Spear: Altar of Amana -- 王国兵護衛兵：斧槍：アマナの祭壇
-153003 Royal Guard: Axe Spear: Immortal Mausoleum -- 王国兵護衛兵：斧槍：不死廟
-153010 Royal Guard: Oversized Sword: King's Castle D'Angreig -- 王国兵護衛兵：特大剣：王城ドラングレイグ
-153012 Royal Guard: Oversized Sword: Altar of Amana -- 王国兵護衛兵：特大剣：アマナの祭壇
-153013 Royal Guard: Extra Large Sword: Tomb of Immortality -- 王国兵護衛兵：特大剣：不死廟
-154000 Skeleton Aristocracy: Axe Spear: Hunting Forest -- スケルトン貴族：斧槍：狩猟の森
-154010 Skeleton Aristocracy: Sickle: Hunting Forest -- スケルトン貴族：鎌：狩猟の森
-154020 Skeleton Aristocracy: Wand: Hunting Forest -- スケルトン貴族：杖：狩猟の森
-155000 Lizard Man: Altar of Amana -- トカゲ人：アマナの祭壇
-156011 Helmet Skeleton Without Armor : Helmet : Swords & Shields - Hunting Forest * Death -- 兜スケルトン：鎧なし：兜：曲剣＆盾：狩猟の森　※死亡する
-157000 Armor Skeleton: No Armor: Head Equipment: Curved Sword x 2: Hunting Forest ※ Immortality -- 鎧スケルトン：鎧なし：頭装備なし：曲剣×２：狩猟の森　※不死
-157001 Armor Skeleton: No Armor: Helmet: Song Sword x 2: Hunting Forest *Immortality -- 鎧スケルトン：鎧なし：兜：曲剣×２：狩猟の森　※不死
-157002 Armor Skeleton: No Armor: Head Equipment: Song Sword x 2: Hunting Forest * Death -- 鎧スケルトン：鎧なし：頭装備なし：曲剣×２：狩猟の森　※死亡する
-157003 Armor Skeleton: Armor: Crown: Curved Sword x 2: Hunting Forest * Death -- 鎧スケルトン：鎧あり：王冠：曲剣×２：狩猟の森　※死亡する
-157004 Armor Skeleton: No Armor: Bandana: Song Sword x 2: Hunting Forest *Immortality -- 鎧スケルトン：鎧なし：バンダナ：曲剣×２：狩猟の森　※不死
-157005 Armor Skeleton: No Armor: Head Equipment: Song Sword x 2: Death penalty *Immortality -- 鎧スケルトン：鎧なし：頭装備なし：曲剣×２：不死刑場　※不死
-157006 Armor Skeleton: No Armor: Helmet: Swords x 2: Death penalty *Immortality -- 鎧スケルトン：鎧なし：兜：曲剣×２：不死刑場　※不死
-157010 Armor Skeleton: No Armor: Head Equipment: Song Sword & Shield: Hunting Forest * Immortality -- 鎧スケルトン：鎧なし：頭装備なし：曲剣＆盾：狩猟の森　※不死
-157011 Armor Skeleton: No Armor: Helmet: Song Sword & Shield : Hunting Forest *Immortality -- 鎧スケルトン：鎧なし：兜：曲剣＆盾：狩猟の森　※不死
-157012 Armor Skeleton : No Armor : Head Equipped : Song Sword & Shield : Hunting Forest * Death -- 鎧スケルトン：鎧なし：頭装備なし：曲剣＆盾：狩猟の森　※死亡する
-157013 Armor Skeleton S.A.M.A.N.Â-Swords-Swords-Shield-Hunting Forest *Dead Skeleton Aristocratic War Edition -- 鎧スケルトン：鎧あり：兜：曲剣＆盾：狩猟の森　※死亡する・スケルトン貴族戦版
-157014 Armor Skeleton S. Armor No Armor No Head Equipped With No Sword - Shield - Death penalty *Immortality -- 鎧スケルトン：鎧なし：頭装備なし：曲剣＆盾：不死刑場　※不死
-157015 Armor Skeleton : No Armor : Helmet : Swords & Shields * Death penalty *Immortality -- 鎧スケルトン：鎧なし：兜：曲剣＆盾：不死刑場　※不死
-157020 Armor Skeleton: No Armor: Head Equipment: Stabbing Sword: Hunting Forest * Immortality -- 鎧スケルトン：鎧なし：頭装備なし：刺突剣：狩猟の森　※不死
-157021 Armor Skeleton: No Armor: Helmet: Stabbing Sword: Hunting Forest *Immortality -- 鎧スケルトン：鎧なし：兜：刺突剣：狩猟の森　※不死
-157022 Armor Skeleton: No Armor: Head Equipment: Stabbing Sword: Hunting Forest * Death -- 鎧スケルトン：鎧なし：頭装備なし：刺突剣：狩猟の森　※死亡する
-157023 Armor Skeleton: No Armor: Head Equipped: Stabbing Sword : Death penalty *Immortality -- 鎧スケルトン：鎧なし：頭装備なし：刺突剣：不死刑場　※不死
-157024 Armor Skeleton: No Armor: Helmet: Stabbing Sword : Death penalty *Immortality -- 鎧スケルトン：鎧なし：兜：刺突剣：不死刑場　※不死
-157030 Armor Skeleton: No Armor: Head Equipment: Two-Handed Bow: Hunting Forest * Immortality -- 鎧スケルトン：鎧なし：頭装備なし：両手弓：狩猟の森　※不死
-157031 Armor Skeleton: No Armor: Helmet: Two-Handed Bow: Hunting Forest * Immortality -- 鎧スケルトン：鎧なし：兜：両手弓：狩猟の森　※不死
-157032 Armor Skeleton: No Armor: Crown: Two-Handed Bow: Hunting Forest * Immortality -- 鎧スケルトン：鎧なし：王冠：両手弓：狩猟の森　※不死
-157033 Armor Skeleton: No Armor: Helmet: Two-Handed Bow: Death penalty ※Immortality -- 鎧スケルトン：鎧なし：兜：両手弓：不死刑場　※不死
-201100 Slave Beast: Piglet: Maduro (also in The Bright Stone Town Gerdra) -- 奴隷獣：子豚：マデューラ（輝石街ジェルドラ兼用）
-202100 Slave Beast (Wild): For The Gerdra, A Ieishi Street -- 奴隷獣（野生）：輝石街ジェルドラ兼用
-203000 Parasite Spider: Kiseki Street Gerdra -- パラサイトスパイダー：輝石街ジェルドラ
-203001 Parasite Spider: Poison: Kiseki Street Gerdra -- パラサイトスパイダー：毒：輝石街ジェルドラ
-203002 Parasite Spider: Boss For War: Kiseki Street Gerdra -- パラサイトスパイダー：ボス戦用：輝石街ジェルドラ
-203009 Parasite Spider: Soul Black: Kiseki Street Gerdra -- パラサイトスパイダー：ソウルブラック：輝石街ジェルドラ
-204000 Great Moss: Hunting Forest -- グレートモス：狩猟の森
-205000 Poison Horn: Poison: Valley of The Reservoir -- 毒角虫：毒：溜まりの谷
-205001 Poison Hornworm: Poison: Scum Bottom -- 毒角虫：毒：クズ底
-205100 Poison Hornworm: Acid: Kiseki Town Gerdra -- 毒角虫：酸：輝石街ジェルドラ
-205102 Poison Hornworm: Acid: Altar of Amana -- 毒角虫：酸：アマナの祭壇
-206000 Needle maggots: scum bottom -- 針ウジ虫：クズ底
-209000 Hunting Dog: Color (1): Anne Deal's House -- 狩猟犬：色①：アン・ディールの館
-209002 Hunting Dog: Color (1): Scum Bottom -- 狩猟犬：色①：クズ底
-210000 Basilisk: Color (1): Forest of Shadows -- バジリスク：色①：虚ろの影の森
-210001 Basilisk: Color (1): Scum Bottom -- バジリスク：色①：クズ底
-210002 Basilisk: Color (1): Anne Deal's House -- バジリスク：色①：アン・ディールの館
-210003 Basilisk: Color (1): The Tomb of the Saints -- バジリスク：色①：聖人墓所
-210010 Basilisk: Eyeball Crush: Kiseki Street Gerdra -- バジリスク：目玉潰れ：輝石街ジェルドラ
-212000 Wyburn: Anne Deal's House -- ワイバーン：アン・ディールの館
-212001 Wyburn: The Nest of The Guard Dragon (1) -- ワイバーン：守り竜の巣①
-212002 Wyburn: The Nest of The Guard Dragon (2) -- ワイバーン：守り竜の巣②
-212003 Wyburn: The Nest of The Guard Dragon (3) -- ワイバーン：守り竜の巣③
-213000 Stone Defense: The Forest of Decayed Giants -- 石守：朽ちた巨人の森
-213002 Stone Defense: Hidden Port -- 石守：隠れ港
-213003 Stone Defense: Scum Bottom -- 石守：クズ底
-213004 Stone Defense: Altar of Amana -- 石守：アマナの祭壇
-213005 Stone Defense: Molten Iron Castle -- 石守：熔鉄城
-213006 Stone Defense: The Door Way of Faros -- 石守：ファロスの扉道
-213007 Stone Guard: King's Castle Drunegueig -- 石守：王城ドラングレイグ
-213008 Ishimori: Kiseki-gai Gerdra -- 石守：輝石街ジェルドラ
-213009 Stone Defense: The Nest of the Guard Dragon -- 石守：守り竜の巣
-213010 Stone Defense: Valley of The Reservoir -- 石守：溜まりの谷
-213011 Stone Defense: The Forest of Shadows -- 石守：虚ろの影の森
-213012 Stone Guard: The Tomb of the Saints -- 石守：聖人墓所
-213100 Stone Defense: Explosion: Kiseki Street Gerdra -- 石守：爆発：輝石街ジェルドラ
-213101 Stone Defense: Explosion: The Old Dark Hole -- 石守：爆発：古き闇の穴
-214001 Fang Beast: Kiseki Street Gerdra  -- 牙獣：輝石街ジェルドラ 
-216000 Door Possessed: Tomb of Immortality -- 扉憑き：不死廟
-217000 Hidethe Rin in The Dark: Hidden Port -- 闇に隠れし者：隠れ港
-220000 Giant VenomOus Worm: Acid: Valley of Reservoirs -- 巨大毒角虫：酸：溜まりの谷
-220001 Giant Venomous Horn: Acid: The House of Anne Deal -- 巨大毒角虫：酸：アン・ディールの館
-220002 Giant VenomOus Worm: Acid: Altar of Amana -- 巨大毒角虫：酸：アマナの祭壇
-222000 Giant Basilisk: Color (2): Anne Deal's House -- 巨大バジリスク：色②：アン・ディールの館
-222001 Giant Basilisk: Color (2): Hollow Shadow Forest -- 巨大バジリスク：色②：虚ろな影の森
-223000 Corpse Asse Rat: Color (1): The Door Way of Faros -- 死体あさりネズミ：色①：ファロスの扉道
-224000 Coal Tar: Scum Bottom -- コールタール：クズ底
-226000 Dog Mouse: Saint's Tomb -- 犬ネズミ：聖人墓所
-226001 Dog Rat: Boss War: Saint's Tomb -- 犬ネズミ：ボス戦用：聖人墓所
-226100 Dog Mouse: Color (2): Saint's Tomb -- 犬ネズミ：色②：聖人墓所
-226200 The King of Rats: The Door way of Faros -- ネズミの王：ファロスの扉道
-226201 Rat King: Ghosts: Generic -- ネズミの王：幽霊：汎用
-226202 King of Rats: The Tomb of the Saints -- ネズミの王：聖人墓所
-227000 Wild Dogs: Prisons of Oblivion -- 野犬：忘却の牢
-227001 Stray Dog: Hidden Port -- 野犬：隠れ港
-227009 Wild Dog: Soul Black: Prison of Oblivion -- 野犬：ソウルブラック：忘却の牢
-300000 Auger :Color (1): Gap Sinus -- オーガ（生者）：色①：隙間の洞
-300001 Auger: Color (1): Altar of Amana -- オーガ（生者）：色①：アマナの祭壇
-300002 Auger : Color (1): Anne Deal's House -- オーガ（生者）：色①：アン・ディールの館
-301001 Wandering Knight (Dead): One Hand Sword: The Forest of Decaying Giants -- 彷徨える騎士（亡者）：片手剣：朽ちた巨人の森
-301003 Wandering Knight (Dead): One Hand Sword: The Shadow of the Imaginary Forest -- 彷徨える騎士（亡者）：片手剣：虚ろの影の森
-301010 Wandering Knight (Dead): Spear A: Prison of Oblivion -- 彷徨える騎士（亡者）：槍A：忘却の牢
-301011 Wandering Knight (Dead): Spear A: Forest of Hunting -- 彷徨える騎士（亡者）：槍A：狩猟の森
-301020 Wandering Knight (Dead): Spear B: The Nest of the Guarded Dragon -- 彷徨える騎士（亡者）：槍B：守り竜の巣
-301030 Wandering Knight (Dead): Spear C: Altar of Amana -- 彷徨える騎士（亡者）：槍C：アマナの祭壇
-302000 Prison Man (Dead): Prison of Oblivion -- 獄吏（亡者）：忘却の牢
-302009 Prison Man (Deceased): Prison of Oblivion: Soul Black -- 獄吏（亡者）：忘却の牢：ソウルブラック
-303300 Double-sided warrior: Snake head: Hidden Port -- 両面戦士：ヘビ頭：隠れ港
-303301 Two-sided warrior: Snake head: Forest of shadows in the shadows of the emptiness -- 両面戦士：ヘビ頭：虚ろの影の森
-304010 Banshee (deceased): Beautiful Face: Altar of Amana -- バンシー（亡者）：美女顔：アマナの祭壇
-305000 Damon Knight (Deceased): Molten Castle -- デーモンナイト（亡者）：熔鉄城
-306000 Damon Armor (Dead): Sword: Molten Castle -- デーモン鎧（亡者）：刀：熔鉄城
-306008 Damon Armor (Deceased): Sword: Molten Castle: Full-Body Flame Soul Black -- デーモン鎧（亡者）：刀：熔鉄城：全身炎ソウルブラック
-306009 Damon Armor (Dead): Sword: Molten Castle: Soul Black -- デーモン鎧（亡者）：刀：熔鉄城：ソウルブラック
-306010 Damon Armor (Dead): Bow: Molten Castle -- デーモン鎧（亡者）：弓：熔鉄城
-306011 Damon Armor (Dead): Bow: King's Castle Drangreig -- デーモン鎧（亡者）：弓：王城ドラングレイグ
-307000 Durahan (deceased): One-handed sword and shield: Forest of Shadows of Emptiness -- デュラハン（亡者）：片手剣・盾：虚ろの影の森
-307001 Durahan (deceased): Two-swords style: Kiseki-cho Gerdra -- デュラハン（亡者）：二刀流：輝石街ジェルドラ
-307101 Durahan (Born): Ghost: The Forest of Shadows -- デュラハン（生者）：幽霊：虚ろの影の森
-307108 Durahan (Born): White Spirit: The Nest of the Guarded Dragon -- デュラハン（生者）：白霊：守り竜の巣
-307109 Durahan (born): White Spirit: King's Castle Drangreig -- デュラハン（生者）：白霊：王城ドラングレイグ
-307110 Durahan (born): Head only: Forest of shadows of emptiness -- デュラハン（生者）：頭だけ：虚ろの影の森
-308000 Lion Warrior: The Forest of The Shadow of The Void -- 獅子戦士：虚ろの影の森
-308100 Lion Warrior (2): Forest of Shadows -- 獅子戦士②：虚ろの影の森
-309000 Giant Senior Soldier (Giant): Memories of giants -- 巨人上級兵士（巨人）：巨人の記憶
-309001 Giant Senior Soldier (Giant): Kuzbottom -- 巨人上級兵士（巨人）：クズ底
-309600 New Giant Senior Soldier (Deceased): The Decaying Giant Forest -- 新・巨人上級兵士（亡者）：朽ちた巨人の森
-309700 New Giant Senior Soldier (Live): Memories of Giants -- 新・巨人上級兵士（生者）：巨人の記憶
-311000 Cavalry: Cavalry Soldiers: Valley of The Reservoir -- 騎人兵：騎乗兵士：溜まりの谷
-312000 Immortal Senior Soldier (Immortal): Sickle; Robe: The Nest of the Guarded Dragon -- イモータル上級兵士（イモータル）：鎌；ローブ：守り竜の巣
-312001 Immortal Senior Soldier (Immortal): Sickle; Robe: The Immortal Mausoleum -- イモータル上級兵士（イモータル）：鎌；ローブ：不死廟
-312010 Immortal Senior Soldier (Immortal): Spear: Robe: The Nest of the Guarded Dragon -- イモータル上級兵士（イモータル）：槍：ローブ：守り竜の巣
-312011 Immortal Senior Soldier (Immortal): Spear: Robe: Valley of The Reservoir -- イモータル上級兵士（イモータル）：槍：ローブ：溜まりの谷
-312021 Immortal Senior Soldier (Immortal): Sickle: Armor: The Immortal Mausoleum -- イモータル上級兵士（イモータル）：鎌：鎧：不死廟
-312031 Immortal Senior Soldier (Immortal): Spear: Armor: Valley of The Reservoir -- イモータル上級兵士（イモータル）：槍：鎧：溜まりの谷
-312032 Immortal Senior Soldier (Immortal): Spear: Armor: Immortal Mausoleum -- イモータル上級兵士（イモータル）：槍：鎧：不死廟
-312040 Immortal Senior Soldier (Immortal): Sickle: Naked: The Nest of the Guarded Dragon -- イモータル上級兵士（イモータル）：鎌：裸：守り竜の巣
-312050 Immortal Senior Soldier (Immortal): Spear: Naked: The Nest of the Guarded Dragon -- イモータル上級兵士（イモータル）：槍：裸：守り竜の巣
-313000 Falcon Warrior Swords - Shield : No Hawk : Prison of Oblivion -- 鷹匠戦士：直剣＆盾：鷹なし：忘却の牢
-313010 Falcon Warrior Swords & Shields: No Hawk: Prison of Oblivion -- 鷹匠戦士：刺剣＆盾：鷹なし：忘却の牢
-313021 Takataku Warrior Sashimi & Hawk: Gap's Cave (Lap 2) -- 鷹匠戦士：刺剣＆鷹：隙間の洞（２周目）
-313031 Falcon Warrior: Bow: No Hawk: Gap Cave (Lap 2) -- 鷹匠戦士：弓：鷹なし：隙間の洞（２周目）
-314000 Elephant (Deceased): Spear Axe: The Door way of Faros -- 象人（亡者）：槍斧：ファロスの扉道
-315000 Elephant Man (Born): King's Castle DrangGreig -- 象人（生者）：王城ドラングレイグ
-316001 Captured Magician (Live Man): Valley of The Reservoir -- 捕らわれた魔導士（生者）：溜まりの谷
-317000 Professor of the Dragon: Anne Deal's House -- 龍の教授：アン・ディールの館
-318000 Bay Grant: No Luggage: King's Castle D'Angreig -- ベイグラント:荷物なし：王城ドラングレイグ
-318010 Bay Grant: With Luggage: The Decaying Giant Forest -- ベイグラント:荷物あり：朽ちた巨人の森
-318011 Bay Grant: With Luggage: Decaying Giant Forest Field Placement -- ベイグラント:荷物あり：朽ちた巨人の森　フィールド配置
-318020 Bay Grant: Luggage: Zako Molten Castle -- ベイグラント:荷物あり：熔鉄城ザコ
-319000 Damon Armor (Deceased): Mass Production: Sword: Molten Castle -- デーモン鎧（亡者）：量産型：刀：熔鉄城
-319009 Damon Armor (Deceased): Mass Production: Sword: Molten Castle: Soul Black -- デーモン鎧（亡者）：量産型：刀：熔鉄城：ソウルブラック
-319010 Damon Armor (Deceased): Mass Production Type: Bow: Molten Iron Castle -- デーモン鎧（亡者）：量産型：弓：熔鉄城
-321000 [] Mimic: Tree: The Nest of the Guarddragon -- ν－ミミック：木：守り竜の巣
-321001 [] Mimick: Wood: Scum Bottom -- ν－ミミック：木：クズ底
-321002 η-mimic: Tree: Altar of Amana -- ν－ミミック：木：アマナの祭壇
-321003 [] Mimic: Tree: Valley of The Reservoir -- ν－ミミック：木：溜まりの谷
-321004 η-mimic: Wood: The door way of Faros -- ν－ミミック：木：ファロスの扉道
-321010 η-Mimic: Iron: The House of Anne Deal -- ν－ミミック：鉄：アン・ディールの館
-321011 []-Mimic:Iron:Molten Iron Castle -- ν－ミミック：鉄：熔鉄城
-321012 []-Mimic: Iron: The Tomb of Immortality -- ν－ミミック：鉄：不死廟
-324000 Gargoyle: Prison of Oblivion -- ガーゴイル：忘却の牢
-325000 Warrior in the Mirror: The Prison Boss of Oblivion -- 鏡の中の戦士：忘却の牢ボス
-325010 Warrior in the Mirror: King's Castle D'Angreig -- 鏡の中の戦士：王城ドラングレイグ
-326000 Butcher: Kuzbottom -- ブッチャー：クズ底
-327000 Bone Dragon: Anne Deal's House -- 骨ドラゴン：アン・ディールの館
-330000 Ancient Warriors: Two-Handed Sword & Medium Shield: Heide Great Fire Tower -- 古代の戦士：両手剣＆中盾：ハイデ大火塔
-330010 Ancient Warriors: Oversized Sword: Heide Great Fire Tower -- 古代の戦士：特大剣：ハイデ大火塔
-330019 Ancient Warriors: Oversized Sword: Strong: Heide Great Fire Tower -- 古代の戦士：特大剣：強い：ハイデ大火塔
-330040 Ancient Warriors: Two-Handed Mallet: Heide Great Fire Tower -- 古代の戦士：両手槌：ハイデ大火塔
-330049 Ancient Warriors: Two-Handed Mallet: Strong: Heide Great Fire Tower -- 古代の戦士：両手槌：強い：ハイデ大火塔
-331002 Demon Heavy Soldier: Two-Handed Sword & Medium Shield: The Nest of The Guard Dragon -- デーモン重兵士：両手剣＆中盾：守り竜の巣
-331011 Demon Heavy Soldier: Oversized Sword: The Nest of the Guarddragon -- デーモン重兵士：特大剣：守り竜の巣
-331021 Demon Heavy Soldier: Two-Handed Long Axe: The Nest of the Guard Dragon -- デーモン重兵士：両手長斧：守り竜の巣
-331031 Demon Heavy Soldier: Two-Handed Mallet: The Nest of the Guard Dragon -- デーモン重兵士：両手槌：守り竜の巣
-331041 Demon Heavy Soldier: One Hand Mallet: The Nest of the Guard Dragon -- デーモン重兵士：片手槌：守り竜の巣
-332000 Queen Knight A: Castle Of The King D'Angreig -- 王妃の騎士A：王城ドラングレイグ
-333000 Queen Knight B: The Tomb of Immortality -- 王妃の騎士B：不死廟
-334000 Queen Knight C: Castle Of The King D'Angreig -- 王妃の騎士C：王城ドラングレイグ
-337000 Amazing Dead: Bare hands: Hunting Forest -- すごい亡者：素手：狩猟の森
-337002 Amazing Dead: Bare Hands: Scum Bottom -- すごい亡者：素手：クズ底
-337003 Amazing Dead: Bare hands: The Tomb of the Saints -- すごい亡者：素手：聖人墓所
-337010 Amazing Dead: Torch: Hunting Forest -- すごい亡者：松明：狩猟の森
-337011 Amazing Dead: Torch: Scum Bottom -- すごい亡者：松明：クズ底
-337020 Amazing Dead: Sword: The Forest of Hunting -- すごい亡者：剣：狩猟の森
-337022 Amazing Dead: Sword: Scum Bottom -- すごい亡者：剣：クズ底
-337023 Great Dead: Sword: The Tomb of the Saints -- すごい亡者：剣：聖人墓所
-500000 Javazahat: Valley of the Reservoir -- ジャバザハット：溜まりの谷
-501000 Naga: Valley of the Reservoir -- ナーガ：溜まりの谷
-502000 Manscorpion ♂: Forest of Shadows -- マンスコーピオン♂：虚ろの影の森
-502001 Manscorpion ♂: Ghosts: The Shadow of the Hollow -- マンスコーピオン♂：幽霊：虚ろの影の森
-502009 Manscorpion ♂: The White Spirit: The Forest of Shadows of The Shadows -- マンスコーピオン♂：白霊：虚ろの影の森
-503000 Manscorpion ♀: Forest of Shadows -- マンスコーピオン♀：虚ろの影の森
-504000 Mirror Knight: Castle of The King D'Angheig -- ミラーナイト：王城ドラングレイグ
-506100 Agaduran Stand: The Old Dark Hole -- アガドゥランのスタンド：古き闇の穴
-506101 Agaduran Stand (Alter): The Old Dark Hole -- アガドゥランのスタンド（分身）：古き闇の穴
-506200 Wormhole: The Old Dark Hole -- ワームホール：古き闇の穴
-506500 Tomb Guard: Tomb of Immortality -- 墓守：不死廟
-506501 Tomb Guard: Ghosts: General -- 墓守：幽霊：汎用
-506509 Tomb Guard: White Spirit: Tomb of Immortality -- 墓守：白霊：不死廟
-509000 Dark Bishop: Masked: The Tomb of Immortality -- ダークビショップ：仮面有り：不死廟
-509009 Dark Bishop: Masked: Tomb of Immortality: Soul Black -- ダークビショップ：仮面有り：不死廟：ソウルブラック
-511000 Phantom Knight (Mausoleum): Tomb of Immortality -- ファントムナイト（霊体）：不死廟
-512000 Phantom Mage (Mausoleum): Tomb of Immortality -- ファントムメイジ（霊体）：不死廟
-514600 The Old King: The Tomb of Immortality -- 年老いた王：不死廟
-600000 Old Dragon: The Second: The Nest of the Guarded Dragon -- 古の龍：２回目：守り竜の巣
-601000 Salamander: The Decaying Giant Forest -- サラマンダー：朽ちた巨人の森
-602000 Beautiful Voice Frog: The Altar of Amana -- 美声カエル：アマナの祭壇
-603000 Spider Queen: Jerdra, Kiseki Street -- 蜘蛛の女王：輝石街ジェルドラ
-603100 Spider Queen (Cliff): Kiseki Town Gerdra -- 蜘蛛の女王（崖）：輝石街ジェルドラ
-607000 Molten Iron Daemon: Molten Iron Castle -- 熔鉄デーモン：熔鉄城
-608000 Corrosive insect (outer shell): Scum bottom -- 腐食虫（外殻）：クズ底
-611010 Heavy Cavalry: Soldiers Only (Black): Bow: King's Castle DranGreig -- 重騎馬兵：兵士のみ（黒）：弓：王城ドラングレイグ
-611500 Heavy Cavalry: Soldiers Only (Red): King's Castle D'Angreig -- 重騎馬兵：兵士のみ（赤）：王城ドラングレイグ
-611510 Heavy Cavalry: Soldiers Only (Red): Heide Great Fire Tower -- 重騎馬兵：兵士のみ（赤）：ハイデ大火塔
-619110 Silver Chariots: Coalescence: Hunting Forest -- シルバーチャリオット：合体：狩猟の森
-625000 Ornstein: Heide Great Fire Tower -- オーンスタイン：ハイデ大火塔
-626000 Forgotten Sinners: The Prison of Oblivion -- 忘れられた罪人：忘却の牢
-627000 Queen's Armor: Castle D'Angegueig -- 王妃の鎧形態：王城ドラングレイグ
-628000 Giant Rat: The Door way of Faros -- 巨大ネズミ：ファロスの扉道
-700500 Dragon's Shrine Maiden for In Game: Madura -- 龍の巫女＿インゲーム用：マデューラ
-700501 Dragon's Shrine Maiden for In Game: Ghosts: Generic -- 龍の巫女＿インゲーム用：幽霊：汎用
-700502 Dragon's Shrine Maiden for In Game: King's Castle D'Angreig -- 龍の巫女＿インゲーム用：王城ドラングレイグ
-700503 Dragon's Shrine Maiden for In-Game: The Immortal Mausoleum -- 龍の巫女＿インゲーム用：不死廟
-700504 Dragon's Shrine Maiden for In-Game: The Nest of The Guard Dragon -- 龍の巫女＿インゲーム用：守り竜の巣
-701500 Dragon's Shrine Maiden (Child) for In-Game: Anne Deal's House -- 龍の巫女（子供）＿インゲーム用：アン・ディールの館
-703600 New Queen: King's Castle D'Angreig -- 新王妃：王城ドラングレイグ
-704500 Ladder shop_in-game: Reservoir Valley (maduro) -- 梯子屋＿インゲーム用：溜まりの谷（マデューラ兼用）
-704501 Ladder Shop for In Game: Ghosts: Generic -- 梯子屋＿インゲーム用：幽霊：汎用
-704510 Ladder shop_for the cut scene: The Valley of the Reservoir -- 梯子屋＿カットシーン用：溜まりの谷
-705000 Retired Fire Protection Woman 1_Cut Scene for: Gap's Cave -- 退役の火防女１_カットシーン用：隙間の洞
-705100 For retired fire-proof woman 2_cut scene: gap cave -- 退役の火防女２_カットシーン用：隙間の洞
-705300 For retired fire-proof woman 4_cut scene: gap cave -- 退役の火防女４_カットシーン用：隙間の洞
-705500 Retired Fire Protection Woman 1_In Game for: Gap's Cave -- 退役の火防女１＿インゲーム用：隙間の洞
-705501 Retired Fire Protection Woman 1_In For Game: Ghosts: Generic -- 退役の火防女１＿インゲーム用：幽霊：汎用
-705600 Retired Fire Protection Woman 2_In Game for: Gap's Cave -- 退役の火防女２＿インゲーム用：隙間の洞
-705601 Retired Fire Protection Woman 2_In For Game: Ghosts: Generic -- 退役の火防女２＿インゲーム用：幽霊：汎用
-705800 Retired Fire Protection Woman 3_In Game for: Gap's Cave -- 退役の火防女３＿インゲーム用：隙間の洞
-705801 Retired Fire Protection Woman 3_In For Game: Ghosts: Generic -- 退役の火防女３＿インゲーム用：幽霊：汎用
-721100 Prime Minister's Spirit: King's Castle D'Angreig -- 宰相の霊：王城ドラングレイグ
-723000 Housekeeper: Gap Cave -- 家政婦：隙間の洞
-723001 Housekeeper: Ghost: Generic -- 家政婦：幽霊：汎用
-723010 For the housekeeper_cut scene: gap cave -- 家政婦_カットシーン用：隙間の洞
-724000 Captain of the Kingdom: The Memory of the Giant -- 王国隊長：巨人の記憶
-724001 Captain of the Kingdom: Ghosts: General -- 王国隊長：幽霊：汎用
-724002 Captain of the Kingdom: The White Spirit: The Memory of the Giant -- 王国隊長：白霊：巨人の記憶
-725000 Pilgrims in the Abyss: The Forest of Shadows -- 深淵の巡礼者：虚ろの影の森
-725001 Pilgrims in the Abyss: Ghosts: General -- 深淵の巡礼者：幽霊：汎用
-725002 Pilgrims in the Abyss: The Scum Bottom -- 深淵の巡礼者：クズ底
-725003 Pilgrims in the Abyss: The King's Castle D'Angreig -- 深淵の巡礼者：王城ドラングレイグ
-726000 Dwarf Gabalance : Gap ing sinus -- ドワーフ・ガバランス ：隙間の洞
-726001 Dwarf Gabalance : Ghosts: Generic -- ドワーフ・ガバランス ：幽霊：汎用
-726002 Dwarf Gabalance : Valley of The Reservoir -- ドワーフ・ガバランス ：溜まりの谷
-726003 Dwarf Gabalance : Hidden Port -- ドワーフ・ガバランス ：隠れ港
-726004 Dwarf Gabalance : The Door way of Faros -- ドワーフ・ガバランス ：ファロスの扉道
-726005 Dwarf Gabalance : The Scum Bottom -- ドワーフ・ガバランス ：クズ底
-726006 Dwarf Gabalance : Altar of Amana -- ドワーフ・ガバランス ：アマナの祭壇
-730000 Mirror Knight Under Me 1_ Oversized Sword: Mirror Night -- ミラーナイトの下僕１_特大剣：ミラーナイト戦
-730001 Under Mirror Night 1_Oversized Sword: Anne Deal's House -- ミラーナイトの下僕１_特大剣：アン・ディールの館
-731010 Mirror Knight Under Me 2_Two-Handed Long Axe: Mirror Night -- ミラーナイトの下僕２_両手長斧：ミラーナイト戦
-731011 Mirror Night Under Me 2_Two-Handed Ax: Anne Deal's House -- ミラーナイトの下僕２_両手長斧：アン・ディールの館
-732000 Sorcerer Sinner 1: Prison of Oblivion -- 呪術師の罪人１：忘却の牢
-733000 Sorcerer Sinner 2: Prison of Oblivion -- 呪術師の罪人２：忘却の牢
-741000 Heartbroken Blue Warrior: Maduro -- 心折れた青教戦士：マデューラ
-741001 Heartbroken Blue Warrior: Ghosts: General -- 心折れた青教戦士：幽霊：汎用
-742000 Wandering Warrior One Hand Axe: The Bright Stone Town Gerdra -- 放浪の戦士 片手斧：輝石街ジェルドラ
-742001 Wandering Warrior: Ghosts: Generic -- 放浪の戦士：幽霊：汎用
-742002 Wandering Warrior One Hand Axe: The Forest of Shadows of The Shadows -- 放浪の戦士 片手斧：虚ろの影の森
-742003 Wandering Warrior One Hand Axe: Hunting Forest -- 放浪の戦士 片手斧：狩猟の森
-743000 Tsukiko Ya: The Decaying Giant Forest -- 月光爺：朽ちた巨人の森
-743001 Moonlight: Ghosts: General Purpose -- 月光爺：幽霊：汎用
-743002 Tsukiko:The Forest of The Shadow of The Void -- 月光爺：虚ろの影の森
-743003 Tsukiko Grandfather: King's Castle Drangreig -- 月光爺：王城ドラングレイグ
-743004 Tsukiko Grandfather: The Memory of the Giant -- 月光爺：巨人の記憶
-743006 Tsukiko Grandfather: White Spirit: For Mirror Knight -- 月光爺：白霊：ミラーナイト用
-743007 Tsukiko Ya: White Spirit: For Rasbos -- 月光爺：白霊：ラスボス用
-743008 Tsukiko Grandfather: The White Spirit: The Memory of the Giant -- 月光爺：白霊：巨人の記憶
-743009 Tsukiko Ya: White Spirit: Kiseki-gai Gerdra -- 月光爺：白霊：輝石街ジェルドラ
-744000 Patch: The Decaying Giant Forest -- パッチ：朽ちた巨人の森
-744001 Patch: Ghosts: Generic -- パッチ：幽霊：汎用
-744002 Patch: Kiseki Street Gerdra -- パッチ：輝石街ジェルドラ
-744003 Patch: Valley of The Reservoir -- パッチ：溜まりの谷
-744009 Patch: White Spirit: The Decaying Giant Forest -- パッチ：白霊：朽ちた巨人の森
-751000 Map: The Decaying Giant Forest (also for Maduro) -- 地図書き：朽ちた巨人の森（マデューラ兼用）
-751001 Atlas: Ghosts: General -- 地図書き：幽霊：汎用
-752000 The Lady Knight Akertilla: The House of Anne Deal -- 女騎士アーケルティーラ：アン・ディールの館
-752001 Female Knight Akertilla: Ghosts: Generic -- 女騎士アーケルティーラ：幽霊：汎用
-752002 Female Knight Akertilla: Prison of Oblivion -- 女騎士アーケルティーラ：忘却の牢
-752003 Female Knight Akertilla: Valley of The Reservoir -- 女騎士アーケルティーラ：溜まりの谷
-752004 Female Knight Akertilla: Hidden Port -- 女騎士アーケルティーラ：隠れ港
-752005 Female Knight Akertilla: Kuzbottom -- 女騎士アーケルティーラ：クズ底
-752006 Female Knight Akertilla: White Spirit: Kuzbottom -- 女騎士アーケルティーラ：白霊：クズ底
-752007 Female Knight Akertilla: White Spirit: Molten Iron Castle -- 女騎士アーケルティーラ：白霊：熔鉄城
-752008 Female Knight Akertilla: White Spirit: Hidden Port -- 女騎士アーケルティーラ：白霊：隠れ港
-752009 Female Knight Akertilla: The White Spirit: The Prison of Oblivion -- 女騎士アーケルティーラ：白霊：忘却の牢
-753000 Bell Guard: Prison of Oblivion -- 鐘守：忘却の牢
-753001 Bell Guard: Ghosts: General Purpose -- 鐘守：幽霊：汎用
-753002 Bell Guard: Molten Iron Castle -- 鐘守：熔鉄城
-753003 Bell Guard: Zako: Prison of Oblivion -- 鐘守：ザコ：忘却の牢
-753004 Bell Guard: Zako: Molten Iron Castle -- 鐘守：ザコ：熔鉄城
-753008 Bell Guard: Dark Spirit: Molten Castle -- 鐘守：闇霊：熔鉄城
-753009 Bell Guard: Dark Spirit: Prison of Oblivion -- 鐘守：闇霊：忘却の牢
-754000 Yorozu Babaa: The Decaying Giant Forest (also for Maduro) -- よろずババア：朽ちた巨人の森（マデューラ兼用）
-754001 Yorozu Babaa: Ghosts: Generic -- よろずババア：幽霊：汎用
-760000 The Girl of the Bard 1 : The Altar of Amana -- 吟遊詩人の少女１ ：アマナの祭壇
-760001 Bard Girl 1: Ghosts: General -- 吟遊詩人の少女１：幽霊：汎用
-760100 The Girl of the Bard 2: The Altar of Amana -- 吟遊詩人の少女２：アマナの祭壇
-760101 The Girl of the Bard 2: Ghosts: General -- 吟遊詩人の少女２：幽霊：汎用
-760200 Captive Girl: King's Castle D'Angreig -- 虜囚の少女：王城ドラングレイグ
-760201 Captive Girl: Ghosts: General -- 虜囚の少女：幽霊：汎用
-761000 Armor shop: Madura -- 防具屋：マデューラ
-761001 Armor Shop: Ghosts: Generic -- 防具屋：幽霊：汎用
-762000 Material shop: Valley of the Reservoir -- 素材屋：溜まりの谷
-762001 Material Shop: Ghosts: Generic -- 素材屋：幽霊：汎用
-762002 Material shop: Madura -- 素材屋：マデューラ
-763000 Sorcerer: The Shadow of the Imaginary Forest (also for Maduro) -- 呪術屋：虚ろの影の森（マデューラ兼用）
-763001 Sorcerer: Ghosts: Generic -- 呪術屋：幽霊：汎用
-764000 Blacksmith: Tonkachi & Fire Scissors: Madura -- 鍛冶屋：トンカチ&火鋏：マデューラ
-764001 Blacksmith: Ghosts: Generic -- 鍛冶屋：幽霊：汎用
-764300 EX Blacksmith: Prison of Oblivion -- ＥＸ鍛冶屋：忘却の牢
-764309 EX Blacksmith: Ghosts: Generic -- ＥＸ鍛冶屋：幽霊：汎用
-766000 Sorcerer: Hidden Port (also for Maduro) -- 魔術屋：隠れ港（マデューラ兼用）
-766001 Sorcerer: Ghosts: Generic -- 魔術屋：幽霊：汎用
-768000 Spell Mania: Prison of Oblivion -- スペルマニア：忘却の牢
-768001 Spell Mania: Ghosts: Generic -- スペルマニア：幽霊：汎用
-769000 The Miracle Man Leash: The Heide Great Fire Tower (also for Maduro) -- 奇跡の人リーシュ：ハイデ大火塔（マデューラ兼用）
-769001 Miracle Man Leash: Ghosts: Generic -- 奇跡の人リーシュ：幽霊：汎用
-770000 Dark Man: Cane: Hunting Forest -- 闇術屋：杖：狩猟の森
-770001 Dark Man: Ghosts: General -- 闇術屋：幽霊：汎用
-771000 The Enclosed Man: Anne Deal's House -- 封じられた人：アン・ディールの館
-771001 Sealed Man: Ghosts: Generic -- 封じられた人：幽霊：汎用
-771004 Enclosed Man: Dark Spirit: Castle of the King D'Angreig -- 封じられた人：闇霊：王城ドラングレイグ
-771005 Enclosed Man: Dark Spirit: Scum Bottom -- 封じられた人：闇霊：クズ底
-771006 Enclosed Man: Dark Spirit: The Forest of Shadows of The Shadows -- 封じられた人：闇霊：虚ろの影の森
-771007 The Enclosed Man: The Dark Spirit: The House of Anne Deal -- 封じられた人：闇霊：アン・ディールの館
-771009 Enclosed Man: Dark Spirit: Jedra, Kiseki Street -- 封じられた人：闇霊：輝石街ジェルドラ
-771010 Sealed Man: Dark Spirit: The Nest of the Guarded Dragon -- 封じられた人：闇霊：守り竜の巣
-772000 Risa: Ming-iron castle -- 珍品屋：熔鉄城
-772001 Curiosity: Ghosts: General -- 珍品屋：幽霊：汎用
-776000 Top Weapon: Bird Goal: Kiseki Street Gerdra -- 上位武器屋：バードゴール：輝石街ジェルドラ
-776001 Top Weapon: Bird Goal: Ghosts: Generic -- 上位武器屋：バードゴール：幽霊：汎用
-776002 Top Weapons Store: Bird Goal: Forest of Shadows -- 上位武器屋：バードゴール：虚ろの影の森
-777000 Cat: Madura -- 猫：マデューラ
-783000 Black Phantom Shop: Hunting Forest -- 黒ファントム屋：狩猟の森
-783001 Black Phantom Shop: Ghosts: Generic -- 黒ファントム屋：幽霊：汎用
-784000 The Teacher of The Sin: Gerdra, Kiishi Street -- 免罪の教戒師：輝石街ジェルドラ
-784001 The Sin-Sin Teacher: Ghosts: General -- 免罪の教戒師：幽霊：汎用
-785000 Knight of The Guardian: Two-Handed Long Axe & Medium Shield: Heide Great Fire Tower -- 守護の騎士：両手長斧＆中盾：ハイデ大火塔
-785001 Guardian Knight: Ghosts: Generic -- 守護の騎士：幽霊：汎用
-786000 Glitter Girl: General Purpose -- キラキラ娘：汎用
-805000 Player for cut scene -- カットシーン用プレイヤー
-810000 NPC for Multi: Swordsman (Man): Red Phantom: Hunting Forest -- マルチ用NPC：剣士（男）：赤ファントム：狩猟の森
-810001 NPC for Multi: Swordsman (Man): White Spirit: Valley of The Reservoir -- マルチ用NPC：剣士（男）：白霊：溜まりの谷
-810002 NPC for Multi: Swordsman (Male): Bell Guard Area -- マルチ用NPC：剣士（男）：鐘守エリア
-810003 NPC for Multi: Swordsman (Male): White Spirit: Heide Great Fire Tower -- マルチ用NPC：剣士（男）：白霊：ハイデ大火塔
-811000 NPC for Multi: Archers (Male): White Spirit: Scum Bottom -- マルチ用NPC：弓兵（男）：白霊：クズ底
-812000 NPC for Multi: Sages (Female): White Spirit: Prison of Oblivion -- マルチ用NPC：賢者（女）：白霊：忘却の牢城
-812001 NPC for Multi: Sage (Female): White Spirit: Kiseki Street Gerdra -- マルチ用NPC：賢者（女）：白霊：輝石街ジェルドラ
-813000 NPC for Multi: Lancer (Female): White Spirit: Altar of Amana -- マルチ用NPC：ランサー（女）：白霊：アマナの祭壇
-814000 NPC for Multi: Breaking Meat (Female): White Spirit: The Nest of The Guarded Dragon -- マルチ用NPC：肉断ち（女）：白霊：守り竜の巣
-814008 NPC for Multi: Breaking Flesh (Female): Dark Spirit: Castle of The King D'Angreig -- マルチ用NPC：肉断ち（女）：闇霊：王城ドラングレイグ
-814009 NPC for Multi: Breaking Meat (Female): Dark Spirit: Scum Bottom -- マルチ用NPC：肉断ち（女）：闇霊：クズ底
-820000 NPC for Multi: Spearman (Man): Dark Spirit: Prison of Oblivion -- マルチ用NPC：槍兵（男）：闇霊：忘却の牢城
-821000 NPC for Multi: Reaper (Woman): Dark Spirit: Hunting Forest -- マルチ用NPC：死神（女）：闇霊：狩猟の森
-821001 NPC for Multi: The God of Death (Woman): Dark Spirit: Anne Deal's House -- マルチ用NPC：死神（女）：闇霊：アン・ディールの館
-822000 NPC for Multi: The Magician (Man): Dark Spirit: The Door way of Faros -- マルチ用NPC：魔導士（男）：闇霊：ファロスの扉道
-822001 NPC for Multi: Magician (Male): Ashes: Saint's Tomb -- マルチ用NPC：魔導士（男）：灰霊：聖人墓所
-822002 NPC for Multi: Magician (Male): Dark Spirit: Tomb of Immortality -- マルチ用NPC：魔導士（男）：闇霊：不死廟
-822003 NPC for Multi: The Magician (Man): Dark Spirit: Altar of Amana -- マルチ用NPC：魔導士（男）：闇霊：アマナの祭壇
-823000 NPC for Multi: Koryu Swordsman (Male): Dark Spirit: The Nest of The Guarded Dragon -- マルチ用NPC：古龍剣士（男）：闇霊：守り竜の巣
-824000 NPC for Multi: The Older Brother of a Female Swordsman: The Dark Spirit: Andir -- マルチ用NPC：女剣士の兄：闇霊：アンディール
-831000 Saint's Tomb: Abandoned Saint -- 聖人墓所：捨てられた聖女
-831100 Saint's Tomb: Knight of the Saint -- 聖人墓所：聖女の騎士
-832000 Old Dark Hole: Abyss 1: Sniper -- 古き闇の穴：深淵霊１：スナイパー
-832100 The Old Dark Hole: The Abyss 2: Axeman -- 古き闇の穴：深淵霊２：アックスマン
-832200 The Old Dark Hole: The Abyss 3: Huang Yi -- 古き闇の穴：深淵霊３：黄衣夫
-832300 The Old Dark Hole: The Abyss 4: Huang Yi Wife -- 古き闇の穴：深淵霊４：黄衣妻
-832400 The Old Dark Hole: The Abyss 5: Traveler -- 古き闇の穴：深淵霊５：旅人
-832500 Old Dark Hole: Abyss 6: Knight -- 古き闇の穴：深淵霊６：騎士
-832600 Old Dark Hole: Abyss 7: Heavy Warrior -- 古き闇の穴：深淵霊７：重戦士
-832700 Old Dark Hole: Abyss 8: Queen -- 古き闇の穴：深淵霊８：女王様
-833000 Altar of Amana: Cannibal Sergeant -- アマナの祭壇：人食い番長
-835000 Enshrinement Hall: Dragon Knight: Two-Sword Style -- 祭祀場：竜騎士：二刀流
-835001 Anne Deal's House: The Charm of Painting (Woman) -- アン・ディールの館：絵画守（女）
-835100 Enshrinement Hall: Dragon Knight: One-handed sword -- 祭祀場：竜騎士：片手剣
-835200 Ritual Hall: Dragon Knight: One Hand Mallet -- 祭祀場：竜騎士：片手槌
-836000 Molten Iron Castle: Samurai Saucer: Lap 2 -- 熔鉄城：侍ソーサラー：２周目
-836100 Ming-iron castle: Bell Guard 1: Oversized Sword & Great Shield -- 熔鉄城：鐘守１：特大剣＆大盾
-836200 Molten Castle: Bell Guard 2: Crossbow & Crossbow -- 熔鉄城：鐘守２：クロスボウ＆クロスボウ
-836300 Molten Castle: Bell Guard 3: Cane & Spear -- 熔鉄城：鐘守３：杖＆槍
-836400 Molten Iron Castle: Light Heavy Soldiers -- 熔鉄城：軽快重兵士
-837000 Gap cave: second lap hunting -- 隙間の洞：２周目狩り
-837100 Creus sinus: proximity -- 隙間の洞：近接
-837200 Gap Sinus: Shooting -- 隙間の洞：射撃
-838000 Forest of Shadows: Phantom Enemy 1 -- 虚ろの影の森：幻影敵１
-838100 Forest of Shadows: Phantom Enemy 2 -- 虚ろの影の森：幻影敵２
-840000 Dummy NPC for the pledge of the champion -- 覇者の誓約用ダミーNPC
-841000 Dummy NPC for Sun Pledge -- 太陽の誓約用ダミーNPC
-842000 Decaying Giant Forest: In front of the king's door: Lap 2 Red Spirit 1 -- 朽ちた巨人の森：王の扉前：２周目赤霊１
-843000 Decaying Giant Forest: In front of the King's Door: 2 laps Red Spirit 2 -- 朽ちた巨人の森：王の扉前：２周目赤霊２
-844000 Decaying Giant Forest: Ground Cracking Square: Round 2 Red Spirit 3 -- 朽ちた巨人の森：地割れ広場：２周目赤霊３
-845000 Decaying Giant Forest: The Second Lap Dark Spirit -- 朽ちた巨人の森：２周目闇霊
-846000 Kiseki-gai Gerdra: The Dark Spirit -- 輝石街ジェルドラ：闇霊
-847000 Heide Great Fire Tower: 2 laps Dark Spirit 1 -- ハイデ大火塔：２周目闇霊１
-847100 Heide Great Fire Tower: 2 laps Dark Spirit 2 -- ハイデ大火塔：２周目闇霊２
-848000 Tomb of Immortality: Second Lap Dark Spirit 1 -- 不死廟：２周目闇霊１
-848100 Tomb of Immortality: Dark Spirit 2 (Ghost) -- 不死廟：闇霊２（亡霊）
-849000 King's Castle D'Angheig: Dark Spirit 1 (Ghost) -- 王城ドラングレイグ：闇霊１（亡霊）
-849001 Tomb of Immortality: Dark Spirit 1 (Ghost) -- 不死廟：闇霊１（亡霊）
-849100 Clown: White Spirit: Valley of The Reservoir -- ピエロ：白霊：溜まりの谷
-849200 Saint's Tomb: Dark Spirit 3 (Transparent Armor) -- 聖人墓所：闇霊３（透明鎧）
-850000 Anne Deal's House: The Second Lap Dark Spirit -- アン・ディールの館：２周目闇霊
-851000 Valley of The Reservoir: The Dark Spirit -- 溜まりの谷：闇霊
-852000 Hunting Forest: Red Spirit Level 3 -- 狩猟の森：赤霊レベル３
-853000 The Door way of Faros: Two-swords Avelin: The Dark Spirit -- ファロスの扉道：二刀流アヴェリン：闇霊
-853100 Kiseki Town Gerdra: Leroy: White Spirit -- 輝石街ジェルドラ：リロイ：白霊
-853200 King's Castle D'Angheig: Second Lap Dark Spirit 1 -- 王城ドラングレイグ：２周目闇霊１
-853300 King's Castle D'Angheig: Second Lap Dark Spirit 2 -- 王城ドラングレイグ：２周目闇霊２
-853400 King's Castle D'Angheig: Second Lap Dark Spirit 3 -- 王城ドラングレイグ：２周目闇霊３
-853500 King's Castle D'Angheig: The Dark Spirit Key -- 王城ドラングレイグ：闇霊鍵番
-854000 Hidden Port: Dark Spirit (Darth Mall) -- 隠れ港：闇霊（ダースモール）
-855000 Kiseki-gai Gerdra- : Talking Treasure Chest -- 輝石街ジェルドラ-：喋る宝箱
-890000 For player control testing -- プレイヤー制御テスト用
+10 UNKNOWN
+2235 UNKNOWN
+3050 UNKNOWN
+3096 UNKNOWN
+3180 UNKNOWN
+3181 UNKNOWN
+3260 UNKNOWN
+3320 UNKNOWN
+5030 UNKNOWN
+6200 UNKNOWN
+6210 UNKNOWN
+6220 UNKNOWN
+6230 UNKNOWN
+6240 UNKNOWN
+6250 UNKNOWN
+6260 UNKNOWN
+6270 UNKNOWN
+6280 UNKNOWN
+6290 UNKNOWN
+6300 UNKNOWN
+6310 UNKNOWN
+6320 UNKNOWN
+6330 UNKNOWN
+8100 UNKNOWN
+8110 UNKNOWN
+8120 UNKNOWN
+9100 UNKNOWN
+9101 UNKNOWN
+9102 UNKNOWN
+9111 UNKNOWN
+9113 UNKNOWN
+9120 UNKNOWN
+9140 UNKNOWN
+9150 UNKNOWN
+9160 UNKNOWN
+9170 UNKNOWN
+9200 UNKNOWN
+9300 UNKNOWN
+9400 UNKNOWN
+9500 UNKNOWN
+9501 UNKNOWN
+9502 UNKNOWN
+9503 UNKNOWN
+9504 UNKNOWN
+9601 UNKNOWN
+9602 UNKNOWN
+9603 UNKNOWN
+9604 UNKNOWN
+9605 UNKNOWN
+9606 UNKNOWN
+9607 UNKNOWN
+9608 UNKNOWN
+9609 UNKNOWN
+9610 UNKNOWN
+9611 UNKNOWN
+9612 UNKNOWN
+9613 UNKNOWN
+9614 UNKNOWN
+9620 UNKNOWN
+9621 UNKNOWN
+9622 UNKNOWN
+9623 UNKNOWN
+9624 UNKNOWN
+9625 UNKNOWN
+9626 UNKNOWN
+9627 UNKNOWN
+9628 UNKNOWN
+9640 UNKNOWN
+9641 UNKNOWN
+9642 UNKNOWN
+9643 UNKNOWN
+9644 UNKNOWN
+9645 UNKNOWN
+9646 UNKNOWN
+9647 UNKNOWN
+9648 UNKNOWN
+100000 Forest Grotesque (Unarmed)
+100008 Forest Grotesque (Unarmed, Black Phantom) - Shaded Woods (NG+)
+100009 Forest Grotesque (Unarmed, Black Phantom) - Things Betwixt (NG+)
+100010 Forest Grotesque (Bone Club)
+100020 Forest Grotesque (Rock Thrower)
+101000 Kobold - Things Betwixt
+101001 Kobold - Shaded Woods / Aldia's Keep
+102000 Hollow Soldier (Spear & Shield)
+102010 Hollow Soldier (Bastard Sword)
+102011 Hollow Soldier (Bastard Sword, Black Phantom) (NG+)
+102020 Hollow Soldier (Halberd)
+102030 Hollow Soldier (Estoc & Shield)
+102040 Hollow Soldier (Bow)
+102100 Royal Soldier (Spear & Shield)
+102110 Royal Soldier (Bastard Sword)
+102140 Royal Soldier (Bow)
+103000 Hollow Infantry (Unarmed)
+103010 Hollow Infantry (Bandit's Knife)
+103020 Hollow Infantry (Sword & Shield) - Forest of Fallen Giants
+103022 Hollow Infantry (Sword & Shield) - No-man's Wharf
+103030 Hollow Infantry (Axe) - Forest of Fallen Giants
+103032 Hollow Infantry (Axe) - No-man's Wharf
+103040 Hollow Infantry (Bow) - Forest of Fallen Giants
+103051 Hollow Infantry (Bow) - No-man's Wharf
+103111 Drangleic Infantry (Sword)
+103121 Drangleic Infantry (Axe)
+103131 Drangleic Infantry (Bow)
+105000 Amana Shrine Maiden (Healer)
+105010 Amana Shrine Maiden (Sorceress)
+106001 Hollow Priest (Boss - Prowling Magus & Congregation)
+106009 Hollow Priest (Black Phantom) - Brightstone Cove Tseldora (NG+)
+106021 Hollow Priest - Unused
+106200 Hollow Priestess
+107000 Parasitized Undead
+107001 Parasitized Undead - Before Freja
+108000 Hollow Rogue (Daggers)
+108010 Hollow Rogue (Club)
+108020 Hollow Rogue (Bow)
+113000 Varangian Sailor (Sword & Shield)
+113010 Varangian Sailor (Scimitars)
+113020 Varangian Sailor (Bow)
+115000 Undead Traveler (Unarmed) - Statues
+115006 Undead Traveler (Unarmed) - Things Betwixt
+115014 Undead Traveler - Unused
+115015 Undead Traveler (Dagger) - Things Betwixt
+115016 Undead Traveler (Dagger) - Things Betwixt (Behind Statue)
+117000 Stone Soldier (Spear & Shield)
+117010 Stone Soldier (Spear)
+118000 Black Hollow Mage - Huntsman's Copse
+118001 Black Hollow Mage (Boss - Executioner's Chariot)
+118201 White Hollow Mage
+119000 UNKNOWN
+119001 UNKNOWN
+121000 Giant (Unarmed)
+121001 Giant (Unarmed, Dive Bomber)
+121010 Giant (Club)
+121020 Giant (Pyromancer, Poison Variant)
+121030 Giant (Pyromancer, Fire Variant)
+123002 Suspicious Shadow - No-man's Wharf
+123003 Suspicious Shadow - Unused
+123004 Suspicious Shadow - Lost Bastille
+123005 Suspicious Shadow - Earthen Peak
+123010 Suspicious Shadow - Unused
+123022 Suspicious Shadow (Flexile Sentry) (NG+)
+124000 Manikin (Claws) - Harvest Valley / Earthen Peak
+124010 Manikin (Knife & Shield)
+124020 Manikin (Sabre & Shield)
+124030 Manikin (Bow)
+124040 Manikin (Claws) - Earthen Peak
+124041 Manikin (Claws) - Drangleic Castle
+124050 Manikin - Unused
+124060 Manikin - Unused
+124070 Manikin (Bow)
+125004 Rupturing Hollow (Red Core) - Majula Pit
+125009 Rupturing Hollow (Red Core, Black Phantom) - Sinner's Rise (NG+)
+125010 Rupturing Hollow (Red Core) - Lost Bastille
+125011 Rupturing Hollow (Black Core) - Lost Bastille
+125012 Rupturing Hollow (Black Core) - Sinner's Rise
+125013 Rupturing Hollow (Black Core) - The Gutter
+125014 Rupturing Hollow (Brown Core) - Dragon Aerie
+125015 Rupturing Hollow (Yellow Core) - Lost Bastille
+125016 Rupturing Hollow (Red Core, Black Phantom) - The Gutter (NG+)
+127000 Undead Laborer - Huntsman's Copse
+127001 Undead Laborer - Undead Crypt
+127002 Undead Laborer (Boss - Prowling Magus & Congregation)
+127003 Undead Laborer - Harvest Valley / Earthen Peak
+127004 Undead Laborer - Unused
+127005 Undead Laborer - Unused
+127006 Undead Laborer - Undead Purgatory
+127010 Undead Laborer - Unused
+127011 Undead Laborer (Torch) - No-man's Wharf / Undead Crypt
+127020 Undead Laborer - Unused
+127030 Undead Laborer (Inside Pots) - Earthen Peak
+127100 Undead Laborer - Unused
+127101 Undead Laborer (Unarmed) - Frozen Eleum Loyce / Frigid Outskirts
+127110 Undead Laborer (Torch) - Frozen Eleum Loyce
+127111 Undead Laborer - Unused
+129000 Forest Spirit - Dark Chasm of Old
+129010 Forest Spirit - Dark Chasm of Old
+129200 Forest Spirit - Frozen Eleum Loyce
+131000 Lindelt Cleric
+131010 Lindelt Cleric - Unused
+131020 Lindelt Cleric - Unused
+132003 Skeleton (Falchions) - Harvest Valley
+132004 Skeleton - Unused
+132005 Skeleton (Falchions) - Majula Basement
+132006 Skeleton (Falchions) - Forest of Fallen Giants
+132007 Skeleton (Falchions) - Undead Crypt
+132013 Skeleton (Falchion & Shield) - Majula Basement
+132014 Skeleton - Unused
+132015 Skeleton - Unused
+132016 Skeleton (Falchion & Shield) - Harvest Valley
+132020 Skeleton - Unused
+132022 Skeleton - Unused
+132024 Skeleton - Unused
+132025 Skeleton (Estoc & Shield) - Majula Basement (NG+2)
+132026 Skeleton (Estoc & Shield) - Harvest Valley
+132030 Skeleton - Unused
+132033 Skeleton - Unused
+132090 Skeleton - Unused
+133001 Bonewheel Skeleton (Boss - Skeleton Lords)
+133002 Bonewheel Skeleton - Majula Basement (NG+6, NG+7)
+133010 Bonewheel Skeleton - Unused
+133020 Bonewheel Skeleton - Unused
+134000 Gyrm
+135000 Gyrm Warrior (Greataxe Thrower)
+135001 Gyrm Warrior - Unused
+135010 Gyrm Warrior (Great Hammer & Greatshield)
+135020 Gyrm Warrior - Unused
+135030 Gyrm Warrior (Greataxes)
+135040 Gyrm Warrior (Great Hammer & Greatshield)
+135050 Gyrm Warrior - Unused
+137010 Prowling Magus - Aldia's Keep
+137021 Prowling Magus (Boss - Prowling Magus & Congregation)
+137022 Prowling Magus - Unused
+138000 Torturer (Catch Pole)
+138001 Torturer (Catch Pole, Black Phantom) - (NG+)
+138002 Torturer - Unused
+138010 Torturer (Whip)
+138011 Torturer (Whip, Black Phantom) - (NG+)
+139000 Artificial Undead - Huntsman's Copse
+139001 Artificial Undead - Harvest Valley 
+139002 Artificial Undead - Unused
+139008 Artificial Undead (Black Phantom) - Huntsman's Copse (NG+)
+139009 Artificial Undead (Black Phantom) - Harvest Valley (NG+)
+139010 Artificial Undead - Unused
+141000 Undead Aberration - Aldia's Keep
+141002 Undead Aberration - Sinner's Rise (NG+)
+146000 Lord Tseldora - Unused
+146010 Lord Tseldora
+147001 Undead Supplicant - Shrine of Amana
+147004 Undead Supplicant (Boss - Prowling Magus & Congregation)
+147005 Undead Supplicant - Harvest Valley / Earthen Peak
+148000 Undead Peasant (Pickaxe)
+148010 Undead Peasant (Pickaxe)
+148020 Undead Peasant (Scythe)
+148030 Undead Peasant (Scythe)
+148040 Undead Peasant (Torch)
+148041 Undead Peasant (Torch)
+149010 Undead Steelworker - Harvest Valley
+149011 Undead Steelworker - Earthen Peak
+150000 Stone Knight
+151000 Ironclad Soldier - Iron Keep
+151001 Ironclad Soldier - Giant Memories
+151200 Old Ironclad Soldier - Forest of Fallen Giants (Cardinal Tower)
+151202 Old Ironclad Soldier - Forest of Fallen Giants (Soldier's Rest)
+151208 Old Ironclad Soldier - Unused
+151209 Old Ironclad Soldier (Black Phantom) - Forest of Fallen Giants (Soldier's Rest) (NG+)
+151210 Old Ironclad Soldier - Unused
+152000 Royal Swordsman (Greatsword) - Drangleic Castle
+152001 Royal Swordsman (Greatsword) - Drangleic Castle
+152002 Royal Swordsman (Greatsword) - Forest of Fallen Giants / Lost Bastille
+152010 Royal Swordsman (Crossbow) - Drangleic Castle
+152011 Royal Swordsman (Crossbow) - Lost Bastille
+153000 Syan Knight (Spear) - Drangleic Castle
+153002 Syan Knight (Spear) - Shrine of Amana
+153003 Syan Knight (Spear) - Undead Crypt
+153004 Syan Knight - Unused
+153005 Syan Knight (Spear) - Huntsman's Copse / Unseen Path to Heide
+153010 Syan Knight (Sword) - Forest of Fallen Giants / Shaded Woods / Drangleic Castle
+153012 Syan Knight - Unused
+153013 Syan Knight (Sword) - Undead Crypt
+153014 Syan Knight - Unused
+153015 Syan Knight (Sword) - Aldia's Keep
+153016 Syan Knight (Sword) - Majula Pit
+154000 Skeleton Lord (Halberd) (Boss - Skeleton Lords)
+154001 Skeleton Lord - Unused
+154010 Skeleton Lord (Reaper) (Boss - Skeleton Lords)
+154011 Skeleton Lord - Unused
+154020 Skeleton Lord (Staff) (Boss - Skeleton Lords)
+154021 Skeleton Lord - Unused
+155000 Amana Aberration
+155001 Amana Aberration - Unused
+156011 UNKNOWN
+157000 Armored Skeleton - Unused
+157001 Armored Skeleton (Falchions) - Huntsman's Copse
+157002 Armored Skeleton - Unused
+157003 Armored Skeleton - Unused
+157004 Armored Skeleton (Falchions) - Huntsman's Copse
+157005 Armored Skeleton (Falchions) (Executioner's Chariot)
+157006 Armored Skeleton (Falchions) (Executioner's Chariot)
+157007 Armored Skeleton (Falchions) - Majula Basement (NG+5)
+157008 Armored Skeleton (Falchions) (Boss - Skeleton Lords)
+157010 Armored Skeleton (Falchion & Shield) - Huntsman's Copse
+157011 Armored Skeleton - Unused
+157012 Armored Skeleton - Unused
+157013 Armored Skeleton (Falchion & Shield) - Boss (Skeleton Lords)
+157014 Armored Skeleton (Falchion & Shield) (Executioner's Chariot)
+157015 Armored Skeleton (Falchion & Shield) (Executioner's Chariot)
+157016 Armored Skeleton (Falchion & Shield) - Majula Basement (NG+3, NG+4)
+157020 Armored Skeleton (Estoc & Shield) - Huntsman's Copse
+157021 Armored Skeleton (Estoc & Shield) - Huntsman's Copse
+157022 Armored Skeleton (Estoc & Shield) - Huntsman's Copse
+157023 Armored Skeleton (Estoc & Shield) - Undead Purgatory
+157024 Armored Skeleton (Estoc & Shield) - Undead Purgatory
+157025 Armored Skeleton (Estoc & Shield) (Boss - Skeleton Lords)
+157030 Armored Skeleton (Bow) - Huntsman's Copse
+157031 Armored Skeleton - Unused
+157032 Armored Skeleton (Bow) - Huntsman's Copse
+157033 Armored Skeleton (Bow) - Undead Purgatory
+201100 Small Boar - Brightstone Cove Tseldora
+201101 Small Boar - Majula
+202100 Undead Boar - Brightstone Cove Tseldora
+202101 Undead Boar - Unused
+202102 Undead Boar - Majula
+203000 Parasite Spider
+203001 Parasite Spider
+203002 Parasite Spider (The Duke's Dear Freja)
+203009 Parasite Spider (Black Phantom) - (NG+)
+204000 Poison Moth
+204002 Poison Moth - Shrine of Amana / Aldia's Keep
+205000 Poison Horn Beetle - Earthen Peak
+205001 Poison Horn Beetle - The Gutter
+205100 Acid Horn Beetle - Unused
+205102 Acid Horn Beetle
+206000 Razorback Nightcrawler - Black Gulch
+206001 Razorback Nightcrawler - Cave of the Dead
+209000 Hunting Dog - Aldia's Keep
+209002 Hunting Dog - The Gutter
+210000 Basilisk - Things Betwixt / Old Akelarre / Shaded Woods
+210001 Basilisk - Unused
+210002 Basilisk - Aldia's Keep
+210003 Basilisk - Unused
+210004 Basilisk - Unseen Path to Heide
+210005 Basilisk - Shrine of Amana
+210010 Basilisk - Brightstone Cove Tseldora
+212000 Guardian Dragon (Boss)
+212001 Guardian Dragon - Dragon Aerie
+212002 Guardian Dragon - Dragon Aerie
+212003 Guardian Dragon - Dragon Aerie
+212004 Guardian Dragon - Heide's Tower of Flame
+213000 Crystal Lizard - Forest of Fallen Giants / Huntsman's Copse
+213002 Crystal Lizard - No-man's Wharf
+213003 Crystal Lizard - Unused
+213004 Crystal Lizard - Unused
+213005 Crystal Lizard - Iron Keep
+213006 Crystal Lizard - Doors of Pharros
+213007 Crystal Lizard - Drangleic Castle
+213008 Crystal Lizard - Brightstone Cove Tseldora
+213009 Crystal Lizard - Dragon Aerie
+213010 Crystal Lizard - Harvest Valley
+213011 Crystal Lizard - Shaded Woods
+213012 Crystal Lizard - Majula Pit
+213013 Crystal Lizard - Dragon's Sanctum
+213014 Crystal Lizard - Brume Tower
+213100 Red Crystal Lizard - Brightstone Cove Tseldora / Aldia's Keep
+213101 Red Crystal Lizard - Unused
+214001 Giant Undead Boar - Brightstone Cove Tseldora (NG+)
+214002 Giant Undead Boar - Unused
+214003 Giant Undead Boar - Majula
+216000 Wall Ghost - Undead Crypt
+216005 Wall Ghost - Drangleic Castle
+217000 Dark Stalker - No-man's Wharf
+217001 Dark Stalker - Drangleic Castle
+220000 Giant Acid Horn Beetle - Unused
+220001 Giant Acid Horn Beetle - Aldia's Keep
+220002 Giant Acid Horn Beetle - Shrine of Amana
+222000 Giant Basilisk - Aldia's Keep
+222001 Giant Basilisk - Unused
+222002 Giant Basilisk - Huntsman's Copse
+223000 Mongrel Rat
+224000 Darksucker
+226000 Corpse Rat
+226001 Corpse Rat (Royal Rat Vanguard)
+226100 Royal Rat Vanguard (Boss)
+226200 Rat King - Doors of Pharros
+226201 Rat King (Dead)
+226202 Rat King - Grave of Saints
+227000 Stray Dog - Lost Bastille / Belfry Luna
+227001 Stray Dog - No-man's Wharf
+227002 Stray Dog - Huntsman's Copse
+227009 Stray Dog (Black Phantom) - Belfry Luna (NG+)
+227100 Stray Dog - Frozen Eleum Loyce
+227101 Stray Dog - Unused
+300000 Ogre - Things Betwixt / Forest of Fallen Giants
+300001 Ogre - Shrine of Amana
+300002 Ogre - Aldia's Keep
+301001 Heide Knight - Unused
+301003 Heide Knight - Unused
+301005 Heide Knight (Sword) - Heide's Tower of Flame
+301010 Heide Knight (Spear) - Sinner's Rise
+301011 Heide Knight - Unused
+301013 Heide Knight (Spear) - Heide's Tower of Flame
+301014 Heide Knight (Iron Mask & Spear) - The Gutter
+301020 Heide Knight - Unused
+301030 Heide Knight - Unused
+301031 Heide Knight - Unused
+302000 Undead Jailer - No-man's Wharf / Lost Bastille
+302009 Undead Jailer (Black Phantom) - Sinner's Rise (NG+)
+303300 Flexile Sentry (Boss)
+303301 Flexile Sentry - Unused
+303302 Flexile Sentry - Frozen Eleum Loyce
+303303 Flexile Sentry - Sinner's Rise
+304010 Injured Milfanito
+305000 Smelter Demon (Boss)
+305200 Blue Smelter Demon (Boss)
+306000 Alonne Captain (Katana) - Iron Keep
+306006 Alonne Captain (Katana, Black Phantom) - Memory of the Old Iron King (NG+2)
+306007 Alonne Captain (Katana) - Memory of the Old Iron King
+306008 Alonne Captain (Katana, Black Phantom) - Iron Keep (NG+)
+306009 Alonne Captain (Katana, Black Phantom) - Iron Keep (NG+)
+306010 Alonne Captain (Greatbow) - Iron Keep
+306011 Alonne Captain (Greatbow) - Drangleic Castle
+306019 Alonne Captain (Greatbow, Black Phantom) - Memory of the Old Iron King (NG+2)
+307000 Body of Vengarl (Unused)
+307001 Body of Vengarl
+307101 Head of Vengarl (NPC) (Dead)
+307107 Head of Vengarl (Summon) - Frigid Outskirts
+307108 Head of Vengarl (Summon) - Dragon Shrine
+307109 Head of Vengarl (Summon) - Throne of Want
+307110 Head of Vengarl (NPC)
+308000 Lion Clan Warrior
+308100 Golden Lion Clan Warrior
+309000 Forgotten Giant - Giant Memories
+309001 Forgotten Giant - Black Gulch
+309600 Last Giant (Boss)
+309700 Giant Lord (Boss)
+311000 Mounted Overseer
+312000 Grave Warden - Unused
+312001 Grave Warden (Sickle) - Undead Crypt
+312010 Grave Warden - Unused
+312011 Grave Warden (Spear) - Earthen Peak (Before Mytha)
+312021 Grave Warden (Sickle) - Undead Crypt
+312031 Grave Warden (Spear) - Earthen Peak
+312032 Grave Warden (Spear) - Undead Crypt
+312040 Grave Warden (Sickle) - Unused
+312050 Grave Warden (Spear) - Unused
+313000 Hollow Falconer - Unused
+313002 Hollow Falconer (Curved Sword) - Brightstone Cove Tseldora
+313003 Hollow Falconer (Curved Sword) - Shaded Woods
+313010 Hollow Falconer - Unused
+313012 Hollow Falconer (Straight Sword) - Brightstone Cove Tseldora
+313013 Hollow Falconer (Straight Sword) - Shaded Woods
+313021 Hollow Falconer (Falcon) - Things Betwixt (NG+)
+313031 Hollow Falconer (Bow) - Things Betwixt (NG+)
+313032 Hollow Falconer (Bow) - Brightstone Cove Tseldora
+313033 Hollow Falconer (Bow) - Shaded Woods
+314000 Hollow Primal Knight - Doors of Pharros
+314002 Hollow Primal Knight - Unseen Path to Heide
+314003 Hollow Primal Knight - Unused
+315000 Primal Knight - Drangleic Castle
+316000 Desert Sorceress - Drangleic Castle
+316001 Desert Sorceress - Harvest Valley / Earthen Peak
+317000 Dragon Acolyte - Aldia's Keep
+318000 The Pursuer - Drangleic Castle
+318010 The Pursuer - Forest of Fallen Giants (Boss)
+318011 The Pursuer - Forest of Fallen Giants (Encounter)
+318020 The Pursuer - Iron Keep
+318030 The Pursuer - Lost Bastille
+318040 The Pursuer - Things Betwixt
+319000 Alonne Knight (Katana) - Iron Keep
+319008 Alonne Knight (Katana) - Memory of the Old Iron King
+319009 Alonne Knight (Katana, Black Phantom) - Iron Keep (NG+)
+319010 Alonne Knight (Greatbow) - Iron Keep
+319011 Alonne Knight (Greatbow) - Memory of the Old Iron King
+321000 Mimic (Wooden Chest) - Aldia's Keep
+321001 Mimic - Unused
+321002 Mimic - Unused
+321003 Mimic (Wooden Chest) - Earthen Peak
+321004 Mimic (Wooden Chest) - The Gutter
+321005 Mimic (Wooden Chest) - Drangleic Castle
+321010 Mimic (Metal Chest) - Aldia's Keep
+321011 Mimic (Metal Chest) - Iron Keep
+321012 Mimic - Unused
+321014 Mimic (Metal Chest) - Frozen Eleum Loyce
+321015 Mimic (Metal Chest) - Frozen Eleum Loyce
+321016 Mimic (Metal Chest) - Majula (NG+)
+321017 Mimic (Metal Chest) - Brightstone Cove Tseldora
+324000 Belfry Gargoyle (Boss)
+324010 Belfry Gargoyle - Drangleic Castle
+324011 Belfry Gargoyle - Aldia's Keep
+325000 Ruin Sentinel (Boss)
+325010 Ruin Sentinel - Drangleic Castle
+326000 The Rotten (Boss)
+327000 Dragon Skeleton
+330000 Old Knight (Sword & Shield) - Heide's Tower of Flame
+330001 Old Knight (Sword & Shield) - Heide's Tower of Flame (Path to Cathedral of Blue)
+330010 Old Knight (Ultra Greatsword) - Heide's Tower of Flame / Unseen Path to Heide
+330012 Old Knight (Ultra Greatsword) - Drangleic Castle
+330019 Old Knight (Ultra Greatsword) - Heide's Tower of Flame (NG+)
+330040 Old Knight (Great Hammer) - Heide's Tower of Flame
+330043 Old Knight (Great Hammer) - Drangleic Castle
+330044 Old Knight (Great Hammer) - Shrine of Amana
+330049 Old Knight (Great Hammer) - Heide's Tower of Flame (NG+)
+331002 Drakekeeper (Sword & Shield)
+331011 Drakekeeper (Ultra Greatsword)
+331021 Drakekeeper - Unused
+331031 Drakekeeper (Great Hammer)
+331041 Drakekeeper (Warpick & Greatshield)
+332000 Throne Defender (Boss)
+333000 Velstadt, the Royal Aegis (Boss)
+334000 Throne Watcher (Boss)
+337000 Captive Undead (Unarmed) - Huntsman's Copse
+337002 Captive Undead (Unarmed) - The Gutter
+337003 Captive Undead (Unarmed) - Grave of Saints
+337010 Captive Undead (Torch) - Huntsman's Copse
+337011 Captive Undead (Torch) - The Gutter
+337020 Captive Undead (Broken Straight Sword) - Huntsman's Copse
+337022 Captive Undead (Dark Broken Straight Sword) - The Gutter
+337023 Captive Undead - Unused
+500000 Covetous Demon (Boss)
+500100 Covetous Demon - Frozen Eleum Loyce
+501000 Mytha, the Baneful Queen (Boss)
+502000 Manscorpion Tark (NPC)
+502001 Manscorpion Tark (Dead)
+502009 Manscorpion Tark (Summon)
+503000 Scorpioness Najka (Boss)
+504000 Looking Glass Knight (Boss)
+506100 Darklurker (Boss)
+506101 Darklurker (Clone) (Boss)
+506200 Darklurker (Portal) (Boss)
+506500 Grave Warden Agdayne (NPC)
+506501 Grave Warden Agdayne (Dead)
+506509 Grave Warden Agdayne (Summon)
+509000 Leydia Witch
+509009 Leydia Witch - Unused
+511000 Imperious Knight
+512000 Leydia Pyromancer
+514600 Vendrick (Boss)
+600000 Ancient Dragon (Boss)
+601000 Flame Lizard - Forest of Fallen Giants
+601001 Flame Lizard - Memory of the Old Iron King
+602000 Demon of Song (Boss)
+603000 The Duke's Dear Freja (Boss)
+603100 The Duke's Dear Freja (Encounter) - (NG+)
+607000 Old Iron King (Boss)
+608000 Corrosive Ant Queen
+611010 Dragonrider (Bow) (Boss) - Drangleic Castle
+611500 Dragonrider (Halberd) (Boss) - Drangleic Castle
+611510 Dragonrider (Halberd) (Boss) - Heide's Tower of Flame
+611520 Dragonrider (Halberd) - Undead Crypt
+611530 Dragonrider (Halberd) - Shrine of Amana
+619110 Executioner's Chariot (Boss) - Undead Purgatory
+619111 Executioner's Chariot - Drangleic Castle
+625000 Old Dragonslayer (Boss)
+626000 The Lost Sinner (Boss)
+627000 Nashandra (Boss)
+628000 Royal Rat Authority (Boss)
+650000 Iron Warrior (Smelter Hammer) - Brume Tower (Upper)
+650001 Iron Warrior (Smelter Hammer) - Brume Tower (Lower)
+650002 Iron Warrior - Unused
+650003 Iron Warrior (Smelter Hammer, Black Phantom) - Brume Tower (NG+7)
+650004 Iron Warrior - Unused
+650010 Iron Warrior - Unused
+650011 Iron Warrior (Mace) - Brume Tower
+650012 Iron Warrior (Mace) - Iron Passage
+650013 Iron Warrior (Mace, Black Phantom) - Brume Tower (NG+7) / Iron Passage (NG+2)
+651000 Fume Sorcerer (Brume Tower) (Upper)
+651001 Fume Sorcerer (Brume Tower) (Lower)
+651002 Fume Sorcerer (Iron Passage)
+651003 Fume Sorcerer - Unused
+653000 Ashen Warrior (Axes) - Brume Tower (Upper)
+653001 Ashen Warrior - Unused
+653002 Ashen Warrior (Axes) - Brume Tower (Lower)
+653003 Ashen Warrior (Axes) - Iron Passage
+653004 Ashen Warrior (Fire Axes) - Brume Tower
+653005 Ashen Warrior - Unused
+653006 Ashen Warrior (Axes, Black Phantom) - Brume Tower (NG+2 / NG+7)
+653010 Ashen Warrior (Sword) - Brume Tower (Upper)
+653011 Ashen Warrior (Sword) - Brume Tower (Lower)
+653012 Ashen Warrior (Sword) - Iron Passage
+653020 Ashen Warrior (Halberd & Shield) - Brume Tower (Upper)
+653021 Ashen Warrior (Halberd & Shield) - Brume Tower (Lower)
+653022 Ashen Warrior (Halberd & Shield) - Iron Passage
+653029 Ashen Warrior (Halberd & Shield, Black Phantom) - Brume Tower (NG+2)
+653030 Ashen Warrior (Bow) - Brume Tower (Upper)
+653031 Ashen Warrior (Bow) - Brume Tower (Lower)
+653032 Ashen Warrior - Unused
+654000 Ashen Crawler
+654001 Ashen Crawler - Unused
+656000 Possessed Armor - Brume Tower (Upper)
+656001 Possessed Armor - Brume Tower (Lower)
+656002 Possessed Armor - Unused
+656003 Possessed Armor - Brume Tower (Upper)
+656004 Possessed Armor - Brume Tower (Lower)
+656005 Possessed Armor - Iron Passage
+656006 Possessed Armor (Black Phantom) - Iron Passage (NG+2) / Brume Tower (NG+7)
+657000 Barrel Carrier - Brume Tower (Upper)
+657001 Barrel Carrier - Brume Tower (Lower)
+658000 Alsanna, Silent Oracle
+659000 Rampart Golem - Frozen Eleum Loyce
+659001 Rampart Golem - Frozen Eleum Loyce
+659002 Rampart Golem - Frigid Outskirts
+659003 Rampart Golem (Black Phantom) - Frozen Eleum Loyce (NG+2)
+659004 Rampart Golem - Unused
+659005 Rampart Golem (Black Phantom) - Frigid Outskirts (NG+2)
+660000 Ice Golem
+660001 Ice Golem - Unused
+660002 Ice Golem (Black Phantom) - (NG+2)
+660003 Ice Golem - Unused
+661000 Frozen Reindeer
+661001 Frozen Reindeer (Black Phantom) - Unused
+662000 Rampart Hedgehog
+662001 Rampart Hedgehog (Black Phantom) - (NG+2)
+663000 Rampart Spearman (Ice Rapier, Armored)
+663001 Rampart Spearman (Ice Rapier)
+663002 Rampart Spearman - Unused
+663003 Rampart Spearman - Unused
+663004 Rampart Spearman (Ice Rapier, Armored, Black Phantom) - (NG+2)
+663005 Rampart Spearman - Unused
+663010 Rampart Spearman (Spear & Shield, Armored)
+663011 Rampart Spearman (Spear & Shield)
+663012 Rampart Spearman - Unused
+663013 Rampart Spearman - Unused
+665000 Sanctum Knight (Scimitars)
+665001 Sanctum Knight - Unused
+665010 Sanctum Knight (Crossbows)
+665011 Sanctum Knight - Unused
+666000 Sanctum Soldier (Mace) - Shulva
+666001 Sanctum Soldier (Mace) - Cave of the Dead
+666002 Sanctum Soldier (Mace) - Dragon's Sanctum
+666010 Sanctum Soldier (Lance) - Shulva
+666011 Sanctum Soldier (Lance) - Cave of the Dead
+666012 Sanctum Soldier - Unused
+666020 Sanctum Soldier (Bow) - Shulva
+666021 Sanctum Soldier (Bow) - Cave of the Dead
+666022 Sanctum Soldier - Unused
+666030 Sanctum Soldier - Unused
+666040 Sanctum Soldier (Mace, Poison Aura) - Dragon's Sanctum
+666041 Sanctum Soldier (Mace, Poison Aura) - Cave of the Dead
+666050 Sanctum Soldier (Lance, Poison Aura) - Dragon's Sanctum
+666051 Sanctum Soldier - Unused
+666060 Sanctum Soldier - Unused
+666061 Sanctum Soldier - Unused
+666070 Sanctum Soldier - Unused
+666080 Sanctum Soldier (Torch, Poison Aura) - Cave of the Dead
+670000 Sanctum Priestess
+671000 Poison Statue Cluster - Shulva
+671001 Poison Statue Cluster - Black Gulch (NG+)
+671100 Petrifying Statue Cluster
+672000 Corrosive Egg Insect - Shulva
+672001 Corrosive Egg Insect - Dragon's Sanctum
+672002 Corrosive Egg Insect - The Gutter
+674000 Pagan Tree
+675000 Fume Knight (Boss)
+675001 Fume Knight - Unused
+675010 Fume Knight - Unused
+675011 Fume Knight - Unused
+677000 Retainer Sorcerer (Short Sword)
+677001 Retainer Sorcerer - Unused
+677010 Retainer Sorcerer (Staff)
+677011 Retainer Sorcerer - Unused
+678000 Frozen Golem (Dormant) - Frozen Eleum Loyce (Inner Wall)
+678001 Frozen Golem (Active) - Frozen Eleum Loyce (Lower Garrison)
+678010 Frozen Golem (Dormant) - Frozen Eleum Loyce (Lower Garrison)
+678011 Frozen Golem - Unused
+678099 Frozen Golem - Unused
+679000 Lud, the King's Pet (Boss)
+679001 Lud, the King's Pet - Unused
+679002 Zallen, the King's Pet (Boss)
+679100 Aava, the King's Pet (Boss)
+679101 Aava, the King's Pet - Unused
+680000 Sir Alonne (Boss)
+681000 Sinh, the Slumbering Dragon (Boss)
+682000 Elana, the Squalid Queen (Boss)
+683000 Imperfect
+684000 Vendrick (NPC)
+685000 Skeleton (Falchion & Shield) (Boss - Elana, the Squalid Queen)
+686000 Small Undead Boar (Boss - Elana, the Squalid Queen)
+687000 Velstadt, the Royal Aegis (Boss - Elana, the Squalid Queen)
+688000 Loyce Knight (Greatsword)
+688010 Loyce Knight (Bardiche)
+688020 Loyce Knight (Axe)
+688030 Loyce Knight (Straight Sword)
+689000 Charred Loyce Knight (Greatsword)
+689010 Charred Loyce Knight (Axe)
+689020 Charred Loyce Knight (Warpick)
+689030 Charred Loyce Knight (Pyromancer)
+690000 Burnt Ivory King (Boss)
+690001 Burnt Ivory King - Unused
+692000 Aldia, Scholar of the First Sin (Boss)
+693000 Aldia, Scholar of the First Sin (NPC)
+694000 Forlorn (Greatsword) - Forest of Fallen Giants
+694001 Forlorn (Greatsword) - No-man's Wharf
+694002 Forlorn (Greatsword) - Lost Bastille
+694003 Forlorn (Greatsword) - Huntsman's Copse
+694004 Forlorn (Greatsword) - Harvest Valley / Earthen Peak
+694005 Forlorn (Greatsword) - Iron Keep
+694006 Forlorn (Greatsword) - Black Gulch
+694007 Forlorn (Greatsword) - Shaded Woods
+694008 Forlorn (Greatsword) - Brightstone Cove Tseldora
+694009 Forlorn (Greatsword) - Aldia's Keep
+695000 Forlorn (Scythe) - Unused
+695001 Forlorn (Scythe) - Drangleic Castle
+695002 Forlorn (Scythe) - Shrine of Amana
+695003 Forlorn (Scythe) - Undead Crypt
+695004 Forlorn (Scythe) - Aldia's Keep
+695005 Forlorn (Scythe) - Dragon Aerie
+695006 Forlorn (Scythe) - Shulva / Dragon's Sanctum
+695007 Forlorn (Scythe) - Brume Tower
+695008 Forlorn (Scythe) - Frozen Eleum Loyce
+696000 Invisible Hollow
+700500 Emerald Herald - Majula
+700501 Emerald Herald (Dead)
+700502 Emerald Herald - Drangleic Castle / Throne of Want
+700503 Emerald Herald - Undead Crypt
+700504 Emerald Herald - Dragon Aerie
+701500 Emerald Herald (Child) - Unused
+703600 Nashandra (NPC)
+704500 Laddersmith Gilligan
+704501 Laddersmith Gilligan (Dead)
+704510 Laddersmith Gilligan (Cutscene Model)
+705000 Strowen (Cutscene Model)
+705100 Morrel (Cutscene Model)
+705300 Griant (Cutscene Model)
+705500 Strowen
+705501 Strowen (Dead)
+705600 Morrel
+705601 Morrel (Dead)
+705800 Griant
+705801 Griant (Dead)
+721100 Chancellor Wellager
+723000 Milibeth
+723001 Milibeth (Dead)
+723010 Milibeth (Cutscene Model)
+724000 Captain Drummond - Memory of Vammar
+724001 Captain Drummond (Dead)
+724002 Captain Drummond (Summon) - Memory of Jeigh
+725000 Darkdiver Grandahl - Shaded Woods
+725001 Darkdiver Grandahl (Dead)
+725002 Darkdiver Grandahl - Black Gulch
+725003 Darkdiver Grandahl - Drangleic Castle
+726000 Lonesome Gavlan - Unused
+726001 Lonesome Gavlan (Dead)
+726002 Lonesome Gavlan - Harvest Valley
+726003 Lonesome Gavlan - No-man's Wharf
+726004 Lonesome Gavlan - Doors of Pharros
+726005 Lonesome Gavlan - Unused
+726006 Lonesome Gavlan - Unused
+730000 Looking Glass Phantom (Faraam) - King's Passage
+730001 Looking Glass Phantom (Faraam) - Aldia's Keep
+731010 Looking Glass Phantom (Knight) - King's Passage
+731011 Looking Glass Phantom (Knight) - Aldia's Keep
+732000 Lost Sinner Pyromancer Phantom (Male)
+733000 Lost Sinner Pyromancer Phantom (Female)
+741000 Crestfallen Saulden
+741001 Crestfallen Saulden (Dead)
+742000 Creighton the Wanderer - Brightstone Cove Tseldora
+742001 Creighton the Wanderer (Dead)
+742002 Creighton the Wanderer - Shaded Woods
+742003 Creighton the Wanderer - Huntsman's Copse
+742009 Creighton the Wanderer (Summon) - Huntsman's Copse
+743000 Benhart of Jugo - Forest of Fallen Giants
+743001 Benhart of Jugo (Dead)
+743002 Benhart of Jugo - Old Akelarre
+743003 Benhart of Jugo - Drangleic Castle
+743004 Benhart of Jugo - Memory of Orro
+743006 Benhart of Jugo (Summon) - King's Passage
+743007 Benhart of Jugo (Summon) - Throne of Want
+743008 Benhart of Jugo (Summon) - Memory of Jeigh
+743009 Benhart of Jugo (Summon) - Brightstone Cove Tseldora
+743010 Benhart of Jugo (Summon) - Dragon's Rest
+744000 Mild Mannered Pate - Forest of Fallen Giants
+744001 Mild Mannered Pate (Dead)
+744002 Mild Mannered Pate - Brightstone Cove Tseldora
+744003 Mild Mannered Pate - Earthen Peak
+744009 Mild Mannered Pate (Summon) - Forest of Fallen Giants
+751000 Cartographer Cale
+751001 Cartographer Cale (Dead)
+752000 Lucatiel of Mirrah - Aldia's Keep
+752001 Lucatiel of Mirrah (Dead)
+752002 Lucatiel of Mirrah - Lost Bastille
+752003 Lucatiel of Mirrah - Earthen Peak
+752004 Lucatiel of Mirrah - No-man's Wharf
+752005 Lucatiel of Mirrah - Black Gulch
+752006 Lucatiel of Mirrah (Summon) - Black Gulch
+752007 Lucatiel of Mirrah (Summon) - Iron Keep
+752008 Lucatiel of Mirrah (Summon) - No-man's Wharf
+752009 Lucatiel of Mirrah (Summon) - Sinner's Rise
+752010 Lucatiel of Mirrah (Summon) - Grand Cathedral
+753000 Bell Keeper (NPC) - Belfry Luna
+753001 Bell Keeper (NPC) (Dead)
+753002 Bell Keeper (NPC) - Belfry Sol
+753003 Bell Keeper - Belfry Luna
+753004 Bell Keeper - Belfry Sol
+753008 Bell Keeper (Black Phantom) - Belfry Sol
+753009 Bell Keeper (Black Phantom) - Belfry Luna
+754000 Merchant Hag Melentia
+754001 Merchant Hag Melentia (Dead)
+760000 Milfanito - Shrine of Amana (Hut)
+760001 Milfanito (Dead) - Shrine of Amana (Hut)
+760100 Milfanito - Shrine of Amana (Altar)
+760101 Milfanito (Dead) - Shrine of Amana (Altar)
+760200 Milfanito - Drangleic Castle
+760201 Milfanito (Dead) - Drangleic Castle
+761000 Maughlin the Armourer
+761001 Maughlin the Armourer (Dead)
+762000 Stone Trader Chloanne - Earthen Peak
+762001 Stone Trader Chloanne (Dead)
+762002 Stone Trader Chloanne - Majula
+763000 Rosabeth of Melfia
+763001 Rosabeth of Melfia (Dead)
+764000 Blacksmith Lenigrast
+764001 Blacksmith Lenigrast (Dead)
+764300 Steady Hand McDuff
+764309 Steady Hand McDuff (Dead)
+766000 Carhillion of the Fold
+766001 Carhillion of the Fold (Dead)
+768000 Straid of Olaphis
+768001 Straid of Olaphis (Dead)
+769000 Licia of Lindeldt
+769001 Licia of Lindeldt (Dead)
+770000 Felkin the Outcast
+770001 Felkin the Outcast (Dead)
+771000 Royal Sorcerer Navlaan
+771001 Royal Sorcerer Navlaan (Dead)
+771004 Royal Sorcerer Navlaan (Invader) - Drangleic Castle
+771005 Royal Sorcerer Navlaan (Invader) - The Gutter
+771006 Royal Sorcerer Navlaan - Unused
+771007 Royal Sorcerer Navlaan (Invader) - Aldia's Keep / Dragon Aerie
+771009 Royal Sorcerer Navlaan (Invader) - Brightstone Cove Tseldora
+771010 Royal Sorcerer Navlaan (Invader) - Forest of Fallen Giants
+772000 Magerold of Lanafir
+772001 Magerold of Lanafir (Dead)
+776000 Weaponsmith Ornifex - Brightstone Cove Tseldora
+776001 Weaponsmith Ornifex (Dead)
+776002 Weaponsmith Ornifex - Shaded Woods
+777000 Sweet Shalquoir
+783000 Titchy Gren
+783001 Titchy Gren (Dead)
+784000 Cromwell the Pardoner
+784001 Cromwell the Pardoner (Dead)
+785000 Blue Sentinel Targray
+785001 Blue Sentinel Targray (Dead)
+786000 Dyna & Tillo
+805000 Player Character (Cutscene Model)
+810000 Masterless Glencour - Unused
+810001 Masterless Glencour - Unused
+810002 Masterless Glencour - Unused
+810003 Masterless Glencour - Heide's Tower of Flame
+810005 Masterless Glencour - Frozen Eleum Loyce
+810006 Masterless Glencour - Belfry Luna
+811000 Lone Hunter Schmidt - Black Gulch
+811001 Lone Hunter Schmidt - Shrine of Amana
+812000 Pilgrim Bellclaire - Lost Bastille
+812001 Pilgrim Bellclaire - Unused
+812002 Pilgrim Bellclaire - Drangleic Castle
+813000 Felicia the Brave - Shrine of Amana
+813001 Felicia the Brave - Lost Bastille
+814000 Melinda the Butcher (Summon) - Dragon Shrine
+814008 Melinda the Butcher - Unused
+814009 Melinda the Butcher (Invader) - The Gutter
+820000 Vorgel the Sinner - Belfry Luna
+821000 Merciless Roenna - Huntsman's Copse
+821001 Merciless Roenna - Unused
+822000 Peculiar Kindalur - Unused
+822001 Peculiar Kindalur - Unused
+822002 Peculiar Kindalur - Unused
+822003 Peculiar Kindalur - Shrine of Amana
+823000 Dragonfang Villard - Dragon Shrine
+824000 Aslatiel of Mirrah - Aldia's Keep
+831000 Dingy Cleric Phantom - Majula Pit (NG+)
+831100 Faraam Knight Phantom - Majula Pit (NG+)
+832000 Underworld Deadeye - Dark Chasm of Old
+832100 Abyss Ironclad - Dark Chasm of Old
+832200 Pretender to the Xanthous Throne (Male) - Dark Chasm of Old
+832300 Pretender to the Xanthous Throne (Female) - Dark Chasm of Old
+832400 Tenebrous Rogue - Dark Chasm of Old
+832500 The Ghost of Princes Past - Dark Chasm of Old
+832600 A Chip Off the Ol' Rock - Dark Chasm of Old
+832700 Shadowveil Assassin - Dark Chasm of Old
+833000 Butcher Phantom - Shrine of Amana (NG+)
+835000 Black Dragon Knight (Greataxes) - Dragon Shrine
+835001 Painting Guardian Phantom - Unused
+835100 Black Dragon Knight (Warpick & Shield) - Dragon Shrine
+835200 Black Dragon Knight (Sword & Shield) - Dragon Shrine
+835300 Black Dragon Knight (Sword/Greatbow & Shield) - Dragon Shrine
+836000 Mad Warrior Phantom - Belfry Sol
+836100 Greatsword Bell Keeper Phantom - Belfry Sol
+836200 Dual Avelyn Bell Keeper Phantom - Belfry Sol
+836300 Mage Bell Keeper Phantom - Belfry Sol
+836400 Ironclad Warrior Phantom - Iron Keep (NG+)
+837000 Foreign Wanderer Phantom - Things Betwixt (NG+)
+837100 Foreign Wanderer (Broken Straight Sword) - Things Betwixt
+837200 Foreign Wanderer (Bow & Broken Straight Sword) - Things Betwixt
+837201 Foreign Wanderer (Bow & Broken Straight Sword) - Things Betwixt (Behind Statue)
+837400 Greatsword Foreigner Phantom - Things Betwixt
+838200 Forest Guardian (Dagger) - Shaded Woods
+838201 Forest Guardian (Dagger) - Shaded Woods (Path to Drangleic Castle)
+838300 Forest Guardian (Longsword) - Shaded Woods
+838301 Forest Guardian (Longsword) - Shaded Woods (Path to Drangleic Castle)
+840000 Voice Marker
+841000 Voice Marker
+842000 Syan Knight Phantom - Forest of Fallen Giants (NG+)
+843000 Knight Phantom - Forest of Fallen Giants (NG+)
+844000 Catarina Knight Phantom - Forest of Fallen Giants (NG+)
+845000 UNKNOWN
+846000 Porcine Peasant Phantom - Brightstone Cove Tseldora
+847000 Executioner Phantom - Heide's Tower of Flame (NG+)
+847100 Sentinel Phantom - Heide's Tower of Flame (NG+)
+848000 Dual Wielding Swordsman Phantom - Brightstone Cove Tseldora (NG+)
+848100 UNKNOWN
+849000 Nameless Usurper - Drangleic Castle
+849001 Nameless Usurper - Undead Crypt
+849100 Jester Thomas (Summon) - Earthen Peak
+849200 Rhoy the Explorer - Grave of Saints
+850000 Painting Guardian Phantom - Aldia's Keep (NG+)
+851000 UNKNOWN
+852000 Greatsword Phantom - Undead Purgatory
+853000 Bowman Guthry - Doors of Pharros / Brightstone Cove Tseldora
+853100 Ashen Knight Boyd - Brightstone Cove Tseldora
+853101 Ashen Knight Boyd - King's Passage
+853200 Drakekeeper Knight Phantom - Drangleic Castle (NG+)
+853300 Elite Knight Phantom - Unused
+853400 Greatbow Phantom - Unused
+853500 Washing Pole Phantom - Drangleic Castle (NG+)
+854000 Aurous Knight Phantom - No-man's Wharf (NG+)
+855000 Voice Marker
+860000 Rockshield Baldyr - Shulva
+861000 Jester Thomas - Dragon's Sanctum
+862000 Cerah the Old Explorer (Boss)
+863000 Ancient Soldier Varg (Boss)
+864000 Afflicted Graverobber (Boss)
+865000 Abbess Feeva - Dragon's Rest
+865002 Abbess Feeva - Frigid Outskirts
+866000 Ruined Aflis - Cave of the Dead
+866001 Ruined Aflis - Forest of Fallen Giants
+867000 Steelheart Ellie - Dragon's Rest
+867001 Steelheart Ellie - Brume Tower
+867100 Steelheart Ellie - Frozen Eleum Loyce
+868000 Transcendent Edde - Dragon's Rest
+868100 Black Dragon Knight Phantom - Dragon Shrine
+869000 Rapacious Andrei - Cave of the Dead
+870000 Quicksword Rachel - Brume Tower
+871000 Maldron the Assassin - Brume Tower
+871100 Maldron the Assassin - Frozen Eleum Loyce
+872000 Astrologer - Iron Passage
+872009 Astrologer (Black Phantom) - Iron Passage (NG+2)
+873000 Notched Whip Phantom - Brume Tower (NG+2)
+874000 Carhillion of the Fold (Summon) - Brume Tower
+875000 Steel-willed Lorrie - Iron Passage
+875001 Steel-willed Lorrie - Memory of the Old Iron King
+876000 Drifter Swordsman Aidel - Brume Tower / Memory of the Old Iron King
+876001 Drifter Swordsman Aidel - Unused
+876002 Drifter Swordsman Aidel - Belfry Sol
+877000 Castaway Witch Donna - Frozen Eleum Loyce
+878000 Hexer Nicholai - Frozen Eleum Loyce
+879000 Holy Knight Aurheim - Frozen Eleum Loyce
+880000 Drakeblood Knight - Dragon's Sanctum
+881000 Prowler - Brume Tower
+882000 Prowlers - Brume Tower
+883000 Wall Watchman (Drakekeeper's Sword) - Frozen Eleum Loyce
+883100 Wall Watchman (Greatsword) - Frozen Eleum Loyce
+883200 Wall Watchman (Drakekeeper's Warpick) - Frozen Eleum Loyce
+884001 Twiggy Shei - Grand Cathedral
+885000 Exiled Brave (Faraam) - Frigid Outskirts
+885001 Exiled Brave (Faraam, Black Phantom) - Frigid Outskirts (NG+2)
+885100 Exiled Brave (Archdrake) - Frigid Outskirts
+885101 Exiled Brave (Archdrake, Black Phantom) - Frigid Outskirts (NG+2)
+886000 Insolent Knight - Undead Crypt
+887000 Gutter Denizen - The Gutter
+888000 Pyromancer - Shrine of Amana
+890000 UNKNOWN
+891000 Sellsword Luet - Forest of Fallen Giants
+891001 Sellsword Luet - Sinner's Rise
+891002 Sellsword Luet - Drangleic Castle
+891003 Sellsword Luet - Aldia's Keep
+891004 Sellsword Luet - Frozen Eleum Loyce
+891500 Devotee Scarlett - Earthen Peak
+891501 Devotee Scarlett - Undead Crypt
+891502 Devotee Scarlett - Heide's Tower of Flame
+892000 Manhunter O'Harrah - Iron Keep
+892001 Manhunter O'Harrah - Brightstone Cove Tseldora
+892002 Manhunter O'Harrah - Frigid Outskirts
+892500 Bashful Ray - Huntsman's Copse
+892501 Bashful Ray - Earthen Peak
+892502 Bashful Ray - Black Gulch
+892503 Bashful Ray - Brightstone Cove Tseldora
+892504 Bashful Ray - Drangleic Castle
+892505 Bashful Ray - Dragon Shrine
+893000 Bradley of the Old Guard - No-man's Wharf
+893001 Bradley of the Old Guard - Shaded Woods
+893002 Bradley of the Old Guard - Throne of Want
+896000 Woodland Child Victor - Black Gulch
+896500 Woodland Child Gully - Black Gulch
+897000 Fencer Sharron - Iron Keep
+897001 Fencer Sharron - Dragon Aerie
+897500 Armorer Dennis - Forest of Fallen Giants
+897501 Armorer Dennis - Iron Keep
+898000 Oliver the Collector - Iron Keep

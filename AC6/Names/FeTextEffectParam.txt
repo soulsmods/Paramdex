@@ -232,9 +232,9 @@
 91000200 Whiskey_Michigan -- ひそひそ_ミシガン
 91000210 Hiso Hiso_Snail -- ひそひそ_スネイル
 91000220 whisper_kara -- ひそひそ_カーラ
-110003021 Battle begins -- 対戦開始
-110003022 success -- 成功
-110003023 failure -- 失敗
+110003021 PROGRAM START
+110003022 PROGRAM COMPLETE
+110003023 PROGRAM ABORTED
 210001000 3VS3 rules_Start of battle -- 3VS3ルール_対戦開始
 260001000 1VS1 rules_Start of battle -- 1VS1ルール_対戦開始
 260001001 1VS1 rule_1st round start -- 1VS1ルール_1ラウンド目開始

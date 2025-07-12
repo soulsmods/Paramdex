@@ -1,0 +1,3 @@
+10 Character-specific
+20 Armament-specific
+30 General

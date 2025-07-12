@@ -1,0 +1,33 @@
+0 B0_Outdoors
+1 B0_indoor
+2 B0_Prison
+3 B0_cave
+4 B0_Aisle to the room of the sheath
+5 B0_Sheath's room
+6 B0_Old writing room
+7 B0_Woods
+9 B0_Indoor object
+10 B0_Outdoor _ Character
+11 B0_Indoor_characters
+12 B0_Prick character
+13 B0_Cave_character
+14 B0_Passage of a sheath's room _ Character
+15 B0_Sheath room _ character
+16 B0_Character of old library room
+17 B0_Mori_Character
+35 PolyG-scn170000-Character
+36 PolyG-scn170000-background
+37 PolyG-
+38 PolyG-
+39 PolyG-
+40 PolyG-
+41 PolyG-
+42 PolyG-
+43 PolyG-
+44 PolyG-
+45 PolyG-
+46 PolyG-
+47 PolyG-
+48 PolyG-
+49 PolyG-
+50 PolyG-

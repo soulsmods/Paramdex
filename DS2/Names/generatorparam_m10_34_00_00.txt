@@ -1,46 +1,45 @@
-285 【NPC】King of Mice -- 【NPC】ねずみの王
-286 【NPC】The King of Mice -- 【NPC】ねずみの王（亡霊）
-640 [Passage 2F_ Black Spirit] NPC for multi: transparent armor -- 【通路２F_黒霊】マルチ用NPC：透明鎧
-850 【BOSS】Dog Mouse: Color (2) -- 【BOSS】犬ネズミ：色②
-1000 [Down the aisle immediately after the start __ laugh] [Amazing dead: sword] _1 -- 【スタート直後の通路__笑う】【すごい亡者：剣】_1
-1001 [Down the aisle __ wall beating immediately after the start] [Amazing Dead: Sword] _2 -- 【スタート直後の通路__壁叩く】【すごい亡者：剣】_2
-1100 [Prowl the left hand side toward the circular saloon] 【Dog Mouse】 -- 【円形広間_向かって左手側をうろつく】【犬ネズミ】
-1150 [Lattice battle in the circular saloon] 【Dog Rat】_1 -- 【円形広間の格子_戦闘】【犬ネズミ】_1
-1155 [Lattice battle in the circular saloon] 【Dog Rat】_2 -- 【円形広間の格子_戦闘】【犬ネズミ】_2
-1180 [Lattice_combat on the side of the lamp stand] 【Dog Mouse】 -- 【灯火台脇の格子_戦闘】【犬ネズミ】
-1251 [Aisle 1F left hand _ laugh] [Amazing dead: sword] -- 【通路1F左手_笑う】【すごい亡者：剣】
-1300 [Upper and lower hole _ lower hole _ battle] 【Dog Mouse】 -- 【上下穴_下穴_戦闘】【犬ネズミ】
-1301 [Upper hole _ upper hole _ battle] 【Dog Rat】_1 -- 【上下穴_上穴_戦闘】【犬ネズミ】_1
-1302 [Upper and lower hole _ lower hole _ battle] 【Dog Rat】_2 -- 【上下穴_下穴_戦闘】【犬ネズミ】_2
-1400 [Under the spiral staircase _ right hand hole _ battle] 【Dog Mouse】 -- 【螺旋階段の下_右手の穴_戦闘】【犬ネズミ】
-1500 [Hole in the middle under the spiral staircase_ battle] 【Dog Mouse】 -- 【螺旋階段の下_中央の穴_戦闘】【犬ネズミ】
-1600 [Under the spiral staircase _ hole in the left hand _ battle] 【Dog Mouse】 -- 【螺旋階段の下_左手の穴_戦闘】【犬ネズミ】
-1700 [Dead End Room_ Battle] 【Dog Rat】_1 -- 【行き止まり部屋_戦闘】【犬ネズミ】_1
-1701 [Dead End Room_ Battle] 【Dog Rat】_2 -- 【行き止まり部屋_戦闘】【犬ネズミ】_2
-1702 [Dead End Room_ Battle] 【Dog Rat】_3 -- 【行き止まり部屋_戦闘】【犬ネズミ】_3
-1800 [Battle coming out of the ceiling] 【Dog Rat】_1 -- 【天井から出てくる_戦闘】【犬ネズミ】_1
-1801 [Battle coming out of the ceiling] 【Dog Rat】_2 -- 【天井から出てくる_戦闘】【犬ネズミ】_2
-1802 [Battle coming out of the ceiling] 【Dog Rat】_3 -- 【天井から出てくる_戦闘】【犬ネズミ】_3
-1803 [Battle coming out of the ceiling] 【Dog Rat】_4 -- 【天井から出てくる_戦闘】【犬ネズミ】_4
-1804 [Battle coming out of the ceiling] 【Dog Rat】_5 -- 【天井から出てくる_戦闘】【犬ネズミ】_5
-1900 [Puddle _ battle of the lowest layer] 【Andet Citizen】_1 -- 【最下層の水たまり_戦闘】【アンデット市民】_1
-1901 [Puddle _ battle of the lowest layer] 【Andet Citizen】_2 -- 【最下層の水たまり_戦闘】【アンデット市民】_2
-1902 [Puddle _ battle of the lowest layer] 【Andet Citizen】_3 -- 【最下層の水たまり_戦闘】【アンデット市民】_3
-1904 [Puddle _ battle of the lowest layer] 【Andet Citizen】_5 -- 【最下層の水たまり_戦闘】【アンデット市民】_5
-1905 [Puddle _ battle of the lowest layer] 【Andet Citizen】_6 -- 【最下層の水たまり_戦闘】【アンデット市民】_6
-1907 [Puddle _ battle of the lowest layer] 【Andet Citizen】_8 -- 【最下層の水たまり_戦闘】【アンデット市民】_8
-1910 [Suspension bridge at the bottom layer] 【Ishimori】 -- 【最下層の吊り橋】【石守】
-8000 Saint's Tomb: Abandoned Saint -- 聖人墓所：捨てられた聖女
-8010 Saint's Tomb: Knight of the Saint -- 聖人墓所：聖女の騎士
-9000 【Boss Room_Accompanying】Dog Rat_1 -- 【ボス部屋_お供】犬ネズミ_1
-9001 【Boss Room_Accompanying】Dog Rat_2 -- 【ボス部屋_お供】犬ネズミ_2
-9002 【Boss Room_Accompanying】Dog Rat_3 -- 【ボス部屋_お供】犬ネズミ_3
-9003 【Boss Room_Accompanying】Dog Rat_4 -- 【ボス部屋_お供】犬ネズミ_4
-9004 【Boss Room_Accompanying】Dog Rat_5 -- 【ボス部屋_お供】犬ネズミ_5
-9005 【Boss Room_Accompanying】Dog Rat_6 -- 【ボス部屋_お供】犬ネズミ_6
-9006 【Boss Room_Accompanying】Dog Rat_7 -- 【ボス部屋_お供】犬ネズミ_7
-9007 【Boss Room_Accompanying】Dog Rat_8 -- 【ボス部屋_お供】犬ネズミ_8
-9008 【Boss Room_Accompanying】Dog Rat_9 -- 【ボス部屋_お供】犬ネズミ_9
-9009 【Boss Room_Accompanying】Dog Rat_10 -- 【ボス部屋_お供】犬ネズミ_10
-9010 【Boss Room_Accompanying】Dog Rat_11 -- 【ボス部屋_お供】犬ネズミ_11
-9011 【Boss Room_Accompanying】Dog Rat_12 -- 【ボス部屋_お供】犬ネズミ_12
+285 [GEN:285] Corpse Rat (Rat King)
+286 [GEN:286] Corpse Rat (Rat King)
+640 [GEN:640] Rhoy the Explorer
+641 [GEN:641] Rhoy the Explorer
+850 [GEN:850] Corpse Rat
+1000 [GEN:1000] Captive Undead
+1001 [GEN:1001] Captive Undead
+1100 [GEN:1100] Corpse Rat
+1150 [GEN:1150] Corpse Rat
+1155 [GEN:1155] Corpse Rat
+1180 [GEN:1180] Corpse Rat
+1251 [GEN:1251] Captive Undead
+1300 [GEN:1300] Corpse Rat
+1301 [GEN:1301] Corpse Rat
+1302 [GEN:1302] Corpse Rat
+1400 [GEN:1400] Corpse Rat
+1500 [GEN:1500] Corpse Rat
+1600 [GEN:1600] Corpse Rat
+1700 [GEN:1700] Corpse Rat
+1701 [GEN:1701] Corpse Rat
+1702 [GEN:1702] Corpse Rat
+1800 [GEN:1800] Corpse Rat
+1801 [GEN:1801] Corpse Rat
+1802 [GEN:1802] Corpse Rat
+1803 [GEN:1803] Corpse Rat
+1804 [GEN:1804] Corpse Rat
+1904 [GEN:1904] Rupturing Hollow
+1905 [GEN:1905] Rupturing Hollow
+1907 [GEN:1907] Rupturing Hollow
+1910 [GEN:1910] Crystal Lizard
+7000 [GEN:7000] Syan Knight
+8000 [GEN:8000] Dingy Cleric Phantom
+8010 [GEN:8010] Faraam Knight Phantom
+9000 [GEN:9000] Corpse Rat
+9001 [GEN:9001] Corpse Rat
+9002 [GEN:9002] Corpse Rat
+9003 [GEN:9003] Corpse Rat
+9004 [GEN:9004] Corpse Rat
+9005 [GEN:9005] Corpse Rat
+9006 [GEN:9006] Corpse Rat
+9007 [GEN:9007] Corpse Rat
+9008 [GEN:9008] Corpse Rat
+9009 [GEN:9009] Corpse Rat
+9010 [GEN:9010] Corpse Rat
+9011 [GEN:9011] Corpse Rat

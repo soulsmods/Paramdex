@@ -1,34 +1,3 @@
-10320700 Brazier
-10320701 Brazier
-10320702 Brazier
-10320703 Brazier
-10320704 Brazier
-10320705 Brazier
-10320706 Brazier
-10320707 Brazier
-10320708 Brazier
-10320709 Brazier
-10320710 Brazier
-10320711 Brazier
-10320712 Brazier
-10320713 Brazier
-10320714 Brazier
-10320715 Brazier
-10320716 Brazier
-10320717 Brazier
-10320718 Brazier
-10320719 Brazier
-10320720 Brazier
-10320721 Brazier
-10320722 Brazier
-10320723 Brazier
-10320724 Brazier
-10320725 Brazier
-10320726 Brazier
-10320727 Brazier
-10320728 Brazier
-10320729 Brazier
-10320730 Brazier
 10325000 [Chest] Treasure
 10325010 [Chest] Treasure
 10325020 [Chest] Treasure

@@ -137,37 +137,38 @@
 10194000 【NPC】Tomb_Curiosity Shop -- 【NPC】墓_珍品屋
 10194100 【NPC】Tomb_Bell Guard -- 【NPC】墓_鐘守
 10194999 Part of a broken bridge -- 壊れる橋の一部
-10195000 【Wooden treasure chest】The room of the upper and lower scaffolding, the hill in front of the right hand as seen from the entrance -- 【木宝箱07】上下足場の部屋、入り口から見て右手前の高台
-10195030 【Iron Treasure Chest 09】 Molten Iron Furnace Area_Right Hand -- 【鉄宝箱09】　熔鉄炉エリア_右手前
-10195040 [Iron treasure chest 11] molten iron furnace area __ left back ladder -- 【鉄宝箱11】　熔鉄炉エリア__左奥梯子上
-10195050 【Iron Treasure Chest 06】 Return road from the bell guard area_Hidden Room_Left -- 【鉄宝箱06】　鐘守エリアからの復帰路_隠し部屋_左
-10195060 【Iron Treasure Chest 07】 Return road from the bell guard area_Hidden Room_Right -- 【鉄宝箱07】　鐘守エリアからの復帰路_隠し部屋_右
-10195090 [Iron treasure box 08] roof on a huge molten iron kettle -- 【鉄宝箱08】　巨大熔鉄釜上の屋上
-10195100 [Iron treasure chest 02] molten iron furnace area_right center -- 【鉄宝箱02】　熔鉄炉エリア_右中央下
-10195110 [Iron treasure chest 04] fall under scaffolding _ damage floor back -- 【鉄宝箱04】　倒れる足場下_ダメージ床奥
-10195120 【Iron Treasure Chest】 Bell Guard Goal Destination -- 【鉄宝箱10】　鐘守ゴール先
-10195130 【Iron Treasure Chest】Near the bonfire in front of the bell guard -- 【鉄宝箱03】　鐘守手前の篝火のそば
-10195140 【Iron Treasure Chest】 On the Stairs after the Demon Knight War -- 【鉄宝箱13】　デーモンナイト戦後の階段上
-10195150 [Iron Treasure Chest 05] Boss After Treasure Room_Right -- 【鉄宝箱05】　ボス後宝部屋_右
-10196000 【Treasure Corpse】The back of the bell guard area_tower -- 【宝死体10】　鐘守エリア_塔の裏
-10196010 【Treasure Corpse】Bell Guard Area_Roof -- 【宝死体11】　鐘守エリア_屋根のへり
-10196020 【Treasure Corpse】Bell Guard Area_Goal -- 【宝死体12】　鐘守エリア_ゴール手前
-10196030 【Treasure corpse 06】 Molten iron furnace area_Scaffolding in the left back -- 【宝死体06】　熔鉄炉エリア_左奥下の足場
-10196040 【Treasure Corpse 13】 Roof on a giant molten iron kettle -- 【宝死体13】　巨大熔鉄釜上の屋上
-10196050 【Treasure Corpse 21】 Inside the statue of a cow_ in front of a fire-blowing cow -- 【宝死体21】　牛の像内部_火吹き牛の前
-10196060 【Treasure Corpse 07】 Molten Iron Furnace Area_Right Column -- 【宝死体07】　熔鉄炉エリア_右側の柱
-10196070 [Treasure corpse 09] the back of the ladder past the furnace of burning -- 【宝死体09】　灼熱の炉を通過した先の梯子裏
-10196080 [Treasure Corpse 04] [Key of fire] next to the statue of the fire spout ing immediately after entering the castle -- 【宝死体04】【火の鍵】城入ってすぐの火噴き像横
-10196090 【Treasure corpse 05】 Water vase room at the door above the statue of fire -- 【宝死体05】　火噴き像の上の隠し扉先の水壺部屋
-10196100 【Treasure corpse 14】 on the beam on the giant molten iron kettle_2 -- 【宝死体14】　巨大熔鉄釜上の梁の上_2
-10196110 [Treasure corpse 17] falling scaffolding_left back -- 【宝死体17】　倒れる足場_左奥
-10196120 [Treasure corpse 23] switch molten iron kettle_1 -- 【宝死体23】　スイッチ熔鉄釜_1つ目
-10196130 [Treasure corpse 19] falling scaffolding _ in front of the white door -- 【宝死体19】　倒れる足場_白扉前
-10196140 [Treasure corpse 02_ human bone_whole body] jumping scaffolding the back of the start immediately after the start -- 【宝死体02_人骨_全身】　スタート直後の飛び乗り足場最奥
-10196150 【Treasure corpse 03】 In front of the molten iron furnace area_The back of the hidden door -- 【宝死体03】　熔鉄炉エリア手前_隠し扉の奥
-10196160 [Treasure corpse 08_human bone_whole body] molten iron furnace area_central front stairs under -- 【宝死体08_人骨_全身】　熔鉄炉エリア_中央手前階段下
-10196170 [Treasure corpse 20] huge molten iron kettle_half-body bath -- 【宝死体20】　巨大熔鉄釜_半身浴
-10196180 [Treasure corpse 01_ human bone_ skull] immediately after the start _ stairs back -- 【宝死体01_人骨_頭蓋骨】　スタート直後_階段裏
-10196190 [Treasure corpse 16_ human bone_skull] falling scaffold _ beyond the iron kettle -- 【宝死体16_人骨_頭蓋骨】　倒れる足場_熔鉄釜の先
-10196200 【Treasure corpse 15】 Return road from the bell guard area_stairs side -- 【宝死体15】　鐘守エリアからの復帰路_階段脇
-10196210 【Treasure Corpse 16】 Inside the Burning Furnace -- 【宝死体16】　灼熱の炉の中
+10195000 [Chest] Treasure
+10195030 [Chest] Treasure
+10195040 [Chest] Treasure
+10195050 [Chest] Treasure
+10195060 [Chest] Treasure
+10195090 [Chest] Treasure
+10195100 [Chest] Treasure
+10195110 [Chest] Treasure
+10195120 [Chest] Treasure
+10195130 [Chest] Treasure
+10195140 [Chest] Treasure
+10195150 [Chest] Treasure
+10196000 [Corpse] Treasure
+10196010 [Corpse] Treasure
+10196020 [Corpse] Treasure
+10196030 [Corpse] Treasure
+10196040 [Corpse] Treasure
+10196050 [Corpse] Treasure
+10196060 [Corpse] Treasure
+10196070 [Corpse] Treasure
+10196080 [Corpse] Treasure
+10196090 [Corpse] Treasure
+10196100 [Corpse] Treasure
+10196110 [Corpse] Treasure
+10196120 [Corpse] Treasure
+10196130 [Corpse] Treasure
+10196140 [Corpse] Treasure
+10196150 [Corpse] Treasure
+10196160 [Corpse] Treasure
+10196170 [Corpse] Treasure
+10196180 [Corpse] Treasure
+10196190 [Corpse] Treasure
+10196200 [Corpse] Treasure
+10196210 [Corpse] Treasure
+10196220 [Corpse] Treasure

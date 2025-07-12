@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PARAMDEF XmlVersion="0">
+  <ParamType>FE_WEAPON_THRESHOLD_PARAM</ParamType>
+  <DataVersion>0</DataVersion>
+  <BigEndian>False</BigEndian>
+  <Unicode>True</Unicode>
+  <FormatVersion>201</FormatVersion>
+  <Fields>
+    <Field Def="f32 scaling_display_S" />
+    <Field Def="f32 scaling_display_A" />
+    <Field Def="f32 scaling_display_B" />
+    <Field Def="f32 scaling_display_C" />
+    <Field Def="f32 scaling_display_D" />
+  </Fields>
+</PARAMDEF>

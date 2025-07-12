@@ -1,0 +1,42 @@
+0 Default
+100 Cataclysm
+101 The Mountaintops
+102 The Crater
+103 Rotted Woods
+104 Noklateo
+109 Night Boss Interference: Margit
+110 Night Boss Interference: 
+111 Night Boss Interference: 
+112 Night Boss Interference: 
+800 Buried Treasure Group: 00
+801 Buried Treasure Group: 01
+802 Buried Treasure Group: 02
+803 Buried Treasure Group: 03
+804 Buried Treasure Group: 04
+805 Buried Treasure Group: 05
+806 Buried Treasure Group: 06
+807 Buried Treasure Group: 07
+808 Buried Treasure Group: 08
+809 Buried Treasure Group: 09
+810 Buried Treasure Group: 10
+811 Buried Treasure Group: 11
+3000 Day 1 Event: Night Boss Appears Continuously
+3001 Day 2 Event: Night Boss Appears Continuously
+3010 Day 1 Event: Meteor Strike
+3011 Day 2 Event: Meteor Strike
+3020 Day 1 Event: Walking Mausoleum
+3021 Day 2 Event: Walking Mausoleum
+3030 Day 1 Event: Mass Enemy Spawn
+3031 Day 2 Event: Mass Enemy Spawn
+3040 Day 1 Event: Night Boss Interference
+3041 Day 2 Event: Night Boss Interference
+3050 Day 1 Event: Night Boss Interference
+3051 Day 2 Event: Night Boss Interference
+3060 Day 1 Event: Night Boss Interference
+3061 Day 2 Event: Night Boss Interference
+3070 Day 1 Event: Night Boss Interference
+3071 Day 2 Event: Night Boss Interference
+3080 Day 1 Event: Madness Zone
+3081 Day 2 Event: Madness Zone
+3090 Day 1 Event: Madness Zone
+3091 Day 2 Event: Difficult Sorcerer's Rise

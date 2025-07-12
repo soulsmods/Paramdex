@@ -148,26 +148,26 @@
 20103903 [Mimetic OBJ: Normal] barista -- 【擬態OBJ：通常】バリスタ
 20104000 【NPC】Tomb_Captain of the Kingdom -- 【NPC】墓_王国隊長
 20104100 【NPC】Tomb_Tsukimitsu Grandfather -- 【NPC】墓_月光爺
-20105000 [Kihoho-ho 01] stage 1_the back of the door of the start passage -- 【木宝箱01】　ステージ1_スタート通路の扉奥
-20105010 [Iron Treasure Chest 04] Stage 1_After the Arc de Triomphe_Stairs -- 【鉄宝箱04】　ステージ1_凱旋門後_階段脇
-20105020 [Wooden treasure chest 03_trap] stage 2_hidden door front -- 【木宝箱03_トラップ】　ステージ2_隠し扉前
-20105030 [Iron Treasure Chest 01] Stage 2_Hidden Door Back -- 【鉄宝箱01】　ステージ2_隠し扉奥
-20105040 [Iron Treasure Chest 02] Stage 2_Hidden Door Back -- 【鉄宝箱02】　ステージ2_隠し扉奥
-20105050 【Iron Treasure Chest 03】 Stage 2_The room to get off using the lift -- 【鉄宝箱03】　ステージ2_リフトを使って降りる部屋
-20105060 【Iron Treasure Chest 05】 Stage 2_The room to get off using the lift -- 【鉄宝箱05】　ステージ2_リフトを使って降りる部屋
-20106000 [Treasure corpse 01] stage 1_the back of the passage of the start -- 【宝死体01】　ステージ1_スタートの通路奥
-20106010 【Treasure Corpse 02】 Stage 1_Tunnel Destination Square_On wooden scaffolding -- 【宝死体02】　ステージ1_トンネル先の広場_木板足場の上
-20106020 [Treasure corpse 03] stage 1_after the arc de trio_ the roof of the house on the left -- 【宝死体03】　ステージ1_凱旋門後_左の家の屋根
-20106030 [Treasure corpse 04] stage 1_after the arc de trio_ right back -- 【宝死体04】　ステージ1_凱旋門後_右奥
-20106040 【Treasure Corpse 05】 Stage 1_In front of the goal -- 【宝死体05】　ステージ1_ゴール前
-20106050 [Treasure corpse 06] stage 2_insect key hidden door -- 【宝死体06】　ステージ2_虫鍵隠し扉前
-20106060 【Treasure corpse 16】 Stage 1_Stairs in front of the goal -- 【宝死体16】　ステージ1_ゴール前の階段脇
-20106070 [Treasure corpse 08] stage 2_passage from the roof -- 【宝死体08】　ステージ2_屋上から降りる通路
-20106080 [Treasure Corpse 09] Stage 2_Right out outside -- 【宝死体09】　ステージ2_屋外に出てすぐ右
-20106090 【Treasure Corpse】Stage 2_Outdoor_Barista -- 【宝死体10】　ステージ2_屋外_バリスタ手前
-20106100 [Treasure corpse 11] stage 3_1 first vantage table -- 【宝死体11】　ステージ3_1つ目の見晴らし台
-20106110 [Treasure corpse 12] stage 3_head rumbling front -- 【宝死体12】　ステージ3_頭ゴロゴロ手前
-20106120 【Treasure Corpse】Stage 3_Head Rumbling View Stand -- 【宝死体13】　ステージ3_頭ゴロゴロの見晴らし台
-20106130 [Treasure corpse 14] roof exiting from the room getting off in the stage 2_ lift -- 【宝死体14】　ステージ2_リフトで降りる部屋から出る屋根
-20106140 【Treasure Corpse 15】 Stage 2_Outdoor_On wooden scaffolding -- 【宝死体15】　ステージ2_屋外_木板足場の上
-20106150 [Treasure corpse 17] stage 1_ cliff caught by the goal -- 【宝死体17】　ステージ1_ゴール脇で崖ひっかかり
+20105000 [Chest] Treasure
+20105010 [Chest] Treasure
+20105020 [Chest] Treasure
+20105030 [Chest] Treasure
+20105040 [Chest] Treasure
+20105050 [Chest] Treasure
+20105060 [Chest] Treasure
+20106000 [Corpse] Treasure
+20106010 [Corpse] Treasure
+20106020 [Corpse] Treasure
+20106030 [Corpse] Treasure
+20106040 [Corpse] Treasure
+20106050 [Corpse] Treasure
+20106060 [Corpse] Treasure
+20106070 [Corpse] Treasure
+20106080 [Corpse] Treasure
+20106090 [Corpse] Treasure
+20106100 [Corpse] Treasure
+20106110 [Corpse] Treasure
+20106120 [Corpse] Treasure
+20106130 [Corpse] Treasure
+20106140 [Corpse] Treasure
+20106150 [Corpse] Treasure

@@ -1,0 +1,974 @@
+1000 Shared Merchant: Pickled Turtle Neck
+1001 Shared Merchant: Starlight Shards
+1002 Shared Merchant: Warming Stone
+1003 Shared Merchant: Wending Grace
+1004 Shared Merchant: Fire Pot
+1005 Shared Merchant: Throwing Dagger
+1006 Shared Merchant: Dragonwound Grease
+1007 Shared Merchant: Smithing Stone [1]
+1008 Shared Merchant: Smithing Stone [2]
+1009 Shared Merchant: Small Pouch
+1010 Shared Merchant: Stonesword Key
+1011 Shared Merchant: Spark Aromatic
+1012 Shared Merchant: Spark Aromatic
+1013 Shared Merchant: Spark Aromatic
+1014 Shared Merchant: Spark Aromatic
+1015 Shared Merchant: Spark Aromatic
+1016 Shared Merchant: Spark Aromatic
+1017 Shared Merchant: Spark Aromatic
+1018 Shared Merchant: Uplifting Aromatic
+1019 Shared Merchant: Uplifting Aromatic
+1020 Shared Merchant: Uplifting Aromatic
+1021 Shared Merchant: Uplifting Aromatic
+1022 Shared Merchant: Uplifting Aromatic
+1023 Shared Merchant: Uplifting Aromatic
+1024 Shared Merchant: Uplifting Aromatic
+1025 Shared Merchant: Crimsonspill Crystal Tear
+1026 Shared Merchant: Crimsonspill Crystal Tear
+1027 Shared Merchant: Crimsonspill Crystal Tear
+1028 Shared Merchant: Crimsonspill Crystal Tear
+1029 Shared Merchant: Crimsonspill Crystal Tear
+1030 Shared Merchant: Crimsonspill Crystal Tear
+1031 Shared Merchant: Crimsonspill Crystal Tear
+1032 Shared Merchant: Spiked Cracked Tear
+1033 Shared Merchant: Spiked Cracked Tear
+1034 Shared Merchant: Spiked Cracked Tear
+1035 Shared Merchant: Spiked Cracked Tear
+1036 Shared Merchant: Spiked Cracked Tear
+1037 Shared Merchant: Spiked Cracked Tear
+1038 Shared Merchant: Spiked Cracked Tear
+1039 Shared Merchant: Poison Spraymist
+1040 Shared Merchant: Poison Spraymist
+1041 Shared Merchant: Poison Spraymist
+1042 Shared Merchant: Poison Spraymist
+1043 Shared Merchant: Poison Spraymist
+1044 Shared Merchant: Poison Spraymist
+1045 Shared Merchant: Poison Spraymist
+1046 Shared Merchant: Bloodboil Aromatic
+1047 Shared Merchant: Bloodboil Aromatic
+1048 Shared Merchant: Bloodboil Aromatic
+1049 Shared Merchant: Bloodboil Aromatic
+1050 Shared Merchant: Bloodboil Aromatic
+1051 Shared Merchant: Bloodboil Aromatic
+1052 Shared Merchant: Bloodboil Aromatic
+1053 Shared Merchant: Greenspill Crystal Tear
+1054 Shared Merchant: Greenspill Crystal Tear
+1055 Shared Merchant: Greenspill Crystal Tear
+1056 Shared Merchant: Greenspill Crystal Tear
+1057 Shared Merchant: Greenspill Crystal Tear
+1058 Shared Merchant: Greenspill Crystal Tear
+1059 Shared Merchant: Greenspill Crystal Tear
+1060 Shared Merchant: Thorny Cracked Tear
+1061 Shared Merchant: Thorny Cracked Tear
+1062 Shared Merchant: Thorny Cracked Tear
+1063 Shared Merchant: Thorny Cracked Tear
+1064 Shared Merchant: Thorny Cracked Tear
+1065 Shared Merchant: Thorny Cracked Tear
+1066 Shared Merchant: Thorny Cracked Tear
+1067 Shared Merchant: Acid Spraymist
+1068 Shared Merchant: Acid Spraymist
+1069 Shared Merchant: Acid Spraymist
+1070 Shared Merchant: Acid Spraymist
+1071 Shared Merchant: Acid Spraymist
+1072 Shared Merchant: Acid Spraymist
+1073 Shared Merchant: Acid Spraymist
+1074 Shared Merchant: Ironjar Aromatic
+1075 Shared Merchant: Ironjar Aromatic
+1076 Shared Merchant: Ironjar Aromatic
+1077 Shared Merchant: Ironjar Aromatic
+1078 Shared Merchant: Ironjar Aromatic
+1079 Shared Merchant: Ironjar Aromatic
+1080 Shared Merchant: Ironjar Aromatic
+1081 Shared Merchant: Twiggy Cracked Tear
+1082 Shared Merchant: Twiggy Cracked Tear
+1083 Shared Merchant: Twiggy Cracked Tear
+1084 Shared Merchant: Twiggy Cracked Tear
+1085 Shared Merchant: Twiggy Cracked Tear
+1086 Shared Merchant: Twiggy Cracked Tear
+1087 Shared Merchant: Twiggy Cracked Tear
+1088 Shared Merchant: Cerulean Hidden Tear
+1089 Shared Merchant: Cerulean Hidden Tear
+1090 Shared Merchant: Cerulean Hidden Tear
+1091 Shared Merchant: Cerulean Hidden Tear
+1092 Shared Merchant: Cerulean Hidden Tear
+1093 Shared Merchant: Cerulean Hidden Tear
+1094 Shared Merchant: Cerulean Hidden Tear
+1095 Shared Merchant: Erdtree's Favor
+1096 Shared Merchant: Ritual Sword Talisman
+1097 Shared Merchant: Dragoncrest Shield Talisman
+1100 Shared Merchant: Ivory Sickle
+1101 Shared Merchant: Nagakiba
+1102 Shared Merchant: Celebrant's Skull
+1103 Shared Merchant: Guardian's Swordspear
+1104 Shared Merchant: Hand Ballista
+1105 Shared Merchant: Godslayer's Seal
+1106 Shared Merchant: Distinguished Greatshield
+1107 Shared Merchant: Gargoyle's Blackblade
+1108 Shared Merchant: Serpent Bow
+1109 Shared Merchant: Pulley Crossbow
+1110 Shared Merchant: Prince of Death's Staff
+1111 Shared Merchant: Ivory Sickle
+1112 Shared Merchant: Forked Greatsword
+1113 Shared Merchant: Rusted Anchor
+1114 Shared Merchant: Harp Bow
+1115 Shared Merchant: Golem Greatbow
+1116 Shared Merchant: Full Moon Crossbow
+1117 Shared Merchant: Giant's Seal
+1118 Shared Merchant: Golden Beast Crest Shield
+1119 Shared Merchant: Rivers of Blood
+1120 Shared Merchant: Golden Halberd
+1121 Shared Merchant: Azur's Glintstone Staff
+1122 Shared Merchant: Claymore
+1123 Shared Merchant: Meteoric Ore Blade
+1124 Shared Merchant: Nightrider Glaive
+1125 Shared Merchant: Composite Bow
+1126 Shared Merchant: Golem Greatbow
+1127 Shared Merchant: Crepus's Black-Key Crossbow
+1128 Shared Merchant: Gravel Stone Seal
+1129 Shared Merchant: Icon Shield
+1130 Shared Merchant: Scorpion's Stinger
+1131 Shared Merchant: Prelate's Inferno Crozier
+1132 Shared Merchant: Lusat's Glintstone Staff
+1133 Shared Merchant: Miséricorde
+1134 Shared Merchant: Flamberge
+1135 Shared Merchant: Meteoric Ore Blade
+1136 Shared Merchant: Pest's Glaive
+1137 Shared Merchant: Golem Greatbow
+1138 Shared Merchant: Clawmark Seal
+1139 Shared Merchant: Spiked Palisade Shield
+1140 Shared Merchant: Butchering Knife
+1141 Shared Merchant: Erdtree Bow
+1142 Shared Merchant: Pulley Crossbow
+1143 Shared Merchant: Meteorite Staff
+1144 Shared Merchant: Erdsteel Dagger
+1145 Shared Merchant: Serpentbone Blade
+1146 Shared Merchant: Giant-Crusher
+1147 Shared Merchant: Horn Bow
+1148 Shared Merchant: Crepus's Black-Key Crossbow
+1149 Shared Merchant: Hand Ballista
+1150 Shared Merchant: Clawmark Seal
+1151 Shared Merchant: Redmane Greatshield
+1152 Shared Merchant: Death's Poker
+1153 Shared Merchant: Dragon Halberd
+1154 Shared Merchant: Lusat's Glintstone Staff
+1155 Shared Merchant: Forked Greatsword
+1156 Shared Merchant: Nagakiba
+1157 Shared Merchant: Nightrider Glaive
+1158 Shared Merchant: Composite Bow
+1159 Shared Merchant: Golem Greatbow
+1160 Shared Merchant: Hand Ballista
+1161 Shared Merchant: Giant's Seal
+1162 Shared Merchant: Eclipse Crest Greatshield
+1163 Shared Merchant: Glintstone Kris
+1164 Shared Merchant: Beastclaw Greathammer
+1165 Shared Merchant: Prince of Death's Staff
+1166 Shared Merchant: Erdsteel Dagger
+1167 Shared Merchant: Gargoyle's Greatsword
+1168 Shared Merchant: Great Omenkiller Cleaver
+1169 Shared Merchant: Ripple Crescent Halberd
+1170 Shared Merchant: Full Moon Crossbow
+1171 Shared Merchant: Hand Ballista
+1172 Shared Merchant: Godslayer's Seal
+1173 Shared Merchant: Cuckoo Greatshield
+1174 Shared Merchant: Moonveil
+1175 Shared Merchant: Black Bow
+1176 Shared Merchant: Azur's Glintstone Staff
+1200 Shared Merchant: Miséricorde
+1201 Shared Merchant: Banished Knight's Greatsword
+1202 Shared Merchant: Meteoric Ore Blade
+1203 Shared Merchant: Pest's Glaive
+1204 Shared Merchant: Full Moon Crossbow
+1205 Shared Merchant: Hand Ballista
+1206 Shared Merchant: Crystal Staff
+1207 Shared Merchant: Golden Greatshield
+1208 Shared Merchant: Gargoyle's Black Axe
+1209 Shared Merchant: Pulley Bow
+1210 Shared Merchant: Golden Order Seal
+1211 Shared Merchant: Wakizashi
+1212 Shared Merchant: Forked Greatsword
+1213 Shared Merchant: Ripple Crescent Halberd
+1214 Shared Merchant: Harp Bow
+1215 Shared Merchant: Golem Greatbow
+1216 Shared Merchant: Full Moon Crossbow
+1217 Shared Merchant: Gelmir Glintstone Staff
+1218 Shared Merchant: Gilded Greatshield
+1219 Shared Merchant: Dragonscale Blade
+1220 Shared Merchant: Staff of the Avatar
+1221 Shared Merchant: Erdtree Seal
+1222 Shared Merchant: Knight's Greatsword
+1223 Shared Merchant: Meteoric Ore Blade
+1224 Shared Merchant: Troll's Hammer
+1225 Shared Merchant: Pest's Glaive
+1226 Shared Merchant: Golem Greatbow
+1227 Shared Merchant: Crepus's Black-Key Crossbow
+1228 Shared Merchant: Carian Glintblade Staff
+1229 Shared Merchant: Haligtree Crest Greatshield
+1230 Shared Merchant: Cinquedea
+1231 Shared Merchant: Serpent Bow
+1232 Shared Merchant: Dragon Communion Seal
+1233 Shared Merchant: Meteoric Ore Blade
+1234 Shared Merchant: Rotten Battle Hammer
+1235 Shared Merchant: Guardian's Swordspear
+1236 Shared Merchant: Harp Bow
+1237 Shared Merchant: Golem Greatbow
+1238 Shared Merchant: Albinauric Staff
+1239 Shared Merchant: Briar Greatshield
+1240 Shared Merchant: Black Knife
+1241 Shared Merchant: Alabaster Lord's Sword
+1242 Shared Merchant: Jar Cannon
+1243 Shared Merchant: Golden Order Seal
+1244 Shared Merchant: Erdsteel Dagger
+1245 Shared Merchant: Forked Greatsword
+1246 Shared Merchant: Executioner's Greataxe
+1247 Shared Merchant: Red Branch Shortbow
+1248 Shared Merchant: Golem Greatbow
+1249 Shared Merchant: Crepus's Black-Key Crossbow
+1250 Shared Merchant: Carian Glintstone Staff
+1251 Shared Merchant: Distinguished Greatshield
+1252 Shared Merchant: Rivers of Blood
+1253 Shared Merchant: Commander's Standard
+1254 Shared Merchant: Erdtree Seal
+1255 Shared Merchant: Wakizashi
+1256 Shared Merchant: Inseparable Sword
+1257 Shared Merchant: Gargoyle's Great Axe
+1258 Shared Merchant: Albinauric Bow
+1259 Shared Merchant: Golem Greatbow
+1260 Shared Merchant: Crepus's Black-Key Crossbow
+1261 Shared Merchant: Staff of the Guilty
+1262 Shared Merchant: Golden Beast Crest Shield
+1263 Shared Merchant: Dragonscale Blade
+1264 Shared Merchant: Gargoyle's Black Halberd
+1265 Shared Merchant: Dragon Communion Seal
+1266 Shared Merchant: Miséricorde
+1267 Shared Merchant: Meteoric Ore Blade
+1268 Shared Merchant: Rotten Battle Hammer
+1269 Shared Merchant: Guardian's Swordspear
+1270 Shared Merchant: Crepus's Black-Key Crossbow
+1271 Shared Merchant: Hand Ballista
+1272 Shared Merchant: Staff of Loss
+1273 Shared Merchant: Icon Shield
+1274 Shared Merchant: Sword of Milos
+1275 Shared Merchant: Erdtree Bow
+1276 Shared Merchant: Erdtree Seal
+1300 Shared Merchant: Bloodstained Dagger
+1301 Shared Merchant: Claymore
+1302 Shared Merchant: Gargoyle's Great Axe
+1303 Shared Merchant: Pest's Glaive
+1304 Shared Merchant: Hand Ballista
+1305 Shared Merchant: Carian Glintstone Staff
+1306 Shared Merchant: Giant's Seal
+1307 Shared Merchant: Moonveil
+1308 Shared Merchant: Pulley Bow
+1309 Shared Merchant: Erdtree Greatbow
+1310 Shared Merchant: Jellyfish Shield
+1311 Shared Merchant: Erdsteel Dagger
+1312 Shared Merchant: Knight's Greatsword
+1313 Shared Merchant: Guardian's Swordspear
+1314 Shared Merchant: Composite Bow
+1315 Shared Merchant: Full Moon Crossbow
+1316 Shared Merchant: Staff of the Guilty
+1317 Shared Merchant: Godslayer's Seal
+1318 Shared Merchant: Dragonscale Blade
+1319 Shared Merchant: Gargoyle's Black Axe
+1320 Shared Merchant: Jar Cannon
+1321 Shared Merchant: One-Eyed Shield
+1322 Shared Merchant: Crystal Knife
+1323 Shared Merchant: Nagakiba
+1324 Shared Merchant: Celebrant's Skull
+1325 Shared Merchant: Pest's Glaive
+1326 Shared Merchant: Golem Greatbow
+1327 Shared Merchant: Crepus's Black-Key Crossbow
+1328 Shared Merchant: Staff of Loss
+1329 Shared Merchant: Giant's Seal
+1330 Shared Merchant: Helphen's Steeple
+1331 Shared Merchant: Black Bow
+1332 Shared Merchant: Visage Shield
+1333 Shared Merchant: Miséricorde
+1334 Shared Merchant: Flamberge
+1335 Shared Merchant: Serpentbone Blade
+1336 Shared Merchant: Gargoyle's Halberd
+1337 Shared Merchant: Golem Greatbow
+1338 Shared Merchant: Hand Ballista
+1339 Shared Merchant: Crystal Staff
+1340 Shared Merchant: Gravel Stone Seal
+1341 Shared Merchant: Cranial Vessel Candlestand
+1342 Shared Merchant: Erdtree Bow
+1343 Shared Merchant: Ant's Skull Plate
+1344 Shared Merchant: Claymore
+1345 Shared Merchant: Meteoric Ore Blade
+1346 Shared Merchant: Giant-Crusher
+1347 Shared Merchant: Horn Bow
+1348 Shared Merchant: Crepus's Black-Key Crossbow
+1349 Shared Merchant: Hand Ballista
+1350 Shared Merchant: Gelmir Glintstone Staff
+1351 Shared Merchant: Clawmark Seal
+1352 Shared Merchant: Glintstone Kris
+1353 Shared Merchant: Golden Halberd
+1354 Shared Merchant: Crucible Hornshield
+1355 Shared Merchant: Crystal Knife
+1356 Shared Merchant: Nagakiba
+1357 Shared Merchant: Rotten Greataxe
+1358 Shared Merchant: Albinauric Bow
+1359 Shared Merchant: Golem Greatbow
+1360 Shared Merchant: Crepus's Black-Key Crossbow
+1361 Shared Merchant: Carian Glintblade Staff
+1362 Shared Merchant: Clawmark Seal
+1363 Shared Merchant: Blade of Calling
+1364 Shared Merchant: Commander's Standard
+1365 Shared Merchant: Dragonclaw Shield
+1366 Shared Merchant: Meteoric Ore Blade
+1367 Shared Merchant: Rotten Battle Hammer
+1368 Shared Merchant: Guardian's Swordspear
+1369 Shared Merchant: Harp Bow
+1370 Shared Merchant: Full Moon Crossbow
+1371 Shared Merchant: Hand Ballista
+1372 Shared Merchant: Albinauric Staff
+1373 Shared Merchant: Gravel Stone Seal
+1374 Shared Merchant: Reduvia
+1375 Shared Merchant: Ordovis's Greatsword
+1376 Shared Merchant: Erdtree Greatshield
+2000 Shared Merchant: Pickled Turtle Neck
+2001 Shared Merchant: Starlight Shards
+2002 Shared Merchant: Warming Stone
+2003 Shared Merchant: Wending Grace
+2004 Shared Merchant: Exalted Flesh
+2005 Shared Merchant: Boiled Crab
+2006 Shared Merchant: Smithing Stone [1]
+2007 Shared Merchant: Crimsonburst Crystal Tear
+2008 Shared Merchant: Crimsonburst Crystal Tear
+2009 Shared Merchant: Crimsonburst Crystal Tear
+2010 Shared Merchant: Crimsonburst Crystal Tear
+2011 Shared Merchant: Crimsonburst Crystal Tear
+2012 Shared Merchant: Crimsonburst Crystal Tear
+2013 Shared Merchant: Crimsonburst Crystal Tear
+2014 Shared Merchant: Crimson Bubbletear
+2015 Shared Merchant: Crimson Bubbletear
+2016 Shared Merchant: Crimson Bubbletear
+2017 Shared Merchant: Crimson Bubbletear
+2018 Shared Merchant: Crimson Bubbletear
+2019 Shared Merchant: Crimson Bubbletear
+2020 Shared Merchant: Crimson Bubbletear
+2021 Shared Merchant: Opaline Bubbletear
+2022 Shared Merchant: Opaline Bubbletear
+2023 Shared Merchant: Opaline Bubbletear
+2024 Shared Merchant: Opaline Bubbletear
+2025 Shared Merchant: Opaline Bubbletear
+2026 Shared Merchant: Opaline Bubbletear
+2027 Shared Merchant: Opaline Bubbletear
+2028 Shared Merchant: Crimson Bubbletear
+2029 Shared Merchant: Crimson Bubbletear
+2030 Shared Merchant: Crimson Bubbletear
+2031 Shared Merchant: Crimson Bubbletear
+2032 Shared Merchant: Crimson Bubbletear
+2033 Shared Merchant: Crimson Bubbletear
+2034 Shared Merchant: Crimson Bubbletear
+2035 Shared Merchant: Crimsonwhorl Bubbletear
+2036 Shared Merchant: Crimsonwhorl Bubbletear
+2037 Shared Merchant: Crimsonwhorl Bubbletear
+2038 Shared Merchant: Crimsonwhorl Bubbletear
+2039 Shared Merchant: Crimsonwhorl Bubbletear
+2040 Shared Merchant: Crimsonwhorl Bubbletear
+2041 Shared Merchant: Crimsonwhorl Bubbletear
+2042 Shared Merchant: Opaline Bubbletear
+2043 Shared Merchant: Opaline Bubbletear
+2044 Shared Merchant: Opaline Bubbletear
+2045 Shared Merchant: Opaline Bubbletear
+2046 Shared Merchant: Opaline Bubbletear
+2047 Shared Merchant: Opaline Bubbletear
+2048 Shared Merchant: Opaline Bubbletear
+2049 Shared Merchant: Crimsonburst Crystal Tear
+2050 Shared Merchant: Crimsonburst Crystal Tear
+2051 Shared Merchant: Crimsonburst Crystal Tear
+2052 Shared Merchant: Crimsonburst Crystal Tear
+2053 Shared Merchant: Crimsonburst Crystal Tear
+2054 Shared Merchant: Crimsonburst Crystal Tear
+2055 Shared Merchant: Crimsonburst Crystal Tear
+2056 Shared Merchant: Crimsonwhorl Bubbletear
+2057 Shared Merchant: Crimsonwhorl Bubbletear
+2058 Shared Merchant: Crimsonwhorl Bubbletear
+2059 Shared Merchant: Crimsonwhorl Bubbletear
+2060 Shared Merchant: Crimsonwhorl Bubbletear
+2061 Shared Merchant: Crimsonwhorl Bubbletear
+2062 Shared Merchant: Crimsonwhorl Bubbletear
+2063 Shared Merchant: Opaline Hardtear
+2064 Shared Merchant: Opaline Hardtear
+2065 Shared Merchant: Opaline Hardtear
+2066 Shared Merchant: Opaline Hardtear
+2067 Shared Merchant: Opaline Hardtear
+2068 Shared Merchant: Opaline Hardtear
+2069 Shared Merchant: Opaline Hardtear
+3000 Shared Merchant: Pickled Turtle Neck
+3001 Shared Merchant: Starlight Shards
+3002 Shared Merchant: Warming Stone
+3003 Shared Merchant: Wending Grace
+3004 Shared Merchant: Fire Pot
+3005 Shared Merchant: Throwing Dagger
+3006 Shared Merchant: Smithing Stone [1]
+3007 Shared Merchant: Small Pouch
+3008 Shared Merchant: Spark Aromatic
+3009 Shared Merchant: Spark Aromatic
+3010 Shared Merchant: Spark Aromatic
+3011 Shared Merchant: Spark Aromatic
+3012 Shared Merchant: Spark Aromatic
+3013 Shared Merchant: Spark Aromatic
+3014 Shared Merchant: Spark Aromatic
+3015 Shared Merchant: Uplifting Aromatic
+3016 Shared Merchant: Uplifting Aromatic
+3017 Shared Merchant: Uplifting Aromatic
+3018 Shared Merchant: Uplifting Aromatic
+3019 Shared Merchant: Uplifting Aromatic
+3020 Shared Merchant: Uplifting Aromatic
+3021 Shared Merchant: Uplifting Aromatic
+3022 Shared Merchant: Crimsonspill Crystal Tear
+3023 Shared Merchant: Crimsonspill Crystal Tear
+3024 Shared Merchant: Crimsonspill Crystal Tear
+3025 Shared Merchant: Crimsonspill Crystal Tear
+3026 Shared Merchant: Crimsonspill Crystal Tear
+3027 Shared Merchant: Crimsonspill Crystal Tear
+3028 Shared Merchant: Crimsonspill Crystal Tear
+3029 Shared Merchant: Spiked Cracked Tear
+3030 Shared Merchant: Spiked Cracked Tear
+3031 Shared Merchant: Spiked Cracked Tear
+3032 Shared Merchant: Spiked Cracked Tear
+3033 Shared Merchant: Spiked Cracked Tear
+3034 Shared Merchant: Spiked Cracked Tear
+3035 Shared Merchant: Spiked Cracked Tear
+3036 Shared Merchant: Poison Spraymist
+3037 Shared Merchant: Poison Spraymist
+3038 Shared Merchant: Poison Spraymist
+3039 Shared Merchant: Poison Spraymist
+3040 Shared Merchant: Poison Spraymist
+3041 Shared Merchant: Poison Spraymist
+3042 Shared Merchant: Poison Spraymist
+3043 Shared Merchant: Bloodboil Aromatic
+3044 Shared Merchant: Bloodboil Aromatic
+3045 Shared Merchant: Bloodboil Aromatic
+3046 Shared Merchant: Bloodboil Aromatic
+3047 Shared Merchant: Bloodboil Aromatic
+3048 Shared Merchant: Bloodboil Aromatic
+3049 Shared Merchant: Bloodboil Aromatic
+3050 Shared Merchant: Greenspill Crystal Tear
+3051 Shared Merchant: Greenspill Crystal Tear
+3052 Shared Merchant: Greenspill Crystal Tear
+3053 Shared Merchant: Greenspill Crystal Tear
+3054 Shared Merchant: Greenspill Crystal Tear
+3055 Shared Merchant: Greenspill Crystal Tear
+3056 Shared Merchant: Greenspill Crystal Tear
+3057 Shared Merchant: Thorny Cracked Tear
+3058 Shared Merchant: Thorny Cracked Tear
+3059 Shared Merchant: Thorny Cracked Tear
+3060 Shared Merchant: Thorny Cracked Tear
+3061 Shared Merchant: Thorny Cracked Tear
+3062 Shared Merchant: Thorny Cracked Tear
+3063 Shared Merchant: Thorny Cracked Tear
+3064 Shared Merchant: Acid Spraymist
+3065 Shared Merchant: Acid Spraymist
+3066 Shared Merchant: Acid Spraymist
+3067 Shared Merchant: Acid Spraymist
+3068 Shared Merchant: Acid Spraymist
+3069 Shared Merchant: Acid Spraymist
+3070 Shared Merchant: Acid Spraymist
+3071 Shared Merchant: Ironjar Aromatic
+3072 Shared Merchant: Ironjar Aromatic
+3073 Shared Merchant: Ironjar Aromatic
+3074 Shared Merchant: Ironjar Aromatic
+3075 Shared Merchant: Ironjar Aromatic
+3076 Shared Merchant: Ironjar Aromatic
+3077 Shared Merchant: Ironjar Aromatic
+3078 Shared Merchant: Twiggy Cracked Tear
+3079 Shared Merchant: Twiggy Cracked Tear
+3080 Shared Merchant: Twiggy Cracked Tear
+3081 Shared Merchant: Twiggy Cracked Tear
+3082 Shared Merchant: Twiggy Cracked Tear
+3083 Shared Merchant: Twiggy Cracked Tear
+3084 Shared Merchant: Twiggy Cracked Tear
+3085 Shared Merchant: Cerulean Hidden Tear
+3086 Shared Merchant: Cerulean Hidden Tear
+3087 Shared Merchant: Cerulean Hidden Tear
+3088 Shared Merchant: Cerulean Hidden Tear
+3089 Shared Merchant: Cerulean Hidden Tear
+3090 Shared Merchant: Cerulean Hidden Tear
+3091 Shared Merchant: Cerulean Hidden Tear
+3100 Shared Merchant: Club
+3101 Shared Merchant: Iron Cleaver
+3102 Shared Merchant: Omen Cleaver
+3103 Shared Merchant: Partisan
+3104 Shared Merchant: Carian Glintblade Staff
+3105 Shared Merchant: Rift Shield
+3106 Shared Merchant: Envoy's Horn
+3107 Shared Merchant: Zweihander
+3108 Shared Merchant: Nightrider Flail
+3109 Shared Merchant: Highland Axe
+3110 Shared Merchant: Iron Ball
+3111 Shared Merchant: Staff of the Guilty
+3112 Shared Merchant: Iron Roundshield
+3113 Shared Merchant: Siluria's Tree
+3114 Shared Merchant: Lance
+3115 Shared Merchant: Troll's Golden Sword
+3116 Shared Merchant: Godskin Stitcher
+3117 Shared Merchant: Shamshir
+3118 Shared Merchant: Staff of Loss
+3119 Shared Merchant: Gilded Iron Shield
+3120 Shared Merchant: Magma Blade
+3121 Shared Merchant: Longsword
+3122 Shared Merchant: Chainlink Flail
+3123 Shared Merchant: Grossmesser
+3124 Shared Merchant: Bloodhound Claws
+3125 Shared Merchant: Godslayer's Seal
+3126 Shared Merchant: Ice Crest Shield
+3127 Shared Merchant: Scepter of the All-Knowing
+3128 Shared Merchant: Falchion
+3129 Shared Merchant: Beastman's Cleaver
+3130 Shared Merchant: Iron Cleaver
+3131 Shared Merchant: Pike
+3132 Shared Merchant: Gravel Stone Seal
+3133 Shared Merchant: Man-Serpent's Shield
+3134 Shared Merchant: Sword of St. Trina
+3135 Shared Merchant: Twinblade
+3136 Shared Merchant: Mace
+3137 Shared Merchant: Celebrant's Cleaver
+3138 Shared Merchant: Grave Scythe
+3139 Shared Merchant: Venomous Fang
+3140 Shared Merchant: Iron Roundshield
+3141 Shared Merchant: Ornamental Straight Sword
+3142 Shared Merchant: Dismounter
+3143 Shared Merchant: Lordsworn's Straight Sword
+3144 Shared Merchant: Chainlink Flail
+3145 Shared Merchant: Warped Axe
+3146 Shared Merchant: Treespear
+3147 Shared Merchant: Gilded Iron Shield
+3148 Shared Merchant: Bloody Helice
+3200 Shared Merchant: Bandit's Curved Sword
+3201 Shared Merchant: Torchpole
+3202 Shared Merchant: Watchdog's Greatsword
+3203 Shared Merchant: Spiked Caestus
+3204 Shared Merchant: Carian Glintstone Staff
+3205 Shared Merchant: Kite Shield
+3206 Shared Merchant: Icerind Hatchet
+3207 Shared Merchant: Hand Axe
+3208 Shared Merchant: Scavenger's Curved Sword
+3209 Shared Merchant: Hammer
+3210 Shared Merchant: Torchpole
+3211 Shared Merchant: Albinauric Staff
+3212 Shared Merchant: Sun Realm Shield
+3213 Shared Merchant: Winged Scythe
+3214 Shared Merchant: Great Épée
+3215 Shared Merchant: Omen Cleaver
+3216 Shared Merchant: Godskin Peeler
+3217 Shared Merchant: Urumi
+3218 Shared Merchant: Clawmark Seal
+3219 Shared Merchant: Scorpion Kite Shield
+3220 Shared Merchant: Halo Scythe
+3221 Shared Merchant: Caestus
+3222 Shared Merchant: Beastman's Cleaver
+3223 Shared Merchant: Twinned Knight Swords
+3224 Shared Merchant: Morning Star
+3225 Shared Merchant: Giant's Seal
+3226 Shared Merchant: Twinbird Kite Shield
+3227 Shared Merchant: Royal Greatsword
+3228 Shared Merchant: Scythe
+3229 Shared Merchant: Troll Knight's Sword
+3230 Shared Merchant: Celebrant's Cleaver
+3231 Shared Merchant: Star Fist
+3232 Shared Merchant: Gravel Stone Seal
+3233 Shared Merchant: Blue-Gold Kite Shield
+3234 Shared Merchant: Cleanrot Spear
+3235 Shared Merchant: Zweihander
+3236 Shared Merchant: Flail
+3237 Shared Merchant: Godskin Stitcher
+3238 Shared Merchant: Gargoyle's Twinblade
+3239 Shared Merchant: Star Fist
+3240 Shared Merchant: Large Leather Shield
+3241 Shared Merchant: Envoy's Horn
+3242 Shared Merchant: Broadsword
+3243 Shared Merchant: Serpent-God's Curved Sword
+3244 Shared Merchant: Spiked Club
+3245 Shared Merchant: Serpent-Hunter
+3246 Shared Merchant: Grave Scythe
+3247 Shared Merchant: Black Leather Shield
+3248 Shared Merchant: Gargoyle's Black Blades
+3300 Shared Merchant: Hookclaws
+3301 Shared Merchant: Warhawk's Talon
+3302 Shared Merchant: Warpick
+3303 Shared Merchant: Cross-Naginata
+3304 Shared Merchant: Gelmir Glintstone Staff
+3305 Shared Merchant: Distinguished Greatshield
+3306 Shared Merchant: Frozen Needle
+3307 Shared Merchant: Weathered Straight Sword
+3308 Shared Merchant: Cane Sword
+3309 Shared Merchant: Nightrider Flail
+3310 Shared Merchant: Clayman's Harpoon
+3311 Shared Merchant: Crystal Staff
+3312 Shared Merchant: Icon Shield
+3313 Shared Merchant: Clinging Bone
+3314 Shared Merchant: Forked Hatchet
+3315 Shared Merchant: Thorned Whip
+3316 Shared Merchant: Watchdog's Greatsword
+3317 Shared Merchant: Crystal Spear
+3318 Shared Merchant: Godslayer's Seal
+3319 Shared Merchant: Spiked Palisade Shield
+3320 Shared Merchant: Coded Sword
+3321 Shared Merchant: Greatsword
+3322 Shared Merchant: Godskin Stitcher
+3323 Shared Merchant: Highland Axe
+3324 Shared Merchant: Urumi
+3325 Shared Merchant: Clawmark Seal
+3326 Shared Merchant: Golden Beast Crest Shield
+3327 Shared Merchant: Inquisitor's Girandole
+3328 Shared Merchant: Rapier
+3329 Shared Merchant: Grossmesser
+3330 Shared Merchant: Warhawk's Talon
+3331 Shared Merchant: Thorned Whip
+3332 Shared Merchant: Iron Ball
+3333 Shared Merchant: Gilded Greatshield
+3334 Shared Merchant: Onyx Lord's Greatsword
+3335 Shared Merchant: Scimitar
+3336 Shared Merchant: Lazuli Glintstone Sword
+3337 Shared Merchant: Bloodhound's Fang
+3338 Shared Merchant: Gargoyle's Twinblade
+3339 Shared Merchant: Warped Axe
+3340 Shared Merchant: Golden Greatshield
+3341 Shared Merchant: Magma Whip Candlestick
+3342 Shared Merchant: Club
+3343 Shared Merchant: Lordsworn's Straight Sword
+3344 Shared Merchant: Beastman's Curved Sword
+3345 Shared Merchant: Monk's Flameblade
+3346 Shared Merchant: Treespear
+3347 Shared Merchant: Eclipse Crest Greatshield
+3348 Shared Merchant: Cipher Pata
+10000 Jar Merchant: Delicate Burning Scene
+10001 Jar Merchant: Delicate Drizzly Scene
+10002 Jar Merchant: Delicate Luminous Scene
+10003 Jar Merchant: Delicate Tranquil Scene
+10004 Jar Merchant: Polished Burning Scene
+10005 Jar Merchant: Delicate Luminous Scene
+10010 Jar Merchant: Polished Tranquil Scene
+10011 Jar Merchant: Polished Drizzly Scene
+10012 Jar Merchant: Polished Burning Scene
+10013 Jar Merchant: Polished Tranquil Scene
+10014 Jar Merchant: Polished Tranquil Scene
+10015 Jar Merchant: Polished Burning Scene
+10020 Jar Merchant: Polished Burning Scene
+10021 Jar Merchant: Polished Tranquil Scene
+10022 Jar Merchant: Polished Luminous Scene
+10023 Jar Merchant: Polished Luminous Scene
+10024 Jar Merchant: Polished Drizzly Scene
+10025 Jar Merchant: Polished Drizzly Scene
+10030 Jar Merchant: Grand Burning Scene
+10031 Jar Merchant: Grand Drizzly Scene
+10032 Jar Merchant: Grand Tranquil Scene
+10033 Jar Merchant: Grand Tranquil Scene
+10034 Jar Merchant: Grand Luminous Scene
+10035 Jar Merchant: Grand Drizzly Scene
+10036 Jar Merchant: Grand Drizzly Scene
+10037 Jar Merchant: Grand Burning Scene
+10040 Jar Merchant: Grand Burning Scene
+10041 Jar Merchant: Grand Tranquil Scene
+10100 Jar Merchant: Besmirched Frame
+10110 Jar Merchant: <Table> Delicate Burning Scene
+10121 Jar Merchant: Wylder's Goblet
+10123 Jar Merchant: Guardian's Goblet
+10125 Jar Merchant: Ironeye's Goblet
+10127 Jar Merchant: Duchess' Goblet
+10129 Jar Merchant: Raider's Goblet
+10131 Jar Merchant: Revenant's Goblet
+10133 Jar Merchant: Recluse's Goblet
+10135 Jar Merchant: Executor's Goblet
+10140 Jar Merchant: Sacred Erdtree Grail
+10141 Jar Merchant: Spirit Shelter Grail
+10142 Jar Merchant: Giant's Cradle Grail
+10150 Jar Merchant: Polite Bow
+10151 Jar Merchant: Strength!
+10152 Jar Merchant: Warm Welcome
+10153 Jar Merchant: Fancy Spin
+10154 Jar Merchant: Crossed Legs
+10155 Jar Merchant: Rest
+10156 Jar Merchant: Sitting Sideways
+10157 Jar Merchant: Fire Spur Me
+10160 Jar Merchant: As You Wish
+10161 Jar Merchant: Heartening Cry
+10162 Jar Merchant: Calm Down!
+10163 Jar Merchant: Finger Snap
+10164 Jar Merchant: Prayer
+10165 Jar Merchant: Rapture
+10166 Jar Merchant: Erudition
+10167 Jar Merchant: Outer Order
+10170 Jar Merchant: Curtsy
+10171 Jar Merchant: Reverential Bow
+10172 Jar Merchant: Dejection
+10173 Jar Merchant: Extreme Repentance
+10174 Jar Merchant: Patches' Crouch
+10175 Jar Merchant: Dozing Cross-Legged
+10176 Jar Merchant: Desperate Prayer
+10177 Jar Merchant: Hoslow's Oath
+10178 Jar Merchant: Inner Order
+10180 Jar Merchant: What Do You Want?
+10181 Jar Merchant: My Lord
+10182 Jar Merchant: Grovel For Mercy
+10183 Jar Merchant: Spread Out
+10184 Jar Merchant: Balled Up
+10185 Jar Merchant: Golden Order Totality
+10190 Jar Merchant: Prattling Pate "Hello"
+10191 Jar Merchant: Prattling Pate "Thank you"
+10192 Jar Merchant: Prattling Pate "Wonderful"
+10193 Jar Merchant: Prattling Pate "Please help"
+10194 Jar Merchant: Prattling Pate "My beloved"
+10195 Jar Merchant: Prattling Pate "Apologies"
+10196 Jar Merchant: Prattling Pate "Let's get to it"
+10197 Jar Merchant: Prattling Pate "You're beautiful"
+11100 Dresser: Wylder: Abysswalker
+11110 Dresser: Wylder: Lion Knight
+11120 Dresser: Wylder: Dawn
+11130 Dresser: Wylder: Darkness
+11200 Dresser: Guardian: Sunlight Knight
+11210 Dresser: Guardian: Wayfarer
+11220 Dresser: Guardian: Dawn
+11230 Dresser: Guardian: Darkness
+11300 Dresser: Ironeye: Ringfinger
+11310 Dresser: Ironeye: Sellsword
+11320 Dresser: Ironeye: Dawn
+11330 Dresser: Ironeye: Darkness
+11400 Dresser: Duchess: Black Leather
+11410 Dresser: Duchess: Wraith
+11420 Dresser: Duchess: Dawn
+11430 Dresser: Duchess: Darkness
+11500 Dresser: Raider: Rock-like
+11510 Dresser: Raider: Catarina
+11520 Dresser: Raider: Dawn
+11530 Dresser: Raider: Darkness
+11600 Dresser: Revenant: The Sister in the Painting
+11610 Dresser: Revenant: Dragon School
+11620 Dresser: Revenant: Dawn
+11630 Dresser: Revenant: Darkness
+11700 Dresser: Recluse: Heretic Sorcerer
+11710 Dresser: Recluse: Emerald Fate
+11720 Dresser: Recluse: Dawn
+11730 Dresser: Recluse: Darkness
+11800 Dresser: Executor: Thorns
+11810 Dresser: Executor: Sable Church
+11820 Dresser: Executor: Dawn
+11830 Dresser: Executor: Darkness
+12000 Wandering Merchant: Delicate Luminous Scene
+12001 Wandering Merchant: Delicate Drizzly Scene
+12002 Wandering Merchant: Delicate Drizzly Scene
+12003 Wandering Merchant: Delicate Tranquil Scene
+13000 Collector Signboard: Grand Drizzly Scene
+13001 Collector Signboard: Grand Burning Scene
+13002 Collector Signboard: Grand Tranquil Scene
+13003 Collector Signboard: Grand Tranquil Scene
+13004 Collector Signboard: Grand Burning Scene
+13005 Collector Signboard: Grand Luminous Scene
+13006 Collector Signboard: Grand Drizzly Scene
+13007 Collector Signboard: Grand Luminous Scene
+13008 Collector Signboard: Grand Burning Scene
+13009 Collector Signboard: Grand Tranquil Scene
+13010 Collector Signboard: Grand Burning Scene
+13011 Collector Signboard: Grand Luminous Scene
+13012 Collector Signboard: Grand Drizzly Scene
+13050 Collector Signboard: Dark Night of the Beast
+13051 Collector Signboard: Dark Night of the Baron
+13052 Collector Signboard: Dark Night of the Wise
+13053 Collector Signboard: Dark Night of the Fathom
+13054 Collector Signboard: Dark Night of the Demon
+13055 Collector Signboard: Dark Night of the Champion
+13056 Collector Signboard: Dark Night of the Miasma
+13100 Collector Signboard: Grand Burning Scene
+13200 Collector Signboard: Soot-Covered Wylder's Urn
+13201 Collector Signboard: Sealed Wylder's Urn
+13210 Collector Signboard: Soot-Covered Guardian's Urn
+13211 Collector Signboard: Sealed Guardian's Urn
+13220 Collector Signboard: Soot-Covered Ironeye's Urn
+13221 Collector Signboard: Sealed Ironeye's Urn
+13230 Collector Signboard: Soot-Covered Duchess' Urn
+13231 Collector Signboard: Sealed Duchess' Urn
+13240 Collector Signboard: Soot-Covered Raider's Urn
+13241 Collector Signboard: Sealed Raider's Urn
+13250 Collector Signboard: Soot-Covered Revenant's Urn
+13251 Collector Signboard: Sealed Revenant's Urn
+13260 Collector Signboard: Soot-Covered Recluse's Urn
+13261 Collector Signboard: Sealed Recluse's Urn
+13270 Collector Signboard: Soot-Covered Executor's Urn
+13271 Collector Signboard: Sealed Executor's Urn
+13310 Collector Signboard: Wylder: Dawn
+13311 Collector Signboard: Wylder: Darkness
+13312 Collector Signboard: Wylder: Abysswalker
+13313 Collector Signboard: Wylder: Lion Knight
+13320 Collector Signboard: Guardian: Dawn
+13321 Collector Signboard: Guardian: Darkness
+13322 Collector Signboard: Guardian: Sunlight Knight
+13323 Collector Signboard: Guardian: Wayfarer
+13330 Collector Signboard: Ironeye: Dawn
+13331 Collector Signboard: Ironeye: Darkness
+13332 Collector Signboard: Ironeye: Ringfinger
+13333 Collector Signboard: Ironeye: Sellsword
+13340 Collector Signboard: Duchess: Dawn
+13341 Collector Signboard: Duchess: Darkness
+13342 Collector Signboard: Duchess: Black Leather
+13343 Collector Signboard: Duchess: Wraith
+13350 Collector Signboard: Raider: Dawn
+13351 Collector Signboard: Raider: Darkness
+13352 Collector Signboard: Raider: Rock-like
+13353 Collector Signboard: Raider: Catarina
+13360 Collector Signboard: Revenant: Dawn
+13361 Collector Signboard: Revenant: Darkness
+13362 Collector Signboard: Revenant: The Sister in the Painting
+13363 Collector Signboard: Revenant: Dragon School
+13370 Collector Signboard: Recluse: Dawn
+13371 Collector Signboard: Recluse: Darkness
+13372 Collector Signboard: Recluse: Heretic Sorcerer
+13373 Collector Signboard: Recluse: Emerald Fate
+13380 Collector Signboard: Executor: Dawn
+13381 Collector Signboard: Executor: Darkness
+13382 Collector Signboard: Executor: Thorns
+13383 Collector Signboard: Executor: Sable Church
+100004 Buckler
+100010 Silver-Pickled Fowl Foot
+100012 Caestus
+100026 Stonesword Key
+100026 Stonesword Key
+100102 Stonesword Key
+100105 Gold-Pickled Fowl Foot
+100108 Parrying Dagger
+100111 Sacrificial Twig
+100114 Fan Daggers
+100118 Fan Daggers
+100119 Estoc
+100122 Horse Crest Wooden Shield
+100155 Boiled Crab
+100160 Boiled Prawn
+100229 Carian Filigreed Crest
+100338 Ripple Blade
+100339 Black Leather Shield
+100507 Throwing Dagger
+100510 Torch
+100511 Large Leather Shield
+100541 Pickled Turtle Neck
+100542 Short Sword
+100543 Halberd
+100547 Smithing Stone [1]
+100563 Hand Axe
+100564 Riveted Wooden Shield
+100565 Blue-Gold Kite Shield
+100567 Smithing Stone [1]
+100586 Club
+100587 Broadsword
+100588 Iron Roundshield
+100589 Shortbow
+100592 Neutralizing Boluses
+100593 Stanching Boluses
+100594 Stimulating Boluses
+100595 Smithing Stone [1]
+100600 Stonesword Key
+100601 Kukri
+100602 Red Thorn Roundshield
+100603 Round Shield
+100604 Crimson Amber Medallion
+100607 Bastard Sword
+100608 Light Crossbow
+100617 Smithing Stone [1]
+100618 Smithing Stone [2]
+100626 Estoc
+100627 Kite Shield
+100633 Astrologer's Staff
+100636 Smithing Stone [1]
+100637 Smithing Stone [2]
+100652 Stonesword Key
+100657 Sacrificial Twig
+100660 Zweihander
+100665 Smithing Stone [2]
+100680 Stonesword Key
+100682 Sacrificial Twig
+100704 Composite Bow
+100705 Rift Shield
+100706 Blue Crest Heater Shield
+100715 Bewitching Branch
+100727 Sentry's Torch
+100730 Distinguished Greatshield
+100753 Stonesword Key
+100764 Scorpion Kite Shield
+100766 Red Crest Heater Shield
+100767 Crossed-Tree Towershield
+100777 Stonesword Key
+100801 Poisonbone Dart
+100813 Preserving Boluses
+100826 Stonesword Key
+100880 Sacrificial Twig
+100887 Dragonwound Grease
+100888 Spiked Caestus
+100889 Beast-Repellent Torch
+100901 Stonesword Key
+100903 Thawfrost Boluses
+100928 Stonesword Key
+100937 Shotel
+100963 Gravity Stone Fan
+100964 Gravity Stone Chunk
+100976 Stonesword Key
+100983 Stanching Boluses
+101808 Smithing Stone [1]
+101809 Smithing Stone [2]
+101810 Glintstone Scrap
+101811 Smithing Stone [3]
+101852 Neutralizing Boluses
+101853 Stanching Boluses
+101854 Thawfrost Boluses
+101855 Stimulating Boluses
+101856 Gravity Stone Fan
+101857 Gravity Stone Chunk
+101860 Stonesword Key
+101864 Dagger
+101865 Longsword
+101866 Scimitar
+101867 Battle Axe
+101868 Mace
+101869 Short Spear
+101870 Rapier
+101871 Finger Seal
+101872 Longbow
+101873 Heater Shield
+101900 Axe of Godrick
+101901 Grafted Dragon
+101902 Starscourge Greatsword
+101903 Lion Greatbow
+101904 Morgott's Cursed Sword
+101905 Regal Omen Bairn
+101906 Blasphemous Blade
+101908 Hand of Malenia
+101910 Mohgwyn's Sacred Spear
+101912 Maliketh's Black Blade
+101914 Axe of Godfrey
+101916 Dragon King's Cragblade
+101918 Carian Regal Scepter
+101922 Giant's Red Braid
+101924 Winged Greathorn
+101925 Ancestral Spirit's Horn
+101926 Marika's Hammer
+101927 Sacred Relic Sword
+101928 Bastard's Stars
+600000 Dagger
+600001 Longsword
+600002 Short Spear
+600003 Mace
+600004 Longbow
+600005 Falchion
+600006 Hand Axe
+600007 Buckler
+600008 Round Shield
+1600101 Dagger
+1600102 Longsword
+1600103 Short Spear
+1600104 Mace
+1600105 Longbow
+1600106 Falchion
+1600107 Hand Axe
+1600108 Buckler
+1600109 Round Shield
+1600401 Glintstone Staff
+1600402 Finger Seal
+1600403 Clawmark Seal
+1600417 Crimson Amber Medallion
+1600418 Axe Talisman
+9000000 Forked Greatsword
+9000001 Iron Greatsword
+9000002 Lordsworn's Greatsword
+9000003 Knight's Greatsword
+9000004 Ordovis's Greatsword

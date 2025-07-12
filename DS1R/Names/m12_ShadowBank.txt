@@ -1,0 +1,16 @@
+0 基本
+11 B1霊廟
+20 B1森前半
+21 B1森前半(処理負荷軽減)
+23 B1集落
+24 B1集落(暗め)
+25 B1対戦マップ(小)
+26 B2対戦マップ(大)
+56 PolyG-scn120100
+57 PolyG-scn120000_NoShadow
+58 PolyG-scn120000
+59 PolyG-scn120000
+60 PolyG-scn120000-影落ちB
+61 PolyG-scn120000-出現後
+62 PolyG-scn120000-影落ち
+63 PolyG-scn120000-FaceUp

@@ -3,13 +3,13 @@
 3 Blue phantom 0 -- 青ファントム0
 4 Blue phantom 1 -- 青ファントム1
 5 Blue phantom 2 -- 青ファントム2
-28 Blue phantom 3 -- 青ファントム3
+28 Weapon Enchantment_Cold -- 武器エンチャント_冷気
 6 Small money phantom -- 小金ファントム
 7 Gold phantom -- 金ファントム
 8 Red phantom 0 -- 赤ファントム0
 9 Red phantom 1 -- 赤ファントム1
 10 Red phantom 2 -- 赤ファントム2
-29 Red phantom 3 -- 赤ファントム3
+29 Weapon Enchantment_Sacred -- 武器エンチャント_神聖
 11 Black phantom -- 黒ファントム
 12 Dragon Spirit Phantom -- 竜霊ファントム
 13 Abyss Phantom -- 深淵ファントム

@@ -1,37 +1,60 @@
-90 [Female Knight] Npc -- 【女騎士】NPC
-91 [Female Knight] NPC (Ghost) -- 【女騎士】NPC（亡霊）
-160 Sealed Man -- 封印された人
-161 Sealed Man (Ghost) -- 封印された人（亡霊）
-205 Dragon Shrine Maiden (for reading) -- 龍の巫女（読み込み用）
-530 [Black Spirit] Enclosed Man -- 【黒霊】封じられた人
-531 【Black Spirit】NPC for Multi: The Elder Brother of a Female Swordsman -- 【黒霊】マルチ用NPC：女剣士の兄
-532 【Black Spirit】Painting Defense (Male) -- 【黒霊】絵画守（男）
-800 BOSS: Wyvern -- 【BOSS】ワイバーン
-1010 【Outside of the Museum_】Cobold_3 -- 【館の外_】コボルト_3
-1011 【Outside of the Museum_】Cobold_4 -- 【館の外_】コボルト_4
-1012 【Outside of the Museum_】Cobold_5 -- 【館の外_】コボルト_5
-1013 【Outside of the Museum_】Cobold_1 -- 【館の外_】コボルト_1
-1014 【Outside of the Museum_】Cobold_2 -- 【館の外_】コボルト_2
-1400 【In cart】Basilisk -- 【荷車の中】バジリスク
-1700 Left_Trap during Mirror Night】 Stone Defense: Explosion -- 【ミラーナイトの間左_罠】石守：爆発
-1850 [Hole 2F Petrified Stop Back _ Battle] [] [Mimick] -- 【ホール2F石化ストップ裏_戦闘】ν-ミミック
-2500 【Auga】Petrified Stop -- 【オーガ】石化ストップ
-3000 [Cage of the auger passage _ battle] strengthened immortals -- 【オーガ通路の檻_戦闘】強化不死人
-3100 [Cage of the auger passage _ battle] Auga -- 【オーガ通路の檻_戦闘】オーガ
-3200 [Convoy of auger aisle _ Battle] Basilisk -- 【オーガ通路の護送車_戦闘】バジリスク
-3220 [Convoy of auger aisle _ Battle] Basilisk -- 【オーガ通路の護送車_戦闘】バジリスク
-3801 [Back of the painting of the auger passage _ battle] dragon professor_2 -- 【オーガ通路の絵画裏_戦闘】龍の教授_2
-3802 [Back of the painting of the auger passage _ battle] dragon professor_3 -- 【オーガ通路の絵画裏_戦闘】龍の教授_3
-4030 【Cage in cage room_combat】Giant poisonous horn: Acid -- 【檻部屋の檻_戦闘】巨大毒角虫：酸
-4060 【Cage room_dissecting】Professor of the dragon -- 【檻部屋_解剖中】龍の教授
-4061 【Cage room_dissecting】Professor of the dragon -- 【檻部屋_解剖中】龍の教授
-4200 [Room on the prison _ dissecting] Professor of the dragon -- 【牢の上の部屋_解剖中】龍の教授
-5000 Bone Dragon -- 骨ドラゴン
-6000 [Wall destruction _ first] Auga -- 【壁破壊_一枚目】オーガ
-6010 [Wall destruction _ second] Auga -- 【壁破壊_二枚目】オーガ
-9000 【Event Test】Mirror Night Under Me_1 -- 【イベントテスト】ミラーナイトの下僕_1
-9001 【Event Test】Mirror Night Under Me_2 -- 【イベントテスト】ミラーナイトの下僕_2
-9004 【Event Test】Mirror Night Under Me_5 -- 【イベントテスト】ミラーナイトの下僕_5
-9010 【Event Test_Huge Cage】Giant Basilrisk -- 【イベントテスト_巨大檻】巨大バジリスク
-9100 [Hunting dog] wandering in jail 1 -- 【狩猟犬】牢屋徘徊1
-9101 [Hunting dog] wandering in jail 2 -- 【狩猟犬】牢屋徘徊2
+90 [GEN:90] Lucatiel of Mirrah
+91 [GEN:91] Lucatiel of Mirrah
+160 [GEN:160] Royal Sorcerer Navlaan
+161 [GEN:161] Royal Sorcerer Navlaan
+205 [GEN:205] Emerald Herald
+530 [GEN:530] Royal Sorcerer Navlaan
+531 [GEN:531] Aslatiel of Mirrah
+532 [GEN:532] Painting Guardian Phantom
+540 [GEN:540] Sellsword Luet
+800 [GEN:800] Guardian Dragon [Boss]
+1000 [GEN:1000] Syan Knight
+1010 [GEN:1010] Kobold
+1011 [GEN:1011] Kobold
+1012 [GEN:1012] Kobold
+1013 [GEN:1013] Kobold
+1014 [GEN:1014] Kobold
+1400 [GEN:1400] Basilisk
+1700 [GEN:1700] Red Crystal Lizard
+1850 [GEN:1850] Mimic
+2000 [GEN:2000] Poison Moth
+2500 [GEN:2500] Ogre
+3100 [GEN:3100] Ogre
+3200 [GEN:3200] Basilisk
+3220 [GEN:3220] Basilisk
+3801 [GEN:3801] Dragon Acolyte
+3802 [GEN:3802] Dragon Acolyte
+4030 [GEN:4030] Giant Acid Horn Beetle
+4060 [GEN:4060] Dragon Acolyte
+4061 [GEN:4061] Dragon Acolyte
+4062 [GEN:4062] Dragon Acolyte
+4063 [GEN:4063] Dragon Acolyte
+4200 [GEN:4200] Dragon Acolyte
+5000 [GEN:5000] Dragon Skeleton
+6000 [GEN:6000] Ogre
+6010 [GEN:6010] Ogre
+7000 [GEN:7000] Forlorn
+7001 [GEN:7001] Forlorn
+7002 [GEN:7002] Forlorn
+7003 [GEN:7003] Forlorn
+7100 [GEN:7100] Invisible Hollow
+7101 [GEN:7101] Invisible Hollow
+7102 [GEN:7102] Invisible Hollow
+8000 [GEN:8000] Belfry Gargoyle
+8010 [GEN:8010] Mimic
+8011 [GEN:8011] Mimic
+8012 [GEN:8012] Mimic
+8013 [GEN:8013] Mimic
+8014 [GEN:8014] Mimic
+8020 [GEN:8020] Undead Aberration
+8030 [GEN:8030] Ogre
+8040 [GEN:8040] Basilisk
+8500 [GEN:8500] Prowling Magus
+8600 [GEN:8600] Undead Traveler
+8601 [GEN:8601] Undead Traveler
+9000 [GEN:9000] Looking Glass Phantom
+9001 [GEN:9001] Looking Glass Phantom
+9004 [GEN:9004] Looking Glass Phantom
+9010 [GEN:9010] Giant Basilisk
+9100 [GEN:9100] Hunting Dog
+9101 [GEN:9101] Hunting Dog

@@ -81,16 +81,16 @@
 10333923 [Mimetic OBJ: Normal] 【Door road of Faros】Kokeshi -- 【擬態OBJ：通常】【ファロスの扉道】こけし
 10334000 【NPC】Tomb_King of Mice -- 【NPC】墓_ねずみの王
 10334100 【NPC】Tomb_Dwarf -- 【NPC】墓_ドワーフ
-10335000 [Wooden treasure chest 01] hidden passage _spiral slope under -- 【木宝箱01】　隠し通路_螺旋スロープ下
-10335010 【Wooden Treasure Chest 02_Trap】 between 2F_ Togetge Passage -- 【木宝箱02_トラップ】　2F_トゲトゲ通路の間
-10335020 [Wooden treasure chest 03_trap] 2F_ small room in the hidden passage -- 【木宝箱03_トラップ】　2F_隠し通路先の小部屋
-10335030 [Kiho-ho-ho 04] regular route_1st light stand side passage -- 【木宝箱04】　正規ルート_1つ目の灯火台脇の通路
-10335040 【Iron Treasure Chest 01】 Pledge Route _1F Square_ The Back of the Elephant Cage -- 【鉄宝箱01】　誓約ルート_1F広場_象人の檻の奥
-10336000 【Treasure Corpse】Before the Pledge Route -- 【宝死体01】　誓約ルート手前
-10336010 【Treasure Corpse 02】 Regular Route_Spiral Stairs -- 【宝死体02】　正規ルート_螺旋階段下
-10336020 【Treasure Corpse】The _2F_ of the Elephant Cage -- 【宝死体03】　誓約ルート_2F_象人の檻の奥
-10336040 【Treasure Corpse】In front of the gate _1F_ pledge route -- 【宝死体05】　誓約ルート_1F_ゲート手前
-10336050 【Treasure Corpse】Pledge Route _1F_ Higher Ground -- 【宝死体06】　誓約ルート_1F_高台
-10336060 【Treasure Corpse 07】 Pledge Route _2F_ On Ladder -- 【宝死体07】　誓約ルート_2F_梯子上
-10336070 【Treasure Corpse】Pledge Route _2F_ Stairs In Front of the Gate -- 【宝死体08】　誓約ルート_2F_ゲート手前の階段脇
-10336080 【Treasure Corpse】Pledge Route _2F_5 Disc-In-Front -- 【宝死体09】　誓約ルート_2F_5連円盤手前
+10335000 [Chest] Treasure
+10335010 [Chest] Treasure
+10335020 [Chest] Treasure
+10335030 [Chest] Treasure
+10335040 [Chest] Treasure
+10336000 [Corpse] Treasure
+10336010 [Corpse] Treasure
+10336020 [Corpse] Treasure
+10336040 [Corpse] Treasure
+10336050 [Corpse] Treasure
+10336060 [Corpse] Treasure
+10336070 [Corpse] Treasure
+10336080 [Corpse] Treasure

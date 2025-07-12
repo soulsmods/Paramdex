@@ -56,16 +56,18 @@
 10343922 [Mimetic OBJ: Normal] a rat image of a fake -- 【擬態OBJ：通常】にせものネズミ像
 10343923 [Mimetic OBJ: Normal] a rat image of a fake -- 【擬態OBJ：通常】にせものネズミ像
 10344000 【NPC】Tomb_King of Mice -- 【NPC】墓_ねずみの王
-10345000 【Iron Treasure Chest】Scaffolding of the lower suspension bridge -- 【鉄宝箱01】　下層のつり橋先の足場
-10345010 【Wooden treasure chest】The shadow of the scaffold in front of the bottom of the scum -- 【木宝箱01】　クズ底手前_足場の陰
-10346000 [Treasure corpse 11] wooden scaffolding to the bottom of the scum _ scaffolding -- 【宝死体11】　クズ底への木製足場_足場もたれ
-10346010 [Treasure corpse 12] wooden scaffolding to the bottom of the scum -- 【宝死体12】　クズ底への木製足場_あおむけ
-10346020 [Treasure corpse 11_human bone_whole body] spinning stairroom _ coffin on -- 【宝死体11_人骨_全身】　回転階段部屋_上の棺入れ
-10346030 [Treasure corpse 04_ human bone_ whole body] circular waterway _ corridor side -- 【宝死体04_人骨_全身】　円形水路_廊下側
-10346040 [Treasure corpse 06_human bone_whole body] 2F_ the end of the corridor -- 【宝死体06_人骨_全身】　2F_廊下の突き当たり
-10346050 [Treasure corpse 07_human bone_whole body] rotating stairroom -- 【宝死体07_人骨_全身】　回転階段部屋
-10346060 [Treasure corpse 08_ human bone_whole body] circular waterway_ inside -- 【宝死体08_人骨_全身】　円形水路_内側
-10346070 [Treasure corpse 10_ human bone_whole body] lower _aisle at the end -- 【宝死体10_人骨_全身】　下層_通路突き当り
-10346080 [Treasure corpse 05_ human bone_skull] 1F_ corridor shelf -- 【宝死体05_人骨_頭蓋骨】　1F_廊下の棚
-10346090 [Treasure corpse 12_ human bone_whole body] connection to the bottom of the scum_ lattice back -- 【宝死体12_人骨_全身】　クズ底への接続_格子奥
-10346100 [Treasure corpse 13_ human bone_ skull] connection to the bottom of the scum _ high difficulty jump -- 【宝死体13_人骨_頭蓋骨】　クズ底への接続_高難度飛び移り
+10345000 [Chest] Treasure
+10345010 [Chest] Treasure
+10345020 [Chest] Treasure
+10346000 [Corpse] Treasure
+10346010 [Corpse] Treasure
+10346020 [Corpse] Treasure
+10346030 [Corpse] Treasure
+10346040 [Corpse] Treasure
+10346050 [Corpse] Treasure
+10346060 [Corpse] Treasure
+10346070 [Corpse] Treasure
+10346080 [Corpse] Treasure
+10346090 [Corpse] Treasure
+10346100 [Corpse] Treasure
+10346110 [Corpse] Treasure

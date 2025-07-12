@@ -1,0 +1,36 @@
+104 Reward
+105 Result
+109 Set player name
+110 System
+201 Roundtable Hold
+203 Expeditions
+204 Target
+205 Matchmaking Settings
+207 Character Selection
+208 Relic Rites
+209 Visual Codex
+215 Journal
+216 Sparring Settings
+217 Character
+218 Sparring Equipment
+222 Handbook
+223 Change Garb
+225 Result History
+226 Result
+228 Small Jar Bazaar
+232 Character Selection
+233 Relics
+234 Key Items
+235 Collector Signboard
+301 Equipment
+302 Status
+304 System
+309 Map
+311 Level Up
+313 Shop
+314 Strengthen Armament
+315 Special Armament Strengthening
+316 Armament Replication
+317 Dormant Power
+412 Sort
+413 Filter

@@ -1,34 +1,3 @@
-20210700 Brazier
-20210701 Brazier
-20210702 Brazier
-20210703 Brazier
-20210704 Brazier
-20210705 Brazier
-20210706 Brazier
-20210707 Brazier
-20210708 Brazier
-20210709 Brazier
-20210710 Brazier
-20210711 Brazier
-20210712 Brazier
-20210713 Brazier
-20210714 Brazier
-20210715 Brazier
-20210716 Brazier
-20210717 Brazier
-20210718 Brazier
-20210719 Brazier
-20210720 Brazier
-20210721 Brazier
-20210722 Brazier
-20210723 Brazier
-20210724 Brazier
-20210725 Brazier
-20210726 Brazier
-20210727 Brazier
-20210728 Brazier
-20210729 Brazier
-20210730 Brazier
 20215000 [Chest] Treasure
 20215010 [Chest] Treasure
 20215020 [Chest] Treasure

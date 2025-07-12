@@ -1,0 +1,19 @@
+0 A dummy to keep the "individual ID" displayed above. You can erase this dummy when adding an individual ID.
+1039204350 Fire Monk Passage for fixing respawn point
+1043390000 Bonfire flag
+1043390050 Initialization flag
+1043390100 System flag
+1043390200 Character flag (do not reset)
+1043390400 Character flag: Small exploration (do not reset)
+1043390500 Object flag (do not reset)
+1043390700 Conversation flag
+1043390800 Boss flag (do not reset)
+1043390900 For debugging/testing
+1043392100 System flags
+1043392200 Character flags (reset)
+1043392400 Character flags: Small exploration (reset)
+1043392500 Object flags (reset)
+1043392700 Conversation flags
+1043392800 Boss flags (reset)
+1043392900 For debugging/testing
+1043398500 Object action flags

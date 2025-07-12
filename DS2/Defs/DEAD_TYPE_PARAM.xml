@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PARAMDEF XmlVersion="0">
+  <ParamType>DEAD_TYPE_PARAM</ParamType>
+  <DataVersion>0</DataVersion>
+  <BigEndian>False</BigEndian>
+  <Unicode>True</Unicode>
+  <FormatVersion>201</FormatVersion>
+  <Fields>
+    <Field Def="f32 Unk00" />
+    <Field Def="f32 Unk01" />
+    <Field Def="f32 Unk02" />
+    <Field Def="f32 Unk03" />
+    <Field Def="f32 Unk04" />
+    <Field Def="f32 Unk05" />
+    <Field Def="s32 chr_full_body_sfx" />
+    <Field Def="f32 Unk07" />
+    <Field Def="f32 Unk08" />
+    <Field Def="s32 Unk09" />
+    <Field Def="s32 Unk10" />
+    <Field Def="s32 bullet_emitted_on_death" />
+  </Fields>
+</PARAMDEF>

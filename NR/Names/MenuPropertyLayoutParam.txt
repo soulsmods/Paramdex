@@ -1,0 +1,88 @@
+1004 Equip Effect
+1118 Equip Effect
+1218 Equip Effect
+1310 Equip Effect
+1418 Equip Effect
+1518 Equip Effect
+1618 Equip Effect
+1718 Equip Effect
+2040 Status Ailment
+2165 Attack Power
+2166 Guarded Damage Negation
+2167 Attribute Scaling
+2365 Attack Power
+2366 Guarded Damage Negation
+2367 Attribute Scaling
+2465 Attack Power
+2466 Guarded Damage Negation
+2467 Attribute Scaling
+2565 Attack Power
+2566 Guarded Damage Negation
+2567 Attribute Scaling
+2665 Attack Power
+2666 Guarded Damage Negation
+2667 Attribute Scaling
+5016 Equip Effect
+6028 Attack Power
+7016 Required Items
+7017 None
+7116 Required Items
+7117 None
+7216 Required Items
+7217 None
+11037 Attack Power
+15017 Base Stats
+15018 Armaments
+15019 Special Effects
+15020 Passive Effects
+16016 Special Effects
+17000 Slot 1
+17016 Slot 2
+17032 Slot 3
+17048 Relics
+18003 Lv.
+22000 Required Items
+22001 None
+22017 Legendary Ascension (1 time only)
+23000 Required Items
+23001 None
+23017 Legendary Ascension (1 time only)
+30019 Base Stats
+30020 Armaments
+31028 Attack Power
+31029 Attack Power
+50702 Characteristics
+70000 Battle Record - Summary
+70020 Battle Record - Character Usage and Victories Achieved
+70070 Battle Record - All
+70084 Battle Record - Personal Bests
+70150 Attributes
+70203 Status Ailment
+70232 Base Properties
+70233 Attack Power
+70234 Guarded Damage Negation
+70253 Status Ailment
+70282 Base Properties
+70283 Attack Power
+70284 Guarded Damage Negation
+70286 Unique Effect
+70303 Status Ailment
+70332 Base Properties
+70333 Attack Power
+70334 Guarded Damage Negation
+70353 Status Ailment
+70382 Base Properties
+70383 Attack Power
+70384 Guarded Damage Negation
+70386 Unique Effect
+70409 Base Properties
+70500 Equip Effect
+70600 Base Properties
+70601 FP Cost
+70608 Usable Armament Types
+70700 Base Properties
+70702 FP Cost
+70800 Base Properties
+70803 Relic Effect
+70850 Base Properties
+82001 Reward for Achieving Objective

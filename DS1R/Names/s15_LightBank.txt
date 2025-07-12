@@ -1,0 +1,40 @@
+0 B0_Outdoors
+1 B0_Indoors
+3 B0_MiddleDistanceView
+4 B0_Trees
+10 B0_Character(Outdoors)
+11 B0_Characters(Indoors)
+20 B1_Outdoors
+21 B1_Indoors
+22 B1_Basement
+24 B1_Trees(Backlight)
+25 B1_Trees(ForwardLight)
+30 B1_Character(Outdoors)
+31 B1_Character(Indoors)
+32 B1_Character(Basement)
+33 B1_Character(Indoors-WestWing)
+34 B1_Character(RoyalChamber)
+39 PolyG-scn150000-<MAP>-RoyalCastle1
+40 PolyG-scn150000-<MAP>-RoyalCastle2Panorama
+41 PolyG-
+42 PolyG-
+43 PolyG-
+44 PolyG-
+45 PolyG-
+46 PolyG-scn150110-MAP Evening(RoyalChamber)
+47 PolyG-scn150110-MAP Intermediate(RoyalChamber)
+48 PolyG-scn150110-MAP Night(RoyalChamber)
+49 PolyG-scn150110-Character Evening(RoyalChamber)
+50 PolyG-scn150110-Character Intermediate(RoyalChamber)
+51 PolyG-scn150110-Character Night(RoyalChamber)
+52 PolyG-
+53 PolyG-
+54 PolyG-
+55 PolyG-
+56 PolyG-
+57 PolyG-
+58 PolyG-
+59 PolyG-
+60 PolyG-
+61 PolyG-
+62 PolyG-

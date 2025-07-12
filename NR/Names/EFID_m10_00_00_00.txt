@@ -1,0 +1,266 @@
+0 A dummy to keep the "individual ID" displayed above. You can erase this dummy when adding an individual ID.
+10000000 Bonfire flag
+10000050 Initialization flag
+10000100 System flag
+10000200 Character flag (do not reset)
+10000500 Object flag (do not reset)
+10000700 Conversation flag
+10000800 Boss flag (do not reset)
+10000900 For debugging/testing
+10000920 [Debug] Enable state management EzState
+10001200 Character flag (do not reset)
+10001500 Object flag (do not reset)
+10001800 Third day secret mode unlock conversation completed
+10001800 Third day secret mode unlock conversation completed
+10001810 Lady unlocked conversation possible flag
+10001811 Avenger unlocked flag
+10001812 Pocket watch available flag
+10001813 Pocket watch available flag
+10001814 Reminiscence forced to end flag after defeating 2 enemies
+10001815 Reminiscence forced to end flag after defeating 4 enemies CS
+10001816 Reminiscence forced to end flag after ending
+10001820 Mission buff hold_102
+10001821 Mission buff hold_107
+10001822 Mission buff hold_108
+10001823 Mission buff hold_110
+10001824 Mission buff hold_113
+10001825 For holding mission buffs_114
+10001826 For holding mission buffs_117
+10001827 For holding mission buffs_103
+10001828 For holding mission buffs_105
+10001830 For holding mission buffs_115
+10001831 For holding mission buffs_118
+10001832 For holding mission buffs_119
+10001833 For holding mission buffs_120
+10001834 For holding mission buffs_121
+10001835 For holding mission buffs_140
+10001836 For holding mission buffs_141
+10001837 For holding mission buffs_144_Judgment of the wise
+10001838 For holding mission buffs_139
+10001839 For holding mission buffs_137
+10001840 For holding mission buffs_138
+10001841 For holding mission buffs_143
+10001842 For holding mission buffs_142
+10001843 For holding mission buffs_147
+10001844 For holding mission buffs_145
+10001845 For holding mission buffs_146
+10001846 For holding mission buffs_148
+10001850 Unlock basement map
+10001851 Unlock basement door
+10001860 Campaign Shop_Warp possible flag
+10001861 Campaign Shop unlocked flag
+10001870 Lady Scenario_Both missions completed
+10001880 TUT_Avenger switch
+10001881 Guardian Scenario_Helmet display possible
+10001890 Enforcer Scenario_Blessing weakened
+10001900 Rare Terrain Fever first activated Volcano
+10001901 Rare Terrain Fever first activated Snowy Mountain
+10001902 Rare Terrain Fever first activated Corruption
+10001903 Rare Terrain Fever first activated Noclone
+10001910 Notification trigger flag: Reminiscence in progress
+10001911 Notification trigger flag: Reminiscence finished
+10001912 Notification trigger flag: New Scenario menu
+10001913 Notification trigger flag: Mission acceptance
+10001914 Notification trigger flag: Mission acceptance
+10001915 Tutorial display permission: Lobby currency shop
+10001920 Lobby antiques display flag 1
+10001921 Lobby antiques display flag 2
+10001922 Lobby antiques display flag 3
+10001923 Lobby antiques display flag 4
+10001924 Flag 5 showing antiques in the lobby
+10001925 Flag 6 showing antiques in the lobby
+10001926 Flag 7 showing antiques in the lobby
+10001927 Flag 8 showing antiques in the lobby
+10001928 Flag 9 showing antiques in the lobby
+10001929 Flag 10 showing antiques in the lobby
+10001930 Flag 1 showing antiques already acquired in the lobby
+10001931 Flag 2 showing antiques already acquired in the lobby
+10001932 Flag 3 of lobby antiques obtained
+10001933 Flag 4 of lobby antiques obtained
+10001934 Flag 5 of lobby antiques obtained
+10001935 Flag 6 of lobby antiques obtained
+10001936 Flag 7 of lobby antiques obtained
+10001937 Flag 8 of lobby antiques obtained
+10001938 Flag 9 of lobby antiques obtained
+10001939 Flag 10 of lobby antiques obtained
+10001950 Permission to change blessing to final performance
+10001951 Changed blessing status from sign menu at least once
+10002000 Request to play CS explaining worldview
+10002000 Request to play CS explaining worldview
+10002001 Forced lobby CS
+10002002 Main layout state after defeating 4 bosses
+10002010 Immediately after first entry CS
+10002011 Immediately after defeating one boss
+10002012 Immediately after defeating four bosses
+10002013 Immediately after unlocking the Lady CS
+10002014 Request to display tutorial for defeating Nameless after CS
+10002015 OK flag for new dialogue when rewarding memories
+10002016 Personal scenario menu not loaded since disabling [Volatility] button
+10002017 Permission to display antique tutorial after CS
+10002018 Permission to process memories after CS
+10002019 Permission to display campaign shop after CS
+10002020 Rogue_Fireworks launch judgment
+10002021 Rogue_Stone monument glow judgment
+10002030 Guardian_Conversation with Rogue completed
+10002040 Notification trigger flag: Mission accepted
+10002041 Notification trigger flag: Matched when accepting mission
+10002050 Gparam change control flag_Do not change Gparam if this is set
+10002051 Gparam entry control flag
+10002060 BGM control flag
+10002100 Flag for retiring from training ground battle
+10002100 Flag for retiring from training ground battle
+10002160 Rare terrain fever forced termination event
+10002161 Request for notification of end of fever after CS (volcano)
+10002162 Request for notification of end of fever after CS (snowy mountain)
+10002163 Request for notification of end of fever after CS (corruption)
+10002164 Request for notification of end of fever after CS (no clone)
+10002165 Display volcano stop tutorial after skin tutorial
+10002166 Rematching request notification (fever)
+10002167 Request for first fever notification in ED tutorial
+10002168 Permission to display fever tutorial after CS
+10002170 Start fever at the sign shop
+10002171 Fever is running at the sign shop
+10002172 Force end fever started at the sign shop
+10002173 Change blessing status from the sign shop
+10002200 Character flag (reset)
+10002201 Pursuer new mark control
+10002202 Guardian new mark
+10002203 Iron Eye New Mark Control
+10002204 Lady New Mark Control
+10002205 Scoundrel New Mark Control
+10002206 Avenger New Mark Control
+10002207 Hermit New Mark Control
+10002208 Enforcer New Mark Control
+10002209 Buffer New Mark Control
+10002210 Servant Doll New Mark Control
+10002211 Shadow Witch New Mark Control
+10002212 Ghost New Mark Control
+10002213 Traitor New Mark Control
+10002214 Phantom New Mark Control
+10002215 Dummy Character 1 New Mark Control
+10002216 Dummy Character 2 New Mark Control
+10002217 Dummy Character 3 New Mark Control
+10002218 Dummy character 4 New mark control
+10002219 Dummy character 5 New mark control
+10002220 Dummy character 6 New mark control
+10002221 Dummy character 7 New mark control
+10002222 Dummy character 8 New mark control
+10002223 Dummy character 9 New mark control
+10002224 Dummy character 10 New mark control
+10002225 Dummy character 11 New mark control
+10002226 Dummy character 12 New mark control
+10002227 Dummy character 13 New mark control
+10002228 Dummy character 14 New mark control
+10002229 Dummy character 15 New mark control
+10002230 Dummy character 16 New mark control
+10002231 Dummy character 17 New mark control
+10002232 Dummy character 18 New mark control
+10002233 Dummy character 19 New mark control
+10002234 Return point New mark control
+10002234 Return point New mark control
+10002235 Fake servant doll New mark control
+10002235 Fake servant doll New mark control
+10002251 Pursuer Map Icon Overwrite Control
+10002252 Guardian Map Icon Overwrite Control
+10002253 Iron Eye Map Icon Overwrite Control
+10002254 Lady Map Icon Overwrite Control
+10002255 Scoundrel Map Icon Overwrite Control
+10002256 Avenger Map Icon Overwrite Control
+10002257 Hermit Map Icon Overwrite Control
+10002258 Enforcer Map Icon Overwrite Control
+10002259 Buffer Map Icon Overwrite Control
+10002260 Servant Doll Map Icon Overwrite Control
+10002261 Shadow Witch Map Icon Overwrite Control
+10002262 Ghost Map Icon Overwrite Control
+10002263 Traitor Map Icon Overwrite Control
+10002264 Phantom Map Icon Overwrite Control
+10002265 Dummy character 1 Map icon overwrite control
+10002266 Dummy character 2 Map icon overwrite control
+10002267 Dummy character 3 Map icon overwrite control
+10002268 Dummy character 4 Map icon overwrite control
+10002269 Dummy character 5 Map icon overwrite control
+10002270 Dummy character 6 Map icon overwrite control
+10002271 Dummy character 7 Map icon overwrite control
+10002272 Dummy character 8 Map icon overwrite control
+10002273 Dummy character 9 Map icon overwrite control
+10002274 Dummy character 10 Map icon overwrite control
+10002275 Dummy character 11 Map icon overwrite control
+10002276 Dummy character 12 Map icon overwrite control
+10002277 Dummy character 13 Map icon overwrite control
+10002278 Dummy character 14 Map icon overwrite control
+10002279 Dummy character 15 Map icon overwrite control
+10002280 Dummy character 16 Map icon overwrite control
+10002281 Dummy character 17 Map icon overwrite control
+10002282 Dummy character 18 Map icon overwrite control
+10002283 Dummy character 19 Map icon overwrite control
+10002284 Dummy character 20 Map icon overwrite control
+10002285 Return point Map icon overwrite control
+10002286 Fake servant doll Map icon overwrite control
+10002301 Tracker - Hide map icon
+10002302 Guardian - Hide map icon
+10002303 Iron Eye - Hide map icon
+10002304 Lady - Hide map icon
+10002305 Scoundrel - Hide map icon
+10002306 Avenger - Hide map icon
+10002307 Hermit - Hide map icon
+10002308 Enforcer - Hide map icon
+10002309 Buffer - Hide map icon
+10002310 Servant doll - Hide map icon
+10002311 Shadow witch - Hide map icon
+10002312 Ghost - Hide map icon
+10002313 Traitor - Hide map icon
+10002314 Phantom - Hide map icon
+10002315 Dummy character 1 Map icon hidden control
+10002316 Dummy character 2 Map icon hidden control
+10002317 Dummy character 3 Map icon hidden control
+10002318 Dummy character 4 Map icon hidden control
+10002319 Dummy character 5 Map icon hidden control
+10002320 Dummy character 6 Map icon hidden control
+10002321 Dummy character 7 Map icon hidden control
+10002322 Dummy character 8 Map icon hidden control
+10002323 Dummy character 9 Map icon hidden control
+10002324 Dummy character 10 Map icon hidden control
+10002325 Dummy character 11 Map icon hidden control
+10002326 Dummy character 12 Map icon hidden control
+10002327 Dummy character 13 Map icon hidden control
+10002328 Dummy character 14 Map icon hidden control
+10002329 Dummy character 15 Map icon hidden control
+10002330 Dummy character 16 Map icon hidden control
+10002331 Dummy character 17 Map icon hidden control
+10002332 Dummy character 18 Map icon hidden control
+10002333 Dummy character 19 Map icon hidden control
+10002334 Dummy character 20 Map icon hidden control
+10002335 Return point Map icon hidden control
+10002336 Fake servant doll Map icon hidden control
+10002400 召使人形　にぎやかし配置１
+10002401 召使人形　にぎやかし配置２
+10002402 召使人形　にぎやかし配置３
+10002405 召使人形　スキン解禁会話位置へワープ要求
+10002406 召使人形　スキン解禁会話中
+10002410 Training center guide hidden flag
+10002500 Avenger unlock spirit body performance start
+10002500 Avenger unlock spirit body performance start
+10002501 Avenger unlock spirit body performance end
+10002700 For the lobby menu: Matching menu
+10002700 For the lobby menu: Matching menu
+10002701 For the lobby menu: Hero selection
+10002702 For the lobby menu: Avatar customization
+10002703 For the lobby menu: Antiques
+10002704 For the lobby menu: Picture book
+10002705 For the lobby menu: Personal scenario
+10002706 For the lobby menu: Lobby currency shop
+10002707 For the lobby menu: Campaign currency shop
+10002800 [Volatile] Enforcer lively fixed flag part 1
+10002800 [Volatile] Enforcer lively fixed flag part 1
+10002801 【揮発】執行者にぎやかし固定フラグ　その２
+10002802 【揮発】執行者にぎやかし固定フラグ　その３
+10002900 [Debug] Blackout warp to scenario menu
+10002900 [Debug] Blackout warp to scenario menu
+10003000 Conversation flag (reset)
+10008500 Object act flag
+10009000 After recollection start flag
+10009001 After recollection end flag
+10009002 After recollection end flag without direction
+10009080 NPC103_Destroyer_Initialization event
+10009240 NPC107_Guardian_Common scenario_Initialization event
+10009241 NPC107_Guardian_Tracker sub-scenario_Phase 1_Initialization event

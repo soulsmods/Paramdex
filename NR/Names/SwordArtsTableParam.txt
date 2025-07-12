@@ -1,0 +1,3789 @@
+0 (0% weight)
+1 No Skill
+10 No Skill
+100 Lion's Claw
+101 Impaling Thrust
+102 Piercing Fang
+103 Spinning Slash
+105 Charge Forth
+106 Stamp (Upward Cut)
+107 Stamp (Sweep)
+108 Blood Tax
+109 Repeating Thrust
+110 Wild Strikes
+111 Spinning Strikes
+112 Double Slash
+113 Prelate's Charge
+114 Unsheathe
+115 Square Off
+116 Giant Hunt
+117 Torch Attack
+118 Loretta's Slash
+119 Poison Moth Flight
+120 Spinning Weapon
+122 Storm Assault
+123 Stormcaller
+124 Sword Dance
+125 Spinning Chain
+200 Glintblade Phalanx
+201 Sacred Blade
+202 Ice Spear
+203 Glintstone Pebble
+204 Bloody Slash
+205 Lifesteal Fist
+207 Eruption
+208 Prayerful Strike
+209 Gravitas
+210 Storm Blade
+212 Earthshaker
+213 Golden Land
+214 Flaming Strike
+216 Thunderbolt
+217 Lightning Slash
+218 Carian Grandeur
+219 Carian Greatsword
+220 Vacuum Slice
+221 Black Flame Tornado
+222 Sacred Ring of Light
+223 Firebreather
+224 Blood Blade
+225 Phantom Slash
+226 Spectral Lance
+227 Chilling Mist
+228 Poisonous Mist
+300 Shield Bash
+301 Barricade Shield
+302 Parry
+303 Buckler Parry
+305 Carian Retaliation
+306 Storm Wall
+307 Golden Parry
+308 Shield Crash
+309 Thops's Barrier
+400 Through and Through
+401 Barrage
+402 Mighty Shot
+404 Enchanted Shot
+405 Sky Shot
+406 Rain of Arrows
+501 Hoarfrost Stomp
+502 Storm Stomp
+503 Kick
+504 Lightning Ram
+505 Flame of the Redmanes
+506 Ground Slam
+507 Golden Slam
+508 Waves of Darkness
+509 Hoarah Loux's Earthshaker
+600 Determination
+601 Royal Knight's Resolve
+602 Assassin's Gambit
+603 Golden Vow
+604 Sacred Order
+605 Shared Order
+606 Seppuku
+607 Cragblade
+650 Barbaric Roar
+651 War Cry
+652 Beast's Roar
+653 Troll's Roar
+654 Braggart's Roar
+700 Endure
+701 Vow of the Indomitable
+702 Holy Ground
+800 Quickstep
+801 Bloodhound's Step
+802 Raptor of the Mists
+850 White Shadow's Lure
+1000 Surge of Faith
+1001 Flame Spit
+1002 Tongues of Fire
+1003 Oracular Bubble
+1004 Bubble Shower
+1005 Great Oracular Bubble
+1006 Sea of Magma
+1007 Viper Bite
+1008 Moonlight Greatsword
+1009 Siluria's Woe
+1010 Rallying Standard
+1011 Bear Witness!
+1012 Eochaid's Dancing Blade
+1013 Soul Stifler
+1014 Taker's Flames
+1015 Shriek of Milos
+1016 Reduvia Blood Blade
+1017 Glintstone Dart
+1018 Flowing Form
+1019 Night-and-Flame Stance
+1020 Wave of Gold
+1021 Ruinous Ghostflame
+1022 Establish Order
+1023 Mists of Slumber
+1024 Spearcall Ritual
+1025 Wolf's Assault
+1026 Thundercloud Form
+1027 Cursed-Blood Slice
+1028 Waterfowl Dance
+1029 Gold Breaker
+1030 I Command Thee, Kneel!
+1031 Regal Roar
+1032 Starcaller Cry
+1033 Wave of Destruction
+1034 Bloodboon Ritual
+1035 Flowing Form
+1036 Blade of Death
+1037 Blade of Gold
+1038 Destined Death
+1039 Spinning Wheel
+1040 Alabaster Lords' Pull
+1041 Onyx Lords' Repulsion
+1042 Oath of Vengeance
+1043 Ice Lightning Sword
+1044 Regal Beastclaw
+1045 Flame Dance
+1046 Claw Flick
+1047 Nebula
+1048 Ghostflame Ignition
+1049 Ancient Lightning Spear
+1050 Frenzyflame Thrust
+1051 Miquella's Ring of Light
+1052 Golden Tempering
+1053 Last Rites
+1054 Unblockable Blade
+1055 Eochaid's Dancing Blade
+1056 Magic Dagger
+1165 Loretta's Slash
+1166 Spinning Slash
+1167 Corpse Wax Cutter
+1168 Zamor Ice Storm
+1169 Radahn's Rain
+1170 The Queen's Black Flame
+1171 Dynast's Finesse
+1172 Magma Shower
+1173 Nebula
+1174 Death Flare
+1175 Bloodhound's Finesse
+1176 Magma Guillotine
+1177 Corpse Piler
+1178 Transient Moonlight
+1179 Bloodblade Dance
+1182 Knowledge Above All
+1183 Devourer of Worlds
+1184 Familial Rancor
+1185 Rosus's Summons
+1186 Thunderstorm
+1187 Sacred Phalanx
+1188 Great-Serpent Hunt
+1189 Angel's Wings
+1190 Storm Kick
+1191 Unblockable Blade
+1192 Sorcery of the Crozier
+1193 Erdtree Slam
+1194 Gravity Bolt
+1195 Fires of Slumber
+1196 Golden Retaliation
+1197 Contagious Fury
+1198 Ordovis's Vortex
+10000000 <Dagger> Impaling Thrust
+10000000 <Dagger> Spinning Slash
+10000000 <Dagger> Blood Tax
+10000000 <Dagger> Repeating Thrust
+10000000 <Dagger> Double Slash
+10000000 <Dagger> Poison Moth Flight
+10000000 <Dagger> Spinning Weapon
+10000000 <Dagger> Sword Dance
+10000000 <Dagger> Glintblade Phalanx
+10000000 <Dagger> Sacred Blade
+10000000 <Dagger> Glintstone Pebble
+10000000 <Dagger> Bloody Slash
+10000000 <Dagger> Storm Blade
+10000000 <Dagger> Flaming Strike
+10000000 <Dagger> Thunderbolt
+10000000 <Dagger> Lightning Slash
+10000000 <Dagger> Carian Grandeur
+10000000 <Dagger> Carian Greatsword
+10000000 <Dagger> Vacuum Slice
+10000000 <Dagger> Blood Blade
+10000000 <Dagger> Chilling Mist
+10000000 <Dagger> Poisonous Mist
+10000000 <Dagger> Parry
+10000000 <Dagger> Hoarfrost Stomp
+10000000 <Dagger> Storm Stomp
+10000000 <Dagger> Kick
+10000000 <Dagger> Lightning Ram
+10000000 <Dagger> Flame of the Redmanes
+10000000 <Dagger> Ground Slam
+10000000 <Dagger> Golden Slam
+10000000 <Dagger> Hoarah Loux's Earthshaker
+10000000 <Dagger> Determination
+10000000 <Dagger> Royal Knight's Resolve
+10000000 <Dagger> Assassin's Gambit
+10000000 <Dagger> Golden Vow
+10000000 <Dagger> Sacred Order
+10000000 <Dagger> Shared Order
+10000000 <Dagger> Cragblade
+10000000 <Dagger> Beast's Roar
+10000000 <Dagger> Endure
+10000000 <Dagger> Quickstep
+10000000 <Dagger> Bloodhound's Step
+10000000 <Dagger> Raptor of the Mists
+10000000 <Dagger> White Shadow's Lure
+10000050 <Untyped Dagger> Impaling Thrust
+10000050 <Untyped Dagger> Spinning Slash
+10000050 <Untyped Dagger> Repeating Thrust
+10000050 <Untyped Dagger> Double Slash
+10000050 <Untyped Dagger> Sword Dance
+10000050 <Untyped Dagger> Storm Blade
+10000050 <Untyped Dagger> Vacuum Slice
+10000050 <Untyped Dagger> Parry
+10000050 <Untyped Dagger> Storm Stomp
+10000050 <Untyped Dagger> Kick
+10000050 <Untyped Dagger> Ground Slam
+10000050 <Untyped Dagger> Hoarah Loux's Earthshaker
+10000050 <Untyped Dagger> Determination
+10000050 <Untyped Dagger> Royal Knight's Resolve
+10000050 <Untyped Dagger> Cragblade
+10000050 <Untyped Dagger> Beast's Roar
+10000050 <Untyped Dagger> Endure
+10000050 <Untyped Dagger> Quickstep
+10000050 <Untyped Dagger> Bloodhound's Step
+10000050 <Untyped Dagger> Raptor of the Mists
+10000100 <Elemental Dagger> Flaming Strike
+10000100 <Elemental Dagger> Flame of the Redmanes
+10000100 <Elemental Dagger> Thunderbolt
+10000100 <Elemental Dagger> Lightning Slash
+10000100 <Elemental Dagger> Lightning Ram
+10000100 <Elemental Dagger> Sacred Blade
+10000100 <Elemental Dagger> Golden Slam
+10000100 <Elemental Dagger> Golden Vow
+10000100 <Elemental Dagger> Sacred Order
+10000100 <Elemental Dagger> Shared Order
+10000100 <Elemental Dagger> Spinning Weapon
+10000100 <Elemental Dagger> Glintblade Phalanx
+10000100 <Elemental Dagger> Glintstone Pebble
+10000100 <Elemental Dagger> Carian Grandeur
+10000100 <Elemental Dagger> Carian Greatsword
+10000100 <Elemental Dagger> Chilling Mist
+10000100 <Elemental Dagger> Hoarfrost Stomp
+10000100 <Elemental Dagger> Poison Moth Flight
+10000100 <Elemental Dagger> Poisonous Mist
+10000100 <Elemental Dagger> Blood Tax
+10000100 <Elemental Dagger> Bloody Slash
+10000100 <Elemental Dagger> Blood Blade
+10000100 <Elemental Dagger> Assassin's Gambit
+10000100 <Elemental Dagger> White Shadow's Lure
+10000500 <Fire Dagger> Flaming Strike
+10000500 <Fire Dagger> Flame of the Redmanes
+10000600 <Lightning Dagger> Thunderbolt
+10000600 <Lightning Dagger> Lightning Slash
+10000600 <Lightning Dagger> Lightning Ram
+10000700 <Holy Dagger> Sacred Blade
+10000700 <Holy Dagger> Golden Slam
+10000700 <Holy Dagger> Golden Vow
+10000700 <Holy Dagger> Sacred Order
+10000700 <Holy Dagger> Shared Order
+10000800 <Magic Dagger> Spinning Weapon
+10000800 <Magic Dagger> Glintblade Phalanx
+10000800 <Magic Dagger> Glintstone Pebble
+10000800 <Magic Dagger> Carian Grandeur
+10000800 <Magic Dagger> Carian Greatsword
+10000900 <Frost Dagger> Chilling Mist
+10000900 <Frost Dagger> Hoarfrost Stomp
+10001000 <Poison Dagger> Poison Moth Flight
+10001000 <Poison Dagger> Poisonous Mist
+10001100 <Blood Dagger> Blood Tax
+10001100 <Blood Dagger> Bloody Slash
+10001100 <Blood Dagger> Blood Blade
+10001200 <Shadow Dagger> Assassin's Gambit
+10001200 <Shadow Dagger> White Shadow's Lure
+11140000 <Table> Impaling Thrust
+11140000 <Table> Spinning Slash
+11140000 <Table> Repeating Thrust
+11140000 <Table> Vacuum Slice
+11140000 <Table> Storm Stomp
+11140000 <Table> Kick
+11140000 <Table> Ground Slam
+11140000 <Table> Determination
+11140000 <Table> Royal Knight's Resolve
+11140000 <Table> Cragblade
+11140000 <Table> Endure
+11140000 <Table> Quickstep
+11140000 <Table> Bloodhound's Step
+11140000 <Table> Raptor of the Mists
+11140000 <Table> Blood Tax
+11140000 <Table> Bloody Slash
+11140000 <Table> Blood Blade
+11140050 <Table> Impaling Thrust
+11140050 <Table> Spinning Slash
+11140050 <Table> Repeating Thrust
+11140050 <Table> Vacuum Slice
+11140050 <Table> Storm Stomp
+11140050 <Table> Kick
+11140050 <Table> Ground Slam
+11140050 <Table> Determination
+11140050 <Table> Royal Knight's Resolve
+11140050 <Table> Cragblade
+11140050 <Table> Endure
+11140050 <Table> Quickstep
+11140050 <Table> Bloodhound's Step
+11140050 <Table> Raptor of the Mists
+11140100 <Table> Blood Tax
+11140100 <Table> Bloody Slash
+11140100 <Table> Blood Blade
+20000000 <Short Sword> Lion's Claw
+20000000 <Short Sword> Impaling Thrust
+20000000 <Short Sword> Piercing Fang
+20000000 <Short Sword> Spinning Slash
+20000000 <Short Sword> Repeating Thrust
+20000000 <Short Sword> Double Slash
+20000000 <Short Sword> Square Off
+20000000 <Short Sword> Stormcaller
+20000000 <Short Sword> Sword Dance
+20000000 <Short Sword> Storm Blade
+20000000 <Short Sword> Vacuum Slice
+20000000 <Short Sword> Storm Stomp
+20000000 <Short Sword> Kick
+20000000 <Short Sword> Ground Slam
+20000000 <Short Sword> Hoarah Loux's Earthshaker
+20000000 <Short Sword> Determination
+20000000 <Short Sword> Royal Knight's Resolve
+20000000 <Short Sword> Cragblade
+20000000 <Short Sword> Barbaric Roar
+20000000 <Short Sword> War Cry
+20000000 <Short Sword> Beast's Roar
+20000000 <Short Sword> Braggart's Roar
+20000000 <Short Sword> Endure
+20000000 <Short Sword> Quickstep
+20000000 <Short Sword> Bloodhound's Step
+20000000 <Short Sword> Raptor of the Mists
+20000000 <Short Sword> Flaming Strike
+20000000 <Short Sword> Flame of the Redmanes
+20000000 <Short Sword> Thunderbolt
+20000000 <Short Sword> Lightning Slash
+20000000 <Short Sword> Lightning Ram
+20000000 <Short Sword> Sacred Blade
+20000000 <Short Sword> Golden Slam
+20000000 <Short Sword> Golden Vow
+20000000 <Short Sword> Sacred Order
+20000000 <Short Sword> Shared Order
+20000000 <Short Sword> Spinning Weapon
+20000000 <Short Sword> Glintblade Phalanx
+20000000 <Short Sword> Glintstone Pebble
+20000000 <Short Sword> Gravitas
+20000000 <Short Sword> Carian Grandeur
+20000000 <Short Sword> Carian Greatsword
+20000000 <Short Sword> Chilling Mist
+20000000 <Short Sword> Hoarfrost Stomp
+20000000 <Short Sword> Poison Moth Flight
+20000000 <Short Sword> Poisonous Mist
+20000000 <Short Sword> Blood Tax
+20000000 <Short Sword> Bloody Slash
+20000000 <Short Sword> Blood Blade
+20000000 <Short Sword> Seppuku
+20000000 <Short Sword> Assassin's Gambit
+20000000 <Short Sword> White Shadow's Lure
+20000050 <Untyped Straight Sword> Lion's Claw
+20000050 <Untyped Straight Sword> Impaling Thrust
+20000050 <Untyped Straight Sword> Piercing Fang
+20000050 <Untyped Straight Sword> Spinning Slash
+20000050 <Untyped Straight Sword> Repeating Thrust
+20000050 <Untyped Straight Sword> Double Slash
+20000050 <Untyped Straight Sword> Square Off
+20000050 <Untyped Straight Sword> Stormcaller
+20000050 <Untyped Straight Sword> Sword Dance
+20000050 <Untyped Straight Sword> Storm Blade
+20000050 <Untyped Straight Sword> Vacuum Slice
+20000050 <Untyped Straight Sword> Storm Stomp
+20000050 <Untyped Straight Sword> Kick
+20000050 <Untyped Straight Sword> Ground Slam
+20000050 <Untyped Straight Sword> Hoarah Loux's Earthshaker
+20000050 <Untyped Straight Sword> Determination
+20000050 <Untyped Straight Sword> Royal Knight's Resolve
+20000050 <Untyped Straight Sword> Cragblade
+20000050 <Untyped Straight Sword> Barbaric Roar
+20000050 <Untyped Straight Sword> War Cry
+20000050 <Untyped Straight Sword> Beast's Roar
+20000050 <Untyped Straight Sword> Braggart's Roar
+20000050 <Untyped Straight Sword> Endure
+20000050 <Untyped Straight Sword> Quickstep
+20000050 <Untyped Straight Sword> Bloodhound's Step
+20000050 <Untyped Straight Sword> Raptor of the Mists
+20000100 <Elemental Straight Sword> Flaming Strike
+20000100 <Elemental Straight Sword> Flame of the Redmanes
+20000100 <Elemental Straight Sword> Thunderbolt
+20000100 <Elemental Straight Sword> Lightning Slash
+20000100 <Elemental Straight Sword> Lightning Ram
+20000100 <Elemental Straight Sword> Sacred Blade
+20000100 <Elemental Straight Sword> Golden Slam
+20000100 <Elemental Straight Sword> Golden Vow
+20000100 <Elemental Straight Sword> Sacred Order
+20000100 <Elemental Straight Sword> Shared Order
+20000100 <Elemental Straight Sword> Spinning Weapon
+20000100 <Elemental Straight Sword> Glintblade Phalanx
+20000100 <Elemental Straight Sword> Glintstone Pebble
+20000100 <Elemental Straight Sword> Gravitas
+20000100 <Elemental Straight Sword> Carian Grandeur
+20000100 <Elemental Straight Sword> Carian Greatsword
+20000100 <Elemental Straight Sword> Chilling Mist
+20000100 <Elemental Straight Sword> Hoarfrost Stomp
+20000100 <Elemental Straight Sword> Poison Moth Flight
+20000100 <Elemental Straight Sword> Poisonous Mist
+20000100 <Elemental Straight Sword> Blood Tax
+20000100 <Elemental Straight Sword> Bloody Slash
+20000100 <Elemental Straight Sword> Blood Blade
+20000100 <Elemental Straight Sword> Seppuku
+20000100 <Elemental Straight Sword> Assassin's Gambit
+20000100 <Elemental Straight Sword> White Shadow's Lure
+20000500 <Fire Straight Sword> Flaming Strike
+20000500 <Fire Straight Sword> Flame of the Redmanes
+20000600 <Lightning Straight Sword> Thunderbolt
+20000600 <Lightning Straight Sword> Lightning Slash
+20000600 <Lightning Straight Sword> Lightning Ram
+20000700 <Holy Straight Sword> Sacred Blade
+20000700 <Holy Straight Sword> Golden Slam
+20000700 <Holy Straight Sword> Golden Vow
+20000700 <Holy Straight Sword> Sacred Order
+20000700 <Holy Straight Sword> Shared Order
+20000800 <Magic Straight Sword> Spinning Weapon
+20000800 <Magic Straight Sword> Glintblade Phalanx
+20000800 <Magic Straight Sword> Glintstone Pebble
+20000800 <Magic Straight Sword> Gravitas
+20000800 <Magic Straight Sword> Carian Grandeur
+20000800 <Magic Straight Sword> Carian Greatsword
+20000900 <Frost Straight Sword> Chilling Mist
+20000900 <Frost Straight Sword> Hoarfrost Stomp
+20001000 <Poison Straight Sword> Poison Moth Flight
+20001000 <Poison Straight Sword> Poisonous Mist
+20001100 <Blood Straight Sword> Blood Tax
+20001100 <Blood Straight Sword> Bloody Slash
+20001100 <Blood Straight Sword> Blood Blade
+20001100 <Blood Straight Sword> Seppuku
+20001200 <Shadow Straight Sword> Assassin's Gambit
+20001200 <Shadow Straight Sword> White Shadow's Lure
+20900000 <Table> Lion's Claw
+20900000 <Table> Impaling Thrust
+20900000 <Table> Piercing Fang
+20900000 <Table> Spinning Slash
+20900000 <Table> Stamp (Upward Cut)
+20900000 <Table> Stamp (Sweep)
+20900000 <Table> Repeating Thrust
+20900000 <Table> Wild Strikes
+20900000 <Table> Double Slash
+20900000 <Table> Giant Hunt
+20900000 <Table> Stormcaller
+20900000 <Table> Sword Dance
+20900000 <Table> Storm Blade
+20900000 <Table> Vacuum Slice
+20900000 <Table> Storm Stomp
+20900000 <Table> Kick
+20900000 <Table> Ground Slam
+20900000 <Table> Hoarah Loux's Earthshaker
+20900000 <Table> Determination
+20900000 <Table> Royal Knight's Resolve
+20900000 <Table> Cragblade
+20900000 <Table> Barbaric Roar
+20900000 <Table> War Cry
+20900000 <Table> Beast's Roar
+20900000 <Table> Troll's Roar
+20900000 <Table> Braggart's Roar
+20900000 <Table> Endure
+20900000 <Table> Quickstep
+20900000 <Table> Bloodhound's Step
+20900000 <Table> Raptor of the Mists
+20900000 <Table> Sacred Blade
+20900000 <Table> Golden Slam
+20900000 <Table> Golden Vow
+20900000 <Table> Sacred Order
+20900000 <Table> Shared Order
+20900050 <Table> Lion's Claw
+20900050 <Table> Impaling Thrust
+20900050 <Table> Piercing Fang
+20900050 <Table> Spinning Slash
+20900050 <Table> Stamp (Upward Cut)
+20900050 <Table> Stamp (Sweep)
+20900050 <Table> Repeating Thrust
+20900050 <Table> Wild Strikes
+20900050 <Table> Double Slash
+20900050 <Table> Giant Hunt
+20900050 <Table> Stormcaller
+20900050 <Table> Sword Dance
+20900050 <Table> Storm Blade
+20900050 <Table> Vacuum Slice
+20900050 <Table> Storm Stomp
+20900050 <Table> Kick
+20900050 <Table> Ground Slam
+20900050 <Table> Hoarah Loux's Earthshaker
+20900050 <Table> Determination
+20900050 <Table> Royal Knight's Resolve
+20900050 <Table> Cragblade
+20900050 <Table> Barbaric Roar
+20900050 <Table> War Cry
+20900050 <Table> Beast's Roar
+20900050 <Table> Troll's Roar
+20900050 <Table> Braggart's Roar
+20900050 <Table> Endure
+20900050 <Table> Quickstep
+20900050 <Table> Bloodhound's Step
+20900050 <Table> Raptor of the Mists
+20900700 <Table> Sacred Blade
+20900700 <Table> Golden Slam
+20900700 <Table> Golden Vow
+20900700 <Table> Sacred Order
+20900700 <Table> Shared Order
+21180000 <Table> Lion's Claw
+21180000 <Table> Impaling Thrust
+21180000 <Table> Piercing Fang
+21180000 <Table> Spinning Slash
+21180000 <Table> Repeating Thrust
+21180000 <Table> Double Slash
+21180000 <Table> Square Off
+21180000 <Table> Stormcaller
+21180000 <Table> Sword Dance
+21180000 <Table> Storm Blade
+21180000 <Table> Vacuum Slice
+21180000 <Table> Storm Stomp
+21180000 <Table> Kick
+21180000 <Table> Ground Slam
+21180000 <Table> Hoarah Loux's Earthshaker
+21180000 <Table> Determination
+21180000 <Table> Royal Knight's Resolve
+21180000 <Table> Cragblade
+21180000 <Table> Barbaric Roar
+21180000 <Table> War Cry
+21180000 <Table> Beast's Roar
+21180000 <Table> Braggart's Roar
+21180000 <Table> Endure
+21180000 <Table> Quickstep
+21180000 <Table> Bloodhound's Step
+21180000 <Table> Raptor of the Mists
+21180000 <Table> Spinning Weapon
+21180000 <Table> Glintblade Phalanx
+21180000 <Table> Glintstone Pebble
+21180000 <Table> Gravitas
+21180000 <Table> Carian Grandeur
+21180000 <Table> Carian Greatsword
+21180050 <Table> Lion's Claw
+21180050 <Table> Impaling Thrust
+21180050 <Table> Piercing Fang
+21180050 <Table> Spinning Slash
+21180050 <Table> Repeating Thrust
+21180050 <Table> Double Slash
+21180050 <Table> Square Off
+21180050 <Table> Stormcaller
+21180050 <Table> Sword Dance
+21180050 <Table> Storm Blade
+21180050 <Table> Vacuum Slice
+21180050 <Table> Storm Stomp
+21180050 <Table> Kick
+21180050 <Table> Ground Slam
+21180050 <Table> Hoarah Loux's Earthshaker
+21180050 <Table> Determination
+21180050 <Table> Royal Knight's Resolve
+21180050 <Table> Cragblade
+21180050 <Table> Barbaric Roar
+21180050 <Table> War Cry
+21180050 <Table> Beast's Roar
+21180050 <Table> Braggart's Roar
+21180050 <Table> Endure
+21180050 <Table> Quickstep
+21180050 <Table> Bloodhound's Step
+21180050 <Table> Raptor of the Mists
+21180800 <Table> Spinning Weapon
+21180800 <Table> Glintblade Phalanx
+21180800 <Table> Glintstone Pebble
+21180800 <Table> Gravitas
+21180800 <Table> Carian Grandeur
+21180800 <Table> Carian Greatsword
+21500000 <Table> Lion's Claw
+21500000 <Table> Impaling Thrust
+21500000 <Table> Piercing Fang
+21500000 <Table> Spinning Slash
+21500000 <Table> Repeating Thrust
+21500000 <Table> Double Slash
+21500000 <Table> Square Off
+21500000 <Table> Stormcaller
+21500000 <Table> Sword Dance
+21500000 <Table> Storm Blade
+21500000 <Table> Vacuum Slice
+21500000 <Table> Storm Stomp
+21500000 <Table> Kick
+21500000 <Table> Ground Slam
+21500000 <Table> Hoarah Loux's Earthshaker
+21500000 <Table> Determination
+21500000 <Table> Royal Knight's Resolve
+21500000 <Table> Cragblade
+21500000 <Table> Barbaric Roar
+21500000 <Table> War Cry
+21500000 <Table> Beast's Roar
+21500000 <Table> Braggart's Roar
+21500000 <Table> Endure
+21500000 <Table> Quickstep
+21500000 <Table> Bloodhound's Step
+21500000 <Table> Raptor of the Mists
+21500000 <Table> Spinning Weapon
+21500000 <Table> Glintblade Phalanx
+21500000 <Table> Glintstone Pebble
+21500000 <Table> Gravitas
+21500000 <Table> Carian Grandeur
+21500000 <Table> Carian Greatsword
+21500050 <Table> Lion's Claw
+21500050 <Table> Impaling Thrust
+21500050 <Table> Piercing Fang
+21500050 <Table> Spinning Slash
+21500050 <Table> Repeating Thrust
+21500050 <Table> Double Slash
+21500050 <Table> Square Off
+21500050 <Table> Stormcaller
+21500050 <Table> Sword Dance
+21500050 <Table> Storm Blade
+21500050 <Table> Vacuum Slice
+21500050 <Table> Storm Stomp
+21500050 <Table> Kick
+21500050 <Table> Ground Slam
+21500050 <Table> Hoarah Loux's Earthshaker
+21500050 <Table> Determination
+21500050 <Table> Royal Knight's Resolve
+21500050 <Table> Cragblade
+21500050 <Table> Barbaric Roar
+21500050 <Table> War Cry
+21500050 <Table> Beast's Roar
+21500050 <Table> Braggart's Roar
+21500050 <Table> Endure
+21500050 <Table> Quickstep
+21500050 <Table> Bloodhound's Step
+21500050 <Table> Raptor of the Mists
+21500800 <Table> Spinning Weapon
+21500800 <Table> Glintblade Phalanx
+21500800 <Table> Glintstone Pebble
+21500800 <Table> Gravitas
+21500800 <Table> Carian Grandeur
+21500800 <Table> Carian Greatsword
+22500000 <Table> Lion's Claw
+22500000 <Table> Impaling Thrust
+22500000 <Table> Piercing Fang
+22500000 <Table> Spinning Slash
+22500000 <Table> Repeating Thrust
+22500000 <Table> Double Slash
+22500000 <Table> Square Off
+22500000 <Table> Stormcaller
+22500000 <Table> Sword Dance
+22500000 <Table> Storm Blade
+22500000 <Table> Vacuum Slice
+22500000 <Table> Storm Stomp
+22500000 <Table> Kick
+22500000 <Table> Ground Slam
+22500000 <Table> Hoarah Loux's Earthshaker
+22500000 <Table> Determination
+22500000 <Table> Royal Knight's Resolve
+22500000 <Table> Cragblade
+22500000 <Table> Barbaric Roar
+22500000 <Table> War Cry
+22500000 <Table> Beast's Roar
+22500000 <Table> Braggart's Roar
+22500000 <Table> Endure
+22500000 <Table> Quickstep
+22500000 <Table> Bloodhound's Step
+22500000 <Table> Raptor of the Mists
+22500000 <Table> Spinning Weapon
+22500000 <Table> Glintblade Phalanx
+22500000 <Table> Glintstone Pebble
+22500000 <Table> Gravitas
+22500000 <Table> Carian Grandeur
+22500000 <Table> Carian Greatsword
+22500050 <Table> Lion's Claw
+22500050 <Table> Impaling Thrust
+22500050 <Table> Piercing Fang
+22500050 <Table> Spinning Slash
+22500050 <Table> Repeating Thrust
+22500050 <Table> Double Slash
+22500050 <Table> Square Off
+22500050 <Table> Stormcaller
+22500050 <Table> Sword Dance
+22500050 <Table> Storm Blade
+22500050 <Table> Vacuum Slice
+22500050 <Table> Storm Stomp
+22500050 <Table> Kick
+22500050 <Table> Ground Slam
+22500050 <Table> Hoarah Loux's Earthshaker
+22500050 <Table> Determination
+22500050 <Table> Royal Knight's Resolve
+22500050 <Table> Cragblade
+22500050 <Table> Barbaric Roar
+22500050 <Table> War Cry
+22500050 <Table> Beast's Roar
+22500050 <Table> Braggart's Roar
+22500050 <Table> Endure
+22500050 <Table> Quickstep
+22500050 <Table> Bloodhound's Step
+22500050 <Table> Raptor of the Mists
+22500800 <Table> Spinning Weapon
+22500800 <Table> Glintblade Phalanx
+22500800 <Table> Glintstone Pebble
+22500800 <Table> Gravitas
+22500800 <Table> Carian Grandeur
+22500800 <Table> Carian Greatsword
+22600000 <Table> Lion's Claw
+22600000 <Table> Impaling Thrust
+22600000 <Table> Piercing Fang
+22600000 <Table> Spinning Slash
+22600000 <Table> Repeating Thrust
+22600000 <Table> Double Slash
+22600000 <Table> Square Off
+22600000 <Table> Stormcaller
+22600000 <Table> Sword Dance
+22600000 <Table> Storm Blade
+22600000 <Table> Vacuum Slice
+22600000 <Table> Storm Stomp
+22600000 <Table> Kick
+22600000 <Table> Ground Slam
+22600000 <Table> Hoarah Loux's Earthshaker
+22600000 <Table> Determination
+22600000 <Table> Royal Knight's Resolve
+22600000 <Table> Cragblade
+22600000 <Table> Barbaric Roar
+22600000 <Table> War Cry
+22600000 <Table> Beast's Roar
+22600000 <Table> Braggart's Roar
+22600000 <Table> Endure
+22600000 <Table> Quickstep
+22600000 <Table> Bloodhound's Step
+22600000 <Table> Raptor of the Mists
+22600000 <Table> Spinning Weapon
+22600000 <Table> Glintblade Phalanx
+22600000 <Table> Glintstone Pebble
+22600000 <Table> Gravitas
+22600000 <Table> Carian Grandeur
+22600000 <Table> Carian Greatsword
+22600050 <Table> Lion's Claw
+22600050 <Table> Impaling Thrust
+22600050 <Table> Piercing Fang
+22600050 <Table> Spinning Slash
+22600050 <Table> Repeating Thrust
+22600050 <Table> Double Slash
+22600050 <Table> Square Off
+22600050 <Table> Stormcaller
+22600050 <Table> Sword Dance
+22600050 <Table> Storm Blade
+22600050 <Table> Vacuum Slice
+22600050 <Table> Storm Stomp
+22600050 <Table> Kick
+22600050 <Table> Ground Slam
+22600050 <Table> Hoarah Loux's Earthshaker
+22600050 <Table> Determination
+22600050 <Table> Royal Knight's Resolve
+22600050 <Table> Cragblade
+22600050 <Table> Barbaric Roar
+22600050 <Table> War Cry
+22600050 <Table> Beast's Roar
+22600050 <Table> Braggart's Roar
+22600050 <Table> Endure
+22600050 <Table> Quickstep
+22600050 <Table> Bloodhound's Step
+22600050 <Table> Raptor of the Mists
+22600800 <Table> Spinning Weapon
+22600800 <Table> Glintblade Phalanx
+22600800 <Table> Glintstone Pebble
+22600800 <Table> Gravitas
+22600800 <Table> Carian Grandeur
+22600800 <Table> Carian Greatsword
+30000000 <Greatsword> Lion's Claw
+30000000 <Greatsword> Impaling Thrust
+30000000 <Greatsword> Piercing Fang
+30000000 <Greatsword> Spinning Slash
+30000000 <Greatsword> Stamp (Upward Cut)
+30000000 <Greatsword> Stamp (Sweep)
+30000000 <Greatsword> Repeating Thrust
+30000000 <Greatsword> Wild Strikes
+30000000 <Greatsword> Double Slash
+30000000 <Greatsword> Giant Hunt
+30000000 <Greatsword> Stormcaller
+30000000 <Greatsword> Sword Dance
+30000000 <Greatsword> Storm Blade
+30000000 <Greatsword> Vacuum Slice
+30000000 <Greatsword> Storm Stomp
+30000000 <Greatsword> Kick
+30000000 <Greatsword> Ground Slam
+30000000 <Greatsword> Hoarah Loux's Earthshaker
+30000000 <Greatsword> Determination
+30000000 <Greatsword> Royal Knight's Resolve
+30000000 <Greatsword> Cragblade
+30000000 <Greatsword> Barbaric Roar
+30000000 <Greatsword> War Cry
+30000000 <Greatsword> Beast's Roar
+30000000 <Greatsword> Troll's Roar
+30000000 <Greatsword> Braggart's Roar
+30000000 <Greatsword> Endure
+30000000 <Greatsword> Quickstep
+30000000 <Greatsword> Bloodhound's Step
+30000000 <Greatsword> Raptor of the Mists
+30000000 <Greatsword> Eruption
+30000000 <Greatsword> Flaming Strike
+30000000 <Greatsword> Flame of the Redmanes
+30000000 <Greatsword> Thunderbolt
+30000000 <Greatsword> Lightning Slash
+30000000 <Greatsword> Lightning Ram
+30000000 <Greatsword> Sacred Blade
+30000000 <Greatsword> Golden Slam
+30000000 <Greatsword> Golden Vow
+30000000 <Greatsword> Sacred Order
+30000000 <Greatsword> Shared Order
+30000000 <Greatsword> Glintblade Phalanx
+30000000 <Greatsword> Glintstone Pebble
+30000000 <Greatsword> Gravitas
+30000000 <Greatsword> Carian Grandeur
+30000000 <Greatsword> Carian Greatsword
+30000000 <Greatsword> Chilling Mist
+30000000 <Greatsword> Hoarfrost Stomp
+30000000 <Greatsword> Poisonous Mist
+30000000 <Greatsword> Blood Tax
+30000000 <Greatsword> Bloody Slash
+30000000 <Greatsword> Seppuku
+30000000 <Greatsword> White Shadow's Lure
+30000050 <Untyped Greatsword> Lion's Claw
+30000050 <Untyped Greatsword> Impaling Thrust
+30000050 <Untyped Greatsword> Piercing Fang
+30000050 <Untyped Greatsword> Spinning Slash
+30000050 <Untyped Greatsword> Stamp (Upward Cut)
+30000050 <Untyped Greatsword> Stamp (Sweep)
+30000050 <Untyped Greatsword> Repeating Thrust
+30000050 <Untyped Greatsword> Wild Strikes
+30000050 <Untyped Greatsword> Double Slash
+30000050 <Untyped Greatsword> Giant Hunt
+30000050 <Untyped Greatsword> Stormcaller
+30000050 <Untyped Greatsword> Sword Dance
+30000050 <Untyped Greatsword> Storm Blade
+30000050 <Untyped Greatsword> Vacuum Slice
+30000050 <Untyped Greatsword> Storm Stomp
+30000050 <Untyped Greatsword> Kick
+30000050 <Untyped Greatsword> Ground Slam
+30000050 <Untyped Greatsword> Hoarah Loux's Earthshaker
+30000050 <Untyped Greatsword> Determination
+30000050 <Untyped Greatsword> Royal Knight's Resolve
+30000050 <Untyped Greatsword> Cragblade
+30000050 <Untyped Greatsword> Barbaric Roar
+30000050 <Untyped Greatsword> War Cry
+30000050 <Untyped Greatsword> Beast's Roar
+30000050 <Untyped Greatsword> Troll's Roar
+30000050 <Untyped Greatsword> Braggart's Roar
+30000050 <Untyped Greatsword> Endure
+30000050 <Untyped Greatsword> Quickstep
+30000050 <Untyped Greatsword> Bloodhound's Step
+30000050 <Untyped Greatsword> Raptor of the Mists
+30000100 <Elemental Greatsword> Eruption
+30000100 <Elemental Greatsword> Flaming Strike
+30000100 <Elemental Greatsword> Flame of the Redmanes
+30000100 <Elemental Greatsword> Thunderbolt
+30000100 <Elemental Greatsword> Lightning Slash
+30000100 <Elemental Greatsword> Lightning Ram
+30000100 <Elemental Greatsword> Sacred Blade
+30000100 <Elemental Greatsword> Golden Slam
+30000100 <Elemental Greatsword> Golden Vow
+30000100 <Elemental Greatsword> Sacred Order
+30000100 <Elemental Greatsword> Shared Order
+30000100 <Elemental Greatsword> Glintblade Phalanx
+30000100 <Elemental Greatsword> Glintstone Pebble
+30000100 <Elemental Greatsword> Gravitas
+30000100 <Elemental Greatsword> Carian Grandeur
+30000100 <Elemental Greatsword> Carian Greatsword
+30000100 <Elemental Greatsword> Chilling Mist
+30000100 <Elemental Greatsword> Hoarfrost Stomp
+30000100 <Elemental Greatsword> Poisonous Mist
+30000100 <Elemental Greatsword> Blood Tax
+30000100 <Elemental Greatsword> Bloody Slash
+30000100 <Elemental Greatsword> Seppuku
+30000100 <Elemental Greatsword> White Shadow's Lure
+30000500 <Fire Greatsword> Eruption
+30000500 <Fire Greatsword> Flaming Strike
+30000500 <Fire Greatsword> Flame of the Redmanes
+30000600 <Lightning Greatsword> Thunderbolt
+30000600 <Lightning Greatsword> Lightning Slash
+30000600 <Lightning Greatsword> Lightning Ram
+30000700 <Holy Greatsword> Sacred Blade
+30000700 <Holy Greatsword> Golden Slam
+30000700 <Holy Greatsword> Golden Vow
+30000700 <Holy Greatsword> Sacred Order
+30000700 <Holy Greatsword> Shared Order
+30000800 <Magic Greatsword> Glintblade Phalanx
+30000800 <Magic Greatsword> Glintstone Pebble
+30000800 <Magic Greatsword> Gravitas
+30000800 <Magic Greatsword> Carian Grandeur
+30000800 <Magic Greatsword> Carian Greatsword
+30000900 <Frost Greatsword> Chilling Mist
+30000900 <Frost Greatsword> Hoarfrost Stomp
+30001000 <Poison Greatsword> Poisonous Mist
+30001100 <Blood Greatsword> Blood Tax
+30001100 <Blood Greatsword> Bloody Slash
+30001100 <Blood Greatsword> Seppuku
+30001200 <Shadow Greatsword> White Shadow's Lure
+40000000 <Colossal Sword> Lion's Claw
+40000000 <Colossal Sword> Stamp (Upward Cut)
+40000000 <Colossal Sword> Stamp (Sweep)
+40000000 <Colossal Sword> Giant Hunt
+40000000 <Colossal Sword> Earthshaker
+40000000 <Colossal Sword> Vacuum Slice
+40000000 <Colossal Sword> Storm Stomp
+40000000 <Colossal Sword> Kick
+40000000 <Colossal Sword> Ground Slam
+40000000 <Colossal Sword> Hoarah Loux's Earthshaker
+40000000 <Colossal Sword> Determination
+40000000 <Colossal Sword> Royal Knight's Resolve
+40000000 <Colossal Sword> Cragblade
+40000000 <Colossal Sword> Barbaric Roar
+40000000 <Colossal Sword> War Cry
+40000000 <Colossal Sword> Beast's Roar
+40000000 <Colossal Sword> Troll's Roar
+40000000 <Colossal Sword> Braggart's Roar
+40000000 <Colossal Sword> Endure
+40000000 <Colossal Sword> Quickstep
+40000000 <Colossal Sword> Bloodhound's Step
+40000000 <Colossal Sword> Raptor of the Mists
+40000000 <Colossal Sword> Eruption
+40000000 <Colossal Sword> Flame of the Redmanes
+40000000 <Colossal Sword> Thunderbolt
+40000000 <Colossal Sword> Lightning Slash
+40000000 <Colossal Sword> Lightning Ram
+40000000 <Colossal Sword> Sacred Blade
+40000000 <Colossal Sword> Golden Land
+40000000 <Colossal Sword> Golden Slam
+40000000 <Colossal Sword> Golden Vow
+40000000 <Colossal Sword> Sacred Order
+40000000 <Colossal Sword> Shared Order
+40000000 <Colossal Sword> Gravitas
+40000000 <Colossal Sword> Waves of Darkness
+40000000 <Colossal Sword> Chilling Mist
+40000000 <Colossal Sword> Hoarfrost Stomp
+40000000 <Colossal Sword> Poisonous Mist
+40000000 <Colossal Sword> White Shadow's Lure
+40000050 <Untyped Colossal Sword> Lion's Claw
+40000050 <Untyped Colossal Sword> Stamp (Upward Cut)
+40000050 <Untyped Colossal Sword> Stamp (Sweep)
+40000050 <Untyped Colossal Sword> Giant Hunt
+40000050 <Untyped Colossal Sword> Earthshaker
+40000050 <Untyped Colossal Sword> Vacuum Slice
+40000050 <Untyped Colossal Sword> Storm Stomp
+40000050 <Untyped Colossal Sword> Kick
+40000050 <Untyped Colossal Sword> Ground Slam
+40000050 <Untyped Colossal Sword> Hoarah Loux's Earthshaker
+40000050 <Untyped Colossal Sword> Determination
+40000050 <Untyped Colossal Sword> Royal Knight's Resolve
+40000050 <Untyped Colossal Sword> Cragblade
+40000050 <Untyped Colossal Sword> Barbaric Roar
+40000050 <Untyped Colossal Sword> War Cry
+40000050 <Untyped Colossal Sword> Beast's Roar
+40000050 <Untyped Colossal Sword> Troll's Roar
+40000050 <Untyped Colossal Sword> Braggart's Roar
+40000050 <Untyped Colossal Sword> Endure
+40000050 <Untyped Colossal Sword> Quickstep
+40000050 <Untyped Colossal Sword> Bloodhound's Step
+40000050 <Untyped Colossal Sword> Raptor of the Mists
+40000100 <Elemental Colossal Sword> Eruption
+40000100 <Elemental Colossal Sword> Flame of the Redmanes
+40000100 <Elemental Colossal Sword> Thunderbolt
+40000100 <Elemental Colossal Sword> Lightning Slash
+40000100 <Elemental Colossal Sword> Lightning Ram
+40000100 <Elemental Colossal Sword> Sacred Blade
+40000100 <Elemental Colossal Sword> Golden Land
+40000100 <Elemental Colossal Sword> Golden Slam
+40000100 <Elemental Colossal Sword> Golden Vow
+40000100 <Elemental Colossal Sword> Sacred Order
+40000100 <Elemental Colossal Sword> Shared Order
+40000100 <Elemental Colossal Sword> Gravitas
+40000100 <Elemental Colossal Sword> Waves of Darkness
+40000100 <Elemental Colossal Sword> Chilling Mist
+40000100 <Elemental Colossal Sword> Hoarfrost Stomp
+40000100 <Elemental Colossal Sword> Poisonous Mist
+40000100 <Elemental Colossal Sword> White Shadow's Lure
+40000500 <Fire Colossal Sword> Eruption
+40000500 <Fire Colossal Sword> Flame of the Redmanes
+40000600 <Lightning Colossal Sword> Thunderbolt
+40000600 <Lightning Colossal Sword> Lightning Slash
+40000600 <Lightning Colossal Sword> Lightning Ram
+40000700 <Holy Colossal Sword> Sacred Blade
+40000700 <Holy Colossal Sword> Golden Land
+40000700 <Holy Colossal Sword> Golden Slam
+40000700 <Holy Colossal Sword> Golden Vow
+40000700 <Holy Colossal Sword> Sacred Order
+40000700 <Holy Colossal Sword> Shared Order
+40000800 <Magic Colossal Sword> Gravitas
+40000800 <Magic Colossal Sword> Waves of Darkness
+40000900 <Frost Colossal Sword> Chilling Mist
+40000900 <Frost Colossal Sword> Hoarfrost Stomp
+40001000 <Poison Colossal Sword> Poisonous Mist
+40001200 <Shadow Colossal Sword> White Shadow's Lure
+41100000 <Table> Lion's Claw
+41100000 <Table> Stamp (Upward Cut)
+41100000 <Table> Stamp (Sweep)
+41100000 <Table> Giant Hunt
+41100000 <Table> Earthshaker
+41100000 <Table> Vacuum Slice
+41100000 <Table> Storm Stomp
+41100000 <Table> Kick
+41100000 <Table> Ground Slam
+41100000 <Table> Hoarah Loux's Earthshaker
+41100000 <Table> Determination
+41100000 <Table> Royal Knight's Resolve
+41100000 <Table> Cragblade
+41100000 <Table> Barbaric Roar
+41100000 <Table> War Cry
+41100000 <Table> Beast's Roar
+41100000 <Table> Troll's Roar
+41100000 <Table> Braggart's Roar
+41100000 <Table> Endure
+41100000 <Table> Quickstep
+41100000 <Table> Bloodhound's Step
+41100000 <Table> Raptor of the Mists
+41100000 <Table> Gravitas
+41100000 <Table> Waves of Darkness
+41100050 <Table> Lion's Claw
+41100050 <Table> Stamp (Upward Cut)
+41100050 <Table> Stamp (Sweep)
+41100050 <Table> Giant Hunt
+41100050 <Table> Earthshaker
+41100050 <Table> Vacuum Slice
+41100050 <Table> Storm Stomp
+41100050 <Table> Kick
+41100050 <Table> Ground Slam
+41100050 <Table> Hoarah Loux's Earthshaker
+41100050 <Table> Determination
+41100050 <Table> Royal Knight's Resolve
+41100050 <Table> Cragblade
+41100050 <Table> Barbaric Roar
+41100050 <Table> War Cry
+41100050 <Table> Beast's Roar
+41100050 <Table> Troll's Roar
+41100050 <Table> Braggart's Roar
+41100050 <Table> Endure
+41100050 <Table> Quickstep
+41100050 <Table> Bloodhound's Step
+41100050 <Table> Raptor of the Mists
+41100800 <Table> Gravitas
+41100800 <Table> Waves of Darkness
+50000000 <Thrusting Sword> Impaling Thrust
+50000000 <Thrusting Sword> Repeating Thrust
+50000000 <Thrusting Sword> Storm Blade
+50000000 <Thrusting Sword> Vacuum Slice
+50000000 <Thrusting Sword> Parry
+50000000 <Thrusting Sword> Storm Stomp
+50000000 <Thrusting Sword> Kick
+50000000 <Thrusting Sword> Ground Slam
+50000000 <Thrusting Sword> Determination
+50000000 <Thrusting Sword> Royal Knight's Resolve
+50000000 <Thrusting Sword> Cragblade
+50000000 <Thrusting Sword> Endure
+50000000 <Thrusting Sword> Quickstep
+50000000 <Thrusting Sword> Bloodhound's Step
+50000000 <Thrusting Sword> Raptor of the Mists
+50000000 <Thrusting Sword> White Shadow's Lure
+50000000 <Thrusting Sword> Flaming Strike
+50000000 <Thrusting Sword> Flame of the Redmanes
+50000000 <Thrusting Sword> Thunderbolt
+50000000 <Thrusting Sword> Lightning Ram
+50000000 <Thrusting Sword> Sacred Blade
+50000000 <Thrusting Sword> Golden Slam
+50000000 <Thrusting Sword> Golden Vow
+50000000 <Thrusting Sword> Sacred Order
+50000000 <Thrusting Sword> Shared Order
+50000000 <Thrusting Sword> Spinning Weapon
+50000000 <Thrusting Sword> Glintblade Phalanx
+50000000 <Thrusting Sword> Glintstone Pebble
+50000000 <Thrusting Sword> Gravitas
+50000000 <Thrusting Sword> Carian Grandeur
+50000000 <Thrusting Sword> Carian Greatsword
+50000000 <Thrusting Sword> Chilling Mist
+50000000 <Thrusting Sword> Hoarfrost Stomp
+50000000 <Thrusting Sword> Poison Moth Flight
+50000000 <Thrusting Sword> Poisonous Mist
+50000000 <Thrusting Sword> Blood Tax
+50000000 <Thrusting Sword> Seppuku
+50000000 <Thrusting Sword> White Shadow's Lure
+50000050 <Untyped Thrusting Sword> Impaling Thrust
+50000050 <Untyped Thrusting Sword> Repeating Thrust
+50000050 <Untyped Thrusting Sword> Storm Blade
+50000050 <Untyped Thrusting Sword> Vacuum Slice
+50000050 <Untyped Thrusting Sword> Parry
+50000050 <Untyped Thrusting Sword> Storm Stomp
+50000050 <Untyped Thrusting Sword> Kick
+50000050 <Untyped Thrusting Sword> Ground Slam
+50000050 <Untyped Thrusting Sword> Determination
+50000050 <Untyped Thrusting Sword> Royal Knight's Resolve
+50000050 <Untyped Thrusting Sword> Cragblade
+50000050 <Untyped Thrusting Sword> Endure
+50000050 <Untyped Thrusting Sword> Quickstep
+50000050 <Untyped Thrusting Sword> Bloodhound's Step
+50000050 <Untyped Thrusting Sword> Raptor of the Mists
+50000050 <Untyped Thrusting Sword> White Shadow's Lure
+50000100 <Elemental Thrusting Sword> Flaming Strike
+50000100 <Elemental Thrusting Sword> Flame of the Redmanes
+50000100 <Elemental Thrusting Sword> Thunderbolt
+50000100 <Elemental Thrusting Sword> Lightning Ram
+50000100 <Elemental Thrusting Sword> Sacred Blade
+50000100 <Elemental Thrusting Sword> Golden Slam
+50000100 <Elemental Thrusting Sword> Golden Vow
+50000100 <Elemental Thrusting Sword> Sacred Order
+50000100 <Elemental Thrusting Sword> Shared Order
+50000100 <Elemental Thrusting Sword> Spinning Weapon
+50000100 <Elemental Thrusting Sword> Glintblade Phalanx
+50000100 <Elemental Thrusting Sword> Glintstone Pebble
+50000100 <Elemental Thrusting Sword> Gravitas
+50000100 <Elemental Thrusting Sword> Carian Grandeur
+50000100 <Elemental Thrusting Sword> Carian Greatsword
+50000100 <Elemental Thrusting Sword> Chilling Mist
+50000100 <Elemental Thrusting Sword> Hoarfrost Stomp
+50000100 <Elemental Thrusting Sword> Poison Moth Flight
+50000100 <Elemental Thrusting Sword> Poisonous Mist
+50000100 <Elemental Thrusting Sword> Blood Tax
+50000100 <Elemental Thrusting Sword> Seppuku
+50000100 <Elemental Thrusting Sword> White Shadow's Lure
+50000500 <Fire Thrusting Sword> Flaming Strike
+50000500 <Fire Thrusting Sword> Flame of the Redmanes
+50000600 <Lightning Thrusting Sword> Thunderbolt
+50000600 <Lightning Thrusting Sword> Lightning Ram
+50000700 <Holy Thrusting Sword> Sacred Blade
+50000700 <Holy Thrusting Sword> Golden Slam
+50000700 <Holy Thrusting Sword> Golden Vow
+50000700 <Holy Thrusting Sword> Sacred Order
+50000700 <Holy Thrusting Sword> Shared Order
+50000800 <Magic Thrusting Sword> Spinning Weapon
+50000800 <Magic Thrusting Sword> Glintblade Phalanx
+50000800 <Magic Thrusting Sword> Glintstone Pebble
+50000800 <Magic Thrusting Sword> Gravitas
+50000800 <Magic Thrusting Sword> Carian Grandeur
+50000800 <Magic Thrusting Sword> Carian Greatsword
+50000900 <Frost Thrusting Sword> Chilling Mist
+50000900 <Frost Thrusting Sword> Hoarfrost Stomp
+50001000 <Poison Thrusting Sword> Poison Moth Flight
+50001000 <Poison Thrusting Sword> Poisonous Mist
+50001100 <Blood Thrusting Sword> Blood Tax
+50001100 <Blood Thrusting Sword> Seppuku
+50001200 <Shadow Thrusting Sword> White Shadow's Lure
+50500000 <Table> Impaling Thrust
+50500000 <Table> Repeating Thrust
+50500000 <Table> Storm Blade
+50500000 <Table> Vacuum Slice
+50500000 <Table> Storm Stomp
+50500000 <Table> Kick
+50500000 <Table> Ground Slam
+50500000 <Table> Determination
+50500000 <Table> Royal Knight's Resolve
+50500000 <Table> Cragblade
+50500000 <Table> Endure
+50500000 <Table> Quickstep
+50500000 <Table> Bloodhound's Step
+50500000 <Table> Raptor of the Mists
+50500000 <Table> White Shadow's Lure
+50500000 <Table> Chilling Mist
+50500000 <Table> Hoarfrost Stomp
+50500050 <Table> Impaling Thrust
+50500050 <Table> Repeating Thrust
+50500050 <Table> Storm Blade
+50500050 <Table> Vacuum Slice
+50500050 <Table> Storm Stomp
+50500050 <Table> Kick
+50500050 <Table> Ground Slam
+50500050 <Table> Determination
+50500050 <Table> Royal Knight's Resolve
+50500050 <Table> Cragblade
+50500050 <Table> Endure
+50500050 <Table> Quickstep
+50500050 <Table> Bloodhound's Step
+50500050 <Table> Raptor of the Mists
+50500050 <Table> White Shadow's Lure
+50500900 <Table> Chilling Mist
+50500900 <Table> Hoarfrost Stomp
+60000000 <Heavy Thrusting Sword> Impaling Thrust
+60000000 <Heavy Thrusting Sword> Piercing Fang
+60000000 <Heavy Thrusting Sword> Charge Forth
+60000000 <Heavy Thrusting Sword> Stamp (Upward Cut)
+60000000 <Heavy Thrusting Sword> Stamp (Sweep)
+60000000 <Heavy Thrusting Sword> Repeating Thrust
+60000000 <Heavy Thrusting Sword> Giant Hunt
+60000000 <Heavy Thrusting Sword> Storm Assault
+60000000 <Heavy Thrusting Sword> Storm Blade
+60000000 <Heavy Thrusting Sword> Vacuum Slice
+60000000 <Heavy Thrusting Sword> Storm Stomp
+60000000 <Heavy Thrusting Sword> Kick
+60000000 <Heavy Thrusting Sword> Ground Slam
+60000000 <Heavy Thrusting Sword> Hoarah Loux's Earthshaker
+60000000 <Heavy Thrusting Sword> Determination
+60000000 <Heavy Thrusting Sword> Royal Knight's Resolve
+60000000 <Heavy Thrusting Sword> Cragblade
+60000000 <Heavy Thrusting Sword> Beast's Roar
+60000000 <Heavy Thrusting Sword> Troll's Roar
+60000000 <Heavy Thrusting Sword> Endure
+60000000 <Heavy Thrusting Sword> Quickstep
+60000000 <Heavy Thrusting Sword> Bloodhound's Step
+60000000 <Heavy Thrusting Sword> Raptor of the Mists
+60000000 <Heavy Thrusting Sword> Eruption
+60000000 <Heavy Thrusting Sword> Flaming Strike
+60000000 <Heavy Thrusting Sword> Flame of the Redmanes
+60000000 <Heavy Thrusting Sword> Thunderbolt
+60000000 <Heavy Thrusting Sword> Lightning Slash
+60000000 <Heavy Thrusting Sword> Lightning Ram
+60000000 <Heavy Thrusting Sword> Sacred Blade
+60000000 <Heavy Thrusting Sword> Golden Slam
+60000000 <Heavy Thrusting Sword> Golden Vow
+60000000 <Heavy Thrusting Sword> Sacred Order
+60000000 <Heavy Thrusting Sword> Shared Order
+60000000 <Heavy Thrusting Sword> Glintblade Phalanx
+60000000 <Heavy Thrusting Sword> Glintstone Pebble
+60000000 <Heavy Thrusting Sword> Gravitas
+60000000 <Heavy Thrusting Sword> Carian Grandeur
+60000000 <Heavy Thrusting Sword> Carian Greatsword
+60000000 <Heavy Thrusting Sword> Chilling Mist
+60000000 <Heavy Thrusting Sword> Hoarfrost Stomp
+60000000 <Heavy Thrusting Sword> Poisonous Mist
+60000000 <Heavy Thrusting Sword> Blood Tax
+60000000 <Heavy Thrusting Sword> Bloody Slash
+60000000 <Heavy Thrusting Sword> Seppuku
+60000000 <Heavy Thrusting Sword> White Shadow's Lure
+60000050 <Untyped Heavy Thrusting Sword> Impaling Thrust
+60000050 <Untyped Heavy Thrusting Sword> Piercing Fang
+60000050 <Untyped Heavy Thrusting Sword> Charge Forth
+60000050 <Untyped Heavy Thrusting Sword> Stamp (Upward Cut)
+60000050 <Untyped Heavy Thrusting Sword> Stamp (Sweep)
+60000050 <Untyped Heavy Thrusting Sword> Repeating Thrust
+60000050 <Untyped Heavy Thrusting Sword> Giant Hunt
+60000050 <Untyped Heavy Thrusting Sword> Storm Assault
+60000050 <Untyped Heavy Thrusting Sword> Storm Blade
+60000050 <Untyped Heavy Thrusting Sword> Vacuum Slice
+60000050 <Untyped Heavy Thrusting Sword> Storm Stomp
+60000050 <Untyped Heavy Thrusting Sword> Kick
+60000050 <Untyped Heavy Thrusting Sword> Ground Slam
+60000050 <Untyped Heavy Thrusting Sword> Hoarah Loux's Earthshaker
+60000050 <Untyped Heavy Thrusting Sword> Determination
+60000050 <Untyped Heavy Thrusting Sword> Royal Knight's Resolve
+60000050 <Untyped Heavy Thrusting Sword> Cragblade
+60000050 <Untyped Heavy Thrusting Sword> Beast's Roar
+60000050 <Untyped Heavy Thrusting Sword> Troll's Roar
+60000050 <Untyped Heavy Thrusting Sword> Endure
+60000050 <Untyped Heavy Thrusting Sword> Quickstep
+60000050 <Untyped Heavy Thrusting Sword> Bloodhound's Step
+60000050 <Untyped Heavy Thrusting Sword> Raptor of the Mists
+60000100 <Elemental Heavy Thrusting Sword> Eruption
+60000100 <Elemental Heavy Thrusting Sword> Flaming Strike
+60000100 <Elemental Heavy Thrusting Sword> Flame of the Redmanes
+60000100 <Elemental Heavy Thrusting Sword> Thunderbolt
+60000100 <Elemental Heavy Thrusting Sword> Lightning Slash
+60000100 <Elemental Heavy Thrusting Sword> Lightning Ram
+60000100 <Elemental Heavy Thrusting Sword> Sacred Blade
+60000100 <Elemental Heavy Thrusting Sword> Golden Slam
+60000100 <Elemental Heavy Thrusting Sword> Golden Vow
+60000100 <Elemental Heavy Thrusting Sword> Sacred Order
+60000100 <Elemental Heavy Thrusting Sword> Shared Order
+60000100 <Elemental Heavy Thrusting Sword> Glintblade Phalanx
+60000100 <Elemental Heavy Thrusting Sword> Glintstone Pebble
+60000100 <Elemental Heavy Thrusting Sword> Gravitas
+60000100 <Elemental Heavy Thrusting Sword> Carian Grandeur
+60000100 <Elemental Heavy Thrusting Sword> Carian Greatsword
+60000100 <Elemental Heavy Thrusting Sword> Chilling Mist
+60000100 <Elemental Heavy Thrusting Sword> Hoarfrost Stomp
+60000100 <Elemental Heavy Thrusting Sword> Poisonous Mist
+60000100 <Elemental Heavy Thrusting Sword> Blood Tax
+60000100 <Elemental Heavy Thrusting Sword> Bloody Slash
+60000100 <Elemental Heavy Thrusting Sword> Seppuku
+60000100 <Elemental Heavy Thrusting Sword> White Shadow's Lure
+60000500 <Fire Heavy Thrusting Sword> Eruption
+60000500 <Fire Heavy Thrusting Sword> Flaming Strike
+60000500 <Fire Heavy Thrusting Sword> Flame of the Redmanes
+60000600 <Lightning Heavy Thrusting Sword> Thunderbolt
+60000600 <Lightning Heavy Thrusting Sword> Lightning Slash
+60000600 <Lightning Heavy Thrusting Sword> Lightning Ram
+60000700 <Holy Heavy Thrusting Sword> Sacred Blade
+60000700 <Holy Heavy Thrusting Sword> Golden Slam
+60000700 <Holy Heavy Thrusting Sword> Golden Vow
+60000700 <Holy Heavy Thrusting Sword> Sacred Order
+60000700 <Holy Heavy Thrusting Sword> Shared Order
+60000800 <Magic Heavy Thrusting Sword> Glintblade Phalanx
+60000800 <Magic Heavy Thrusting Sword> Glintstone Pebble
+60000800 <Magic Heavy Thrusting Sword> Gravitas
+60000800 <Magic Heavy Thrusting Sword> Carian Grandeur
+60000800 <Magic Heavy Thrusting Sword> Carian Greatsword
+60000900 <Frost Heavy Thrusting Sword> Chilling Mist
+60000900 <Frost Heavy Thrusting Sword> Hoarfrost Stomp
+60001000 <Poison Heavy Thrusting Sword> Poisonous Mist
+60001100 <Blood Heavy Thrusting Sword> Blood Tax
+60001100 <Blood Heavy Thrusting Sword> Bloody Slash
+60001100 <Blood Heavy Thrusting Sword> Seppuku
+60001200 <Shadow Heavy Thrusting Sword> White Shadow's Lure
+70000000 <Curved Sword> Spinning Slash
+70000000 <Curved Sword> Wild Strikes
+70000000 <Curved Sword> Storm Blade
+70000000 <Curved Sword> Vacuum Slice
+70000000 <Curved Sword> Parry
+70000000 <Curved Sword> Storm Stomp
+70000000 <Curved Sword> Kick
+70000000 <Curved Sword> Ground Slam
+70000000 <Curved Sword> Determination
+70000000 <Curved Sword> Royal Knight's Resolve
+70000000 <Curved Sword> Cragblade
+70000000 <Curved Sword> Barbaric Roar
+70000000 <Curved Sword> War Cry
+70000000 <Curved Sword> Endure
+70000000 <Curved Sword> Quickstep
+70000000 <Curved Sword> Bloodhound's Step
+70000000 <Curved Sword> Raptor of the Mists
+70000000 <Curved Sword> Double Slash
+70000000 <Curved Sword> Flaming Strike
+70000000 <Curved Sword> Flame of the Redmanes
+70000000 <Curved Sword> Thunderbolt
+70000000 <Curved Sword> Lightning Slash
+70000000 <Curved Sword> Lightning Ram
+70000000 <Curved Sword> Sacred Blade
+70000000 <Curved Sword> Golden Slam
+70000000 <Curved Sword> Golden Vow
+70000000 <Curved Sword> Sacred Order
+70000000 <Curved Sword> Shared Order
+70000000 <Curved Sword> Spinning Weapon
+70000000 <Curved Sword> Glintstone Pebble
+70000000 <Curved Sword> Gravitas
+70000000 <Curved Sword> Chilling Mist
+70000000 <Curved Sword> Hoarfrost Stomp
+70000000 <Curved Sword> Poison Moth Flight
+70000000 <Curved Sword> Poisonous Mist
+70000000 <Curved Sword> Seppuku
+70000000 <Curved Sword> White Shadow's Lure
+70000050 <Untyped Curved Sword> Spinning Slash
+70000050 <Untyped Curved Sword> Wild Strikes
+70000050 <Untyped Curved Sword> Double Slash
+70000050 <Untyped Curved Sword> Storm Blade
+70000050 <Untyped Curved Sword> Vacuum Slice
+70000050 <Untyped Curved Sword> Parry
+70000050 <Untyped Curved Sword> Storm Stomp
+70000050 <Untyped Curved Sword> Kick
+70000050 <Untyped Curved Sword> Ground Slam
+70000050 <Untyped Curved Sword> Determination
+70000050 <Untyped Curved Sword> Royal Knight's Resolve
+70000050 <Untyped Curved Sword> Cragblade
+70000050 <Untyped Curved Sword> Barbaric Roar
+70000050 <Untyped Curved Sword> War Cry
+70000050 <Untyped Curved Sword> Endure
+70000050 <Untyped Curved Sword> Quickstep
+70000050 <Untyped Curved Sword> Bloodhound's Step
+70000050 <Untyped Curved Sword> Raptor of the Mists
+70000100 <Elemental Curved Sword> Flaming Strike
+70000100 <Elemental Curved Sword> Flame of the Redmanes
+70000100 <Elemental Curved Sword> Thunderbolt
+70000100 <Elemental Curved Sword> Lightning Slash
+70000100 <Elemental Curved Sword> Lightning Ram
+70000100 <Elemental Curved Sword> Sacred Blade
+70000100 <Elemental Curved Sword> Golden Slam
+70000100 <Elemental Curved Sword> Golden Vow
+70000100 <Elemental Curved Sword> Sacred Order
+70000100 <Elemental Curved Sword> Shared Order
+70000100 <Elemental Curved Sword> Spinning Weapon
+70000100 <Elemental Curved Sword> Glintstone Pebble
+70000100 <Elemental Curved Sword> Gravitas
+70000100 <Elemental Curved Sword> Chilling Mist
+70000100 <Elemental Curved Sword> Hoarfrost Stomp
+70000100 <Elemental Curved Sword> Poison Moth Flight
+70000100 <Elemental Curved Sword> Poisonous Mist
+70000100 <Elemental Curved Sword> Seppuku
+70000100 <Elemental Curved Sword> White Shadow's Lure
+70000500 <Fire Curved Sword> Flaming Strike
+70000500 <Fire Curved Sword> Flame of the Redmanes
+70000600 <Lightning Curved Sword> Thunderbolt
+70000600 <Lightning Curved Sword> Lightning Slash
+70000600 <Lightning Curved Sword> Lightning Ram
+70000700 <Holy Curved Sword> Sacred Blade
+70000700 <Holy Curved Sword> Golden Slam
+70000700 <Holy Curved Sword> Golden Vow
+70000700 <Holy Curved Sword> Sacred Order
+70000700 <Holy Curved Sword> Shared Order
+70000800 <Magic Curved Sword> Spinning Weapon
+70000800 <Magic Curved Sword> Glintstone Pebble
+70000800 <Magic Curved Sword> Gravitas
+70000900 <Frost Curved Sword> Chilling Mist
+70000900 <Frost Curved Sword> Hoarfrost Stomp
+70001000 <Poison Curved Sword> Poison Moth Flight
+70001000 <Poison Curved Sword> Poisonous Mist
+70001100 <Blood Curved Sword> Seppuku
+70001200 <Shadow Curved Sword> White Shadow's Lure
+80000000 <Curved Greatsword> Lion's Claw
+80000000 <Curved Greatsword> Spinning Slash
+80000000 <Curved Greatsword> Stamp (Upward Cut)
+80000000 <Curved Greatsword> Stamp (Sweep)
+80000000 <Curved Greatsword> Wild Strikes
+80000000 <Curved Greatsword> Double Slash
+80000000 <Curved Greatsword> Stormcaller
+80000000 <Curved Greatsword> Sword Dance
+80000000 <Curved Greatsword> Storm Blade
+80000000 <Curved Greatsword> Vacuum Slice
+80000000 <Curved Greatsword> Storm Stomp
+80000000 <Curved Greatsword> Kick
+80000000 <Curved Greatsword> Ground Slam
+80000000 <Curved Greatsword> Hoarah Loux's Earthshaker
+80000000 <Curved Greatsword> Determination
+80000000 <Curved Greatsword> Royal Knight's Resolve
+80000000 <Curved Greatsword> Cragblade
+80000000 <Curved Greatsword> Barbaric Roar
+80000000 <Curved Greatsword> War Cry
+80000000 <Curved Greatsword> Beast's Roar
+80000000 <Curved Greatsword> Troll's Roar
+80000000 <Curved Greatsword> Braggart's Roar
+80000000 <Curved Greatsword> Endure
+80000000 <Curved Greatsword> Quickstep
+80000000 <Curved Greatsword> Bloodhound's Step
+80000000 <Curved Greatsword> Raptor of the Mists
+80000000 <Curved Greatsword> Eruption
+80000000 <Curved Greatsword> Flaming Strike
+80000000 <Curved Greatsword> Flame of the Redmanes
+80000000 <Curved Greatsword> Thunderbolt
+80000000 <Curved Greatsword> Lightning Slash
+80000000 <Curved Greatsword> Lightning Ram
+80000000 <Curved Greatsword> Sacred Blade
+80000000 <Curved Greatsword> Golden Slam
+80000000 <Curved Greatsword> Golden Vow
+80000000 <Curved Greatsword> Sacred Order
+80000000 <Curved Greatsword> Shared Order
+80000000 <Curved Greatsword> Glintblade Phalanx
+80000000 <Curved Greatsword> Glintstone Pebble
+80000000 <Curved Greatsword> Gravitas
+80000000 <Curved Greatsword> Carian Grandeur
+80000000 <Curved Greatsword> Carian Greatsword
+80000000 <Curved Greatsword> Chilling Mist
+80000000 <Curved Greatsword> Hoarfrost Stomp
+80000000 <Curved Greatsword> Poisonous Mist
+80000000 <Curved Greatsword> Bloody Slash
+80000000 <Curved Greatsword> Seppuku
+80000000 <Curved Greatsword> White Shadow's Lure
+80000050 <Untyped Curved Greatsword> Lion's Claw
+80000050 <Untyped Curved Greatsword> Spinning Slash
+80000050 <Untyped Curved Greatsword> Stamp (Upward Cut)
+80000050 <Untyped Curved Greatsword> Stamp (Sweep)
+80000050 <Untyped Curved Greatsword> Wild Strikes
+80000050 <Untyped Curved Greatsword> Double Slash
+80000050 <Untyped Curved Greatsword> Stormcaller
+80000050 <Untyped Curved Greatsword> Sword Dance
+80000050 <Untyped Curved Greatsword> Storm Blade
+80000050 <Untyped Curved Greatsword> Vacuum Slice
+80000050 <Untyped Curved Greatsword> Storm Stomp
+80000050 <Untyped Curved Greatsword> Kick
+80000050 <Untyped Curved Greatsword> Ground Slam
+80000050 <Untyped Curved Greatsword> Hoarah Loux's Earthshaker
+80000050 <Untyped Curved Greatsword> Determination
+80000050 <Untyped Curved Greatsword> Royal Knight's Resolve
+80000050 <Untyped Curved Greatsword> Cragblade
+80000050 <Untyped Curved Greatsword> Barbaric Roar
+80000050 <Untyped Curved Greatsword> War Cry
+80000050 <Untyped Curved Greatsword> Beast's Roar
+80000050 <Untyped Curved Greatsword> Troll's Roar
+80000050 <Untyped Curved Greatsword> Braggart's Roar
+80000050 <Untyped Curved Greatsword> Endure
+80000050 <Untyped Curved Greatsword> Quickstep
+80000050 <Untyped Curved Greatsword> Bloodhound's Step
+80000050 <Untyped Curved Greatsword> Raptor of the Mists
+80000100 <Elemental Curved Greatsword> Eruption
+80000100 <Elemental Curved Greatsword> Flaming Strike
+80000100 <Elemental Curved Greatsword> Flame of the Redmanes
+80000100 <Elemental Curved Greatsword> Thunderbolt
+80000100 <Elemental Curved Greatsword> Lightning Slash
+80000100 <Elemental Curved Greatsword> Lightning Ram
+80000100 <Elemental Curved Greatsword> Sacred Blade
+80000100 <Elemental Curved Greatsword> Golden Slam
+80000100 <Elemental Curved Greatsword> Golden Vow
+80000100 <Elemental Curved Greatsword> Sacred Order
+80000100 <Elemental Curved Greatsword> Shared Order
+80000100 <Elemental Curved Greatsword> Glintblade Phalanx
+80000100 <Elemental Curved Greatsword> Glintstone Pebble
+80000100 <Elemental Curved Greatsword> Gravitas
+80000100 <Elemental Curved Greatsword> Carian Grandeur
+80000100 <Elemental Curved Greatsword> Carian Greatsword
+80000100 <Elemental Curved Greatsword> Chilling Mist
+80000100 <Elemental Curved Greatsword> Hoarfrost Stomp
+80000100 <Elemental Curved Greatsword> Poisonous Mist
+80000100 <Elemental Curved Greatsword> Bloody Slash
+80000100 <Elemental Curved Greatsword> Seppuku
+80000100 <Elemental Curved Greatsword> White Shadow's Lure
+80000500 <Fire Curved Greatsword> Eruption
+80000500 <Fire Curved Greatsword> Flaming Strike
+80000500 <Fire Curved Greatsword> Flame of the Redmanes
+80000600 <Lightning Curved Greatsword> Thunderbolt
+80000600 <Lightning Curved Greatsword> Lightning Slash
+80000600 <Lightning Curved Greatsword> Lightning Ram
+80000700 <Holy Curved Greatsword> Sacred Blade
+80000700 <Holy Curved Greatsword> Golden Slam
+80000700 <Holy Curved Greatsword> Golden Vow
+80000700 <Holy Curved Greatsword> Sacred Order
+80000700 <Holy Curved Greatsword> Shared Order
+80000800 <Magic Curved Greatsword> Glintblade Phalanx
+80000800 <Magic Curved Greatsword> Glintstone Pebble
+80000800 <Magic Curved Greatsword> Gravitas
+80000800 <Magic Curved Greatsword> Carian Grandeur
+80000800 <Magic Curved Greatsword> Carian Greatsword
+80000900 <Frost Curved Greatsword> Chilling Mist
+80000900 <Frost Curved Greatsword> Hoarfrost Stomp
+80001000 <Poison Curved Greatsword> Poisonous Mist
+80001100 <Blood Curved Greatsword> Bloody Slash
+80001100 <Blood Curved Greatsword> Seppuku
+80001200 <Shadow Curved Greatsword> White Shadow's Lure
+90000000 <Katana> Lion's Claw
+90000000 <Katana> Impaling Thrust
+90000000 <Katana> Piercing Fang
+90000000 <Katana> Spinning Slash
+90000000 <Katana> Repeating Thrust
+90000000 <Katana> Double Slash
+90000000 <Katana> Unsheathe
+90000000 <Katana> Stormcaller
+90000000 <Katana> Sword Dance
+90000000 <Katana> Storm Blade
+90000000 <Katana> Vacuum Slice
+90000000 <Katana> Storm Stomp
+90000000 <Katana> Kick
+90000000 <Katana> Ground Slam
+90000000 <Katana> Hoarah Loux's Earthshaker
+90000000 <Katana> Determination
+90000000 <Katana> Royal Knight's Resolve
+90000000 <Katana> Cragblade
+90000000 <Katana> Barbaric Roar
+90000000 <Katana> War Cry
+90000000 <Katana> Beast's Roar
+90000000 <Katana> Braggart's Roar
+90000000 <Katana> Endure
+90000000 <Katana> Quickstep
+90000000 <Katana> Bloodhound's Step
+90000000 <Katana> Raptor of the Mists
+90000000 <Katana> Flaming Strike
+90000000 <Katana> Flame of the Redmanes
+90000000 <Katana> Thunderbolt
+90000000 <Katana> Lightning Slash
+90000000 <Katana> Lightning Ram
+90000000 <Katana> Sacred Blade
+90000000 <Katana> Golden Slam
+90000000 <Katana> Golden Vow
+90000000 <Katana> Sacred Order
+90000000 <Katana> Shared Order
+90000000 <Katana> Spinning Weapon
+90000000 <Katana> Glintblade Phalanx
+90000000 <Katana> Glintstone Pebble
+90000000 <Katana> Gravitas
+90000000 <Katana> Carian Grandeur
+90000000 <Katana> Carian Greatsword
+90000000 <Katana> Chilling Mist
+90000000 <Katana> Hoarfrost Stomp
+90000000 <Katana> Poison Moth Flight
+90000000 <Katana> Poisonous Mist
+90000000 <Katana> Blood Tax
+90000000 <Katana> Bloody Slash
+90000000 <Katana> Blood Blade
+90000000 <Katana> Seppuku
+90000000 <Katana> Assassin's Gambit
+90000000 <Katana> White Shadow's Lure
+90000050 <Untyped Katana> Lion's Claw
+90000050 <Untyped Katana> Impaling Thrust
+90000050 <Untyped Katana> Piercing Fang
+90000050 <Untyped Katana> Spinning Slash
+90000050 <Untyped Katana> Repeating Thrust
+90000050 <Untyped Katana> Double Slash
+90000050 <Untyped Katana> Unsheathe
+90000050 <Untyped Katana> Stormcaller
+90000050 <Untyped Katana> Sword Dance
+90000050 <Untyped Katana> Storm Blade
+90000050 <Untyped Katana> Vacuum Slice
+90000050 <Untyped Katana> Storm Stomp
+90000050 <Untyped Katana> Kick
+90000050 <Untyped Katana> Ground Slam
+90000050 <Untyped Katana> Hoarah Loux's Earthshaker
+90000050 <Untyped Katana> Determination
+90000050 <Untyped Katana> Royal Knight's Resolve
+90000050 <Untyped Katana> Cragblade
+90000050 <Untyped Katana> Barbaric Roar
+90000050 <Untyped Katana> War Cry
+90000050 <Untyped Katana> Beast's Roar
+90000050 <Untyped Katana> Braggart's Roar
+90000050 <Untyped Katana> Endure
+90000050 <Untyped Katana> Quickstep
+90000050 <Untyped Katana> Bloodhound's Step
+90000050 <Untyped Katana> Raptor of the Mists
+90000100 <Elemental Katana> Flaming Strike
+90000100 <Elemental Katana> Flame of the Redmanes
+90000100 <Elemental Katana> Thunderbolt
+90000100 <Elemental Katana> Lightning Slash
+90000100 <Elemental Katana> Lightning Ram
+90000100 <Elemental Katana> Sacred Blade
+90000100 <Elemental Katana> Golden Slam
+90000100 <Elemental Katana> Golden Vow
+90000100 <Elemental Katana> Sacred Order
+90000100 <Elemental Katana> Shared Order
+90000100 <Elemental Katana> Spinning Weapon
+90000100 <Elemental Katana> Glintblade Phalanx
+90000100 <Elemental Katana> Glintstone Pebble
+90000100 <Elemental Katana> Gravitas
+90000100 <Elemental Katana> Carian Grandeur
+90000100 <Elemental Katana> Carian Greatsword
+90000100 <Elemental Katana> Chilling Mist
+90000100 <Elemental Katana> Hoarfrost Stomp
+90000100 <Elemental Katana> Poison Moth Flight
+90000100 <Elemental Katana> Poisonous Mist
+90000100 <Elemental Katana> Blood Tax
+90000100 <Elemental Katana> Bloody Slash
+90000100 <Elemental Katana> Blood Blade
+90000100 <Elemental Katana> Seppuku
+90000100 <Elemental Katana> Assassin's Gambit
+90000100 <Elemental Katana> White Shadow's Lure
+90000500 <Fire Katana> Flaming Strike
+90000500 <Fire Katana> Flame of the Redmanes
+90000600 <Lightning Katana> Thunderbolt
+90000600 <Lightning Katana> Lightning Slash
+90000600 <Lightning Katana> Lightning Ram
+90000700 <Holy Katana> Sacred Blade
+90000700 <Holy Katana> Golden Slam
+90000700 <Holy Katana> Golden Vow
+90000700 <Holy Katana> Sacred Order
+90000700 <Holy Katana> Shared Order
+90000800 <Magic Katana> Spinning Weapon
+90000800 <Magic Katana> Glintblade Phalanx
+90000800 <Magic Katana> Glintstone Pebble
+90000800 <Magic Katana> Gravitas
+90000800 <Magic Katana> Carian Grandeur
+90000800 <Magic Katana> Carian Greatsword
+90000900 <Frost Katana> Chilling Mist
+90000900 <Frost Katana> Hoarfrost Stomp
+90001000 <Poison Katana> Poison Moth Flight
+90001000 <Poison Katana> Poisonous Mist
+90001100 <Blood Katana> Blood Tax
+90001100 <Blood Katana> Bloody Slash
+90001100 <Blood Katana> Blood Blade
+90001100 <Blood Katana> Seppuku
+90001200 <Shadow Katana> Assassin's Gambit
+90001200 <Shadow Katana> White Shadow's Lure
+90800000 <Table> Lion's Claw
+90800000 <Table> Impaling Thrust
+90800000 <Table> Piercing Fang
+90800000 <Table> Spinning Slash
+90800000 <Table> Repeating Thrust
+90800000 <Table> Double Slash
+90800000 <Table> Unsheathe
+90800000 <Table> Stormcaller
+90800000 <Table> Sword Dance
+90800000 <Table> Storm Blade
+90800000 <Table> Vacuum Slice
+90800000 <Table> Storm Stomp
+90800000 <Table> Kick
+90800000 <Table> Ground Slam
+90800000 <Table> Hoarah Loux's Earthshaker
+90800000 <Table> Determination
+90800000 <Table> Royal Knight's Resolve
+90800000 <Table> Cragblade
+90800000 <Table> Barbaric Roar
+90800000 <Table> War Cry
+90800000 <Table> Beast's Roar
+90800000 <Table> Braggart's Roar
+90800000 <Table> Endure
+90800000 <Table> Quickstep
+90800000 <Table> Bloodhound's Step
+90800000 <Table> Raptor of the Mists
+90800000 <Table> Poison Moth Flight
+90800000 <Table> Poisonous Mist
+90800050 <Table> Lion's Claw
+90800050 <Table> Impaling Thrust
+90800050 <Table> Piercing Fang
+90800050 <Table> Spinning Slash
+90800050 <Table> Repeating Thrust
+90800050 <Table> Double Slash
+90800050 <Table> Unsheathe
+90800050 <Table> Stormcaller
+90800050 <Table> Sword Dance
+90800050 <Table> Storm Blade
+90800050 <Table> Vacuum Slice
+90800050 <Table> Storm Stomp
+90800050 <Table> Kick
+90800050 <Table> Ground Slam
+90800050 <Table> Hoarah Loux's Earthshaker
+90800050 <Table> Determination
+90800050 <Table> Royal Knight's Resolve
+90800050 <Table> Cragblade
+90800050 <Table> Barbaric Roar
+90800050 <Table> War Cry
+90800050 <Table> Beast's Roar
+90800050 <Table> Braggart's Roar
+90800050 <Table> Endure
+90800050 <Table> Quickstep
+90800050 <Table> Bloodhound's Step
+90800050 <Table> Raptor of the Mists
+90801000 <Table> Poison Moth Flight
+90801000 <Table> Poisonous Mist
+91030000 <Table> Lion's Claw
+91030000 <Table> Impaling Thrust
+91030000 <Table> Piercing Fang
+91030000 <Table> Spinning Slash
+91030000 <Table> Repeating Thrust
+91030000 <Table> Double Slash
+91030000 <Table> Unsheathe
+91030000 <Table> Stormcaller
+91030000 <Table> Sword Dance
+91030000 <Table> Storm Blade
+91030000 <Table> Vacuum Slice
+91030000 <Table> Storm Stomp
+91030000 <Table> Kick
+91030000 <Table> Ground Slam
+91030000 <Table> Hoarah Loux's Earthshaker
+91030000 <Table> Determination
+91030000 <Table> Royal Knight's Resolve
+91030000 <Table> Cragblade
+91030000 <Table> Barbaric Roar
+91030000 <Table> War Cry
+91030000 <Table> Beast's Roar
+91030000 <Table> Braggart's Roar
+91030000 <Table> Endure
+91030000 <Table> Quickstep
+91030000 <Table> Bloodhound's Step
+91030000 <Table> Raptor of the Mists
+91030000 <Table> Spinning Weapon
+91030000 <Table> Glintblade Phalanx
+91030000 <Table> Glintstone Pebble
+91030000 <Table> Gravitas
+91030000 <Table> Carian Grandeur
+91030000 <Table> Carian Greatsword
+91030000 <Table> Blood Tax
+91030000 <Table> Bloody Slash
+91030000 <Table> Blood Blade
+91030000 <Table> Seppuku
+91030050 <Table> Lion's Claw
+91030050 <Table> Impaling Thrust
+91030050 <Table> Piercing Fang
+91030050 <Table> Spinning Slash
+91030050 <Table> Repeating Thrust
+91030050 <Table> Double Slash
+91030050 <Table> Unsheathe
+91030050 <Table> Stormcaller
+91030050 <Table> Sword Dance
+91030050 <Table> Storm Blade
+91030050 <Table> Vacuum Slice
+91030050 <Table> Storm Stomp
+91030050 <Table> Kick
+91030050 <Table> Ground Slam
+91030050 <Table> Hoarah Loux's Earthshaker
+91030050 <Table> Determination
+91030050 <Table> Royal Knight's Resolve
+91030050 <Table> Cragblade
+91030050 <Table> Barbaric Roar
+91030050 <Table> War Cry
+91030050 <Table> Beast's Roar
+91030050 <Table> Braggart's Roar
+91030050 <Table> Endure
+91030050 <Table> Quickstep
+91030050 <Table> Bloodhound's Step
+91030050 <Table> Raptor of the Mists
+91030100 <Table> Spinning Weapon
+91030100 <Table> Glintblade Phalanx
+91030100 <Table> Glintstone Pebble
+91030100 <Table> Gravitas
+91030100 <Table> Carian Grandeur
+91030100 <Table> Carian Greatsword
+91030100 <Table> Blood Tax
+91030100 <Table> Bloody Slash
+91030100 <Table> Blood Blade
+91030100 <Table> Seppuku
+91030800 <Table> Spinning Weapon
+91030800 <Table> Glintblade Phalanx
+91030800 <Table> Glintstone Pebble
+91030800 <Table> Gravitas
+91030800 <Table> Carian Grandeur
+91030800 <Table> Carian Greatsword
+91031100 <Table> Blood Tax
+91031100 <Table> Bloody Slash
+91031100 <Table> Blood Blade
+91031100 <Table> Seppuku
+100000000 <Twinblade> Lion's Claw
+100000000 <Twinblade> Impaling Thrust
+100000000 <Twinblade> Piercing Fang
+100000000 <Twinblade> Spinning Slash
+100000000 <Twinblade> Charge Forth
+100000000 <Twinblade> Repeating Thrust
+100000000 <Twinblade> Double Slash
+100000000 <Twinblade> Giant Hunt
+100000000 <Twinblade> Storm Assault
+100000000 <Twinblade> Stormcaller
+100000000 <Twinblade> Sword Dance
+100000000 <Twinblade> Vacuum Slice
+100000000 <Twinblade> Phantom Slash
+100000000 <Twinblade> Storm Stomp
+100000000 <Twinblade> Kick
+100000000 <Twinblade> Ground Slam
+100000000 <Twinblade> Hoarah Loux's Earthshaker
+100000000 <Twinblade> Determination
+100000000 <Twinblade> Royal Knight's Resolve
+100000000 <Twinblade> Cragblade
+100000000 <Twinblade> Barbaric Roar
+100000000 <Twinblade> War Cry
+100000000 <Twinblade> Beast's Roar
+100000000 <Twinblade> Braggart's Roar
+100000000 <Twinblade> Endure
+100000000 <Twinblade> Quickstep
+100000000 <Twinblade> Bloodhound's Step
+100000000 <Twinblade> Raptor of the Mists
+100000000 <Twinblade> Flaming Strike
+100000000 <Twinblade> Flame of the Redmanes
+100000000 <Twinblade> Black Flame Tornado
+100000000 <Twinblade> Thunderbolt
+100000000 <Twinblade> Lightning Slash
+100000000 <Twinblade> Lightning Ram
+100000000 <Twinblade> Sacred Blade
+100000000 <Twinblade> Golden Slam
+100000000 <Twinblade> Golden Vow
+100000000 <Twinblade> Sacred Order
+100000000 <Twinblade> Shared Order
+100000000 <Twinblade> Loretta's Slash
+100000000 <Twinblade> Spinning Weapon
+100000000 <Twinblade> Glintblade Phalanx
+100000000 <Twinblade> Glintstone Pebble
+100000000 <Twinblade> Gravitas
+100000000 <Twinblade> Carian Grandeur
+100000000 <Twinblade> Carian Greatsword
+100000000 <Twinblade> Ice Spear
+100000000 <Twinblade> Chilling Mist
+100000000 <Twinblade> Hoarfrost Stomp
+100000000 <Twinblade> Poisonous Mist
+100000000 <Twinblade> Blood Tax
+100000000 <Twinblade> Bloody Slash
+100000000 <Twinblade> Blood Blade
+100000000 <Twinblade> Seppuku
+100000000 <Twinblade> Assassin's Gambit
+100000000 <Twinblade> White Shadow's Lure
+100000050 <Untyped Twinblade> Lion's Claw
+100000050 <Untyped Twinblade> Impaling Thrust
+100000050 <Untyped Twinblade> Piercing Fang
+100000050 <Untyped Twinblade> Spinning Slash
+100000050 <Untyped Twinblade> Charge Forth
+100000050 <Untyped Twinblade> Repeating Thrust
+100000050 <Untyped Twinblade> Double Slash
+100000050 <Untyped Twinblade> Giant Hunt
+100000050 <Untyped Twinblade> Storm Assault
+100000050 <Untyped Twinblade> Stormcaller
+100000050 <Untyped Twinblade> Sword Dance
+100000050 <Untyped Twinblade> Vacuum Slice
+100000050 <Untyped Twinblade> Phantom Slash
+100000050 <Untyped Twinblade> Storm Stomp
+100000050 <Untyped Twinblade> Kick
+100000050 <Untyped Twinblade> Ground Slam
+100000050 <Untyped Twinblade> Hoarah Loux's Earthshaker
+100000050 <Untyped Twinblade> Determination
+100000050 <Untyped Twinblade> Royal Knight's Resolve
+100000050 <Untyped Twinblade> Cragblade
+100000050 <Untyped Twinblade> Barbaric Roar
+100000050 <Untyped Twinblade> War Cry
+100000050 <Untyped Twinblade> Beast's Roar
+100000050 <Untyped Twinblade> Braggart's Roar
+100000050 <Untyped Twinblade> Endure
+100000050 <Untyped Twinblade> Quickstep
+100000050 <Untyped Twinblade> Bloodhound's Step
+100000050 <Untyped Twinblade> Raptor of the Mists
+100000100 <Elemental Twinblade> Flaming Strike
+100000100 <Elemental Twinblade> Flame of the Redmanes
+100000100 <Elemental Twinblade> Black Flame Tornado
+100000100 <Elemental Twinblade> Thunderbolt
+100000100 <Elemental Twinblade> Lightning Slash
+100000100 <Elemental Twinblade> Lightning Ram
+100000100 <Elemental Twinblade> Sacred Blade
+100000100 <Elemental Twinblade> Golden Slam
+100000100 <Elemental Twinblade> Golden Vow
+100000100 <Elemental Twinblade> Sacred Order
+100000100 <Elemental Twinblade> Shared Order
+100000100 <Elemental Twinblade> Loretta's Slash
+100000100 <Elemental Twinblade> Spinning Weapon
+100000100 <Elemental Twinblade> Glintblade Phalanx
+100000100 <Elemental Twinblade> Glintstone Pebble
+100000100 <Elemental Twinblade> Gravitas
+100000100 <Elemental Twinblade> Carian Grandeur
+100000100 <Elemental Twinblade> Carian Greatsword
+100000100 <Elemental Twinblade> Ice Spear
+100000100 <Elemental Twinblade> Chilling Mist
+100000100 <Elemental Twinblade> Hoarfrost Stomp
+100000100 <Elemental Twinblade> Poisonous Mist
+100000100 <Elemental Twinblade> Blood Tax
+100000100 <Elemental Twinblade> Bloody Slash
+100000100 <Elemental Twinblade> Blood Blade
+100000100 <Elemental Twinblade> Seppuku
+100000100 <Elemental Twinblade> Assassin's Gambit
+100000100 <Elemental Twinblade> White Shadow's Lure
+100000500 <Fire Twinblade> Flaming Strike
+100000500 <Fire Twinblade> Flame of the Redmanes
+100000500 <Fire Twinblade> Black Flame Tornado
+100000600 <Lightning Twinblade> Thunderbolt
+100000600 <Lightning Twinblade> Lightning Slash
+100000600 <Lightning Twinblade> Lightning Ram
+100000700 <Holy Twinblade> Sacred Blade
+100000700 <Holy Twinblade> Golden Slam
+100000700 <Holy Twinblade> Golden Vow
+100000700 <Holy Twinblade> Sacred Order
+100000700 <Holy Twinblade> Shared Order
+100000800 <Magic Twinblade> Loretta's Slash
+100000800 <Magic Twinblade> Spinning Weapon
+100000800 <Magic Twinblade> Glintblade Phalanx
+100000800 <Magic Twinblade> Glintstone Pebble
+100000800 <Magic Twinblade> Gravitas
+100000800 <Magic Twinblade> Carian Grandeur
+100000800 <Magic Twinblade> Carian Greatsword
+100000900 <Frost Twinblade> Ice Spear
+100000900 <Frost Twinblade> Chilling Mist
+100000900 <Frost Twinblade> Hoarfrost Stomp
+100001000 <Poison Twinblade> Poisonous Mist
+100001100 <Blood Twinblade> Blood Tax
+100001100 <Blood Twinblade> Bloody Slash
+100001100 <Blood Twinblade> Blood Blade
+100001100 <Blood Twinblade> Seppuku
+100001200 <Shadow Twinblade> Assassin's Gambit
+100001200 <Shadow Twinblade> White Shadow's Lure
+100900000 <Table> Lion's Claw
+100900000 <Table> Impaling Thrust
+100900000 <Table> Piercing Fang
+100900000 <Table> Spinning Slash
+100900000 <Table> Charge Forth
+100900000 <Table> Repeating Thrust
+100900000 <Table> Double Slash
+100900000 <Table> Giant Hunt
+100900000 <Table> Storm Assault
+100900000 <Table> Stormcaller
+100900000 <Table> Sword Dance
+100900000 <Table> Vacuum Slice
+100900000 <Table> Phantom Slash
+100900000 <Table> Storm Stomp
+100900000 <Table> Kick
+100900000 <Table> Ground Slam
+100900000 <Table> Hoarah Loux's Earthshaker
+100900000 <Table> Determination
+100900000 <Table> Royal Knight's Resolve
+100900000 <Table> Cragblade
+100900000 <Table> Barbaric Roar
+100900000 <Table> War Cry
+100900000 <Table> Beast's Roar
+100900000 <Table> Braggart's Roar
+100900000 <Table> Endure
+100900000 <Table> Quickstep
+100900000 <Table> Bloodhound's Step
+100900000 <Table> Raptor of the Mists
+100900000 <Table> Sacred Blade
+100900000 <Table> Golden Slam
+100900000 <Table> Golden Vow
+100900000 <Table> Sacred Order
+100900000 <Table> Shared Order
+100900050 <Table> Lion's Claw
+100900050 <Table> Impaling Thrust
+100900050 <Table> Piercing Fang
+100900050 <Table> Spinning Slash
+100900050 <Table> Charge Forth
+100900050 <Table> Repeating Thrust
+100900050 <Table> Double Slash
+100900050 <Table> Giant Hunt
+100900050 <Table> Storm Assault
+100900050 <Table> Stormcaller
+100900050 <Table> Sword Dance
+100900050 <Table> Vacuum Slice
+100900050 <Table> Phantom Slash
+100900050 <Table> Storm Stomp
+100900050 <Table> Kick
+100900050 <Table> Ground Slam
+100900050 <Table> Hoarah Loux's Earthshaker
+100900050 <Table> Determination
+100900050 <Table> Royal Knight's Resolve
+100900050 <Table> Cragblade
+100900050 <Table> Barbaric Roar
+100900050 <Table> War Cry
+100900050 <Table> Beast's Roar
+100900050 <Table> Braggart's Roar
+100900050 <Table> Endure
+100900050 <Table> Quickstep
+100900050 <Table> Bloodhound's Step
+100900050 <Table> Raptor of the Mists
+100900700 <Table> Sacred Blade
+100900700 <Table> Golden Slam
+100900700 <Table> Golden Vow
+100900700 <Table> Sacred Order
+100900700 <Table> Shared Order
+110000000 <Hammer> Wild Strikes
+110000000 <Hammer> Storm Stomp
+110000000 <Hammer> Kick
+110000000 <Hammer> Ground Slam
+110000000 <Hammer> Determination
+110000000 <Hammer> Royal Knight's Resolve
+110000000 <Hammer> Cragblade
+110000000 <Hammer> Barbaric Roar
+110000000 <Hammer> War Cry
+110000000 <Hammer> Endure
+110000000 <Hammer> Quickstep
+110000000 <Hammer> Bloodhound's Step
+110000000 <Hammer> Raptor of the Mists
+110000000 <Hammer> Flaming Strike
+110000000 <Hammer> Flame of the Redmanes
+110000000 <Hammer> Thunderbolt
+110000000 <Hammer> Lightning Ram
+110000000 <Hammer> Sacred Blade
+110000000 <Hammer> Golden Slam
+110000000 <Hammer> Golden Vow
+110000000 <Hammer> Sacred Order
+110000000 <Hammer> Shared Order
+110000000 <Hammer> Spinning Weapon
+110000000 <Hammer> Gravitas
+110000000 <Hammer> Chilling Mist
+110000000 <Hammer> Hoarfrost Stomp
+110000000 <Hammer> Poisonous Mist
+110000050 <Untyped Hammer> Wild Strikes
+110000050 <Untyped Hammer> Storm Stomp
+110000050 <Untyped Hammer> Kick
+110000050 <Untyped Hammer> Ground Slam
+110000050 <Untyped Hammer> Determination
+110000050 <Untyped Hammer> Royal Knight's Resolve
+110000050 <Untyped Hammer> Cragblade
+110000050 <Untyped Hammer> Barbaric Roar
+110000050 <Untyped Hammer> War Cry
+110000050 <Untyped Hammer> Endure
+110000050 <Untyped Hammer> Quickstep
+110000050 <Untyped Hammer> Bloodhound's Step
+110000050 <Untyped Hammer> Raptor of the Mists
+110000100 <Elemental Hammer> Flaming Strike
+110000100 <Elemental Hammer> Flame of the Redmanes
+110000100 <Elemental Hammer> Thunderbolt
+110000100 <Elemental Hammer> Lightning Ram
+110000100 <Elemental Hammer> Sacred Blade
+110000100 <Elemental Hammer> Golden Slam
+110000100 <Elemental Hammer> Golden Vow
+110000100 <Elemental Hammer> Sacred Order
+110000100 <Elemental Hammer> Shared Order
+110000100 <Elemental Hammer> Spinning Weapon
+110000100 <Elemental Hammer> Gravitas
+110000100 <Elemental Hammer> Chilling Mist
+110000100 <Elemental Hammer> Hoarfrost Stomp
+110000100 <Elemental Hammer> Poisonous Mist
+110000500 <Fire Hammer> Flaming Strike
+110000500 <Fire Hammer> Flame of the Redmanes
+110000600 <Lightning Hammer> Thunderbolt
+110000600 <Lightning Hammer> Lightning Ram
+110000700 <Holy Hammer> Sacred Blade
+110000700 <Holy Hammer> Golden Slam
+110000700 <Holy Hammer> Golden Vow
+110000700 <Holy Hammer> Sacred Order
+110000700 <Holy Hammer> Shared Order
+110000800 <Magic Hammer> Spinning Weapon
+110000800 <Magic Hammer> Gravitas
+110000900 <Frost Hammer> Chilling Mist
+110000900 <Frost Hammer> Hoarfrost Stomp
+110001000 <Poison Hammer> Poisonous Mist
+110600000 <Table> Wild Strikes
+110600000 <Table> Storm Stomp
+110600000 <Table> Kick
+110600000 <Table> Ground Slam
+110600000 <Table> Determination
+110600000 <Table> Royal Knight's Resolve
+110600000 <Table> Cragblade
+110600000 <Table> Barbaric Roar
+110600000 <Table> War Cry
+110600000 <Table> Endure
+110600000 <Table> Quickstep
+110600000 <Table> Bloodhound's Step
+110600000 <Table> Raptor of the Mists
+120000000 <Great Hammer> Lion's Claw
+120000000 <Great Hammer> Stamp (Upward Cut)
+120000000 <Great Hammer> Stamp (Sweep)
+120000000 <Great Hammer> Wild Strikes
+120000000 <Great Hammer> Stormcaller
+120000000 <Great Hammer> Earthshaker
+120000000 <Great Hammer> Storm Stomp
+120000000 <Great Hammer> Kick
+120000000 <Great Hammer> Ground Slam
+120000000 <Great Hammer> Hoarah Loux's Earthshaker
+120000000 <Great Hammer> Determination
+120000000 <Great Hammer> Royal Knight's Resolve
+120000000 <Great Hammer> Cragblade
+120000000 <Great Hammer> Barbaric Roar
+120000000 <Great Hammer> War Cry
+120000000 <Great Hammer> Beast's Roar
+120000000 <Great Hammer> Troll's Roar
+120000000 <Great Hammer> Braggart's Roar
+120000000 <Great Hammer> Endure
+120000000 <Great Hammer> Quickstep
+120000000 <Great Hammer> Bloodhound's Step
+120000000 <Great Hammer> Raptor of the Mists
+120000000 <Great Hammer> Eruption
+120000000 <Great Hammer> Flaming Strike
+120000000 <Great Hammer> Flame of the Redmanes
+120000000 <Great Hammer> Prelate's Charge
+120000000 <Great Hammer> Thunderbolt
+120000000 <Great Hammer> Lightning Slash
+120000000 <Great Hammer> Lightning Ram
+120000000 <Great Hammer> Sacred Blade
+120000000 <Great Hammer> Prayerful Strike
+120000000 <Great Hammer> Golden Land
+120000000 <Great Hammer> Golden Slam
+120000000 <Great Hammer> Golden Vow
+120000000 <Great Hammer> Sacred Order
+120000000 <Great Hammer> Shared Order
+120000000 <Great Hammer> Gravitas
+120000000 <Great Hammer> Waves of Darkness
+120000000 <Great Hammer> Chilling Mist
+120000000 <Great Hammer> Hoarfrost Stomp
+120000000 <Great Hammer> Poisonous Mist
+120000000 <Great Hammer> White Shadow's Lure
+120000050 <Untyped Great Hammer> Lion's Claw
+120000050 <Untyped Great Hammer> Stamp (Upward Cut)
+120000050 <Untyped Great Hammer> Stamp (Sweep)
+120000050 <Untyped Great Hammer> Wild Strikes
+120000050 <Untyped Great Hammer> Stormcaller
+120000050 <Untyped Great Hammer> Earthshaker
+120000050 <Untyped Great Hammer> Storm Stomp
+120000050 <Untyped Great Hammer> Kick
+120000050 <Untyped Great Hammer> Ground Slam
+120000050 <Untyped Great Hammer> Hoarah Loux's Earthshaker
+120000050 <Untyped Great Hammer> Determination
+120000050 <Untyped Great Hammer> Royal Knight's Resolve
+120000050 <Untyped Great Hammer> Cragblade
+120000050 <Untyped Great Hammer> Barbaric Roar
+120000050 <Untyped Great Hammer> War Cry
+120000050 <Untyped Great Hammer> Beast's Roar
+120000050 <Untyped Great Hammer> Troll's Roar
+120000050 <Untyped Great Hammer> Braggart's Roar
+120000050 <Untyped Great Hammer> Endure
+120000050 <Untyped Great Hammer> Quickstep
+120000050 <Untyped Great Hammer> Bloodhound's Step
+120000050 <Untyped Great Hammer> Raptor of the Mists
+120000100 <Elemental Great Hammer> Eruption
+120000100 <Elemental Great Hammer> Flaming Strike
+120000100 <Elemental Great Hammer> Flame of the Redmanes
+120000100 <Elemental Great Hammer> Prelate's Charge
+120000100 <Elemental Great Hammer> Thunderbolt
+120000100 <Elemental Great Hammer> Lightning Slash
+120000100 <Elemental Great Hammer> Lightning Ram
+120000100 <Elemental Great Hammer> Sacred Blade
+120000100 <Elemental Great Hammer> Prayerful Strike
+120000100 <Elemental Great Hammer> Golden Land
+120000100 <Elemental Great Hammer> Golden Slam
+120000100 <Elemental Great Hammer> Golden Vow
+120000100 <Elemental Great Hammer> Sacred Order
+120000100 <Elemental Great Hammer> Shared Order
+120000100 <Elemental Great Hammer> Gravitas
+120000100 <Elemental Great Hammer> Waves of Darkness
+120000100 <Elemental Great Hammer> Chilling Mist
+120000100 <Elemental Great Hammer> Hoarfrost Stomp
+120000100 <Elemental Great Hammer> Poisonous Mist
+120000100 <Elemental Great Hammer> White Shadow's Lure
+120000500 <Fire Great Hammer> Eruption
+120000500 <Fire Great Hammer> Flaming Strike
+120000500 <Fire Great Hammer> Flame of the Redmanes
+120000500 <Fire Great Hammer> Prelate's Charge
+120000600 <Lightning Great Hammer> Thunderbolt
+120000600 <Lightning Great Hammer> Lightning Slash
+120000600 <Lightning Great Hammer> Lightning Ram
+120000700 <Holy Great Hammer> Sacred Blade
+120000700 <Holy Great Hammer> Prayerful Strike
+120000700 <Holy Great Hammer> Golden Land
+120000700 <Holy Great Hammer> Golden Slam
+120000700 <Holy Great Hammer> Golden Vow
+120000700 <Holy Great Hammer> Sacred Order
+120000700 <Holy Great Hammer> Shared Order
+120000800 <Magic Great Hammer> Gravitas
+120000800 <Magic Great Hammer> Waves of Darkness
+120000900 <Frost Great Hammer> Chilling Mist
+120000900 <Frost Great Hammer> Hoarfrost Stomp
+120001000 <Poison Great Hammer> Poisonous Mist
+120001200 <Shadow Great Hammer> White Shadow's Lure
+130000000 <Flail> Stamp (Upward Cut)
+130000000 <Flail> Stamp (Sweep)
+130000000 <Flail> Wild Strikes
+130000000 <Flail> Storm Stomp
+130000000 <Flail> Kick
+130000000 <Flail> Ground Slam
+130000000 <Flail> Determination
+130000000 <Flail> Royal Knight's Resolve
+130000000 <Flail> Cragblade
+130000000 <Flail> Barbaric Roar
+130000000 <Flail> War Cry
+130000000 <Flail> Endure
+130000000 <Flail> Quickstep
+130000000 <Flail> Bloodhound's Step
+130000000 <Flail> Raptor of the Mists
+130000000 <Flail> Flame of the Redmanes
+130000000 <Flail> Thunderbolt
+130000000 <Flail> Lightning Ram
+130000000 <Flail> Sacred Blade
+130000000 <Flail> Prayerful Strike
+130000000 <Flail> Golden Slam
+130000000 <Flail> Golden Vow
+130000000 <Flail> Sacred Order
+130000000 <Flail> Shared Order
+130000000 <Flail> Spinning Weapon
+130000000 <Flail> Gravitas
+130000000 <Flail> Chilling Mist
+130000000 <Flail> Hoarfrost Stomp
+130000000 <Flail> Poisonous Mist
+130000050 <Untyped Flail> Stamp (Upward Cut)
+130000050 <Untyped Flail> Stamp (Sweep)
+130000050 <Untyped Flail> Wild Strikes
+130000050 <Untyped Flail> Storm Stomp
+130000050 <Untyped Flail> Kick
+130000050 <Untyped Flail> Ground Slam
+130000050 <Untyped Flail> Determination
+130000050 <Untyped Flail> Royal Knight's Resolve
+130000050 <Untyped Flail> Cragblade
+130000050 <Untyped Flail> Barbaric Roar
+130000050 <Untyped Flail> War Cry
+130000050 <Untyped Flail> Endure
+130000050 <Untyped Flail> Quickstep
+130000050 <Untyped Flail> Bloodhound's Step
+130000050 <Untyped Flail> Raptor of the Mists
+130000100 <Elemental Flail> Flame of the Redmanes
+130000100 <Elemental Flail> Thunderbolt
+130000100 <Elemental Flail> Lightning Ram
+130000100 <Elemental Flail> Sacred Blade
+130000100 <Elemental Flail> Prayerful Strike
+130000100 <Elemental Flail> Golden Slam
+130000100 <Elemental Flail> Golden Vow
+130000100 <Elemental Flail> Sacred Order
+130000100 <Elemental Flail> Shared Order
+130000100 <Elemental Flail> Spinning Weapon
+130000100 <Elemental Flail> Gravitas
+130000100 <Elemental Flail> Chilling Mist
+130000100 <Elemental Flail> Hoarfrost Stomp
+130000100 <Elemental Flail> Poisonous Mist
+130000500 <Fire Flail> Flame of the Redmanes
+130000600 <Lightning Flail> Thunderbolt
+130000600 <Lightning Flail> Lightning Ram
+130000700 <Holy Flail> Sacred Blade
+130000700 <Holy Flail> Prayerful Strike
+130000700 <Holy Flail> Golden Slam
+130000700 <Holy Flail> Golden Vow
+130000700 <Holy Flail> Sacred Order
+130000700 <Holy Flail> Shared Order
+130000800 <Magic Flail> Spinning Weapon
+130000800 <Magic Flail> Gravitas
+130000900 <Frost Flail> Chilling Mist
+130000900 <Frost Flail> Hoarfrost Stomp
+130001000 <Poison Flail> Poisonous Mist
+130001200 <Shadow Flail> White Shadow's Lure
+140000000 <Axe> Spinning Slash
+140000000 <Axe> Stamp (Upward Cut)
+140000000 <Axe> Stamp (Sweep)
+140000000 <Axe> Wild Strikes
+140000000 <Axe> Vacuum Slice
+140000000 <Axe> Storm Stomp
+140000000 <Axe> Kick
+140000000 <Axe> Ground Slam
+140000000 <Axe> Determination
+140000000 <Axe> Royal Knight's Resolve
+140000000 <Axe> Cragblade
+140000000 <Axe> Barbaric Roar
+140000000 <Axe> War Cry
+140000000 <Axe> Endure
+140000000 <Axe> Quickstep
+140000000 <Axe> Bloodhound's Step
+140000000 <Axe> Raptor of the Mists
+140000000 <Axe> Flaming Strike
+140000000 <Axe> Flame of the Redmanes
+140000000 <Axe> Thunderbolt
+140000000 <Axe> Lightning Ram
+140000000 <Axe> Sacred Blade
+140000000 <Axe> Golden Slam
+140000000 <Axe> Golden Vow
+140000000 <Axe> Sacred Order
+140000000 <Axe> Shared Order
+140000000 <Axe> Spinning Weapon
+140000000 <Axe> Gravitas
+140000000 <Axe> Chilling Mist
+140000000 <Axe> Hoarfrost Stomp
+140000000 <Axe> Poisonous Mist
+140000050 <Untyped Axe> Spinning Slash
+140000050 <Untyped Axe> Stamp (Upward Cut)
+140000050 <Untyped Axe> Stamp (Sweep)
+140000050 <Untyped Axe> Wild Strikes
+140000050 <Untyped Axe> Vacuum Slice
+140000050 <Untyped Axe> Storm Stomp
+140000050 <Untyped Axe> Kick
+140000050 <Untyped Axe> Ground Slam
+140000050 <Untyped Axe> Determination
+140000050 <Untyped Axe> Royal Knight's Resolve
+140000050 <Untyped Axe> Cragblade
+140000050 <Untyped Axe> Barbaric Roar
+140000050 <Untyped Axe> War Cry
+140000050 <Untyped Axe> Endure
+140000050 <Untyped Axe> Quickstep
+140000050 <Untyped Axe> Bloodhound's Step
+140000050 <Untyped Axe> Raptor of the Mists
+140000100 <Elemental Axe> Flaming Strike
+140000100 <Elemental Axe> Flame of the Redmanes
+140000100 <Elemental Axe> Thunderbolt
+140000100 <Elemental Axe> Lightning Ram
+140000100 <Elemental Axe> Sacred Blade
+140000100 <Elemental Axe> Golden Slam
+140000100 <Elemental Axe> Golden Vow
+140000100 <Elemental Axe> Sacred Order
+140000100 <Elemental Axe> Shared Order
+140000100 <Elemental Axe> Spinning Weapon
+140000100 <Elemental Axe> Gravitas
+140000100 <Elemental Axe> Chilling Mist
+140000100 <Elemental Axe> Hoarfrost Stomp
+140000100 <Elemental Axe> Poisonous Mist
+140000500 <Fire Axe> Flaming Strike
+140000500 <Fire Axe> Flame of the Redmanes
+140000600 <Lightning Axe> Thunderbolt
+140000600 <Lightning Axe> Lightning Ram
+140000700 <Holy Axe> Sacred Blade
+140000700 <Holy Axe> Golden Slam
+140000700 <Holy Axe> Golden Vow
+140000700 <Holy Axe> Sacred Order
+140000700 <Holy Axe> Shared Order
+140000800 <Magic Axe> Spinning Weapon
+140000800 <Magic Axe> Gravitas
+140000900 <Frost Axe> Chilling Mist
+140000900 <Frost Axe> Hoarfrost Stomp
+140001000 <Poison Axe> Poisonous Mist
+140001200 <Shadow Axe> White Shadow's Lure
+140500000 <Table> Spinning Slash
+140500000 <Table> Stamp (Upward Cut)
+140500000 <Table> Stamp (Sweep)
+140500000 <Table> Wild Strikes
+140500000 <Table> Vacuum Slice
+140500000 <Table> Storm Stomp
+140500000 <Table> Kick
+140500000 <Table> Ground Slam
+140500000 <Table> Determination
+140500000 <Table> Royal Knight's Resolve
+140500000 <Table> Cragblade
+140500000 <Table> Barbaric Roar
+140500000 <Table> War Cry
+140500000 <Table> Endure
+140500000 <Table> Quickstep
+140500000 <Table> Bloodhound's Step
+140500000 <Table> Raptor of the Mists
+140800000 <Table> Spinning Slash
+140800000 <Table> Stamp (Upward Cut)
+140800000 <Table> Stamp (Sweep)
+140800000 <Table> Wild Strikes
+140800000 <Table> Vacuum Slice
+140800000 <Table> Storm Stomp
+140800000 <Table> Kick
+140800000 <Table> Ground Slam
+140800000 <Table> Determination
+140800000 <Table> Royal Knight's Resolve
+140800000 <Table> Cragblade
+140800000 <Table> Barbaric Roar
+140800000 <Table> War Cry
+140800000 <Table> Endure
+140800000 <Table> Quickstep
+140800000 <Table> Bloodhound's Step
+140800000 <Table> Raptor of the Mists
+140800050 <Table> Spinning Slash
+140800050 <Table> Stamp (Upward Cut)
+140800050 <Table> Stamp (Sweep)
+140800050 <Table> Wild Strikes
+140800050 <Table> Vacuum Slice
+140800050 <Table> Storm Stomp
+140800050 <Table> Kick
+140800050 <Table> Ground Slam
+140800050 <Table> Determination
+140800050 <Table> Royal Knight's Resolve
+140800050 <Table> Cragblade
+140800050 <Table> Barbaric Roar
+140800050 <Table> War Cry
+140800050 <Table> Endure
+140800050 <Table> Quickstep
+140800050 <Table> Bloodhound's Step
+140800050 <Table> Raptor of the Mists
+140800100 <Table> Chilling Mist
+140800100 <Table> Hoarfrost Stomp
+150000000 <Greataxe> Lion's Claw
+150000000 <Greataxe> Spinning Slash
+150000000 <Greataxe> Stamp (Upward Cut)
+150000000 <Greataxe> Stamp (Sweep)
+150000000 <Greataxe> Wild Strikes
+150000000 <Greataxe> Stormcaller
+150000000 <Greataxe> Sword Dance
+150000000 <Greataxe> Earthshaker
+150000000 <Greataxe> Vacuum Slice
+150000000 <Greataxe> Storm Stomp
+150000000 <Greataxe> Kick
+150000000 <Greataxe> Ground Slam
+150000000 <Greataxe> Hoarah Loux's Earthshaker
+150000000 <Greataxe> Determination
+150000000 <Greataxe> Royal Knight's Resolve
+150000000 <Greataxe> Cragblade
+150000000 <Greataxe> Barbaric Roar
+150000000 <Greataxe> War Cry
+150000000 <Greataxe> Beast's Roar
+150000000 <Greataxe> Troll's Roar
+150000000 <Greataxe> Braggart's Roar
+150000000 <Greataxe> Endure
+150000000 <Greataxe> Quickstep
+150000000 <Greataxe> Bloodhound's Step
+150000000 <Greataxe> Raptor of the Mists
+150000000 <Greataxe> Eruption
+150000000 <Greataxe> Flaming Strike
+150000000 <Greataxe> Flame of the Redmanes
+150000000 <Greataxe> Prelate's Charge
+150000000 <Greataxe> Thunderbolt
+150000000 <Greataxe> Lightning Slash
+150000000 <Greataxe> Lightning Ram
+150000000 <Greataxe> Sacred Blade
+150000000 <Greataxe> Prayerful Strike
+150000000 <Greataxe> Golden Land
+150000000 <Greataxe> Golden Slam
+150000000 <Greataxe> Golden Vow
+150000000 <Greataxe> Sacred Order
+150000000 <Greataxe> Shared Order
+150000000 <Greataxe> Gravitas
+150000000 <Greataxe> Waves of Darkness
+150000000 <Greataxe> Chilling Mist
+150000000 <Greataxe> Hoarfrost Stomp
+150000000 <Greataxe> Poisonous Mist
+150000000 <Greataxe> White Shadow's Lure
+150000050 <Untyped Greataxe> Lion's Claw
+150000050 <Untyped Greataxe> Spinning Slash
+150000050 <Untyped Greataxe> Stamp (Upward Cut)
+150000050 <Untyped Greataxe> Stamp (Sweep)
+150000050 <Untyped Greataxe> Wild Strikes
+150000050 <Untyped Greataxe> Stormcaller
+150000050 <Untyped Greataxe> Sword Dance
+150000050 <Untyped Greataxe> Earthshaker
+150000050 <Untyped Greataxe> Vacuum Slice
+150000050 <Untyped Greataxe> Storm Stomp
+150000050 <Untyped Greataxe> Kick
+150000050 <Untyped Greataxe> Ground Slam
+150000050 <Untyped Greataxe> Hoarah Loux's Earthshaker
+150000050 <Untyped Greataxe> Determination
+150000050 <Untyped Greataxe> Royal Knight's Resolve
+150000050 <Untyped Greataxe> Cragblade
+150000050 <Untyped Greataxe> Barbaric Roar
+150000050 <Untyped Greataxe> War Cry
+150000050 <Untyped Greataxe> Beast's Roar
+150000050 <Untyped Greataxe> Troll's Roar
+150000050 <Untyped Greataxe> Braggart's Roar
+150000050 <Untyped Greataxe> Endure
+150000050 <Untyped Greataxe> Quickstep
+150000050 <Untyped Greataxe> Bloodhound's Step
+150000050 <Untyped Greataxe> Raptor of the Mists
+150000100 <Elemental Greataxe> Eruption
+150000100 <Elemental Greataxe> Flaming Strike
+150000100 <Elemental Greataxe> Flame of the Redmanes
+150000100 <Elemental Greataxe> Prelate's Charge
+150000100 <Elemental Greataxe> Thunderbolt
+150000100 <Elemental Greataxe> Lightning Slash
+150000100 <Elemental Greataxe> Lightning Ram
+150000100 <Elemental Greataxe> Sacred Blade
+150000100 <Elemental Greataxe> Prayerful Strike
+150000100 <Elemental Greataxe> Golden Land
+150000100 <Elemental Greataxe> Golden Slam
+150000100 <Elemental Greataxe> Golden Vow
+150000100 <Elemental Greataxe> Sacred Order
+150000100 <Elemental Greataxe> Shared Order
+150000100 <Elemental Greataxe> Gravitas
+150000100 <Elemental Greataxe> Waves of Darkness
+150000100 <Elemental Greataxe> Chilling Mist
+150000100 <Elemental Greataxe> Hoarfrost Stomp
+150000100 <Elemental Greataxe> Poisonous Mist
+150000100 <Elemental Greataxe> White Shadow's Lure
+150000500 <Fire Greataxe> Eruption
+150000500 <Fire Greataxe> Flaming Strike
+150000500 <Fire Greataxe> Flame of the Redmanes
+150000500 <Fire Greataxe> Prelate's Charge
+150000600 <Lightning Greataxe> Thunderbolt
+150000600 <Lightning Greataxe> Lightning Slash
+150000600 <Lightning Greataxe> Lightning Ram
+150000700 <Holy Greataxe> Sacred Blade
+150000700 <Holy Greataxe> Prayerful Strike
+150000700 <Holy Greataxe> Golden Land
+150000700 <Holy Greataxe> Golden Slam
+150000700 <Holy Greataxe> Golden Vow
+150000700 <Holy Greataxe> Sacred Order
+150000700 <Holy Greataxe> Shared Order
+150000800 <Magic Greataxe> Gravitas
+150000800 <Magic Greataxe> Waves of Darkness
+150000900 <Frost Greataxe> Chilling Mist
+150000900 <Frost Greataxe> Hoarfrost Stomp
+150001000 <Poison Greataxe> Poisonous Mist
+150001200 <Shadow Greataxe> White Shadow's Lure
+151020000 <Table> Lion's Claw
+151020000 <Table> Spinning Slash
+151020000 <Table> Stamp (Upward Cut)
+151020000 <Table> Stamp (Sweep)
+151020000 <Table> Wild Strikes
+151020000 <Table> Stormcaller
+151020000 <Table> Sword Dance
+151020000 <Table> Earthshaker
+151020000 <Table> Vacuum Slice
+151020000 <Table> Storm Stomp
+151020000 <Table> Kick
+151020000 <Table> Ground Slam
+151020000 <Table> Hoarah Loux's Earthshaker
+151020000 <Table> Determination
+151020000 <Table> Royal Knight's Resolve
+151020000 <Table> Cragblade
+151020000 <Table> Barbaric Roar
+151020000 <Table> War Cry
+151020000 <Table> Beast's Roar
+151020000 <Table> Troll's Roar
+151020000 <Table> Braggart's Roar
+151020000 <Table> Endure
+151020000 <Table> Quickstep
+151020000 <Table> Bloodhound's Step
+151020000 <Table> Raptor of the Mists
+151400000 <Table> Lion's Claw
+151400000 <Table> Spinning Slash
+151400000 <Table> Stamp (Upward Cut)
+151400000 <Table> Stamp (Sweep)
+151400000 <Table> Wild Strikes
+151400000 <Table> Stormcaller
+151400000 <Table> Sword Dance
+151400000 <Table> Earthshaker
+151400000 <Table> Vacuum Slice
+151400000 <Table> Storm Stomp
+151400000 <Table> Kick
+151400000 <Table> Ground Slam
+151400000 <Table> Hoarah Loux's Earthshaker
+151400000 <Table> Determination
+151400000 <Table> Royal Knight's Resolve
+151400000 <Table> Cragblade
+151400000 <Table> Barbaric Roar
+151400000 <Table> War Cry
+151400000 <Table> Beast's Roar
+151400000 <Table> Troll's Roar
+151400000 <Table> Braggart's Roar
+151400000 <Table> Endure
+151400000 <Table> Quickstep
+151400000 <Table> Bloodhound's Step
+151400000 <Table> Raptor of the Mists
+151400000 <Table> Sacred Blade
+151400000 <Table> Prayerful Strike
+151400000 <Table> Golden Land
+151400000 <Table> Golden Slam
+151400000 <Table> Golden Vow
+151400000 <Table> Sacred Order
+151400000 <Table> Shared Order
+151400050 <Table> Lion's Claw
+151400050 <Table> Spinning Slash
+151400050 <Table> Stamp (Upward Cut)
+151400050 <Table> Stamp (Sweep)
+151400050 <Table> Wild Strikes
+151400050 <Table> Stormcaller
+151400050 <Table> Sword Dance
+151400050 <Table> Earthshaker
+151400050 <Table> Vacuum Slice
+151400050 <Table> Storm Stomp
+151400050 <Table> Kick
+151400050 <Table> Ground Slam
+151400050 <Table> Hoarah Loux's Earthshaker
+151400050 <Table> Determination
+151400050 <Table> Royal Knight's Resolve
+151400050 <Table> Cragblade
+151400050 <Table> Barbaric Roar
+151400050 <Table> War Cry
+151400050 <Table> Beast's Roar
+151400050 <Table> Troll's Roar
+151400050 <Table> Braggart's Roar
+151400050 <Table> Endure
+151400050 <Table> Quickstep
+151400050 <Table> Bloodhound's Step
+151400050 <Table> Raptor of the Mists
+151400700 <Table> Sacred Blade
+151400700 <Table> Prayerful Strike
+151400700 <Table> Golden Land
+151400700 <Table> Golden Slam
+151400700 <Table> Golden Vow
+151400700 <Table> Sacred Order
+151400700 <Table> Shared Order
+160000000 <Spear> Impaling Thrust
+160000000 <Spear> Piercing Fang
+160000000 <Spear> Spinning Slash
+160000000 <Spear> Charge Forth
+160000000 <Spear> Repeating Thrust
+160000000 <Spear> Spinning Strikes
+160000000 <Spear> Giant Hunt
+160000000 <Spear> Storm Assault
+160000000 <Spear> Stormcaller
+160000000 <Spear> Sword Dance
+160000000 <Spear> Phantom Slash
+160000000 <Spear> Storm Stomp
+160000000 <Spear> Kick
+160000000 <Spear> Ground Slam
+160000000 <Spear> Hoarah Loux's Earthshaker
+160000000 <Spear> Determination
+160000000 <Spear> Royal Knight's Resolve
+160000000 <Spear> Cragblade
+160000000 <Spear> Barbaric Roar
+160000000 <Spear> War Cry
+160000000 <Spear> Beast's Roar
+160000000 <Spear> Braggart's Roar
+160000000 <Spear> Endure
+160000000 <Spear> Quickstep
+160000000 <Spear> Bloodhound's Step
+160000000 <Spear> Raptor of the Mists
+160000000 <Spear> Flaming Strike
+160000000 <Spear> Flame of the Redmanes
+160000000 <Spear> Black Flame Tornado
+160000000 <Spear> Thunderbolt
+160000000 <Spear> Lightning Ram
+160000000 <Spear> Sacred Blade
+160000000 <Spear> Sacred Ring of Light
+160000000 <Spear> Golden Slam
+160000000 <Spear> Golden Vow
+160000000 <Spear> Sacred Order
+160000000 <Spear> Shared Order
+160000000 <Spear> Loretta's Slash
+160000000 <Spear> Spinning Weapon
+160000000 <Spear> Glintblade Phalanx
+160000000 <Spear> Glintstone Pebble
+160000000 <Spear> Gravitas
+160000000 <Spear> Ice Spear
+160000000 <Spear> Chilling Mist
+160000000 <Spear> Hoarfrost Stomp
+160000000 <Spear> Poisonous Mist
+160000000 <Spear> Blood Tax
+160000000 <Spear> Seppuku
+160000000 <Spear> Spectral Lance
+160000000 <Spear> White Shadow's Lure
+160000050 <Untyped Spear> Impaling Thrust
+160000050 <Untyped Spear> Piercing Fang
+160000050 <Untyped Spear> Spinning Slash
+160000050 <Untyped Spear> Charge Forth
+160000050 <Untyped Spear> Repeating Thrust
+160000050 <Untyped Spear> Spinning Strikes
+160000050 <Untyped Spear> Giant Hunt
+160000050 <Untyped Spear> Storm Assault
+160000050 <Untyped Spear> Stormcaller
+160000050 <Untyped Spear> Sword Dance
+160000050 <Untyped Spear> Phantom Slash
+160000050 <Untyped Spear> Storm Stomp
+160000050 <Untyped Spear> Kick
+160000050 <Untyped Spear> Ground Slam
+160000050 <Untyped Spear> Hoarah Loux's Earthshaker
+160000050 <Untyped Spear> Determination
+160000050 <Untyped Spear> Royal Knight's Resolve
+160000050 <Untyped Spear> Cragblade
+160000050 <Untyped Spear> Barbaric Roar
+160000050 <Untyped Spear> War Cry
+160000050 <Untyped Spear> Beast's Roar
+160000050 <Untyped Spear> Braggart's Roar
+160000050 <Untyped Spear> Endure
+160000050 <Untyped Spear> Quickstep
+160000050 <Untyped Spear> Bloodhound's Step
+160000050 <Untyped Spear> Raptor of the Mists
+160000100 <Elemental Spear> Flaming Strike
+160000100 <Elemental Spear> Flame of the Redmanes
+160000100 <Elemental Spear> Black Flame Tornado
+160000100 <Elemental Spear> Thunderbolt
+160000100 <Elemental Spear> Lightning Ram
+160000100 <Elemental Spear> Sacred Blade
+160000100 <Elemental Spear> Sacred Ring of Light
+160000100 <Elemental Spear> Golden Slam
+160000100 <Elemental Spear> Golden Vow
+160000100 <Elemental Spear> Sacred Order
+160000100 <Elemental Spear> Shared Order
+160000100 <Elemental Spear> Loretta's Slash
+160000100 <Elemental Spear> Spinning Weapon
+160000100 <Elemental Spear> Glintblade Phalanx
+160000100 <Elemental Spear> Glintstone Pebble
+160000100 <Elemental Spear> Gravitas
+160000100 <Elemental Spear> Ice Spear
+160000100 <Elemental Spear> Chilling Mist
+160000100 <Elemental Spear> Hoarfrost Stomp
+160000100 <Elemental Spear> Poisonous Mist
+160000100 <Elemental Spear> Blood Tax
+160000100 <Elemental Spear> Seppuku
+160000100 <Elemental Spear> Spectral Lance
+160000100 <Elemental Spear> White Shadow's Lure
+160000500 <Fire Spear> Flaming Strike
+160000500 <Fire Spear> Flame of the Redmanes
+160000500 <Fire Spear> Black Flame Tornado
+160000600 <Lightning Spear> Thunderbolt
+160000600 <Lightning Spear> Lightning Ram
+160000700 <Holy Spear> Sacred Blade
+160000700 <Holy Spear> Sacred Ring of Light
+160000700 <Holy Spear> Golden Slam
+160000700 <Holy Spear> Golden Vow
+160000700 <Holy Spear> Sacred Order
+160000700 <Holy Spear> Shared Order
+160000800 <Magic Spear> Loretta's Slash
+160000800 <Magic Spear> Spinning Weapon
+160000800 <Magic Spear> Glintblade Phalanx
+160000800 <Magic Spear> Glintstone Pebble
+160000800 <Magic Spear> Gravitas
+160000900 <Frost Spear> Ice Spear
+160000900 <Frost Spear> Chilling Mist
+160000900 <Frost Spear> Hoarfrost Stomp
+160001000 <Poison Spear> Poisonous Mist
+160001100 <Blood Spear> Blood Tax
+160001100 <Blood Spear> Seppuku
+160001200 <Shadow Spear> Spectral Lance
+160001200 <Shadow Spear> White Shadow's Lure
+160800000 <Table> Impaling Thrust
+160800000 <Table> Piercing Fang
+160800000 <Table> Spinning Slash
+160800000 <Table> Charge Forth
+160800000 <Table> Repeating Thrust
+160800000 <Table> Spinning Strikes
+160800000 <Table> Giant Hunt
+160800000 <Table> Storm Assault
+160800000 <Table> Stormcaller
+160800000 <Table> Sword Dance
+160800000 <Table> Phantom Slash
+160800000 <Table> Storm Stomp
+160800000 <Table> Kick
+160800000 <Table> Ground Slam
+160800000 <Table> Hoarah Loux's Earthshaker
+160800000 <Table> Determination
+160800000 <Table> Royal Knight's Resolve
+160800000 <Table> Cragblade
+160800000 <Table> Barbaric Roar
+160800000 <Table> War Cry
+160800000 <Table> Beast's Roar
+160800000 <Table> Braggart's Roar
+160800000 <Table> Endure
+160800000 <Table> Quickstep
+160800000 <Table> Bloodhound's Step
+160800000 <Table> Raptor of the Mists
+160800000 <Table> Flaming Strike
+160800000 <Table> Flame of the Redmanes
+160800000 <Table> Black Flame Tornado
+160800050 <Table> Impaling Thrust
+160800050 <Table> Piercing Fang
+160800050 <Table> Spinning Slash
+160800050 <Table> Charge Forth
+160800050 <Table> Repeating Thrust
+160800050 <Table> Spinning Strikes
+160800050 <Table> Giant Hunt
+160800050 <Table> Storm Assault
+160800050 <Table> Stormcaller
+160800050 <Table> Sword Dance
+160800050 <Table> Phantom Slash
+160800050 <Table> Storm Stomp
+160800050 <Table> Kick
+160800050 <Table> Ground Slam
+160800050 <Table> Hoarah Loux's Earthshaker
+160800050 <Table> Determination
+160800050 <Table> Royal Knight's Resolve
+160800050 <Table> Cragblade
+160800050 <Table> Barbaric Roar
+160800050 <Table> War Cry
+160800050 <Table> Beast's Roar
+160800050 <Table> Braggart's Roar
+160800050 <Table> Endure
+160800050 <Table> Quickstep
+160800050 <Table> Bloodhound's Step
+160800050 <Table> Raptor of the Mists
+160800500 <Table> Flaming Strike
+160800500 <Table> Flame of the Redmanes
+160800500 <Table> Black Flame Tornado
+161600000 <Table> Impaling Thrust
+161600000 <Table> Piercing Fang
+161600000 <Table> Spinning Slash
+161600000 <Table> Charge Forth
+161600000 <Table> Repeating Thrust
+161600000 <Table> Spinning Strikes
+161600000 <Table> Giant Hunt
+161600000 <Table> Storm Assault
+161600000 <Table> Stormcaller
+161600000 <Table> Sword Dance
+161600000 <Table> Phantom Slash
+161600000 <Table> Storm Stomp
+161600000 <Table> Kick
+161600000 <Table> Ground Slam
+161600000 <Table> Hoarah Loux's Earthshaker
+161600000 <Table> Determination
+161600000 <Table> Royal Knight's Resolve
+161600000 <Table> Cragblade
+161600000 <Table> Barbaric Roar
+161600000 <Table> War Cry
+161600000 <Table> Beast's Roar
+161600000 <Table> Braggart's Roar
+161600000 <Table> Endure
+161600000 <Table> Quickstep
+161600000 <Table> Bloodhound's Step
+161600000 <Table> Raptor of the Mists
+161600000 <Table> Loretta's Slash
+161600000 <Table> Spinning Weapon
+161600000 <Table> Glintblade Phalanx
+161600000 <Table> Glintstone Pebble
+161600000 <Table> Gravitas
+161600050 <Table> Impaling Thrust
+161600050 <Table> Piercing Fang
+161600050 <Table> Spinning Slash
+161600050 <Table> Charge Forth
+161600050 <Table> Repeating Thrust
+161600050 <Table> Spinning Strikes
+161600050 <Table> Giant Hunt
+161600050 <Table> Storm Assault
+161600050 <Table> Stormcaller
+161600050 <Table> Sword Dance
+161600050 <Table> Phantom Slash
+161600050 <Table> Storm Stomp
+161600050 <Table> Kick
+161600050 <Table> Ground Slam
+161600050 <Table> Hoarah Loux's Earthshaker
+161600050 <Table> Determination
+161600050 <Table> Royal Knight's Resolve
+161600050 <Table> Cragblade
+161600050 <Table> Barbaric Roar
+161600050 <Table> War Cry
+161600050 <Table> Beast's Roar
+161600050 <Table> Braggart's Roar
+161600050 <Table> Endure
+161600050 <Table> Quickstep
+161600050 <Table> Bloodhound's Step
+161600050 <Table> Raptor of the Mists
+161600100 <Table> Loretta's Slash
+161600100 <Table> Spinning Weapon
+161600100 <Table> Glintblade Phalanx
+161600100 <Table> Glintstone Pebble
+161600100 <Table> Gravitas
+170000000 <Heavy Spear> Stormcaller
+170000000 <Heavy Spear> Earthshaker
+170000000 <Heavy Spear> Storm Stomp
+170000000 <Heavy Spear> Kick
+170000000 <Heavy Spear> Ground Slam
+170000000 <Heavy Spear> Hoarah Loux's Earthshaker
+170000000 <Heavy Spear> Determination
+170000000 <Heavy Spear> Royal Knight's Resolve
+170000000 <Heavy Spear> Cragblade
+170000000 <Heavy Spear> Barbaric Roar
+170000000 <Heavy Spear> War Cry
+170000000 <Heavy Spear> Beast's Roar
+170000000 <Heavy Spear> Braggart's Roar
+170000000 <Heavy Spear> Endure
+170000000 <Heavy Spear> Quickstep
+170000000 <Heavy Spear> Bloodhound's Step
+170000000 <Heavy Spear> Raptor of the Mists
+170000000 <Heavy Spear> Flaming Strike
+170000000 <Heavy Spear> Flame of the Redmanes
+170000000 <Heavy Spear> Thunderbolt
+170000000 <Heavy Spear> Lightning Ram
+170000000 <Heavy Spear> Sacred Blade
+170000000 <Heavy Spear> Golden Land
+170000000 <Heavy Spear> Golden Slam
+170000000 <Heavy Spear> Golden Vow
+170000000 <Heavy Spear> Sacred Order
+170000000 <Heavy Spear> Shared Order
+170000000 <Heavy Spear> Loretta's Slash
+170000000 <Heavy Spear> Gravitas
+170000000 <Heavy Spear> Waves of Darkness
+170000000 <Heavy Spear> Chilling Mist
+170000000 <Heavy Spear> Hoarfrost Stomp
+170000000 <Heavy Spear> Poisonous Mist
+170000000 <Heavy Spear> White Shadow's Lure
+170000050 <Untyped Heavy Spear> Stormcaller
+170000050 <Untyped Heavy Spear> Earthshaker
+170000050 <Untyped Heavy Spear> Storm Stomp
+170000050 <Untyped Heavy Spear> Kick
+170000050 <Untyped Heavy Spear> Ground Slam
+170000050 <Untyped Heavy Spear> Hoarah Loux's Earthshaker
+170000050 <Untyped Heavy Spear> Determination
+170000050 <Untyped Heavy Spear> Royal Knight's Resolve
+170000050 <Untyped Heavy Spear> Cragblade
+170000050 <Untyped Heavy Spear> Barbaric Roar
+170000050 <Untyped Heavy Spear> War Cry
+170000050 <Untyped Heavy Spear> Beast's Roar
+170000050 <Untyped Heavy Spear> Braggart's Roar
+170000050 <Untyped Heavy Spear> Endure
+170000050 <Untyped Heavy Spear> Quickstep
+170000050 <Untyped Heavy Spear> Bloodhound's Step
+170000050 <Untyped Heavy Spear> Raptor of the Mists
+170000100 <Elemental Heavy Spear> Flaming Strike
+170000100 <Elemental Heavy Spear> Flame of the Redmanes
+170000100 <Elemental Heavy Spear> Thunderbolt
+170000100 <Elemental Heavy Spear> Lightning Ram
+170000100 <Elemental Heavy Spear> Sacred Blade
+170000100 <Elemental Heavy Spear> Golden Land
+170000100 <Elemental Heavy Spear> Golden Slam
+170000100 <Elemental Heavy Spear> Golden Vow
+170000100 <Elemental Heavy Spear> Sacred Order
+170000100 <Elemental Heavy Spear> Shared Order
+170000100 <Elemental Heavy Spear> Loretta's Slash
+170000100 <Elemental Heavy Spear> Gravitas
+170000100 <Elemental Heavy Spear> Waves of Darkness
+170000100 <Elemental Heavy Spear> Chilling Mist
+170000100 <Elemental Heavy Spear> Hoarfrost Stomp
+170000100 <Elemental Heavy Spear> Poisonous Mist
+170000100 <Elemental Heavy Spear> White Shadow's Lure
+170000500 <Fire Heavy Spear> Flaming Strike
+170000500 <Fire Heavy Spear> Flame of the Redmanes
+170000600 <Lightning Heavy Spear> Thunderbolt
+170000600 <Lightning Heavy Spear> Lightning Ram
+170000700 <Holy Heavy Spear> Sacred Blade
+170000700 <Holy Heavy Spear> Golden Land
+170000700 <Holy Heavy Spear> Golden Slam
+170000700 <Holy Heavy Spear> Golden Vow
+170000700 <Holy Heavy Spear> Sacred Order
+170000700 <Holy Heavy Spear> Shared Order
+170000800 <Magic Heavy Spear> Loretta's Slash
+170000800 <Magic Heavy Spear> Gravitas
+170000800 <Magic Heavy Spear> Waves of Darkness
+170000900 <Frost Heavy Spear> Chilling Mist
+170000900 <Frost Heavy Spear> Hoarfrost Stomp
+170001000 <Poison Heavy Spear> Poisonous Mist
+170001200 <Shadow Heavy Spear> White Shadow's Lure
+171070000 <Table> Stormcaller
+171070000 <Table> Earthshaker
+171070000 <Table> Storm Stomp
+171070000 <Table> Kick
+171070000 <Table> Ground Slam
+171070000 <Table> Hoarah Loux's Earthshaker
+171070000 <Table> Determination
+171070000 <Table> Royal Knight's Resolve
+171070000 <Table> Cragblade
+171070000 <Table> Barbaric Roar
+171070000 <Table> War Cry
+171070000 <Table> Beast's Roar
+171070000 <Table> Braggart's Roar
+171070000 <Table> Endure
+171070000 <Table> Quickstep
+171070000 <Table> Bloodhound's Step
+171070000 <Table> Raptor of the Mists
+171070000 <Table> Sacred Blade
+171070000 <Table> Golden Land
+171070000 <Table> Golden Slam
+171070000 <Table> Golden Vow
+171070000 <Table> Sacred Order
+171070000 <Table> Shared Order
+171070050 <Table> Stormcaller
+171070050 <Table> Earthshaker
+171070050 <Table> Storm Stomp
+171070050 <Table> Kick
+171070050 <Table> Ground Slam
+171070050 <Table> Hoarah Loux's Earthshaker
+171070050 <Table> Determination
+171070050 <Table> Royal Knight's Resolve
+171070050 <Table> Cragblade
+171070050 <Table> Barbaric Roar
+171070050 <Table> War Cry
+171070050 <Table> Beast's Roar
+171070050 <Table> Braggart's Roar
+171070050 <Table> Endure
+171070050 <Table> Quickstep
+171070050 <Table> Bloodhound's Step
+171070050 <Table> Raptor of the Mists
+171070100 <Table> Sacred Blade
+171070100 <Table> Golden Land
+171070100 <Table> Golden Slam
+171070100 <Table> Golden Vow
+171070100 <Table> Sacred Order
+171070100 <Table> Shared Order
+180000000 <Halberd> Impaling Thrust
+180000000 <Halberd> Piercing Fang
+180000000 <Halberd> Spinning Slash
+180000000 <Halberd> Charge Forth
+180000000 <Halberd> Repeating Thrust
+180000000 <Halberd> Spinning Strikes
+180000000 <Halberd> Double Slash
+180000000 <Halberd> Giant Hunt
+180000000 <Halberd> Storm Assault
+180000000 <Halberd> Stormcaller
+180000000 <Halberd> Sword Dance
+180000000 <Halberd> Phantom Slash
+180000000 <Halberd> Storm Stomp
+180000000 <Halberd> Kick
+180000000 <Halberd> Ground Slam
+180000000 <Halberd> Hoarah Loux's Earthshaker
+180000000 <Halberd> Determination
+180000000 <Halberd> Royal Knight's Resolve
+180000000 <Halberd> Cragblade
+180000000 <Halberd> Barbaric Roar
+180000000 <Halberd> War Cry
+180000000 <Halberd> Beast's Roar
+180000000 <Halberd> Braggart's Roar
+180000000 <Halberd> Endure
+180000000 <Halberd> Quickstep
+180000000 <Halberd> Bloodhound's Step
+180000000 <Halberd> Raptor of the Mists
+180000000 <Halberd> Flaming Strike
+180000000 <Halberd> Flame of the Redmanes
+180000000 <Halberd> Black Flame Tornado
+180000000 <Halberd> Thunderbolt
+180000000 <Halberd> Lightning Ram
+180000000 <Halberd> Sacred Blade
+180000000 <Halberd> Sacred Ring of Light
+180000000 <Halberd> Golden Slam
+180000000 <Halberd> Golden Vow
+180000000 <Halberd> Sacred Order
+180000000 <Halberd> Shared Order
+180000000 <Halberd> Loretta's Slash
+180000000 <Halberd> Spinning Weapon
+180000000 <Halberd> Glintblade Phalanx
+180000000 <Halberd> Glintstone Pebble
+180000000 <Halberd> Gravitas
+180000000 <Halberd> Ice Spear
+180000000 <Halberd> Chilling Mist
+180000000 <Halberd> Hoarfrost Stomp
+180000000 <Halberd> Poisonous Mist
+180000000 <Halberd> Blood Tax
+180000000 <Halberd> Seppuku
+180000000 <Halberd> Spectral Lance
+180000000 <Halberd> White Shadow's Lure
+180000050 <Untyped Halberd> Impaling Thrust
+180000050 <Untyped Halberd> Piercing Fang
+180000050 <Untyped Halberd> Spinning Slash
+180000050 <Untyped Halberd> Charge Forth
+180000050 <Untyped Halberd> Repeating Thrust
+180000050 <Untyped Halberd> Spinning Strikes
+180000050 <Untyped Halberd> Double Slash
+180000050 <Untyped Halberd> Giant Hunt
+180000050 <Untyped Halberd> Storm Assault
+180000050 <Untyped Halberd> Stormcaller
+180000050 <Untyped Halberd> Sword Dance
+180000050 <Untyped Halberd> Phantom Slash
+180000050 <Untyped Halberd> Storm Stomp
+180000050 <Untyped Halberd> Kick
+180000050 <Untyped Halberd> Ground Slam
+180000050 <Untyped Halberd> Hoarah Loux's Earthshaker
+180000050 <Untyped Halberd> Determination
+180000050 <Untyped Halberd> Royal Knight's Resolve
+180000050 <Untyped Halberd> Cragblade
+180000050 <Untyped Halberd> Barbaric Roar
+180000050 <Untyped Halberd> War Cry
+180000050 <Untyped Halberd> Beast's Roar
+180000050 <Untyped Halberd> Braggart's Roar
+180000050 <Untyped Halberd> Endure
+180000050 <Untyped Halberd> Quickstep
+180000050 <Untyped Halberd> Bloodhound's Step
+180000050 <Untyped Halberd> Raptor of the Mists
+180000100 <Elemental Halberd> Flaming Strike
+180000100 <Elemental Halberd> Flame of the Redmanes
+180000100 <Elemental Halberd> Black Flame Tornado
+180000100 <Elemental Halberd> Thunderbolt
+180000100 <Elemental Halberd> Lightning Ram
+180000100 <Elemental Halberd> Sacred Blade
+180000100 <Elemental Halberd> Sacred Ring of Light
+180000100 <Elemental Halberd> Golden Slam
+180000100 <Elemental Halberd> Golden Vow
+180000100 <Elemental Halberd> Sacred Order
+180000100 <Elemental Halberd> Shared Order
+180000100 <Elemental Halberd> Loretta's Slash
+180000100 <Elemental Halberd> Spinning Weapon
+180000100 <Elemental Halberd> Glintblade Phalanx
+180000100 <Elemental Halberd> Glintstone Pebble
+180000100 <Elemental Halberd> Gravitas
+180000100 <Elemental Halberd> Ice Spear
+180000100 <Elemental Halberd> Chilling Mist
+180000100 <Elemental Halberd> Hoarfrost Stomp
+180000100 <Elemental Halberd> Poisonous Mist
+180000100 <Elemental Halberd> Blood Tax
+180000100 <Elemental Halberd> Seppuku
+180000100 <Elemental Halberd> Spectral Lance
+180000100 <Elemental Halberd> White Shadow's Lure
+180000500 <Fire Halberd> Flaming Strike
+180000500 <Fire Halberd> Flame of the Redmanes
+180000500 <Fire Halberd> Black Flame Tornado
+180000600 <Lightning Halberd> Thunderbolt
+180000600 <Lightning Halberd> Lightning Ram
+180000700 <Holy Halberd> Sacred Blade
+180000700 <Holy Halberd> Sacred Ring of Light
+180000700 <Holy Halberd> Golden Slam
+180000700 <Holy Halberd> Golden Vow
+180000700 <Holy Halberd> Sacred Order
+180000700 <Holy Halberd> Shared Order
+180000800 <Magic Halberd> Loretta's Slash
+180000800 <Magic Halberd> Spinning Weapon
+180000800 <Magic Halberd> Glintblade Phalanx
+180000800 <Magic Halberd> Glintstone Pebble
+180000800 <Magic Halberd> Gravitas
+180000900 <Frost Halberd> Ice Spear
+180000900 <Frost Halberd> Chilling Mist
+180000900 <Frost Halberd> Hoarfrost Stomp
+180001000 <Poison Halberd> Poisonous Mist
+180001100 <Blood Halberd> Blood Tax
+180001100 <Blood Halberd> Seppuku
+180001200 <Shadow Halberd> Spectral Lance
+180001200 <Shadow Halberd> White Shadow's Lure
+180600000 <Table> Impaling Thrust
+180600000 <Table> Piercing Fang
+180600000 <Table> Spinning Slash
+180600000 <Table> Charge Forth
+180600000 <Table> Repeating Thrust
+180600000 <Table> Spinning Strikes
+180600000 <Table> Double Slash
+180600000 <Table> Giant Hunt
+180600000 <Table> Storm Assault
+180600000 <Table> Stormcaller
+180600000 <Table> Sword Dance
+180600000 <Table> Phantom Slash
+180600000 <Table> Storm Stomp
+180600000 <Table> Kick
+180600000 <Table> Ground Slam
+180600000 <Table> Hoarah Loux's Earthshaker
+180600000 <Table> Determination
+180600000 <Table> Royal Knight's Resolve
+180600000 <Table> Cragblade
+180600000 <Table> Barbaric Roar
+180600000 <Table> War Cry
+180600000 <Table> Beast's Roar
+180600000 <Table> Braggart's Roar
+180600000 <Table> Endure
+180600000 <Table> Quickstep
+180600000 <Table> Bloodhound's Step
+180600000 <Table> Raptor of the Mists
+181080000 <Table> Impaling Thrust
+181080000 <Table> Piercing Fang
+181080000 <Table> Spinning Slash
+181080000 <Table> Charge Forth
+181080000 <Table> Repeating Thrust
+181080000 <Table> Spinning Strikes
+181080000 <Table> Double Slash
+181080000 <Table> Giant Hunt
+181080000 <Table> Storm Assault
+181080000 <Table> Stormcaller
+181080000 <Table> Sword Dance
+181080000 <Table> Phantom Slash
+181080000 <Table> Storm Stomp
+181080000 <Table> Kick
+181080000 <Table> Ground Slam
+181080000 <Table> Hoarah Loux's Earthshaker
+181080000 <Table> Determination
+181080000 <Table> Royal Knight's Resolve
+181080000 <Table> Cragblade
+181080000 <Table> Barbaric Roar
+181080000 <Table> War Cry
+181080000 <Table> Beast's Roar
+181080000 <Table> Braggart's Roar
+181080000 <Table> Endure
+181080000 <Table> Quickstep
+181080000 <Table> Bloodhound's Step
+181080000 <Table> Raptor of the Mists
+181080000 <Table> Sacred Blade
+181080000 <Table> Sacred Ring of Light
+181080000 <Table> Golden Slam
+181080000 <Table> Golden Vow
+181080000 <Table> Sacred Order
+181080000 <Table> Shared Order
+181080050 <Table> Impaling Thrust
+181080050 <Table> Piercing Fang
+181080050 <Table> Spinning Slash
+181080050 <Table> Charge Forth
+181080050 <Table> Repeating Thrust
+181080050 <Table> Spinning Strikes
+181080050 <Table> Double Slash
+181080050 <Table> Giant Hunt
+181080050 <Table> Storm Assault
+181080050 <Table> Stormcaller
+181080050 <Table> Sword Dance
+181080050 <Table> Phantom Slash
+181080050 <Table> Storm Stomp
+181080050 <Table> Kick
+181080050 <Table> Ground Slam
+181080050 <Table> Hoarah Loux's Earthshaker
+181080050 <Table> Determination
+181080050 <Table> Royal Knight's Resolve
+181080050 <Table> Cragblade
+181080050 <Table> Barbaric Roar
+181080050 <Table> War Cry
+181080050 <Table> Beast's Roar
+181080050 <Table> Braggart's Roar
+181080050 <Table> Endure
+181080050 <Table> Quickstep
+181080050 <Table> Bloodhound's Step
+181080050 <Table> Raptor of the Mists
+181080100 <Table> Sacred Blade
+181080100 <Table> Sacred Ring of Light
+181080100 <Table> Golden Slam
+181080100 <Table> Golden Vow
+181080100 <Table> Sacred Order
+181080100 <Table> Shared Order
+181600000 <Table> Impaling Thrust
+181600000 <Table> Piercing Fang
+181600000 <Table> Spinning Slash
+181600000 <Table> Charge Forth
+181600000 <Table> Repeating Thrust
+181600000 <Table> Spinning Strikes
+181600000 <Table> Double Slash
+181600000 <Table> Giant Hunt
+181600000 <Table> Storm Assault
+181600000 <Table> Stormcaller
+181600000 <Table> Sword Dance
+181600000 <Table> Phantom Slash
+181600000 <Table> Storm Stomp
+181600000 <Table> Kick
+181600000 <Table> Ground Slam
+181600000 <Table> Hoarah Loux's Earthshaker
+181600000 <Table> Determination
+181600000 <Table> Royal Knight's Resolve
+181600000 <Table> Cragblade
+181600000 <Table> Barbaric Roar
+181600000 <Table> War Cry
+181600000 <Table> Beast's Roar
+181600000 <Table> Braggart's Roar
+181600000 <Table> Endure
+181600000 <Table> Quickstep
+181600000 <Table> Bloodhound's Step
+181600000 <Table> Raptor of the Mists
+181600000 <Table> Sacred Blade
+181600000 <Table> Sacred Ring of Light
+181600000 <Table> Golden Slam
+181600000 <Table> Golden Vow
+181600000 <Table> Sacred Order
+181600000 <Table> Shared Order
+181600050 <Table> Impaling Thrust
+181600050 <Table> Piercing Fang
+181600050 <Table> Spinning Slash
+181600050 <Table> Charge Forth
+181600050 <Table> Repeating Thrust
+181600050 <Table> Spinning Strikes
+181600050 <Table> Double Slash
+181600050 <Table> Giant Hunt
+181600050 <Table> Storm Assault
+181600050 <Table> Stormcaller
+181600050 <Table> Sword Dance
+181600050 <Table> Phantom Slash
+181600050 <Table> Storm Stomp
+181600050 <Table> Kick
+181600050 <Table> Ground Slam
+181600050 <Table> Hoarah Loux's Earthshaker
+181600050 <Table> Determination
+181600050 <Table> Royal Knight's Resolve
+181600050 <Table> Cragblade
+181600050 <Table> Barbaric Roar
+181600050 <Table> War Cry
+181600050 <Table> Beast's Roar
+181600050 <Table> Braggart's Roar
+181600050 <Table> Endure
+181600050 <Table> Quickstep
+181600050 <Table> Bloodhound's Step
+181600050 <Table> Raptor of the Mists
+181600700 <Table> Sacred Blade
+181600700 <Table> Sacred Ring of Light
+181600700 <Table> Golden Slam
+181600700 <Table> Golden Vow
+181600700 <Table> Sacred Order
+181600700 <Table> Shared Order
+190000000 <Scythe> Spinning Slash
+190000000 <Scythe> Spinning Strikes
+190000000 <Scythe> Stormcaller
+190000000 <Scythe> Storm Stomp
+190000000 <Scythe> Kick
+190000000 <Scythe> Ground Slam
+190000000 <Scythe> Determination
+190000000 <Scythe> Royal Knight's Resolve
+190000000 <Scythe> Cragblade
+190000000 <Scythe> Barbaric Roar
+190000000 <Scythe> War Cry
+190000000 <Scythe> Endure
+190000000 <Scythe> Quickstep
+190000000 <Scythe> Bloodhound's Step
+190000000 <Scythe> Raptor of the Mists
+190000000 <Scythe> Double Slash
+190000000 <Scythe> Black Flame Tornado
+190000000 <Scythe> Flame of the Redmanes
+190000000 <Scythe> Thunderbolt
+190000000 <Scythe> Lightning Ram
+190000000 <Scythe> Sacred Blade
+190000000 <Scythe> Sacred Ring of Light
+190000000 <Scythe> Golden Slam
+190000000 <Scythe> Golden Vow
+190000000 <Scythe> Sacred Order
+190000000 <Scythe> Shared Order
+190000000 <Scythe> Spinning Weapon
+190000000 <Scythe> Gravitas
+190000000 <Scythe> Chilling Mist
+190000000 <Scythe> Hoarfrost Stomp
+190000000 <Scythe> Poisonous Mist
+190000050 <Untyped Scythe> Spinning Slash
+190000050 <Untyped Scythe> Spinning Strikes
+190000050 <Untyped Scythe> Double Slash
+190000050 <Untyped Scythe> Stormcaller
+190000050 <Untyped Scythe> Storm Stomp
+190000050 <Untyped Scythe> Kick
+190000050 <Untyped Scythe> Ground Slam
+190000050 <Untyped Scythe> Determination
+190000050 <Untyped Scythe> Royal Knight's Resolve
+190000050 <Untyped Scythe> Cragblade
+190000050 <Untyped Scythe> Barbaric Roar
+190000050 <Untyped Scythe> War Cry
+190000050 <Untyped Scythe> Endure
+190000050 <Untyped Scythe> Quickstep
+190000050 <Untyped Scythe> Bloodhound's Step
+190000050 <Untyped Scythe> Raptor of the Mists
+190000100 <Elemental Scythe> Black Flame Tornado
+190000100 <Elemental Scythe> Flame of the Redmanes
+190000100 <Elemental Scythe> Thunderbolt
+190000100 <Elemental Scythe> Lightning Ram
+190000100 <Elemental Scythe> Sacred Blade
+190000100 <Elemental Scythe> Sacred Ring of Light
+190000100 <Elemental Scythe> Golden Slam
+190000100 <Elemental Scythe> Golden Vow
+190000100 <Elemental Scythe> Sacred Order
+190000100 <Elemental Scythe> Shared Order
+190000100 <Elemental Scythe> Loretta's Slash
+190000100 <Elemental Scythe> Spinning Weapon
+190000100 <Elemental Scythe> Gravitas
+190000100 <Elemental Scythe> Chilling Mist
+190000100 <Elemental Scythe> Hoarfrost Stomp
+190000100 <Elemental Scythe> Poisonous Mist
+190000500 <Fire Scythe> Black Flame Tornado
+190000500 <Fire Scythe> Flame of the Redmanes
+190000600 <Lightning Scythe> Thunderbolt
+190000600 <Lightning Scythe> Lightning Ram
+190000700 <Holy Scythe> Sacred Blade
+190000700 <Holy Scythe> Sacred Ring of Light
+190000700 <Holy Scythe> Golden Slam
+190000700 <Holy Scythe> Golden Vow
+190000700 <Holy Scythe> Sacred Order
+190000700 <Holy Scythe> Shared Order
+190000800 <Magic Scythe> Loretta's Slash
+190000800 <Magic Scythe> Spinning Weapon
+190000800 <Magic Scythe> Gravitas
+190000900 <Frost Scythe> Chilling Mist
+190000900 <Frost Scythe> Hoarfrost Stomp
+190001000 <Poison Scythe> Poisonous Mist
+200000000 <Whip> Storm Stomp
+200000000 <Whip> Kick
+200000000 <Whip> Ground Slam
+200000000 <Whip> Hoarah Loux's Earthshaker
+200000000 <Whip> Determination
+200000000 <Whip> Royal Knight's Resolve
+200000000 <Whip> Beast's Roar
+200000000 <Whip> Endure
+200000000 <Whip> Quickstep
+200000000 <Whip> Bloodhound's Step
+200000000 <Whip> Raptor of the Mists
+200000000 <Whip> Flame of the Redmanes
+200000000 <Whip> Thunderbolt
+200000000 <Whip> Lightning Ram
+200000000 <Whip> Golden Slam
+200000000 <Whip> Golden Vow
+200000000 <Whip> Sacred Order
+200000000 <Whip> Shared Order
+200000000 <Whip> Hoarfrost Stomp
+200000000 <Whip> White Shadow's Lure
+200000050 <Untyped Whip> Storm Stomp
+200000050 <Untyped Whip> Kick
+200000050 <Untyped Whip> Ground Slam
+200000050 <Untyped Whip> Hoarah Loux's Earthshaker
+200000050 <Untyped Whip> Determination
+200000050 <Untyped Whip> Royal Knight's Resolve
+200000050 <Untyped Whip> Beast's Roar
+200000050 <Untyped Whip> Endure
+200000050 <Untyped Whip> Quickstep
+200000050 <Untyped Whip> Bloodhound's Step
+200000050 <Untyped Whip> Raptor of the Mists
+200000100 <Elemental Whip> Flame of the Redmanes
+200000100 <Elemental Whip> Thunderbolt
+200000100 <Elemental Whip> Lightning Ram
+200000100 <Elemental Whip> Golden Slam
+200000100 <Elemental Whip> Golden Vow
+200000100 <Elemental Whip> Sacred Order
+200000100 <Elemental Whip> Shared Order
+200000100 <Elemental Whip> Hoarfrost Stomp
+200000100 <Elemental Whip> White Shadow's Lure
+200000500 <Fire Whip> Flame of the Redmanes
+200000600 <Lightning Whip> Thunderbolt
+200000600 <Lightning Whip> Lightning Ram
+200000700 <Holy Whip> Golden Slam
+200000700 <Holy Whip> Golden Vow
+200000700 <Holy Whip> Sacred Order
+200000700 <Holy Whip> Shared Order
+200000900 <Frost Whip> Hoarfrost Stomp
+200001200 <Shadow Whip> White Shadow's Lure
+201050000 <Table> Storm Stomp
+201050000 <Table> Kick
+201050000 <Table> Ground Slam
+201050000 <Table> Hoarah Loux's Earthshaker
+201050000 <Table> Determination
+201050000 <Table> Royal Knight's Resolve
+201050000 <Table> Beast's Roar
+201050000 <Table> Endure
+201050000 <Table> Quickstep
+201050000 <Table> Bloodhound's Step
+201050000 <Table> Raptor of the Mists
+210000000 <Fist> Parry
+210000000 <Fist> Storm Stomp
+210000000 <Fist> Kick
+210000000 <Fist> Ground Slam
+210000000 <Fist> Determination
+210000000 <Fist> Royal Knight's Resolve
+210000000 <Fist> Cragblade
+210000000 <Fist> Barbaric Roar
+210000000 <Fist> War Cry
+210000000 <Fist> Endure
+210000000 <Fist> Quickstep
+210000000 <Fist> Bloodhound's Step
+210000000 <Fist> Raptor of the Mists
+210000000 <Fist> Flame of the Redmanes
+210000000 <Fist> Thunderbolt
+210000000 <Fist> Lightning Ram
+210000000 <Fist> Golden Slam
+210000000 <Fist> Golden Vow
+210000000 <Fist> Sacred Order
+210000000 <Fist> Shared Order
+210000000 <Fist> Hoarfrost Stomp
+210000000 <Fist> Lifesteal Fist
+210000050 <Untyped Fist> Parry
+210000050 <Untyped Fist> Storm Stomp
+210000050 <Untyped Fist> Kick
+210000050 <Untyped Fist> Ground Slam
+210000050 <Untyped Fist> Determination
+210000050 <Untyped Fist> Royal Knight's Resolve
+210000050 <Untyped Fist> Cragblade
+210000050 <Untyped Fist> Barbaric Roar
+210000050 <Untyped Fist> War Cry
+210000050 <Untyped Fist> Endure
+210000050 <Untyped Fist> Quickstep
+210000050 <Untyped Fist> Bloodhound's Step
+210000050 <Untyped Fist> Raptor of the Mists
+210000100 <Elemental Fist> Flame of the Redmanes
+210000100 <Elemental Fist> Thunderbolt
+210000100 <Elemental Fist> Lightning Ram
+210000100 <Elemental Fist> Golden Slam
+210000100 <Elemental Fist> Golden Vow
+210000100 <Elemental Fist> Sacred Order
+210000100 <Elemental Fist> Shared Order
+210000100 <Elemental Fist> Hoarfrost Stomp
+210000100 <Elemental Fist> Lifesteal Fist
+210000500 <Fire Fist> Flame of the Redmanes
+210000600 <Lightning Fist> Thunderbolt
+210000600 <Lightning Fist> Lightning Ram
+210000700 <Holy Fist> Golden Slam
+210000700 <Holy Fist> Golden Vow
+210000700 <Holy Fist> Sacred Order
+210000700 <Holy Fist> Shared Order
+210000900 <Frost Fist> Hoarfrost Stomp
+210001100 <Blood Fist> Lifesteal Fist
+220000000 <Claw> Parry
+220000000 <Claw> Storm Stomp
+220000000 <Claw> Kick
+220000000 <Claw> Ground Slam
+220000000 <Claw> Determination
+220000000 <Claw> Royal Knight's Resolve
+220000000 <Claw> Cragblade
+220000000 <Claw> Barbaric Roar
+220000000 <Claw> War Cry
+220000000 <Claw> Endure
+220000000 <Claw> Quickstep
+220000000 <Claw> Bloodhound's Step
+220000000 <Claw> Raptor of the Mists
+220000000 <Claw> Flame of the Redmanes
+220000000 <Claw> Thunderbolt
+220000000 <Claw> Lightning Ram
+220000000 <Claw> Golden Slam
+220000000 <Claw> Golden Vow
+220000000 <Claw> Sacred Order
+220000000 <Claw> Shared Order
+220000000 <Claw> Hoarfrost Stomp
+220000000 <Claw> Lifesteal Fist
+220000050 <Untyped Claw> Parry
+220000050 <Untyped Claw> Storm Stomp
+220000050 <Untyped Claw> Kick
+220000050 <Untyped Claw> Ground Slam
+220000050 <Untyped Claw> Determination
+220000050 <Untyped Claw> Royal Knight's Resolve
+220000050 <Untyped Claw> Cragblade
+220000050 <Untyped Claw> Barbaric Roar
+220000050 <Untyped Claw> War Cry
+220000050 <Untyped Claw> Endure
+220000050 <Untyped Claw> Quickstep
+220000050 <Untyped Claw> Bloodhound's Step
+220000050 <Untyped Claw> Raptor of the Mists
+220000100 <Elemental Claw> Flame of the Redmanes
+220000100 <Elemental Claw> Thunderbolt
+220000100 <Elemental Claw> Lightning Ram
+220000100 <Elemental Claw> Golden Slam
+220000100 <Elemental Claw> Golden Vow
+220000100 <Elemental Claw> Sacred Order
+220000100 <Elemental Claw> Shared Order
+220000100 <Elemental Claw> Hoarfrost Stomp
+220000100 <Elemental Claw> Lifesteal Fist
+220000500 <Fire Claw> Flame of the Redmanes
+220000600 <Lightning Claw> Thunderbolt
+220000600 <Lightning Claw> Lightning Ram
+220000700 <Holy Claw> Golden Slam
+220000700 <Holy Claw> Golden Vow
+220000700 <Holy Claw> Sacred Order
+220000700 <Holy Claw> Shared Order
+220000900 <Frost Claw> Hoarfrost Stomp
+220001100 <Blood Claw> Lifesteal Fist
+230000000 <Colossal Weapon> Lion's Claw
+230000000 <Colossal Weapon> Stamp (Upward Cut)
+230000000 <Colossal Weapon> Stamp (Sweep)
+230000000 <Colossal Weapon> Earthshaker
+230000000 <Colossal Weapon> Storm Stomp
+230000000 <Colossal Weapon> Kick
+230000000 <Colossal Weapon> Ground Slam
+230000000 <Colossal Weapon> Hoarah Loux's Earthshaker
+230000000 <Colossal Weapon> Determination
+230000000 <Colossal Weapon> Royal Knight's Resolve
+230000000 <Colossal Weapon> Cragblade
+230000000 <Colossal Weapon> Barbaric Roar
+230000000 <Colossal Weapon> War Cry
+230000000 <Colossal Weapon> Beast's Roar
+230000000 <Colossal Weapon> Troll's Roar
+230000000 <Colossal Weapon> Braggart's Roar
+230000000 <Colossal Weapon> Endure
+230000000 <Colossal Weapon> Quickstep
+230000000 <Colossal Weapon> Bloodhound's Step
+230000000 <Colossal Weapon> Raptor of the Mists
+230000000 <Colossal Weapon> Eruption
+230000000 <Colossal Weapon> Flame of the Redmanes
+230000000 <Colossal Weapon> Prelate's Charge
+230000000 <Colossal Weapon> Thunderbolt
+230000000 <Colossal Weapon> Lightning Slash
+230000000 <Colossal Weapon> Lightning Ram
+230000000 <Colossal Weapon> Sacred Blade
+230000000 <Colossal Weapon> Prayerful Strike
+230000000 <Colossal Weapon> Golden Land
+230000000 <Colossal Weapon> Golden Slam
+230000000 <Colossal Weapon> Golden Vow
+230000000 <Colossal Weapon> Sacred Order
+230000000 <Colossal Weapon> Shared Order
+230000000 <Colossal Weapon> Gravitas
+230000000 <Colossal Weapon> Waves of Darkness
+230000000 <Colossal Weapon> Chilling Mist
+230000000 <Colossal Weapon> Hoarfrost Stomp
+230000000 <Colossal Weapon> Poisonous Mist
+230000000 <Colossal Weapon> White Shadow's Lure
+230000050 <Untyped Colossal Weapon> Lion's Claw
+230000050 <Untyped Colossal Weapon> Stamp (Upward Cut)
+230000050 <Untyped Colossal Weapon> Stamp (Sweep)
+230000050 <Untyped Colossal Weapon> Earthshaker
+230000050 <Untyped Colossal Weapon> Storm Stomp
+230000050 <Untyped Colossal Weapon> Kick
+230000050 <Untyped Colossal Weapon> Ground Slam
+230000050 <Untyped Colossal Weapon> Hoarah Loux's Earthshaker
+230000050 <Untyped Colossal Weapon> Determination
+230000050 <Untyped Colossal Weapon> Royal Knight's Resolve
+230000050 <Untyped Colossal Weapon> Cragblade
+230000050 <Untyped Colossal Weapon> Barbaric Roar
+230000050 <Untyped Colossal Weapon> War Cry
+230000050 <Untyped Colossal Weapon> Beast's Roar
+230000050 <Untyped Colossal Weapon> Troll's Roar
+230000050 <Untyped Colossal Weapon> Braggart's Roar
+230000050 <Untyped Colossal Weapon> Endure
+230000050 <Untyped Colossal Weapon> Quickstep
+230000050 <Untyped Colossal Weapon> Bloodhound's Step
+230000050 <Untyped Colossal Weapon> Raptor of the Mists
+230000100 <Elemental Colossal Weapon> Eruption
+230000100 <Elemental Colossal Weapon> Flame of the Redmanes
+230000100 <Elemental Colossal Weapon> Prelate's Charge
+230000100 <Elemental Colossal Weapon> Thunderbolt
+230000100 <Elemental Colossal Weapon> Lightning Slash
+230000100 <Elemental Colossal Weapon> Lightning Ram
+230000100 <Elemental Colossal Weapon> Sacred Blade
+230000100 <Elemental Colossal Weapon> Prayerful Strike
+230000100 <Elemental Colossal Weapon> Golden Land
+230000100 <Elemental Colossal Weapon> Golden Slam
+230000100 <Elemental Colossal Weapon> Golden Vow
+230000100 <Elemental Colossal Weapon> Sacred Order
+230000100 <Elemental Colossal Weapon> Shared Order
+230000100 <Elemental Colossal Weapon> Gravitas
+230000100 <Elemental Colossal Weapon> Waves of Darkness
+230000100 <Elemental Colossal Weapon> Chilling Mist
+230000100 <Elemental Colossal Weapon> Hoarfrost Stomp
+230000100 <Elemental Colossal Weapon> Poisonous Mist
+230000100 <Elemental Colossal Weapon> White Shadow's Lure
+230000500 <Fire Colossal Weapon> Eruption
+230000500 <Fire Colossal Weapon> Flame of the Redmanes
+230000500 <Fire Colossal Weapon> Prelate's Charge
+230000600 <Lightning Colossal Weapon> Thunderbolt
+230000600 <Lightning Colossal Weapon> Lightning Slash
+230000600 <Lightning Colossal Weapon> Lightning Ram
+230000700 <Holy Colossal Weapon> Sacred Blade
+230000700 <Holy Colossal Weapon> Prayerful Strike
+230000700 <Holy Colossal Weapon> Golden Land
+230000700 <Holy Colossal Weapon> Golden Slam
+230000700 <Holy Colossal Weapon> Golden Vow
+230000700 <Holy Colossal Weapon> Sacred Order
+230000700 <Holy Colossal Weapon> Shared Order
+230000800 <Magic Colossal Weapon> Gravitas
+230000800 <Magic Colossal Weapon> Waves of Darkness
+230000900 <Frost Colossal Weapon> Chilling Mist
+230000900 <Frost Colossal Weapon> Hoarfrost Stomp
+230001000 <Poison Colossal Weapon> Poisonous Mist
+230001200 <Shadow Colossal Weapon> White Shadow's Lure
+230060000 <Table> Lion's Claw
+230060000 <Table> Stamp (Upward Cut)
+230060000 <Table> Stamp (Sweep)
+230060000 <Table> Earthshaker
+230060000 <Table> Storm Stomp
+230060000 <Table> Kick
+230060000 <Table> Ground Slam
+230060000 <Table> Hoarah Loux's Earthshaker
+230060000 <Table> Determination
+230060000 <Table> Royal Knight's Resolve
+230060000 <Table> Cragblade
+230060000 <Table> Barbaric Roar
+230060000 <Table> War Cry
+230060000 <Table> Beast's Roar
+230060000 <Table> Troll's Roar
+230060000 <Table> Braggart's Roar
+230060000 <Table> Endure
+230060000 <Table> Quickstep
+230060000 <Table> Bloodhound's Step
+230060000 <Table> Raptor of the Mists
+230060000 <Table> Thunderbolt
+230060000 <Table> Lightning Slash
+230060000 <Table> Lightning Ram
+230060050 <Table> Lion's Claw
+230060050 <Table> Stamp (Upward Cut)
+230060050 <Table> Stamp (Sweep)
+230060050 <Table> Earthshaker
+230060050 <Table> Storm Stomp
+230060050 <Table> Kick
+230060050 <Table> Ground Slam
+230060050 <Table> Hoarah Loux's Earthshaker
+230060050 <Table> Determination
+230060050 <Table> Royal Knight's Resolve
+230060050 <Table> Cragblade
+230060050 <Table> Barbaric Roar
+230060050 <Table> War Cry
+230060050 <Table> Beast's Roar
+230060050 <Table> Troll's Roar
+230060050 <Table> Braggart's Roar
+230060050 <Table> Endure
+230060050 <Table> Quickstep
+230060050 <Table> Bloodhound's Step
+230060050 <Table> Raptor of the Mists
+230060600 <Table> Thunderbolt
+230060600 <Table> Lightning Slash
+230060600 <Table> Lightning Ram
+231300000 <Table> Lion's Claw
+231300000 <Table> Stamp (Upward Cut)
+231300000 <Table> Stamp (Sweep)
+231300000 <Table> Earthshaker
+231300000 <Table> Storm Stomp
+231300000 <Table> Kick
+231300000 <Table> Ground Slam
+231300000 <Table> Hoarah Loux's Earthshaker
+231300000 <Table> Determination
+231300000 <Table> Royal Knight's Resolve
+231300000 <Table> Cragblade
+231300000 <Table> Barbaric Roar
+231300000 <Table> War Cry
+231300000 <Table> Beast's Roar
+231300000 <Table> Troll's Roar
+231300000 <Table> Braggart's Roar
+231300000 <Table> Endure
+231300000 <Table> Quickstep
+231300000 <Table> Bloodhound's Step
+231300000 <Table> Raptor of the Mists
+231300000 <Table> Eruption
+231300000 <Table> Flame of the Redmanes
+231300000 <Table> Prelate's Charge
+231300050 <Table> Lion's Claw
+231300050 <Table> Stamp (Upward Cut)
+231300050 <Table> Stamp (Sweep)
+231300050 <Table> Earthshaker
+231300050 <Table> Storm Stomp
+231300050 <Table> Kick
+231300050 <Table> Ground Slam
+231300050 <Table> Hoarah Loux's Earthshaker
+231300050 <Table> Determination
+231300050 <Table> Royal Knight's Resolve
+231300050 <Table> Cragblade
+231300050 <Table> Barbaric Roar
+231300050 <Table> War Cry
+231300050 <Table> Beast's Roar
+231300050 <Table> Troll's Roar
+231300050 <Table> Braggart's Roar
+231300050 <Table> Endure
+231300050 <Table> Quickstep
+231300050 <Table> Bloodhound's Step
+231300050 <Table> Raptor of the Mists
+231300500 <Table> Eruption
+231300500 <Table> Flame of the Redmanes
+231300500 <Table> Prelate's Charge
+240000000 <Torch> No Skill
+240000000 <Torch> Torch Attack
+300000000 <Small Shield> No Skill
+300000000 <Small Shield> Shield Bash
+300000000 <Small Shield> Barricade Shield
+300000000 <Small Shield> Parry
+300000000 <Small Shield> Storm Wall
+300000000 <Small Shield> Shield Crash
+300000000 <Small Shield> Buckler Parry
+300000000 <Small Shield> Golden Parry
+300000000 <Small Shield> Vow of the Indomitable
+300000000 <Small Shield> Holy Ground
+300000000 <Small Shield> Carian Retaliation
+300000000 <Small Shield> Thops's Barrier
+300000050 <Untyped Small Shield> No Skill
+300000050 <Untyped Small Shield> Shield Bash
+300000050 <Untyped Small Shield> Barricade Shield
+300000050 <Untyped Small Shield> Parry
+300000050 <Untyped Small Shield> Storm Wall
+300000050 <Untyped Small Shield> Shield Crash
+300000050 <Untyped Small Shield> Buckler Parry
+300000100 <Elemental Small Shield> Golden Parry
+300000100 <Elemental Small Shield> Vow of the Indomitable
+300000100 <Elemental Small Shield> Holy Ground
+300000100 <Elemental Small Shield> Carian Retaliation
+300000100 <Elemental Small Shield> Thops's Barrier
+300000700 <Holy Small Shield> Golden Parry
+300000700 <Holy Small Shield> Vow of the Indomitable
+300000700 <Holy Small Shield> Holy Ground
+300000800 <Magic Small Shield> Carian Retaliation
+300000800 <Magic Small Shield> Thops's Barrier
+301150000 <Table> No Skill
+301150000 <Table> Shield Bash
+301150000 <Table> Barricade Shield
+301150000 <Table> Parry
+301150000 <Table> Storm Wall
+301150000 <Table> Shield Crash
+301150000 <Table> Buckler Parry
+310000000 <Medium Shield> No Skill
+310000000 <Medium Shield> Shield Bash
+310000000 <Medium Shield> Barricade Shield
+310000000 <Medium Shield> Parry
+310000000 <Medium Shield> Storm Wall
+310000000 <Medium Shield> Shield Crash
+310000000 <Medium Shield> Golden Parry
+310000000 <Medium Shield> Vow of the Indomitable
+310000000 <Medium Shield> Holy Ground
+310000000 <Medium Shield> Carian Retaliation
+310000000 <Medium Shield> Thops's Barrier
+310000050 <Untyped Medium Shield> No Skill
+310000050 <Untyped Medium Shield> Shield Bash
+310000050 <Untyped Medium Shield> Barricade Shield
+310000050 <Untyped Medium Shield> Parry
+310000050 <Untyped Medium Shield> Storm Wall
+310000050 <Untyped Medium Shield> Shield Crash
+310000100 <Elemental Medium Shield> Golden Parry
+310000100 <Elemental Medium Shield> Vow of the Indomitable
+310000100 <Elemental Medium Shield> Holy Ground
+310000100 <Elemental Medium Shield> Carian Retaliation
+310000100 <Elemental Medium Shield> Thops's Barrier
+310000700 <Holy Medium Shield> Golden Parry
+310000700 <Holy Medium Shield> Vow of the Indomitable
+310000700 <Holy Medium Shield> Holy Ground
+310000800 <Magic Medium Shield> Carian Retaliation
+310000800 <Magic Medium Shield> Thops's Barrier
+311060000 <Table> No Skill
+311060000 <Table> Shield Bash
+311060000 <Table> Barricade Shield
+311060000 <Table> Parry
+311060000 <Table> Storm Wall
+311060000 <Table> Shield Crash
+311060000 <Table> Carian Retaliation
+311060000 <Table> Thops's Barrier
+311060050 <Table> No Skill
+311060050 <Table> Shield Bash
+311060050 <Table> Barricade Shield
+311060050 <Table> Parry
+311060050 <Table> Storm Wall
+311060050 <Table> Shield Crash
+311060100 <Table> Carian Retaliation
+311060100 <Table> Thops's Barrier
+320000000 <Greatshield> No Skill
+320000000 <Greatshield> Shield Bash
+320000000 <Greatshield> Barricade Shield
+320000000 <Greatshield> Shield Crash
+320000000 <Greatshield> Vow of the Indomitable
+320000000 <Greatshield> Holy Ground
+320000050 <Untyped Greatshield> No Skill
+320000050 <Untyped Greatshield> Shield Bash
+320000050 <Untyped Greatshield> Barricade Shield
+320000050 <Untyped Greatshield> Shield Crash
+320000100 <Elemental Greatshield> Vow of the Indomitable
+320000100 <Elemental Greatshield> Holy Ground
+321040000 <Table> No Skill
+321040000 <Table> Shield Bash
+321040000 <Table> Barricade Shield
+321040000 <Table> Shield Crash
+321040000 <Table> Vow of the Indomitable
+321040000 <Table> Holy Ground
+321040050 <Table> No Skill
+321040050 <Table> Shield Bash
+321040050 <Table> Barricade Shield
+321040050 <Table> Shield Crash
+321040100 <Table> Vow of the Indomitable
+321040100 <Table> Holy Ground
+410000000 <Bow> Barrage
+410000000 <Bow> Mighty Shot
+410000000 <Bow> Enchanted Shot
+410000000 <Bow> Sky Shot
+410000000 <Bow> Rain of Arrows
+420000000 <Greatbow> Radahn's Rain
+420100000 <Table> Through and Through
+420100000 <Table> Rain of Arrows
+430000000 <Crossbow> Kick
+440000000 <Ballista> Kick
+999999999 (0% weight)

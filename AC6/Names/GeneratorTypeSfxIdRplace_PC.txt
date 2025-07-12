@@ -21,10 +21,10 @@
 990050 Primal Armor main body -- プライマルアーマー　本体
 990051 Primal Armor Omen -- プライマルアーマー　予兆
 990055 Primal armor deployment -- プライマルアーマー　展開
-990080 Installed PA activation -- 設置PA　発動
-990081 Installation PA loop -- 設置PA　ループ
-990082 Installed PA Destroyed -- 設置PA　破壊時
-990083 Installed PA Disappears over time -- 設置PA　時間経過消滅
+990080 TOYBOX MT / Quadcopter Drone
+990081 TOYBOX MT / Quadcopter Drone
+990082 TOYBOX MT / Quadcopter Drone
+990083 TOYBOX MT / Quadcopter Drone
 990800 Core back deployment gimmick spark -- コア背中の展開ギミックスパーク
 7000120 Small particles blown out from the main booster Normally -- メインブースターから吹きだす、わずかな粒子 通常
 7300053 The blink of a boost that became a PC light point -- PC 光点となったブーストの瞬き
