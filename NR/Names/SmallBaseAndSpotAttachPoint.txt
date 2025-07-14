@@ -1,0 +1,232 @@
+100 Major Base - Gatefront
+101 Major Base - Groveside
+103 Major Base - Northwest Stormhill
+104 Major Base - South Lake
+106 Major Base - Alexander Spot
+107 Major Base - Northeast Stormhill
+108 Major Base - Waypoint Ruins
+109 Major Base - West Mistwood
+110 Major Base - Artist's Shack
+111 Major Base - Northwest Mistwood
+112 Major Base - Summonwater Approach
+113 Major Base - South Mistwood
+114 Major Base - Minor Erdtree
+116 Major Base - Northeast Mistwood
+117 Major Base - Summonwater
+120 Major Base - Stormhill North of Gate
+121 Starter Major Base - Groveside
+122 Starter Major Base - Gatefront
+123 Starter Major Base - Stormhill North of Gate
+124 Starter Major Base - Stormhill North of Gate Alt
+125 Starter Major Base - Waypoint Ruins
+126 Starter Major Base - Waypoint Ruins Alt
+127 Starter Major Base - Summonwater Approach
+128 Starter Major Base - Minor Erdtree
+129 Starter Major Base - Northwest Mistwood
+190 Castle - Castle
+300 Minor Base - Far Southwest
+301 Minor Base - Stormhill South of Gate
+302 Minor Base - West of Warmaster's Shack
+305 Minor Base - Lake
+306 Minor Base - Above Stormhill Tunnel Entrance
+307 Minor Base - Southeast of Lake
+308 Minor Base - East of Cavalry Bridge
+309 Rotted Woods - Center West
+310 Minor Base - Northeast of Saintsbridge
+312 Minor Base - Minor Erdtree
+313 Minor Base - Third Church
+314 Minor Base - Below Summonwater Hawk
+315 Rotted Woods - Southwest
+316 Rotted Woods - Northwest
+317 Rotted Woods - Far Northwest
+318 Rotted Woods - Center East
+319 Rotted Woods - Far Northeast
+320 Rotted Woods - Northeast
+321 Minor Base - Rotted Church
+322 Rotted Woods - Southeast
+350 Starter Minor Base - Far Southwest
+351 Starter Minor Base - Stormhill South of Gate
+352 Starter Minor Base - West of Warmaster's Shack
+356 Starter Minor Base - Above Stormhill Tunnel Entrance
+357 Starter Minor Base - Southeast of Lake
+358 Starter Minor Base - East of Cavalry Bridge
+360 Starter Minor Base - Northeast of Saintsbridge
+362 Starter Minor Base - Minor Erdtree
+364 Starter Minor Base - Below Summonwater Hawk
+500 Night Boss - Southwest Corner
+502 Night Boss - West Stormhill Graveyard
+503 Night Boss - South Lake
+504 Night Boss - Northwest Lake
+505 Night Boss - South of Castle
+506 Night Boss - Northwest of Castle
+507 Night Boss - Northeast of Lake
+509 Night Boss - East of Saintsbridge
+510 Night Boss - Noklateo Entrance
+511 Night Boss - Northeast Corner
+512 Night Boss - Southwest Mistwood
+513 Night Boss - Northwest Mistwood Pond
+514 Night Boss - Southeast Rotted Woods
+515 Night Boss - Northwest Rotted Woods
+516 Night Boss - Southeast Mountaintop
+517 Night Boss - North of Crater
+518 Night Boss - Northwest Corner
+520 Event - Gnoster, Southwest Corner
+521 Event - Gnoster, West Stormhill Graveyard
+522 Event - Gnoster, Southeast Lake
+523 Event - Gnoster, Northwest Lake
+524 Event - Gnoster, South of Castle
+525 Event - Gnoster, Northwest of Castle
+526 Event - Gnoster, Castle Front
+527 Event - Gnoster, East of Saintsbridge
+528 Event - Gnoster, Northeast Corner
+529 Event - Gnoster, Southwest Mistwood
+530 Event - Gnoster, Northwest Mistwood
+532 Event - Gnoster, Northwest Rotted Woods
+533 Event - Gnoster, Southeast Mountaintop
+534 Event - Gnoster, North of Crater
+535 Event - Gnoster, East of Noklateo Entrance
+536 Event - Gnoster, Noklateo Entrance
+540 Event - Morgott, Southwest Corner
+541 Event - Morgott, West Stormhill Graveyard
+542 Event - Morgott, Southeast Lake
+543 Event - Morgott, Northwest Lake
+544 Event - Morgott, South of Castle
+545 Event - Morgott, Northwest of Castle
+546 Event - Morgott, Castle Front
+547 Event - Morgott, East of Saintsbridge
+548 Event - Morgott, Northeast Corner
+549 Event - Morgott, Southwest Mistwood
+550 Event - Morgott, Northwest Mistwood
+551 Event - Morgott, Southeast Rotted Woods
+552 Event - Morgott, Northwest Rotted Woods
+553 Event - Morgott, Southeast Mountaintop
+554 Event - Morgott, North of Crater
+555 Event - Morgott, East of Noklateo Entrance
+556 Event - Morgott, Noklateo Entrance
+560 Event - Maris, Southwest Corner
+561 Event - Maris, West Stormhill Graveyard
+562 Event - Maris, Southeast Lake
+563 Event - Maris, Northwest Lake
+564 Event - Maris, South of Castle
+565 Event - Maris, Northwest of Castle
+566 Event - Maris, Castle Front
+567 Event - Maris, East of Saintsbridge
+568 Event - Maris, Northeast Corner
+569 Event - Maris, Southwest Mistwood
+570 Event - Maris, Northwest Mistwood
+573 Event - Maris, Southeast Mountaintop
+574 Event - Maris, North of Crater
+576 Event - Maris, East of Noklateo Entrance
+577 Event - Maris, Noklateo Entrance
+580 Event - Libra, Southwest Corner
+581 Event - Libra, West Stormhill Graveyard
+582 Event - Libra, Southeast Lake
+583 Event - Libra, Northwest Lake
+584 Event - Libra, South of Castle
+585 Event - Libra, Northwest of Castle
+586 Event - Libra, Castle Front
+587 Event - Libra, East of Saintsbridge
+588 Event - Libra, Northeast Corner
+589 Event - Libra, Southwest Mistwood
+590 Event - Libra, Northwest Mistwood
+591 Event - Libra, Southeast Rotted Woods
+592 Event - Libra, Northwest Rotted Woods
+593 Event - Libra, Southeast Mountaintop
+594 Event - Libra, North of Crater
+595 Event - Libra, East of Noklateo Entrance
+596 Event - Libra, Noklateo Entrance
+710 Event - Scale-Bearing Merchant, Southwest Corner
+711 Event - Scale-Bearing Merchant, Northwest Corner
+712 Event - Scale-Bearing Merchant, South of Castle
+713 Event - Scale-Bearing Merchant, Ruins North of Castle
+715 Event - Scale-Bearing Merchant, Southeast Lakeshore
+716 Event - Scale-Bearing Merchant, Castle Front
+717 Event - Scale-Bearing Merchant, East of Saintsbridge
+718 Event - Scale-Bearing Merchant, Northeast Corner
+601 Evergaol - Stormhill
+602 Evergaol - Northwest of Lake
+603 Evergaol - Murkwater Terminus
+604 Evergaol - Highroad
+605 Evergaol - East of Lake
+606 Evergaol - Northeast Tunnel Entrance
+607 Evergaol - Mistwood
+615 Night Horde - West Lakeshore
+616 Night Horde - Southwest Corner
+617 Night Horde - Lake Southwest Cliffside
+618 Night Horde - South of Stormhill Ruins Bridge
+619 Night Horde - South of Gatefront
+620 Night Horde - Groveside
+621 Night Horde - North of Stormhill Ruins Bridge
+622 Night Horde - West of Warmaster's Shack
+623 Night Horde - West of Stormhill Tunnel Entrance
+624 Night Horde - Northwest Corner, Unknown Attach Point
+625 Night Horde - Northwest Corner Field
+626 Night Horde - East of Warmaster's Shack
+627 Night Horde - Lake
+628 Night Horde - East Lakeshore
+629 Night Horde - Lake South Cliffside
+630 Night Horde - Cavalry Bridge
+631 Night Horde - Hill Southwest of Castle
+632 Night Horde - East of Gatefront
+633 Night Horde - North of Castle, Unknown Attach Point 1
+634 Night Horde - North of Castle, Unknown Attach Point 2
+635 Night Horde - North of Castle, Unknown Attach Point 3
+636 Night Horde - Northeast Stormhill
+637 Night Horde - Stormhill North of Tunnel Entrance
+638 Night Horde - Beneath Saintsbridge
+639 Night Horde - Behind Ruins East of Lake
+640 Night Horde - Tower Northeast of Lake
+641 Night Horde - Southeast of Lake
+642 Night Horde - Castle, Unknown Attach Point 1
+643 Night Horde - Castle, Unknown Attach Point 2
+644 Night Horde - Castle, Unknown Attach Point 3
+645 Night Horde - Beneath Murkwater Ruins Bridge
+646 Night Horde - Northeast of Castle Front
+647 Night Horde - Above Northeast Tunnel Entrance
+648 Night Horde - Southeast of Saintsbridge
+649 Night Horde - West of Summonwater
+650 Night Horde - Cliffside Northeast of Saintsbridge
+651 Night Horde - South of Minor Erdtree
+652 Night Horde - Far Southeast Shore
+653 Night Horde - Southeast Tunnel Entrance
+654 Night Horde - West Mistwood
+655 Night Horde - North of Minor Erdtree
+656 Night Horde - South of Mistwood Evergaol
+657 Night Horde - Below Summonwater Hawk
+658 Night Horde - Third Church Southeast Cliffside
+659 Night Horde - Mistwood Outskirts
+660 Night Horde - Southwest of Summonwater
+661 Night Horde - South of Summonwater
+662 Night Horde - Hill Northwest of Summonwater
+750 Field Boss - Far Southwest of Lake
+753 Field Boss - North of Stormhill Tunnel Entrance
+754 Field Boss - Northwest Stormhill Cliffside
+755 Field Boss - Lake
+756 Field Boss - Castle Rooftop
+757 Arena Boss - Castle Basement
+758 Field Boss - Stormhill Spectral Hawk
+759 Field Boss - North of Murkwater Terminus
+760 Field Boss - East of Murkwater Terminus
+761 Field Boss - Northwest of Summonwater
+762 Field Boss - Mistwood Spectral Hawk
+763 Field Boss - North Mistwood
+800 Extra Night Boss - Southwest Corner
+805 Extra Night Boss - Northwest of Castle
+808 Extra Night Boss - Northeast Corner
+800 Extra Night Boss - Southwest Corner
+801 Extra Night Boss - West Stormhill Graveyard
+802 Extra Night Boss - South Lake
+803 Extra Night Boss - Northwest Lake
+804 Extra Night Boss - South of Castle
+805 Extra Night Boss - Northwest of Castle
+806 Extra Night Boss - Northeast of Lake
+807 Extra Night Boss - East of Saintsbridge
+808 Extra Night Boss - Northeast Corner
+809 Extra Night Boss - Southwest Mistwood
+810 Extra Night Boss - Northwest Mistwood Pond
+811 Extra Night Boss - Southeast Rotted Woods
+812 Extra Night Boss - Northwest Rotted Woods
+813 Extra Night Boss - Southeast Mountaintop
+814 Extra Night Boss - North of Crater
+815 Extra Night Boss - Northwest Corner
+817 Extra Night Boss - Noklateo Entrance

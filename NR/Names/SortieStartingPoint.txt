@@ -1,0 +1,20 @@
+10423600 Far Southwest from Northwest
+10423601 Far Southwest from South
+10423800 Stormhill South of Gate from Northwest
+10423801 Stormhill South of Gate from South
+10423803 West of Warmaster's Shack from West
+10423805 West of Warmaster's Shack from South
+10423900 Above Stormhill Tunnel Entrance from Northwest
+10423902 Above Stormhill Tunnel Entrance from East
+10423911 Above Stormhill Tunnel Entrance from West
+10443700 Southeast of Lake from South
+10443701 Southeast of Lake from Southwest
+10443703 East of Cavalry Bridge from Southeast
+10443704 East of Cavalry Bridge from North
+10443705 East of Cavalry Bridge from West
+10443711 Southeast of Lake from East
+10443900 Northeast of Saintsbridge from Northwest
+10443902 Northeast of Saintsbridge from Northeast
+10453600 Minor Erdtree from Northeast
+10453801 Below Summonwater Hawk from Southeast
+10453900 Below Summonwater Hawk from West
