@@ -40,12 +40,7 @@
       <SortID>2100</SortID>
       <UnkC8>遠見台</UnkC8>
     </Field>
-    <Field Def="u32 eventFlagId5">
-      <DisplayName>アイコンID</DisplayName>
-      <Description>アイコンID</Description>
-      <DisplayFormat>%u</DisplayFormat>
-      <SortID>300</SortID>
-    </Field>
+    <Field Def="u32 eventFlagId5" />
     <Field Def="u8 isAreaIcon:1">
       <DisplayName>範囲アイコンか</DisplayName>
       <Enum>BOOL_CIRCLECROSS_TYPE</Enum>
