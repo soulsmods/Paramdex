@@ -1253,25 +1253,25 @@
 43400600 Mad Pumpkin Head
 43400610 Mad Pumpkin Head
 43401000 Mad Pumpkin Head
-43401010 Mad Pumpkin Head
+43401010 Mad Pumpkin Head (Encampment)
 43401100 Mad Pumpkin Head
 43401110 Mad Pumpkin Head
 43401120 Mad Pumpkin Head (Mine)
 43401600 Mad Pumpkin Head
 43401610 Mad Pumpkin Head
 43408000 Mad Pumpkin Head
-43510000 Godrick Knight
-43510010 Godrick Knight
-43510020 Lordsworn Knight (Fort)
-43510030 Lordsworn Knight (Mountaintop)
-43510040 Lordsworgn Knight (Crater?)
-43510100 Godrick Knight
-43510110 Godrick Knight
-43511100 Godrick Knight
-43511110 Godrick Knight
-43511120 Lordsworn Knight (Mine)
-43512000 Godrick Knight
-43512010 Godrick Knight
+43510000 Lordsworn Captain
+43510010 Lordsworn Captain
+43510020 Lordsworn Captain (Fort)
+43510030 Lordsworn Captain (Mountaintop)
+43510040 Lordsworn Captain (Rotted Woods)
+43510100 Lordsworn Captain
+43510110 Lordsworn Captain
+43511100 Lordsworn Captain
+43511110 Lordsworn Captain
+43511120 Lordsworn Captain (Mine)
+43512000 Lordsworn Captain
+43512010 Lordsworn Captain
 43520000 Cuckoo Knight
 43521000 Cuckoo Knight
 43521100 Cuckoo Knight
@@ -1315,11 +1315,11 @@
 43542010 Redmane Knight (Encampment, in tower)
 43542200 Redmane Knight
 43550000 Mausoleum Knight
-43550010 Mausoleum Knight
+43550010 Mausoleum Knight (Noklateo)
 43550020 Mausoleum Knight (Cathedral)
 43550030 Mausoleum Knight
 43551000 Mausoleum Knight
-43551010 Mausoleum Knight
+43551010 Mausoleum Knight (Noklateo)
 43551020 Mausoleum Knight (Noklateo, Flaming Sword)
 43551100 Mausoleum Knight
 43552000 Mausoleum Knight
@@ -1538,7 +1538,7 @@
 44800200 Miranda Blossom
 44800300 Miranda Blossom
 44800400 Miranda Blossom
-44800410 Miranda Blossom
+44800410 Miranda Blossom (Ruins)
 44810000 Miranda Sprout
 44810010 Miranda Sprout
 44810020 Miranda Sprout (Field Boss)
@@ -1546,7 +1546,7 @@
 44810200 Miranda Sprout
 44810300 Miranda Sprout
 44810400 Miranda Sprout
-44810410 Miranda Sprout
+44810410 Miranda Sprout (Ruins)
 44810830 Miranda Sprout
 44811000 Miranda Sprout
 44811100 Miranda Sprout
