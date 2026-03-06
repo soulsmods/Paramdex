@@ -93,7 +93,7 @@ angle32 | No | No | Single-precision floating point representing an angle
 f64 | No | No | Double-precision floating point
 fixstr | No | Mandatory | Fixed-width Shift-JIS string
 fixstrW | No | Mandatory | Fixed-width UTF-16 string
-dummy8 | Yes | Yes | Byte or array of bytes used for padding
+dummy8 | Yes | Yes | Byte or array of bytes, typically used for padding<br>Either bit size or array length must be specified (but not both)
 
 ## Contributors
 EvanDeadlySins  
