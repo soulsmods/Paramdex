@@ -144,6 +144,8 @@
 7777 Enemy Scaling: Spirit Creatures
 7778 Enemy Scaling: Spirit Creatures
 7779 Enemy Scaling: Spirit Creatures
+7790 Enemy Scaling: Castle Basement
+7791 Enemy Scaling: Castle Rooftop
 7800 Enemy Scaling (Duos): Minimal Threat
 7801 Enemy Scaling (Duos): Minimal Threat
 7802 Enemy Scaling (Duos): Minimal Threat
